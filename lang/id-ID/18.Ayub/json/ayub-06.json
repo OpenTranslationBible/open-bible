@@ -1,212 +1,242 @@
 {
-  "book": "Ayub",
-  "chapter": 6,
-  "verses": [
-    {
-      "verse": 1,
-      "text": ["Kemudian Ayub menjawab, katanya"]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "> \"Sekiranya kesedihanku ditimbang",
-        "> dan malapetakaku diletakkan bersama dalam neraca!"
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "> Karena itu pasti lebih berat daripada pasir di laut;",
-        "> itulah sebabnya perkataanku sembrono."
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "> Anak panah Yang Mahakuasa ada di dalam diriku,",
-        "> rohku meminum racunnya;",
-        "> kengerian dari Tuhan berbaris melawan aku."
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "> Apakah keledai liar meringkik ketika ia memiliki rumput,",
-        "> atau apakah lembu melenguh di atas makanannya?"
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "> Dapatkah makanan hambar dimakan tanpa garam,",
-        "> atau adakah rasa dalam sari mallow?"
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "> Aku menolak menyentuh hal-hal seperti itu;",
-        "> mereka seperti makanan yang menjijikkan bagiku."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "> \"Oh, kiranya permintaanku dapat terpenuhi,",
-        "> bahwa Tuhan akan mengabulkan apa yang aku rindukan,"
-      ]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "> bahwa Tuhan bersedia menghancurkan aku,",
-        "> melepaskan tangan-Nya dan memotongku!"
-      ]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "> Maka aku masih akan memiliki penghiburan ini—",
-        "> sukacitaku dalam kesakitan yang tak kenal henti—",
-        "> bahwa aku tidak menyangkal firman Yang Kudus."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "> Kekuatan apa yang aku miliki, sehingga aku harus berharap?",
-        "> Apa akhirku, sehingga aku harus bersabar?"
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "> Apakah kekuatanku kekuatan batu,",
-        "> atau apakah dagingku terbuat dari perunggu?"
-      ]
-    },
-    {
-      "verse": 13,
-      "text": ["> Adakah bantuan dalam diriku,", "> sekarang setelah keberhasilan telah diusir?"]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "> \"Bagi orang yang putus asa seharusnya ada kebaikan dari temannya,",
-        "> agar dia tidak meninggalkan takut akan Yang Mahakuasa."
-      ]
-    },
-    {
-      "verse": 15,
-      "text": [
-        "> Tetapi saudara-saudaraku telah bertindak curang seperti wadi,",
-        "> seperti aliran yang meluap"
-      ]
-    },
-    {
-      "verse": 16,
-      "text": [
-        "> ketika mereka menjadi gelap oleh es yang mencair",
-        "> dan dipenuhi dengan salju yang mencair,"
-      ]
-    },
-    {
-      "verse": 17,
-      "text": [
-        "> tetapi ketika mereka mengering, mereka lenyap;",
-        "> dalam panas mereka menghilang dari tempatnya."
-      ]
-    },
-    {
-      "verse": 18,
-      "text": ["> Jalan mereka berkelok-kelok;", "> mereka naik ke padang gurun dan hilang."]
-    },
-    {
-      "verse": 19,
-      "text": ["> Kafilah dari Tema melihat,", "> para pengembara dari Syeba berharap pada mereka."]
-    },
-    {
-      "verse": 20,
-      "text": [
-        "> Mereka dipermalukan karena mereka telah percaya;",
-        "> mereka tiba di sana, hanya untuk kecewa."
-      ]
-    },
-    {
-      "verse": 21,
-      "text": [
-        "> Sesungguhnya, kamu sekarang telah menjadi seperti mereka;",
-        "> kamu melihat sesuatu yang menakutkan dan takut."
-      ]
-    },
-    {
-      "verse": 22,
-      "text": [
-        "> Pernahkah aku berkata, 'Berikan aku sesuatu,' atau,",
-        "> 'Tawarkan suap atas namaku dari kekayaanmu,'"
-      ]
-    },
-    {
-      "verse": 23,
-      "text": [
-        "> atau, 'Bebaskan aku dari tangan musuh,'",
-        "> atau, 'Tebus aku dari cengkeraman orang kejam'?"
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 24,
-      "text": ["> \"Ajarkan aku, dan aku akan diam;", "> tunjukkan di mana aku telah salah."]
-    },
-    {
-      "verse": 25,
-      "text": [
-        "> Betapa sulitnya mendengar kata-kata jujur!",
-        "> Tetapi apa yang argumenmu tegakkan?"
-      ]
-    },
-    {
-      "verse": 26,
-      "text": [
-        "> Apakah kamu bermaksud untuk mengoreksi kata-kataku,",
-        "> dan memperlakukan kata-kata orang yang putus asa sebagai angin?"
-      ]
-    },
-    {
-      "verse": 27,
-      "text": ["> Kamu bahkan akan berjudi atas anak yatim", "> dan menawar temanmu."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 28,
-      "text": [
-        "> Tetapi sekarang, tolong lihatlah aku,",
-        "> dan lihat apakah aku berbohong di depanmu."
-      ]
-    },
-    {
-      "verse": 29,
-      "text": [
-        "> Berhentilah, jangan ada ketidakadilan;",
-        "> pertimbangkan kembali, karena integritasku dipertaruhkan."
-      ]
-    },
-    {
-      "verse": 30,
-      "text": ["> Adakah kejahatan di lidahku?", "> Apakah mulutku tidak membedakan malapetaka?"]
-    }
-  ]
+    "book": "Ayub",
+    "chapter": 6,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Kemudian Ayub menjawab, katanya"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> \"Sekiranya kesedihanku ditimbang",
+                "> dan malapetakaku diletakkan bersama dalam neraca!"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Karena itu pasti lebih berat daripada pasir di laut;",
+                "> itulah sebabnya perkataanku sembrono."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Anak panah Yang Mahakuasa ada di dalam diriku,",
+                "> rohku meminum racunnya;",
+                "> kengerian dari Tuhan berbaris melawan aku."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Apakah keledai liar meringkik ketika ia memiliki rumput,",
+                "> atau apakah lembu melenguh di atas makanannya?"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Dapatkah makanan hambar dimakan tanpa garam,",
+                "> atau adakah rasa dalam sari mallow?"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Aku menolak menyentuh hal-hal seperti itu;",
+                "> mereka seperti makanan yang menjijikkan bagiku."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> \"Oh, kiranya permintaanku dapat terpenuhi,",
+                "> bahwa Tuhan akan mengabulkan apa yang aku rindukan,"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> bahwa Tuhan bersedia menghancurkan aku,",
+                "> melepaskan tangan-Nya dan memotongku!"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Maka aku masih akan memiliki penghiburan ini—",
+                "> sukacitaku dalam kesakitan yang tak kenal henti—",
+                "> bahwa aku tidak menyangkal firman Yang Kudus."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Kekuatan apa yang aku miliki, sehingga aku harus berharap?",
+                "> Apa akhirku, sehingga aku harus bersabar?"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Apakah kekuatanku kekuatan batu,",
+                "> atau apakah dagingku terbuat dari perunggu?"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Adakah bantuan dalam diriku,",
+                "> sekarang setelah keberhasilan telah diusir?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> \"Bagi orang yang putus asa seharusnya ada kebaikan dari temannya,",
+                "> agar dia tidak meninggalkan takut akan Yang Mahakuasa."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Tetapi saudara-saudaraku telah bertindak curang seperti wadi,",
+                "> seperti aliran yang meluap"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> ketika mereka menjadi gelap oleh es yang mencair",
+                "> dan dipenuhi dengan salju yang mencair,"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> tetapi ketika mereka mengering, mereka lenyap;",
+                "> dalam panas mereka menghilang dari tempatnya."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Jalan mereka berkelok-kelok;",
+                "> mereka naik ke padang gurun dan hilang."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Kafilah dari Tema melihat,",
+                "> para pengembara dari Syeba berharap pada mereka."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> Mereka dipermalukan karena mereka telah percaya;",
+                "> mereka tiba di sana, hanya untuk kecewa."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> Sesungguhnya, kamu sekarang telah menjadi seperti mereka;",
+                "> kamu melihat sesuatu yang menakutkan dan takut."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> Pernahkah aku berkata, 'Berikan aku sesuatu,' atau,",
+                "> 'Tawarkan suap atas namaku dari kekayaanmu,'"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> atau, 'Bebaskan aku dari tangan musuh,'",
+                "> atau, 'Tebus aku dari cengkeraman orang kejam'?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> \"Ajarkan aku, dan aku akan diam;",
+                "> tunjukkan di mana aku telah salah."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> Betapa sulitnya mendengar kata-kata jujur!",
+                "> Tetapi apa yang argumenmu tegakkan?"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> Apakah kamu bermaksud untuk mengoreksi kata-kataku,",
+                "> dan memperlakukan kata-kata orang yang putus asa sebagai angin?"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> Kamu bahkan akan berjudi atas anak yatim",
+                "> dan menawar temanmu."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> Tetapi sekarang, tolong lihatlah aku,",
+                "> dan lihat apakah aku berbohong di depanmu."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "> Berhentilah, jangan ada ketidakadilan;",
+                "> pertimbangkan kembali, karena integritasku dipertaruhkan."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> Adakah kejahatan di lidahku?",
+                "> Apakah mulutku tidak membedakan malapetaka?"
+            ]
+        }
+    ]
 }

@@ -1,182 +1,198 @@
 {
-  "book": "Mazmur",
-  "chapter": 139,
-  "verses": [
-    {
-      "text": ["Untuk pemimpin musik. Mazmur Daud."]
-    },
-    {
-      "verse": 1,
-      "text": ["> Tuhan, Engkau telah menyelidiki aku dan mengenal aku."]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "> Engkau tahu ketika aku duduk dan ketika aku bangun;",
-        "> Engkau memahami pikiranku dari jauh."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "> Engkau mengamati jalanku dan saat aku berbaring,",
-        "> Dan Engkau mengenal semua caraku."
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "> Bahkan sebelum ada kata di lidahku,",
-        "> Lihatlah, Tuhan, Engkau sudah mengetahuinya sepenuhnya."
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "> Engkau mengurung aku, Tuhan, di belakang dan di depan,",
-        "> Dan meletakkan tangan-Mu atas diriku."
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "> Pengetahuan seperti itu melampaui pemahamanku;",
-        "> Itu begitu tinggi, aku tidak dapat mencapainya."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "> Ke mana aku dapat pergi dari Roh-Mu?",
-        "> Atau ke mana aku dapat melarikan diri dari hadirat-Mu?"
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "> Jika aku naik ke surga, Engkau ada di sana;",
-        "> Jika aku berbaring di kedalaman, Engkau ada di sana."
-      ]
-    },
-    {
-      "verse": 9,
-      "text": ["> Jika aku mengambil sayap fajar,", "> Dan tinggal di bagian terjauh dari laut,"]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "> Bahkan di sana tangan-Mu akan menuntun aku,",
-        "> Dan tangan kanan-Mu akan memegang aku erat."
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "> Jika aku berkata, “Pasti kegelapan akan menutupi aku,",
-        "> Dan terang di sekitarku akan menjadi malam,”"
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "> Bahkan kegelapan tidak gelap bagi-Mu,",
-        "> Dan malam bersinar seperti siang.",
-        "> Kegelapan dan terang sama-sama bagi-Mu."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 13,
-      "text": ["> Sebab Engkau membentuk batinku;", "> Engkau menenun aku dalam rahim ibuku."]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "> Aku akan bersyukur kepada-Mu, karena aku dijadikan dengan dahsyat dan ajaib;",
-        "> Ajaiblah pekerjaan-Mu,",
-        "> Dan jiwaku mengetahuinya dengan sangat baik."
-      ]
-    },
-    {
-      "verse": 15,
-      "text": [
-        "> Rangkaku tidak tersembunyi dari-Mu",
-        "> Ketika aku dijadikan di tempat yang tersembunyi,",
-        "> Dan dibentuk dengan terampil di kedalaman bumi."
-      ]
-    },
-    {
-      "verse": 16,
-      "text": [
-        "> Mata-Mu melihat tubuhku yang belum terbentuk;",
-        "> Dan dalam kitab-Mu tertulis",
-        "> Semua hari yang direncanakan untukku,",
-        "> Ketika tidak satupun dari mereka belum ada."
-      ]
-    },
-    {
-      "verse": 17,
-      "text": [
-        "> Betapa berharganya pikiran-Mu bagiku, ya Tuhan!",
-        "> Betapa luasnya jumlah mereka!"
-      ]
-    },
-    {
-      "verse": 18,
-      "text": [
-        "> Jika aku menghitung mereka, mereka akan lebih banyak dari butiran pasir.",
-        "> Ketika aku bangun, aku masih bersama-Mu."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 19,
-      "text": [
-        "> Sekiranya Engkau membunuh orang fasik, ya Tuhan;",
-        "> Pergilah dariku, kamu orang-orang penumpah darah."
-      ]
-    },
-    {
-      "verse": 20,
-      "text": [
-        "> Karena mereka berbicara melawan Engkau dengan jahat,",
-        "> Dan musuh-musuh-Mu menyalahgunakan nama-Mu."
-      ]
-    },
-    {
-      "verse": 21,
-      "text": [
-        "> Bukankah aku membenci mereka yang membenci Engkau, Tuhan?",
-        "> Dan bukankah aku membenci mereka yang bangkit melawan Engkau?"
-      ]
-    },
-    {
-      "verse": 22,
-      "text": [
-        "> Aku membenci mereka dengan kebencian yang sempurna;",
-        "> Mereka telah menjadi musuhku."
-      ]
-    },
-    {
-      "verse": 23,
-      "text": [
-        "> Selidikilah aku, ya Tuhan, dan kenalilah hatiku;",
-        "> Ujilah aku dan kenalilah pikiran-pikiranku yang gelisah;"
-      ]
-    },
-    {
-      "verse": 24,
-      "text": [
-        "> Dan lihatlah jika ada jalan yang menyakitkan dalam diriku,",
-        "> Dan tuntunlah aku di jalan yang kekal."
-      ]
-    }
-  ]
+    "book": "Mazmur",
+    "chapter": 139,
+    "verses": [
+        {
+            "text": [
+                "Untuk pemimpin musik. Mazmur Daud."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Tuhan, Engkau telah menyelidiki aku dan mengenal aku."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Engkau tahu ketika aku duduk dan ketika aku bangun;",
+                "> Engkau memahami pikiranku dari jauh."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Engkau mengamati jalanku dan saat aku berbaring,",
+                "> Dan Engkau mengenal semua caraku."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Bahkan sebelum ada kata di lidahku,",
+                "> Lihatlah, Tuhan, Engkau sudah mengetahuinya sepenuhnya."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Engkau mengurung aku, Tuhan, di belakang dan di depan,",
+                "> Dan meletakkan tangan-Mu atas diriku."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Pengetahuan seperti itu melampaui pemahamanku;",
+                "> Itu begitu tinggi, aku tidak dapat mencapainya."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Ke mana aku dapat pergi dari Roh-Mu?",
+                "> Atau ke mana aku dapat melarikan diri dari hadirat-Mu?"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Jika aku naik ke surga, Engkau ada di sana;",
+                "> Jika aku berbaring di kedalaman, Engkau ada di sana."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Jika aku mengambil sayap fajar,",
+                "> Dan tinggal di bagian terjauh dari laut,"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Bahkan di sana tangan-Mu akan menuntun aku,",
+                "> Dan tangan kanan-Mu akan memegang aku erat."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Jika aku berkata, “Pasti kegelapan akan menutupi aku,",
+                "> Dan terang di sekitarku akan menjadi malam,”"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Bahkan kegelapan tidak gelap bagi-Mu,",
+                "> Dan malam bersinar seperti siang.",
+                "> Kegelapan dan terang sama-sama bagi-Mu."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Sebab Engkau membentuk batinku;",
+                "> Engkau menenun aku dalam rahim ibuku."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Aku akan bersyukur kepada-Mu, karena aku dijadikan dengan dahsyat dan ajaib;",
+                "> Ajaiblah pekerjaan-Mu,",
+                "> Dan jiwaku mengetahuinya dengan sangat baik."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Rangkaku tidak tersembunyi dari-Mu",
+                "> Ketika aku dijadikan di tempat yang tersembunyi,",
+                "> Dan dibentuk dengan terampil di kedalaman bumi."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Mata-Mu melihat tubuhku yang belum terbentuk;",
+                "> Dan dalam kitab-Mu tertulis",
+                "> Semua hari yang direncanakan untukku,",
+                "> Ketika tidak satupun dari mereka belum ada."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Betapa berharganya pikiran-Mu bagiku, ya Tuhan!",
+                "> Betapa luasnya jumlah mereka!"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Jika aku menghitung mereka, mereka akan lebih banyak dari butiran pasir.",
+                "> Ketika aku bangun, aku masih bersama-Mu."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Sekiranya Engkau membunuh orang fasik, ya Tuhan;",
+                "> Pergilah dariku, kamu orang-orang penumpah darah."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> Karena mereka berbicara melawan Engkau dengan jahat,",
+                "> Dan musuh-musuh-Mu menyalahgunakan nama-Mu."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> Bukankah aku membenci mereka yang membenci Engkau, Tuhan?",
+                "> Dan bukankah aku membenci mereka yang bangkit melawan Engkau?"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> Aku membenci mereka dengan kebencian yang sempurna;",
+                "> Mereka telah menjadi musuhku."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> Selidikilah aku, ya Tuhan, dan kenalilah hatiku;",
+                "> Ujilah aku dan kenalilah pikiran-pikiranku yang gelisah;"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Dan lihatlah jika ada jalan yang menyakitkan dalam diriku,",
+                "> Dan tuntunlah aku di jalan yang kekal."
+            ]
+        }
+    ]
 }

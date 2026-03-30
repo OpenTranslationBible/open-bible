@@ -1,0 +1,61 @@
+{
+    "book": "Salmernes Bog",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> Salig er den mand, som ikke vandrer i de ugudeliges råd,",
+                "> Ej heller står på syndernes vej,",
+                "> Ej heller sidder i spotternes sæde!"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Snarere finder han glæde i Herrens Lov,",
+                "> Og han grunder på Hans Lov både dag og nat."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Han er som et træ plantet ved vandløb,",
+                "> Som bærer sin frugt i sin tid,",
+                "> Og dets løv forbliver grønt;",
+                "> Og i alt, hvad han foretager sig, trives han."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> De ugudelige er ikke sådan,",
+                "> Men de ligner avner, som vinden blæser bort."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Derfor vil de ugudelige ikke bestå i dommen,",
+                "> Ej heller vil syndere findes i de retfærdiges forsamling."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> For Herren kender de retfærdiges vej,",
+                "> Men de ugudeliges vej fører til undergang."
+            ]
+        }
+    ]
+}

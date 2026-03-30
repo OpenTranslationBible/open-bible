@@ -1,0 +1,435 @@
+{
+    "book": "1. Aikakirja",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Aadam, Seet ja Eenos,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Kenan, Mahalalel ja Jered,"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Hanok, Metusalah ja Lemek,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Nooa, sekä hänen poikansa:",
+                "> Seem, Haam ja Jaafet."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Jaafetin pojat olivat:",
+                "> Gomer, Magog, Maadai, Jaavan, Tuubal, Mesek ja Tiras."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Gomerin pojat olivat:",
+                "> Askenas, Diifat ja Toogarma."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Jaavanin jälkeläisiä olivat:",
+                "> Elisah, Tarsis, Kittim ja Rodanim."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Haamin pojat olivat:",
+                "> Kuus, Misraim, Puut ja Kanaan."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Kuusin pojat olivat:",
+                "> Seba, Havila, Sabta, Raema ja Sabteka.",
+                "> Ja Raeman pojat olivat:",
+                "> Seba ja Dedan."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Kuus oli Nimrodin isä;",
+                "> hänestä tuli mahtava henkilö maan päällä."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Misraim oli isä",
+                "> Luudille, Anamille, Lehabille, Naftuhille,"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Patrusille, Kasluhille (joista filistealaiset polveutuivat) ja Kaftorille."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Kanaan oli isä",
+                "> Siidonille, hänen esikoiselleen, ja Heetille,"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "sekä jebusilaisille, amorilaisille ja girgasilaisille,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "ja hivviläisille, arkilaisille ja siiniläisille,"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "ja arvadilaisille, semarilaisille ja hamatilaisille."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Seemin pojat olivat:",
+                "> Eelam, Assur, Arpaksad, Luud, Aram,",
+                "> Aramin pojat olivat",
+                "> Uus, Huul, Geter ja Mesek."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Arpaksad oli Selahin isä,",
+                "ja Selah oli Eeberin isä."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Eeberillä oli kaksi poikaa:",
+                "> toisen nimi oli Peleg, sillä hänen aikanaan maa jaettiin;",
+                "> ja hänen veljensä nimi oli Joktan."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Joktanin jälkeläisiä olivat:",
+                "> Almodad, Selef, Hasarmavet, Jerah,"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Hadoram, Usal ja Dikla,"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Ebal, Abimael ja Seba,"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Ofir, Havila ja Joobab.",
+                "Nämä olivat kaikki Joktanin pojat."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Seem, Arpaksad ja Selah,"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> Eeber, Peleg ja Reu,"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> Serug, Naahor ja Terah,"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> ja Abram, joka tunnetaan myös nimellä Abraham."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> Abrahamin pojat olivat:",
+                "> nimeltään Iisak ja Ismael."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Nämä ovat heidän sukupolvensa:",
+                "> Ismaelin esikoinen oli Nebajot, sitten tulivat Keedar, Adbeel ja Mibsam,"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Misma, Duma, Massa, Hadad ja Tema,"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Jetur, Naafis ja Kedema.",
+                "Nämä olivat Ismaelin jälkeläiset."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Keturahin, Abrahamin sivuvaimon, pojat, jotka hän synnytti:",
+                "> Simran, Joksan, Medan, Midian, Jisbak ja Suuah.",
+                "> Joksanin pojat olivat:",
+                "> Seba ja Dedan."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Midianin pojat olivat:",
+                "> Eefa, Eefer, Hanok, Abida ja Eldaa.",
+                "> Nämä olivat kaikki Keturahin pojat."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Abraham oli Iisakin isä.",
+                "> Iisakin pojat olivat:",
+                "> Esau ja Israel."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Esauin pojat olivat:",
+                "> Elifas, Reuel ja Jeus; Jaelam ja Koorah."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Elifasin pojat olivat:",
+                "> Teeman, Omar, Sefi, Gaetam, Kenes, Timna ja Amalek."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Reuelin pojat olivat:",
+                "> Nahat ja Serah; Samma ja Missa."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Seirin pojat olivat:",
+                "> Lotan, Sobal ja Siibon; Ana, Dison, Eser ja Disan."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Lotanin pojat olivat:",
+                "> Hori ja Homam; ja Timna oli Lotanin sisar."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Sobalin pojat olivat:",
+                "> Aljan, Manahat, Eebal, Sefi ja Oonam.",
+                "> Ja Siibonin pojat olivat:",
+                "> Aija ja Ana."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Anan poika oli:",
+                "> Dison.",
+                "> Ja Disonin pojat olivat:",
+                "> Hamran, Esban, Jitran ja Keran."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Eserin pojat olivat:",
+                "> Bilhan, Saavan ja Jaakan.",
+                "> Disanin pojat olivat:",
+                "> Uus ja Aran."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Nämä ovat kuninkaat, jotka hallitsivat Edomin maassa ennen kuin yksikään kuningas hallitsi israelilaisia:",
+                "Beor'in poika Bela, ja hänen kaupunkinsa nimi oli Dinhaba."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Belan kuoltua, Serahin poika Joobab Bosrasta seurasi häntä kuninkaana."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Joobabin kuoltua, Huusam Temanilaisten maasta nousi valtaistuimelle."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Kun Huusam kuoli, Bedadin poika Hadad, joka voitti Midianin Moabin alueella,",
+                "tuli kuninkaaksi; hänen kaupunkinsa nimi oli Avit."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "Hadadin kuoltua, Samla Masrekasta nousi valtaistuimelle."
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "Samlan kuoltua, Saulus Rehobotista joen varrelta seurasi häntä kuninkaana."
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "Sauluksen kuoltua, Akborin poika Baal-hanan nousi valtaistuimelle."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "Kun Baal-hanan kuoli, Hadad tuli kuninkaaksi;",
+                "hänen kaupunkinsa nimi oli Pai,",
+                "ja hänen vaimonsa oli Mehetabel, Matredin tytär, Mesahabin tytär."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "Sitten Hadad kuoli.",
+                "Ja Edomin päälliköt olivat:",
+                "päällikkö Timna, päällikkö Alja ja päällikkö Jetet,"
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "päällikkö Oholibama, päällikkö Ela ja päällikkö Pinon,"
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "päällikkö Kenes, päällikkö Teeman ja päällikkö Mibsar,"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "päällikkö Magdiel ja päällikkö Iram.",
+                "Nämä olivat Edomin johtajat."
+            ]
+        }
+    ]
+}

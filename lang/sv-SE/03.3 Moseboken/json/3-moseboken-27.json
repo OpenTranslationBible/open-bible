@@ -1,0 +1,210 @@
+{
+    "book": "3 Mosebok",
+    "chapter": 27,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Herren talade åter till Mose och sade:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "\"Tala till israeliterna och säg till dem: 'När någon avger ett särskilt löfte att helga en person åt Herren, skall de värderas enligt din bedömning."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Om bedömningen gäller en man mellan tjugo och sextio år, skall värdet vara femtio siklar silver, efter helgedomssikelns vikt."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Om det gäller en kvinna, skall värdet vara trettio siklar."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "För en person mellan fem och tjugo år gammal, skall värdet för en man vara tjugo siklar, och för en kvinna tio siklar."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "För en person från en månad till fem år gammal, skall värdet vara fem siklar silver för en man, och tre siklar silver för en kvinna."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "För en person sextio år eller äldre, om det är en man, skall värdet vara femton siklar, och för en kvinna tio siklar."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Om den som avger löftet är för fattig för att betala det angivna beloppet, skall de föras till prästen, som skall bedöma dem efter vad de har råd med."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "\"'Om det som lovas är ett djur som kan offras till Herren, skall det betraktas som heligt."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "De får inte byta ut eller ersätta det, gott för dåligt eller dåligt för gott; om de ersätter ett djur med ett annat, skall både det ursprungliga och ersättningen bli heliga."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Om det lovade djuret är ceremoniellt orent och inte godtagbart som ett offer till Herren, måste det presenteras för prästen."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Prästen skall bedöma dess kvalitet, vare sig god eller dålig; vilket värde prästen än sätter, det är vad det skall vara."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Om ägaren önskar lösa in djuret, måste de lägga till en femtedel till dess värde."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "\"'Om någon helgar sitt hus som heligt åt Herren, skall prästen bedöma dess kvalitet, vare sig god eller dålig. Värdet som prästen sätter skall gälla."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Om den som helgar huset önskar lösa in det, måste de lägga till en femtedel till dess värde, och det skall bli deras igen."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "\"'Om någon helgar en del av sin familjemark åt Herren, skall dess värde sättas enligt mängden säd som krävs för den—femtio siklar silver till en homer korn."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Om de helgar fältet under jubelåret, skall det satta värdet gälla."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Om de helgar fältet efter jubelåret, skall prästen beräkna värdet enligt antalet år kvar till nästa jubelår, och värdet skall minskas."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Om den som helgar fältet önskar lösa in det, måste de lägga till en femtedel till dess värde, och det skall bli deras igen."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Om de inte löser in fältet, eller om det har sålts till någon annan, kan det inte lösas in."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "När fältet friges under jubelåret, skall det vara heligt åt Herren, som ett fält helgat åt Honom; det skall bli prästens egendom."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "\"'Om någon helgar åt Herren ett fält de har köpt, vilket inte är en del av deras familjemark,"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "skall prästen bedöma dess värde fram till jubelåret, och ägaren måste betala värdet den dagen som något heligt åt Herren."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Under jubelåret skall fältet återgå till den person från vilken det köptes, till vilken marken ursprungligen tillhörde."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Varje värde skall sättas enligt helgedomssikelns vikt, som består av tjugo gera."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "\"'Ingen får helga förstfödda av ett djur, eftersom förstfödda redan tillhör Herren; vare sig det är oxe eller får, är det Herrens."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Om det är ett av de orena djuren, kan det lösas in till dess satta värde plus en femtedel; om det inte löses in, skall det säljas till dess satta värde."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "\"'Ingenting som en person äger och helgar åt Herren—vare sig människa, djur eller familjemark—får säljas eller lösas in; allt som så helgas är allra heligast åt Herren."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Ingen person som är helgad till förstörelse får lösas; de måste dödas."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "\"'En tiondel av all avkastning från landet, vare sig säd från jorden eller frukt från träden, är helgat åt Herren; det är heligt för Honom."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Om någon önskar lösa in någon del av sin tionde, måste de lägga till en femtedel till dess värde."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Varje tionde djur av hjorden och flocken, vad som än passerar under herdens stav, skall vara heligt åt Herren."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Ingen får välja mellan gott och dåligt eller göra någon ersättning. Om en ersättning görs, skall både det ursprungliga och ersättningen bli heliga och kan inte lösas in.'”"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Detta är de instruktioner Herren gav Mose för israeliterna på berget Sinai."
+            ]
+        }
+    ]
+}

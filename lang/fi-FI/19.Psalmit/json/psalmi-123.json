@@ -1,0 +1,47 @@
+{
+    "book": "Psalmit",
+    "chapter": 123,
+    "verses": [
+        {
+            "text": [
+                "Matkalaulu."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Sinulle minä olen nostanut silmäni,",
+                "> Sinä, joka olet valtaistuimella taivaissa!"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Katso, niin kuin palvelijoiden silmät katsovat heidän herransa käteen,",
+                "> Ja niin kuin palvelijattaren silmät katsovat emäntänsä käteen,",
+                "> Niin meidän silmämme katsovat Herraan, meidän Jumalaamme,",
+                "> Kunnes Hän osoittaa meille suosiotaan."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Osoita meille laupeutesi, Herra, osoita meille laupeutesi,",
+                "> Sillä me olemme kärsineet ylenpalttisesti halveksuntaa."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Sielumme on kärsinyt ylenpalttisesti",
+                "> Niiden pilkkaa, jotka ovat huolettomia,",
+                "> Ja ylpeiden halveksuntaa."
+            ]
+        }
+    ]
+}

@@ -1,92 +1,96 @@
 {
-  "book": "Yehezkiel",
-  "chapter": 35,
-  "verses": [
-    {
-      "verse": 1,
-      "text": ["Firman Tuhan datang kepadaku:"]
-    },
-    {
-      "verse": 2,
-      "text": ["\"Hai anak manusia, arahkan dirimu kepada Gunung Seir dan bernubuatlah melawannya,"]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "dan katakanlah: 'Beginilah firman Tuhan Tuhan: Lihatlah, Aku melawanmu, Gunung Seir, dan Aku akan mengulurkan tangan-Ku melawanmu dan menjadikanmu tempat yang tandus."
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "Aku akan menjadikan kota-kotamu menjadi reruntuhan, dan engkau akan menjadi tempat yang tandus. Maka engkau akan mengetahui bahwa Akulah Tuhan."
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "Karena engkau telah memendam permusuhan kuno dan menyerahkan orang Israel kepada pedang pada saat malapetaka mereka, ketika hukuman mereka mencapai puncaknya,"
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "oleh karena itu, demi Aku yang hidup, demikianlah firman Tuhan Tuhan, Aku akan menjatuhkan hukuman darah kepadamu, dan darah akan mengejarmu. Karena engkau tidak membenci pertumpahan darah, maka darah akan mengejarmu."
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "Aku akan menjadikan Gunung Seir tempat yang tandus dan memutuskan dari padanya semua yang lewat dan kembali."
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "Aku akan memenuhi gunung-gunungmu dengan orang-orang yang terbunuh; mereka yang dibunuh oleh pedang akan jatuh di bukit-bukitmu, di lembah-lembahmu, dan di semua jurangmu."
-      ]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "Aku akan menjadikan engkau tempat yang tandus selamanya, dan kota-kotamu tidak akan dihuni. Maka engkau akan mengetahui bahwa Akulah Tuhan."
-      ]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "Karena engkau telah berkata, \"Dua bangsa ini dan dua negeri ini akan menjadi milik kita, dan kita akan memilikinya,\" meskipun Tuhan ada di sana,"
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "oleh karena itu, demi Aku yang hidup, demikianlah firman Tuhan Tuhan, Aku akan memperlakukan engkau sesuai dengan amarah dan iri hati yang engkau tunjukkan dalam kebencianmu terhadap mereka, dan Aku akan menyatakan diri-Ku di antara mereka ketika Aku menghakimimu."
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "Maka engkau akan mengetahui bahwa Aku, Tuhan, telah mendengar semua hinaan yang engkau ucapkan terhadap gunung-gunung Israel, dengan berkata, \"Mereka telah menjadi tandus dan diberikan kepada kita untuk dimakan.\""
-      ]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "Engkau telah berbicara dengan sombong melawan Aku dan memperbanyak kata-katamu melawan Aku; Aku telah mendengarnya."
-      ]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "Beginilah firman Tuhan Tuhan: Ketika seluruh bumi bersukacita, Aku akan menjadikan engkau tempat yang tandus."
-      ]
-    },
-    {
-      "verse": 15,
-      "text": [
-        "Seperti engkau bersukacita ketika warisan kaum Israel menjadi tandus, demikianlah Aku akan berbuat kepadamu. Engkau akan menjadi tempat yang tandus, Gunung Seir, dan seluruh Edom, semuanya. Maka mereka akan mengetahui bahwa Akulah Tuhan.'\""
-      ]
-    }
-  ]
+    "book": "Yehezkiel",
+    "chapter": 35,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Firman Tuhan datang kepadaku:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "\"Hai anak manusia, arahkan dirimu kepada Gunung Seir dan bernubuatlah melawannya,"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "dan katakanlah: 'Beginilah firman Tuhan Tuhan: Lihatlah, Aku melawanmu, Gunung Seir, dan Aku akan mengulurkan tangan-Ku melawanmu dan menjadikanmu tempat yang tandus."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Aku akan menjadikan kota-kotamu menjadi reruntuhan, dan engkau akan menjadi tempat yang tandus. Maka engkau akan mengetahui bahwa Akulah Tuhan."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Karena engkau telah memendam permusuhan kuno dan menyerahkan orang Israel kepada pedang pada saat malapetaka mereka, ketika hukuman mereka mencapai puncaknya,"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "oleh karena itu, demi Aku yang hidup, demikianlah firman Tuhan Tuhan, Aku akan menjatuhkan hukuman darah kepadamu, dan darah akan mengejarmu. Karena engkau tidak membenci pertumpahan darah, maka darah akan mengejarmu."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Aku akan menjadikan Gunung Seir tempat yang tandus dan memutuskan dari padanya semua yang lewat dan kembali."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Aku akan memenuhi gunung-gunungmu dengan orang-orang yang terbunuh; mereka yang dibunuh oleh pedang akan jatuh di bukit-bukitmu, di lembah-lembahmu, dan di semua jurangmu."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Aku akan menjadikan engkau tempat yang tandus selamanya, dan kota-kotamu tidak akan dihuni. Maka engkau akan mengetahui bahwa Akulah Tuhan."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Karena engkau telah berkata, \"Dua bangsa ini dan dua negeri ini akan menjadi milik kita, dan kita akan memilikinya,\" meskipun Tuhan ada di sana,"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "oleh karena itu, demi Aku yang hidup, demikianlah firman Tuhan Tuhan, Aku akan memperlakukan engkau sesuai dengan amarah dan iri hati yang engkau tunjukkan dalam kebencianmu terhadap mereka, dan Aku akan menyatakan diri-Ku di antara mereka ketika Aku menghakimimu."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Maka engkau akan mengetahui bahwa Aku, Tuhan, telah mendengar semua hinaan yang engkau ucapkan terhadap gunung-gunung Israel, dengan berkata, \"Mereka telah menjadi tandus dan diberikan kepada kita untuk dimakan.\""
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Engkau telah berbicara dengan sombong melawan Aku dan memperbanyak kata-katamu melawan Aku; Aku telah mendengarnya."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Beginilah firman Tuhan Tuhan: Ketika seluruh bumi bersukacita, Aku akan menjadikan engkau tempat yang tandus."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Seperti engkau bersukacita ketika warisan kaum Israel menjadi tandus, demikianlah Aku akan berbuat kepadamu. Engkau akan menjadi tempat yang tandus, Gunung Seir, dan seluruh Edom, semuanya. Maka mereka akan mengetahui bahwa Akulah Tuhan.'\""
+            ]
+        }
+    ]
 }

@@ -1,0 +1,360 @@
+{
+    "book": "3. Mósebók",
+    "chapter": 13,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Drottinn talaði við Móse og sagði:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "„Þegar einhver hefur bólgu, hrúður eða bjart blett á húð líkamans, og það verður möguleg sýking af holdsveiki, þá skal hann færður til Arons prests eða til eins af sonum hans sem eru prestar."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Presturinn skal skoða sýkta svæðið á húðinni, og ef hárið í sýkingunni hefur orðið hvítt og sýkingin virðist vera dýpri en húðin, þá er það holdsveiki. Þegar presturinn skoðar þá, skal hann lýsa þá óhreina."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Ef bjarti bletturinn er hvítur á húðinni og virðist ekki vera dýpri en húðin, og hárið hefur ekki orðið hvítt, skal presturinn einangra einstaklinginn í sjö daga."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Á sjöunda degi skal presturinn skoða þá, og ef sýkingin hefur ekki breyst og ekki breiðst út á húðinni, skal presturinn einangra þá í aðra sjö daga."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Presturinn skal skoða þá aftur á sjöunda degi, og ef sýkingin hefur fölnað og ekki breiðst út, skal presturinn lýsa þá hreina; það er aðeins útbrot. Þeir skulu þvo föt sín og verða hreinir."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "En ef útbrotið breiðist út á húðinni eftir að þeir hafa sýnt sig prestinum til hreinsunar, skulu þeir koma aftur fyrir prestinn."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Presturinn skal skoða þá, og ef útbrotið hefur breiðst út, skal hann lýsa þá óhreina; það er holdsveiki."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "„Þegar einhver hefur sýkingu af holdsveiki, skal hann færður til prestsins."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Presturinn skal skoða þá, og ef það er hvít bólga á húðinni sem hefur gert hárið hvítt, og það er hrátt hold í bólgunni,"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "þá er það langvinn holdsveiki á húðinni, og presturinn skal lýsa þá óhreina. Þeir þurfa ekki að vera einangraðir, því þeir eru þegar óhreinir."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Ef holdsveikin breiðist út yfir húðina og þekur allan líkamann frá höfði til fóta, eins langt og presturinn getur séð,"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "skal presturinn skoða þá, og ef holdsveikin hefur þakið allan líkamann, skal hann lýsa þá hreina. Þar sem það hefur allt orðið hvítt, eru þeir hreinir."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "En hvenær sem hrátt hold birtist á þeim, skulu þeir vera óhreinir."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Þegar presturinn sér hrátt hold, skal hann lýsa þá óhreina; hráa holdið er óhreint, það er holdsveiki."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Ef hráa holdið breytist og verður hvítt, skulu þeir koma fyrir prestinn."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Presturinn skal skoða þá, og ef sýkta svæðið hefur orðið hvítt, skal presturinn lýsa þá hreina; þeir eru hreinir."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "„Þegar það er kýli á húðinni og það grær,"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "og á stað kýlisins er hvít bólga eða rauðhvítur bjartur blettur, skulu þeir koma fyrir prestinn."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Presturinn skal skoða það, og ef það virðist vera dýpra en húðin og hárið hefur orðið hvítt, skal presturinn lýsa þá óhreina; það er holdsveiki sem hefur brotist út í kýlinu."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "En ef presturinn skoðar það og það er ekkert hvítt hár og það er ekki dýpra en húðin og er fölnað, skal presturinn einangra þá í sjö daga."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Ef það breiðist út á húðinni, skal presturinn lýsa þá óhreina; það er sýking."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "En ef bjarti bletturinn helst óbreyttur og hefur ekki breiðst út, er það aðeins ör kýlisins, og presturinn skal lýsa þá hreina."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "„Þegar það er bruni á húðinni og hráa holdið í brunanum verður bjartur blettur, rauðhvítur eða hvítur,"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "skal presturinn skoða blettinn, og ef hárið í bjarta blettinum hefur orðið hvítt og það virðist dýpra en húðin, er það holdsveiki sem hefur brotist út í brunanum. Presturinn skal lýsa þá óhreina; það er sýking af holdsveiki."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "En ef presturinn skoðar það og það er ekkert hvítt hár og það er ekki dýpra en húðin og er dimmt, skal presturinn einangra þá í sjö daga."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Á sjöunda degi skal presturinn skoða þá, og ef það breiðist út á húðinni, skal presturinn lýsa þá óhreina; það er sýking af holdsveiki."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "En ef bjarti bletturinn helst óbreyttur og hefur ekki breiðst út á húðinni og er dimmur, er það bólga frá brunanum, og presturinn skal lýsa þá hreina; það er aðeins ör brunanum."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "„Ef karl eða kona hefur sýkingu á höfði eða á skeggi,"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "skal presturinn skoða sýkinguna, og ef hún virðist dýpri en húðin og það er þunnt gulbrúnt hár, skal presturinn lýsa þá óhreina; það er hreistur, það er holdsveiki á höfði eða skeggi."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "En ef presturinn skoðar hreistraða sýkinguna og hún virðist ekki dýpri en húðin og það er ekkert svart hár, skal presturinn einangra þá í sjö daga."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Á sjöunda degi skal presturinn skoða sýkinguna, og ef hreisturinn hefur ekki breiðst út og ekkert gulbrúnt hár hefur vaxið, og það virðist ekki dýpra en húðin,"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "þá skulu þeir raka sig, nema á sýkta svæðinu, og presturinn skal einangra þá í aðra sjö daga."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Á sjöunda degi skal presturinn skoða hreisturinn, og ef hann hefur ekki breiðst út og virðist ekki dýpra en húðin, skal presturinn lýsa þá hreina. Þeir skulu þvo föt sín og verða hreinir."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "En ef hreisturinn breiðist út á húðinni eftir að þeir eru lýstir hreinir,"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "skal presturinn skoða þá, og ef hreisturinn hefur breiðst út, þarf hann ekki að leita að gulbrúnu hári; þeir eru óhreinir."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Ef hreisturinn helst óbreyttur og svart hár hefur vaxið í honum, hefur hreisturinn gróið, og þeir eru hreinir; presturinn skal lýsa þá hreina."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "„Þegar karl eða kona hefur bjarta bletti á húðinni, hvítir bjartir blettir,"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "skal presturinn skoða þá, og ef björtu blettirnir eru daufir hvítir, er það exem sem hefur brotist út á húðinni; þeir eru hreinir."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "„Ef karl missir hárið á höfði sínu, er hann sköllóttur en hreinn."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Ef hann missir hárið frá framhlið og hliðum höfuðsins, er hann sköllóttur á enni en hreinn."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "En ef á sköllóttu höfði eða enni er rauðhvít sýking, er það holdsveiki sem brýst út á sköllóttu höfði hans eða enni."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Presturinn skal skoða hann, og ef bólgan í sýkingunni er rauðhvít á sköllóttu höfði hans eða enni, eins og útlit holdsveiki á húðinni,"
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "er hann holdsveikur maður og er óhreinn. Presturinn verður að lýsa hann óhreinan vegna sýkingarinnar á höfði hans."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "„Sá sem hefur slíka sýkingu verður að vera í rifnum fötum, láta hárið vera ógreitt, hylja neðri hluta andlitsins og hrópa: 'Óhreinn! Óhreinn!'"
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Þeir verða að vera óhreinir svo lengi sem þeir hafa sýkinguna. Þeir verða að búa einir utan búðanna."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "„Þegar fatnaður hefur merki um holdsveiki, hvort sem það er ullar- eða línfatnaður,"
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "hvort sem í uppistöðu eða ívafi, af líni eða ull, eða í leðri eða einhverju hlut sem er úr leðri,"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "ef merkið er grænleitt eða rauðleitt í fatnaðinum eða leðrinu, hvort sem í uppistöðu eða ívafi, eða í einhverju leðurhlut, er það holdsveikismark og verður að sýna prestinum."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "Presturinn skal skoða merkið og einangra hlutinn í sjö daga."
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "Á sjöunda degi skal hann skoða merkið, og ef það hefur breiðst út í fatnaðinum, uppistöðu eða ívafi, eða leðri, er það holdsveikismengun og er óhreint."
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "Hann verður að brenna fatnaðinn, hvort sem í uppistöðu eða ívafi, í ull eða líni, eða einhverjum leðurhlut þar sem merkið kemur fram; það er holdsveikismengun. Það verður að brenna í eldi."
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "En ef presturinn skoðar það og merkið hefur ekki breiðst út í fatnaðinum, uppistöðu eða ívafi, eða einhverjum leðurhlut,"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "skal presturinn skipa að hlutnum sé þveginn og einangra hann í aðra sjö daga."
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "Eftir að hluturinn hefur verið þveginn, skal presturinn skoða hann aftur, og ef merkið hefur ekki breytt útliti sínu, jafnvel þó það hafi ekki breiðst út, er það óhreint. Brennið það, hvort sem merkið er á bakhlið eða framan."
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "En ef presturinn skoðar það og merkið hefur fölnað eftir þvott, skal hann rífa það úr fatnaðinum, leðrinu, uppistöðunni eða ívafinu."
+            ]
+        },
+        {
+            "verse": 57,
+            "text": [
+                "Ef það birtist aftur í fatnaðinum, uppistöðu eða ívafi, eða einhverjum leðurhlut, er það útbreiðslumerki; hluturinn verður að brenna."
+            ]
+        },
+        {
+            "verse": 58,
+            "text": [
+                "Hver fatnaður, uppistaða eða ívaf, eða einhver leðurhlutur sem merkið hefur horfið úr eftir þvott verður að þvo aftur og verður hreinn.“"
+            ]
+        },
+        {
+            "verse": 59,
+            "text": [
+                "Þetta eru reglurnar um merki holdsveiki í ullar- eða línfatnaði, uppistöðu eða ívafi, eða einhverjum leðurhlut, til að lýsa það hreint eða óhreint."
+            ]
+        }
+    ]
+}

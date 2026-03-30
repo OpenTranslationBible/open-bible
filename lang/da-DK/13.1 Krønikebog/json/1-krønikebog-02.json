@@ -1,0 +1,620 @@
+{
+    "book": "1 Krønikebog",
+    "chapter": 2,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Dette var Israels sønner:",
+                "> Ruben, Simeon, Levi, Juda, Issakar, Zebulon,",
+                "> Dan, Josef, Benjamin, Naftali, Gad og Aser"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Judas sønner var:",
+                "> Er, Onan og Shela.",
+                "> Disse tre blev født til ham af Bat-shua, kanaanæerinden.",
+                "> Er, Judas førstefødte, var ond i Herrens øjne, så han lod ham dø."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Tamar, Judas svigerdatter, fødte Perez og Zera.",
+                "> Juda havde i alt fem sønner."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Perez var far til to sønner:",
+                "> Hezron og Hamul."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Zeras sønner var:",
+                "> Zimri, Etan, Heman, Kalkol og Dara—fem i alt."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Carmis søn var:",
+                "> Akar, som bragte ulykke over Israel ved at overtræde forbuddet."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Etan havde en søn ved navn:",
+                "> Azarja."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Hezron havde sønner, som var:",
+                "> Jerahmeel, Ram og Kelubaj."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Ram blev far til Amminadab, og Amminadab blev far til Nahshon,",
+                "> lederen af Judas sønner."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Nahshon blev far til Salma, som igen blev far til Boaz."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Boaz var far til Obed, som var far til Isaj."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Isaj blev far til Eliab, hans førstefødte,",
+                "> derefter Abinadab, den anden,",
+                "> Shimea, den tredje,"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Netanel var den fjerde,",
+                "> Raddaj var den femte,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Ozem var den sjette,",
+                "> David var den syvende."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Deres søstre var:",
+                "> Zeruja og Abiga'il.",
+                "> Zeruja havde tre sønner:",
+                "> Abshaj, Joab og Asa'el."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Abiga'il var mor til Amasa,",
+                "> og Amasas far var Jeter, ismaelitten."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Nu fik Kaleb, Hezrons søn, børn med Azuba, hans hustru, og med Jeriot;",
+                "og dette var hendes sønner:",
+                "> Jesher, Shobab og Ardon."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Da Azuba døde, giftede Kaleb sig med Efrat,",
+                "> og hun fødte ham Hur."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Hur var far til Uri, og Uri blev far til Bezalel."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Senere giftede Hezron sig med Machirs datter, Gileads far,",
+                "> som han giftede sig med i en alder af tres;",
+                "> og hun fødte ham Segub."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Segub var far til Jair, som ejede treogtyve byer i Gileads land."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Men Geshur og Aram tog Jairs byer fra dem,",
+                "med Kenat og dens landsbyer, tres bosættelser.",
+                "Alle disse var efterkommere af Machir, Gileads far."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Efter Hezrons død i Kaleb-Efrata,",
+                "fødte Abija, Hezrons hustru, ham Ashhur,",
+                "> Tekoas far."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Nu havde Jerahmeel, Hezrons førstefødte, sønner:",
+                "> Ram, den førstefødte, derefter Bunah, Oren, Ozem og Ahijah."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Jerahmeel havde en anden hustru, kendt som Atara;",
+                "> hun var mor til Onam."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Ram, Jerahmeels førstefødte, havde sønner:",
+                "> Maaz, Jamin og Eker."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Onams sønner var:",
+                "> Shammai og Jada.",
+                "> Shammai havde sønner:",
+                "> Nadab og Abishur."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Abishurs hustru hed Abihail,",
+                "> og hun fødte ham Ahban og Molid."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Nadabs sønner var:",
+                "> Seled og Appajim.",
+                "> Seled døde uden sønner."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Appajim havde en søn ved navn:",
+                "> Ishi.",
+                "> Ishi havde en søn ved navn:",
+                "> Sheshan.",
+                "> Sheshan havde en søn ved navn:",
+                "> Ahlaj."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Jada, Shammais bror, havde sønner:",
+                "> Jether og Jonatan.",
+                "> Jether døde uden sønner."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Jonatans sønner var:",
+                "> Pelet og Zaza.",
+                "> Disse var blandt Jerahmeels efterkommere."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Sheshan havde ingen sønner, kun døtre.",
+                "Sheshan havde en egyptisk tjener ved navn Jarha."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Sheshan gav sin datter til ægteskab med Jarha, sin tjener,",
+                "> og hun fødte ham Attaj."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Attaj blev far til Natan, og Natan blev far til Zabad,"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Zabad var far til Eflal, og Eflal blev far til Obed,"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Obed var far til Jehu, og Jehu blev far til Azarja,"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Azarja var far til Helez, og Helez blev far til Eleasa,"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Eleasa var far til Sismaj, og Sismaj blev far til Shallum,"
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Shallum var far til Jekamja, og Jekamja blev far til Elishama."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Kaleb, Jerahmeels bror, havde sønner:",
+                "> Mesha, hans førstefødte, som var far til Zif;",
+                "> og sønnerne af Maresha, Hebrons far."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Hebron havde sønner:",
+                "> Korah, Tappuah, Rekem og Shema."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Shema var far til Raham, som var far til Jorkeam;",
+                "og Rekem var far til Shammai."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Shammais søn var:",
+                "> Maon, og Maon var far til Betzur."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Efa, Kalebs medhustru, fødte Haran, Moza og Gazez;",
+                "og Haran var far til Gazez."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "Jahdai havde sønner:",
+                "> Regem, Jotam, Gesan, Pelet, Efa og Shaaf."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "Kalebs medhustru Maaka fødte Sheber og Tirhana."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "Hun fødte også Shaaf, far til Madmannah,",
+                "Sheva, far til Makbenah og far til Gibea;",
+                "og Kalebs datter var Aksa."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "Disse var Kalebs sønner:",
+                "Sønnerne af Hur, Efratas førstefødte:",
+                "> Shobal, far til Kirjat-Jearim,"
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "> Salma, som var far til Betlehem,",
+                "> og Haref, som var far til Bet-Gader."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "Shobal, far til Kirjat-Jearim, havde sønner:",
+                "> Haroeh og halvdelen af Manahatiterne,"
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "> og familierne af Kirjat-Jearim:",
+                "> Jitriterne, Putiterne, Shumatiterne og Mishraiterne.",
+                "> Fra disse stammede Zoratiterne og Eshtaoliterne."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "Salmas sønner var:",
+                "> Betlehem og Netofatiterne,",
+                "> Atrot-Bet-Joab og halvdelen af Manahatiterne, Zoritene."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "> Skriverfamilierne, der boede i Jabez, var:",
+                "> Tiratiterne, Shimatiterne og Sucatiterne.",
+                "> Disse var Keniterne, der kom fra Hammat,",
+                "> far til Rechabs hus."
+            ]
+        }
+    ]
+}

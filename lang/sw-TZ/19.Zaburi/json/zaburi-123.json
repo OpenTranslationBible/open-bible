@@ -1,0 +1,47 @@
+{
+    "book": "Zaburi",
+    "chapter": 123,
+    "verses": [
+        {
+            "text": [
+                "Wimbo wa Kupanda."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Kwako nimeinua macho yangu,",
+                "> Wewe uliye juu ya kiti cha enzi mbinguni!"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Tazama, kama macho ya watumishi yanavyotazama mkono wa bwana wao,",
+                "> Na kama macho ya mjakazi yanavyotazama mkono wa bibi yake,",
+                "> Ndivyo macho yetu yanavyomtazama Bwana Mungu wetu,",
+                "> Hadi atakapoturehemu."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Uturehemu, Bwana, uturehemu,",
+                "> Kwa maana tumeshashiba dharau ya kutosha."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Nafsi yetu imeshashiba zaidi ya kiasi",
+                "> Ya dhihaka za wale walio katika starehe,",
+                "> Na ya dharau ya wenye kiburi."
+            ]
+        }
+    ]
+}

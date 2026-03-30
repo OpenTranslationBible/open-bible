@@ -1,42 +1,47 @@
 {
-  "book": "Ayub",
-  "chapter": 25,
-  "verses": [
-    {
-      "verse": 1,
-      "text": ["Bildad, orang Suah, menjawab, katanya,"]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "> “Kekuasaan dan kedahsyatan adalah milik-Nya",
-        "> yang membawa keteraturan ke tempat-tempat tinggi."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": ["> Adakah batas bagi bala tentara-Nya?", "> Kepada siapa cahaya-Nya tidak bersinar?"]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "> Bagaimana mungkin manusia bisa benar di hadapan Tuhan?",
-        "> Bagaimana mungkin yang lahir dari seorang wanita bisa bersih?"
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "> Jika bahkan bulan tidak bercahaya",
-        "> dan bintang-bintang tidak murni dalam pandangan-Nya,"
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "> apalagi manusia, yang adalah belatung,",
-        "> dan anak manusia, yang adalah cacing!”"
-      ]
-    }
-  ]
+    "book": "Ayub",
+    "chapter": 25,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Bildad, orang Suah, menjawab, katanya,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> “Kekuasaan dan kedahsyatan adalah milik-Nya",
+                "> yang membawa keteraturan ke tempat-tempat tinggi."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Adakah batas bagi bala tentara-Nya?",
+                "> Kepada siapa cahaya-Nya tidak bersinar?"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Bagaimana mungkin manusia bisa benar di hadapan Tuhan?",
+                "> Bagaimana mungkin yang lahir dari seorang wanita bisa bersih?"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Jika bahkan bulan tidak bercahaya",
+                "> dan bintang-bintang tidak murni dalam pandangan-Nya,"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> apalagi manusia, yang adalah belatung,",
+                "> dan anak manusia, yang adalah cacing!”"
+            ]
+        }
+    ]
 }

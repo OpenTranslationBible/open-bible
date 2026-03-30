@@ -1,0 +1,55 @@
+{
+    "book": "Psalmit",
+    "chapter": 15,
+    "verses": [
+        {
+            "text": [
+                "Daavidin psalmi."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Herra, kuka saa asua sinun teltassasi?",
+                "> Kuka saa asettua sinun pyhälle vuorellesi?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Se, joka elää nuhteettomasti, toimii oikeudenmukaisesti,",
+                "> Ja puhuu totuuden sydämestään."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Hän ei panettele kielellään,",
+                "> Ei tee pahaa lähimmäiselleen,",
+                "> Eikä tuo häpeää ystävälleen;"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Hänen silmissään halveksittava henkilö on halveksittu,",
+                "> Mutta hän kunnioittaa niitä, jotka pelkäävät Herraa;",
+                "> Hän vannoo valan omaksi vahingokseen, eikä muuta sitä;"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Hän ei lainaa rahaansa epäoikeudenmukaisesti,",
+                "> Eikä ota lahjusta viatonta vastaan.",
+                "---",
+                "> Joka elää näin, pysyy lujana."
+            ]
+        }
+    ]
+}

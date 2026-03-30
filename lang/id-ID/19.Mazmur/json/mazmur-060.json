@@ -1,105 +1,109 @@
 {
-  "book": "Mazmur",
-  "chapter": 60,
-  "verses": [
-    {
-      "text": [
-        "Untuk pemimpin musik; menurut Shushan Edut. Mikhtam dari Daud, untuk mengajar; ketika ia berperang dengan Aram-naharaim dan dengan Aram-zobah, dan Yoab kembali dan memukul dua belas ribu orang Edom di Lembah Garam."
-      ]
-    },
-    {
-      "verse": 1,
-      "text": [
-        "> Ya Tuhan, Engkau telah menolak kami. Engkau telah memecahkan kami;",
-        "> Engkau telah marah; pulihkanlah kami."
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "> Engkau telah membuat bumi bergetar, Engkau telah membelahnya;",
-        "> Sembuhkanlah retakannya, karena goyah."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "> Engkau telah membuat umat-Mu menanggung kesulitan;",
-        "> Engkau telah memberi kami anggur yang membuat kami terhuyung-huyung."
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "> Engkau telah memberikan panji kepada mereka yang takut kepada-Mu,",
-        "> Agar itu dapat ditampilkan karena kebenaran.",
-        "> Sela"
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "> Agar kekasih-Mu dapat diselamatkan,",
-        "> Selamatkanlah dengan tangan kanan-Mu, dan jawablah kami!"
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "> Tuhan telah berfirman dalam kekudusan-Nya:",
-        "> “Aku akan menang, Aku akan membagi Sikhem,",
-        "> Dan mengukur Lembah Sukot."
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "> Gilead adalah milik-Ku, dan Manasye adalah milik-Ku;",
-        "> Efraim juga adalah helm kepala-Ku;",
-        "> Yehuda adalah tongkat kerajaan-Ku."
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "> Moab adalah baskom cuci-Ku;",
-        "> Atas Edom Aku akan melemparkan sandal-Ku;",
-        "> Filistia, bersoraklah karena Aku!”"
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "> Siapa yang akan membimbing aku ke kota yang berkubu?",
-        "> Siapa yang akan memimpin aku ke Edom?"
-      ]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "> Bukankah Engkau sendiri telah menolak kami, Tuhan?",
-        "> Dan tidakkah Engkau akan maju dengan tentara kami, Tuhan?"
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "> Berikanlah kami bantuan melawan musuh,",
-        "> Karena penyelamatan oleh manusia tidak ada artinya."
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "> Melalui Tuhan kami akan meraih kemenangan,",
-        "> Dan Dialah yang akan mengalahkan musuh-musuh kami."
-      ]
-    }
-  ]
+    "book": "Mazmur",
+    "chapter": 60,
+    "verses": [
+        {
+            "text": [
+                "Untuk pemimpin musik; menurut Shushan Edut. Mikhtam dari Daud, untuk mengajar; ketika ia berperang dengan Aram-naharaim dan dengan Aram-zobah, dan Yoab kembali dan memukul dua belas ribu orang Edom di Lembah Garam."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Ya Tuhan, Engkau telah menolak kami. Engkau telah memecahkan kami;",
+                "> Engkau telah marah; pulihkanlah kami."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Engkau telah membuat bumi bergetar, Engkau telah membelahnya;",
+                "> Sembuhkanlah retakannya, karena goyah."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Engkau telah membuat umat-Mu menanggung kesulitan;",
+                "> Engkau telah memberi kami anggur yang membuat kami terhuyung-huyung."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Engkau telah memberikan panji kepada mereka yang takut kepada-Mu,",
+                "> Agar itu dapat ditampilkan karena kebenaran.",
+                "> Sela"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Agar kekasih-Mu dapat diselamatkan,",
+                "> Selamatkanlah dengan tangan kanan-Mu, dan jawablah kami!"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Tuhan telah berfirman dalam kekudusan-Nya:",
+                "> “Aku akan menang, Aku akan membagi Sikhem,",
+                "> Dan mengukur Lembah Sukot."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Gilead adalah milik-Ku, dan Manasye adalah milik-Ku;",
+                "> Efraim juga adalah helm kepala-Ku;",
+                "> Yehuda adalah tongkat kerajaan-Ku."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Moab adalah baskom cuci-Ku;",
+                "> Atas Edom Aku akan melemparkan sandal-Ku;",
+                "> Filistia, bersoraklah karena Aku!”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Siapa yang akan membimbing aku ke kota yang berkubu?",
+                "> Siapa yang akan memimpin aku ke Edom?"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Bukankah Engkau sendiri telah menolak kami, Tuhan?",
+                "> Dan tidakkah Engkau akan maju dengan tentara kami, Tuhan?"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Berikanlah kami bantuan melawan musuh,",
+                "> Karena penyelamatan oleh manusia tidak ada artinya."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Melalui Tuhan kami akan meraih kemenangan,",
+                "> Dan Dialah yang akan mengalahkan musuh-musuh kami."
+            ]
+        }
+    ]
 }

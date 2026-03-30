@@ -1,0 +1,49 @@
+{
+    "book": "Psalmit",
+    "chapter": 150,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> Ylistäkää Herraa!",
+                "> Kunnioittakaa Jumalaa Hänen pyhässä paikassaan;",
+                "> Ylistäkää Häntä Hänen avarissa taivaissaan."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Kunnioittakaa Häntä Hänen voimallisista teoistaan;",
+                "> Ylistäkää Häntä Hänen ylivertaisesta suuruudestaan."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Kunnioittakaa Häntä torven äänellä;",
+                "> Ylistäkää Häntä harpun ja lyyran kanssa."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Kunnioittakaa Häntä tamburiinilla ja tanssilla;",
+                "> Ylistäkää Häntä kielisoittimilla ja huilulla."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Kunnioittakaa Häntä kovaäänisillä symbaaleilla;",
+                "> Ylistäkää Häntä kaikuvilla symbaaleilla."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Kaikki, missä on henkeä, ylistäköön Herraa.",
+                "> Ylistäkää Herraa!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "book": "Psaltaren",
+    "chapter": 101,
+    "verses": [
+        {
+            "text": [
+                "En psalm av David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Jag vill sjunga om nåd och rätt;",
+                "> Till dig, Herre, vill jag sjunga lovsånger."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Jag vill sträva efter att följa rättfärdighetens väg.",
+                "> När ska du besöka mig?",
+                "---",
+                "> Jag vill vandra i mitt hus med ett uppriktigt hjärta."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Jag ska inte sätta något värdelöst framför mina ögon;",
+                "---",
+                "> Jag föraktar de gärningar som de som avviker gör;",
+                "> Det ska inte fästa sig vid mig."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Ett förvridet hjärta ska lämna mig;",
+                "> Jag ska inte syssla med ondska."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Den som i hemlighet förtalar sin granne, honom ska jag göra slut på;",
+                "> Den som har ett högmodigt utseende och ett arrogant hjärta, honom ska jag inte uthärda."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Mina ögon ska vara vända mot landets trogna, så att de kan bo hos mig;",
+                "> Den som vandrar på ett klanderfritt sätt är den som ska tjäna mig."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Den som praktiserar svek ska inte förbli i mitt hus;",
+                "> Den som talar lögner ska inte stå fast inför mig."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Varje morgon ska jag avlägsna alla de ogudaktiga i landet,",
+                "> För att befria Herrens stad från alla dem som begår orättvisa."
+            ]
+        }
+    ]
+}

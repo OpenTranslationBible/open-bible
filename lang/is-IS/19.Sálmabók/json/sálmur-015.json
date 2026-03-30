@@ -1,0 +1,55 @@
+{
+    "book": "Sálmabók",
+    "chapter": 15,
+    "verses": [
+        {
+            "text": [
+                "Sálmur Davíðs."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Drottinn, hver má búa í tjaldi þínu?",
+                "> Hver má setjast á þínu heilaga fjalli?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Sá sem lifir með heilindum, breytir réttlátlega,",
+                "> Og talar sannleika af hjarta."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Hann baktalar ekki með tungu sinni,",
+                "> Gerir ekki illt við náunga sinn,",
+                "> Og færir ekki skömm yfir vin sinn;"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Í augum hans er fyrirlitlegur maður fyrirlitinn,",
+                "> En hann heiðrar þá sem óttast Drottin;",
+                "> Hann sver eið sér til tjóns, og breytir ekki;"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Hann lánar ekki fé sitt með rangindum,",
+                "> Og tekur ekki mútur gegn saklausum.",
+                "---",
+                "> Sá sem lifir á þennan hátt mun standa stöðugur."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "book": "Psaltaren",
+    "chapter": 15,
+    "verses": [
+        {
+            "text": [
+                "En psalm av David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Herre, vem får bo i ditt tält?",
+                "> Vem får bo på ditt heliga berg?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Den som lever med integritet, handlar rättvist,",
+                "> Och talar sanning från hjärtat."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Han baktalar inte med sin tunga,",
+                "> Gör inte ont mot sin granne,",
+                "> Och bringar inte skam över sin vän;"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> I hans ögon är en föraktlig person föraktad,",
+                "> Men han hedrar dem som fruktar Herren;",
+                "> Han avlägger en ed till sin egen nackdel och ändrar sig inte;"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Han lånar inte ut sina pengar orättvist,",
+                "> Och han tar inte emot mutor mot den oskyldige.",
+                "---",
+                "> Den som lever på detta sätt kommer att förbli stadig."
+            ]
+        }
+    ]
+}

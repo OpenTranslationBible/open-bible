@@ -1,0 +1,47 @@
+{
+    "book": "Jobin luku",
+    "chapter": 25,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Suuhilainen Bildad vastasi sanoen,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> \"Valta ja pelko kuuluvat Hänelle,",
+                "> joka tuo järjestyksen korkeuksiin."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Onko Hänen joukoillaan rajaa?",
+                "> Kenelle Hänen valonsa ei loista?"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Kuinka sitten ihminen voisi olla vanhurskas Jumalan edessä?",
+                "> Kuinka nainen voi synnyttää puhtaan?"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Jos edes kuu ei loista kirkkaasti",
+                "> ja tähdet eivät ole puhtaita Hänen silmissään,"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> kuinka paljon vähemmän ihminen, joka on mato,",
+                "> ja ihmisen poika, joka on toukka!\""
+            ]
+        }
+    ]
+}

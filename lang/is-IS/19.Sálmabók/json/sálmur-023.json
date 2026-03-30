@@ -1,0 +1,61 @@
+{
+    "book": "Sálmabók",
+    "chapter": 23,
+    "verses": [
+        {
+            "text": [
+                "Sálmur Davíðs."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Drottinn er minn hirðir,",
+                "> mig mun ekkert bresta."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Á grænum grundum lætur hann mig hvílast;",
+                "> leiðir mig að vötnum, þar sem ég má næðis njóta."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Hann hressir sál mína;",
+                "> leiðir mig um réttar brautir",
+                "> fyrir sakir nafns síns."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Þótt ég fari um dimman dal,",
+                "> óttast ég ekkert illt, því að þú ert með mér;",
+                "> sproti þinn og stafur, þeir hugga mig."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Þú býrð mér borð frammi fyrir fjandmönnum mínum;",
+                "> þú smyrð höfuð mitt með olíu;",
+                "> bikar minn er barmafullur."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Vissulega mun gæska og miskunn fylgja mér alla daga lífs míns,",
+                "> og ég mun búa í húsi Drottins um eilífð."
+            ]
+        }
+    ]
+}

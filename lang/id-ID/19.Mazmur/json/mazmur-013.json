@@ -1,55 +1,64 @@
 {
-  "book": "Mazmur",
-  "chapter": 13,
-  "verses": [
-    {
-      "text": ["Untuk pemimpin musik. Mazmur Daud."]
-    },
-    {
-      "verse": 1,
-      "text": [
-        "> Berapa lama lagi, Tuhan? Apakah Engkau akan melupakan aku selamanya?",
-        "> Berapa lama lagi Engkau akan menyembunyikan wajah-Mu dariku?"
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "> Berapa lama lagi aku harus menanggung kekhawatiran ini dalam jiwaku,",
-        "> Dengan kesedihan di hatiku sepanjang hari?",
-        "> Berapa lama lagi musuhku akan menang atas diriku?"
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "> Pandanglah aku dan jawablah, ya Tuhan, Tuhanku;",
-        "> Terangilah mataku, supaya aku tidak jatuh ke dalam tidur maut,"
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "> Dan musuhku akan berkata, “Aku telah menang melawannya,”",
-        "> Dan lawan-lawanku akan bersukacita ketika aku goyah."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "> Namun aku telah menaruh kepercayaanku pada kasih setia-Mu;",
-        "> Hatiku akan bersukacita dalam keselamatan-Mu."
-      ]
-    },
-    {
-      "verse": 6,
-      "text": ["> Aku akan menyanyi bagi Tuhan,", "> Karena Dia telah berbuat baik kepadaku."]
-    }
-  ]
+    "book": "Mazmur",
+    "chapter": 13,
+    "verses": [
+        {
+            "text": [
+                "Untuk pemimpin musik. Mazmur Daud."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Berapa lama lagi, Tuhan? Apakah Engkau akan melupakan aku selamanya?",
+                "> Berapa lama lagi Engkau akan menyembunyikan wajah-Mu dariku?"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Berapa lama lagi aku harus menanggung kekhawatiran ini dalam jiwaku,",
+                "> Dengan kesedihan di hatiku sepanjang hari?",
+                "> Berapa lama lagi musuhku akan menang atas diriku?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Pandanglah aku dan jawablah, ya Tuhan, Tuhanku;",
+                "> Terangilah mataku, supaya aku tidak jatuh ke dalam tidur maut,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Dan musuhku akan berkata, “Aku telah menang melawannya,”",
+                "> Dan lawan-lawanku akan bersukacita ketika aku goyah."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Namun aku telah menaruh kepercayaanku pada kasih setia-Mu;",
+                "> Hatiku akan bersukacita dalam keselamatan-Mu."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Aku akan menyanyi bagi Tuhan,",
+                "> Karena Dia telah berbuat baik kepadaku."
+            ]
+        }
+    ]
 }

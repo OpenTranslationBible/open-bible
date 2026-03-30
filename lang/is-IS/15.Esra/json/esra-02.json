@@ -1,0 +1,468 @@
+{
+    "book": "Esra",
+    "chapter": 2,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Þetta eru íbúar héraðsins sem sneru aftur úr útlegðinni, sem Nebúkadnesar, konungur Babýlonar, hafði flutt í útlegð til Babýlonar. Þeir sneru aftur til Jerúsalem og Júda, hver til sinnar borgar."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Þeir komu með Serúbabel, Jesúa, Nehemía, Seraja, Reelaja, Mordekaí, Bilsan, Mispar, Bigvaí, Rehúm og Baana. Hér er listi yfir menn Ísraelsmanna:"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> ætt Parós, taldir 2.172;"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> ætt Sefatja, taldir 372;"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> ætt Ara, taldir 775;"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> ætt Pahat-Móab, í gegnum ætt Jesúa og Jóab, taldir 2.812;"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> ætt Elam, taldir 1.254;"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> ætt Sattu, taldir 945;"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> ætt Sakkai, taldir 760;"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> ætt Baní, taldir 642;"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> ætt Bebai, taldir 623;"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> ætt Asgad, taldir 1.222;"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> ætt Adóníkam, taldir 666;"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> ætt Bigvaí, taldir 2.056;"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> ætt Adín, taldir 454;"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> ætt Ater, í gegnum Hiskía, taldir 98;"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> ætt Besai, taldir 323;"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> ætt Jóra, taldir 112;"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> ætt Hasúm, taldir 223;"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> ætt Gíbar, taldir 95;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> menn Betlehem, taldir 123;"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> menn Netófa, taldir 56;"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> menn Anatót, taldir 128;"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> ætt Asmavet, taldir 42;"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> ætt Kíreat-Jearím, Kefíra og Beerót, 743;"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> ætt Rama og Geba, taldir 621;"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> þeir frá Míkmas, taldir 122;"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> þeir frá Betel og Aí, taldir 223;"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "> ætt Nebó, taldir 52;"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> ætt Magbísh, taldir 156;"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "> ætt annars Elam, taldir 1.254;"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "> ætt Harím, taldir 320;"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "> ætt Lód, Hadíd og Onó, 725;"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "> menn Jeríkó, taldir 345;"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "> ætt Senaa, taldir 3.630."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "> Prestarnir: ætt Jedaja, af húsi Jesúa, taldir 973;"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "> ætt Immer, taldir 1.052;"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "> ætt Pashúr, taldir 1.247;"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "> ætt Harím, taldir 1.017."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "> Levítarnir: fjölskylda Jesúa og Kadmíel, af ætt Hódavía, 74."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "> Söngvararnir: fjölskylda Asaf, 128."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Hliðverðir musterisins:",
+                "> ætt Sallúm, Ater, Talmon,",
+                "> Akkúb, Hatíta og Sóbai, 139."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Þjónar musterisins:",
+                "> ætt Síha, Hasúfa, Tabbaót,"
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "> Keros, Síaha og Padon,"
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "> Lebana, Hagaba og Akkúb,"
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "> Hagab, Salmaí og Hanan,"
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "> Gíddel, Gahar og Reaja,"
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "> Resín, Nekóda og Gassam,"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "> Ússa, Paseah og Besai,"
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "> Asna, Meúním og Nefúsím,"
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "> Bakbúk, Hakúfa og Harhúr,"
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "> Baslút, Mehída og Harsha,"
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "> Barkós, Sísera og Tema,"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "> Nesía og einnig Hatífa."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "Afkomendur þjóna Salómons:",
+                "afkomendur Sótai, Hassóferet og Perúda,"
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "> Jaala, Darkon og Gíddel,"
+            ]
+        },
+        {
+            "verse": 57,
+            "text": [
+                "> Sefatja, Hattil og Pokeret-Hassebaím, og Amí."
+            ]
+        },
+        {
+            "verse": 58,
+            "text": [
+                "Þjónar musterisins og afkomendur þjóna Salómons voru alls 392."
+            ]
+        },
+        {
+            "verse": 59,
+            "text": [
+                "Þessir voru þeir sem komu upp frá Tel Melah, Tel Harsha, Kerúb, Addon og Immer, en þeir gátu ekki sannað að fjölskyldur þeirra væru afkomendur Ísraels:"
+            ]
+        },
+        {
+            "verse": 60,
+            "text": [
+                "Fjölskyldur Delaja, Tobía og Nekóda, 652."
+            ]
+        },
+        {
+            "verse": 61,
+            "text": [
+                "Og meðal prestanna:",
+                "> afkomendur Hóbaía, Hakkoz og Barsillaí,",
+                "> sem hafði kvænst dóttur Barsillaí Gíleaðíta",
+                "> og var kallaður eftir nafni þeirra."
+            ]
+        },
+        {
+            "verse": 62,
+            "text": [
+                "> Þeir leituðu að fjölskylduskrám sínum en fundu þær ekki, og voru því útilokaðir frá prestsembættinu sem óhreinir."
+            ]
+        },
+        {
+            "verse": 63,
+            "text": [
+                "> Landstjórinn skipaði þeim að taka ekki þátt í hinum helgustu matvælum fyrr en prestur væri í þjónustu með Úrím og Túmmím."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 64,
+            "text": [
+                "Svo, öll samkoman taldi 42.360,"
+            ]
+        },
+        {
+            "verse": 65,
+            "text": [
+                "auk karl- og kvenþræla þeirra, sem töldu 7.337; og þeir höfðu 200 karl- og kvennsöngvara."
+            ]
+        },
+        {
+            "verse": 66,
+            "text": [
+                "Þeir áttu 736 hesta og 245 múldýr,"
+            ]
+        },
+        {
+            "verse": 67,
+            "text": [
+                "höfðu 435 úlfalda og 6.720 asna."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 68,
+            "text": [
+                "Þegar þeir komu til húss Drottins í Jerúsalem, gáfu sumir af höfðingjum fjölskyldnanna frjáls framlög til endurbyggingar húss Guðs á staðnum."
+            ]
+        },
+        {
+            "verse": 69,
+            "text": [
+                "Í samræmi við getu sína, lögðu þeir til fjárhirslunnar fyrir þetta verk 61.000 darika gulls, 5.000 mína silfurs og 100 prestsklæði."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 70,
+            "text": [
+                "Prestarnir, Levítarnir, söngvararnir, hliðverðirnir og þjónar musterisins settust að í eigin borgum, ásamt nokkrum af öðrum íbúum, meðan restin af Ísraelsmönnum settust að í borgum sínum."
+            ]
+        }
+    ]
+}

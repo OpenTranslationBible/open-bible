@@ -1,0 +1,408 @@
+{
+    "book": "Psaltaren",
+    "chapter": 106,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> Prisa Herren!",
+                "---",
+                "> Tacka Herren, ty han är god;",
+                "> Ty hans nåd varar för evigt."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Vem kan tala om Herrens mäktiga gärningar,",
+                "> Eller förkunna all hans lovsång?"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Välsignade är de som håller rättvisa,",
+                "> Som praktiserar rättfärdighet alltid!"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Kom ihåg mig, Herre, i din nåd mot ditt folk;",
+                "> Besök mig med din frälsning,"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Så att jag får bevittna dina utvaldas framgång,",
+                "> Så att jag får dela ditt folks glädje,",
+                "> Så att jag får ta stolthet i din arvedel."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Vi har syndat som våra förfäder,",
+                "> Vi har gått vilse, vi har handlat ogudaktigt."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Våra förfäder i Egypten förstod inte dina underverk;",
+                "> De glömde din rikliga godhet,",
+                "> Men gjorde uppror vid havet, vid Röda havet."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Ändå räddade han dem för sitt namns skull,",
+                "> För att göra sin makt känd."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Han tillrättavisade Röda havet och det torkade upp,",
+                "> Och han ledde dem genom de mäktiga vattnen, som genom öknen."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Så räddade han dem från handen på dem som hatade dem,",
+                "> Och återlöste dem från fiendens hand."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Vattnen täckte deras motståndare;",
+                "> Inte en enda av dem blev kvar."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Då litade de på hans ord;",
+                "> De sjöng hans lov."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> De glömde snabbt hans gärningar;",
+                "> De väntade inte på hans vägledning,"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Utan blev girigt lystna i öknen,",
+                "> Och prövade Gud i ödemarken."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Så han beviljade deras begäran,",
+                "> Men sände en förtärande sjukdom bland dem."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> När de avundades Mose i lägret,",
+                "> Och Aron, Herrens helige,"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Öppnade sig marken och slukade Datan,",
+                "> Och omslöt Abirams församling."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Och en eld flammade upp i deras sällskap;",
+                "> Lågan förtärde de ogudaktiga."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> De gjorde en kalv vid Horeb,",
+                "> Och tillbad en gjuten bild."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> Så bytte de ut sin härlighet",
+                "> Mot bilden av en oxe som äter gräs."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> De glömde Gud, sin Frälsare,",
+                "> Som hade utfört stora ting i Egypten,"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> Mirakel i Hams land,",
+                "> Och fruktansvärda gärningar vid Röda havet."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> Därför förklarade han att han skulle förgöra dem,",
+                "> Om inte Mose, hans utvalde, hade stått i gapet inför honom,",
+                "> För att avvända hans vrede från att förgöra dem."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Då förkastade de det ljuvliga landet;",
+                "> De trodde inte på hans löfte,"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> Utan knotade i sina tält;",
+                "> De lyssnade inte på Herrens röst."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> Därför svor han åt dem",
+                "> Att han skulle låta dem falla i öknen,"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> Och att han skulle sprida deras ättlingar bland folken,",
+                "> Och skingra dem i länderna."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> De följde också Baal av Peor,",
+                "> Och åt offer till de döda."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "> Så väckte de hans vrede med sina gärningar,",
+                "> Och en plåga bröt ut bland dem."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> Då stod Pinehas upp och ingrep,",
+                "> Och plågan stoppades."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "> Och det räknades honom till rättfärdighet,",
+                "> För alla kommande generationer."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "> De väckte också hans vrede vid Meribas vatten,",
+                "> Så att det gick illa för Mose på grund av dem;"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "> Eftersom de trotsade hans Ande,",
+                "> Talade han förhastat med sina läppar."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "> De utrotade inte folken,",
+                "> Som Herren hade befallt dem,"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "> Utan de blandade sig med folken",
+                "> Och antog deras seder,"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "> Och tillbad deras avgudar,",
+                "> Som blev en snara för dem."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "> Ty de offrade till och med sina söner och döttrar till demonerna,"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "> Och utgöt oskyldigt blod,",
+                "> Sina söners och döttrars blod,",
+                "> Som de offrade till Kanaans avgudar;",
+                "> Och landet blev befläckat av blodet."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "> Så blev de orena i sina gärningar,",
+                "> Och var trolösa i sina handlingar."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "> Därför upptändes Herrens vrede mot hans folk,",
+                "> Och han avskydde sin arvedel."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "> Så överlämnade han dem i folkens händer,",
+                "> Och de som hatade dem regerade över dem."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "> Deras fiender förtryckte dem också,",
+                "> Och de blev kuvade under deras makt."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "> Många gånger räddade han dem;",
+                "> Ändå var de upproriska i sina avsikter,",
+                "> Och de sjönk ner i sin skuld."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "> Ändå såg han deras nöd",
+                "> När han hörde deras rop;"
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "> Och han kom ihåg sitt förbund för deras skull,",
+                "> Och ångrade sig enligt sin stora nåd."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "> Han gjorde dem också till föremål för medlidande",
+                "> I alla deras fångvakares ögon."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "> Rädda oss, Herre vår Gud,",
+                "> Och samla oss från folken,",
+                "> För att tacka ditt heliga namn",
+                "> Och ära i din lovsång."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "> Välsignad vare Herren, Israels Gud,",
+                "> Från evighet till evighet.",
+                "> Och allt folket ska säga: \"Amen.\"",
+                "> Prisa Herren!"
+            ]
+        }
+    ]
+}

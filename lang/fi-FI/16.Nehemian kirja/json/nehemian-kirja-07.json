@@ -1,0 +1,496 @@
+{
+    "book": "Nehemia",
+    "chapter": 7,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Kun muuri oli saatu valmiiksi ja ovet oli asetettu paikoilleen, nimitin portinvartijat, laulajat ja leeviläiset."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Nimitin veljeni Hananin ja Hananjan, linnoituksen päällikön, Jerusalemin vastuuhenkilöiksi, sillä hän oli luotettava mies, joka pelkäsi Jumalaa enemmän kuin monet muut."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Käskin heitä: \"Älkää avatko Jerusalemin portteja ennen kuin aurinko on korkealla. Kun portinvartijat ovat vielä vartiossa, sulkekaa ja teljetkää ovet. Määrätkää myös vartijoita Jerusalemin asukkaista, kukin omalle paikalleen ja oman talonsa eteen.\""
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Kaupunki oli suuri ja avara, mutta väestö oli pieni, eikä taloja ollut rakennettu uudelleen."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Sitten Jumalani pani sydämelleni, että kokoaisin aateliset, virkamiehet ja tavalliset ihmiset sukuluetteloiden mukaan. Löysin niiden sukuluettelon, jotka olivat ensimmäisinä palanneet, ja tämä on mitä löysin:"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Nämä ovat sen maakunnan asukkaat, jotka palasivat pakkosiirtolaisuudesta, jonne Babylonian kuningas Nebukadnessar oli heidät vienyt. He palasivat Jerusalemiin ja Juudaan, kukin omaan kaupunkiinsa,"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "mukanaan Serubbaabel, Jesua, Nehemia, Asarja, Raamja, Nahamani, Mordokai, Bilsan, Misperet, Bigvai, Nehum ja Baanah. Israelin miesten luettelo:"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Paroksen suku, 2 172;"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Sefatjan suku, 372;"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Arah'n suku, 652;"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Pahat-Moabin suku, Jesuan ja Joabin sukujen kautta, 2 818;"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Elamin suku, 1 254;"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Sattun suku, 845;"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Sakkain suku, 760;"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Binnuin suku, 648;"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Bebain suku, 628;"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Asgadin suku, 2 322;"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Adonikamin suku, 667;"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Bigvain suku, 2 067;"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> Adinin suku, 655;"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> Aterin suku, Hiskian kautta, 98;"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> Hasumin suku, 328;"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> Besain suku, 324;"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Harifin suku, 112;"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> Gibeonin suku, 95;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> Betlehemin ja Netofan asukkaat, 188;"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> Anatotin asukkaat, 128;"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> Bet-Azmavetin asukkaat, 42;"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "> Kirjat-Jearimin, Kefiran ja Beerotin asukkaat, 743;"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> Raman ja Geban asukkaat, 621;"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "> Mikmasin asukkaat, 122;"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "> Betelin ja Ain asukkaat, 123;"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "> toisen Nebon asukkaat, 52;"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "> toisen Elamin suku, 1 254;"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "> Harimin suku, 320;"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "> Jerikon asukkaat, 345;"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "> Lodin, Hadidin ja Onon asukkaat, 721;"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "> Seneaan suku, 3 930."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Papit:",
+                "> Jedajan suku, Jesuan huoneesta, 973;"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "> Immerin suku, 1 052;"
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "> Pashhurin suku, 1 247;"
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "> Harimin suku, 1 017."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Leeviläiset:",
+                "> Jesuan suku, Kadmielin kautta, Hodevan suku, 74."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Laulajat:",
+                "> Asafin suku, 148."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Portinvartijat:",
+                "> Sallumin, Aterin, Talmonin, Akkubin,",
+                "> Hatitan ja Soba'in suku, 138."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Temppelipalvelijat:",
+                "Zihan, Hasufan, Tabbaotin suku,"
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "> Keroksen, Sian ja Padonin suku,"
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "> Lebanan, Hagaban ja Salmain suku,"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "> Hananin, Giddelin ja Gaharin suku,"
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "> Reajan, Rezin ja Nekodan suku,"
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "> Gazzamin, Uzzan ja Paseahin suku,"
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "> Besain, Meunimin ja temppelipalvelija Nefusesimin suku,"
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "> Bakbukin, Hakufan ja Harhurin suku,"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "> Baslutin, Mehidan ja Harshan suku,"
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "> Barkoksen, Siseran ja Temahin suku,"
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "> Nesian ja Hatifan suku."
+            ]
+        },
+        {
+            "verse": 57,
+            "text": [
+                "Salomon palvelijoiden jälkeläiset:",
+                "Sotain, Soferetin ja Peridan jälkeläiset,"
+            ]
+        },
+        {
+            "verse": 58,
+            "text": [
+                "Jaalan, Darkonin ja Giddelin jälkeläiset,"
+            ]
+        },
+        {
+            "verse": 59,
+            "text": [
+                "Sefatjan, Hattilin, Poheret-Hassebaimin ja temppelipalvelija Amonin jälkeläiset."
+            ]
+        },
+        {
+            "verse": 60,
+            "text": [
+                "Temppelipalvelijat ja Salomon palvelijoiden jälkeläiset yhteensä 392."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 61,
+            "text": [
+                "Nämä olivat ne, jotka tulivat Tel Melahista, Tel Harshasta, Kerubista, Addonista ja Immeristä, mutta he eivät voineet todistaa sukujaan tai syntyperäänsä, olivatko he Israelista:"
+            ]
+        },
+        {
+            "verse": 62,
+            "text": [
+                "Delaian, Tobian ja Nekodan suvut, 642."
+            ]
+        },
+        {
+            "verse": 63,
+            "text": [
+                "Ja papeista: Hobajan, Hakkozin ja Barsillain jälkeläiset, joka oli naimisissa Gileadilaisen Barsillain tyttären kanssa ja otti tämän nimen."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 64,
+            "text": [
+                "Nämä etsivät sukuluetteloitaan, mutta eivät löytäneet niitä ja heidät suljettiin pois pappeudesta epäpuhtaina."
+            ]
+        },
+        {
+            "verse": 65,
+            "text": [
+                "Maaherra kielsi heitä syömästä mitään pyhimmistä ruoista, kunnes nousisi pappi, jolla olisi Urim ja Tummim."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 66,
+            "text": [
+                "Koko seurakunta oli 42 360,"
+            ]
+        },
+        {
+            "verse": 67,
+            "text": [
+                "lisäksi heidän 7 337 mies- ja naispuolista palvelijaansa; ja heillä oli myös 245 laulajaa, sekä miehiä että naisia."
+            ]
+        },
+        {
+            "verse": 68,
+            "text": [
+                "Heillä oli 736 hevosta, 245 muulia,"
+            ]
+        },
+        {
+            "verse": 69,
+            "text": [
+                "ja 435 kamelia ja 6 720 aasia."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 70,
+            "text": [
+                "Jotkut perheiden päämiehistä antoivat työhön. Maaherra antoi rahastoon 1 000 kultadrahmaa, 50 maljaa ja 530 vaatetta papeille."
+            ]
+        },
+        {
+            "verse": 71,
+            "text": [
+                "Jotkut perheiden päämiehistä antoivat rahastoon työhön 20 000 kultadrahmaa ja 2 200 hopeaminää."
+            ]
+        },
+        {
+            "verse": 72,
+            "text": [
+                "Loput kansasta antoivat 20 000 kultadrahmaa, 2 000 hopeaminää ja 67 vaatetta papeille."
+            ]
+        },
+        {
+            "verse": 73,
+            "text": [
+                "Papit, leeviläiset, portinvartijat, laulajat, osa kansasta, temppelipalvelijat ja koko Israel asettuivat kaupunkeihinsa. Kun seitsemäs kuukausi tuli, israelilaiset olivat kaupungeissaan."
+            ]
+        }
+    ]
+}

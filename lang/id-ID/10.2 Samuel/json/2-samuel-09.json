@@ -1,117 +1,119 @@
 {
-  "book": "2 Samuel",
-  "chapter": 9,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "Kemudian Daud berkata,",
-        "\"Apakah masih ada orang yang tinggal dari keluarga Saul,",
-        "supaya aku dapat menunjukkan kebaikan kepadanya demi Yonatan?\""
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "Ada seorang hamba dari keluarga Saul bernama Ziba,",
-        "yang dibawa menghadap Daud.",
-        "Raja bertanya kepadanya, \"Apakah engkau Ziba?\"",
-        "Dan dia menjawab, \"Aku adalah hambamu.\""
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "Kemudian raja berkata,",
-        "\"Apakah tidak ada lagi yang tersisa dari keluarga Saul",
-        "kepada siapa aku dapat menunjukkan kebaikan Tuhan?\"",
-        "Dan Ziba berkata kepada raja,",
-        "\"Masih ada seorang anak laki-laki Yonatan,",
-        "yang lumpuh di kedua kakinya.\""
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "Raja bertanya, \"Di mana dia?\"",
-        "Dan Ziba menjawab kepada raja,",
-        "\"Dia ada di rumah Makhir, anak Amiel, di Lo-debar.\""
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "Kemudian Raja Daud mengirim utusan dan membawanya dari rumah Makhir anak Amiel, dari Lo-debar."
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "Mefiboset, anak Yonatan dan cucu Saul, datang kepada Daud",
-        "dan sujud, menyembah.",
-        "Dan Daud berkata, \"Mefiboset!\"",
-        "Dan dia menjawab, \"Ini hambamu!\""
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "Daud berkata kepadanya,",
-        "\"Jangan takut, karena aku pasti akan menunjukkan kebaikan kepadamu",
-        "demi ayahmu Yonatan,",
-        "dan aku akan mengembalikan kepadamu semua tanah kakekmu Saul;",
-        "dan engkau sendiri akan makan di mejaku secara teratur.\""
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "Dan dia sujud dan berkata,",
-        "\"Apa hambamu ini, sehingga engkau memperhatikan anjing mati seperti aku?\""
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "Kemudian raja memanggil Ziba, hamba Saul, dan berkata kepadanya,",
-        "\"Aku telah memberikan kepada cucu tuanmu semua yang menjadi milik Saul dan keluarganya."
-      ]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "Engkau, anak-anakmu, dan hamba-hambamu harus mengerjakan tanah untuknya,",
-        "dan membawa hasilnya",
-        "supaya cucu tuanmu dapat memiliki makanan;",
-        "namun, Mefiboset, cucu tuanmu, akan makan di mejaku secara teratur.\"",
-        "Ziba memiliki lima belas anak laki-laki dan dua puluh hamba."
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "Kemudian Ziba berkata kepada raja,",
-        "\"Sesuai dengan semua yang diperintahkan tuanku raja kepada hambanya, demikianlah hambamu akan melakukannya.\"",
-        "Jadi Mefiboset makan di meja Daud, seperti salah satu anak raja."
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "Mefiboset memiliki seorang anak laki-laki muda bernama Mikha.",
-        "Dan semua yang tinggal di rumah Ziba adalah hamba-hamba Mefiboset."
-      ]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "Jadi Mefiboset tinggal di Yerusalem,",
-        "karena dia makan di meja raja secara teratur.",
-        "Dan dia lumpuh di kedua kakinya."
-      ]
-    }
-  ]
+    "book": "2 Samuel",
+    "chapter": 9,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Kemudian Daud berkata,",
+                "\"Apakah masih ada orang yang tinggal dari keluarga Saul,",
+                "supaya aku dapat menunjukkan kebaikan kepadanya demi Yonatan?\""
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Ada seorang hamba dari keluarga Saul bernama Ziba,",
+                "yang dibawa menghadap Daud.",
+                "Raja bertanya kepadanya, \"Apakah engkau Ziba?\"",
+                "Dan dia menjawab, \"Aku adalah hambamu.\""
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Kemudian raja berkata,",
+                "\"Apakah tidak ada lagi yang tersisa dari keluarga Saul",
+                "kepada siapa aku dapat menunjukkan kebaikan Tuhan?\"",
+                "Dan Ziba berkata kepada raja,",
+                "\"Masih ada seorang anak laki-laki Yonatan,",
+                "yang lumpuh di kedua kakinya.\""
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Raja bertanya, \"Di mana dia?\"",
+                "Dan Ziba menjawab kepada raja,",
+                "\"Dia ada di rumah Makhir, anak Amiel, di Lo-debar.\""
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Kemudian Raja Daud mengirim utusan dan membawanya dari rumah Makhir anak Amiel, dari Lo-debar."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Mefiboset, anak Yonatan dan cucu Saul, datang kepada Daud",
+                "dan sujud, menyembah.",
+                "Dan Daud berkata, \"Mefiboset!\"",
+                "Dan dia menjawab, \"Ini hambamu!\""
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Daud berkata kepadanya,",
+                "\"Jangan takut, karena aku pasti akan menunjukkan kebaikan kepadamu",
+                "demi ayahmu Yonatan,",
+                "dan aku akan mengembalikan kepadamu semua tanah kakekmu Saul;",
+                "dan engkau sendiri akan makan di mejaku secara teratur.\""
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Dan dia sujud dan berkata,",
+                "\"Apa hambamu ini, sehingga engkau memperhatikan anjing mati seperti aku?\""
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Kemudian raja memanggil Ziba, hamba Saul, dan berkata kepadanya,",
+                "\"Aku telah memberikan kepada cucu tuanmu semua yang menjadi milik Saul dan keluarganya."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Engkau, anak-anakmu, dan hamba-hambamu harus mengerjakan tanah untuknya,",
+                "dan membawa hasilnya",
+                "supaya cucu tuanmu dapat memiliki makanan;",
+                "namun, Mefiboset, cucu tuanmu, akan makan di mejaku secara teratur.\"",
+                "Ziba memiliki lima belas anak laki-laki dan dua puluh hamba."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Kemudian Ziba berkata kepada raja,",
+                "\"Sesuai dengan semua yang diperintahkan tuanku raja kepada hambanya, demikianlah hambamu akan melakukannya.\"",
+                "Jadi Mefiboset makan di meja Daud, seperti salah satu anak raja."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Mefiboset memiliki seorang anak laki-laki muda bernama Mikha.",
+                "Dan semua yang tinggal di rumah Ziba adalah hamba-hamba Mefiboset."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Jadi Mefiboset tinggal di Yerusalem,",
+                "karena dia makan di meja raja secara teratur.",
+                "Dan dia lumpuh di kedua kakinya."
+            ]
+        }
+    ]
 }

@@ -1,0 +1,620 @@
+{
+    "book": "1. Kroníkubók",
+    "chapter": 2,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Þessir voru synir Ísraels:",
+                "> Rúben, Símeon, Leví, Júda, Íssakar, Sebúlon,",
+                "> Dan, Jósef, Benjamín, Naftalí, Gað og Asser"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Synir Júda voru:",
+                "> Er, Ónan og Sela.",
+                "> Þessir þrír fæddust honum af Bat-súa Kanverjamey.",
+                "> Er, frumgetinn sonur Júda, var vondur í augum Drottins, svo hann lét hann deyja."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Tamar, tengdadóttir Júda, fæddi honum Peres og Serah.",
+                "> Júda átti alls fimm syni."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Peres var faðir tveggja sona:",
+                "> Hesron og Hamúl."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Synir Serah voru:",
+                "> Símerí, Etan, Heman, Kalkól og Dara—fimm alls."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Sonur Karmí var:",
+                "> Akár, sem olli Ísrael vandræðum með því að brjóta bannið."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Etan átti son sem hét:",
+                "> Asarja."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Hesron átti syni, sem voru:",
+                "> Jerahmeel, Ram og Kelúbai."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Ram gat Amminadab, og Amminadab gat Nahson,",
+                "> leiðtoga Júda sona."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Nahson varð faðir Salma, sem aftur varð faðir Bóasar."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Bóas var faðir Óbeðs, sem var faðir Ísaí."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Ísaí gat Elíab, frumgetinn sinn,",
+                "> síðan Abínadab annan,",
+                "> Símea þriðja,"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Netaneel var fjórði,",
+                "> Raddai var fimmti,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Ósem var sjötti,",
+                "> Davíð var sjöundi."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Systur þeirra voru:",
+                "> Serúja og Abígail.",
+                "> Serúja átti þrjá syni:",
+                "> Abísaí, Jóab og Asael."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Abígail var móðir Amasa,",
+                "> og faðir Amasa var Jeter Ísmaelíti."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Nú átti Kaleb, sonur Hesron, börn með Asúbu konu sinni og með Jeríót;",
+                "og þessir voru synir hennar:",
+                "> Jeser, Sóbab og Ardon."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Þegar Asúba dó, giftist Kaleb Efrötu,",
+                "> og hún fæddi honum Húr."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Húr var faðir Úrí, og Úrí gat Besalel."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Seinna giftist Hesron dóttur Makír, föður Gíleaðs,",
+                "> sem hann kvæntist sextugur;",
+                "> og hún fæddi honum Segúb."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Segúb var faðir Jaírs, sem átti tuttugu og þrjár borgir í landi Gíleaðs."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "En Gesúr og Aram tóku borgir Jaírs frá þeim,",
+                "með Kenat og þorpum þess, sextíu byggðir.",
+                "Allt þetta voru afkomendur Makír, föður Gíleaðs."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Eftir dauða Hesron í Kaleb-Efrötu,",
+                "fæddi Abía, kona Hesron, honum Assúr,",
+                "> föður Tekóa."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Nú átti Jerahmeel, frumgetinn sonur Hesron, syni:",
+                "> Ram, frumgetinn, síðan Búna, Óren, Ósem og Ahía."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Jerahmeel átti aðra konu, sem hét Atara;",
+                "> hún var móðir Ónams."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Ram, frumgetinn sonur Jerahmeel, átti syni:",
+                "> Maas, Jamín og Eker."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Synir Ónams voru:",
+                "> Sammaí og Jada.",
+                "> Sammaí átti syni:",
+                "> Nadab og Abísúr."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Kona Abísúrs hét Abíhaíl,",
+                "> og hún fæddi honum Ahban og Mólíd."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Synir Nadabs voru:",
+                "> Seled og Appaím.",
+                "> Seled dó barnlaus."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Appaím átti son sem hét:",
+                "> Ísí.",
+                "> Ísí átti son sem hét:",
+                "> Sesan.",
+                "> Sesan átti son sem hét:",
+                "> Ahlai."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Jada, bróðir Sammaí, átti syni:",
+                "> Jeter og Jónatan.",
+                "> Jeter dó barnlaus."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Synir Jónatans voru:",
+                "> Pelet og Sasa.",
+                "> Þetta voru meðal afkomenda Jerahmeel."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Sesan átti enga syni, aðeins dætur.",
+                "Sesan átti egypskan þjón sem hét Jarha."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Sesan gaf dóttur sína í hjónaband við Jarha, þjón sinn,",
+                "> og hún fæddi honum Attaí."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Attaí varð faðir Natan, og Natan gat Sabad,"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Sabad var faðir Eflal, og Eflal gat Óbeð,"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Óbeð var faðir Jehú, og Jehú gat Asarja,"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Asarja var faðir Heleð, og Heleð varð faðir Eleasa,"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Eleasa var faðir Sismaí, og Sismaí varð faðir Sallúm,"
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Sallúm var faðir Jekamía, og Jekamía gat Elísama."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Kaleb, bróðir Jerahmeel, átti syni:",
+                "> Mesa, frumgetinn sinn, sem var faðir Síf;",
+                "> og synir Maresa, föður Hebron."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Hebron átti syni:",
+                "> Kóra, Tappúa, Rekem og Sema."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Sema var faðir Raham, sem var faðir Jorkeam;",
+                "og Rekem var faðir Sammaí."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Sonur Sammaí var:",
+                "> Maon, og Maon var faðir Bet-Súr."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Efa, hjákona Kalebs, fæddi Haran, Mósa og Gases;",
+                "og Haran var faðir Gases."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "Jahdai átti syni:",
+                "> Regem, Jótam, Gesan, Pelet, Efa og Saaf."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "Hjákona Kalebs, Maaka, fæddi Sjeber og Tirhana."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "Hún fæddi einnig Saaf, föður Madmannah,",
+                "Sjeva, föður Makbena og föður Gíbea;",
+                "og dóttir Kalebs var Aksa."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "Þessir voru synir Kalebs:",
+                "Synir Húrs, frumgetinn Efrötu:",
+                "> Sobal, faðir Kirjat-Jearím,"
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "> Salma, sem var faðir Betlehem,",
+                "> og Haref, sem var faðir Bet-Gader."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "Sobal, faðir Kirjat-Jearím, átti syni:",
+                "> Haroe og helming Manahatíta,"
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "> og fjölskyldur Kirjat-Jearím:",
+                "> Jítrítar, Pútítar, Súmatítar og Misraíítar.",
+                "> Frá þessum komu Sóratítar og Estaólítar."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "Synir Salma voru:",
+                "> Betlehem og Netófítar,",
+                "> Atrot-Bet-Jóab, og helmingur Manahatíta, Sórítar."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "> Fjölskyldur skriftlærðra sem bjuggu í Jabes voru:",
+                "> Tíratítar, Símeatítar og Súkatítar.",
+                "> Þetta voru Kenítar sem komu frá Hammat,",
+                "> föður húss Rekab."
+            ]
+        }
+    ]
+}

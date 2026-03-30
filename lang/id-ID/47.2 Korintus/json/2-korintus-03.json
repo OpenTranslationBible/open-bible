@@ -1,104 +1,114 @@
 {
-  "book": "2 Korintus",
-  "chapter": 3,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "Apakah kami mulai memuji diri kami sendiri lagi? Atau apakah kami memerlukan, seperti beberapa orang, surat rekomendasi kepada kamu atau dari kamu?"
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "Kamu adalah surat kami, tertulis dalam hati kami, dikenal dan dipahami oleh semua orang;"
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "Menunjukkan dirimu sebagai surat Kristus, disampaikan oleh kami, ditulis bukan dengan tinta tetapi dengan Roh dari Tuhan yang hidup, bukan pada loh-loh batu tetapi pada loh-loh hati manusia."
-      ]
-    },
-    {
-      "verse": 4,
-      "text": ["Inilah keyakinan yang kami miliki di hadapan Tuhan melalui Kristus."]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "Bukan bahwa kami cukup memadai dalam diri kami sendiri untuk mengklaim sesuatu sebagai berasal dari kami, tetapi kecukupan kami berasal dari Tuhan,"
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "Yang juga membuat kami layak sebagai pelayan dari perjanjian baru, bukan dari huruf tetapi dari Roh; karena huruf membawa kematian, tetapi Roh memberikan kehidupan."
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "Tetapi jika pelayanan yang membawa kematian, yang diukir dengan huruf pada batu, datang dengan kemuliaan sehingga anak-anak Israel tidak dapat menatap wajah Musa dengan tetap karena kemuliaan wajahnya, yang memudar,"
-      ]
-    },
-    {
-      "verse": 8,
-      "text": ["Bagaimana mungkin pelayanan Roh tidak lebih mulia?"]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "Karena jika pelayanan yang membawa penghukuman memiliki kemuliaan, lebih-lebih lagi pelayanan yang membawa kebenaran berlimpah dalam kemuliaan."
-      ]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "Karena apa yang dahulu mulia sekarang tidak memiliki kemuliaan dibandingkan dengan kemuliaan yang melampaui."
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "Karena jika yang memudar itu datang dengan kemuliaan, lebih-lebih lagi yang tetap ada dalam kemuliaan."
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "Oleh karena itu, memiliki harapan seperti itu, kami berbicara dengan keberanian besar,"
-      ]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "Dan kami tidak seperti Musa, yang menutupi wajahnya dengan kerudung agar anak-anak Israel tidak menatap apa yang memudar."
-      ]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "Tetapi pikiran mereka menjadi keras; karena sampai hari ini, pada pembacaan perjanjian lama, kerudung yang sama tetap tidak terangkat, karena itu diambil dalam Kristus."
-      ]
-    },
-    {
-      "verse": 15,
-      "text": ["Namun bahkan sekarang, setiap kali Musa dibaca, kerudung menutupi hati mereka;"]
-    },
-    {
-      "verse": 16,
-      "text": ["Tetapi setiap kali seseorang berbalik kepada Tuhan, kerudung itu diambil."]
-    },
-    {
-      "verse": 17,
-      "text": ["Tuhan adalah Roh, dan di mana Roh Tuhan berada, di situ ada kebebasan."]
-    },
-    {
-      "verse": 18,
-      "text": [
-        "Tetapi kita semua, dengan wajah yang tidak tertutup, memandang seperti dalam cermin kemuliaan Tuhan, sedang diubah menjadi gambar yang sama dari kemuliaan ke kemuliaan, seperti dari Tuhan, Roh."
-      ]
-    }
-  ]
+    "book": "2 Korintus",
+    "chapter": 3,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Apakah kami mulai memuji diri kami sendiri lagi? Atau apakah kami memerlukan, seperti beberapa orang, surat rekomendasi kepada kamu atau dari kamu?"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Kamu adalah surat kami, tertulis dalam hati kami, dikenal dan dipahami oleh semua orang;"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Menunjukkan dirimu sebagai surat Kristus, disampaikan oleh kami, ditulis bukan dengan tinta tetapi dengan Roh dari Tuhan yang hidup, bukan pada loh-loh batu tetapi pada loh-loh hati manusia."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Inilah keyakinan yang kami miliki di hadapan Tuhan melalui Kristus."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Bukan bahwa kami cukup memadai dalam diri kami sendiri untuk mengklaim sesuatu sebagai berasal dari kami, tetapi kecukupan kami berasal dari Tuhan,"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Yang juga membuat kami layak sebagai pelayan dari perjanjian baru, bukan dari huruf tetapi dari Roh; karena huruf membawa kematian, tetapi Roh memberikan kehidupan."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Tetapi jika pelayanan yang membawa kematian, yang diukir dengan huruf pada batu, datang dengan kemuliaan sehingga anak-anak Israel tidak dapat menatap wajah Musa dengan tetap karena kemuliaan wajahnya, yang memudar,"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Bagaimana mungkin pelayanan Roh tidak lebih mulia?"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Karena jika pelayanan yang membawa penghukuman memiliki kemuliaan, lebih-lebih lagi pelayanan yang membawa kebenaran berlimpah dalam kemuliaan."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Karena apa yang dahulu mulia sekarang tidak memiliki kemuliaan dibandingkan dengan kemuliaan yang melampaui."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Karena jika yang memudar itu datang dengan kemuliaan, lebih-lebih lagi yang tetap ada dalam kemuliaan."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Oleh karena itu, memiliki harapan seperti itu, kami berbicara dengan keberanian besar,"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Dan kami tidak seperti Musa, yang menutupi wajahnya dengan kerudung agar anak-anak Israel tidak menatap apa yang memudar."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Tetapi pikiran mereka menjadi keras; karena sampai hari ini, pada pembacaan perjanjian lama, kerudung yang sama tetap tidak terangkat, karena itu diambil dalam Kristus."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Namun bahkan sekarang, setiap kali Musa dibaca, kerudung menutupi hati mereka;"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Tetapi setiap kali seseorang berbalik kepada Tuhan, kerudung itu diambil."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Tuhan adalah Roh, dan di mana Roh Tuhan berada, di situ ada kebebasan."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Tetapi kita semua, dengan wajah yang tidak tertutup, memandang seperti dalam cermin kemuliaan Tuhan, sedang diubah menjadi gambar yang sama dari kemuliaan ke kemuliaan, seperti dari Tuhan, Roh."
+            ]
+        }
+    ]
 }

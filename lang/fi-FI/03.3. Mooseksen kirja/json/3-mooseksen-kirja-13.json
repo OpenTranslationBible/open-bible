@@ -1,0 +1,360 @@
+{
+    "book": "3. Mooseksen kirja",
+    "chapter": 13,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Herra puhui Moosekselle sanoen:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "\"Kun henkilöllä on turvotus, rupi tai kirkas kohta ihollaan, ja siitä voi tulla lepra-infektio, hänet on vietävä pappi Aaronin tai jonkun hänen pojistaan, jotka ovat pappeja, luo."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Pappi tutkii infektoituneen alueen iholla, ja jos infektion karva on muuttunut valkoiseksi ja infektio vaikuttaa olevan syvemmällä kuin iho, se on lepra. Kun pappi tutkii heitä, hän julistaa heidät epäpuhtaiksi."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Jos kirkas kohta on valkoinen iholla eikä näytä olevan syvemmällä kuin iho, ja karva ei ole muuttunut valkoiseksi, pappi eristää henkilön seitsemäksi päiväksi."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Seitsemäntenä päivänä pappi tutkii heitä, ja jos infektio ei ole muuttunut eikä ole levinnyt iholla, pappi eristää heidät vielä seitsemäksi päiväksi."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Pappi tutkii heitä uudelleen seitsemäntenä päivänä, ja jos infektio on haalistunut eikä ole levinnyt, pappi julistaa heidät puhtaiksi; se on vain ihottuma. Heidän on pestävä vaatteensa ja he ovat puhtaita."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Mutta jos ihottuma leviää iholla sen jälkeen kun he ovat näyttäytyneet papille puhdistusta varten, heidän on mentävä uudelleen papin eteen."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Pappi tutkii heitä, ja jos ihottuma on levinnyt, hän julistaa heidät epäpuhtaiksi; se on lepra."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "\"Kun henkilöllä on lepra-infektio, hänet on vietävä papin luo."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Pappi tutkii heitä, ja jos iholla on valkoinen turvotus, joka on muuttanut karvan valkoiseksi, ja turvotuksessa on raakaa lihaa,"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "se on krooninen lepra iholla, ja pappi julistaa heidät epäpuhtaiksi. Heitä ei tarvitse eristää, sillä he ovat jo epäpuhtaita."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Jos lepra leviää iholla ja peittää koko kehon päästä jalkoihin, niin pitkälle kuin pappi voi nähdä,"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "pappi tutkii heitä, ja jos lepra on peittänyt koko heidän kehonsa, hän julistaa heidät puhtaiksi. Koska se on muuttunut kokonaan valkoiseksi, he ovat puhtaita."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Mutta aina kun raakaa lihaa ilmestyy heihin, he ovat epäpuhtaita."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Kun pappi näkee raakan lihan, hän julistaa heidät epäpuhtaiksi; raaka liha on epäpuhtaus, se on lepra."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Jos raaka liha muuttuu ja tulee valkoiseksi, heidän on mentävä papin eteen."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Pappi tutkii heitä, ja jos infektoitunut alue on muuttunut valkoiseksi, pappi julistaa heidät puhtaiksi; he ovat puhtaita."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "\"Kun iholla on paise ja se paranee,"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "ja paiseen paikalle tulee valkoinen turvotus tai punertavan valkoinen kirkas kohta, heidän on mentävä papin eteen."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Pappi tutkii sen, ja jos se näyttää olevan syvemmällä kuin iho ja karva on muuttunut valkoiseksi, pappi julistaa heidät epäpuhtaiksi; se on lepra, joka on puhjennut paiseeseen."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Mutta jos pappi tutkii sen eikä siinä ole valkoista karvaa eikä se ole syvemmällä kuin iho ja on haalistunut, pappi eristää heidät seitsemäksi päiväksi."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Jos se leviää iholla, pappi julistaa heidät epäpuhtaiksi; se on infektio."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Mutta jos kirkas kohta pysyy muuttumattomana eikä ole levinnyt, se on vain paiseen arpi, ja pappi julistaa heidät puhtaiksi."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "\"Kun iholla on palovamma ja palovamman raaka liha muuttuu kirkkaaksi kohdaksi, punertavan valkoiseksi tai valkoiseksi,"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "pappi tutkii kohdan, ja jos kirkkaan kohdan karva on muuttunut valkoiseksi ja se näyttää olevan syvemmällä kuin iho, se on lepra, joka on puhjennut palovammaan. Pappi julistaa heidät epäpuhtaiksi; se on lepra-infektio."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Mutta jos pappi tutkii sen eikä siinä ole valkoista karvaa eikä se ole syvemmällä kuin iho ja on himmeä, pappi eristää heidät seitsemäksi päiväksi."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Seitsemäntenä päivänä pappi tutkii heitä, ja jos se leviää iholla, pappi julistaa heidät epäpuhtaiksi; se on lepra-infektio."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Mutta jos kirkas kohta pysyy muuttumattomana eikä ole levinnyt iholla ja on himmeä, se on palovamman turvotus, ja pappi julistaa heidät puhtaiksi; se on vain palovamman arpi."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "\"Jos miehellä tai naisella on infektio päässä tai parrassa,"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "pappi tutkii infektion, ja jos se näyttää olevan syvemmällä kuin iho ja siinä on ohutta kellertävää karvaa, pappi julistaa heidät epäpuhtaiksi; se on hilse, se on pään tai parran lepra."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Mutta jos pappi tutkii hilseilevän infektion eikä se näytä olevan syvemmällä kuin iho eikä siinä ole mustaa karvaa, pappi eristää heidät seitsemäksi päiväksi."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Seitsemäntenä päivänä pappi tutkii infektion, ja jos hilse ei ole levinnyt eikä kellertävää karvaa ole kasvanut, eikä se näytä olevan syvemmällä kuin iho,"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "heidän on ajeltava itsensä, paitsi infektoitunut alue, ja pappi eristää heidät vielä seitsemäksi päiväksi."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Seitsemäntenä päivänä pappi tutkii hilseen, ja jos se ei ole levinnyt ja näyttää olevan syvemmällä kuin iho, pappi julistaa heidät puhtaiksi. Heidän on pestävä vaatteensa ja he ovat puhtaita."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Mutta jos hilse leviää iholla sen jälkeen kun heidät on julistettu puhtaiksi,"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "pappi tutkii heitä, ja jos hilse on levinnyt, hänen ei tarvitse etsiä kellertävää karvaa; he ovat epäpuhtaita."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Jos hilse pysyy muuttumattomana ja siihen on kasvanut mustaa karvaa, hilse on parantunut, ja he ovat puhtaita; pappi julistaa heidät puhtaiksi."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "\"Kun miehellä tai naisella on kirkkaita kohtia iholla, valkoisia kirkkaita kohtia,"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "pappi tutkii heitä, ja jos kirkkaat kohdat ovat himmeän valkoisia, se on ihottuma, joka on puhjennut iholla; he ovat puhtaita."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "\"Jos mies menettää päänsä hiukset, hän on kalju mutta puhdas."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Jos hän menettää hiukset päänsä etu- ja sivuosista, hän on kalju otsalta mutta puhdas."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Mutta jos kaljussa päässä tai otsassa on punertavan valkoinen infektio, se on lepra, joka puhkeaa hänen kaljussa päässään tai otsassaan."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Pappi tutkii hänet, ja jos infektion turvotus on punertavan valkoinen hänen kaljussa päässään tai otsassaan, kuten lepran ulkonäkö iholla,"
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "hän on leprainen mies ja on epäpuhtaus. Pappi julistaa hänet epäpuhtaaksi päänsä infektion vuoksi."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "\"Henkilön, jolla on tällainen infektio, on käytettävä repeytyneitä vaatteita, annettava hiustensa olla hoitamattomina, peitettävä kasvojensa alaosa ja huudettava: 'Epäpuhdas! Epäpuhdas!'"
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Heidän on pysyttävä epäpuhtaina niin kauan kuin heillä on infektio. Heidän on asuttava yksin leirin ulkopuolella."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "\"Kun vaatteessa on lepran merkki, olipa se villainen tai pellavainen vaate,"
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "olipa se loimessa tai kuteessa, pellavasta tai villasta, tai nahassa tai missä tahansa nahkatuotteessa,"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "jos merkki on vihertävä tai punertava vaatteessa tai nahassa, olipa se loimessa tai kuteessa, tai missä tahansa nahkatuotteessa, se on lepran merkki ja se on näytettävä papille."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "Pappi tutkii merkin ja eristää esineen seitsemäksi päiväksi."
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "Seitsemäntenä päivänä hän tutkii merkin, ja jos se on levinnyt vaatteessa, loimessa tai kuteessa, tai nahassa, se on leprainen pahanlaatuinen merkki ja on epäpuhtaus."
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "Hänen on poltettava vaate, olipa se loimessa tai kuteessa, villasta tai pellavasta, tai mikä tahansa nahkatuote, jossa merkki esiintyy; se on leprainen pahanlaatuinen merkki. Se on poltettava tulessa."
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "Mutta jos pappi tutkii sen eikä merkki ole levinnyt vaatteessa, loimessa tai kuteessa, tai missään nahkatuotteessa,"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "pappi käskee esineen pestä ja eristää sen vielä seitsemäksi päiväksi."
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "Kun esine on pesty, pappi tutkii sen uudelleen, ja jos merkki ei ole muuttanut ulkonäköään, vaikka se ei ole levinnyt, se on epäpuhtaus. Polta se, olipa merkki takana tai edessä."
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "Mutta jos pappi tutkii sen ja merkki on haalistunut pesun jälkeen, hän repii sen pois vaatteesta, nahasta, loimesta tai kuteesta."
+            ]
+        },
+        {
+            "verse": 57,
+            "text": [
+                "Jos se ilmestyy uudelleen vaatteessa, loimessa tai kuteessa, tai missä tahansa nahkatuotteessa, se on leviävä merkki; esine on poltettava."
+            ]
+        },
+        {
+            "verse": 58,
+            "text": [
+                "Mikä tahansa vaate, loimi tai kude, tai mikä tahansa nahkatuote, josta merkki on kadonnut pesun jälkeen, on pestävä uudelleen ja on puhdas.\""
+            ]
+        },
+        {
+            "verse": 59,
+            "text": [
+                "Nämä ovat säännökset lepran merkistä villaisessa tai pellavaisessa vaatteessa, loimessa tai kuteessa, tai missä tahansa nahkatuotteessa, sen julistamiseksi puhtaaksi tai epäpuhtaaksi."
+            ]
+        }
+    ]
+}

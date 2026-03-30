@@ -1,0 +1,396 @@
+{
+    "book": "Fjärde Moseboken",
+    "chapter": 26,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Efter plågan talade Herren till Mose och Eleasar, prästen Arons son, och sade:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "\"Genomför en folkräkning av hela Israels församling, från tjugo år och uppåt, efter deras familjer, alla som är stridsdugliga i Israel.\""
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Så Mose och prästen Eleasar talade till dem på Moabs hedar vid Jordan mittemot Jeriko och sade:"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "\"Ta en folkräkning av männen från tjugo år och uppåt, som Herren befallde Mose.\" Dessa var israeliterna som kom ut ur Egypten:"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Ruben, Israels förstföddes, ättlingar var: från Hanok, hanokiternas släkt; från Pallu, palluiternas släkt;"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "från Hesron, hesroniternas släkt; från Karmi, karmiternas släkt."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Dessa var rubeniternas släkter, och de som räknades var 43 730."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Pallu hade en son, Eliab."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Eliabs söner var Nemuel, Datan och Abiram. Dessa är samma Datan och Abiram som kallades av församlingen, som stred mot Mose och Aron i Koras sällskap, när de stred mot Herren."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Jorden öppnade sin mun och slukade dem tillsammans med Kora, när det sällskapet dog, när elden förtärde 250 män, och de blev ett varnande tecken."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Men Koras ättlingar dog inte ut."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Simeons ättlingar efter deras familjer var: från Nemuel, nemueliternas släkt; från Jamin, jaminiternas släkt; från Jakin, jakiniternas släkt;"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "från Serah, serahiternas släkt; från Saul, sauliternas släkt."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Dessa var simeoniternas släkter, och de som räknades var 22 200."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Gads ättlingar efter deras familjer var: från Sefon, sefoniternas släkt; från Haggi, haggiternas släkt; från Shuni, shuniternas släkt;"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "från Osni, osniternas släkt; från Eri, eriternernas släkt;"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "från Arod, aroditernas släkt; från Areli, areliternas släkt."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Dessa var Gads söners släkter, och de som räknades var 40 500."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Judas söner var Er och Onan, men de dog i Kanaans land."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Judas ättlingar efter deras familjer var: från Sela, selaniternas släkt; från Peres, peresiternas släkt; från Serah, serahiternas släkt."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Peres ättlingar var: från Hesron, hesroniternas släkt; från Hamul, hamuliternas släkt."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Dessa var Judas släkter, och de som räknades var 76 500."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Isaskars ättlingar efter deras familjer var: från Tola, tolaïtternas släkt; från Puva, puniternas släkt;"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "från Jasub, jasubiternas släkt; från Simron, simroniternas släkt."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Dessa var Isaskars släkter, och de som räknades var 64 300."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Sebulons ättlingar efter deras familjer var: från Sered, serediternas släkt; från Elon, eloniternas släkt; från Jachleel, jachleeliternas släkt."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Dessa var sebuloniternas släkter, och de som räknades var 60 500."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Josefs ättlingar efter deras familjer var Manasse och Efraim."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Manasses ättlingar: från Makir, makiriternas släkt; Makir var far till Gilead: från Gilead, gileaditernas släkt."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Dessa var Gileads ättlingar: från Ieser, ieseriternas släkt; från Helek, helekiternas släkt;"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "från Asriel, asrieliternas släkt; från Sikem, sikemiternas släkt;"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "från Semida, semidaiternas släkt; från Hefer, heferiternas släkt."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Selofhad, Hefers son, hade inga söner, bara döttrar; och Selofhads döttrars namn var Mahela, Noa, Hogla, Milka och Tirsa."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Dessa var Manasses släkter, och de som räknades var 52 700."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Dessa var Efraims ättlingar efter deras familjer: från Sutela, sutelaiternas släkt; från Beker, bekeriternas släkt; från Tahan, tahaniternas släkt."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Dessa var Sutelas ättlingar: från Eran, eraniternas släkt."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Dessa var Efraims söners släkter, och de som räknades var 32 500. Dessa var Josefs ättlingar efter deras familjer."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Benjamins ättlingar efter deras familjer var: från Bela, belaiternas släkt; från Asbel, asbeliternas släkt; från Ahiram, ahiramiternas släkt;"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "från Sefufam, sefufamiternas släkt; från Hufam, hufamiternas släkt."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Belas ättlingar var Ard och Naaman: från Ard, arditernas släkt; från Naaman, naamiternas släkt."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Dessa var Benjamins släkter, och de som räknades var 45 600."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Dessa var Dans ättlingar efter deras familjer: från Shuham, shuhamiternas släkt. Dessa var Dans släkter."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Alla shuhamiternas släkter, och de som räknades var 64 400."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Asers ättlingar efter deras familjer var: från Jimna, jimniternas släkt; från Jisvi, jisviternas släkt; från Beria, beriiternas släkt."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Från Berias ättlingar: från Heber, heberiternas släkt; från Malkiel, malkieliternas släkt."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Aser hade en dotter som hette Serah."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "Dessa var Asers söners släkter, och de som räknades var 53 400."
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "Naftalis ättlingar efter deras familjer var: från Jaseel, jaseeliternas släkt; från Guni, guniternas släkt;"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "från Jeser, jeseriternas släkt; från Sillem, sillemiternas släkt."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "Dessa var Naftalis släkter efter deras familjer, och de som räknades var 45 400."
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "Det totala antalet israeliter som räknades var 601 730."
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "Herren instruerade sedan Mose,"
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "\"Landet ska delas ut bland dem som en arvslott efter antalet namn."
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "Till en större grupp ge en större arvslott, och till en mindre grupp en mindre; var och en ska få sin arvslott efter antalet av de som är listade."
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "Se till att landet fördelas genom lott. Vad varje grupp ärver ska vara enligt namnen på deras förfäders stammar."
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "Arvet ska fördelas genom lott bland de större och mindre grupperna."
+            ]
+        },
+        {
+            "verse": 57,
+            "text": [
+                "Dessa var leviterna som räknades efter deras familjer: från Gershon, gershoniternas släkt; från Kehat, kehatiternas släkt; från Merari, merariternas släkt."
+            ]
+        },
+        {
+            "verse": 58,
+            "text": [
+                "Dessa var också leviternas släkter: libniternas släkt, hebroniternas släkt, mahliternas släkt, mushiternas släkt och korahiternas släkt. Kehat var far till Amram."
+            ]
+        },
+        {
+            "verse": 59,
+            "text": [
+                "Namnet på Amrams hustru var Jokebed, en dotter till Levi, som föddes till leviterna i Egypten. Till Amram födde hon Aron, Mose och deras syster Mirjam."
+            ]
+        },
+        {
+            "verse": 60,
+            "text": [
+                "Arons söner var Nadab och Abihu, Eleasar och Itamar."
+            ]
+        },
+        {
+            "verse": 61,
+            "text": [
+                "Men Nadab och Abihu dog när de offrade obehörig eld inför Herren."
+            ]
+        },
+        {
+            "verse": 62,
+            "text": [
+                "Alla manliga leviter från en månad och uppåt var 23 000. De räknades inte bland de andra israeliterna eftersom de inte fick någon arvslott bland dem."
+            ]
+        },
+        {
+            "verse": 63,
+            "text": [
+                "Dessa är de som registrerades av Mose och prästen Eleasar när de räknade israeliterna på Moabs hedar vid Jordan mittemot Jeriko."
+            ]
+        },
+        {
+            "verse": 64,
+            "text": [
+                "Bland dessa fanns det inte en man av dem som räknades av Mose och prästen Aron när de räknade israeliterna i Sinaiöknen."
+            ]
+        },
+        {
+            "verse": 65,
+            "text": [
+                "För Herren hade sagt om dem, \"De ska säkerligen dö i öknen.\" Inte en enda av dem var kvar, förutom Kaleb, Jefunnes son, och Josua, Nuns son."
+            ]
+        }
+    ]
+}

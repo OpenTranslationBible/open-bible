@@ -1,0 +1,509 @@
+{
+    "book": "1. Aikakirja",
+    "chapter": 4,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Juudan pojat olivat:",
+                "> Peres, Hesron, Karmi, Hur ja Sobal."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Sobalin poika Reaja oli Jahatin isä,",
+                "> ja Jahat oli Ahumain ja Lahadin isä.",
+                "> Nämä olivat Zoratilaisten suku."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Nämä olivat Etamin jälkeläiset:",
+                "> Jisreel, Jisma ja Jidbas;",
+                "> ja heidän sisarensa oli nimeltään Hasselelponi."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Penuel oli Gedorin isä,",
+                "ja Eser oli Husahan isä.",
+                "> Nämä olivat Hurin jälkeläisiä, Efratan esikoisia, joka oli Betlehemin isä."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Asur, joka oli Tekoan isä, oli kahden vaimon mies:",
+                "> Hela ja Naara."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Naaran synnyttämät pojat olivat:",
+                "> Ahussam, Hefer, Temeni ja Haahashtari.",
+                "> Nämä olivat Naaran pojat."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Helan pojat olivat:",
+                "> Seret, Jishar ja Etnan."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Kos oli Anubin ja Sobeban isä,",
+                "ja Harumin pojan Aharhelin sukujen isä."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Jaebes oli arvokkaampi kuin veljensä,",
+                "ja hänen äitinsä antoi hänelle nimen Jaebes, sanoen,",
+                "\"Koska synnytin hänet tuskassa.\""
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Jaebes huusi Israelin Jumalaa, sanoen,",
+                "> \"Oi, jospa siunaisit minua ja laajentaisit aluettani,",
+                "> ja jos kätesi olisi minun kanssani,",
+                "> ja varjelisit minua pahasta, ettei se minua vahingoittaisi!\"",
+                "> Ja Jumala antoi hänelle, mitä hän pyysi."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Kelub, Suhan veli, oli Mehirin isä,",
+                "> joka oli Eshtonin sukujen isä."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Eshtonin pojat olivat Bet-Rafa, Paseah ja Tehinnah, joka oli Ir-Nahasin isä.",
+                "> Nämä olivat Rekahtilaiset."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Kenaan pojat olivat:",
+                "> Otniel ja Seraja.",
+                "> Ja Otnielin poika oli Hatat."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Meonotai oli Ofrahin isä,",
+                "> ja Seraja oli Joabin, Ge-Harasimin isän, isä,",
+                "> sillä he olivat käsityöläisiä."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Kaaleb oli Jefunnen poika, hänen poikansa olivat:",
+                "> Iru, Ela ja Naam;",
+                "> ja Elan poika oli Kenaan."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Jehalelelin pojat olivat:",
+                "> Sif, Sifa, Tirja ja Asarel."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Ezran pojat olivat:",
+                "> Jeter, Mered, Efer ja Jalon.",
+                "> Ja nämä ovat Bithian, faraon tyttären, pojat,",
+                "> jonka Mered otti:",
+                "> Hän tuli raskaaksi ja synnytti Mirjamin, Sammain ja Jisbahan, joka oli Estemoan isä."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Hänen juutalainen vaimonsa synnytti Jeredin, Gedorin isän,",
+                "Heberin, Sokan isän,",
+                "ja Jekutielin, Sanoahin isän.",
+                "> Nämä olivat Bithian, faraon tyttären, pojat, jonka Mered oli ottanut."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Hodijan vaimon, Naham-sisaren, pojat olivat:",
+                "> Keilan, Garmilaisen, esi-isä,",
+                "> ja Estemoa, Maakilainen."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Simonin pojat olivat:",
+                "> Amnon, Rinna, Benhanan ja Tilon.",
+                "> Ja Ishin pojat olivat:",
+                "> Sohet ja Ben-Sohet."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Selan, Juudan pojan, pojat olivat:",
+                "> Er, Lekan isä,",
+                "> Laada, Maresan isä,",
+                "> ja pellavatyöntekijöiden suku Bet-Asbeassa;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> Jokim, Kozeban miehet,",
+                "> Joas ja Saraf, jotka hallitsivat Moabissa ja Jashubi-Lehemissä.",
+                "> Mutta nämä ovat vanhoja kertomuksia."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Nämä olivat savenvalajia ja Netaimin ja Gederan asukkaita;",
+                "he asuivat siellä kuninkaan palveluksessa."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Simeonin pojat olivat:",
+                "> Nemuel, Jamin, Jarib, Serah ja Saul;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> hänen poikansa Sallum,",
+                "> Mibsam hänen poikansa,",
+                "> ja Misma hänen poikansa."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Misman pojat olivat:",
+                "> hänen poikansa Hammuel,",
+                "> Sakkur hänen poikansa,",
+                "> ja Simei hänen poikansa."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Nyt Simeillä oli kuusitoista poikaa ja kuusi tytärtä,",
+                "mutta hänen veljillään ei ollut niin paljon poikia,",
+                "> eikä koko heidän sukunsa lisääntynyt niin kuin Juudan suku."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "He asuivat Beersebassa, Moladassa ja Hazar-Sualissa,"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Bilhassa, Esemissä ja Toladissa,"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Betuelissa, Hormassa ja Siklagissa,"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Bet-Markaabotissa, Hazar-Susimissa, Bet-Birissä ja Saarimissa.",
+                "> Nämä olivat heidän kaupunkinsa Daavidin hallituskauteen asti."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Heidän kylänsä olivat:",
+                "> Etam, Ain, Rimmon, Token ja Asan — viisi kaupunkia —"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "ja kaikki heidän asutuksensa, jotka olivat näiden kaupunkien ympärillä aina Baaliin asti.",
+                "> Nämä olivat heidän asuinpaikkansa, ja heillä on sukuluettelonsa."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Mesobab, Jamlek ja Josa, Amasjan isä,"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "sekä Joel ja Jehu, Josibian, Serajan ja Asielin jälkeläinen,"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "ja Eljoenai, Jaakoba, Jesohaja, Asaja, Adiel, Jesimiel ja Benaja,"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "ja Sisa, joka oli Sifin poika, joka oli Allonin, joka oli Jedajan, joka oli Simrin, joka oli Semajan —"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "nimeltä mainitut olivat johtajia perheissään;",
+                "ja heidän isänsä talot lisääntyivät suuresti."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "He matkustivat Gedorin portille, laakson itäpuolelle,",
+                "etsimään laidunta laumoilleen."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "He löysivät rikasta ja hyvää laidunta,",
+                "ja maa oli tilava, hiljainen ja rauhallinen;",
+                "> sillä siellä asuivat ennen hamalaiset."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Nyt ne, jotka tulivat nimeltä mainittuina Hiskian, Juudan kuninkaan, päivinä,",
+                "hyökkäsivät heidän telttoihinsa ja meunealaisiin, jotka siellä löydettiin,",
+                "ja he tuhosivat heidät täydellisesti tähän päivään asti,",
+                "ja asuivat heidän paikallaan, koska siellä oli laidunta heidän laumoilleen."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Heistä, Simeonin jälkeläisistä, viisisataa miestä meni Seirin vuorelle,",
+                "Pelatjan, Nearjan, Refajan ja Ussielin, Ishin poikien, johdolla."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "He tuhosivat ne amalekilaiset, jotka olivat paenneet,",
+                "ja ovat asuneet siellä tähän päivään asti."
+            ]
+        }
+    ]
+}

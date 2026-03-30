@@ -1,0 +1,48 @@
+{
+    "book": "Sálmabók",
+    "chapter": 100,
+    "verses": [
+        {
+            "text": [
+                "Þakkarsálmur."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Fagnið Drottni, öll jörðin."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Þjónið Drottni með gleði;",
+                "> Komið fyrir auglit hans með fagnaðarsöngvum."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Vitið að Drottinn er Guð;",
+                "> Hann hefur skapað oss, og vér erum hans,",
+                "> vér erum lýður hans og sauðir í haga hans."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Gangið inn um hlið hans með þakkargjörð,",
+                "> í forgörðum hans með lofsöng.",
+                "> Þakkið honum, vegsamið nafn hans."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Því að Drottinn er góður;",
+                "> miskunn hans varir að eilífu,",
+                "> og trúfesti hans frá kyni til kyns."
+            ]
+        }
+    ]
+}

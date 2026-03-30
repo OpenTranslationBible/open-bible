@@ -1,336 +1,468 @@
 {
-  "book": "Ezra",
-  "chapter": 2,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "Inilah orang-orang dari provinsi yang kembali dari penawanan para buangan, yang telah dibawa ke pembuangan ke Babel oleh Nebukadnezar, raja Babel. Mereka kembali ke Yerusalem dan Yehuda, masing-masing ke kota mereka sendiri."
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "Mereka datang bersama Zerubabel, Yesua, Nehemia, Seraya, Reelaya, Mordekai, Bilsan, Mispar, Bigwai, Rehum, dan Baana. Berikut adalah daftar orang-orang Israel:"
-      ]
-    },
-    {
-      "verse": 3,
-      "text": ["> keturunan Paros, berjumlah 2.172;"]
-    },
-    {
-      "verse": 4,
-      "text": ["> keturunan Sefaca, berjumlah 372;"]
-    },
-    {
-      "verse": 5,
-      "text": ["> keturunan Arah, berjumlah 775;"]
-    },
-    {
-      "verse": 6,
-      "text": ["> keturunan Pahat-Moab, melalui keturunan Yesua dan Yoab, berjumlah 2.812;"]
-    },
-    {
-      "verse": 7,
-      "text": ["> keturunan Elam, berjumlah 1.254;"]
-    },
-    {
-      "verse": 8,
-      "text": ["> keturunan Zatu, berjumlah 945;"]
-    },
-    {
-      "verse": 9,
-      "text": ["> keturunan Zakai, berjumlah 760;"]
-    },
-    {
-      "verse": 10,
-      "text": ["> keturunan Bani, berjumlah 642;"]
-    },
-    {
-      "verse": 11,
-      "text": ["> keturunan Bebai, berjumlah 623;"]
-    },
-    {
-      "verse": 12,
-      "text": ["> keturunan Azgad, berjumlah 1.222;"]
-    },
-    {
-      "verse": 13,
-      "text": ["> keturunan Adonikam, berjumlah 666;"]
-    },
-    {
-      "verse": 14,
-      "text": ["> keturunan Bigwai, berjumlah 2.056;"]
-    },
-    {
-      "verse": 15,
-      "text": ["> keturunan Adin, berjumlah 454;"]
-    },
-    {
-      "verse": 16,
-      "text": ["> keturunan Ater, melalui Hizkia, berjumlah 98;"]
-    },
-    {
-      "verse": 17,
-      "text": ["> keturunan Bezai, berjumlah 323;"]
-    },
-    {
-      "verse": 18,
-      "text": ["> keturunan Yora, berjumlah 112;"]
-    },
-    {
-      "verse": 19,
-      "text": ["> keturunan Hasum, berjumlah 223;"]
-    },
-    {
-      "verse": 20,
-      "text": ["> keturunan Gibar, berjumlah 95;"]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 21,
-      "text": ["> orang-orang Betlehem, berjumlah 123;"]
-    },
-    {
-      "verse": 22,
-      "text": ["> orang-orang Netofa, berjumlah 56;"]
-    },
-    {
-      "verse": 23,
-      "text": ["> orang-orang Anatot, berjumlah 128;"]
-    },
-    {
-      "verse": 24,
-      "text": ["> keturunan Azmawet, berjumlah 42;"]
-    },
-    {
-      "verse": 25,
-      "text": ["> keturunan Kiryat-Yearim, Kefira, dan Beerot, berjumlah 743;"]
-    },
-    {
-      "verse": 26,
-      "text": ["> keturunan Rama dan Geba, berjumlah 621;"]
-    },
-    {
-      "verse": 27,
-      "text": ["> orang-orang dari Mikhmas, berjumlah 122;"]
-    },
-    {
-      "verse": 28,
-      "text": ["> orang-orang dari Betel dan Ai, berjumlah 223;"]
-    },
-    {
-      "verse": 29,
-      "text": ["> keturunan Nebo, berjumlah 52;"]
-    },
-    {
-      "verse": 30,
-      "text": ["> keturunan Magbis, berjumlah 156;"]
-    },
-    {
-      "verse": 31,
-      "text": ["> keturunan Elam yang lain, berjumlah 1.254;"]
-    },
-    {
-      "verse": 32,
-      "text": ["> keturunan Harim, berjumlah 320;"]
-    },
-    {
-      "verse": 33,
-      "text": ["> keturunan Lod, Hadid, dan Ono, berjumlah 725;"]
-    },
-    {
-      "verse": 34,
-      "text": ["> orang-orang Yerikho, berjumlah 345;"]
-    },
-    {
-      "verse": 35,
-      "text": ["> keturunan Senaa, berjumlah 3.630."]
-    },
-    {
-      "verse": 36,
-      "text": ["> Para imam: keturunan Yedaya, dari keluarga Yesua, berjumlah 973;"]
-    },
-    {
-      "verse": 37,
-      "text": ["> keturunan Imer, berjumlah 1.052;"]
-    },
-    {
-      "verse": 38,
-      "text": ["> keturunan Pasyhur, berjumlah 1.247;"]
-    },
-    {
-      "verse": 39,
-      "text": ["> keturunan Harim, berjumlah 1.017."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 40,
-      "text": [
-        "> Orang-orang Lewi: keluarga Yesua dan Kadmiel, dari keturunan Hodawya, berjumlah 74."
-      ]
-    },
-    {
-      "verse": 41,
-      "text": ["> Para penyanyi: keluarga Asaf, berjumlah 128."]
-    },
-    {
-      "verse": 42,
-      "text": [
-        "Para penjaga gerbang bait suci:",
-        "> keturunan Salum, Ater, Talmon,",
-        "> Akub, Hatita, dan Sobai, berjumlah 139."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 43,
-      "text": ["Para pelayan bait suci:", "> keturunan Ziha, Hasufa, Tabbaot,"]
-    },
-    {
-      "verse": 44,
-      "text": ["> Keros, Siaha, dan Padon,"]
-    },
-    {
-      "verse": 45,
-      "text": ["> Lebana, Hagaba, dan Akub,"]
-    },
-    {
-      "verse": 46,
-      "text": ["> Hagab, Salmai, dan Hanan,"]
-    },
-    {
-      "verse": 47,
-      "text": ["> Gidel, Gahar, dan Reaya,"]
-    },
-    {
-      "verse": 48,
-      "text": ["> Rezin, Nekoda, dan Gazam,"]
-    },
-    {
-      "verse": 49,
-      "text": ["> Uza, Paseah, dan Besai,"]
-    },
-    {
-      "verse": 50,
-      "text": ["> Asna, Meunim, dan Nefusim,"]
-    },
-    {
-      "verse": 51,
-      "text": ["> Bakbuk, Hakufa, dan Harhur,"]
-    },
-    {
-      "verse": 52,
-      "text": ["> Bazlut, Mehida, dan Harsa,"]
-    },
-    {
-      "verse": 53,
-      "text": ["> Barkos, Sisera, dan Tema,"]
-    },
-    {
-      "verse": 54,
-      "text": ["> Nezia, dan juga Hatifa."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 55,
-      "text": ["Keturunan para pelayan Salomo:", "keturunan Sotai, Hasoferet, dan Peruda,"]
-    },
-    {
-      "verse": 56,
-      "text": ["> Yaala, Darkon, dan Gidel,"]
-    },
-    {
-      "verse": 57,
-      "text": ["> Sefaca, Hatil, dan Pokeret-Hazebaim, dan Ami."]
-    },
-    {
-      "verse": 58,
-      "text": ["Para pelayan bait suci dan keturunan para pelayan Salomo berjumlah 392."]
-    },
-    {
-      "verse": 59,
-      "text": [
-        "Inilah orang-orang yang datang dari Tel-Melah, Tel-Harsa, Kerub, Adon, dan Imer, tetapi mereka tidak dapat membuktikan bahwa keluarga mereka adalah keturunan Israel:"
-      ]
-    },
-    {
-      "verse": 60,
-      "text": ["Keluarga-keluarga Delaya, Tobia, dan Nekoda, berjumlah 652."]
-    },
-    {
-      "verse": 61,
-      "text": [
-        "Dan dari antara para imam:",
-        "> keturunan Hobaya, Hakos, dan Barzilai,",
-        "> yang telah menikahi seorang anak perempuan Barzilai, orang Gilead",
-        "> dan disebut dengan nama mereka."
-      ]
-    },
-    {
-      "verse": 62,
-      "text": [
-        "> Mereka mencari catatan keluarga mereka tetapi tidak dapat menemukannya, dan dengan demikian dikeluarkan dari keimaman sebagai orang yang tidak tahir."
-      ]
-    },
-    {
-      "verse": 63,
-      "text": [
-        "> Gubernur memerintahkan mereka untuk tidak mengambil bagian dari makanan yang paling suci sampai ada seorang imam yang melayani dengan Urim dan Tumim."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 64,
-      "text": ["Jadi, seluruh jemaat berjumlah 42.360,"]
-    },
-    {
-      "verse": 65,
-      "text": [
-        "selain budak laki-laki dan perempuan mereka, yang berjumlah 7.337; dan mereka memiliki 200 penyanyi laki-laki dan perempuan."
-      ]
-    },
-    {
-      "verse": 66,
-      "text": ["Mereka memiliki 736 kuda, dan 245 bagal,"]
-    },
-    {
-      "verse": 67,
-      "text": ["memiliki 435 unta, dan 6.720 keledai."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 68,
-      "text": [
-        "Setelah tiba di rumah Tuhan di Yerusalem, beberapa kepala keluarga memberikan persembahan sukarela untuk pembangunan kembali rumah Tuhan di tempatnya."
-      ]
-    },
-    {
-      "verse": 69,
-      "text": [
-        "Sesuai dengan kemampuan mereka, mereka menyumbang ke perbendaharaan untuk pekerjaan ini 61.000 dirham emas, 5.000 mina perak, dan 100 pakaian imam."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 70,
-      "text": [
-        "Para imam, orang-orang Lewi, para penyanyi, para penjaga gerbang, dan para pelayan bait suci menetap di kota-kota mereka sendiri, bersama dengan beberapa orang lainnya, sementara sisa orang Israel menetap di kota-kota mereka."
-      ]
-    }
-  ]
+    "book": "Ezra",
+    "chapter": 2,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Inilah orang-orang dari provinsi yang kembali dari penawanan para buangan, yang telah dibawa ke pembuangan ke Babel oleh Nebukadnezar, raja Babel. Mereka kembali ke Yerusalem dan Yehuda, masing-masing ke kota mereka sendiri."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Mereka datang bersama Zerubabel, Yesua, Nehemia, Seraya, Reelaya, Mordekai, Bilsan, Mispar, Bigwai, Rehum, dan Baana. Berikut adalah daftar orang-orang Israel:"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> keturunan Paros, berjumlah 2.172;"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> keturunan Sefaca, berjumlah 372;"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> keturunan Arah, berjumlah 775;"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> keturunan Pahat-Moab, melalui keturunan Yesua dan Yoab, berjumlah 2.812;"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> keturunan Elam, berjumlah 1.254;"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> keturunan Zatu, berjumlah 945;"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> keturunan Zakai, berjumlah 760;"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> keturunan Bani, berjumlah 642;"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> keturunan Bebai, berjumlah 623;"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> keturunan Azgad, berjumlah 1.222;"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> keturunan Adonikam, berjumlah 666;"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> keturunan Bigwai, berjumlah 2.056;"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> keturunan Adin, berjumlah 454;"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> keturunan Ater, melalui Hizkia, berjumlah 98;"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> keturunan Bezai, berjumlah 323;"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> keturunan Yora, berjumlah 112;"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> keturunan Hasum, berjumlah 223;"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> keturunan Gibar, berjumlah 95;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> orang-orang Betlehem, berjumlah 123;"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> orang-orang Netofa, berjumlah 56;"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> orang-orang Anatot, berjumlah 128;"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> keturunan Azmawet, berjumlah 42;"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> keturunan Kiryat-Yearim, Kefira, dan Beerot, berjumlah 743;"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> keturunan Rama dan Geba, berjumlah 621;"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> orang-orang dari Mikhmas, berjumlah 122;"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> orang-orang dari Betel dan Ai, berjumlah 223;"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "> keturunan Nebo, berjumlah 52;"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> keturunan Magbis, berjumlah 156;"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "> keturunan Elam yang lain, berjumlah 1.254;"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "> keturunan Harim, berjumlah 320;"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "> keturunan Lod, Hadid, dan Ono, berjumlah 725;"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "> orang-orang Yerikho, berjumlah 345;"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "> keturunan Senaa, berjumlah 3.630."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "> Para imam: keturunan Yedaya, dari keluarga Yesua, berjumlah 973;"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "> keturunan Imer, berjumlah 1.052;"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "> keturunan Pasyhur, berjumlah 1.247;"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "> keturunan Harim, berjumlah 1.017."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "> Orang-orang Lewi: keluarga Yesua dan Kadmiel, dari keturunan Hodawya, berjumlah 74."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "> Para penyanyi: keluarga Asaf, berjumlah 128."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Para penjaga gerbang bait suci:",
+                "> keturunan Salum, Ater, Talmon,",
+                "> Akub, Hatita, dan Sobai, berjumlah 139."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Para pelayan bait suci:",
+                "> keturunan Ziha, Hasufa, Tabbaot,"
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "> Keros, Siaha, dan Padon,"
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "> Lebana, Hagaba, dan Akub,"
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "> Hagab, Salmai, dan Hanan,"
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "> Gidel, Gahar, dan Reaya,"
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "> Rezin, Nekoda, dan Gazam,"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "> Uza, Paseah, dan Besai,"
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "> Asna, Meunim, dan Nefusim,"
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "> Bakbuk, Hakufa, dan Harhur,"
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "> Bazlut, Mehida, dan Harsa,"
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "> Barkos, Sisera, dan Tema,"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "> Nezia, dan juga Hatifa."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "Keturunan para pelayan Salomo:",
+                "keturunan Sotai, Hasoferet, dan Peruda,"
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "> Yaala, Darkon, dan Gidel,"
+            ]
+        },
+        {
+            "verse": 57,
+            "text": [
+                "> Sefaca, Hatil, dan Pokeret-Hazebaim, dan Ami."
+            ]
+        },
+        {
+            "verse": 58,
+            "text": [
+                "Para pelayan bait suci dan keturunan para pelayan Salomo berjumlah 392."
+            ]
+        },
+        {
+            "verse": 59,
+            "text": [
+                "Inilah orang-orang yang datang dari Tel-Melah, Tel-Harsa, Kerub, Adon, dan Imer, tetapi mereka tidak dapat membuktikan bahwa keluarga mereka adalah keturunan Israel:"
+            ]
+        },
+        {
+            "verse": 60,
+            "text": [
+                "Keluarga-keluarga Delaya, Tobia, dan Nekoda, berjumlah 652."
+            ]
+        },
+        {
+            "verse": 61,
+            "text": [
+                "Dan dari antara para imam:",
+                "> keturunan Hobaya, Hakos, dan Barzilai,",
+                "> yang telah menikahi seorang anak perempuan Barzilai, orang Gilead",
+                "> dan disebut dengan nama mereka."
+            ]
+        },
+        {
+            "verse": 62,
+            "text": [
+                "> Mereka mencari catatan keluarga mereka tetapi tidak dapat menemukannya, dan dengan demikian dikeluarkan dari keimaman sebagai orang yang tidak tahir."
+            ]
+        },
+        {
+            "verse": 63,
+            "text": [
+                "> Gubernur memerintahkan mereka untuk tidak mengambil bagian dari makanan yang paling suci sampai ada seorang imam yang melayani dengan Urim dan Tumim."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 64,
+            "text": [
+                "Jadi, seluruh jemaat berjumlah 42.360,"
+            ]
+        },
+        {
+            "verse": 65,
+            "text": [
+                "selain budak laki-laki dan perempuan mereka, yang berjumlah 7.337; dan mereka memiliki 200 penyanyi laki-laki dan perempuan."
+            ]
+        },
+        {
+            "verse": 66,
+            "text": [
+                "Mereka memiliki 736 kuda, dan 245 bagal,"
+            ]
+        },
+        {
+            "verse": 67,
+            "text": [
+                "memiliki 435 unta, dan 6.720 keledai."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 68,
+            "text": [
+                "Setelah tiba di rumah Tuhan di Yerusalem, beberapa kepala keluarga memberikan persembahan sukarela untuk pembangunan kembali rumah Tuhan di tempatnya."
+            ]
+        },
+        {
+            "verse": 69,
+            "text": [
+                "Sesuai dengan kemampuan mereka, mereka menyumbang ke perbendaharaan untuk pekerjaan ini 61.000 dirham emas, 5.000 mina perak, dan 100 pakaian imam."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 70,
+            "text": [
+                "Para imam, orang-orang Lewi, para penyanyi, para penjaga gerbang, dan para pelayan bait suci menetap di kota-kota mereka sendiri, bersama dengan beberapa orang lainnya, sementara sisa orang Israel menetap di kota-kota mereka."
+            ]
+        }
+    ]
 }

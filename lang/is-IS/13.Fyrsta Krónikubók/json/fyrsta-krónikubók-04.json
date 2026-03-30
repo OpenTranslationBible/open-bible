@@ -1,0 +1,509 @@
+{
+    "book": "1 Kroníkubók",
+    "chapter": 4,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Synir Júda voru:",
+                "> Peres, Hesron, Karmí, Húr og Sobal."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Sonur Sobals, Reaja, var faðir Jahats,",
+                "> og Jahat var faðir Ahúmaí og Lahad.",
+                "> Þetta voru afkomendur Sóratíta."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Þetta voru afkomendur Etams:",
+                "> Jesreel, Jisma og Jidbas;",
+                "> og systir þeirra hét Hasselponí."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Penuel var faðir Gedor,",
+                "og Eser var faðir Húsa.",
+                "> Þetta voru afkomendur Húrs, frumburðar Efrata, sem var faðir Betlehem."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Asúr, sem var faðir Tekóa, átti tvær eiginkonur:",
+                "> Helu og Naaru."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Naara ól:",
+                "> Ahússam, Hefer, Temení og Haahashtarí.",
+                "> Þetta voru synir Naaru."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Synir Helu voru:",
+                "> Seret, Jishar og Etna."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Kós var faðir Anúb og Sóbebah,",
+                "og fjölskyldur Aharhels, sonar Harúms."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Nú var Jabes heiðarlegri en bræður hans,",
+                "og móðir hans nefndi hann Jabes, og sagði,",
+                "„Því ég fæddi hann með kvöl.“"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Nú kallaði Jabes á Guð Ísraels, og sagði,",
+                "> „Ó, að þú myndir blessa mig sannarlega, og stækka landamæri mín,",
+                "> og að hönd þín væri með mér,",
+                "> og að þú myndir halda mér frá skaða svo að það myndi ekki meiða mig!“",
+                "> Og Guð veitti honum það sem hann bað um."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Kelúb, bróðir Súha, var faðir Mehírs,",
+                "> sem var faðir Eshtons."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Bet-Rafa var sonur Eshtons, eins og Pasea og Tehína, faðir Ír-Nahas.",
+                "> Þetta voru menn Recha."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Synir Kenaz voru:",
+                "> Otníel og Seraja.",
+                "> Og sonur Otníels var Hatat."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Meonotai var faðir Ofra,",
+                "> og Seraja var faðir Jóabs, föður Ge-Harasím,",
+                "> því þeir voru iðnaðarmenn."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Kaleb var sonur Jefúnna, synir hans voru:",
+                "> Írú, Ela og Naam;",
+                "> og sonur Ela var Kenaz."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Synir Jehallelel voru:",
+                "> Sif, Sifa, Tíría og Asareel."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Synir Esra voru:",
+                "> Jeter, Mered, Efer og Jalon.",
+                "> Og þetta eru synir Bítíu, dóttur Faraós,",
+                "> sem Mered tók:",
+                "> Hún varð þunguð og ól Mirjam, Sammaí og Jisba, föður Eshtemoa."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Gyðingakonan hans ól Jered, föður Gedor,",
+                "Heber, föður Sókó,",
+                "og Jekútíel, föður Sanoah.",
+                "> Þetta voru synir Bítíu, dóttur Faraós, sem Mered hafði tekið."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Synir eiginkonu Hodía, systur Nahams, voru:",
+                "> forfaðir Keíla Garmíta,",
+                "> og Eshtemoa Maakatíta."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Synir Símon voru:",
+                "> Amnon, Rinna, Benhanan og Tílon.",
+                "> Og synir Ísí voru:",
+                "> Sóhet og Ben-Sóhet."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Synir Sela, sonar Júda, voru:",
+                "> Er, faðir Leka,",
+                "> Laada, faðir Maresha,",
+                "> og fjölskyldur húss línverkamanna í Bet-Asbea;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> Jókim, menn Kóseba,",
+                "> Jóas og Saraf, sem réðu í Móab og Jasúbilehem.",
+                "> En skráningarnar eru fornar."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Þetta voru leirkerasmiðirnir og íbúar Netaím og Gederah;",
+                "þeir bjuggu þar með konunginum fyrir verk hans."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Synir Símeon voru:",
+                "> Nemúel, Jamín, Jaríb, Sera og Sjaúl;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> sonur hans Sallúm,",
+                "> Míbsam sonur hans,",
+                "> og Mísma sonur hans."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Synir Mísma voru:",
+                "> sonur hans Hammúel,",
+                "> Sakkúr sonur hans,",
+                "> og Símeí sonur hans."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Nú átti Símeí sextán syni og sex dætur,",
+                "en bræður hans áttu ekki svo marga syni,",
+                "> né fjölgaði öll fjölskylda þeirra eins og ætt Júda."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Þeir bjuggu í Beerseba, Molada og Hazar-Súal,"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "í Bilha, Esem og Tólad,"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "í Betúel, Horma og Siklag,"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "í Bet-Markabot, Hazar-Súsím, Bet-Birí og Sjaaraím.",
+                "> Þetta voru borgir þeirra þar til á dögum Davíðs."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Þorp þeirra voru:",
+                "> Etam, Aín, Rimmon, Tóken og Asan—fimm borgir—"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "og allar byggðir þeirra sem voru í kringum þessar borgir allt til Baal.",
+                "> Þetta voru bústaðir þeirra, og þeir hafa ættartölu sína."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Mesóbab, Jamlek og Jósa, faðir Amasía,"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "ásamt Jóel og Jehú, afkomanda Josíbía, Seraja og Asíel,"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "og Elíóenai, Jaakóbah, Jesóhaía, Asaía, Adíel, Jesímíel og Benaja,"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "og Sisa, var sonur Sífí, sem var af Allon, sem var af Jedaja, sem var af Símerí, sem var af Semaja—"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "þeir sem nefndir eru með nafni voru leiðtogar í fjölskyldum sínum;",
+                "og hús feðra þeirra fjölgaði mjög."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Þeir fóru að inngangi Gedor, austan við dalinn,",
+                "til að leita beitilands fyrir hjarðir sínar."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Þeir fundu ríkulegt og gott beitiland,",
+                "og landið var víðáttumikið, rólegt og friðsælt;",
+                "> því þeir sem bjuggu þar áður voru Hamítar."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Nú þeir sem komu nefndir með nafni á dögum Hiskía, konungs Júda,",
+                "réðust á tjöld þeirra og Meúníta sem fundust þar,",
+                "og þeir eyðilögðu þá algjörlega til þessa dags,",
+                "og bjuggu í stað þeirra, því þar var beitiland fyrir hjarðir þeirra."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Af þeim, afkomendum Símeons, fóru fimm hundruð menn til Seírfjalls,",
+                "með Pelatía, Nearía, Refaja og Ússíel, syni Ísí, sem leiðtoga þeirra."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Þeir eyðilögðu leifar Amalekíta sem höfðu sloppið,",
+                "og hafa búið þar til þessa dags."
+            ]
+        }
+    ]
+}

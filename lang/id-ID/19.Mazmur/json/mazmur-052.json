@@ -1,81 +1,88 @@
 {
-  "book": "Mazmur",
-  "chapter": 52,
-  "verses": [
-    {
-      "text": [
-        "Untuk pemimpin musik. Nyanyian pengajaran Daud, ketika Doeg, orang Edom, datang dan memberitahu Saul, dan berkata kepadanya, “Daud telah datang ke rumah Ahimelekh.”"
-      ]
-    },
-    {
-      "verse": 1,
-      "text": [
-        "> Mengapa engkau bermegah dalam kejahatan, hai orang yang perkasa?",
-        "> Kesetiaan Tuhan bertahan sepanjang hari."
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "> Lidahmu merencanakan kehancuran,",
-        "> Seperti pisau cukur yang tajam, engkau yang melakukan tipu daya."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "> Engkau lebih menyukai kejahatan daripada kebaikan,",
-        "> Dusta daripada mengatakan kebenaran.",
-        "> Sela"
-      ]
-    },
-    {
-      "verse": 4,
-      "text": ["> Engkau senang dengan kata-kata yang memakan,", "> Engkau lidah yang menipu."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "> Namun Tuhan akan menjatuhkanmu secara permanen;",
-        "> Dia akan menangkapmu dan mengeluarkanmu dari tempat tinggalmu,",
-        "> Dan mencabutmu dari tanah orang yang hidup.",
-        "> Sela"
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "> Orang benar akan melihat dan merasa kagum,",
-        "> Dan mereka akan mengejek dia, dengan berkata,"
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "> “Lihatlah, orang yang tidak menjadikan Tuhan sebagai perlindungannya,",
-        "> Tetapi percaya pada kelimpahan kekayaannya,",
-        "> Dan mencari perlindungan dalam kehancurannya sendiri.”"
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "> Tetapi aku, seperti pohon zaitun yang subur di rumah Tuhan;",
-        "> Aku percaya pada kesetiaan Tuhan untuk selama-lamanya."
-      ]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "> Aku akan memuji Engkau selamanya, karena Engkau telah melakukannya,",
-        "> Dan aku akan menunggu nama-Mu, karena itu baik, di hadapan orang-orang setia-Mu."
-      ]
-    }
-  ]
+    "book": "Mazmur",
+    "chapter": 52,
+    "verses": [
+        {
+            "text": [
+                "Untuk pemimpin musik. Nyanyian pengajaran Daud, ketika Doeg, orang Edom, datang dan memberitahu Saul, dan berkata kepadanya, “Daud telah datang ke rumah Ahimelekh.”"
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Mengapa engkau bermegah dalam kejahatan, hai orang yang perkasa?",
+                "> Kesetiaan Tuhan bertahan sepanjang hari."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Lidahmu merencanakan kehancuran,",
+                "> Seperti pisau cukur yang tajam, engkau yang melakukan tipu daya."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Engkau lebih menyukai kejahatan daripada kebaikan,",
+                "> Dusta daripada mengatakan kebenaran.",
+                "> Sela"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Engkau senang dengan kata-kata yang memakan,",
+                "> Engkau lidah yang menipu."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Namun Tuhan akan menjatuhkanmu secara permanen;",
+                "> Dia akan menangkapmu dan mengeluarkanmu dari tempat tinggalmu,",
+                "> Dan mencabutmu dari tanah orang yang hidup.",
+                "> Sela"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Orang benar akan melihat dan merasa kagum,",
+                "> Dan mereka akan mengejek dia, dengan berkata,"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> “Lihatlah, orang yang tidak menjadikan Tuhan sebagai perlindungannya,",
+                "> Tetapi percaya pada kelimpahan kekayaannya,",
+                "> Dan mencari perlindungan dalam kehancurannya sendiri.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Tetapi aku, seperti pohon zaitun yang subur di rumah Tuhan;",
+                "> Aku percaya pada kesetiaan Tuhan untuk selama-lamanya."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Aku akan memuji Engkau selamanya, karena Engkau telah melakukannya,",
+                "> Dan aku akan menunggu nama-Mu, karena itu baik, di hadapan orang-orang setia-Mu."
+            ]
+        }
+    ]
 }

@@ -1,159 +1,167 @@
 {
-  "book": "Habakuk",
-  "chapter": 3,
-  "verses": [
-    {
-      "verse": 1,
-      "text": ["Doa permohonan oleh nabi Habakuk, diiringi dengan nada ratapan."]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "> Tuhan, aku telah mendengar tentang kemasyhuran-Mu, dan aku kagum akan perbuatan-Mu, Tuhan.",
-        "> Hidupkanlah itu di zaman kami,",
-        "> di hari-hari kami buatlah itu dikenal;",
-        "> dalam murka-Mu ingatlah akan belas kasihan."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "> Tuhan datang dari Teman,",
-        "> dan Yang Kudus dari Gunung Paran. Sela",
-        "> Kemuliaan-Nya menutupi langit,",
-        "> dan pujian-Nya memenuhi bumi."
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "> Cahaya-Nya seperti sinar matahari;",
-        "> sinar memancar dari tangan-Nya,",
-        "> di mana kekuatan-Nya tersembunyi."
-      ]
-    },
-    {
-      "verse": 5,
-      "text": ["> Sampar berjalan di depan-Nya,", "> dan penyakit mengikuti jejak-Nya."]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "> Dia berdiri, dan bumi bergetar;",
-        "> Dia memandang, dan bangsa-bangsa gemetar.",
-        "> Gunung-gunung yang kekal terpecah,",
-        "> bukit-bukit purba runtuh.",
-        "> Jalan-jalan-Nya adalah kekal."
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "> Aku melihat kemah-kemah Kushan dalam kesusahan,",
-        "> dan tirai-tirai kemah Midian bergetar."
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "> Apakah Tuhan marah kepada sungai-sungai?",
-        "> Apakah murka-Mu terhadap aliran-aliran air?",
-        "> Apakah Engkau murka terhadap laut",
-        "> ketika Engkau berkuda di atas kuda-Mu",
-        "> dan kereta-kereta keselamatan-Mu?"
-      ]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "> Engkau menyingkapkan busur-Mu,",
-        "> dan memanggil banyak anak panah.",
-        "> Sela Engkau membelah bumi dengan sungai-sungai."
-      ]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "> Gunung-gunung melihat Engkau dan bergelora;",
-        "> arus air melanda.",
-        "> Samudera mengangkat suaranya,",
-        "> dan mengangkat gelombangnya tinggi-tinggi."
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "> Matahari dan bulan berhenti di tempatnya",
-        "> pada cahaya anak panah-Mu yang terbang,",
-        "> pada kilauan tombak-Mu yang berkilat."
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "> Dalam murka Engkau berjalan melalui bumi;",
-        "> dalam amarah Engkau mengirik bangsa-bangsa."
-      ]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "> Engkau maju untuk keselamatan umat-Mu,",
-        "> untuk menyelamatkan orang yang Kauurapi.",
-        "> Engkau menghancurkan kepala rumah kejahatan,",
-        "> menelanjangi dia dari kaki sampai leher. Sela"
-      ]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "> Dengan tombaknya sendiri Engkau menembus",
-        "> kepala para pejuangnya.",
-        "> Mereka menyerbu untuk menyerakkan kami,",
-        "> membanggakan diri seolah-olah hendak menelan orang yang tertindas secara diam-diam."
-      ]
-    },
-    {
-      "verse": 15,
-      "text": ["> Engkau berkuda di atas laut dengan kuda-Mu,", "> mengaduk air yang besar."]
-    },
-    {
-      "verse": 16,
-      "text": [
-        "> Aku mendengar, dan hatiku berdebar;",
-        "> bibirku bergetar mendengar suara itu.",
-        "> Pembusukan merayap ke dalam tulangku,",
-        "> dan kakiku gemetar.",
-        "> Namun aku akan menunggu dengan tenang hari kesusahan",
-        "> datang atas bangsa yang menyerang kami."
-      ]
-    },
-    {
-      "verse": 17,
-      "text": [
-        "> Walaupun pohon ara tidak berbunga,",
-        "> dan tidak ada buah anggur di pohon anggur;",
-        "> walaupun hasil zaitun gagal,",
-        "> dan ladang-ladang tidak menghasilkan makanan;",
-        "> walaupun kawanan ternak lenyap dari kandang,",
-        "> dan tidak ada lembu sapi di kandang,"
-      ]
-    },
-    {
-      "verse": 18,
-      "text": [
-        "> namun, aku akan bersukacita di dalam Tuhan,",
-        "> aku akan bergembira di dalam Tuhan Juruselamatku."
-      ]
-    },
-    {
-      "verse": 19,
-      "text": [
-        "> Tuhan Yang Berdaulat adalah kekuatanku;",
-        "> Dia membuat kakiku seperti kaki rusa,",
-        "> dan memungkinkan aku untuk berjalan di tempat-tempat tinggi.",
-        "Untuk pemimpin paduan suara, dengan alat-alat musik bersenar."
-      ]
-    }
-  ]
+    "book": "Habakuk",
+    "chapter": 3,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Doa permohonan oleh nabi Habakuk, diiringi dengan nada ratapan."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Tuhan, aku telah mendengar tentang kemasyhuran-Mu, dan aku kagum akan perbuatan-Mu, Tuhan.",
+                "> Hidupkanlah itu di zaman kami,",
+                "> di hari-hari kami buatlah itu dikenal;",
+                "> dalam murka-Mu ingatlah akan belas kasihan."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Tuhan datang dari Teman,",
+                "> dan Yang Kudus dari Gunung Paran. Sela",
+                "> Kemuliaan-Nya menutupi langit,",
+                "> dan pujian-Nya memenuhi bumi."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Cahaya-Nya seperti sinar matahari;",
+                "> sinar memancar dari tangan-Nya,",
+                "> di mana kekuatan-Nya tersembunyi."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Sampar berjalan di depan-Nya,",
+                "> dan penyakit mengikuti jejak-Nya."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Dia berdiri, dan bumi bergetar;",
+                "> Dia memandang, dan bangsa-bangsa gemetar.",
+                "> Gunung-gunung yang kekal terpecah,",
+                "> bukit-bukit purba runtuh.",
+                "> Jalan-jalan-Nya adalah kekal."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Aku melihat kemah-kemah Kushan dalam kesusahan,",
+                "> dan tirai-tirai kemah Midian bergetar."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Apakah Tuhan marah kepada sungai-sungai?",
+                "> Apakah murka-Mu terhadap aliran-aliran air?",
+                "> Apakah Engkau murka terhadap laut",
+                "> ketika Engkau berkuda di atas kuda-Mu",
+                "> dan kereta-kereta keselamatan-Mu?"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Engkau menyingkapkan busur-Mu,",
+                "> dan memanggil banyak anak panah.",
+                "> Sela Engkau membelah bumi dengan sungai-sungai."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Gunung-gunung melihat Engkau dan bergelora;",
+                "> arus air melanda.",
+                "> Samudera mengangkat suaranya,",
+                "> dan mengangkat gelombangnya tinggi-tinggi."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Matahari dan bulan berhenti di tempatnya",
+                "> pada cahaya anak panah-Mu yang terbang,",
+                "> pada kilauan tombak-Mu yang berkilat."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Dalam murka Engkau berjalan melalui bumi;",
+                "> dalam amarah Engkau mengirik bangsa-bangsa."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Engkau maju untuk keselamatan umat-Mu,",
+                "> untuk menyelamatkan orang yang Kauurapi.",
+                "> Engkau menghancurkan kepala rumah kejahatan,",
+                "> menelanjangi dia dari kaki sampai leher. Sela"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Dengan tombaknya sendiri Engkau menembus",
+                "> kepala para pejuangnya.",
+                "> Mereka menyerbu untuk menyerakkan kami,",
+                "> membanggakan diri seolah-olah hendak menelan orang yang tertindas secara diam-diam."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Engkau berkuda di atas laut dengan kuda-Mu,",
+                "> mengaduk air yang besar."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Aku mendengar, dan hatiku berdebar;",
+                "> bibirku bergetar mendengar suara itu.",
+                "> Pembusukan merayap ke dalam tulangku,",
+                "> dan kakiku gemetar.",
+                "> Namun aku akan menunggu dengan tenang hari kesusahan",
+                "> datang atas bangsa yang menyerang kami."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Walaupun pohon ara tidak berbunga,",
+                "> dan tidak ada buah anggur di pohon anggur;",
+                "> walaupun hasil zaitun gagal,",
+                "> dan ladang-ladang tidak menghasilkan makanan;",
+                "> walaupun kawanan ternak lenyap dari kandang,",
+                "> dan tidak ada lembu sapi di kandang,"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> namun, aku akan bersukacita di dalam Tuhan,",
+                "> aku akan bergembira di dalam Tuhan Juruselamatku."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Tuhan Yang Berdaulat adalah kekuatanku;",
+                "> Dia membuat kakiku seperti kaki rusa,",
+                "> dan memungkinkan aku untuk berjalan di tempat-tempat tinggi.",
+                "Untuk pemimpin paduan suara, dengan alat-alat musik bersenar."
+            ]
+        }
+    ]
 }

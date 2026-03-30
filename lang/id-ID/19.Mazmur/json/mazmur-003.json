@@ -1,68 +1,91 @@
 {
-  "book": "Mazmur",
-  "chapter": 3,
-  "verses": [
-    {
-      "text": ["Mazmur Daud, ketika ia melarikan diri dari anaknya Absalom."]
-    },
-    {
-      "verse": 1,
-      "text": ["> Tuhan, betapa banyaknya musuhku!", "> Banyak yang bangkit melawan aku."]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "> Banyak yang berkata tentang aku,",
-        "> \"Tidak ada keselamatan baginya dari Tuhan.\"",
-        "> Sela"
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "> Tetapi Engkau, Tuhan, adalah perisai di sekelilingku,",
-        "> Kemuliaanku, dan yang mengangkat kepalaku tinggi-tinggi."
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "> Aku berseru kepada Tuhan dengan suaraku,",
-        "> Dan Dia menjawab aku dari gunung-Nya yang kudus.",
-        "> Sela"
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 5,
-      "text": ["> Aku berbaring dan tidur;", "> Aku bangun, sebab Tuhan menopang aku."]
-    },
-    {
-      "verse": 6,
-      "text": ["> Aku tidak akan takut kepada banyak orang", "> Yang mengepung aku."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "> Bangkitlah, Tuhan; selamatkanlah aku, Tuhanku!",
-        "> Sebab Engkau telah memukul semua musuhku pada pipi;",
-        "> Engkau telah mematahkan gigi orang-orang fasik."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 8,
-      "text": ["> Keselamatan adalah dari Tuhan;", "> Kiranya berkat-Mu atas umat-Mu.", "> Sela"]
-    }
-  ]
+    "book": "Mazmur",
+    "chapter": 3,
+    "verses": [
+        {
+            "text": [
+                "Mazmur Daud, ketika ia melarikan diri dari anaknya Absalom."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Tuhan, betapa banyaknya musuhku!",
+                "> Banyak yang bangkit melawan aku."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Banyak yang berkata tentang aku,",
+                "> \"Tidak ada keselamatan baginya dari Tuhan.\"",
+                "> Sela"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Tetapi Engkau, Tuhan, adalah perisai di sekelilingku,",
+                "> Kemuliaanku, dan yang mengangkat kepalaku tinggi-tinggi."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Aku berseru kepada Tuhan dengan suaraku,",
+                "> Dan Dia menjawab aku dari gunung-Nya yang kudus.",
+                "> Sela"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Aku berbaring dan tidur;",
+                "> Aku bangun, sebab Tuhan menopang aku."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Aku tidak akan takut kepada banyak orang",
+                "> Yang mengepung aku."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Bangkitlah, Tuhan; selamatkanlah aku, Tuhanku!",
+                "> Sebab Engkau telah memukul semua musuhku pada pipi;",
+                "> Engkau telah mematahkan gigi orang-orang fasik."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Keselamatan adalah dari Tuhan;",
+                "> Kiranya berkat-Mu atas umat-Mu.",
+                "> Sela"
+            ]
+        }
+    ]
 }

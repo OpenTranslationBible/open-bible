@@ -1,0 +1,525 @@
+{
+    "book": "1 Krønikebog",
+    "chapter": 16,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "De bragte Guds ark og satte den i teltet, som David havde forberedt til den,",
+                "> og de frembar brændofre og fredsofre for Gud."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Da David havde afsluttet ofringen af brændofrene og fredsofrene,",
+                "> velsignede han folket i Herrens navn."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Han uddelte til alle i Israel, både mænd og kvinder,",
+                "> til hver en brød, en portion kød og en rosinkage."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Han udnævnte nogle af levitterne som tjenere foran Herrens ark,",
+                "> for at fejre, takke og prise Herren, Israels Gud:"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Asaf som leder,",
+                "> og næst efter ham Zekarja, derefter Jeiel, Shemiramot, Jehiel, Mattitja, Eliab, Benaja og Obed-Edom,",
+                "> og Jeiel med harper og lyrer;",
+                "> Asaf spillede på højtlydende cymbaler,"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> og Benaja og Jahaziel præsterne blæste i trompeter kontinuerligt foran Guds pagts ark."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "På den dag betroede David denne takkesang til Herren",
+                "> ved Asaf og hans slægtninge:"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Tak Herren, påkald Hans navn;",
+                "> Gør Hans gerninger kendt blandt folkene."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Syng for Ham, pris Ham;",
+                "> Fortæl om alle Hans underfulde gerninger."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Pral af Hans hellige navn;",
+                "> Lad dem, der søger Herren, glæde sig i hjertet."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Søg Herren og Hans styrke;",
+                "> Søg Hans nærvær uophørligt."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Husk Hans undere, som Han har gjort,",
+                "> Hans vidundere og mundens domme,"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> I, Israels afkom, Hans tjener,",
+                "> Jakobs børn, Hans udvalgte!"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Han er Herren vores Gud;",
+                "> Hans domme rækker ud over hele jorden."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Husk Hans pagt for evigt,",
+                "> Det ord, Han befalede for tusind generationer,"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Den pagt, Han oprettede med Abraham,",
+                "> Og Hans løfte til Isak."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Han bekræftede det også for Jakob som en forordning,",
+                "> For Israel som en evig pagt,"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Idet Han sagde: “Til dig vil jeg give Kanaans land,",
+                "> Som din arvelods del.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Da I var få i antal,",
+                "> Meget få, og fremmede i det,"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> Og de vandrede fra folk til folk,",
+                "> Og fra et kongerige til et andet folk,"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> Tillod Han ingen at undertrykke dem,",
+                "> Og Han irettesatte konger for deres skyld og sagde,"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> “Rør ikke ved Mine salvede,",
+                "> Og gør ikke Mine profeter ondt.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> Syng for Herren, hele jorden;",
+                "> Forkynd den gode nyhed om Hans frelse dag for dag."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Forkynd Hans herlighed blandt nationerne,",
+                "> Hans vidunderlige gerninger blandt alle folkene."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> For Herren er stor og højt at prise;",
+                "> Han skal frygtes over alle guder."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> For alle folkets guder er blot afguder,",
+                "> Men Herren skabte himlene."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> Pragt og majestæt er foran Ham,",
+                "> Styrke og glæde er i Hans bolig."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> Tilskriv Herren, I folkets familier,",
+                "> Tilskriv Herren herlighed og styrke."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "> Tilskriv Herren den herlighed, der tilkommer Hans navn;",
+                "> Bring et offer, og kom foran Ham;",
+                "> Tilbed Herren i hellig prydelse."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> Frygt for Ham, hele jorden;",
+                "> Ja, verden er fast grundlagt, den vil ikke blive flyttet."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "> Lad himlene glæde sig, og jorden juble;",
+                "> Og lad dem forkynde blandt nationerne: “Herren regerer.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "> Lad havet bruse, og alt hvad det rummer;",
+                "> Lad marken juble, og alt hvad der er i den."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "> Da vil skovens træer synge af glæde for Herren;",
+                "> For Han kommer for at dømme jorden."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "> Tak Herren, for Han er god;",
+                "> For Hans trofasthed varer evigt."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "> Sig da: “Frels os, vor frelses Gud,",
+                "> Og saml os og red os fra nationerne,",
+                "> For at takke Dit hellige navn,",
+                "> Og prise Din herlighed.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "> Lovet være Herren, Israels Gud,",
+                "> Fra evighed til evighed!”",
+                "> Da sagde hele folket,",
+                "> “Amen,” og priste Herren."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Så efterlod han Asaf og hans slægtninge der foran Herrens pagts ark,",
+                "> for at tjene foran arken kontinuerligt, som hver dags arbejde krævede;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "og Obed-Edom med sine otteogtres slægtninge;",
+                "> Obed-Edom, også Jedutuns søn, og Hosa, som portvagter."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Han efterlod Zadok præsten og hans brødre præsterne foran Herrens tabernakel",
+                "på højen, som var i Gibeon,"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "for at ofre brændofre til Herren på brændofferalteret kontinuerligt morgen og aften,",
+                "> i overensstemmelse med alt, hvad der er skrevet i Herrens lov, som Han befalede Israel."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Med dem var Heman og Jedutun, og resten som var udvalgt,",
+                "> som var udpeget ved navn til at takke Herren,",
+                "> fordi Hans trofasthed varer evigt."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Med dem var Heman og Jedutun med trompeter og cymbaler for dem, der spillede højt,",
+                "> og med instrumenter til Guds sange,",
+                "> og Jedutuns sønner for porten."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Så forlod hele folket, hver til sit eget hjem;",
+                "og David vendte tilbage for at velsigne sit hus."
+            ]
+        }
+    ]
+}

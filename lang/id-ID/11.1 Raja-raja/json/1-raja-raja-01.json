@@ -1,448 +1,475 @@
 {
-  "book": "1 Raja-raja",
-  "chapter": 1,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "Sekarang Raja Daud sudah tua dan lanjut usia,",
-        "dan meskipun mereka menutupi dia dengan selimut, dia tidak bisa merasa hangat."
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "Maka para pelayannya berkata kepadanya,",
-        "“Biarlah seorang gadis muda perawan dicari untuk tuanku raja,",
-        "dan biarlah dia melayani raja dan berbaring di pangkuanmu,",
-        "agar tuanku raja dapat merasa hangat.”"
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "Maka mereka mencari seorang wanita muda yang cantik di seluruh wilayah Israel,",
-        "dan mereka menemukan Abisag, orang Sunem,",
-        "dan membawanya kepada raja."
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "Wanita muda itu sangat cantik,",
-        "dan dia merawat raja dan melayaninya,",
-        "tetapi raja tidak berhubungan dengannya."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "Adonia, anak Hagit, memutuskan untuk menyatakan,",
-        "“Aku akan menjadi raja.”",
-        "Dan dia mengatur untuk dirinya sendiri kereta-kereta dan pasukan berkuda",
-        "dan lima puluh orang untuk berlari di depannya."
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "Ayahnya tidak pernah menegurnya pada waktu kapan pun dengan bertanya,",
-        "“Mengapa kamu melakukan ini?”",
-        "Dan dia juga seorang pria yang sangat tampan,",
-        "dan dia lahir setelah Absalom."
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "Dia berunding dengan Yoab, anak Zeruya, dan dengan Abiatar, imam,",
-        "dan mereka mengikuti Adonia dan mendukungnya."
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "Tetapi Zadok, imam, Benaya, anak Yoyada,",
-        "Natan, nabi, Simei, Rei, dan para pahlawan Daud tidak bersama Adonia."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "Dan Adonia mengorbankan domba dan lembu dan ternak yang digemukkan",
-        "di dekat batu Zohelet, yang berada di samping En-rogel.",
-        "Dia mengundang semua saudara-saudaranya, anak-anak raja,",
-        "dan semua orang Yehuda yang merupakan pelayan raja."
-      ]
-    },
-    {
-      "verse": 10,
-      "text": ["Namun, Natan, nabi, Benaya, para pahlawan, dan Salomo saudaranya tidak diundang."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "Natan mendekati Batsyeba, ibu Salomo, dan berkata,",
-        "“Tidakkah kamu mendengar bahwa Adonia, anak Hagit, telah menyatakan dirinya raja,",
-        "dan Daud, tuan kita, tidak mengetahuinya?"
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "Sekarang datanglah, biarkan aku memberimu nasihat,",
-        "agar kamu dapat menyelamatkan hidupmu dan hidup anakmu Salomo."
-      ]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "Pergilah segera kepada Raja Daud dan katakan kepadanya,",
-        "‘Bukankah tuanku raja bersumpah kepada hambamu, dengan mengatakan,",
-        "“Sesungguhnya Salomo anakmu akan menjadi raja setelah aku,",
-        "dan dia akan duduk di atas takhtaku”?",
-        "Mengapa kemudian Adonia menjadi raja?’"
-      ]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "Kemudian, sementara kamu masih berbicara dengan raja,",
-        "aku akan masuk setelahmu dan mengonfirmasi perkataanmu.”"
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 15,
-      "text": [
-        "Maka Batsyeba pergi kepada raja di kamar.",
-        "Sekarang raja sudah sangat tua,",
-        "dan Abisag, orang Sunem, sedang melayani raja."
-      ]
-    },
-    {
-      "verse": 16,
-      "text": [
-        "Batsyeba membungkuk dan bersujud di hadapan raja,",
-        "dan raja berkata, “Apa yang kamu inginkan?”"
-      ]
-    },
-    {
-      "verse": 17,
-      "text": [
-        "Dia berkata kepadanya,",
-        "“Tuanku, engkau bersumpah demi Tuhan, Tuhanmu, kepada hambamu,",
-        "‘Sesungguhnya Salomo anakmu akan menjadi raja setelah aku,",
-        "dan dia akan duduk di atas takhtaku.’"
-      ]
-    },
-    {
-      "verse": 18,
-      "text": [
-        "Tetapi sekarang, lihatlah, Adonia telah menjadi raja,",
-        "dan engkau, tuanku raja, tidak mengetahuinya."
-      ]
-    },
-    {
-      "verse": 19,
-      "text": [
-        "Dan dia telah mengorbankan lembu dan ternak yang digemukkan dan domba dalam jumlah besar,",
-        "dan telah mengundang semua anak-anak raja,",
-        "dan Abiatar, imam, dan Yoab, panglima tentara,",
-        "tetapi dia tidak mengundang Salomo, hambamu."
-      ]
-    },
-    {
-      "verse": 20,
-      "text": [
-        "Dan engkau, tuanku raja, mata seluruh Israel tertuju padamu,",
-        "untuk memberitahu mereka siapa yang akan duduk di atas takhta tuanku raja setelahnya."
-      ]
-    },
-    {
-      "verse": 21,
-      "text": [
-        "Jika tidak, hal ini akan terjadi,",
-        "ketika tuanku raja berbaring dengan nenek moyangnya,",
-        "bahwa aku dan anakku Salomo akan dianggap sebagai pelanggar.”"
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 22,
-      "text": ["Sekarang sementara dia masih berbicara dengan raja,", "Natan, nabi, datang."]
-    },
-    {
-      "verse": 23,
-      "text": [
-        "Dan mereka memberitahu raja, dengan mengatakan,",
-        "“Lihatlah, Natan, nabi, ada di sini.”",
-        "Dan dia datang di hadapan raja dan bersujud di hadapan raja dengan wajahnya ke tanah."
-      ]
-    },
-    {
-      "verse": 24,
-      "text": [
-        "Dan Natan berkata,",
-        "“Tuanku raja, apakah engkau berkata,",
-        "‘Adonia akan menjadi raja setelah aku,",
-        "dan dia akan duduk di atas takhtaku’?"
-      ]
-    },
-    {
-      "verse": 25,
-      "text": [
-        "Karena dia telah pergi hari ini dan telah mengorbankan lembu dan ternak yang digemukkan dan domba dalam jumlah besar,",
-        "dan telah mengundang semua anak-anak raja, dan para panglima tentara, dan Abiatar, imam;",
-        "dan lihatlah, mereka makan dan minum di hadapannya dan berkata,",
-        "‘Hidup Raja Adonia!’"
-      ]
-    },
-    {
-      "verse": 26,
-      "text": [
-        "Tetapi aku, bahkan aku hambamu,",
-        "dan Zadok, imam, dan Benaya, anak Yoyada,",
-        "dan hambamu Salomo—dia tidak mengundang."
-      ]
-    },
-    {
-      "verse": 27,
-      "text": [
-        "Apakah hal ini dilakukan oleh tuanku raja,",
-        "dan engkau tidak memberitahu hamba-hambamu siapa yang harus duduk di atas takhta tuanku raja setelahnya?”"
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 28,
-      "text": [
-        "Raja Daud menjawab,",
-        "“Panggil Batsyeba kepadaku.”",
-        "Maka dia datang ke hadapan raja dan berdiri di hadapan raja."
-      ]
-    },
-    {
-      "verse": 29,
-      "text": [
-        "Dan raja bersumpah dan berkata,",
-        "“Demi Tuhan yang hidup, yang telah menebus hidupku dari segala kesusahan,"
-      ]
-    },
-    {
-      "verse": 30,
-      "text": [
-        "seperti yang telah aku sumpahkan kepadamu demi Tuhan, Tuhan Israel, dengan mengatakan,",
-        "‘Salomo anakmu akan menjadi raja setelah aku,",
-        "dan dia akan duduk di atas takhtaku menggantikan aku,’",
-        "aku akan benar-benar melakukannya hari ini.”"
-      ]
-    },
-    {
-      "verse": 31,
-      "text": [
-        "Kemudian Batsyeba membungkuk dengan wajahnya ke tanah,",
-        "dan bersujud di hadapan raja dan berkata,",
-        "“Semoga tuanku Raja Daud memiliki hidup yang panjang.”"
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 32,
-      "text": [
-        "Kemudian Raja Daud berkata,",
-        "“Panggilkan Zadok, imam, Natan, nabi, dan Benaya, anak Yoyada, kepadaku.”",
-        "Maka mereka datang ke hadapan raja."
-      ]
-    },
-    {
-      "verse": 33,
-      "text": [
-        "Dan raja memberi mereka perintah,",
-        "“Bawalah hamba-hamba tuanmu bersamamu,",
-        "dan biarkan anakku Salomo naik ke atas bagalku sendiri,",
-        "dan bawa dia turun ke Gihon."
-      ]
-    },
-    {
-      "verse": 34,
-      "text": [
-        "Dan biarkan Zadok, imam, dan Natan, nabi, mengurapi dia di sana sebagai raja atas Israel,",
-        "dan tiupkanlah sangkakala dan katakan, ‘Hidup Raja Salomo!’"
-      ]
-    },
-    {
-      "verse": 35,
-      "text": [
-        "Kemudian kamu harus mengikutinya,",
-        "dan dia akan datang dan duduk di atas takhtaku dan menjadi raja menggantikanku;",
-        "karena aku telah menetapkannya menjadi penguasa atas Israel dan Yehuda.”"
-      ]
-    },
-    {
-      "verse": 36,
-      "text": [
-        "Dan Benaya, anak Yoyada, menjawab raja dan berkata,",
-        "“Amin! Semoga Tuhan, Tuhan tuanku raja, meneguhkannya."
-      ]
-    },
-    {
-      "verse": 37,
-      "text": [
-        "Seperti Tuhan telah bersama tuanku raja,",
-        "semoga Dia juga bersama Salomo,",
-        "dan meninggikan takhtanya melebihi takhta tuanku Raja Daud.”"
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 38,
-      "text": [
-        "Maka Zadok, imam, Natan, nabi, Benaya, anak Yoyada,",
-        "dan orang Kereti dan orang Peleti pergi turun",
-        "dan membiarkan Salomo naik ke atas bagal Raja Daud,",
-        "dan membawanya ke Gihon."
-      ]
-    },
-    {
-      "verse": 39,
-      "text": [
-        "Kemudian Zadok, imam, mengambil tanduk minyak dari kemah dan mengurapi Salomo.",
-        "Kemudian mereka meniup sangkakala,",
-        "dan semua orang berkata, “Hidup Raja Salomo!”"
-      ]
-    },
-    {
-      "verse": 40,
-      "text": [
-        "Dan semua orang naik mengikuti dia,",
-        "dan orang-orang memainkan seruling dan bersukacita dengan sukacita yang besar,",
-        "sehingga bumi bergetar dengan suara mereka."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 41,
-      "text": [
-        "Sekarang Adonia dan semua tamu yang bersamanya mendengarnya saat mereka selesai berpesta.",
-        "Ketika Yoab mendengar suara sangkakala, dia berkata,",
-        "“Mengapa kota ini dalam keributan seperti itu?”"
-      ]
-    },
-    {
-      "verse": 42,
-      "text": [
-        "Saat dia masih berbicara, Yonatan, anak Abiatar, imam, datang.",
-        "Dan Adonia berkata,",
-        "“Masuklah, karena kamu adalah orang yang layak dan pasti membawa kabar baik.”"
-      ]
-    },
-    {
-      "verse": 43,
-      "text": [
-        "Tetapi Yonatan menjawab Adonia dan berkata,",
-        "“Tidak! Tuanku Raja Daud telah menjadikan Salomo raja."
-      ]
-    },
-    {
-      "verse": 44,
-      "text": [
-        "Dan raja telah mengirim bersamanya Zadok, imam, Natan, nabi,",
-        "Benaya, anak Yoyada, orang Kereti dan orang Peleti,",
-        "dan mereka telah membiarkannya naik ke atas bagal raja."
-      ]
-    },
-    {
-      "verse": 45,
-      "text": [
-        "Dan Zadok, imam, dan Natan, nabi, telah mengurapi dia sebagai raja di Gihon,",
-        "dan mereka telah datang dari sana dengan sukacita, sehingga kota ini dalam keributan.",
-        "Inilah suara yang kamu dengar."
-      ]
-    },
-    {
-      "verse": 46,
-      "text": ["Lebih jauh lagi, Salomo sekarang duduk di atas takhta kerajaan."]
-    },
-    {
-      "verse": 47,
-      "text": [
-        "Selain itu, hamba-hamba raja datang untuk memberkati tuanku Raja Daud, dengan mengatakan,",
-        "‘Semoga Tuhanmu membuat nama Salomo lebih dihormati daripada namamu,",
-        "dan takhtanya lebih besar daripada takhtamu.’",
-        "Dan raja membungkuk di atas tempat tidur."
-      ]
-    },
-    {
-      "verse": 48,
-      "text": [
-        "Raja juga berkata,",
-        "“Diberkatilah Tuhan, Tuhan Israel,",
-        "yang telah memberikan seorang untuk duduk di atas takhtaku hari ini sementara mataku melihatnya.”"
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 49,
-      "text": [
-        "Kemudian semua tamu Adonia ketakutan,",
-        "dan mereka bangkit dan masing-masing pergi ke jalannya sendiri."
-      ]
-    },
-    {
-      "verse": 50,
-      "text": [
-        "Dan Adonia takut kepada Salomo,",
-        "dan dia bangkit dan pergi dan memegang tanduk-tanduk mezbah."
-      ]
-    },
-    {
-      "verse": 51,
-      "text": [
-        "Kemudian dilaporkan kepada Salomo, dengan mengatakan,",
-        "“Lihatlah, Adonia takut kepada Raja Salomo;",
-        "karena lihatlah, dia telah memegang tanduk-tanduk mezbah, dengan mengatakan,",
-        "‘Biarlah Raja Salomo bersumpah kepadaku hari ini bahwa dia tidak akan membunuh hambanya dengan pedang.’”"
-      ]
-    },
-    {
-      "verse": 52,
-      "text": [
-        "Dan Salomo berkata,",
-        "“Jika dia adalah orang yang layak, tidak satu pun rambutnya akan jatuh ke tanah;",
-        "tetapi jika kejahatan ditemukan padanya, dia akan mati.”"
-      ]
-    },
-    {
-      "verse": 53,
-      "text": [
-        "Maka Raja Salomo mengirim, dan mereka membawanya turun dari mezbah.",
-        "Dan dia datang dan bersujud kepada Raja Salomo,",
-        "dan Salomo berkata kepadanya, “Pergilah ke rumahmu.”"
-      ]
-    }
-  ]
+    "book": "1 Raja-raja",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Sekarang Raja Daud sudah tua dan lanjut usia,",
+                "dan meskipun mereka menutupi dia dengan selimut, dia tidak bisa merasa hangat."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Maka para pelayannya berkata kepadanya,",
+                "“Biarlah seorang gadis muda perawan dicari untuk tuanku raja,",
+                "dan biarlah dia melayani raja dan berbaring di pangkuanmu,",
+                "agar tuanku raja dapat merasa hangat.”"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Maka mereka mencari seorang wanita muda yang cantik di seluruh wilayah Israel,",
+                "dan mereka menemukan Abisag, orang Sunem,",
+                "dan membawanya kepada raja."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Wanita muda itu sangat cantik,",
+                "dan dia merawat raja dan melayaninya,",
+                "tetapi raja tidak berhubungan dengannya."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Adonia, anak Hagit, memutuskan untuk menyatakan,",
+                "“Aku akan menjadi raja.”",
+                "Dan dia mengatur untuk dirinya sendiri kereta-kereta dan pasukan berkuda",
+                "dan lima puluh orang untuk berlari di depannya."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Ayahnya tidak pernah menegurnya pada waktu kapan pun dengan bertanya,",
+                "“Mengapa kamu melakukan ini?”",
+                "Dan dia juga seorang pria yang sangat tampan,",
+                "dan dia lahir setelah Absalom."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Dia berunding dengan Yoab, anak Zeruya, dan dengan Abiatar, imam,",
+                "dan mereka mengikuti Adonia dan mendukungnya."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Tetapi Zadok, imam, Benaya, anak Yoyada,",
+                "Natan, nabi, Simei, Rei, dan para pahlawan Daud tidak bersama Adonia."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Dan Adonia mengorbankan domba dan lembu dan ternak yang digemukkan",
+                "di dekat batu Zohelet, yang berada di samping En-rogel.",
+                "Dia mengundang semua saudara-saudaranya, anak-anak raja,",
+                "dan semua orang Yehuda yang merupakan pelayan raja."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Namun, Natan, nabi, Benaya, para pahlawan, dan Salomo saudaranya tidak diundang."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Natan mendekati Batsyeba, ibu Salomo, dan berkata,",
+                "“Tidakkah kamu mendengar bahwa Adonia, anak Hagit, telah menyatakan dirinya raja,",
+                "dan Daud, tuan kita, tidak mengetahuinya?"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Sekarang datanglah, biarkan aku memberimu nasihat,",
+                "agar kamu dapat menyelamatkan hidupmu dan hidup anakmu Salomo."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Pergilah segera kepada Raja Daud dan katakan kepadanya,",
+                "‘Bukankah tuanku raja bersumpah kepada hambamu, dengan mengatakan,",
+                "“Sesungguhnya Salomo anakmu akan menjadi raja setelah aku,",
+                "dan dia akan duduk di atas takhtaku”?",
+                "Mengapa kemudian Adonia menjadi raja?’"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Kemudian, sementara kamu masih berbicara dengan raja,",
+                "aku akan masuk setelahmu dan mengonfirmasi perkataanmu.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Maka Batsyeba pergi kepada raja di kamar.",
+                "Sekarang raja sudah sangat tua,",
+                "dan Abisag, orang Sunem, sedang melayani raja."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Batsyeba membungkuk dan bersujud di hadapan raja,",
+                "dan raja berkata, “Apa yang kamu inginkan?”"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Dia berkata kepadanya,",
+                "“Tuanku, engkau bersumpah demi Tuhan, Tuhanmu, kepada hambamu,",
+                "‘Sesungguhnya Salomo anakmu akan menjadi raja setelah aku,",
+                "dan dia akan duduk di atas takhtaku.’"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Tetapi sekarang, lihatlah, Adonia telah menjadi raja,",
+                "dan engkau, tuanku raja, tidak mengetahuinya."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Dan dia telah mengorbankan lembu dan ternak yang digemukkan dan domba dalam jumlah besar,",
+                "dan telah mengundang semua anak-anak raja,",
+                "dan Abiatar, imam, dan Yoab, panglima tentara,",
+                "tetapi dia tidak mengundang Salomo, hambamu."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Dan engkau, tuanku raja, mata seluruh Israel tertuju padamu,",
+                "untuk memberitahu mereka siapa yang akan duduk di atas takhta tuanku raja setelahnya."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Jika tidak, hal ini akan terjadi,",
+                "ketika tuanku raja berbaring dengan nenek moyangnya,",
+                "bahwa aku dan anakku Salomo akan dianggap sebagai pelanggar.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Sekarang sementara dia masih berbicara dengan raja,",
+                "Natan, nabi, datang."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Dan mereka memberitahu raja, dengan mengatakan,",
+                "“Lihatlah, Natan, nabi, ada di sini.”",
+                "Dan dia datang di hadapan raja dan bersujud di hadapan raja dengan wajahnya ke tanah."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Dan Natan berkata,",
+                "“Tuanku raja, apakah engkau berkata,",
+                "‘Adonia akan menjadi raja setelah aku,",
+                "dan dia akan duduk di atas takhtaku’?"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Karena dia telah pergi hari ini dan telah mengorbankan lembu dan ternak yang digemukkan dan domba dalam jumlah besar,",
+                "dan telah mengundang semua anak-anak raja, dan para panglima tentara, dan Abiatar, imam;",
+                "dan lihatlah, mereka makan dan minum di hadapannya dan berkata,",
+                "‘Hidup Raja Adonia!’"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Tetapi aku, bahkan aku hambamu,",
+                "dan Zadok, imam, dan Benaya, anak Yoyada,",
+                "dan hambamu Salomo—dia tidak mengundang."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Apakah hal ini dilakukan oleh tuanku raja,",
+                "dan engkau tidak memberitahu hamba-hambamu siapa yang harus duduk di atas takhta tuanku raja setelahnya?”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Raja Daud menjawab,",
+                "“Panggil Batsyeba kepadaku.”",
+                "Maka dia datang ke hadapan raja dan berdiri di hadapan raja."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Dan raja bersumpah dan berkata,",
+                "“Demi Tuhan yang hidup, yang telah menebus hidupku dari segala kesusahan,"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "seperti yang telah aku sumpahkan kepadamu demi Tuhan, Tuhan Israel, dengan mengatakan,",
+                "‘Salomo anakmu akan menjadi raja setelah aku,",
+                "dan dia akan duduk di atas takhtaku menggantikan aku,’",
+                "aku akan benar-benar melakukannya hari ini.”"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Kemudian Batsyeba membungkuk dengan wajahnya ke tanah,",
+                "dan bersujud di hadapan raja dan berkata,",
+                "“Semoga tuanku Raja Daud memiliki hidup yang panjang.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Kemudian Raja Daud berkata,",
+                "“Panggilkan Zadok, imam, Natan, nabi, dan Benaya, anak Yoyada, kepadaku.”",
+                "Maka mereka datang ke hadapan raja."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Dan raja memberi mereka perintah,",
+                "“Bawalah hamba-hamba tuanmu bersamamu,",
+                "dan biarkan anakku Salomo naik ke atas bagalku sendiri,",
+                "dan bawa dia turun ke Gihon."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Dan biarkan Zadok, imam, dan Natan, nabi, mengurapi dia di sana sebagai raja atas Israel,",
+                "dan tiupkanlah sangkakala dan katakan, ‘Hidup Raja Salomo!’"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Kemudian kamu harus mengikutinya,",
+                "dan dia akan datang dan duduk di atas takhtaku dan menjadi raja menggantikanku;",
+                "karena aku telah menetapkannya menjadi penguasa atas Israel dan Yehuda.”"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Dan Benaya, anak Yoyada, menjawab raja dan berkata,",
+                "“Amin! Semoga Tuhan, Tuhan tuanku raja, meneguhkannya."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Seperti Tuhan telah bersama tuanku raja,",
+                "semoga Dia juga bersama Salomo,",
+                "dan meninggikan takhtanya melebihi takhta tuanku Raja Daud.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Maka Zadok, imam, Natan, nabi, Benaya, anak Yoyada,",
+                "dan orang Kereti dan orang Peleti pergi turun",
+                "dan membiarkan Salomo naik ke atas bagal Raja Daud,",
+                "dan membawanya ke Gihon."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Kemudian Zadok, imam, mengambil tanduk minyak dari kemah dan mengurapi Salomo.",
+                "Kemudian mereka meniup sangkakala,",
+                "dan semua orang berkata, “Hidup Raja Salomo!”"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Dan semua orang naik mengikuti dia,",
+                "dan orang-orang memainkan seruling dan bersukacita dengan sukacita yang besar,",
+                "sehingga bumi bergetar dengan suara mereka."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Sekarang Adonia dan semua tamu yang bersamanya mendengarnya saat mereka selesai berpesta.",
+                "Ketika Yoab mendengar suara sangkakala, dia berkata,",
+                "“Mengapa kota ini dalam keributan seperti itu?”"
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Saat dia masih berbicara, Yonatan, anak Abiatar, imam, datang.",
+                "Dan Adonia berkata,",
+                "“Masuklah, karena kamu adalah orang yang layak dan pasti membawa kabar baik.”"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Tetapi Yonatan menjawab Adonia dan berkata,",
+                "“Tidak! Tuanku Raja Daud telah menjadikan Salomo raja."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Dan raja telah mengirim bersamanya Zadok, imam, Natan, nabi,",
+                "Benaya, anak Yoyada, orang Kereti dan orang Peleti,",
+                "dan mereka telah membiarkannya naik ke atas bagal raja."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Dan Zadok, imam, dan Natan, nabi, telah mengurapi dia sebagai raja di Gihon,",
+                "dan mereka telah datang dari sana dengan sukacita, sehingga kota ini dalam keributan.",
+                "Inilah suara yang kamu dengar."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Lebih jauh lagi, Salomo sekarang duduk di atas takhta kerajaan."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "Selain itu, hamba-hamba raja datang untuk memberkati tuanku Raja Daud, dengan mengatakan,",
+                "‘Semoga Tuhanmu membuat nama Salomo lebih dihormati daripada namamu,",
+                "dan takhtanya lebih besar daripada takhtamu.’",
+                "Dan raja membungkuk di atas tempat tidur."
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "Raja juga berkata,",
+                "“Diberkatilah Tuhan, Tuhan Israel,",
+                "yang telah memberikan seorang untuk duduk di atas takhtaku hari ini sementara mataku melihatnya.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "Kemudian semua tamu Adonia ketakutan,",
+                "dan mereka bangkit dan masing-masing pergi ke jalannya sendiri."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "Dan Adonia takut kepada Salomo,",
+                "dan dia bangkit dan pergi dan memegang tanduk-tanduk mezbah."
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "Kemudian dilaporkan kepada Salomo, dengan mengatakan,",
+                "“Lihatlah, Adonia takut kepada Raja Salomo;",
+                "karena lihatlah, dia telah memegang tanduk-tanduk mezbah, dengan mengatakan,",
+                "‘Biarlah Raja Salomo bersumpah kepadaku hari ini bahwa dia tidak akan membunuh hambanya dengan pedang.’”"
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "Dan Salomo berkata,",
+                "“Jika dia adalah orang yang layak, tidak satu pun rambutnya akan jatuh ke tanah;",
+                "tetapi jika kejahatan ditemukan padanya, dia akan mati.”"
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "Maka Raja Salomo mengirim, dan mereka membawanya turun dari mezbah.",
+                "Dan dia datang dan bersujud kepada Raja Salomo,",
+                "dan Salomo berkata kepadanya, “Pergilah ke rumahmu.”"
+            ]
+        }
+    ]
 }

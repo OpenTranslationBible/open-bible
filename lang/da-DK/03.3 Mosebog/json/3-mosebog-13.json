@@ -1,0 +1,360 @@
+{
+    "book": "3 Mosebog",
+    "chapter": 13,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Herren talte derefter til Moses og sagde,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "\"Når en person har en hævelse, en skorpe, eller en lys plet på huden af deres krop, og det bliver en mulig infektion af spedalskhed, skal de bringes til Aron præsten eller til en af hans sønner, som er præster."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Præsten skal undersøge det inficerede område på huden, og hvis håret i infektionen er blevet hvidt og infektionen ser ud til at være dybere end huden, er det spedalskhed. Når præsten undersøger dem, skal han erklære dem urene."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Hvis den lyse plet er hvid på huden og ikke ser ud til at være dybere end huden, og håret ikke er blevet hvidt, skal præsten isolere personen i syv dage."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "På den syvende dag skal præsten undersøge dem, og hvis infektionen ikke har ændret sig og ikke har spredt sig på huden, skal præsten isolere dem i yderligere syv dage."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Præsten skal undersøge dem igen på den syvende dag, og hvis infektionen er falmet og ikke har spredt sig, skal præsten erklære dem rene; det er kun et udslæt. De skal vaske deres tøj og vil være rene."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Men hvis udslættet spreder sig på huden efter at de har vist sig for præsten til renselse, skal de igen fremstå for præsten."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Præsten skal undersøge dem, og hvis udslættet har spredt sig, skal han erklære dem urene; det er spedalskhed."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "\"Når en person har en infektion af spedalskhed, skal de bringes til præsten."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Præsten skal undersøge dem, og hvis der er en hvid hævelse på huden, der har gjort håret hvidt, og der er råt kød i hævelsen,"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "er det en kronisk spedalskhed på huden, og præsten skal erklære dem urene. De behøver ikke at blive isoleret, for de er allerede urene."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Hvis spedalskheden spreder sig over huden og dækker hele kroppen fra hoved til fod, så langt præsten kan se,"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "skal præsten undersøge dem, og hvis spedalskheden har dækket hele deres krop, skal han erklære dem rene. Da det hele er blevet hvidt, er de rene."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Men når som helst råt kød viser sig på dem, skal de være urene."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Når præsten ser det rå kød, skal han erklære dem urene; det rå kød er urent, det er spedalskhed."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Hvis det rå kød ændrer sig og bliver hvidt, skal de præsentere sig for præsten."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Præsten skal undersøge dem, og hvis det inficerede område er blevet hvidt, skal præsten erklære dem rene; de er rene."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "\"Når der er en byld på huden, og den heler,"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "og på stedet for bylden er der en hvid hævelse eller en rødlig-hvid lys plet, skal de præsentere sig for præsten."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Præsten skal undersøge det, og hvis det ser ud til at være dybere end huden og håret er blevet hvidt, skal præsten erklære dem urene; det er spedalskhed, der er brudt ud i bylden."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Men hvis præsten undersøger det, og der ikke er noget hvidt hår, og det ikke er dybere end huden og er falmet, skal præsten isolere dem i syv dage."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Hvis det spreder sig på huden, skal præsten erklære dem urene; det er en infektion."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Men hvis den lyse plet forbliver uændret og ikke har spredt sig, er det kun arret fra bylden, og præsten skal erklære dem rene."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "\"Når der er en forbrænding på huden, og det rå kød af forbrændingen bliver en lys plet, rødlig-hvid eller hvid,"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "skal præsten undersøge pletten, og hvis håret i den lyse plet er blevet hvidt og det ser dybere ud end huden, er det spedalskhed, der er brudt ud i forbrændingen. Præsten skal erklære dem urene; det er en infektion af spedalskhed."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Men hvis præsten undersøger det, og der ikke er noget hvidt hår, og det ikke er dybere end huden og er svagt, skal præsten isolere dem i syv dage."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "På den syvende dag skal præsten undersøge dem, og hvis det spreder sig på huden, skal præsten erklære dem urene; det er en infektion af spedalskhed."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Men hvis den lyse plet forbliver uændret og ikke har spredt sig på huden og er svag, er det hævelsen fra forbrændingen, og præsten skal erklære dem rene; det er kun arret fra forbrændingen."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "\"Hvis en mand eller kvinde har en infektion på hovedet eller på skægget,"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "skal præsten undersøge infektionen, og hvis det ser dybere ud end huden og der er tyndt gulligt hår, skal præsten erklære dem urene; det er en skæl, det er spedalskhed af hovedet eller skægget."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Men hvis præsten undersøger den skællede infektion og det ikke ser dybere ud end huden og der ikke er noget sort hår, skal præsten isolere dem i syv dage."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "På den syvende dag skal præsten undersøge infektionen, og hvis skællen ikke har spredt sig og der ikke er vokset gulligt hår, og det ikke ser dybere ud end huden,"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "skal de barbere sig, undtagen det berørte område, og præsten skal isolere dem i yderligere syv dage."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "På den syvende dag skal præsten undersøge skællen, og hvis den ikke har spredt sig og ikke ser dybere ud end huden, skal præsten erklære dem rene. De skal vaske deres tøj og vil være rene."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Men hvis skællen spreder sig på huden efter at de er blevet erklæret rene,"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "skal præsten undersøge dem, og hvis skællen har spredt sig, behøver han ikke at lede efter gulligt hår; de er urene."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Hvis skællen forbliver uændret og sort hår er vokset i det, er skællen helet, og de er rene; præsten skal erklære dem rene."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "\"Når en mand eller kvinde har lyse pletter på huden, hvide lyse pletter,"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "skal præsten undersøge dem, og hvis de lyse pletter er svagt hvide, er det eksem, der er brudt ud på huden; de er rene."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "\"Hvis en mand mister håret på hovedet, er han skaldet men ren."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Hvis han mister håret fra fronten og siderne af sin hovedbund, er han skaldet på panden men ren."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Men hvis der på det skaldede hoved eller pande er en rødlig-hvid infektion, er det spedalskhed, der bryder ud på hans skaldede hoved eller pande."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Præsten skal undersøge ham, og hvis hævelsen af infektionen er rødlig-hvid på hans skaldede hoved eller pande, som udseendet af spedalskhed på huden,"
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "er han en spedalsk mand og er uren. Præsten skal erklære ham uren på grund af infektionen på hans hoved."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "\"En person med sådan en infektion skal bære iturevne klæder, lade deres hår være uplejet, dække den nederste del af deres ansigt, og råbe: 'Uren! Uren!'"
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "De skal forblive urene, så længe de har infektionen. De skal bo alene uden for lejren."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "\"Når et klæde har et mærke af spedalskhed, hvad enten det er et uld- eller linnedklæde,"
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "hvad enten i trend eller skud, af linned eller uld, eller i læder eller en hvilken som helst artikel lavet af læder,"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "hvis mærket er grønligt eller rødligt i klædet eller læderet, hvad enten i trend eller skud, eller i en hvilken som helst læderartikel, er det et spedalskhedsmærke og skal vises til præsten."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "Præsten skal undersøge mærket og isolere artiklen i syv dage."
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "På den syvende dag skal han undersøge mærket, og hvis det har spredt sig i klædet, trend eller skud, eller læder, er det en spedalsk malignitet og er uren."
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "Han skal brænde klædet, hvad enten trend eller skud, i uld eller linned, eller en hvilken som helst læderartikel, hvor mærket forekommer; det er en spedalsk malignitet. Det skal brændes i ilden."
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "Men hvis præsten undersøger det, og mærket ikke har spredt sig i klædet, trend eller skud, eller en hvilken som helst læderartikel,"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "skal præsten beordre artiklen til at blive vasket og isolere den i yderligere syv dage."
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "Efter artiklen er blevet vasket, skal præsten undersøge den igen, og hvis mærket ikke har ændret sit udseende, selvom det ikke har spredt sig, er det urent. Brænd det, hvad enten mærket er på bagsiden eller forsiden."
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "Men hvis præsten undersøger det, og mærket er falmet efter vask, skal han rive det ud af klædet, læderet, trend eller skud."
+            ]
+        },
+        {
+            "verse": 57,
+            "text": [
+                "Hvis det dukker op igen i klædet, trend eller skud, eller en hvilken som helst læderartikel, er det et spredende mærke; artiklen skal brændes."
+            ]
+        },
+        {
+            "verse": 58,
+            "text": [
+                "Enhver klæde, trend eller skud, eller en hvilken som helst læderartikel, hvorfra mærket er forsvundet efter vask, skal vaskes igen og vil være ren.\""
+            ]
+        },
+        {
+            "verse": 59,
+            "text": [
+                "Dette er forskrifterne for mærket af spedalskhed i et uld- eller linnedklæde, trend eller skud, eller en hvilken som helst læderartikel, for at erklære det rent eller urent."
+            ]
+        }
+    ]
+}

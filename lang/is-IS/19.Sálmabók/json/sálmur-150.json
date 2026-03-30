@@ -1,0 +1,49 @@
+{
+    "book": "Sálmabók",
+    "chapter": 150,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> Lofið Drottin!",
+                "> Heiðrið Guð á hans helga stað;",
+                "> Lofið hann á hans víðáttumiklu himnum."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Heiðrið hann fyrir hans máttarverk;",
+                "> Lofið hann fyrir hans æðsta hátign."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Heiðrið hann með lúðurhljómi;",
+                "> Lofið hann með hörpu og gígju."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Heiðrið hann með bumbum og dansi;",
+                "> Lofið hann með strengleik og flautu."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Heiðrið hann með hvellum skálabumbum;",
+                "> Lofið hann með glymjandi skálabumbum."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Allt sem andar dregur, lofi Drottin.",
+                "> Lofið Drottin!"
+            ]
+        }
+    ]
+}

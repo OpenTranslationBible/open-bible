@@ -1,0 +1,49 @@
+{
+    "book": "Salmernes Bog",
+    "chapter": 150,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> Pris Herren!",
+                "> Ær Gud i Hans hellige sted;",
+                "> Lov Ham i Hans store himmel."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Ær Ham for Hans mægtige gerninger;",
+                "> Lov Ham for Hans suveræne storhed."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Ær Ham med lyden af trompeten;",
+                "> Lov Ham med harpe og lyre."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Ær Ham med tamburin og dans;",
+                "> Lov Ham med strengeinstrumenter og fløjte."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Ær Ham med høje cymbaler;",
+                "> Lov Ham med rungende cymbaler."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Alt, hvad der har ånde, pris Herren.",
+                "> Pris Herren!"
+            ]
+        }
+    ]
+}

@@ -1,138 +1,150 @@
 {
-  "book": "Kejadian",
-  "chapter": 7,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "Kemudian TUHAN berfirman kepada Nuh, “Masuklah ke dalam bahtera, engkau dan seisi rumahmu, karena engkaulah yang Kulihat benar di hadapan-Ku di antara generasi ini."
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "Bawalah bersamamu tujuh pasang dari setiap jenis binatang yang bersih, jantan dan betinanya; dan sepasang dari setiap jenis binatang yang tidak bersih, jantan dan betinanya;"
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "dan juga tujuh pasang dari setiap jenis burung, jantan dan betina, untuk memelihara keturunannya hidup di seluruh muka bumi."
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "Karena dalam tujuh hari, Aku akan menurunkan hujan ke atas bumi selama empat puluh hari empat puluh malam, dan Aku akan menghapuskan dari muka bumi segala makhluk hidup yang telah Kuciptakan.”"
-      ]
-    },
-    {
-      "verse": 5,
-      "text": ["Dan Nuh melakukan segala sesuatu yang diperintahkan TUHAN kepadanya."]
-    },
-    {
-      "verse": 6,
-      "text": ["Nuh berumur enam ratus tahun ketika air bah mulai menutupi bumi."]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "Dan Nuh serta anak-anaknya, istrinya, dan istri-istri anaknya masuk ke dalam bahtera bersamanya untuk menghindari air bah."
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "Sepasang-sepasang dari binatang yang bersih dan yang tidak bersih, bersama dengan burung-burung dan segala makhluk yang merayap di tanah,"
-      ]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "datang kepada Nuh dan masuk ke dalam bahtera, jantan dan betina, seperti yang diperintahkan Tuhan kepada Nuh."
-      ]
-    },
-    {
-      "verse": 10,
-      "text": ["Dan terjadilah setelah tujuh hari bahwa air bah datang ke atas bumi."]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "Pada tahun keenam ratus kehidupan Nuh, pada hari ketujuh belas bulan kedua, pada hari itu semua mata air samudera raya memancar, dan tingkap-tingkap langit terbuka."
-      ]
-    },
-    {
-      "verse": 12,
-      "text": ["Dan hujan turun ke atas bumi selama empat puluh hari empat puluh malam."]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "Pada hari itu juga, Nuh, bersama anak-anaknya Sem, Ham, dan Yafet, serta istri Nuh dan ketiga istri anak-anaknya, masuk ke dalam bahtera."
-      ]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "Mereka membawa serta setiap binatang liar menurut jenisnya, semua ternak menurut jenisnya, setiap makhluk yang merayap di tanah menurut jenisnya, dan setiap burung menurut jenisnya, setiap makhluk bersayap."
-      ]
-    },
-    {
-      "verse": 15,
-      "text": [
-        "Sepasang-sepasang dari semua makhluk yang memiliki nafas hidup datang kepada Nuh dan masuk ke dalam bahtera."
-      ]
-    },
-    {
-      "verse": 16,
-      "text": [
-        "Mereka yang masuk, jantan dan betina dari segala makhluk hidup, masuk seperti yang diperintahkan Tuhan kepadanya; dan TUHAN menutup pintu bahtera itu."
-      ]
-    },
-    {
-      "verse": 17,
-      "text": [
-        "Selama empat puluh hari air bah meliputi bumi, dan ketika air semakin bertambah, bahtera itu terangkat tinggi di atas bumi."
-      ]
-    },
-    {
-      "verse": 18,
-      "text": [
-        "Air itu naik dan semakin bertambah banyak di atas bumi, dan bahtera itu terapung di permukaan air."
-      ]
-    },
-    {
-      "verse": 19,
-      "text": [
-        "Air itu sangat meliputi bumi, dan semua gunung tinggi di bawah seluruh langit tertutup."
-      ]
-    },
-    {
-      "verse": 20,
-      "text": [
-        "Air itu naik dan menutupi gunung-gunung dengan kedalaman lebih dari lima belas hasta."
-      ]
-    },
-    {
-      "verse": 21,
-      "text": [
-        "Segala makhluk hidup yang bergerak di bumi binasa—burung-burung, ternak, binatang liar, semua makhluk yang merayap di bumi, dan semua manusia."
-      ]
-    },
-    {
-      "verse": 22,
-      "text": ["Segala yang memiliki nafas hidup di lubang hidungnya di daratan mati."]
-    },
-    {
-      "verse": 23,
-      "text": [
-        "Segala makhluk hidup di muka bumi dihapuskan; manusia dan binatang dan makhluk yang merayap di tanah dan burung-burung di langit dihapuskan dari bumi. Hanya Nuh yang tersisa, dan mereka yang bersamanya di dalam bahtera."
-      ]
-    },
-    {
-      "verse": 24,
-      "text": ["Air itu meliputi bumi selama seratus lima puluh hari."]
-    }
-  ]
+    "book": "Kejadian",
+    "chapter": 7,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Kemudian TUHAN berfirman kepada Nuh, “Masuklah ke dalam bahtera, engkau dan seisi rumahmu, karena engkaulah yang Kulihat benar di hadapan-Ku di antara generasi ini."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Bawalah bersamamu tujuh pasang dari setiap jenis binatang yang bersih, jantan dan betinanya; dan sepasang dari setiap jenis binatang yang tidak bersih, jantan dan betinanya;"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "dan juga tujuh pasang dari setiap jenis burung, jantan dan betina, untuk memelihara keturunannya hidup di seluruh muka bumi."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Karena dalam tujuh hari, Aku akan menurunkan hujan ke atas bumi selama empat puluh hari empat puluh malam, dan Aku akan menghapuskan dari muka bumi segala makhluk hidup yang telah Kuciptakan.”"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Dan Nuh melakukan segala sesuatu yang diperintahkan TUHAN kepadanya."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Nuh berumur enam ratus tahun ketika air bah mulai menutupi bumi."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Dan Nuh serta anak-anaknya, istrinya, dan istri-istri anaknya masuk ke dalam bahtera bersamanya untuk menghindari air bah."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Sepasang-sepasang dari binatang yang bersih dan yang tidak bersih, bersama dengan burung-burung dan segala makhluk yang merayap di tanah,"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "datang kepada Nuh dan masuk ke dalam bahtera, jantan dan betina, seperti yang diperintahkan Tuhan kepada Nuh."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Dan terjadilah setelah tujuh hari bahwa air bah datang ke atas bumi."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Pada tahun keenam ratus kehidupan Nuh, pada hari ketujuh belas bulan kedua, pada hari itu semua mata air samudera raya memancar, dan tingkap-tingkap langit terbuka."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Dan hujan turun ke atas bumi selama empat puluh hari empat puluh malam."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Pada hari itu juga, Nuh, bersama anak-anaknya Sem, Ham, dan Yafet, serta istri Nuh dan ketiga istri anak-anaknya, masuk ke dalam bahtera."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Mereka membawa serta setiap binatang liar menurut jenisnya, semua ternak menurut jenisnya, setiap makhluk yang merayap di tanah menurut jenisnya, dan setiap burung menurut jenisnya, setiap makhluk bersayap."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Sepasang-sepasang dari semua makhluk yang memiliki nafas hidup datang kepada Nuh dan masuk ke dalam bahtera."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Mereka yang masuk, jantan dan betina dari segala makhluk hidup, masuk seperti yang diperintahkan Tuhan kepadanya; dan TUHAN menutup pintu bahtera itu."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Selama empat puluh hari air bah meliputi bumi, dan ketika air semakin bertambah, bahtera itu terangkat tinggi di atas bumi."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Air itu naik dan semakin bertambah banyak di atas bumi, dan bahtera itu terapung di permukaan air."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Air itu sangat meliputi bumi, dan semua gunung tinggi di bawah seluruh langit tertutup."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Air itu naik dan menutupi gunung-gunung dengan kedalaman lebih dari lima belas hasta."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Segala makhluk hidup yang bergerak di bumi binasa—burung-burung, ternak, binatang liar, semua makhluk yang merayap di bumi, dan semua manusia."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Segala yang memiliki nafas hidup di lubang hidungnya di daratan mati."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Segala makhluk hidup di muka bumi dihapuskan; manusia dan binatang dan makhluk yang merayap di tanah dan burung-burung di langit dihapuskan dari bumi. Hanya Nuh yang tersisa, dan mereka yang bersamanya di dalam bahtera."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Air itu meliputi bumi selama seratus lima puluh hari."
+            ]
+        }
+    ]
 }

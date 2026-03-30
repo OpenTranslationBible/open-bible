@@ -1,84 +1,91 @@
 {
-  "book": "Mazmur",
-  "chapter": 146,
-  "verses": [
-    {
-      "verse": 1,
-      "text": ["> Pujilah Tuhan!", "> Hormatilah Tuhan, jiwaku!"]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "> Aku akan memuji Tuhan selama aku hidup;",
-        "> Aku akan bernyanyi bagi Tuhanku selama aku ada."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "> Jangan menaruh kepercayaan pada bangsawan,",
-        "> Pada manusia fana, di mana tidak ada keselamatan."
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "> Ketika rohnya pergi, ia kembali ke tanah;",
-        "> Pada hari itu juga, rencananya menjadi sia-sia."
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "> Berbahagialah dia yang mendapat pertolongan dari Tuhan Yakub,",
-        "> Yang harapannya ada pada Tuhan, Tuhannya,"
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "> Yang menciptakan langit dan bumi,",
-        "> Laut dan segala isinya;",
-        "> Yang setia untuk selama-lamanya;"
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "> Yang menegakkan keadilan bagi orang-orang yang tertindas;",
-        "> Yang memberi makanan kepada orang-orang lapar.",
-        "> Tuhan membebaskan orang-orang tawanan."
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "> Tuhan memberi penglihatan kepada orang buta;",
-        "> Tuhan mengangkat orang-orang yang tertunduk;",
-        "> Tuhan mengasihi orang-orang benar."
-      ]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "> Tuhan melindungi orang-orang asing;",
-        "> Dia menopang anak yatim dan janda,",
-        "> Tetapi Dia menggagalkan rencana orang-orang jahat."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "> Tuhan akan memerintah untuk selama-lamanya,",
-        "> Tuhanmu, Sion, turun-temurun.",
-        "> Hormatilah Tuhan!"
-      ]
-    }
-  ]
+    "book": "Mazmur",
+    "chapter": 146,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> Pujilah Tuhan!",
+                "> Hormatilah Tuhan, jiwaku!"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Aku akan memuji Tuhan selama aku hidup;",
+                "> Aku akan bernyanyi bagi Tuhanku selama aku ada."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Jangan menaruh kepercayaan pada bangsawan,",
+                "> Pada manusia fana, di mana tidak ada keselamatan."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Ketika rohnya pergi, ia kembali ke tanah;",
+                "> Pada hari itu juga, rencananya menjadi sia-sia."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Berbahagialah dia yang mendapat pertolongan dari Tuhan Yakub,",
+                "> Yang harapannya ada pada Tuhan, Tuhannya,"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Yang menciptakan langit dan bumi,",
+                "> Laut dan segala isinya;",
+                "> Yang setia untuk selama-lamanya;"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Yang menegakkan keadilan bagi orang-orang yang tertindas;",
+                "> Yang memberi makanan kepada orang-orang lapar.",
+                "> Tuhan membebaskan orang-orang tawanan."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Tuhan memberi penglihatan kepada orang buta;",
+                "> Tuhan mengangkat orang-orang yang tertunduk;",
+                "> Tuhan mengasihi orang-orang benar."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Tuhan melindungi orang-orang asing;",
+                "> Dia menopang anak yatim dan janda,",
+                "> Tetapi Dia menggagalkan rencana orang-orang jahat."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Tuhan akan memerintah untuk selama-lamanya,",
+                "> Tuhanmu, Sion, turun-temurun.",
+                "> Hormatilah Tuhan!"
+            ]
+        }
+    ]
 }

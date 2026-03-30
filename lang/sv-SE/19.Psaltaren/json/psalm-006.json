@@ -1,0 +1,97 @@
+{
+    "book": "Psaltaren",
+    "chapter": 6,
+    "verses": [
+        {
+            "text": [
+                "För körledaren; med stränginstrument, på en åttasträngad lyra. En psalm av David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Herre, straffa mig inte i din vrede,",
+                "> Och tukta mig inte i din förbittring."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Visa nåd mot mig, Herre, för jag är svag;",
+                "> Hela mig, Herre, för mina ben är i nöd."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Och min själ är djupt bedrövad;",
+                "> Men du, Herre—hur länge?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Vänd åter, Herre, rädda min själ;",
+                "> Fräls mig för din nåds skull."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Ty i döden finns ingen som minns dig;",
+                "> I Sheol, vem ska prisa dig?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Jag är utmattad av mitt klagande;",
+                "> Varje natt dränker jag min säng,",
+                "> Jag genomblöter min bädd med mina tårar."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Mitt öga har blivit svagt av sorg;",
+                "> Det har åldrats på grund av alla mina fiender."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Gå bort från mig, alla ni som begår orätt,",
+                "> För Herren har hört ljudet av mitt gråt."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Herren har lyssnat till min bön,",
+                "> Herren tar emot min bön."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Alla mina fiender ska bli skamsna och djupt oroade;",
+                "> De ska vända tillbaka, de ska plötsligt bli skamsna."
+            ]
+        }
+    ]
+}

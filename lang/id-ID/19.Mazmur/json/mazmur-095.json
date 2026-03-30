@@ -1,89 +1,96 @@
 {
-  "book": "Mazmur",
-  "chapter": 95,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "> Marilah kita bernyanyi dengan sukacita kepada Tuhan,",
-        "> Marilah kita bersorak dengan kegembiraan kepada gunung batu keselamatan kita."
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "> Marilah kita mendekati hadirat-Nya dengan nyanyian syukur,",
-        "> Marilah kita memuji-Nya dengan sukacita melalui musik."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "> Sebab Tuhan adalah Tuhan yang besar",
-        "> Dan Raja yang perkasa di atas segala Tuhan,"
-      ]
-    },
-    {
-      "verse": 4,
-      "text": ["> Di tangan-Nya ada kedalaman bumi,", "> Puncak-puncak gunung pun milik-Nya."]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "> Laut adalah milik-Nya, karena Dia yang menciptakannya,",
-        "> Dan tangan-Nya membentuk daratan kering."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "> Marilah kita menyembah dan sujud,",
-        "> Marilah kita berlutut di hadapan Tuhan, Pencipta kita."
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "> Sebab Dia adalah Tuhan kita,",
-        "> Dan kita adalah umat-Nya, kawanan domba yang Dia gembalakan.",
-        "---",
-        "> Hari ini, jika kamu mendengar suara-Nya,"
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "> Janganlah keraskan hatimu seperti di Meriba,",
-        "> Seperti pada hari di Masa di padang gurun,"
-      ]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "> Ketika nenek moyangmu mencobai Aku,",
-        "> Mereka menguji Aku, meskipun mereka telah melihat perbuatan-Ku."
-      ]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "> Empat puluh tahun Aku berduka cita terhadap generasi itu,",
-        "> Dan berkata mereka adalah orang-orang yang sesat hatinya,",
-        "> Dan mereka tidak mengerti jalan-jalan-Ku."
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "> Oleh karena itu Aku bersumpah dalam murka-Ku,",
-        "> Mereka pasti tidak akan masuk ke dalam perhentian-Ku."
-      ]
-    }
-  ]
+    "book": "Mazmur",
+    "chapter": 95,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> Marilah kita bernyanyi dengan sukacita kepada Tuhan,",
+                "> Marilah kita bersorak dengan kegembiraan kepada gunung batu keselamatan kita."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Marilah kita mendekati hadirat-Nya dengan nyanyian syukur,",
+                "> Marilah kita memuji-Nya dengan sukacita melalui musik."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Sebab Tuhan adalah Tuhan yang besar",
+                "> Dan Raja yang perkasa di atas segala Tuhan,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Di tangan-Nya ada kedalaman bumi,",
+                "> Puncak-puncak gunung pun milik-Nya."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Laut adalah milik-Nya, karena Dia yang menciptakannya,",
+                "> Dan tangan-Nya membentuk daratan kering."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Marilah kita menyembah dan sujud,",
+                "> Marilah kita berlutut di hadapan Tuhan, Pencipta kita."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Sebab Dia adalah Tuhan kita,",
+                "> Dan kita adalah umat-Nya, kawanan domba yang Dia gembalakan.",
+                "---",
+                "> Hari ini, jika kamu mendengar suara-Nya,"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Janganlah keraskan hatimu seperti di Meriba,",
+                "> Seperti pada hari di Masa di padang gurun,"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Ketika nenek moyangmu mencobai Aku,",
+                "> Mereka menguji Aku, meskipun mereka telah melihat perbuatan-Ku."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Empat puluh tahun Aku berduka cita terhadap generasi itu,",
+                "> Dan berkata mereka adalah orang-orang yang sesat hatinya,",
+                "> Dan mereka tidak mengerti jalan-jalan-Ku."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Oleh karena itu Aku bersumpah dalam murka-Ku,",
+                "> Mereka pasti tidak akan masuk ke dalam perhentian-Ku."
+            ]
+        }
+    ]
 }

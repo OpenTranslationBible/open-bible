@@ -1,116 +1,133 @@
 {
-  "book": "Mazmur",
-  "chapter": 57,
-  "verses": [
-    {
-      "text": [
-        "Untuk pemimpin musik; menurut lagu \"Jangan Musnahkan.\" Miktam dari Daud, ketika ia lari dari Saul ke dalam gua."
-      ]
-    },
-    {
-      "verse": 1,
-      "text": [
-        "> Kasihanilah aku, ya Tuhan, kasihanilah aku,",
-        "> Sebab jiwaku berlindung pada-Mu;",
-        "> Dan dalam naungan sayap-Mu aku akan berlindung",
-        "> Sampai malapetaka berlalu."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "> Aku akan berseru kepada Tuhan Yang Mahatinggi,",
-        "> Kepada Tuhan yang menyelesaikan maksud-Nya bagiku."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "> Ia akan mengirimkan pertolongan dari surga dan menyelamatkan aku;",
-        "> Ia menegur orang yang menginjak-injak aku.",
-        "> Sela",
-        "> Tuhan akan mengirimkan kasih setia dan kebenaran-Nya."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "> Jiwaku berada di antara singa-singa;",
-        "> Aku harus berbaring di antara mereka yang melahap,",
-        "> Di antara anak-anak manusia, yang giginya adalah tombak dan panah,",
-        "> Dan lidah mereka adalah pedang tajam."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "> Tinggikanlah diri-Mu di atas langit, ya Tuhan;",
-        "> Biarlah kemuliaan-Mu mengatasi seluruh bumi."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "> Mereka telah memasang jerat untuk langkahku;",
-        "> Jiwaku tertekan;",
-        "> Mereka menggali lubang di depanku;",
-        "> Mereka sendiri telah jatuh ke dalamnya.",
-        "> Sela"
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "> Hatiku teguh, ya Tuhan, hatiku teguh;",
-        "> Aku akan menyanyi, ya, aku akan memuji!"
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "> Bangkitlah, jiwaku!",
-        "> Bangkitlah, kecapi dan gambus!",
-        "> Aku akan membangunkan fajar."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "> Aku akan bersyukur kepada-Mu, Tuhan, di antara bangsa-bangsa;",
-        "> Aku akan menyanyi memuji-Mu di antara suku-suku bangsa."
-      ]
-    },
-    {
-      "verse": 10,
-      "text": ["> Sebab kasih setia-Mu mencapai langit,", "> Dan kebenaran-Mu sampai ke awan-awan."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "> Tinggikanlah diri-Mu di atas langit, ya Tuhan;",
-        "> Biarlah kemuliaan-Mu mengatasi seluruh bumi."
-      ]
-    }
-  ]
+    "book": "Mazmur",
+    "chapter": 57,
+    "verses": [
+        {
+            "text": [
+                "Untuk pemimpin musik; menurut lagu \"Jangan Musnahkan.\" Miktam dari Daud, ketika ia lari dari Saul ke dalam gua."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Kasihanilah aku, ya Tuhan, kasihanilah aku,",
+                "> Sebab jiwaku berlindung pada-Mu;",
+                "> Dan dalam naungan sayap-Mu aku akan berlindung",
+                "> Sampai malapetaka berlalu."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Aku akan berseru kepada Tuhan Yang Mahatinggi,",
+                "> Kepada Tuhan yang menyelesaikan maksud-Nya bagiku."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Ia akan mengirimkan pertolongan dari surga dan menyelamatkan aku;",
+                "> Ia menegur orang yang menginjak-injak aku.",
+                "> Sela",
+                "> Tuhan akan mengirimkan kasih setia dan kebenaran-Nya."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Jiwaku berada di antara singa-singa;",
+                "> Aku harus berbaring di antara mereka yang melahap,",
+                "> Di antara anak-anak manusia, yang giginya adalah tombak dan panah,",
+                "> Dan lidah mereka adalah pedang tajam."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Tinggikanlah diri-Mu di atas langit, ya Tuhan;",
+                "> Biarlah kemuliaan-Mu mengatasi seluruh bumi."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Mereka telah memasang jerat untuk langkahku;",
+                "> Jiwaku tertekan;",
+                "> Mereka menggali lubang di depanku;",
+                "> Mereka sendiri telah jatuh ke dalamnya.",
+                "> Sela"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Hatiku teguh, ya Tuhan, hatiku teguh;",
+                "> Aku akan menyanyi, ya, aku akan memuji!"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Bangkitlah, jiwaku!",
+                "> Bangkitlah, kecapi dan gambus!",
+                "> Aku akan membangunkan fajar."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Aku akan bersyukur kepada-Mu, Tuhan, di antara bangsa-bangsa;",
+                "> Aku akan menyanyi memuji-Mu di antara suku-suku bangsa."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Sebab kasih setia-Mu mencapai langit,",
+                "> Dan kebenaran-Mu sampai ke awan-awan."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Tinggikanlah diri-Mu di atas langit, ya Tuhan;",
+                "> Biarlah kemuliaan-Mu mengatasi seluruh bumi."
+            ]
+        }
+    ]
 }

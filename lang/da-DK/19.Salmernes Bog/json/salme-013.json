@@ -1,0 +1,64 @@
+{
+    "book": "Salmernes Bog",
+    "chapter": 13,
+    "verses": [
+        {
+            "text": [
+                "Til musikdirektøren. En salme af David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Hvor længe, Herre? Vil du glemme mig for evigt?",
+                "> Hvor længe vil du skjule dit ansigt for mig?"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Hvor længe skal jeg bære denne bekymring i min sjæl,",
+                "> Med sorg i mit hjerte hele dagen?",
+                "> Hvor længe skal min fjende triumfere over mig?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Se på mig og svar mig, Herre min Gud;",
+                "> Oplys mine øjne, så jeg ikke falder i dødens søvn,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Og min fjende vil erklære: \"Jeg har sejret over ham,\"",
+                "> Og mine modstandere vil glæde sig, når jeg er urolig."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Dog har jeg sat min lid til din trofaste kærlighed;",
+                "> Mit hjerte skal finde glæde i din frelse."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Jeg vil synge for Herren,",
+                "> Fordi han har været nådig mod mig."
+            ]
+        }
+    ]
+}

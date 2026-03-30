@@ -1,0 +1,55 @@
+{
+    "book": "Salmernes Bog",
+    "chapter": 15,
+    "verses": [
+        {
+            "text": [
+                "En salme af David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Herre, hvem kan bo i din telt?",
+                "> Hvem kan slå sig ned på din hellige høj?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> En person, der lever med integritet, handler retfærdigt,",
+                "> Og taler sandfærdigt fra hjertet."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Han bagtaler ikke med sin tunge,",
+                "> Gør ikke ondt mod sin næste,",
+                "> Bringer ikke skam over sin ven;"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> I hans øjne er en foragtelig person foragtet,",
+                "> Men han ærer dem, der frygter Herren;",
+                "> Han aflægger en ed til sin egen skade og ændrer sig ikke;"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Han låner ikke sine penge uretfærdigt,",
+                "> Og han modtager ikke bestikkelse mod den uskyldige.",
+                "---",
+                "> Den, der lever på denne måde, vil forblive urokkelig."
+            ]
+        }
+    ]
+}

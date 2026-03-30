@@ -1,67 +1,85 @@
 {
-  "book": "Mazmur",
-  "chapter": 122,
-  "verses": [
-    {
-      "text": ["Nyanyian Ziarah. Dari Daud."]
-    },
-    {
-      "verse": 1,
-      "text": [
-        "> Aku bersukacita ketika mereka berkata kepadaku,",
-        "> “Mari kita pergi ke tempat kediaman Tuhan.”"
-      ]
-    },
-    {
-      "verse": 2,
-      "text": ["> Kaki kami sekarang berdiri", "> Di dalam pintu gerbangmu, hai Yerusalem,"]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 3,
-      "text": ["> Yerusalem, yang dibangun", "> Sebagai kota yang bersatu padu;"]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "> Ke mana suku-suku naik, suku-suku Tuhan—",
-        "> Suatu ketetapan bagi Israel—",
-        "> Untuk bersyukur kepada nama Tuhan."
-      ]
-    },
-    {
-      "verse": 5,
-      "text": ["> Karena di sana didirikan kursi-kursi pengadilan,", "> Kursi-kursi rumah Daud."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "> Berdoalah untuk kesejahteraan Yerusalem:",
-        "> “Semoga mereka yang mencintaimu menemukan keselamatan."
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "> Semoga ketenangan ada di dalam tembok-tembokmu,",
-        "> Dan kemakmuran di dalam istana-istana mu.”"
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "> Demi saudara-saudaraku dan sahabat-sahabatku,",
-        "> Aku sekarang akan berkata, “Semoga ketenangan ada di dalammu.”"
-      ]
-    },
-    {
-      "verse": 9,
-      "text": ["> Demi rumah Tuhan, Tuhan kita,", "> Aku akan mengejar kesejahteraanmu."]
-    }
-  ]
+    "book": "Mazmur",
+    "chapter": 122,
+    "verses": [
+        {
+            "text": [
+                "Nyanyian Ziarah. Dari Daud."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Aku bersukacita ketika mereka berkata kepadaku,",
+                "> “Mari kita pergi ke tempat kediaman Tuhan.”"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Kaki kami sekarang berdiri",
+                "> Di dalam pintu gerbangmu, hai Yerusalem,"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Yerusalem, yang dibangun",
+                "> Sebagai kota yang bersatu padu;"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Ke mana suku-suku naik, suku-suku Tuhan—",
+                "> Suatu ketetapan bagi Israel—",
+                "> Untuk bersyukur kepada nama Tuhan."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Karena di sana didirikan kursi-kursi pengadilan,",
+                "> Kursi-kursi rumah Daud."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Berdoalah untuk kesejahteraan Yerusalem:",
+                "> “Semoga mereka yang mencintaimu menemukan keselamatan."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Semoga ketenangan ada di dalam tembok-tembokmu,",
+                "> Dan kemakmuran di dalam istana-istana mu.”"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Demi saudara-saudaraku dan sahabat-sahabatku,",
+                "> Aku sekarang akan berkata, “Semoga ketenangan ada di dalammu.”"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Demi rumah Tuhan, Tuhan kita,",
+                "> Aku akan mengejar kesejahteraanmu."
+            ]
+        }
+    ]
 }

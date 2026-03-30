@@ -1,0 +1,61 @@
+{
+    "book": "Psaltaren",
+    "chapter": 23,
+    "verses": [
+        {
+            "text": [
+                "En psalm av David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Herren är min herde,",
+                "> mig skall inget fattas."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Han låter mig vila på gröna ängar;",
+                "> Han leder mig till lugna vatten."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Han vederkvicker min själ;",
+                "> Han leder mig på rättfärdighetens stigar",
+                "> för sitt namns skull."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Även om jag vandrar genom dödsskuggans dal,",
+                "> fruktar jag inget ont, ty du är med mig;",
+                "> Din käpp och stav, de tröstar mig."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Du dukar ett bord för mig i mina fienders åsyn;",
+                "> Du smörjer mitt huvud med olja;",
+                "> Min bägare flödar över."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Godhet och nåd skall följa mig i alla mina livsdagar,",
+                "> och jag skall bo i Herrens hus för evigt."
+            ]
+        }
+    ]
+}

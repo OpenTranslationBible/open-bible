@@ -1,0 +1,39 @@
+{
+    "book": "Psaltaren",
+    "chapter": 131,
+    "verses": [
+        {
+            "text": [
+                "En vallfartssång. Av David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Herre, mitt hjärta är inte stolt, mina ögon är inte högmodiga;",
+                "> Jag sysslar inte med stora ting,",
+                "> Eller med sådant som är för svårt för mig."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Jag har verkligen lugnat och stillat min själ,",
+                "> Som ett avvant barn som vilar hos sin mor,",
+                "> Min själ inom mig är som ett avvant barn."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Israel, vänta på Herren",
+                "> Från nu och för evigt."
+            ]
+        }
+    ]
+}

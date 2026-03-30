@@ -1,0 +1,357 @@
+{
+    "book": "1 Kroníkubók",
+    "chapter": 25,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Auk þess völdu Davíð og hershöfðingjarnir til þjónustunnar nokkra af sonum Asafs, Hemans og Jedútúns,",
+                "> sem áttu að spá með hörpum, gígjum og skálabumbum;",
+                "> og fjöldi þeirra sem framkvæmdu þjónustu sína var:"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Af sonum Asafs: Sakkúr, Jósef, Netanja og Asarela;",
+                "> þessir synir voru undir leiðsögn Asafs,",
+                "> sem spáði undir leiðsögn konungsins."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Af Jedútúni: synir Jedútúns voru Gedalja, Serí, Jesaja, Símeí, Hasabja og Mattitja—sex,",
+                "> undir stjórn föður síns Jedútúns með hörpu,",
+                "> sem spáði í að þakka og lofa Drottin."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Af Hemani: synir Hemans voru Búkía, Mattanja, Ússíel, Sebúel, Jeremót, Hananja, Hanani, Elíata,",
+                "> Giddaltí, Rómmamtí-Eser, Jósbekasa, Mallótí, Hótír og Mahasjóþ."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Allir þessir voru synir Hemans, sjáanda konungsins,",
+                "> til að heiðra hann samkvæmt orðum Guðs;",
+                "> því Guð gaf Hemani fjórtán syni og þrjár dætur."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Allir þessir voru undir leiðsögn föður síns",
+                "> til að syngja í húsi Drottins, með skálabumbum, hörpum og gígjum,",
+                "> fyrir þjónustu Guðs húss.",
+                "> Asaf, Jedútún og Heman voru undir stjórn konungsins."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Fjöldi þeirra sem voru þjálfaðir í að syngja Drottni,",
+                "með ættingjum sínum, allir sem voru hæfir, var"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Þeir köstuðu hlutkesti um skyldur sínar, allir jafnt,",
+                "> ungir sem gamlir, kennari sem nemandi."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Fyrsta hlutkestið fyrir Asaf féll á Jósef,",
+                "> annað á Gedalja, hann með ættingjum sínum og sonum voru tólf;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> þriðja hlutkestið féll á Sakkúr, ásamt sonum sínum og ættingjum, tólf;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> fjórða hlutkestið féll á Serí, ásamt sonum sínum og ættingjum, tólf;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> fimmta hlutkestið féll á Netanja, ásamt sonum sínum og ættingjum, tólf;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> sjötta hlutkestið féll á Búkía, ásamt sonum sínum og ættingjum, tólf;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> sjöunda hlutkestið féll á Jesarela, ásamt sonum sínum og ættingjum, tólf;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> áttunda hlutkestið féll á Jesaja, ásamt sonum sínum og ættingjum, tólf;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> níunda hlutkestið féll á Mattanja, ásamt sonum sínum og ættingjum, tólf;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> tíunda hlutkestið féll á Símeí, ásamt sonum sínum og ættingjum, tólf;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> ellefta hlutkestið féll á Asareel, ásamt sonum sínum og ættingjum, tólf;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> tólfta hlutkestið féll á Hasabía, ásamt sonum sínum og ættingjum, tólf;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> þrettánda á Súbael, ásamt sonum sínum og ættingjum, tólf;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> fjórtánda á Mattitja, ásamt sonum sínum og ættingjum, tólf;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> fimmtánda á Jeremót, ásamt sonum sínum og ættingjum, tólf;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> sextánda á Hananja, ásamt sonum sínum og ættingjum, tólf;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> sautjánda á Jósbekasa, synir hans og ættingjar hans, tólf;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> átjánda á Hanani, ásamt sonum sínum og ættingjum, tólf;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> nítjánda á Mallótí, ásamt sonum sínum og ættingjum, tólf;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> tuttugasta á Elíata, ásamt sonum sínum og ættingjum, tólf;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> tuttugasta og fyrsta á Hótír, ásamt sonum sínum og ættingjum, tólf;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "> tuttugasta og annað á Giddaltí, ásamt sonum sínum og ættingjum, tólf;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> tuttugasta og þriðja á Mahasjóþ, ásamt sonum sínum og ættingjum, tólf;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "> tuttugasta og fjórða á Rómmamtí-Eser, ásamt sonum sínum og ættingjum, tólf."
+            ]
+        }
+    ]
+}

@@ -1,100 +1,102 @@
 {
-  "book": "Imamat",
-  "chapter": 2,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "‘Apabila seseorang mempersembahkan korban sajian kepada Tuhan, persembahannya harus dari tepung yang terbaik. Mereka harus menuangkan minyak zaitun di atasnya dan meletakkan kemenyan di atasnya."
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "Mereka harus membawanya kepada anak-anak Harun, para imam. Imam harus mengambil segenggam tepung dan minyak, dengan semua kemenyan, dan membakarnya sebagai bagian peringatan di atas mezbah, suatu persembahan makanan, aroma yang menenangkan bagi Tuhan."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "Sisa dari korban sajian itu menjadi milik Harun dan anak-anaknya; itu adalah bagian yang paling kudus dari persembahan yang dipersembahkan kepada Tuhan dengan api."
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "‘Jika engkau membawa korban sajian yang dipanggang dalam oven, itu harus berupa kue tidak beragi dari tepung terbaik yang dicampur dengan minyak, atau roti tipis tidak beragi yang diolesi minyak."
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "Jika korban sajianmu disiapkan di atas wajan, itu harus dibuat dari tepung terbaik yang dicampur dengan minyak, dan tanpa ragi."
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "Bagilah menjadi potongan-potongan dan tuangkan minyak di atasnya; ini merupakan korban sajian."
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "Jika korban sajianmu dimasak dalam panci, itu harus dibuat dari tepung terbaik dengan minyak."
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "Bawalah korban sajian yang terbuat dari hal-hal ini kepada Tuhan; persembahkan kepada imam, yang akan membawanya ke mezbah."
-      ]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "Imam harus mengambil bagian peringatan dari korban sajian itu dan membakarnya di atas mezbah sebagai persembahan makanan, aroma yang menenangkan bagi Tuhan."
-      ]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "Sisa dari korban sajian itu menjadi milik Harun dan anak-anaknya; itu adalah bagian yang paling kudus dari persembahan kepada Tuhan dengan api."
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "‘Setiap korban sajian yang engkau bawa kepada Tuhan harus dibuat tanpa ragi, karena engkau tidak boleh membakar ragi atau madu sebagai persembahan dengan api kepada Tuhan."
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "Engkau boleh membawanya kepada Tuhan sebagai persembahan buah sulung, tetapi itu tidak boleh dipersembahkan di atas mezbah sebagai aroma yang menenangkan."
-      ]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "Bumbuilah semua korban sajianmu dengan garam. Jangan tinggalkan garam perjanjian Tuhanmu dari korban sajianmu; dengan semua persembahanmu, engkau harus mempersembahkan garam."
-      ]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "‘Jika engkau mempersembahkan korban sajian dari buah sulung kepada Tuhan, persembahkanlah bulir-bulir baru yang dihancurkan dan dipanggang dalam api."
-      ]
-    },
-    {
-      "verse": 15,
-      "text": ["Tambahkan minyak dan kemenyan ke atasnya; ini adalah korban sajian."]
-    },
-    {
-      "verse": 16,
-      "text": [
-        "Imam harus membakar bagian peringatan dari bulir yang dihancurkan dan minyak, bersama dengan semua kemenyan, sebagai persembahan dengan api kepada Tuhan."
-      ]
-    }
-  ]
+    "book": "Imamat",
+    "chapter": 2,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "‘Apabila seseorang mempersembahkan korban sajian kepada Tuhan, persembahannya harus dari tepung yang terbaik. Mereka harus menuangkan minyak zaitun di atasnya dan meletakkan kemenyan di atasnya."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Mereka harus membawanya kepada anak-anak Harun, para imam. Imam harus mengambil segenggam tepung dan minyak, dengan semua kemenyan, dan membakarnya sebagai bagian peringatan di atas mezbah, suatu persembahan makanan, aroma yang menenangkan bagi Tuhan."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Sisa dari korban sajian itu menjadi milik Harun dan anak-anaknya; itu adalah bagian yang paling kudus dari persembahan yang dipersembahkan kepada Tuhan dengan api."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "‘Jika engkau membawa korban sajian yang dipanggang dalam oven, itu harus berupa kue tidak beragi dari tepung terbaik yang dicampur dengan minyak, atau roti tipis tidak beragi yang diolesi minyak."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Jika korban sajianmu disiapkan di atas wajan, itu harus dibuat dari tepung terbaik yang dicampur dengan minyak, dan tanpa ragi."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Bagilah menjadi potongan-potongan dan tuangkan minyak di atasnya; ini merupakan korban sajian."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Jika korban sajianmu dimasak dalam panci, itu harus dibuat dari tepung terbaik dengan minyak."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Bawalah korban sajian yang terbuat dari hal-hal ini kepada Tuhan; persembahkan kepada imam, yang akan membawanya ke mezbah."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Imam harus mengambil bagian peringatan dari korban sajian itu dan membakarnya di atas mezbah sebagai persembahan makanan, aroma yang menenangkan bagi Tuhan."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Sisa dari korban sajian itu menjadi milik Harun dan anak-anaknya; itu adalah bagian yang paling kudus dari persembahan kepada Tuhan dengan api."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "‘Setiap korban sajian yang engkau bawa kepada Tuhan harus dibuat tanpa ragi, karena engkau tidak boleh membakar ragi atau madu sebagai persembahan dengan api kepada Tuhan."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Engkau boleh membawanya kepada Tuhan sebagai persembahan buah sulung, tetapi itu tidak boleh dipersembahkan di atas mezbah sebagai aroma yang menenangkan."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Bumbuilah semua korban sajianmu dengan garam. Jangan tinggalkan garam perjanjian Tuhanmu dari korban sajianmu; dengan semua persembahanmu, engkau harus mempersembahkan garam."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "‘Jika engkau mempersembahkan korban sajian dari buah sulung kepada Tuhan, persembahkanlah bulir-bulir baru yang dihancurkan dan dipanggang dalam api."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Tambahkan minyak dan kemenyan ke atasnya; ini adalah korban sajian."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Imam harus membakar bagian peringatan dari bulir yang dihancurkan dan minyak, bersama dengan semua kemenyan, sebagai persembahan dengan api kepada Tuhan."
+            ]
+        }
+    ]
 }

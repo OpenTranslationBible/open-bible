@@ -1,312 +1,352 @@
 {
-  "book": "Yohanes",
-  "chapter": 1,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "Pada mulanya adalah Firman; Firman itu bersama-sama dengan Tuhan dan Firman itu adalah Tuhan."
-      ]
-    },
-    {
-      "verse": 2,
-      "text": ["Ia pada mulanya bersama-sama dengan Tuhan."]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "Segala sesuatu dijadikan oleh Dia dan tanpa Dia tidak ada sesuatu pun yang telah jadi dari segala yang telah dijadikan."
-      ]
-    },
-    {
-      "verse": 4,
-      "text": ["Di dalam Dia ada hidup dan hidup itu adalah terang bagi manusia."]
-    },
-    {
-      "verse": 5,
-      "text": ["Terang itu bercahaya di dalam kegelapan dan kegelapan itu tidak menguasainya."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 6,
-      "text": ["Datanglah seorang yang diutus Tuhan, namanya Yohanes."]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "Ia datang sebagai saksi untuk memberi kesaksian tentang terang itu, supaya oleh dia semua orang menjadi percaya."
-      ]
-    },
-    {
-      "verse": 8,
-      "text": ["Ia sendiri bukan terang itu, tetapi ia harus memberi kesaksian tentang terang itu."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "Terang yang sesungguhnya, yang menerangi setiap orang, sedang datang ke dalam dunia."
-      ]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "Ia telah ada di dalam dunia dan dunia dijadikan oleh-Nya, tetapi dunia tidak mengenal-Nya."
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "Ia datang kepada milik kepunyaan-Nya, tetapi orang-orang kepunyaan-Nya itu tidak menerima-Nya."
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "Tetapi semua orang yang menerima-Nya diberi-Nya kuasa supaya menjadi anak-anak Tuhan, yaitu mereka yang percaya dalam nama-Nya;"
-      ]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "orang-orang yang diperanakkan bukan dari darah atau dari daging, bukan pula secara jasmani oleh keinginan seorang laki-laki, melainkan dari Tuhan."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "Firman itu telah menjadi manusia, dan diam di antara kita, dan kita telah melihat kemuliaan-Nya, yaitu kemuliaan yang diberikan kepada-Nya sebagai Anak Tunggal Bapa, penuh kasih karunia dan kebenaran."
-      ]
-    },
-    {
-      "verse": 15,
-      "text": [
-        "Yohanes memberi kesaksian tentang Dia dan berseru, katanya: \"Inilah Dia, yang kumaksudkan ketika aku berkata: Kemudian dari padaku akan datang Dia yang telah mendahului aku, sebab Dia telah ada sebelum aku.\""
-      ]
-    },
-    {
-      "verse": 16,
-      "text": [
-        "Karena dari kepenuhan-Nya kita semua telah menerima kasih karunia demi kasih karunia;"
-      ]
-    },
-    {
-      "verse": 17,
-      "text": [
-        "sebab hukum Taurat diberikan oleh Musa, tetapi kasih karunia dan kebenaran datang oleh Yesus Kristus."
-      ]
-    },
-    {
-      "verse": 18,
-      "text": [
-        "Tidak seorang pun yang pernah melihat Tuhan; tetapi Anak Tunggal Tuhan, yang ada di pangkuan Bapa, Dialah yang menyatakan-Nya."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 19,
-      "text": [
-        "Dan inilah kesaksian Yohanes ketika orang Yahudi dari Yerusalem mengutus imam-imam dan orang-orang Lewi kepadanya untuk menanyakan dia: \"Siapakah engkau?\""
-      ]
-    },
-    {
-      "verse": 20,
-      "text": ["Ia mengaku dan tidak berdusta, katanya: \"Aku bukan Mesias.\""]
-    },
-    {
-      "verse": 21,
-      "text": [
-        "Lalu mereka bertanya kepadanya: \"Kalau begitu, siapakah engkau? Elia?\" Dan ia menjawab: \"Bukan!\" \"Engkaukah nabi yang akan datang?\" Dan ia menjawab: \"Bukan!\""
-      ]
-    },
-    {
-      "verse": 22,
-      "text": [
-        "Maka kata mereka kepadanya: \"Siapakah engkau? Sebab kami harus memberi jawab kepada mereka yang mengutus kami. Apakah katamu tentang dirimu sendiri?\""
-      ]
-    },
-    {
-      "verse": 23,
-      "text": [
-        "Jawabnya: \"Akulah suara orang yang berseru-seru di padang gurun: Luruskanlah jalan Tuhan, seperti yang telah dikatakan nabi Yesaya.\""
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 24,
-      "text": ["Dan di antara orang-orang yang diutus itu ada beberapa orang Farisi."]
-    },
-    {
-      "verse": 25,
-      "text": [
-        "Mereka bertanya kepadanya: \"Mengapa engkau membaptis, jikalau engkau bukan Mesias, bukan Elia, dan bukan nabi yang akan datang?\""
-      ]
-    },
-    {
-      "verse": 26,
-      "text": [
-        "Yohanes menjawab mereka, katanya: \"Aku membaptis dengan air; tetapi di tengah-tengah kamu berdiri Dia yang tidak kamu kenal,"
-      ]
-    },
-    {
-      "verse": 27,
-      "text": [
-        "yaitu Dia, yang datang kemudian dari padaku. Membuka tali kasut-Nya pun aku tidak layak.\""
-      ]
-    },
-    {
-      "verse": 28,
-      "text": [
-        "Hal itu terjadi di Betania yang di seberang sungai Yordan, di mana Yohanes membaptis."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 29,
-      "text": [
-        "Pada keesokan harinya Yohanes melihat Yesus datang kepadanya dan ia berkata: \"Lihatlah Anak domba Tuhan, yang menghapus dosa dunia."
-      ]
-    },
-    {
-      "verse": 30,
-      "text": [
-        "Dialah yang kumaksud ketika aku berkata: Kemudian dari padaku akan datang seorang yang telah mendahului aku, sebab Dia telah ada sebelum aku."
-      ]
-    },
-    {
-      "verse": 31,
-      "text": [
-        "Dan aku sendiri pun mula-mula tidak mengenal Dia, tetapi untuk itulah aku datang dan membaptis dengan air, supaya Ia dinyatakan kepada Israel.\""
-      ]
-    },
-    {
-      "verse": 32,
-      "text": [
-        "Dan Yohanes memberi kesaksian, katanya: \"Aku telah melihat Roh turun dari langit seperti merpati, dan Ia tinggal di atas-Nya."
-      ]
-    },
-    {
-      "verse": 33,
-      "text": [
-        "Dan aku pun tidak mengenal-Nya, tetapi Dia yang mengutus aku untuk membaptis dengan air telah berfirman kepadaku: Jikalau engkau melihat Roh itu turun ke atas seseorang dan tinggal di atas-Nya, Dialah itu yang akan membaptis dengan Roh Kudus."
-      ]
-    },
-    {
-      "verse": 34,
-      "text": ["Dan aku telah melihat-Nya dan memberi kesaksian: Dia inilah Anak Tuhan.\""]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 35,
-      "text": ["Pada keesokan harinya Yohanes berdiri di situ pula dengan dua orang muridnya."]
-    },
-    {
-      "verse": 36,
-      "text": ["Dan ketika ia melihat Yesus lewat, ia berkata: \"Lihatlah Anak domba Tuhan!\""]
-    },
-    {
-      "verse": 37,
-      "text": [
-        "Kedua murid itu mendengar apa yang dikatakannya itu, lalu mereka pergi mengikuti Yesus."
-      ]
-    },
-    {
-      "verse": 38,
-      "text": [
-        "Tetapi Yesus menoleh ke belakang. Ia melihat, bahwa mereka mengikuti Dia lalu berkata kepada mereka: \"Apakah yang kamu cari?\" Kata mereka kepada-Nya: \"Rabi (artinya: Guru), di manakah Engkau tinggal?\""
-      ]
-    },
-    {
-      "verse": 39,
-      "text": [
-        "Ia berkata kepada mereka: \"Marilah dan kamu akan melihatnya.\" Mereka pun datang dan melihat di mana Ia tinggal, dan hari itu mereka tinggal bersama-sama dengan Dia; waktu itu kira-kira pukul empat."
-      ]
-    },
-    {
-      "verse": 40,
-      "text": [
-        "Salah seorang dari kedua orang yang mendengar perkataan Yohanes lalu mengikuti Yesus adalah Andreas, saudara Simon Petrus."
-      ]
-    },
-    {
-      "verse": 41,
-      "text": [
-        "Andreas mula-mula bertemu dengan Simon, saudaranya, dan ia berkata kepadanya: \"Kami telah menemukan Mesias\" (artinya: Kristus)."
-      ]
-    },
-    {
-      "verse": 42,
-      "text": [
-        "Ia membawanya kepada Yesus. Yesus memandang dia dan berkata: \"Engkau Simon, anak Yohanes, engkau akan dinamakan Kefas\" (artinya: Petrus)."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 43,
-      "text": [
-        "Pada keesokan harinya Yesus memutuskan untuk berangkat ke Galilea. Ia bertemu dengan Filipus dan berkata kepadanya: \"Ikutlah Aku!\""
-      ]
-    },
-    {
-      "verse": 44,
-      "text": ["Filipus itu berasal dari Betsaida, kota Andreas dan Petrus."]
-    },
-    {
-      "verse": 45,
-      "text": [
-        "Filipus bertemu dengan Natanael dan berkata kepadanya: \"Kami telah menemukan Dia, yang disebut oleh Musa dalam kitab Taurat dan oleh para nabi, yaitu Yesus, anak Yusuf dari Nazaret.\""
-      ]
-    },
-    {
-      "verse": 46,
-      "text": [
-        "Kata Natanael kepadanya: \"Mungkinkah sesuatu yang baik datang dari Nazaret?\" Kata Filipus kepadanya: \"Mari dan lihatlah!\""
-      ]
-    },
-    {
-      "verse": 47,
-      "text": [
-        "Yesus melihat Natanael datang kepada-Nya, lalu berkata tentang dia: \"Lihat, inilah seorang Israel sejati, tidak ada kepalsuan di dalamnya!\""
-      ]
-    },
-    {
-      "verse": 48,
-      "text": [
-        "Kata Natanael kepada-Nya: \"Bagaimana Engkau mengenal aku?\" Jawab Yesus kepadanya: \"Sebelum Filipus memanggil engkau, Aku telah melihat engkau di bawah pohon ara.\""
-      ]
-    },
-    {
-      "verse": 49,
-      "text": ["Kata Natanael kepada-Nya: \"Rabi, Engkau Anak Tuhan, Engkau Raja orang Israel!\""]
-    },
-    {
-      "verse": 50,
-      "text": [
-        "Yesus menjawab, katanya: \"Karena Aku berkata kepadamu: Aku melihat engkau di bawah pohon ara, maka engkau percaya? Engkau akan melihat hal-hal yang lebih besar dari pada itu.\""
-      ]
-    },
-    {
-      "verse": 51,
-      "text": [
-        "Lalu kata-Nya kepada mereka: \"Sesungguhnya Aku berkata kepadamu, sesungguhnya engkau akan melihat langit terbuka dan malaikat-malaikat Tuhan turun naik kepada Anak Manusia.\""
-      ]
-    }
-  ]
+    "book": "Yohanes",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Pada mulanya adalah Firman; Firman itu bersama-sama dengan Tuhan dan Firman itu adalah Tuhan."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Ia pada mulanya bersama-sama dengan Tuhan."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Segala sesuatu dijadikan oleh Dia dan tanpa Dia tidak ada sesuatu pun yang telah jadi dari segala yang telah dijadikan."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Di dalam Dia ada hidup dan hidup itu adalah terang bagi manusia."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Terang itu bercahaya di dalam kegelapan dan kegelapan itu tidak menguasainya."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Datanglah seorang yang diutus Tuhan, namanya Yohanes."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Ia datang sebagai saksi untuk memberi kesaksian tentang terang itu, supaya oleh dia semua orang menjadi percaya."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Ia sendiri bukan terang itu, tetapi ia harus memberi kesaksian tentang terang itu."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Terang yang sesungguhnya, yang menerangi setiap orang, sedang datang ke dalam dunia."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Ia telah ada di dalam dunia dan dunia dijadikan oleh-Nya, tetapi dunia tidak mengenal-Nya."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Ia datang kepada milik kepunyaan-Nya, tetapi orang-orang kepunyaan-Nya itu tidak menerima-Nya."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Tetapi semua orang yang menerima-Nya diberi-Nya kuasa supaya menjadi anak-anak Tuhan, yaitu mereka yang percaya dalam nama-Nya;"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "orang-orang yang diperanakkan bukan dari darah atau dari daging, bukan pula secara jasmani oleh keinginan seorang laki-laki, melainkan dari Tuhan."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Firman itu telah menjadi manusia, dan diam di antara kita, dan kita telah melihat kemuliaan-Nya, yaitu kemuliaan yang diberikan kepada-Nya sebagai Anak Tunggal Bapa, penuh kasih karunia dan kebenaran."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Yohanes memberi kesaksian tentang Dia dan berseru, katanya: \"Inilah Dia, yang kumaksudkan ketika aku berkata: Kemudian dari padaku akan datang Dia yang telah mendahului aku, sebab Dia telah ada sebelum aku.\""
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Karena dari kepenuhan-Nya kita semua telah menerima kasih karunia demi kasih karunia;"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "sebab hukum Taurat diberikan oleh Musa, tetapi kasih karunia dan kebenaran datang oleh Yesus Kristus."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Tidak seorang pun yang pernah melihat Tuhan; tetapi Anak Tunggal Tuhan, yang ada di pangkuan Bapa, Dialah yang menyatakan-Nya."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Dan inilah kesaksian Yohanes ketika orang Yahudi dari Yerusalem mengutus imam-imam dan orang-orang Lewi kepadanya untuk menanyakan dia: \"Siapakah engkau?\""
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Ia mengaku dan tidak berdusta, katanya: \"Aku bukan Mesias.\""
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Lalu mereka bertanya kepadanya: \"Kalau begitu, siapakah engkau? Elia?\" Dan ia menjawab: \"Bukan!\" \"Engkaukah nabi yang akan datang?\" Dan ia menjawab: \"Bukan!\""
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Maka kata mereka kepadanya: \"Siapakah engkau? Sebab kami harus memberi jawab kepada mereka yang mengutus kami. Apakah katamu tentang dirimu sendiri?\""
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Jawabnya: \"Akulah suara orang yang berseru-seru di padang gurun: Luruskanlah jalan Tuhan, seperti yang telah dikatakan nabi Yesaya.\""
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Dan di antara orang-orang yang diutus itu ada beberapa orang Farisi."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Mereka bertanya kepadanya: \"Mengapa engkau membaptis, jikalau engkau bukan Mesias, bukan Elia, dan bukan nabi yang akan datang?\""
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Yohanes menjawab mereka, katanya: \"Aku membaptis dengan air; tetapi di tengah-tengah kamu berdiri Dia yang tidak kamu kenal,"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "yaitu Dia, yang datang kemudian dari padaku. Membuka tali kasut-Nya pun aku tidak layak.\""
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Hal itu terjadi di Betania yang di seberang sungai Yordan, di mana Yohanes membaptis."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Pada keesokan harinya Yohanes melihat Yesus datang kepadanya dan ia berkata: \"Lihatlah Anak domba Tuhan, yang menghapus dosa dunia."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Dialah yang kumaksud ketika aku berkata: Kemudian dari padaku akan datang seorang yang telah mendahului aku, sebab Dia telah ada sebelum aku."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Dan aku sendiri pun mula-mula tidak mengenal Dia, tetapi untuk itulah aku datang dan membaptis dengan air, supaya Ia dinyatakan kepada Israel.\""
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Dan Yohanes memberi kesaksian, katanya: \"Aku telah melihat Roh turun dari langit seperti merpati, dan Ia tinggal di atas-Nya."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Dan aku pun tidak mengenal-Nya, tetapi Dia yang mengutus aku untuk membaptis dengan air telah berfirman kepadaku: Jikalau engkau melihat Roh itu turun ke atas seseorang dan tinggal di atas-Nya, Dialah itu yang akan membaptis dengan Roh Kudus."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Dan aku telah melihat-Nya dan memberi kesaksian: Dia inilah Anak Tuhan.\""
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Pada keesokan harinya Yohanes berdiri di situ pula dengan dua orang muridnya."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Dan ketika ia melihat Yesus lewat, ia berkata: \"Lihatlah Anak domba Tuhan!\""
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Kedua murid itu mendengar apa yang dikatakannya itu, lalu mereka pergi mengikuti Yesus."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Tetapi Yesus menoleh ke belakang. Ia melihat, bahwa mereka mengikuti Dia lalu berkata kepada mereka: \"Apakah yang kamu cari?\" Kata mereka kepada-Nya: \"Rabi (artinya: Guru), di manakah Engkau tinggal?\""
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Ia berkata kepada mereka: \"Marilah dan kamu akan melihatnya.\" Mereka pun datang dan melihat di mana Ia tinggal, dan hari itu mereka tinggal bersama-sama dengan Dia; waktu itu kira-kira pukul empat."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Salah seorang dari kedua orang yang mendengar perkataan Yohanes lalu mengikuti Yesus adalah Andreas, saudara Simon Petrus."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Andreas mula-mula bertemu dengan Simon, saudaranya, dan ia berkata kepadanya: \"Kami telah menemukan Mesias\" (artinya: Kristus)."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Ia membawanya kepada Yesus. Yesus memandang dia dan berkata: \"Engkau Simon, anak Yohanes, engkau akan dinamakan Kefas\" (artinya: Petrus)."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Pada keesokan harinya Yesus memutuskan untuk berangkat ke Galilea. Ia bertemu dengan Filipus dan berkata kepadanya: \"Ikutlah Aku!\""
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Filipus itu berasal dari Betsaida, kota Andreas dan Petrus."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Filipus bertemu dengan Natanael dan berkata kepadanya: \"Kami telah menemukan Dia, yang disebut oleh Musa dalam kitab Taurat dan oleh para nabi, yaitu Yesus, anak Yusuf dari Nazaret.\""
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Kata Natanael kepadanya: \"Mungkinkah sesuatu yang baik datang dari Nazaret?\" Kata Filipus kepadanya: \"Mari dan lihatlah!\""
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "Yesus melihat Natanael datang kepada-Nya, lalu berkata tentang dia: \"Lihat, inilah seorang Israel sejati, tidak ada kepalsuan di dalamnya!\""
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "Kata Natanael kepada-Nya: \"Bagaimana Engkau mengenal aku?\" Jawab Yesus kepadanya: \"Sebelum Filipus memanggil engkau, Aku telah melihat engkau di bawah pohon ara.\""
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "Kata Natanael kepada-Nya: \"Rabi, Engkau Anak Tuhan, Engkau Raja orang Israel!\""
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "Yesus menjawab, katanya: \"Karena Aku berkata kepadamu: Aku melihat engkau di bawah pohon ara, maka engkau percaya? Engkau akan melihat hal-hal yang lebih besar dari pada itu.\""
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "Lalu kata-Nya kepada mereka: \"Sesungguhnya Aku berkata kepadamu, sesungguhnya engkau akan melihat langit terbuka dan malaikat-malaikat Tuhan turun naik kepada Anak Manusia.\""
+            ]
+        }
+    ]
 }

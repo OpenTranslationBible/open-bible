@@ -1,75 +1,88 @@
 {
-  "book": "Mazmur",
-  "chapter": 61,
-  "verses": [
-    {
-      "text": ["Untuk pemimpin musik; dengan alat musik berdawai. Mazmur Daud."]
-    },
-    {
-      "verse": 1,
-      "text": ["> Dengarlah seruanku, ya Tuhan;", "> Berilah perhatian pada doaku."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "> Dari ujung bumi, aku berseru kepada-Mu ketika hatiku lemah;",
-        "> Bimbinglah aku ke gunung batu yang lebih tinggi daripadaku."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "> Sebab Engkau telah menjadi tempat perlindunganku,",
-        "> Menara yang kuat melawan musuh."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "> Kiranya aku tinggal di dalam kemah-Mu selamanya;",
-        "> Biarkan aku menemukan keselamatan dalam naungan sayap-Mu.",
-        "> Sela"
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "> Sebab Engkau telah mendengar nazarku, ya Tuhan;",
-        "> Engkau telah memberikan warisan kepada mereka yang menghormati nama-Mu."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "> Engkau akan memperpanjang umur raja;",
-        "> Tahun-tahunnya akan berlangsung dari generasi ke generasi."
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "> Ia akan tinggal di hadapan Tuhan selamanya;",
-        "> Tetapkanlah kasih setia dan kebenaran, agar mereka menjaganya."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "> Maka aku akan menyanyikan pujian bagi nama-Mu selamanya,",
-        "> Agar aku dapat memenuhi nazarku hari demi hari."
-      ]
-    }
-  ]
+    "book": "Mazmur",
+    "chapter": 61,
+    "verses": [
+        {
+            "text": [
+                "Untuk pemimpin musik; dengan alat musik berdawai. Mazmur Daud."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Dengarlah seruanku, ya Tuhan;",
+                "> Berilah perhatian pada doaku."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Dari ujung bumi, aku berseru kepada-Mu ketika hatiku lemah;",
+                "> Bimbinglah aku ke gunung batu yang lebih tinggi daripadaku."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Sebab Engkau telah menjadi tempat perlindunganku,",
+                "> Menara yang kuat melawan musuh."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Kiranya aku tinggal di dalam kemah-Mu selamanya;",
+                "> Biarkan aku menemukan keselamatan dalam naungan sayap-Mu.",
+                "> Sela"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Sebab Engkau telah mendengar nazarku, ya Tuhan;",
+                "> Engkau telah memberikan warisan kepada mereka yang menghormati nama-Mu."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Engkau akan memperpanjang umur raja;",
+                "> Tahun-tahunnya akan berlangsung dari generasi ke generasi."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Ia akan tinggal di hadapan Tuhan selamanya;",
+                "> Tetapkanlah kasih setia dan kebenaran, agar mereka menjaganya."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Maka aku akan menyanyikan pujian bagi nama-Mu selamanya,",
+                "> Agar aku dapat memenuhi nazarku hari demi hari."
+            ]
+        }
+    ]
 }

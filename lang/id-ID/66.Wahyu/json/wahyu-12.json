@@ -1,115 +1,119 @@
 {
-  "book": "Wahyu",
-  "chapter": 12,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "Suatu tanda besar tampak di langit: seorang perempuan berselubungkan matahari, dengan bulan di bawah kakinya, dan di atas kepalanya ada mahkota dari dua belas bintang."
-      ]
-    },
-    {
-      "verse": 2,
-      "text": ["Ia sedang mengandung dan berteriak kesakitan karena hendak melahirkan."]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "Maka tampaklah suatu tanda lain di langit: seekor naga merah besar dengan tujuh kepala dan sepuluh tanduk, dan di atas kepalanya ada tujuh mahkota."
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "Ekor naga itu menyeret sepertiga dari bintang-bintang di langit dan melemparkannya ke bumi. Naga itu berdiri di hadapan perempuan yang hendak melahirkan, supaya dapat menelan anaknya segera sesudah dilahirkan."
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "Perempuan itu melahirkan seorang anak laki-laki, yang akan menggembalakan semua bangsa dengan tongkat besi. Anaknya itu diangkat kepada Tuhan dan ke takhta-Nya."
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "Perempuan itu lari ke padang gurun, ke suatu tempat yang telah disediakan Tuhan baginya, supaya ia dipelihara di situ selama 1.260 hari."
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "Maka timbullah peperangan di sorga. Mikhael dan malaikat-malaikatnya berperang melawan naga itu, dan naga itu dibantu oleh malaikat-malaikatnya."
-      ]
-    },
-    {
-      "verse": 8,
-      "text": ["Tetapi mereka tidak menang, dan tempat mereka tidak ada lagi di sorga."]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "Naga besar itu dilemparkan ke bawah, yaitu ular tua yang disebut Iblis atau Satan, yang menyesatkan seluruh dunia. Ia dilemparkan ke bumi, dan malaikat-malaikatnya dilemparkan bersama-sama dengan dia."
-      ]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "Lalu aku mendengar suara yang nyaring di sorga berkata:",
-        "> “Sekarang telah tiba keselamatan dan kuasa",
-        "> dan pemerintahan Tuhan kita,",
-        "> dan kuasa Kristus-Nya,",
-        "> karena telah dilemparkan ke bawah pendakwa saudara-saudara kita,",
-        "> yang mendakwa mereka siang dan malam di hadapan Tuhan kita."
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "> Mereka mengalahkan dia",
-        "> oleh darah Anak Domba",
-        "> dan oleh perkataan kesaksian mereka;",
-        "> mereka tidak mengasihi nyawa mereka",
-        "> sampai ke dalam maut."
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "> Karena itu bersukacitalah, hai sorga dan kamu yang diam di dalamnya!",
-        "> Tetapi celakalah bumi dan laut, karena Iblis telah turun kepadamu dengan amarah yang besar,",
-        "> karena ia tahu bahwa waktunya sudah singkat.”"
-      ]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "Ketika naga itu melihat bahwa ia telah dilemparkan ke bumi, ia mengejar perempuan yang telah melahirkan anak laki-laki itu."
-      ]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "Kepada perempuan itu diberikan kedua sayap dari burung nasar yang besar, supaya ia terbang ke tempatnya di padang gurun, di mana ia dipelihara untuk satu masa, dua masa, dan setengah masa, jauh dari kehadiran ular itu."
-      ]
-    },
-    {
-      "verse": 15,
-      "text": [
-        "Lalu ular itu memuntahkan air seperti sungai dari mulutnya ke arah perempuan itu, supaya ia dihanyutkan oleh sungai itu."
-      ]
-    },
-    {
-      "verse": 16,
-      "text": [
-        "Tetapi bumi menolong perempuan itu dengan membuka mulutnya dan menelan sungai yang dimuntahkan naga itu dari mulutnya."
-      ]
-    },
-    {
-      "verse": 17,
-      "text": [
-        "Maka marahlah naga itu kepada perempuan itu dan pergi memerangi keturunannya yang lain, yaitu mereka yang menuruti perintah-perintah Tuhan dan memegang teguh kesaksian tentang Yesus."
-      ]
-    }
-  ]
+    "book": "Wahyu",
+    "chapter": 12,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Suatu tanda besar tampak di langit: seorang perempuan berselubungkan matahari, dengan bulan di bawah kakinya, dan di atas kepalanya ada mahkota dari dua belas bintang."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Ia sedang mengandung dan berteriak kesakitan karena hendak melahirkan."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Maka tampaklah suatu tanda lain di langit: seekor naga merah besar dengan tujuh kepala dan sepuluh tanduk, dan di atas kepalanya ada tujuh mahkota."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Ekor naga itu menyeret sepertiga dari bintang-bintang di langit dan melemparkannya ke bumi. Naga itu berdiri di hadapan perempuan yang hendak melahirkan, supaya dapat menelan anaknya segera sesudah dilahirkan."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Perempuan itu melahirkan seorang anak laki-laki, yang akan menggembalakan semua bangsa dengan tongkat besi. Anaknya itu diangkat kepada Tuhan dan ke takhta-Nya."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Perempuan itu lari ke padang gurun, ke suatu tempat yang telah disediakan Tuhan baginya, supaya ia dipelihara di situ selama 1.260 hari."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Maka timbullah peperangan di sorga. Mikhael dan malaikat-malaikatnya berperang melawan naga itu, dan naga itu dibantu oleh malaikat-malaikatnya."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Tetapi mereka tidak menang, dan tempat mereka tidak ada lagi di sorga."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Naga besar itu dilemparkan ke bawah, yaitu ular tua yang disebut Iblis atau Satan, yang menyesatkan seluruh dunia. Ia dilemparkan ke bumi, dan malaikat-malaikatnya dilemparkan bersama-sama dengan dia."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Lalu aku mendengar suara yang nyaring di sorga berkata:",
+                "> “Sekarang telah tiba keselamatan dan kuasa",
+                "> dan pemerintahan Tuhan kita,",
+                "> dan kuasa Kristus-Nya,",
+                "> karena telah dilemparkan ke bawah pendakwa saudara-saudara kita,",
+                "> yang mendakwa mereka siang dan malam di hadapan Tuhan kita."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Mereka mengalahkan dia",
+                "> oleh darah Anak Domba",
+                "> dan oleh perkataan kesaksian mereka;",
+                "> mereka tidak mengasihi nyawa mereka",
+                "> sampai ke dalam maut."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Karena itu bersukacitalah, hai sorga dan kamu yang diam di dalamnya!",
+                "> Tetapi celakalah bumi dan laut, karena Iblis telah turun kepadamu dengan amarah yang besar,",
+                "> karena ia tahu bahwa waktunya sudah singkat.”"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Ketika naga itu melihat bahwa ia telah dilemparkan ke bumi, ia mengejar perempuan yang telah melahirkan anak laki-laki itu."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Kepada perempuan itu diberikan kedua sayap dari burung nasar yang besar, supaya ia terbang ke tempatnya di padang gurun, di mana ia dipelihara untuk satu masa, dua masa, dan setengah masa, jauh dari kehadiran ular itu."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Lalu ular itu memuntahkan air seperti sungai dari mulutnya ke arah perempuan itu, supaya ia dihanyutkan oleh sungai itu."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Tetapi bumi menolong perempuan itu dengan membuka mulutnya dan menelan sungai yang dimuntahkan naga itu dari mulutnya."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Maka marahlah naga itu kepada perempuan itu dan pergi memerangi keturunannya yang lain, yaitu mereka yang menuruti perintah-perintah Tuhan dan memegang teguh kesaksian tentang Yesus."
+            ]
+        }
+    ]
 }

@@ -1,0 +1,84 @@
+{
+    "book": "Salmernes Bog",
+    "chapter": 12,
+    "verses": [
+        {
+            "text": [
+                "Til musiklederen; på en otte-strenget lyre. En salme af David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Hjælp, Herre, for den gudfrygtige er ophørt,",
+                "> For de trofaste er forsvundet blandt menneskenes børn."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> De taler svigefuldt til hinanden;",
+                "> De bruger smigrende læber og har dobbelthed i deres hjerter."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Måtte Herren bringe alle smigrende læber til tavshed,",
+                "> Tungen, der praler af store ting;"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> De, der har sagt: “Med vores ord vil vi lykkes;",
+                "> Vore læber tilhører os; hvem kan være herre over os?”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> “På grund af de fattiges undertrykkelse, på grund af de nødlidendes suk,",
+                "> Nu vil jeg rejse mig,” siger Herren;",
+                "> “Jeg vil sætte ham i den sikkerhed, han ønsker.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Herrens ord er rene ord;",
+                "> Som sølv raffineret i en ovn på jorden,",
+                "> Renset syv gange."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Du, Herre, vil bevare dem;",
+                "> Du vil vogte ham fra denne generation for evigt."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> De onde strejfer omkring på alle sider,",
+                "> Når fordærv er æret blandt menneskenes børn."
+            ]
+        }
+    ]
+}

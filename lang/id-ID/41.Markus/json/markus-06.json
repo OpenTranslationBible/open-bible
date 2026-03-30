@@ -1,344 +1,382 @@
 {
-  "book": "Markus",
-  "chapter": 6,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "Yesus berangkat dari sana dan tiba di kampung halamannya, dengan murid-murid-Nya mengikuti Dia."
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "Ketika hari Sabat tiba, Ia mulai mengajar di sinagoga, dan banyak yang mendengarkan merasa takjub. Mereka bertanya, \"Dari mana orang ini memperoleh semua ini? Hikmat apa yang telah diberikan kepadanya, dan mukjizat-mukjizat luar biasa apa yang dilakukan oleh tangannya?"
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "Bukankah ini tukang kayu, anak Maria, dan saudara Yakobus, Yoses, Yudas, dan Simon? Bukankah saudara-saudara perempuannya ada di sini bersama kita?\" Dan mereka tersandung padanya."
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "Yesus berkata kepada mereka, \"Seorang nabi dihormati di mana-mana kecuali di kampung halamannya sendiri, di antara sanak saudaranya, dan di rumahnya sendiri.\""
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "Ia tidak dapat melakukan mukjizat di sana, kecuali menyembuhkan beberapa orang sakit dengan meletakkan tangan-Nya atas mereka."
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "Ia terkejut oleh kurangnya iman mereka. Lalu Ia melanjutkan mengajar di desa-desa sekitarnya."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "Ia memanggil kedua belas murid-Nya dan mulai mengutus mereka berdua-dua, memberi mereka kuasa atas roh-roh najis."
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "Ia memerintahkan mereka untuk tidak membawa apa-apa dalam perjalanan kecuali tongkat—tidak roti, tidak kantong, tidak uang dalam ikat pinggang mereka—"
-      ]
-    },
-    {
-      "verse": 9,
-      "text": ["mereka diizinkan memakai sandal tetapi tidak boleh memakai dua jubah."]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "Ia berkata kepada mereka, \"Di mana pun kamu masuk ke dalam sebuah rumah, tinggTuhan di sana sampai kamu meninggalkan tempat itu."
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "Jika ada tempat yang tidak menyambutmu atau mendengarkanmu, saat kamu pergi, kebaskan debu dari kakimu sebagai kesaksian terhadap mereka.\""
-      ]
-    },
-    {
-      "verse": 12,
-      "text": ["Mereka pergi dan memberitakan bahwa orang-orang harus mengubah cara hidup mereka."]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "Mereka mengusir banyak setan dan mengurapi banyak orang sakit dengan minyak, menyembuhkan mereka."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "Raja Herodes mendengar tentang hal ini, karena nama Yesus telah menjadi terkenal. Beberapa orang berkata, \"Yohanes Pembaptis telah bangkit dari kematian, dan itulah sebabnya kuasa-kuasa mukjizat bekerja di dalam dia.\""
-      ]
-    },
-    {
-      "verse": 15,
-      "text": [
-        "Yang lain berkata, \"Dia adalah Elia.\" Yang lain lagi mengklaim, \"Dia adalah seorang nabi, seperti salah satu nabi zaman dahulu.\""
-      ]
-    },
-    {
-      "verse": 16,
-      "text": [
-        "Tetapi ketika Herodes mendengar ini, ia berkata, \"Yohanes, yang telah kupenggal, telah bangkit!\""
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 17,
-      "text": [
-        "Herodes sendiri yang memerintahkan penangkapan Yohanes dan membelenggunya serta memenjarakannya karena Herodias, istri saudaranya Filipus, yang telah dinikahinya."
-      ]
-    },
-    {
-      "verse": 18,
-      "text": [
-        "Karena Yohanes telah berkata kepada Herodes, \"Tidak sah bagimu memiliki istri saudaramu.\""
-      ]
-    },
-    {
-      "verse": 19,
-      "text": ["Herodias menyimpan dendam terhadapnya dan ingin membunuhnya, tetapi ia tidak bisa,"]
-    },
-    {
-      "verse": 20,
-      "text": [
-        "karena Herodes takut kepada Yohanes dan melindunginya, mengetahui bahwa dia adalah orang yang benar dan suci. Ketika Herodes mendengarkannya, ia sangat bingung, namun ia senang mendengarkannya."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 21,
-      "text": [
-        "Suatu hari yang tepat datang ketika Herodes, pada hari ulang tahunnya, mengadakan perjamuan untuk para bangsawan, komandan militer, dan orang-orang terkemuka di Galilea."
-      ]
-    },
-    {
-      "verse": 22,
-      "text": [
-        "Ketika putri Herodias masuk dan menari, ia menyenangkan Herodes dan tamu-tamunya. Raja berkata kepada gadis itu, \"Mintalah apa pun yang kamu inginkan, dan aku akan memberikannya kepadamu.\""
-      ]
-    },
-    {
-      "verse": 23,
-      "text": [
-        "Ia bersumpah kepadanya, \"Apa pun yang kamu minta dariku, aku akan memberikannya, hingga setengah dari kerajaanku.\""
-      ]
-    },
-    {
-      "verse": 24,
-      "text": [
-        "Ia keluar dan bertanya kepada ibunya, \"Apa yang harus kuminta?\" Ibunya menjawab, \"Kepala Yohanes Pembaptis.\""
-      ]
-    },
-    {
-      "verse": 25,
-      "text": [
-        "Segera ia bergegas kepada raja dan meminta, \"Aku ingin kamu memberikan kepadaku kepala Yohanes Pembaptis di atas piring sekarang juga.\""
-      ]
-    },
-    {
-      "verse": 26,
-      "text": [
-        "Raja sangat sedih, tetapi karena sumpahnya dan tamu-tamunya, ia tidak ingin menolaknya."
-      ]
-    },
-    {
-      "verse": 27,
-      "text": [
-        "Jadi ia segera mengirim seorang algojo dengan perintah untuk membawa kepala Yohanes. Ia pergi dan memenggal Yohanes di penjara,"
-      ]
-    },
-    {
-      "verse": 28,
-      "text": [
-        "dan membawa kepalanya di atas piring, memberikannya kepada gadis itu, dan ia memberikannya kepada ibunya."
-      ]
-    },
-    {
-      "verse": 29,
-      "text": [
-        "Ketika murid-murid Yohanes mendengar tentang hal ini, mereka datang dan mengambil tubuhnya dan meletakkannya di dalam kubur."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 30,
-      "text": [
-        "Para rasul berkumpul di sekitar Yesus dan menceritakan kepada-Nya semua yang telah mereka lakukan dan ajarkan."
-      ]
-    },
-    {
-      "verse": 31,
-      "text": [
-        "Kemudian, karena begitu banyak orang datang dan pergi sehingga mereka bahkan tidak punya waktu untuk makan, Ia berkata kepada mereka, \"Marilah kita pergi menyendiri ke tempat yang sepi dan beristirahat sejenak.\""
-      ]
-    },
-    {
-      "verse": 32,
-      "text": ["Jadi mereka pergi sendiri dengan perahu ke daerah yang terpencil."]
-    },
-    {
-      "verse": 33,
-      "text": [
-        "Tetapi banyak orang melihat mereka pergi dan mengenali mereka, dan mereka berlari dengan berjalan kaki dari semua kota dan tiba lebih dahulu dari mereka."
-      ]
-    },
-    {
-      "verse": 34,
-      "text": [
-        "Ketika Yesus mendarat dan melihat kerumunan besar, Ia merasa kasihan kepada mereka, karena mereka seperti domba tanpa gembala. Maka Ia mulai mengajar mereka banyak hal."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 35,
-      "text": [
-        "Pada saat itu sudah larut hari, jadi murid-murid-Nya datang kepada-Nya dan berkata, \"Ini adalah tempat yang terpencil, dan sudah sangat larut."
-      ]
-    },
-    {
-      "verse": 36,
-      "text": [
-        "Suruhlah orang-orang pergi agar mereka dapat pergi ke desa-desa dan kampung-kampung sekitarnya untuk membeli sesuatu untuk dimakan.\""
-      ]
-    },
-    {
-      "verse": 37,
-      "text": [
-        "Tetapi Ia menjawab, \"Kamu beri mereka sesuatu untuk dimakan.\" Mereka berkata kepada-Nya, \"Haruskah kami pergi dan menghabiskan dua ratus dinar untuk roti dan memberikannya kepada mereka untuk dimakan?\""
-      ]
-    },
-    {
-      "verse": 38,
-      "text": [
-        "Ia bertanya kepada mereka, \"Berapa banyak roti yang kamu miliki? Pergi dan cari tahu.\" Ketika mereka mengetahuinya, mereka berkata, \"Lima, dan dua ikan.\""
-      ]
-    },
-    {
-      "verse": 39,
-      "text": [
-        "Kemudian Ia menyuruh mereka untuk membuat semua orang duduk berkelompok di atas rumput hijau."
-      ]
-    },
-    {
-      "verse": 40,
-      "text": ["Jadi mereka duduk dalam kelompok-kelompok yang teratur."]
-    },
-    {
-      "verse": 41,
-      "text": [
-        "Mengambil lima roti dan dua ikan, dan menengadah ke langit, Ia memberkati makanan itu, memecah roti, dan memberikannya kepada murid-murid-Nya untuk dibagikan kepada orang-orang. Ia juga membagi dua ikan itu di antara mereka semua."
-      ]
-    },
-    {
-      "verse": 42,
-      "text": ["Mereka semua makan dan kenyang,"]
-    },
-    {
-      "verse": 43,
-      "text": ["dan para murid mengumpulkan dua belas keranjang penuh potongan roti dan ikan."]
-    },
-    {
-      "verse": 44,
-      "text": ["Jumlah laki-laki yang makan roti itu adalah lima ribu."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 45,
-      "text": [
-        "Segera, Yesus menyuruh murid-murid-Nya naik ke perahu dan pergi mendahului-Nya ke seberang, ke Betsaida, sementara Ia membubarkan orang banyak."
-      ]
-    },
-    {
-      "verse": 46,
-      "text": ["Setelah membubarkan mereka, Ia naik ke gunung untuk berdoa."]
-    },
-    {
-      "verse": 47,
-      "text": [
-        "Saat malam tiba, perahu itu berada di tengah laut, sementara Ia sendirian di darat."
-      ]
-    },
-    {
-      "verse": 48,
-      "text": [
-        "Melihat mereka bersusah payah mendayung, karena angin melawan mereka, menjelang fajar Ia datang kepada mereka, berjalan di atas laut, bermaksud melewati mereka."
-      ]
-    },
-    {
-      "verse": 49,
-      "text": [
-        "Tetapi ketika mereka melihat-Nya berjalan di atas laut, mereka mengira itu hantu dan berteriak,"
-      ]
-    },
-    {
-      "verse": 50,
-      "text": [
-        "karena mereka semua melihat-Nya dan ketakutan. Segera Ia berbicara kepada mereka dan berkata, \"Tenanglah; ini Aku. Jangan takut.\""
-      ]
-    },
-    {
-      "verse": 51,
-      "text": [
-        "Kemudian Ia naik ke perahu bersama mereka, dan angin pun reda. Mereka sangat tercengang,"
-      ]
-    },
-    {
-      "verse": 52,
-      "text": ["karena mereka belum memahami arti dari roti itu; hati mereka keras."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 53,
-      "text": [
-        "Ketika mereka telah menyeberang, mereka tiba di daratan di Genesaret dan berlabuh di sana."
-      ]
-    },
-    {
-      "verse": 54,
-      "text": ["Setelah turun dari perahu, orang-orang segera mengenali Yesus."]
-    },
-    {
-      "verse": 55,
-      "text": [
-        "Mereka berlari ke seluruh daerah itu dan membawa orang-orang sakit di atas tikar ke mana pun mereka mendengar Ia berada."
-      ]
-    },
-    {
-      "verse": 56,
-      "text": [
-        "Dan ke mana pun Ia pergi—ke desa-desa, kota-kota, atau pedesaan—mereka menempatkan orang-orang sakit di pasar-pasar dan memohon kepada-Nya untuk membiarkan mereka menyentuh bahkan ujung jubah-Nya, dan semua yang menyentuhnya sembuh."
-      ]
-    }
-  ]
+    "book": "Markus",
+    "chapter": 6,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Yesus berangkat dari sana dan tiba di kampung halamannya, dengan murid-murid-Nya mengikuti Dia."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Ketika hari Sabat tiba, Ia mulai mengajar di sinagoga, dan banyak yang mendengarkan merasa takjub. Mereka bertanya, \"Dari mana orang ini memperoleh semua ini? Hikmat apa yang telah diberikan kepadanya, dan mukjizat-mukjizat luar biasa apa yang dilakukan oleh tangannya?"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Bukankah ini tukang kayu, anak Maria, dan saudara Yakobus, Yoses, Yudas, dan Simon? Bukankah saudara-saudara perempuannya ada di sini bersama kita?\" Dan mereka tersandung padanya."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Yesus berkata kepada mereka, \"Seorang nabi dihormati di mana-mana kecuali di kampung halamannya sendiri, di antara sanak saudaranya, dan di rumahnya sendiri.\""
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Ia tidak dapat melakukan mukjizat di sana, kecuali menyembuhkan beberapa orang sakit dengan meletakkan tangan-Nya atas mereka."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Ia terkejut oleh kurangnya iman mereka. Lalu Ia melanjutkan mengajar di desa-desa sekitarnya."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Ia memanggil kedua belas murid-Nya dan mulai mengutus mereka berdua-dua, memberi mereka kuasa atas roh-roh najis."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Ia memerintahkan mereka untuk tidak membawa apa-apa dalam perjalanan kecuali tongkat—tidak roti, tidak kantong, tidak uang dalam ikat pinggang mereka—"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "mereka diizinkan memakai sandal tetapi tidak boleh memakai dua jubah."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Ia berkata kepada mereka, \"Di mana pun kamu masuk ke dalam sebuah rumah, tinggTuhan di sana sampai kamu meninggalkan tempat itu."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Jika ada tempat yang tidak menyambutmu atau mendengarkanmu, saat kamu pergi, kebaskan debu dari kakimu sebagai kesaksian terhadap mereka.\""
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Mereka pergi dan memberitakan bahwa orang-orang harus mengubah cara hidup mereka."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Mereka mengusir banyak setan dan mengurapi banyak orang sakit dengan minyak, menyembuhkan mereka."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Raja Herodes mendengar tentang hal ini, karena nama Yesus telah menjadi terkenal. Beberapa orang berkata, \"Yohanes Pembaptis telah bangkit dari kematian, dan itulah sebabnya kuasa-kuasa mukjizat bekerja di dalam dia.\""
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Yang lain berkata, \"Dia adalah Elia.\" Yang lain lagi mengklaim, \"Dia adalah seorang nabi, seperti salah satu nabi zaman dahulu.\""
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Tetapi ketika Herodes mendengar ini, ia berkata, \"Yohanes, yang telah kupenggal, telah bangkit!\""
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Herodes sendiri yang memerintahkan penangkapan Yohanes dan membelenggunya serta memenjarakannya karena Herodias, istri saudaranya Filipus, yang telah dinikahinya."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Karena Yohanes telah berkata kepada Herodes, \"Tidak sah bagimu memiliki istri saudaramu.\""
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Herodias menyimpan dendam terhadapnya dan ingin membunuhnya, tetapi ia tidak bisa,"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "karena Herodes takut kepada Yohanes dan melindunginya, mengetahui bahwa dia adalah orang yang benar dan suci. Ketika Herodes mendengarkannya, ia sangat bingung, namun ia senang mendengarkannya."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Suatu hari yang tepat datang ketika Herodes, pada hari ulang tahunnya, mengadakan perjamuan untuk para bangsawan, komandan militer, dan orang-orang terkemuka di Galilea."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Ketika putri Herodias masuk dan menari, ia menyenangkan Herodes dan tamu-tamunya. Raja berkata kepada gadis itu, \"Mintalah apa pun yang kamu inginkan, dan aku akan memberikannya kepadamu.\""
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Ia bersumpah kepadanya, \"Apa pun yang kamu minta dariku, aku akan memberikannya, hingga setengah dari kerajaanku.\""
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Ia keluar dan bertanya kepada ibunya, \"Apa yang harus kuminta?\" Ibunya menjawab, \"Kepala Yohanes Pembaptis.\""
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Segera ia bergegas kepada raja dan meminta, \"Aku ingin kamu memberikan kepadaku kepala Yohanes Pembaptis di atas piring sekarang juga.\""
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Raja sangat sedih, tetapi karena sumpahnya dan tamu-tamunya, ia tidak ingin menolaknya."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Jadi ia segera mengirim seorang algojo dengan perintah untuk membawa kepala Yohanes. Ia pergi dan memenggal Yohanes di penjara,"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "dan membawa kepalanya di atas piring, memberikannya kepada gadis itu, dan ia memberikannya kepada ibunya."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Ketika murid-murid Yohanes mendengar tentang hal ini, mereka datang dan mengambil tubuhnya dan meletakkannya di dalam kubur."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Para rasul berkumpul di sekitar Yesus dan menceritakan kepada-Nya semua yang telah mereka lakukan dan ajarkan."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Kemudian, karena begitu banyak orang datang dan pergi sehingga mereka bahkan tidak punya waktu untuk makan, Ia berkata kepada mereka, \"Marilah kita pergi menyendiri ke tempat yang sepi dan beristirahat sejenak.\""
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Jadi mereka pergi sendiri dengan perahu ke daerah yang terpencil."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Tetapi banyak orang melihat mereka pergi dan mengenali mereka, dan mereka berlari dengan berjalan kaki dari semua kota dan tiba lebih dahulu dari mereka."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Ketika Yesus mendarat dan melihat kerumunan besar, Ia merasa kasihan kepada mereka, karena mereka seperti domba tanpa gembala. Maka Ia mulai mengajar mereka banyak hal."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Pada saat itu sudah larut hari, jadi murid-murid-Nya datang kepada-Nya dan berkata, \"Ini adalah tempat yang terpencil, dan sudah sangat larut."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Suruhlah orang-orang pergi agar mereka dapat pergi ke desa-desa dan kampung-kampung sekitarnya untuk membeli sesuatu untuk dimakan.\""
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Tetapi Ia menjawab, \"Kamu beri mereka sesuatu untuk dimakan.\" Mereka berkata kepada-Nya, \"Haruskah kami pergi dan menghabiskan dua ratus dinar untuk roti dan memberikannya kepada mereka untuk dimakan?\""
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Ia bertanya kepada mereka, \"Berapa banyak roti yang kamu miliki? Pergi dan cari tahu.\" Ketika mereka mengetahuinya, mereka berkata, \"Lima, dan dua ikan.\""
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Kemudian Ia menyuruh mereka untuk membuat semua orang duduk berkelompok di atas rumput hijau."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Jadi mereka duduk dalam kelompok-kelompok yang teratur."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Mengambil lima roti dan dua ikan, dan menengadah ke langit, Ia memberkati makanan itu, memecah roti, dan memberikannya kepada murid-murid-Nya untuk dibagikan kepada orang-orang. Ia juga membagi dua ikan itu di antara mereka semua."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Mereka semua makan dan kenyang,"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "dan para murid mengumpulkan dua belas keranjang penuh potongan roti dan ikan."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Jumlah laki-laki yang makan roti itu adalah lima ribu."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Segera, Yesus menyuruh murid-murid-Nya naik ke perahu dan pergi mendahului-Nya ke seberang, ke Betsaida, sementara Ia membubarkan orang banyak."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Setelah membubarkan mereka, Ia naik ke gunung untuk berdoa."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "Saat malam tiba, perahu itu berada di tengah laut, sementara Ia sendirian di darat."
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "Melihat mereka bersusah payah mendayung, karena angin melawan mereka, menjelang fajar Ia datang kepada mereka, berjalan di atas laut, bermaksud melewati mereka."
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "Tetapi ketika mereka melihat-Nya berjalan di atas laut, mereka mengira itu hantu dan berteriak,"
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "karena mereka semua melihat-Nya dan ketakutan. Segera Ia berbicara kepada mereka dan berkata, \"Tenanglah; ini Aku. Jangan takut.\""
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "Kemudian Ia naik ke perahu bersama mereka, dan angin pun reda. Mereka sangat tercengang,"
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "karena mereka belum memahami arti dari roti itu; hati mereka keras."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "Ketika mereka telah menyeberang, mereka tiba di daratan di Genesaret dan berlabuh di sana."
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "Setelah turun dari perahu, orang-orang segera mengenali Yesus."
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "Mereka berlari ke seluruh daerah itu dan membawa orang-orang sakit di atas tikar ke mana pun mereka mendengar Ia berada."
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "Dan ke mana pun Ia pergi—ke desa-desa, kota-kota, atau pedesaan—mereka menempatkan orang-orang sakit di pasar-pasar dan memohon kepada-Nya untuk membiarkan mereka menyentuh bahkan ujung jubah-Nya, dan semua yang menyentuhnya sembuh."
+            ]
+        }
+    ]
 }

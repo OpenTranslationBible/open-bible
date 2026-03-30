@@ -1,200 +1,222 @@
 {
-  "book": "Bilangan",
-  "chapter": 10,
-  "verses": [
-    {
-      "verse": 1,
-      "text": ["Kemudian Tuhan berbicara kepada Musa, dengan mengatakan:"]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "“Buatlah dua trompet dari perak tempaan untuk dirimu; gunakanlah itu untuk memanggil jemaat dan untuk berangkat dari tempat perkemahan."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "Ketika kedua trompet ditiup, seluruh jemaat harus berkumpul di hadapanmu di pintu masuk kemah pertemuan."
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "Jika hanya satu trompet yang ditiup, maka para pemimpin, kepala-kepala suku Israel, harus berkumpul di hadapanmu."
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "Ketika tanda bahaya dibunyikan, perkemahan yang ditempatkan di sisi timur harus berangkat."
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "Ketika tanda bahaya dibunyikan untuk kedua kalinya, perkemahan di sisi selatan harus berangkat. Tanda bahaya harus dibunyikan untuk mereka agar berangkat."
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "Untuk mengumpulkan jemaat, tiuplah trompet, tetapi jangan membunyikan tanda bahaya."
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "Anak-anak Harun, para imam, harus meniup trompet. Ini harus menjadi ketetapan yang berlaku untukmu sepanjang generasi-generasimu."
-      ]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "Ketika kamu pergi berperang di negerimu melawan musuh yang menindasmu, bunyikanlah tanda bahaya dengan trompet. Maka kamu akan diingat oleh Tuhan Tuhanmu dan diselamatkan dari musuh-musuhmu."
-      ]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "Pada hari-hari sukacitamu, perayaan-perayaan yang ditetapkan, dan pada permulaan bulan-bulanmu, kamu harus meniup trompet di atas persembahan bakaranmu dan persembahan persekutuanmu, dan itu akan menjadi peringatan di hadapan Tuhanmu. Akulah Tuhan Tuhanmu.”"
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "Pada hari kedua puluh bulan kedua tahun kedua, awan itu terangkat dari atas tabernakel hukum perjanjian."
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "Orang Israel berangkat dari padang gurun Sinai dan melakukan perjalanan dari tempat ke tempat sampai awan itu menetap di padang gurun Paran."
-      ]
-    },
-    {
-      "verse": 13,
-      "text": ["Mereka berangkat untuk pertama kalinya atas perintah Tuhan melalui Musa."]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "Panji-panji perkemahan Yehuda berangkat pertama, menurut divisi-divisinya, dengan Nahason anak Aminadab sebagai pemimpin."
-      ]
-    },
-    {
-      "verse": 15,
-      "text": ["Netanel anak Zuar memimpin divisi suku Isakhar,"]
-    },
-    {
-      "verse": 16,
-      "text": ["Eliab anak Helon memimpin divisi suku Zebulon."]
-    },
-    {
-      "verse": 17,
-      "text": [
-        "Kemudian tabernakel dibongkar, dan orang-orang Gerson dan Merari, yang membawanya, berangkat."
-      ]
-    },
-    {
-      "verse": 18,
-      "text": [
-        "Panji-panji perkemahan Ruben berangkat berikutnya, menurut divisi-divisinya, dengan Elizur anak Syedeur sebagai pemimpin."
-      ]
-    },
-    {
-      "verse": 19,
-      "text": ["Selumiel anak Zurisyadai memimpin divisi suku Simeon,"]
-    },
-    {
-      "verse": 20,
-      "text": ["Eliasaf anak Deuel memimpin divisi suku Gad."]
-    },
-    {
-      "verse": 21,
-      "text": [
-        "Kemudian orang-orang Kehat berangkat, membawa benda-benda suci. Tabernakel harus didirikan sebelum kedatangan mereka."
-      ]
-    },
-    {
-      "verse": 22,
-      "text": [
-        "Panji-panji perkemahan Efraim berangkat berikutnya, menurut divisi-divisinya, dengan Elisama anak Amihud sebagai pemimpin."
-      ]
-    },
-    {
-      "verse": 23,
-      "text": ["Gamaliel anak Pedazur memimpin divisi suku Manasye,"]
-    },
-    {
-      "verse": 24,
-      "text": ["dan Abidan anak Gideoni memimpin divisi suku Benyamin."]
-    },
-    {
-      "verse": 25,
-      "text": [
-        "Akhirnya, panji-panji perkemahan Dan, yang membentuk barisan belakang untuk semua perkemahan, berangkat menurut divisi-divisinya, dengan Ahiezer anak Amisyadai sebagai pemimpin."
-      ]
-    },
-    {
-      "verse": 26,
-      "text": ["Pagiel anak Okhran memimpin divisi suku Asyer,"]
-    },
-    {
-      "verse": 27,
-      "text": ["Ahira anak Enan memimpin divisi suku Naftali."]
-    },
-    {
-      "verse": 28,
-      "text": ["Inilah urutan berbaris untuk divisi-divisi Israel saat mereka berangkat."]
-    },
-    {
-      "verse": 29,
-      "text": [
-        "Musa berkata kepada Hobab anak Rehuel orang Midian, mertua Musa, “Kami berangkat ke tempat yang dijanjikan Tuhan untuk diberikan kepada kami. Datanglah bersama kami dan kami akan memperlakukanmu dengan baik, karena Tuhan telah menjanjikan hal-hal baik kepada Israel.”"
-      ]
-    },
-    {
-      "verse": 30,
-      "text": [
-        "Dia menjawab, “Aku tidak akan pergi; aku kembali ke negeriku sendiri dan kepada bangsaku sendiri.”"
-      ]
-    },
-    {
-      "verse": 31,
-      "text": [
-        "Musa mendesak, “Tolong jangan tinggalkan kami. Kamu tahu di mana kami harus berkemah di padang gurun, dan kamu bisa menjadi pemandu kami."
-      ]
-    },
-    {
-      "verse": 32,
-      "text": [
-        "Jika kamu datang bersama kami, kami akan berbagi denganmu apa pun hal baik yang diberikan Tuhan kepada kami.”"
-      ]
-    },
-    {
-      "verse": 33,
-      "text": [
-        "Maka mereka berangkat dari gunung Tuhan dan melakukan perjalanan selama tiga hari. Tabut perjanjian Tuhan berjalan di depan mereka selama tiga hari itu untuk mencari tempat perhentian bagi mereka."
-      ]
-    },
-    {
-      "verse": 34,
-      "text": [
-        "Awan Tuhan ada di atas mereka pada siang hari saat mereka berangkat dari perkemahan."
-      ]
-    },
-    {
-      "verse": 35,
-      "text": [
-        "Setiap kali tabut itu berangkat, Musa berkata, “Bangkitlah, Tuhan! Biarlah musuh-musuh-Mu tercerai-berai dan lawan-lawan-Mu melarikan diri di hadapan-Mu.”"
-      ]
-    },
-    {
-      "verse": 36,
-      "text": [
-        "Setiap kali tabut itu berhenti, dia berkata, “Kembalilah, Tuhan, kepada ribuan orang Israel.”"
-      ]
-    }
-  ]
+    "book": "Bilangan",
+    "chapter": 10,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Kemudian Tuhan berbicara kepada Musa, dengan mengatakan:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "“Buatlah dua trompet dari perak tempaan untuk dirimu; gunakanlah itu untuk memanggil jemaat dan untuk berangkat dari tempat perkemahan."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Ketika kedua trompet ditiup, seluruh jemaat harus berkumpul di hadapanmu di pintu masuk kemah pertemuan."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Jika hanya satu trompet yang ditiup, maka para pemimpin, kepala-kepala suku Israel, harus berkumpul di hadapanmu."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Ketika tanda bahaya dibunyikan, perkemahan yang ditempatkan di sisi timur harus berangkat."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Ketika tanda bahaya dibunyikan untuk kedua kalinya, perkemahan di sisi selatan harus berangkat. Tanda bahaya harus dibunyikan untuk mereka agar berangkat."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Untuk mengumpulkan jemaat, tiuplah trompet, tetapi jangan membunyikan tanda bahaya."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Anak-anak Harun, para imam, harus meniup trompet. Ini harus menjadi ketetapan yang berlaku untukmu sepanjang generasi-generasimu."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Ketika kamu pergi berperang di negerimu melawan musuh yang menindasmu, bunyikanlah tanda bahaya dengan trompet. Maka kamu akan diingat oleh Tuhan Tuhanmu dan diselamatkan dari musuh-musuhmu."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Pada hari-hari sukacitamu, perayaan-perayaan yang ditetapkan, dan pada permulaan bulan-bulanmu, kamu harus meniup trompet di atas persembahan bakaranmu dan persembahan persekutuanmu, dan itu akan menjadi peringatan di hadapan Tuhanmu. Akulah Tuhan Tuhanmu.”"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Pada hari kedua puluh bulan kedua tahun kedua, awan itu terangkat dari atas tabernakel hukum perjanjian."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Orang Israel berangkat dari padang gurun Sinai dan melakukan perjalanan dari tempat ke tempat sampai awan itu menetap di padang gurun Paran."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Mereka berangkat untuk pertama kalinya atas perintah Tuhan melalui Musa."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Panji-panji perkemahan Yehuda berangkat pertama, menurut divisi-divisinya, dengan Nahason anak Aminadab sebagai pemimpin."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Netanel anak Zuar memimpin divisi suku Isakhar,"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Eliab anak Helon memimpin divisi suku Zebulon."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Kemudian tabernakel dibongkar, dan orang-orang Gerson dan Merari, yang membawanya, berangkat."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Panji-panji perkemahan Ruben berangkat berikutnya, menurut divisi-divisinya, dengan Elizur anak Syedeur sebagai pemimpin."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Selumiel anak Zurisyadai memimpin divisi suku Simeon,"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Eliasaf anak Deuel memimpin divisi suku Gad."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Kemudian orang-orang Kehat berangkat, membawa benda-benda suci. Tabernakel harus didirikan sebelum kedatangan mereka."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Panji-panji perkemahan Efraim berangkat berikutnya, menurut divisi-divisinya, dengan Elisama anak Amihud sebagai pemimpin."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Gamaliel anak Pedazur memimpin divisi suku Manasye,"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "dan Abidan anak Gideoni memimpin divisi suku Benyamin."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Akhirnya, panji-panji perkemahan Dan, yang membentuk barisan belakang untuk semua perkemahan, berangkat menurut divisi-divisinya, dengan Ahiezer anak Amisyadai sebagai pemimpin."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Pagiel anak Okhran memimpin divisi suku Asyer,"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Ahira anak Enan memimpin divisi suku Naftali."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Inilah urutan berbaris untuk divisi-divisi Israel saat mereka berangkat."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Musa berkata kepada Hobab anak Rehuel orang Midian, mertua Musa, “Kami berangkat ke tempat yang dijanjikan Tuhan untuk diberikan kepada kami. Datanglah bersama kami dan kami akan memperlakukanmu dengan baik, karena Tuhan telah menjanjikan hal-hal baik kepada Israel.”"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Dia menjawab, “Aku tidak akan pergi; aku kembali ke negeriku sendiri dan kepada bangsaku sendiri.”"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Musa mendesak, “Tolong jangan tinggalkan kami. Kamu tahu di mana kami harus berkemah di padang gurun, dan kamu bisa menjadi pemandu kami."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Jika kamu datang bersama kami, kami akan berbagi denganmu apa pun hal baik yang diberikan Tuhan kepada kami.”"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Maka mereka berangkat dari gunung Tuhan dan melakukan perjalanan selama tiga hari. Tabut perjanjian Tuhan berjalan di depan mereka selama tiga hari itu untuk mencari tempat perhentian bagi mereka."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Awan Tuhan ada di atas mereka pada siang hari saat mereka berangkat dari perkemahan."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Setiap kali tabut itu berangkat, Musa berkata, “Bangkitlah, Tuhan! Biarlah musuh-musuh-Mu tercerai-berai dan lawan-lawan-Mu melarikan diri di hadapan-Mu.”"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Setiap kali tabut itu berhenti, dia berkata, “Kembalilah, Tuhan, kepada ribuan orang Israel.”"
+            ]
+        }
+    ]
 }

@@ -1,0 +1,47 @@
+{
+    "book": "Sálmabók",
+    "chapter": 123,
+    "verses": [
+        {
+            "text": [
+                "Uppstigningarljóð."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Til þín hef ég lyft augum mínum,",
+                "> þú sem situr á himnum!"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Sjá, eins og augu þjóna eru á hendi húsbónda þeirra,",
+                "> og eins og augu ambáttar eru á hendi húsfreyju hennar,",
+                "> þannig eru augu okkar á Drottin, Guð okkar,",
+                "> þar til hann sýnir okkur náð sína."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Sýndu okkur góðvild þína, Drottinn, sýndu okkur góðvild þína,",
+                "> því að við höfum þolað meira en nóg af fyrirlitningu."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Sál okkar hefur þolað meira en nóg",
+                "> af spotti þeirra sem eru í makindum,",
+                "> og af fyrirlitningu hrokafullra."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,610 @@
+{
+    "book": "Psalmit",
+    "chapter": 78,
+    "verses": [
+        {
+            "text": [
+                "Asafin maskil."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Kuulkaa, kansani, minun opetustani;",
+                "> kallistakaa korvanne suuni sanoille."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Minä puhun vertauksin;",
+                "> ilmoitan muinaisia arvoituksia,"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> jotka olemme kuulleet ja tienneet,",
+                "> ja jotka isämme ovat meille kertoneet."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Emme salaa niitä heidän lapsiltaan,",
+                "> vaan kerromme tulevalle sukupolvelle Herran ylistettävistä teoista,",
+                "> Hänen voimastaan ja ihmeellisistä teoistaan, jotka Hän on tehnyt."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Sillä Hän asetti todistuksen Jaakobissa,",
+                "> ja sääti lain Israelissa,",
+                "> jonka Hän käski isillemme,",
+                "> että he opettaisivat sen lapsilleen,"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> jotta tuleva sukupolvi tietäisi, vielä syntymättömät lapset,",
+                "> että he nousisivat ja kertoisivat sen lapsilleen,"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> jotta he panisivat toivonsa Jumalaan",
+                "> eivätkä unohtaisi Jumalan tekoja,",
+                "> vaan noudattaisivat Hänen käskyjään,"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> eivätkä olisi kuten heidän isänsä,",
+                "> uppiniskainen ja kapinallinen sukupolvi,",
+                "> sukupolvi, joka ei valmistanut sydäntään,",
+                "> ja jonka henki ei ollut uskollinen Jumalalle."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Efraimin pojat, jousilla varustetut,",
+                "> kuitenkin vetäytyivät taistelupäivänä."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> He eivät pitäneet Jumalan liittoa",
+                "> ja kieltäytyivät noudattamasta Hänen lakiaan;"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> He unohtivat Hänen tekonsa",
+                "> ja ihmeet, jotka Hän oli heille näyttänyt."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Hän teki ihmeitä heidän isiensä edessä",
+                "> Egyptin maassa, Soanin kedolla."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Hän jakoi meren ja johdatti heidät läpi,",
+                "> ja Hän sai vedet seisomaan kuin muuri."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Sitten Hän johdatti heitä pilvellä päivällä,",
+                "> ja koko yön tulen valolla."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Hän halkaisi kalliot erämaassa",
+                "> ja antoi heille runsaasti vettä kuin valtameren syvyyksistä."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Hän toi esiin puroja kalliosta",
+                "> ja sai vedet virtaamaan alas kuin joet."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Kuitenkin he jatkoivat syntiä Häntä vastaan,",
+                "> kapinoiden Korkeinta vastaan erämaassa."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Ja he kiusasivat Jumalaa sydämessään",
+                "> vaatimalla ruokaa tyydyttääkseen himonsa."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Sitten he puhuivat Jumalaa vastaan;",
+                "> he sanoivat: \"Voiko Jumala kattaa pöydän erämaassa?"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> Katso, Hän löi kallion, niin että vedet pursuivat,",
+                "> ja purot tulvivat;",
+                "> voiko Hän myös antaa leipää?",
+                "> Antaako Hän kansalleen lihaa?\""
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> Sen tähden Herra kuuli ja tuli täyteen vihaa;",
+                "> ja tuli syttyi Jaakobia vastaan,",
+                "> ja viha nousi myös Israelia vastaan,"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> koska he eivät uskoneet Jumalaan",
+                "> eivätkä luottaneet Hänen pelastukseensa."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> Kuitenkin Hän käski taivaita ylhäällä",
+                "> ja avasi taivaan portit;"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Hän satoi heille mannaa syötäväksi,",
+                "> ja antoi heille taivaan viljaa."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> Ihmiset söivät enkelten leipää;",
+                "> Hän antoi heille ruokaa yltäkylläisesti."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> Hän sai itätuulen puhaltamaan taivaissa",
+                "> ja voimallaan ohjasi etelätuulen."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> Hän satoi heille lihaa kuin tomua,",
+                "> jopa siivekkäitä lintuja kuin meren hiekkaa,"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> Hän antoi niiden pudota heidän leirinsä keskelle,",
+                "> kaikkialle heidän asuinsijoilleen."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "> Niin he söivät ja tulivat hyvin kylläisiksi,",
+                "> ja Hän täytti heidän halunsa."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> Kuitenkin ennen kuin he olivat tyydyttäneet himonsa,",
+                "> kun heidän ruokansa oli vielä heidän suussaan,"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "> Jumalan viha nousi heitä vastaan",
+                "> ja löi maahan heidän vahvimmat,",
+                "> ja kukisti Israelin valiojoukot."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "> Kaikesta tästä huolimatta he jatkoivat syntiä",
+                "> eivätkä uskoneet Hänen ihmeellisiin tekoihinsa."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "> Niin Hän päätti heidän päivänsä turhuudessa,",
+                "> ja heidän vuotensa äkillisessä kauhussa."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "> Kun Hän löi heitä, silloin he etsivät Häntä,",
+                "> ja he palasivat ja etsivät kiihkeästi Jumalaa;"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "> ja he muistivat, että Jumala oli heidän kallionsa,",
+                "> ja Korkein Jumala heidän Lunastajansa."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "> Mutta he imartelivat Häntä sanoillaan",
+                "> ja valehtelivat Hänelle kielellään."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "> Sillä heidän sydämensä ei ollut vakaa Häntä kohtaan,",
+                "> eivätkä he olleet uskollisia Hänen liitolleen."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "> Mutta Hän, ollen armollinen, antoi anteeksi heidän rikkomuksensa eikä tuhonnut heitä;",
+                "> ja usein Hän hillitsi vihansa",
+                "> eikä päästänyt kaikkea vihaansa valloilleen."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "> Niin Hän muisti, että he olivat vain lihaa,",
+                "> ohimenevä tuuli, joka ei palaa."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "> Kuinka usein he kapinoivat Häntä vastaan erämaassa,",
+                "> ja murehduttivat Häntä autiomaassa!"
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "> Kerta toisensa jälkeen he kiusasivat Jumalaa,",
+                "> ja pahoittivat Israelin Pyhän mielen."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "> He eivät muistaneet Hänen voimaansa,",
+                "> päivää, jona Hän lunasti heidät viholliselta,"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "> kun Hän näytti merkkinsä Egyptissä",
+                "> ja ihmeensä Soanin kedolla,"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "> ja muutti heidän jokensa vereksi,",
+                "> ja heidän virtansa, niin etteivät he voineet juoda."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "> Hän lähetti heidän kimppuunsa paarmoja, jotka söivät heitä,",
+                "> ja sammakoita, jotka tuhosivat heitä."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "> Hän antoi heidän satonsa heinäsirkalle",
+                "> ja heidän työnsä hedelmän kulkusirkalle."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "> Hän tuhosi heidän viiniköynnöksensä rakeilla",
+                "> ja heidän metsäviikunapuunsa halla."
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "> Hän antoi heidän karjansa rakeille alttiiksi,",
+                "> ja heidän laumansa salamoille."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "> Hän lähetti heidän kimppuunsa hehkuvan vihansa,",
+                "> kiukun, suuttumuksen ja ahdistuksen,",
+                "> tuhoavien enkelien joukon."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "> Hän raivasi tiensä vihalleen;",
+                "> Hän ei säästänyt heidän sielujaan kuolemasta,",
+                "> vaan antoi heidän elämänsä rutolle,"
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "> ja löi kaikki esikoiset Egyptissä,",
+                "> heidän voimansa ensimmäiset Haamin teltoissa."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "> Kuitenkin Hän johdatti oman kansansa ulos kuin lampaat,",
+                "> ja ohjasi heitä erämaassa kuin laumaa;"
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "> Hän johdatti heitä turvallisesti, niin etteivät he pelänneet;",
+                "> mutta meri peitti heidän vihollisensa."
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "> Niin Hän toi heidät pyhälle maalleen,",
+                "> tälle vuoriseudulle, jonka Hänen oikea kätensä oli voittanut."
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "> Hän myös karkotti kansat heidän edestään,",
+                "> ja jakoi heille perintöosan mittaamalla,",
+                "> ja asetti Israelin heimot heidän telttoihinsa."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "> Kuitenkin he kiusasivat ja kapinoivat Korkeinta Jumalaa vastaan",
+                "> eivätkä pitäneet Hänen säädöksiään,"
+            ]
+        },
+        {
+            "verse": 57,
+            "text": [
+                "> vaan kääntyivät takaisin ja toimivat petollisesti kuten heidän isänsä;",
+                "> he kääntyivät syrjään kuin viallinen jousi."
+            ]
+        },
+        {
+            "verse": 58,
+            "text": [
+                "> Sillä he vihastuttivat Hänet uhrikukkuloillaan",
+                "> ja herättivät Hänessä mustasukkaisuuden veistetyillä kuvillaan."
+            ]
+        },
+        {
+            "verse": 59,
+            "text": [
+                "> Kun Jumala kuuli heidät, Hän tuli täyteen vihaa",
+                "> ja hylkäsi täysin Israelin;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 60,
+            "text": [
+                "> niin että Hän hylkäsi asumuksensa Silossa,",
+                "> teltan, jonka Hän oli pystyttänyt ihmisten keskuuteen,"
+            ]
+        },
+        {
+            "verse": 61,
+            "text": [
+                "> ja antoi voimansa vankeuteen,",
+                "> ja kirkkautensa vihollisen käsiin."
+            ]
+        },
+        {
+            "verse": 62,
+            "text": [
+                "> Hän myös antoi kansansa miekalle,",
+                "> ja täyttyi vihasta perintöosaansa kohtaan."
+            ]
+        },
+        {
+            "verse": 63,
+            "text": [
+                "> Tuli kulutti Hänen nuorukaisensa,",
+                "> ja Hänen neitsyillään ei ollut häälauluja."
+            ]
+        },
+        {
+            "verse": 64,
+            "text": [
+                "> Hänen pappinsa kaatuivat miekkaan,",
+                "> eikä Hänen leskillään ollut itkua."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 65,
+            "text": [
+                "> Sitten Herra heräsi ikään kuin unesta,",
+                "> kuin soturi, joka on voittanut viinin."
+            ]
+        },
+        {
+            "verse": 66,
+            "text": [
+                "> Hän ajoi vihollisensa takaisin;",
+                "> Hän pani heihin ikuisen häpeän."
+            ]
+        },
+        {
+            "verse": 67,
+            "text": [
+                "> Hän myös kääntyi pois Joosefin teltasta,",
+                "> eikä valinnut Efraimin heimoa,"
+            ]
+        },
+        {
+            "verse": 68,
+            "text": [
+                "> vaan valitsi Juudan heimon,",
+                "> Siionin vuoren, jota Hän rakasti."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 69,
+            "text": [
+                "> Ja Hän perusti pyhäkkönsä kuin korkeudet,",
+                "> kuin maan, jonka Hän on perustanut ikuisiksi ajoiksi."
+            ]
+        },
+        {
+            "verse": 70,
+            "text": [
+                "> Hän myös valitsi palvelijansa Daavidin,",
+                "> ja otti hänet lampaiden parista;"
+            ]
+        },
+        {
+            "verse": 71,
+            "text": [
+                "> hoitamasta imettäviä lampaita Hän toi hänet",
+                "> paimentamaan Jaakobia, Hänen kansaansa,",
+                "> ja Israelia, Hänen perintöosaansa."
+            ]
+        },
+        {
+            "verse": 72,
+            "text": [
+                "> Niin hän kaitsi heitä sydämensä vilpittömyydellä,",
+                "> ja johti heitä taitavilla käsillään."
+            ]
+        }
+    ]
+}

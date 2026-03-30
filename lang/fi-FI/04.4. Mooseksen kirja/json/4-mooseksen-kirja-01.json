@@ -1,0 +1,330 @@
+{
+    "book": "4. Mooseksen kirja",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Herra puhui Moosekselle Siinain autiomaassa ilmestysmajassa toisen kuukauden ensimmäisenä päivänä toisena vuotena sen jälkeen, kun israelilaiset olivat lähteneet Egyptistä, sanoen:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "\"Ota koko Israelin seurakunnasta väestönlaskenta heidän perhekuntiensa mukaan, isien sukukunnittain, luetellen jokainen mies nimeltä, yksi kerrallaan."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Sinun ja Aaronin tulee laskea kaikki Israelin miehet, jotka ovat kaksikymmentä vuotta vanhoja tai vanhempia ja kykeneviä palvelemaan armeijassa, heidän osastojensa mukaan."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Kanssasi tulee olla mies kustakin heimosta, jokainen oman perheensä päämies."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Tässä ovat niiden miesten nimet, jotka auttavat sinua: Ruubenista, Elisur, Sedeurin poika;"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Simeonin heimosta, Selumiel, Surisaddain poika;"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Juudan heimosta, Nahson, Amminadabin poika;"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Isaskarin heimosta, Netanel, Suarin poika;"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Sebulonin heimosta, Eliab, Helonin poika;"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Joosefin jälkeläisistä: Efraimista, Elisama, Ammihudin poika; Manassesta, Gamliel, Pedatsurin poika;"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Benjaminin heimosta, Abidan, Gideonin poika;"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Danin heimosta, Ahieser, Ammisaddain poika;"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Asserin heimosta, Pagiel, Okranin poika;"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Gadin heimosta, Eljasaf, Deuelin poika;"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Naftalin heimosta, Ahira, Enanin poika."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Nämä olivat yhteisöstä valitut miehet, isiensä heimojen johtajat; he olivat Israelin sukujen päämiehiä."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Mooses ja Aaron kokosivat nämä miehet, jotka oli nimeltä määrätty,"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "ja he kokosivat koko seurakunnan toisen kuukauden ensimmäisenä päivänä. He rekisteröivät sukuluettelojen mukaan perheittensä, isiensä sukukuntien mukaan, nimien lukumäärän mukaan, kaksikymmentä vuotta vanhat ja sitä vanhemmat, yksi kerrallaan,"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "niin kuin Herra oli Moosekselle käskenyt. Niin hän laski heidät Siinain autiomaassa."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Ruubenin jälkeläisistä, Israelin esikoisesta: Kaikki kaksikymmentä vuotta vanhat tai vanhemmat miehet, jotka kykenivät palvelemaan armeijassa, lueteltiin nimeltä, yksi kerrallaan, heidän sukujensa ja perhekuntiensa mukaan."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Ruubenin heimon lukumäärä oli 46 500."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Simeonin jälkeläisistä: Kaikki kaksikymmentä vuotta vanhat tai vanhemmat miehet, jotka olivat kelvollisia sotapalvelukseen, lueteltiin ja merkittiin nimeltä, yksi kerrallaan, heidän sukujensa ja perhekuntiensa mukaan."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Simeonin heimon lukumäärä oli 59 300."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Gadin jälkeläisistä: Kaikki kaksikymmentä vuotta vanhat tai vanhemmat miehet, jotka olivat kelvollisia sotapalvelukseen, lueteltiin nimeltä, heidän sukujensa ja perhekuntiensa mukaan."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Gadin heimon lukumäärä oli 45 650."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Juudan jälkeläisistä: Kaikki kaksikymmentä vuotta vanhat tai vanhemmat miehet, jotka olivat kelvollisia sotapalvelukseen, lueteltiin nimeltä, heidän sukujensa ja perhekuntiensa mukaan."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Juudan heimon lukumäärä oli 74 600."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Isaskarin jälkeläisistä: Kaikki kaksikymmentä vuotta vanhat tai vanhemmat miehet, jotka olivat kelvollisia sotapalvelukseen, lueteltiin nimeltä, heidän sukujensa ja perhekuntiensa mukaan."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Isaskarin heimon lukumäärä oli 54 400."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Sebulonin jälkeläisistä: Kaikki kaksikymmentä vuotta vanhat tai vanhemmat miehet, jotka olivat kelvollisia sotapalvelukseen, lueteltiin nimeltä, heidän sukujensa ja perhekuntiensa mukaan."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Sebulonin heimon lukumäärä oli 57 400."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Joosefin jälkeläisistä: Efraimin heimosta: Kaikki kaksikymmentä vuotta vanhat tai vanhemmat miehet, jotka olivat kelvollisia sotapalvelukseen, lueteltiin nimeltä, heidän sukujensa ja perhekuntiensa mukaan."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Efraimin heimon lukumäärä oli 40 500."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Manassen jälkeläisistä: Kaikki kaksikymmentä vuotta vanhat tai vanhemmat miehet, jotka olivat kelvollisia sotapalvelukseen, lueteltiin nimeltä, heidän sukujensa ja perhekuntiensa mukaan."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Manassen heimon lukumäärä oli 32 200."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Benjaminin jälkeläisistä: Kaikki kaksikymmentä vuotta vanhat tai vanhemmat miehet, jotka olivat kelvollisia sotapalvelukseen, lueteltiin nimeltä, heidän sukujensa ja perhekuntiensa mukaan."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Benjaminin heimon lukumäärä oli 35 400."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Danin jälkeläisistä: Kaikki kaksikymmentä vuotta vanhat tai vanhemmat miehet, jotka olivat kelvollisia sotapalvelukseen, lueteltiin nimeltä, heidän sukujensa ja perhekuntiensa mukaan."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Danin heimon lukumäärä oli 62 700."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Asserin jälkeläisistä: Kaikki kaksikymmentä vuotta vanhat tai vanhemmat miehet, jotka olivat kelvollisia sotapalvelukseen, lueteltiin nimeltä, heidän sukujensa ja perhekuntiensa mukaan."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Asserin heimon lukumäärä oli 41 500."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Naftalin jälkeläisistä: Kaikki kaksikymmentä vuotta vanhat tai vanhemmat miehet, jotka olivat kelvollisia sotapalvelukseen, lueteltiin nimeltä, heidän sukujensa ja perhekuntiensa mukaan."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Naftalin heimon lukumäärä oli 53 400."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Nämä olivat Mooses ja Aaron laskeneet, yhdessä Israelin johtajien kanssa, kaksitoista miestä, jokainen edustaen isänsä sukua."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Kaikki israelilaiset, jotka olivat kaksikymmentä vuotta vanhoja tai vanhempia ja kelvollisia Israelin armeijan sotapalvelukseen, laskettiin perheittensä mukaan."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Heidän kokonaislukumääränsä oli 603 550."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "Leevin heimoa ei kuitenkaan laskettu muiden kanssa."
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "Sillä Herra oli puhunut Moosekselle, ohjeistaen häntä,"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "\"Älä laske Leevin heimoa äläkä ota heitä mukaan muiden israelilaisten väestönlaskentaan."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "Sen sijaan määrää leeviläiset todistuksen tabernaakkelin, kaikkien sen kalusteiden ja kaiken siihen kuuluvan ylle. Heidän tulee kantaa tabernaakkeli ja kaikki sen kalusteet; heidän tulee huolehtia siitä ja leiriytyä sen ympärille."
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "Aina kun tabernaakkeli on siirrettävä, leeviläisten tulee purkaa se, ja aina kun se on pystytettävä, leeviläisten tulee tehdä se. Jokainen ulkopuolinen, joka lähestyy sitä, on surmattava."
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "Israelilaisten tulee leiriytyä osastoittain, kukin mies oman leirinsä ja oman lippunsa mukaan."
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "Mutta leeviläisten tulee leiriytyä todistuksen tabernaakkelin ympärille, jotta ei tulisi jumalallista vihaa israelilaisten seurakuntaa vastaan. Leeviläisten tulee vastata todistuksen tabernaakkelin palveluksesta.\""
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "Israelilaiset tekivät kaiken tämän juuri niin kuin Herra oli Moosekselle käskenyt."
+            ]
+        }
+    ]
+}

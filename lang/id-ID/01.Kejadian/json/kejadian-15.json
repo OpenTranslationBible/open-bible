@@ -1,126 +1,132 @@
 {
-  "book": "Kejadian",
-  "chapter": 15,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "Setelah peristiwa-peristiwa ini, firman Tuhan datang kepada Abram dalam suatu penglihatan, berkata, \"Jangan takut, Abram. Akulah perisaimu; upahmu akan sangat besar.\""
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "Tetapi Abram berkata, \"Tuhan Tuhan, apa yang dapat Engkau berikan kepadaku, karena aku tetap tidak mempunyai anak, dan ahli waris rumahku adalah Eliezer dari Damsyik?\""
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "Dan Abram berkata, \"Engkau tidak memberikan keturunan kepadaku; jadi seorang hamba yang lahir di rumahku akan menjadi ahli warisku.\""
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "Kemudian firman Tuhan datang kepadanya, berkata, \"Orang ini tidak akan menjadi ahli warismu, tetapi seorang anak yang berasal dari darah dagingmu sendiri akan menjadi ahli warismu.\""
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "Dia membawanya ke luar dan berkata, \"Pandanglah ke langit dan hitunglah bintang-bintang, jika engkau dapat menghitungnya.\" Kemudian Dia berkata kepadanya, \"Demikianlah banyaknya keturunanmu nanti.\""
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "Abram percaya kepada Tuhan, dan hal itu diperhitungkan kepadanya sebagai kebenaran."
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "Dan Dia berkata kepadanya, \"Akulah Tuhan, yang membawa engkau keluar dari Ur-Kasdim untuk memberikan tanah ini kepadamu untuk dimiliki.\""
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "Tetapi Abram berkata, \"Tuhan Tuhan, bagaimana aku dapat mengetahui bahwa aku akan memilikinya?\""
-      ]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "Maka Tuhan berkata kepadanya, \"Bawalah kepadaku seekor lembu betina berumur tiga tahun, seekor kambing betina berumur tiga tahun, seekor domba jantan berumur tiga tahun, seekor burung tekukur, dan seekor anak burung merpati.\""
-      ]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "Abram membawa semua itu kepada-Nya, memotongnya menjadi dua, dan mengatur belahan-belahan itu berhadapan satu sama lain; tetapi ia tidak memotong burung-burung itu."
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "Kemudian burung-burung pemangsa turun ke atas bangkai-bangkai itu, tetapi Abram mengusirnya."
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "Saat matahari terbenam, Abram jatuh ke dalam tidur yang nyenyak, dan kegelapan yang menakutkan dan besar datang menimpanya."
-      ]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "Kemudian Tuhan berkata kepada Abram, \"Ketahuilah dengan pasti bahwa keturunanmu akan menjadi orang asing di tanah yang bukan milik mereka, di mana mereka akan diperbudak dan ditindas selama empat ratus tahun."
-      ]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "Tetapi Aku akan menghukum bangsa yang mereka layani, dan setelah itu mereka akan keluar dengan harta benda yang besar."
-      ]
-    },
-    {
-      "verse": 15,
-      "text": [
-        "Adapun engkau, engkau akan pergi kepada nenek moyangmu dengan damai dan akan dikuburkan pada usia yang baik."
-      ]
-    },
-    {
-      "verse": 16,
-      "text": [
-        "Pada generasi keempat, keturunanmu akan kembali ke sini, karena dosa orang Amori belum mencapai puncaknya.\""
-      ]
-    },
-    {
-      "verse": 17,
-      "text": [
-        "Ketika matahari telah terbenam dan gelap, sebuah periuk berasap dengan obor yang menyala-nyala muncul dan melewati potongan-potongan itu."
-      ]
-    },
-    {
-      "verse": 18,
-      "text": [
-        "Pada hari itu, Tuhan membuat perjanjian dengan Abram, berkata, \"Kepada keturunanmu telah Kuberikan tanah ini, dari sungai Mesir sampai sungai besar, sungai Efrat—"
-      ]
-    },
-    {
-      "verse": 19,
-      "text": ["wilayah orang Keni, orang Kenas, orang Kadmon,"]
-    },
-    {
-      "verse": 20,
-      "text": ["orang Het, orang Feris, dan orang Refaim,"]
-    },
-    {
-      "verse": 21,
-      "text": ["orang Amori, orang Kanaan, orang Girgasi, dan orang Yebus.\""]
-    }
-  ]
+    "book": "Kejadian",
+    "chapter": 15,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Setelah peristiwa-peristiwa ini, firman Tuhan datang kepada Abram dalam suatu penglihatan, berkata, \"Jangan takut, Abram. Akulah perisaimu; upahmu akan sangat besar.\""
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Tetapi Abram berkata, \"Tuhan Tuhan, apa yang dapat Engkau berikan kepadaku, karena aku tetap tidak mempunyai anak, dan ahli waris rumahku adalah Eliezer dari Damsyik?\""
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Dan Abram berkata, \"Engkau tidak memberikan keturunan kepadaku; jadi seorang hamba yang lahir di rumahku akan menjadi ahli warisku.\""
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Kemudian firman Tuhan datang kepadanya, berkata, \"Orang ini tidak akan menjadi ahli warismu, tetapi seorang anak yang berasal dari darah dagingmu sendiri akan menjadi ahli warismu.\""
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Dia membawanya ke luar dan berkata, \"Pandanglah ke langit dan hitunglah bintang-bintang, jika engkau dapat menghitungnya.\" Kemudian Dia berkata kepadanya, \"Demikianlah banyaknya keturunanmu nanti.\""
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Abram percaya kepada Tuhan, dan hal itu diperhitungkan kepadanya sebagai kebenaran."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Dan Dia berkata kepadanya, \"Akulah Tuhan, yang membawa engkau keluar dari Ur-Kasdim untuk memberikan tanah ini kepadamu untuk dimiliki.\""
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Tetapi Abram berkata, \"Tuhan Tuhan, bagaimana aku dapat mengetahui bahwa aku akan memilikinya?\""
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Maka Tuhan berkata kepadanya, \"Bawalah kepadaku seekor lembu betina berumur tiga tahun, seekor kambing betina berumur tiga tahun, seekor domba jantan berumur tiga tahun, seekor burung tekukur, dan seekor anak burung merpati.\""
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Abram membawa semua itu kepada-Nya, memotongnya menjadi dua, dan mengatur belahan-belahan itu berhadapan satu sama lain; tetapi ia tidak memotong burung-burung itu."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Kemudian burung-burung pemangsa turun ke atas bangkai-bangkai itu, tetapi Abram mengusirnya."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Saat matahari terbenam, Abram jatuh ke dalam tidur yang nyenyak, dan kegelapan yang menakutkan dan besar datang menimpanya."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Kemudian Tuhan berkata kepada Abram, \"Ketahuilah dengan pasti bahwa keturunanmu akan menjadi orang asing di tanah yang bukan milik mereka, di mana mereka akan diperbudak dan ditindas selama empat ratus tahun."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Tetapi Aku akan menghukum bangsa yang mereka layani, dan setelah itu mereka akan keluar dengan harta benda yang besar."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Adapun engkau, engkau akan pergi kepada nenek moyangmu dengan damai dan akan dikuburkan pada usia yang baik."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Pada generasi keempat, keturunanmu akan kembali ke sini, karena dosa orang Amori belum mencapai puncaknya.\""
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Ketika matahari telah terbenam dan gelap, sebuah periuk berasap dengan obor yang menyala-nyala muncul dan melewati potongan-potongan itu."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Pada hari itu, Tuhan membuat perjanjian dengan Abram, berkata, \"Kepada keturunanmu telah Kuberikan tanah ini, dari sungai Mesir sampai sungai besar, sungai Efrat—"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "wilayah orang Keni, orang Kenas, orang Kadmon,"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "orang Het, orang Feris, dan orang Refaim,"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "orang Amori, orang Kanaan, orang Girgasi, dan orang Yebus.\""
+            ]
+        }
+    ]
 }

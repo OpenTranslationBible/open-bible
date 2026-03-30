@@ -1,0 +1,496 @@
+{
+    "book": "Nehemias",
+    "chapter": 7,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Da muren var færdig, og dørene var sat i, udnævnte jeg portvagterne, sangerne og levitterne."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Jeg udnævnte min bror Hanani og Hananja, kommandanten for fæstningen, til at have ansvaret for Jerusalem, for han var en troværdig mand, der frygtede Gud mere end mange andre."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Jeg instruerede dem: \"Åbn ikke Jerusalems porte, før solen står højt. Mens portvagterne stadig er på vagt, lad dem lukke og bolte dørene. Udnævn også vagter fra Jerusalems indbyggere, hver ved sin post og foran sit eget hus.\""
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Byen var stor og rummelig, men befolkningen var lille, og husene var ikke blevet genopbygget."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Så lagde min Gud det i mit hjerte at samle adelsmændene, embedsmændene og det almindelige folk til registrering efter familier. Jeg fandt den slægtsbog over dem, der først var vendt tilbage, og dette er, hvad jeg opdagede:"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Dette er folkene fra provinsen, der vendte tilbage fra eksil, som Nebukadnezar, Babylons konge, havde ført i eksil. De vendte tilbage til Jerusalem og Juda, hver til sin egen by,"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "sammen med Zerubbabel, Jeshua, Nehemias, Azarja, Raamja, Nahamani, Mordokaj, Bilshan, Misperet, Bigvai, Nehum og Baanah. Listen over Israels mænd:"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Parosh's slægt, talte 2.172;"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Sefatjas slægt, talte 372;"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Arahs slægt, talte 652;"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Pahat-Moabs slægt, gennem Jeshuas og Joabs slægt, talte 2.818;"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Elams slægt, talte 1.254;"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Zattus slægt, talte 845;"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Zakkais slægt, talte 760;"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Binnuis slægt, talte 648;"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Bebais slægt, talte 628;"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Azgads slægt, talte 2.322;"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Adonikams slægt, talte 667;"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Bigvais slægt, talte 2.067;"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> Adins slægt, talte 655;"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> Aters slægt, gennem Ezekias, talte 98;"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> Hashums slægt, talte 328;"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> Bezais slægt, talte 324;"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Harifs slægt, talte 112;"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> Gibeons slægt, talte 95;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> Betlehems og Netofas folk, talte 188;"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> Anatots folk, talte 128;"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> Bet Azmavets folk, talte 42;"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "> Kirjat-Jearims, Kefiras og Beerots folk, talte 743;"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> Ramas og Gebas folk, talte 621;"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "> Mikmas' folk, talte 122;"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "> Betels og Ais folk, talte 123;"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "> det andet Nebos folk, talte 52;"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "> den anden Elams slægt, talte 1.254;"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "> Harims slægt, talte 320;"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "> Jerikos folk, talte 345;"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "> Lods, Hadids og Onos folk, talte 721;"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "> Senaas slægt, talte 3.930."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Præsterne:",
+                "> Jedajas slægt, af Jeshuas hus, talte 973;"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "> Immers slægt, talte 1.052;"
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "> Pashhurs slægt, talte 1.247;"
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "> Harims slægt, talte 1.017."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Levitterne:",
+                "> Jeshuas slægt, gennem Kadmiel, gennem Hodevas slægt, talte 74."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Sangerne:",
+                "> Asafs slægt, talte 148."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Portvagterne:",
+                "> Shallums, Aters, Talmons, Akkubs,",
+                "> Hatitas og Shobais slægt, talte 138."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Tempeltjenerne:",
+                "Zihas, Hasufas, Tabbaots slægt,"
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "> Keros', Sias og Padons slægt,"
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "> Lebanas, Hagabas og Shalmais slægt,"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "> Hanans, Giddels og Gahars slægt,"
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "> Reajas, Rezins og Nekodas slægt,"
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "> Gazzams, Uzzas og Paseas slægt,"
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "> Besais, Meunims og tempeltjeneren Nefusheims slægt,"
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "> Bakbuks, Hakufas og Harhurs slægt,"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "> Bazluts, Mehidas og Harshas slægt,"
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "> Barkos', Siseras og Temas slægt,"
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "> Nezias og Hatifas slægt."
+            ]
+        },
+        {
+            "verse": 57,
+            "text": [
+                "Efterkommerne af Salomons tjenere:",
+                "efterkommerne af Sotai, Soferet og Perida,"
+            ]
+        },
+        {
+            "verse": 58,
+            "text": [
+                "efterkommerne af Jaala, Darkon og Giddel,"
+            ]
+        },
+        {
+            "verse": 59,
+            "text": [
+                "efterkommerne af Sefatja, Hattil, Pocheret-Hazzebaim og tempeltjeneren Amon."
+            ]
+        },
+        {
+            "verse": 60,
+            "text": [
+                "Tempeltjenerne og efterkommerne af Salomons tjenere talte i alt 392."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 61,
+            "text": [
+                "Disse var dem, der kom op fra Tel Melah, Tel Harsha, Kerub, Addon og Immer, men de kunne ikke bevise deres familier eller deres herkomst, om de var af Israel:"
+            ]
+        },
+        {
+            "verse": 62,
+            "text": [
+                "familierne af Delaja, Tobija og Nekoda, 642."
+            ]
+        },
+        {
+            "verse": 63,
+            "text": [
+                "Og blandt præsterne: efterkommerne af Hobaja, Hakkoz og Barzillai, som havde giftet sig med en datter af Barzillai fra Gilead og tog det navn."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 64,
+            "text": [
+                "Disse søgte efter deres slægtsbøger, men de kunne ikke finde dem og blev derfor udelukket fra præsteskabet som urene."
+            ]
+        },
+        {
+            "verse": 65,
+            "text": [
+                "Statholderen beordrede dem ikke at spise noget af det helligste mad, før en præst opstod med Urim og Tummim."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 66,
+            "text": [
+                "Hele forsamlingen talte 42.360,"
+            ]
+        },
+        {
+            "verse": 67,
+            "text": [
+                "ud over deres 7.337 mandlige og kvindelige tjenere; og de havde også 245 sangere, både mandlige og kvindelige."
+            ]
+        },
+        {
+            "verse": 68,
+            "text": [
+                "De ejede 736 heste, 245 muldyr,"
+            ]
+        },
+        {
+            "verse": 69,
+            "text": [
+                "og havde 435 kameler og 6.720 æsler."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 70,
+            "text": [
+                "Nogle af familieoverhovederne bidrog til arbejdet. Statholderen gav til skatkammeret 1.000 guld drachmer, 50 skåle og 530 klæder til præster."
+            ]
+        },
+        {
+            "verse": 71,
+            "text": [
+                "Nogle af familieoverhovederne gav til skatkammeret for arbejdet 20.000 guld drachmer og 2.200 sølv miner."
+            ]
+        },
+        {
+            "verse": 72,
+            "text": [
+                "Resten af folket gav 20.000 guld drachmer, 2.000 sølv miner og 67 klæder til præster."
+            ]
+        },
+        {
+            "verse": 73,
+            "text": [
+                "Præsterne, levitterne, portvagterne, sangerne, nogle af folket, tempeltjenerne og hele Israel bosatte sig i deres byer. Da den syvende måned kom, var israelitterne i deres byer."
+            ]
+        }
+    ]
+}

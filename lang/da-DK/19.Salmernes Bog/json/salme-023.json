@@ -1,0 +1,61 @@
+{
+    "book": "Salmernes Bog",
+    "chapter": 23,
+    "verses": [
+        {
+            "text": [
+                "En salme af David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Herren er min hyrde,",
+                "> jeg skal ikke mangle."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Han lader mig ligge i grønne enge;",
+                "> han leder mig til det stille vand."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Han fornyer min sjæl;",
+                "> han leder mig ad retfærdighedens stier",
+                "> for sit navns skyld."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Selv om jeg går gennem dødsskyggens dal,",
+                "> frygter jeg intet ondt, for du er med mig;",
+                "> din kæp og din stav, de trøster mig."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Du dækker bord for mig i mine fjenders påsyn;",
+                "> du har salvet mit hoved med olie;",
+                "> mit bæger flyder over."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Godhed og barmhjertighed skal visselig følge mig alle mit livs dage,",
+                "> og jeg skal bo i Herrens hus for evigt."
+            ]
+        }
+    ]
+}

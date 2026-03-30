@@ -1,75 +1,77 @@
 {
-  "book": "Nehemia",
-  "chapter": 1,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "Inilah perkataan Nehemia bin Hakhalya. Pada bulan Kislew, tahun kedua puluh, ketika aku berada di puri Susan,"
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "datanglah Hanani, salah seorang saudaraku, bersama beberapa orang dari Yehuda. Aku menanyakan mereka tentang orang-orang Yahudi yang terluput, yang terhindar dari penawanan, dan tentang Yerusalem."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "Kata mereka kepadaku, “Orang-orang yang terluput, yang terhindar dari penawanan, ada dalam kesukaran besar dan dalam keadaan tercela. Tembok Yerusalem telah terbongkar dan pintu-pintunya telah terbakar api.”"
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "Ketika aku mendengar perkataan ini, duduklah aku menangis dan berkabung selama beberapa hari. Aku berpuasa dan berdoa di hadapan Tuhan semesta langit."
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "Kataku, “Ya Tuhan, Tuhan semesta langit, Tuhan yang besar dan dahsyat, yang memegang perjanjian dan kasih setia terhadap mereka yang mengasihi-Nya dan memegang perintah-Nya,"
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "biarlah telinga-Mu mendengarkan dan mata-Mu terbuka terhadap doa yang hamba-Mu panjatkan di hadapan-Mu siang dan malam bagi hamba-hamba-Mu, orang Israel. Aku mengaku dosa yang kami orang Israel, termasuk aku dan kaum keluargaku, telah lakukan terhadap-Mu."
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "Kami telah bertindak sangat rusak terhadap-Mu. Kami tidak mematuhi perintah, ketetapan, dan hukum yang Engkau berikan kepada hamba-Mu Musa."
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "Ingatlah firman yang Engkau sampaikan kepada hamba-Mu Musa, dengan mengatakan, ‘Jika kamu tidak setia, Aku akan menyerakkan kamu di antara bangsa-bangsa,"
-      ]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "tetapi jika kamu kembali kepada-Ku dan mematuhi perintah-Ku, maka sekalipun orang-orang buanganmu berada di ujung langit, Aku akan mengumpulkan mereka dari sana dan membawa mereka ke tempat yang telah Kupilih untuk membuat nama-Ku diam di sana.’"
-      ]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "Mereka adalah hamba-hamba-Mu dan umat-Mu, yang telah Engkau tebus dengan kekuatan-Mu yang besar dan tangan-Mu yang perkasa."
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "Ya Tuhan, biarlah telinga-Mu mendengarkan doa hamba-Mu ini dan doa hamba-hamba-Mu yang suka takut akan nama-Mu. Berikanlah keberhasilan kepada hamba-Mu hari ini dengan memberikan belas kasihan di hadapan orang ini.” Aku adalah juru minuman raja."
-      ]
-    }
-  ]
+    "book": "Nehemia",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Inilah perkataan Nehemia bin Hakhalya. Pada bulan Kislew, tahun kedua puluh, ketika aku berada di puri Susan,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "datanglah Hanani, salah seorang saudaraku, bersama beberapa orang dari Yehuda. Aku menanyakan mereka tentang orang-orang Yahudi yang terluput, yang terhindar dari penawanan, dan tentang Yerusalem."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Kata mereka kepadaku, “Orang-orang yang terluput, yang terhindar dari penawanan, ada dalam kesukaran besar dan dalam keadaan tercela. Tembok Yerusalem telah terbongkar dan pintu-pintunya telah terbakar api.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Ketika aku mendengar perkataan ini, duduklah aku menangis dan berkabung selama beberapa hari. Aku berpuasa dan berdoa di hadapan Tuhan semesta langit."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Kataku, “Ya Tuhan, Tuhan semesta langit, Tuhan yang besar dan dahsyat, yang memegang perjanjian dan kasih setia terhadap mereka yang mengasihi-Nya dan memegang perintah-Nya,"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "biarlah telinga-Mu mendengarkan dan mata-Mu terbuka terhadap doa yang hamba-Mu panjatkan di hadapan-Mu siang dan malam bagi hamba-hamba-Mu, orang Israel. Aku mengaku dosa yang kami orang Israel, termasuk aku dan kaum keluargaku, telah lakukan terhadap-Mu."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Kami telah bertindak sangat rusak terhadap-Mu. Kami tidak mematuhi perintah, ketetapan, dan hukum yang Engkau berikan kepada hamba-Mu Musa."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Ingatlah firman yang Engkau sampaikan kepada hamba-Mu Musa, dengan mengatakan, ‘Jika kamu tidak setia, Aku akan menyerakkan kamu di antara bangsa-bangsa,"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "tetapi jika kamu kembali kepada-Ku dan mematuhi perintah-Ku, maka sekalipun orang-orang buanganmu berada di ujung langit, Aku akan mengumpulkan mereka dari sana dan membawa mereka ke tempat yang telah Kupilih untuk membuat nama-Ku diam di sana.’"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Mereka adalah hamba-hamba-Mu dan umat-Mu, yang telah Engkau tebus dengan kekuatan-Mu yang besar dan tangan-Mu yang perkasa."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Ya Tuhan, biarlah telinga-Mu mendengarkan doa hamba-Mu ini dan doa hamba-hamba-Mu yang suka takut akan nama-Mu. Berikanlah keberhasilan kepada hamba-Mu hari ini dengan memberikan belas kasihan di hadapan orang ini.” Aku adalah juru minuman raja."
+            ]
+        }
+    ]
 }

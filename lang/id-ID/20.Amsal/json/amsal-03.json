@@ -1,213 +1,243 @@
 {
-  "book": "Amsal",
-  "chapter": 3,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "Anakku, janganlah lupa ajaranku, tetapi biarlah hatimu mematuhi perintah-perintahku;"
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "karena panjang umur dan tahun-tahun kehidupan akan ditambahkan kepadamu, dan membawa damai sejahtera."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "Biarlah kebaikan dan kebenaran tidak pernah meninggalkanmu; kalungkanlah itu pada lehermu, tuliskanlah itu pada loh hatimu."
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "Dengan demikian engkau akan mendapat kasih karunia dan nama baik di hadapan Tuhan dan manusia."
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "Percayalah sepenuhnya kepada Tuhan, dengan segenap hatimu dan janganlah bersandar pada pengertianmu sendiri."
-      ]
-    },
-    {
-      "verse": 6,
-      "text": ["Dalam segala jalanmu akuilah Dia, dan Dia akan meluruskan jalanmu."]
-    },
-    {
-      "verse": 7,
-      "text": ["Janganlah menganggap dirimu bijak; takutlah akan Tuhan dan jauhilah kejahatan."]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "Hal ini akan mendatangkan kesehatan bagi tubuhmu dan kesegaran bagi tulang-tulangmu."
-      ]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "Muliakanlah Tuhan dengan hartamu, dan dengan hasil pertama dari segala penghasilanmu;"
-      ]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "maka lumbung-lumbungmu akan dipenuhi dengan kelimpahan, dan tempat pemerasanmu akan meluap dengan anggur baru."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 11,
-      "text": ["Anakku, janganlah menolak didikan Tuhan, atau membenci teguran-Nya,"]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "karena Tuhan mendisiplin orang yang dikasihi-Nya,",
-        "> seperti seorang ayah mendisiplin anak yang disukainya."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 13,
-      "text": ["Berbahagialah orang yang menemukan hikmat, dan orang yang memperoleh pengertian,"]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "karena keuntungannya lebih baik daripada perak, dan hasilnya lebih baik daripada emas."
-      ]
-    },
-    {
-      "verse": 15,
-      "text": [
-        "Ia lebih berharga daripada permata, dan tidak ada yang kauinginkan dapat menyamainya."
-      ]
-    },
-    {
-      "verse": 16,
-      "text": [
-        "Umur panjang menyertainya di satu tangan; di tangan lainnya ada kekayaan dan kehormatan."
-      ]
-    },
-    {
-      "verse": 17,
-      "text": ["Jalannya menyenangkan, dan semua jalannya adalah damai sejahtera."]
-    },
-    {
-      "verse": 18,
-      "text": [
-        "Ia adalah pohon kehidupan bagi mereka yang memegangnya; berbahagialah mereka yang memegangnya erat-erat."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 19,
-      "text": ["Dengan hikmat Tuhan mendirikan bumi; dengan pengertian Dia menegakkan langit."]
-    },
-    {
-      "verse": 20,
-      "text": ["Dengan pengetahuan-Nya samudra dibagi, dan awan meneteskan embun."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 21,
-      "text": [
-        "Anakku, janganlah biarkan hikmat dan kebijaksanaan hilang dari pandanganmu; peliharalah pertimbangan yang baik,"
-      ]
-    },
-    {
-      "verse": 22,
-      "text": ["dan itu akan menjadi kehidupan bagi jiwamu dan perhiasan bagi lehermu."]
-    },
-    {
-      "verse": 23,
-      "text": [
-        "Maka engkau akan berjalan dengan aman di jalanmu, dan kakimu tidak akan tersandung."
-      ]
-    },
-    {
-      "verse": 24,
-      "text": ["Ketika engkau berbaring, engkau tidak akan takut; tidurmu akan nyenyak."]
-    },
-    {
-      "verse": 25,
-      "text": [
-        "Janganlah takut akan bencana yang tiba-tiba, atau kehancuran orang fasik ketika itu datang;"
-      ]
-    },
-    {
-      "verse": 26,
-      "text": ["karena Tuhan akan menjadi kepercayaanmu dan akan mencegah kakimu terjerat."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 27,
-      "text": [
-        "Janganlah menahan kebaikan dari mereka yang berhak menerimanya, ketika itu ada dalam kekuasaanmu untuk membantu."
-      ]
-    },
-    {
-      "verse": 28,
-      "text": [
-        "Janganlah berkata kepada tetanggamu, \"Pergilah, dan kembalilah,",
-        "> dan besok aku akan memberikannya kepadamu,\" padahal engkau memilikinya bersamamu."
-      ]
-    },
-    {
-      "verse": 29,
-      "text": [
-        "Janganlah merencanakan kejahatan terhadap tetanggamu, yang tinggal dengan percaya di sampingmu."
-      ]
-    },
-    {
-      "verse": 30,
-      "text": [
-        "Janganlah bertengkar dengan siapa pun tanpa alasan, jika mereka tidak berbuat jahat kepadamu."
-      ]
-    },
-    {
-      "verse": 31,
-      "text": [
-        "Janganlah iri kepada orang yang kejam, dan janganlah memilih salah satu dari jalan mereka."
-      ]
-    },
-    {
-      "verse": 32,
-      "text": [
-        "Karena orang yang licik adalah kekejian bagi Tuhan, tetapi Dia akrab dengan orang yang jujur."
-      ]
-    },
-    {
-      "verse": 33,
-      "text": [
-        "Kutukan Tuhan ada di atas rumah orang fasik, tetapi Dia memberkati rumah orang benar."
-      ]
-    },
-    {
-      "verse": 34,
-      "text": [
-        "Dia mengejek para pencemooh, tetapi memberikan kasih karunia kepada orang yang rendah hati."
-      ]
-    },
-    {
-      "verse": 35,
-      "text": [
-        "Orang bijak akan mewarisi kehormatan, tetapi orang bodoh hanya akan mendapatkan aib."
-      ]
-    }
-  ]
+    "book": "Amsal",
+    "chapter": 3,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Anakku, janganlah lupa ajaranku, tetapi biarlah hatimu mematuhi perintah-perintahku;"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "karena panjang umur dan tahun-tahun kehidupan akan ditambahkan kepadamu, dan membawa damai sejahtera."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Biarlah kebaikan dan kebenaran tidak pernah meninggalkanmu; kalungkanlah itu pada lehermu, tuliskanlah itu pada loh hatimu."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Dengan demikian engkau akan mendapat kasih karunia dan nama baik di hadapan Tuhan dan manusia."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Percayalah sepenuhnya kepada Tuhan, dengan segenap hatimu dan janganlah bersandar pada pengertianmu sendiri."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Dalam segala jalanmu akuilah Dia, dan Dia akan meluruskan jalanmu."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Janganlah menganggap dirimu bijak; takutlah akan Tuhan dan jauhilah kejahatan."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Hal ini akan mendatangkan kesehatan bagi tubuhmu dan kesegaran bagi tulang-tulangmu."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Muliakanlah Tuhan dengan hartamu, dan dengan hasil pertama dari segala penghasilanmu;"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "maka lumbung-lumbungmu akan dipenuhi dengan kelimpahan, dan tempat pemerasanmu akan meluap dengan anggur baru."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Anakku, janganlah menolak didikan Tuhan, atau membenci teguran-Nya,"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "karena Tuhan mendisiplin orang yang dikasihi-Nya,",
+                "> seperti seorang ayah mendisiplin anak yang disukainya."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Berbahagialah orang yang menemukan hikmat, dan orang yang memperoleh pengertian,"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "karena keuntungannya lebih baik daripada perak, dan hasilnya lebih baik daripada emas."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Ia lebih berharga daripada permata, dan tidak ada yang kauinginkan dapat menyamainya."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Umur panjang menyertainya di satu tangan; di tangan lainnya ada kekayaan dan kehormatan."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Jalannya menyenangkan, dan semua jalannya adalah damai sejahtera."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Ia adalah pohon kehidupan bagi mereka yang memegangnya; berbahagialah mereka yang memegangnya erat-erat."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Dengan hikmat Tuhan mendirikan bumi; dengan pengertian Dia menegakkan langit."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Dengan pengetahuan-Nya samudra dibagi, dan awan meneteskan embun."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Anakku, janganlah biarkan hikmat dan kebijaksanaan hilang dari pandanganmu; peliharalah pertimbangan yang baik,"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "dan itu akan menjadi kehidupan bagi jiwamu dan perhiasan bagi lehermu."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Maka engkau akan berjalan dengan aman di jalanmu, dan kakimu tidak akan tersandung."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Ketika engkau berbaring, engkau tidak akan takut; tidurmu akan nyenyak."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Janganlah takut akan bencana yang tiba-tiba, atau kehancuran orang fasik ketika itu datang;"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "karena Tuhan akan menjadi kepercayaanmu dan akan mencegah kakimu terjerat."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Janganlah menahan kebaikan dari mereka yang berhak menerimanya, ketika itu ada dalam kekuasaanmu untuk membantu."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Janganlah berkata kepada tetanggamu, \"Pergilah, dan kembalilah,",
+                "> dan besok aku akan memberikannya kepadamu,\" padahal engkau memilikinya bersamamu."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Janganlah merencanakan kejahatan terhadap tetanggamu, yang tinggal dengan percaya di sampingmu."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Janganlah bertengkar dengan siapa pun tanpa alasan, jika mereka tidak berbuat jahat kepadamu."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Janganlah iri kepada orang yang kejam, dan janganlah memilih salah satu dari jalan mereka."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Karena orang yang licik adalah kekejian bagi Tuhan, tetapi Dia akrab dengan orang yang jujur."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Kutukan Tuhan ada di atas rumah orang fasik, tetapi Dia memberkati rumah orang benar."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Dia mengejek para pencemooh, tetapi memberikan kasih karunia kepada orang yang rendah hati."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Orang bijak akan mewarisi kehormatan, tetapi orang bodoh hanya akan mendapatkan aib."
+            ]
+        }
+    ]
 }

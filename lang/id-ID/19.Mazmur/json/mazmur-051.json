@@ -1,153 +1,172 @@
 {
-  "book": "Mazmur",
-  "chapter": 51,
-  "verses": [
-    {
-      "text": [
-        "Untuk pemimpin musik. Mazmur Daud, ketika nabi Natan datang kepadanya, setelah ia pergi kepada Batsyeba."
-      ]
-    },
-    {
-      "verse": 1,
-      "text": [
-        "> Kasihanilah aku, ya Tuhan, menurut kasih setia-Mu;",
-        "> Menurut besarnya belas kasihan-Mu, hapuskanlah pelanggaranku."
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "> Bersihkanlah aku seluruhnya dari kesalahanku",
-        "> Dan sucikanlah aku dari dosaku."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 3,
-      "text": ["> Sebab aku sadar akan pelanggaranku,", "> Dan dosaku selalu ada di hadapanku."]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "> Terhadap Engkau, terhadap Engkau sajalah aku telah berdosa",
-        "> Dan melakukan apa yang jahat di mata-Mu,",
-        "> Sehingga Engkau benar dalam firman-Mu",
-        "> Dan bersih dalam penghakiman-Mu."
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "> Sesungguhnya, aku dilahirkan dalam keadaan bersalah,",
-        "> Dan dalam dosa ibuku mengandung aku."
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "> Sesungguhnya, Engkau berkenan akan kebenaran dalam batin,",
-        "> Dan dalam bagian yang tersembunyi Engkau akan memberitahukan hikmat kepadaku."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "> Bersihkanlah aku dengan hisop, maka aku akan bersih;",
-        "> Sucikanlah aku, maka aku akan lebih putih dari salju."
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "> Biarkan aku mendengar sukacita dan kegembiraan,",
-        "> Biarlah tulang-tulang yang telah Kau remukkan bersorak-sorai."
-      ]
-    },
-    {
-      "verse": 9,
-      "text": ["> Sembunyikanlah wajah-Mu dari dosaku", "> Dan hapuskanlah segala kesalahanku."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "> Ciptakanlah dalam diriku hati yang murni, ya Tuhan,",
-        "> Dan perbaharuilah semangat yang teguh dalam batinku."
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "> Janganlah membuang aku dari hadapan-Mu,",
-        "> Dan janganlah mengambil Roh Kudus-Mu dariku."
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "> Kembalikanlah kepadaku kegembiraan keselamatan-Mu,",
-        "> Dan topanglah aku dengan semangat yang rela."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "> Maka aku akan mengajar pelanggar-pelanggar jalan-Mu,",
-        "> Dan orang-orang berdosa akan kembali kepada-Mu."
-      ]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "> Bebaskanlah aku dari kesalahan penumpahan darah, ya Tuhan, Tuhan keselamatanku;",
-        "> Maka lidahku akan bersorak-sorai memuji kebenaran-Mu."
-      ]
-    },
-    {
-      "verse": 15,
-      "text": ["> Tuhan, bukalah bibirku,", "> Supaya mulutku memberitakan pujian-Mu."]
-    },
-    {
-      "verse": 16,
-      "text": [
-        "> Sebab Engkau tidak berkenan kepada korban sembelihan, kalau tidak, tentu aku memberikannya;",
-        "> Engkau tidak suka kepada korban bakaran."
-      ]
-    },
-    {
-      "verse": 17,
-      "text": [
-        "> Korban sembelihan kepada Tuhan ialah jiwa yang hancur;",
-        "> Hati yang patah dan remuk, ya Tuhan, tidak akan Kau pandang hina."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 18,
-      "text": [
-        "> Dengan kemurahan-Mu, berbuatlah baik kepada Sion;",
-        "> Bangunlah tembok-tembok Yerusalem."
-      ]
-    },
-    {
-      "verse": 19,
-      "text": [
-        "> Maka Engkau akan berkenan kepada korban-korban kebenaran,",
-        "> Kepada korban bakaran dan korban yang terbakar seluruhnya;",
-        "> Maka lembu jantan akan dipersembahkan di atas mezbah-Mu."
-      ]
-    }
-  ]
+    "book": "Mazmur",
+    "chapter": 51,
+    "verses": [
+        {
+            "text": [
+                "Untuk pemimpin musik. Mazmur Daud, ketika nabi Natan datang kepadanya, setelah ia pergi kepada Batsyeba."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Kasihanilah aku, ya Tuhan, menurut kasih setia-Mu;",
+                "> Menurut besarnya belas kasihan-Mu, hapuskanlah pelanggaranku."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Bersihkanlah aku seluruhnya dari kesalahanku",
+                "> Dan sucikanlah aku dari dosaku."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Sebab aku sadar akan pelanggaranku,",
+                "> Dan dosaku selalu ada di hadapanku."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Terhadap Engkau, terhadap Engkau sajalah aku telah berdosa",
+                "> Dan melakukan apa yang jahat di mata-Mu,",
+                "> Sehingga Engkau benar dalam firman-Mu",
+                "> Dan bersih dalam penghakiman-Mu."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Sesungguhnya, aku dilahirkan dalam keadaan bersalah,",
+                "> Dan dalam dosa ibuku mengandung aku."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Sesungguhnya, Engkau berkenan akan kebenaran dalam batin,",
+                "> Dan dalam bagian yang tersembunyi Engkau akan memberitahukan hikmat kepadaku."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Bersihkanlah aku dengan hisop, maka aku akan bersih;",
+                "> Sucikanlah aku, maka aku akan lebih putih dari salju."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Biarkan aku mendengar sukacita dan kegembiraan,",
+                "> Biarlah tulang-tulang yang telah Kau remukkan bersorak-sorai."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Sembunyikanlah wajah-Mu dari dosaku",
+                "> Dan hapuskanlah segala kesalahanku."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Ciptakanlah dalam diriku hati yang murni, ya Tuhan,",
+                "> Dan perbaharuilah semangat yang teguh dalam batinku."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Janganlah membuang aku dari hadapan-Mu,",
+                "> Dan janganlah mengambil Roh Kudus-Mu dariku."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Kembalikanlah kepadaku kegembiraan keselamatan-Mu,",
+                "> Dan topanglah aku dengan semangat yang rela."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Maka aku akan mengajar pelanggar-pelanggar jalan-Mu,",
+                "> Dan orang-orang berdosa akan kembali kepada-Mu."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Bebaskanlah aku dari kesalahan penumpahan darah, ya Tuhan, Tuhan keselamatanku;",
+                "> Maka lidahku akan bersorak-sorai memuji kebenaran-Mu."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Tuhan, bukalah bibirku,",
+                "> Supaya mulutku memberitakan pujian-Mu."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Sebab Engkau tidak berkenan kepada korban sembelihan, kalau tidak, tentu aku memberikannya;",
+                "> Engkau tidak suka kepada korban bakaran."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Korban sembelihan kepada Tuhan ialah jiwa yang hancur;",
+                "> Hati yang patah dan remuk, ya Tuhan, tidak akan Kau pandang hina."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Dengan kemurahan-Mu, berbuatlah baik kepada Sion;",
+                "> Bangunlah tembok-tembok Yerusalem."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Maka Engkau akan berkenan kepada korban-korban kebenaran,",
+                "> Kepada korban bakaran dan korban yang terbakar seluruhnya;",
+                "> Maka lembu jantan akan dipersembahkan di atas mezbah-Mu."
+            ]
+        }
+    ]
 }

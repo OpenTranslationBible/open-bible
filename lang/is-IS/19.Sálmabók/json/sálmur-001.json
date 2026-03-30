@@ -1,0 +1,61 @@
+{
+    "book": "Sálmabók",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> Sæll er sá maður sem ekki gengur í ráðum óguðlegra,",
+                "> Stendur ekki á vegi syndara,",
+                "> Situr ekki í sæti háðgjarnra!"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Heldur hefur yndi af lögmáli Drottins,",
+                "> Og íhugar lögmál hans dag og nótt."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Hann er eins og tré gróðursett við vatnslindir,",
+                "> Sem ber ávöxt sinn á réttum tíma,",
+                "> Og lauf þess fölna ekki;",
+                "> Og allt sem hann tekur sér fyrir hendur, blómstrar."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Óguðlegir eru ekki svo,",
+                "> Heldur eru þeir sem hismi sem vindurinn feykir burt."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Þess vegna munu óguðlegir ekki standast í dóminum,",
+                "> Né syndarar í samkomu réttlátra."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Því Drottinn þekkir veg réttlátra,",
+                "> En vegur óguðlegra leiðir til glötunar."
+            ]
+        }
+    ]
+}

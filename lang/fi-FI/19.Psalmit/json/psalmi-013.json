@@ -1,0 +1,64 @@
+{
+    "book": "Psalmit",
+    "chapter": 13,
+    "verses": [
+        {
+            "text": [
+                "Musiikinjohtajalle. Daavidin psalmi."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Kuinka kauan, Herra? Unohdatko minut ikuisesti?",
+                "> Kuinka kauan kätket kasvosi minulta?"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Kuinka kauan kannan tätä huolta sielussani,",
+                "> Surua sydämessäni päivästä päivään?",
+                "> Kuinka kauan viholliseni on ylivertainen minuun nähden?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Katso minuun ja vastaa, Herra, minun Jumalani;",
+                "> Kirkasta silmäni, etten vaipuisi kuoleman uneen,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Jotta viholliseni ei sanoisi: \"Olen voittanut hänet,\"",
+                "> Ja vastustajani eivät iloitsisi, kun olen horjuva."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Mutta minä olen luottanut sinun uskolliseen rakkauteesi;",
+                "> Sydämeni iloitsee sinun pelastuksestasi."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Minä laulan Herralle,",
+                "> Sillä hän on ollut minulle armollinen."
+            ]
+        }
+    ]
+}

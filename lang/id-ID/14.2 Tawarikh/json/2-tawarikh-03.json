@@ -1,179 +1,211 @@
 {
-  "book": "2 Tawarikh",
-  "chapter": 3,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "Salomo memulai pembangunan rumah Tuhan di Yerusalem di Gunung Moria,",
-        "> di mana Tuhan telah menampakkan diri kepada ayahnya Daud,",
-        "> di tempat yang telah disiapkan Daud di tempat pengirikan Ornan orang Yebus."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "Ia memulai pembangunan pada hari kedua bulan kedua dalam tahun keempat pemerintahannya."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "Inilah dasar-dasar yang diletakkan Salomo untuk membangun rumah Tuhan.",
-        "> Panjangnya dalam hasta, menurut ukuran lama, adalah enam puluh hasta,",
-        "> dan lebarnya dua puluh hasta."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "Serambi yang ada di depan rumah itu sama lebarnya dengan rumah itu, dua puluh hasta,",
-        "> dan tingginya seratus dua puluh;",
-        "> dan ia melapisi bagian dalamnya dengan emas murni."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "Ia melapisi ruangan utama dengan kayu sanobar dan melapisinya dengan emas murni,",
-        "> dan menghiasinya dengan pohon palem dan rantai."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "Ia juga menghiasi rumah itu dengan batu-batu berharga;",
-        "> dan emasnya adalah emas dari Parwaim."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "Ia melapisi rumah itu, balok-baloknya, ambang-ambangnya, dinding-dindingnya, dan pintu-pintunya dengan emas,",
-        "> dan ia mengukir kerub pada dinding-dindingnya."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "Kemudian ia membuat Ruang Mahakudus.",
-        "> Panjangnya, sesuai dengan lebar rumah itu, adalah dua puluh hasta,",
-        "> dan lebarnya dua puluh hasta;",
-        "> dan ia melapisinya dengan emas murni, sejumlah enam ratus talenta."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "Paku-pakunya berbobot lima puluh syikal emas.",
-        "> Ia juga melapisi kamar-kamar atas dengan emas."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "Kemudian ia membuat dua kerub yang dipahat di Ruang Mahakudus",
-        "> dan melapisinya dengan emas."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "Bentangan sayap kerub-kerub itu dua puluh hasta:",
-        "> sayap dari satu kerub, lima hasta, menyentuh dinding rumah,",
-        "> dan sayap lainnya, lima hasta, menyentuh sayap kerub yang lain."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "> Sayap kerub yang lain, lima hasta, menyentuh dinding rumah yang lain,",
-        "> dan sayap lainnya, lima hasta, menempel pada sayap kerub yang pertama."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "Sayap-sayap kerub itu membentang dua puluh hasta,",
-        "> dan mereka berdiri tegak menghadap ruangan utama."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "Ia membuat tabir dari kain ungu, ungu tua, kirmizi, dan lenan halus,",
-        "> dan ia mengerjakan kerub-kerub di dalamnya."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 15,
-      "text": [
-        "Ia juga membuat dua tiang untuk depan rumah, tingginya tiga puluh lima hasta,",
-        "> dan kepala tiang di atas masing-masing lima hasta."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 16,
-      "text": [
-        "Ia membuat rantai-rantai di tempat kudus bagian dalam dan menaruhnya di atas tiang-tiang itu,",
-        "> dan ia membuat seratus buah delima dan menaruhnya pada rantai-rantai itu."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 17,
-      "text": [
-        "Ia mendirikan tiang-tiang itu di depan bait,",
-        "> satu di sebelah kanan dan satu di sebelah kiri;",
-        "> dan ia menamai yang di sebelah kanan Yakhin, dan yang di sebelah kiri Boas."
-      ]
-    }
-  ]
+    "book": "2 Tawarikh",
+    "chapter": 3,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Salomo memulai pembangunan rumah Tuhan di Yerusalem di Gunung Moria,",
+                "> di mana Tuhan telah menampakkan diri kepada ayahnya Daud,",
+                "> di tempat yang telah disiapkan Daud di tempat pengirikan Ornan orang Yebus."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Ia memulai pembangunan pada hari kedua bulan kedua dalam tahun keempat pemerintahannya."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Inilah dasar-dasar yang diletakkan Salomo untuk membangun rumah Tuhan.",
+                "> Panjangnya dalam hasta, menurut ukuran lama, adalah enam puluh hasta,",
+                "> dan lebarnya dua puluh hasta."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Serambi yang ada di depan rumah itu sama lebarnya dengan rumah itu, dua puluh hasta,",
+                "> dan tingginya seratus dua puluh;",
+                "> dan ia melapisi bagian dalamnya dengan emas murni."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Ia melapisi ruangan utama dengan kayu sanobar dan melapisinya dengan emas murni,",
+                "> dan menghiasinya dengan pohon palem dan rantai."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Ia juga menghiasi rumah itu dengan batu-batu berharga;",
+                "> dan emasnya adalah emas dari Parwaim."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Ia melapisi rumah itu, balok-baloknya, ambang-ambangnya, dinding-dindingnya, dan pintu-pintunya dengan emas,",
+                "> dan ia mengukir kerub pada dinding-dindingnya."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Kemudian ia membuat Ruang Mahakudus.",
+                "> Panjangnya, sesuai dengan lebar rumah itu, adalah dua puluh hasta,",
+                "> dan lebarnya dua puluh hasta;",
+                "> dan ia melapisinya dengan emas murni, sejumlah enam ratus talenta."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Paku-pakunya berbobot lima puluh syikal emas.",
+                "> Ia juga melapisi kamar-kamar atas dengan emas."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Kemudian ia membuat dua kerub yang dipahat di Ruang Mahakudus",
+                "> dan melapisinya dengan emas."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Bentangan sayap kerub-kerub itu dua puluh hasta:",
+                "> sayap dari satu kerub, lima hasta, menyentuh dinding rumah,",
+                "> dan sayap lainnya, lima hasta, menyentuh sayap kerub yang lain."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Sayap kerub yang lain, lima hasta, menyentuh dinding rumah yang lain,",
+                "> dan sayap lainnya, lima hasta, menempel pada sayap kerub yang pertama."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Sayap-sayap kerub itu membentang dua puluh hasta,",
+                "> dan mereka berdiri tegak menghadap ruangan utama."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Ia membuat tabir dari kain ungu, ungu tua, kirmizi, dan lenan halus,",
+                "> dan ia mengerjakan kerub-kerub di dalamnya."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Ia juga membuat dua tiang untuk depan rumah, tingginya tiga puluh lima hasta,",
+                "> dan kepala tiang di atas masing-masing lima hasta."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Ia membuat rantai-rantai di tempat kudus bagian dalam dan menaruhnya di atas tiang-tiang itu,",
+                "> dan ia membuat seratus buah delima dan menaruhnya pada rantai-rantai itu."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Ia mendirikan tiang-tiang itu di depan bait,",
+                "> satu di sebelah kanan dan satu di sebelah kiri;",
+                "> dan ia menamai yang di sebelah kanan Yakhin, dan yang di sebelah kiri Boas."
+            ]
+        }
+    ]
 }

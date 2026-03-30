@@ -1,0 +1,311 @@
+{
+    "book": "Matteus",
+    "chapter": 10,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Jesus kallade samman sina tolv lärjungar och gav dem makt över orena andar, att driva ut dem, och att bota varje sjukdom och krämpa."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Dessa är de tolv apostlarna: först Simon, som kallas Petrus, och hans bror Andreas; Jakob, Sebedeus son, och hans bror Johannes;"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Filippos och Bartolomaios; Tomas och Matteus, som var tullindrivare; Jakob, Alfeus son, och Thaddaios;"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Simon ivraren, och Judas Iskariot, som senare förrådde honom."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Dessa tolv sände Jesus ut med följande instruktioner: “Gå inte på en väg till hedningarna, och gå inte in i en stad av samariterna;"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "utan gå istället till de förlorade fåren av Israel."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "När ni går, förkunna detta budskap: ‘Himmelriket är nära.’"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Bota de sjuka, uppväck de döda, rena dem med spetälska, driva ut demoner. Fritt har ni fått, fritt ge."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Skaffa inte guld, silver eller koppar för era bälten—"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "inte heller en väska för resan, inte en extra tunika, inte sandaler eller stav; ty arbetaren är värd sin mat."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Vilken stad eller by ni än kommer in i, sök efter någon värdig och stanna i hans hus tills ni lämnar."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "När ni går in i huset, ge er hälsning."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Om huset är värdigt, låt er frid vila över det; om det inte är det, låt er frid återvända till er."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Om någon inte välkomnar er eller lyssnar på era ord, lämna det huset eller den staden och skaka dammet av era fötter."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Sannerligen säger jag er, det ska bli mer uthärdligt för Sodom och Gomorra på domens dag än för den staden."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "“Se, jag sänder er ut som får bland vargar; var därför kloka som ormar och oskyldiga som duvor."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Var på er vakt mot människor; de ska överlämna er till lokala råd och piska er i sina synagogor."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Ni ska föras inför ståthållare och kungar för min skull, som ett vittnesbörd för dem och för hedningarna."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Men när de arresterar er, oroa er inte för hur eller vad ni ska säga; för vad ni ska säga kommer att ges er i den stunden."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Ty det är inte ni som talar, utan er Faders Ande kommer att tala genom er."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "“Bror ska överlämna bror till döden, och en far sitt barn; barn ska resa sig mot sina föräldrar och få dem dödade."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Ni ska bli hatade av alla för mitt namns skull, men den som står fast till slutet ska bli räddad."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "När ni möter förföljelse på ett ställe, flytta till ett annat. Sannerligen säger jag er, ni kommer inte hinna gå igenom Israels städer innan Människosonen kommer."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "“En lärjunge står inte över läraren, inte heller en tjänare över sin herre."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Det är nog för lärjungen att vara som sin lärare, och tjänaren som sin herre. Om de har kallat husets herre Beelzebul, hur mycket mer ska de inte förtala hans hushållsmedlemmar!"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "“Så var inte rädda för dem, ty det finns inget dolt som inte ska bli uppenbarat, eller gömt som inte ska bli känt."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Vad jag säger er i mörkret, tala i ljuset; vad som viskas i ert öra, förkunna från taken."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Var inte rädda för dem som dödar kroppen men inte kan döda själen. Frukta snarare Honom som kan fördärva både själ och kropp i helvetet."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Säljs inte två sparvar för en liten slant? Ändå faller inte en av dem till marken utan er Faders vetskap."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Och till och med alla hårstrån på ert huvud är räknade."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Så var inte rädda; ni är mer värda än många sparvar."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "“Den som erkänner mig inför andra, honom ska jag erkänna inför min Fader i himlen."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Men den som förnekar mig inför andra, honom ska jag förneka inför min Fader i himlen."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "“Tänk inte att jag har kommit för att bringa fred på jorden; jag har inte kommit för att bringa fred, utan ett svärd."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Ty jag har kommit för att",
+                "> sätta en son mot sin far,",
+                "> en dotter mot sin mor,",
+                "> och en svärdotter mot sin svärmor;"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "> och en persons fiender ska vara hans egna hushållsmedlemmar."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "“Om någon älskar sin far eller mor mer än mig, är de inte värdiga mig; om någon älskar sin son eller dotter mer än mig, är de inte värdiga mig."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Den som inte tar upp sitt kors och följer mig är inte värdig mig."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Den som söker bevara sitt liv ska förlora det, och den som förlorar sitt liv för min skull ska finna det."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "“Den som tar emot er tar emot mig, och den som tar emot mig tar emot den som har sänt mig."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Den som tar emot en profet för att de är en profet ska få en profets lön, och den som tar emot en rättfärdig person för att de är rättfärdiga ska få en rättfärdig persons lön."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Och om någon erbjuder ens en bägare kallt vatten till en av dessa små som är min lärjunge, sannerligen säger jag er, den personen ska verkligen inte missa sin lön.”"
+            ]
+        }
+    ]
+}

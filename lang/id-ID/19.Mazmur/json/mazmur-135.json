@@ -1,163 +1,187 @@
 {
-  "book": "Mazmur",
-  "chapter": 135,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "> Pujilah Tuhan!",
-        "> Hormatilah nama Tuhan;",
-        "> Pujilah Dia, hai hamba-hamba Tuhan,"
-      ]
-    },
-    {
-      "verse": 2,
-      "text": ["> Kamu yang berdiri di tempat kediaman Tuhan,", "> Di pelataran rumah Tuhan kita!"]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "> Pujilah Tuhan, sebab Tuhan itu baik;",
-        "> Bernyanyilah memuji nama-Nya, sebab itu menyenangkan."
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "> Sebab Tuhan telah memilih Yakub bagi diri-Nya,",
-        "> Israel sebagai milik kesayangan-Nya."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "> Karena aku yakin bahwa Tuhan itu besar,",
-        "> Dan bahwa Tuhan kita mengatasi segala Tuhan."
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "> Apa pun yang dikehendaki Tuhan, dilakukan-Nya,",
-        "> Di langit dan di bumi, di laut dan di segala samudera."
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "> Dia membuat awan naik dari ujung bumi,",
-        "> Yang membuat kilat untuk hujan,",
-        "> Yang mengeluarkan angin dari perbendaharaan-Nya."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 8,
-      "text": ["> Dia memukul mati anak sulung Mesir,", "> Baik dari manusia maupun hewan."]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "> Dia mengirim tanda-tanda dan keajaiban-keajaiban di tengah-tengahmu, Mesir,",
-        "> Melawan Firaun dan semua hambanya."
-      ]
-    },
-    {
-      "verse": 10,
-      "text": ["> Dia mengalahkan banyak bangsa", "> Dan menjatuhkan raja-raja yang perkasa:"]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "> Sihon, penguasa orang Amori,",
-        "> Dan Og, penguasa Basan,",
-        "> Dan semua wilayah Kanaan;"
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "> Dan Dia memberikan tanah mereka sebagai warisan,",
-        "> Warisan kepada umat-Nya Israel."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "> Nama-Mu, Tuhan, adalah kekal,",
-        "> Kenangan akan-Mu, Tuhan, berlangsung sepanjang segala generasi."
-      ]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "> Sebab Tuhan akan menghakimi umat-Nya",
-        "> Dan akan menunjukkan belas kasihan kepada hamba-hamba-Nya."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 15,
-      "text": [
-        "> Berhala-berhala bangsa-bangsa terbuat dari perak dan emas,",
-        "> Karya tangan manusia."
-      ]
-    },
-    {
-      "verse": 16,
-      "text": [
-        "> Mereka mempunyai mulut, tetapi tidak berbicara;",
-        "> Mereka mempunyai mata, tetapi tidak melihat;"
-      ]
-    },
-    {
-      "verse": 17,
-      "text": [
-        "> Mereka mempunyai telinga, tetapi tidak mendengar,",
-        "> Dan tidak ada nafas dalam mulut mereka."
-      ]
-    },
-    {
-      "verse": 18,
-      "text": [
-        "> Orang-orang yang membuatnya akan menjadi seperti mereka,",
-        "> Setiap orang yang percaya kepada mereka."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 19,
-      "text": ["> Hai kaum Israel, hormatilah Tuhan;", "> Hai kaum Harun, hormatilah Tuhan;"]
-    },
-    {
-      "verse": 20,
-      "text": [
-        "> Hai kaum Lewi, hormatilah Tuhan;",
-        "> Kamu yang takut akan Tuhan, hormatilah Tuhan."
-      ]
-    },
-    {
-      "verse": 21,
-      "text": [
-        "> Diberkatilah Tuhan, yang datang dari Sion,",
-        "> Yang berdiam di Yerusalem.",
-        "> Pujilah Tuhan!"
-      ]
-    }
-  ]
+    "book": "Mazmur",
+    "chapter": 135,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> Pujilah Tuhan!",
+                "> Hormatilah nama Tuhan;",
+                "> Pujilah Dia, hai hamba-hamba Tuhan,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Kamu yang berdiri di tempat kediaman Tuhan,",
+                "> Di pelataran rumah Tuhan kita!"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Pujilah Tuhan, sebab Tuhan itu baik;",
+                "> Bernyanyilah memuji nama-Nya, sebab itu menyenangkan."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Sebab Tuhan telah memilih Yakub bagi diri-Nya,",
+                "> Israel sebagai milik kesayangan-Nya."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Karena aku yakin bahwa Tuhan itu besar,",
+                "> Dan bahwa Tuhan kita mengatasi segala Tuhan."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Apa pun yang dikehendaki Tuhan, dilakukan-Nya,",
+                "> Di langit dan di bumi, di laut dan di segala samudera."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Dia membuat awan naik dari ujung bumi,",
+                "> Yang membuat kilat untuk hujan,",
+                "> Yang mengeluarkan angin dari perbendaharaan-Nya."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Dia memukul mati anak sulung Mesir,",
+                "> Baik dari manusia maupun hewan."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Dia mengirim tanda-tanda dan keajaiban-keajaiban di tengah-tengahmu, Mesir,",
+                "> Melawan Firaun dan semua hambanya."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Dia mengalahkan banyak bangsa",
+                "> Dan menjatuhkan raja-raja yang perkasa:"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Sihon, penguasa orang Amori,",
+                "> Dan Og, penguasa Basan,",
+                "> Dan semua wilayah Kanaan;"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Dan Dia memberikan tanah mereka sebagai warisan,",
+                "> Warisan kepada umat-Nya Israel."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Nama-Mu, Tuhan, adalah kekal,",
+                "> Kenangan akan-Mu, Tuhan, berlangsung sepanjang segala generasi."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Sebab Tuhan akan menghakimi umat-Nya",
+                "> Dan akan menunjukkan belas kasihan kepada hamba-hamba-Nya."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Berhala-berhala bangsa-bangsa terbuat dari perak dan emas,",
+                "> Karya tangan manusia."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Mereka mempunyai mulut, tetapi tidak berbicara;",
+                "> Mereka mempunyai mata, tetapi tidak melihat;"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Mereka mempunyai telinga, tetapi tidak mendengar,",
+                "> Dan tidak ada nafas dalam mulut mereka."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Orang-orang yang membuatnya akan menjadi seperti mereka,",
+                "> Setiap orang yang percaya kepada mereka."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Hai kaum Israel, hormatilah Tuhan;",
+                "> Hai kaum Harun, hormatilah Tuhan;"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> Hai kaum Lewi, hormatilah Tuhan;",
+                "> Kamu yang takut akan Tuhan, hormatilah Tuhan."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> Diberkatilah Tuhan, yang datang dari Sion,",
+                "> Yang berdiam di Yerusalem.",
+                "> Pujilah Tuhan!"
+            ]
+        }
+    ]
 }

@@ -1,0 +1,260 @@
+{
+    "book": "Jobin kirja, luku",
+    "chapter": 21,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Job vastasi:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> \"Kuunnelkaa tarkkaan sanojani,",
+                "> ja antakaa tämän olla teidän tapanne lohduttaa minua."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Sallikaa minun puhua,",
+                "> ja kun olen puhunut, voitte pilkata minua."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Onko valitukseni kohdistettu pelkästään ihmiselle?",
+                "> Miksi en saisi olla kärsimätön?"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Katsokaa minua ja hämmästykää;",
+                "> asettakaa kätenne suunne päälle."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Kun ajattelen sitä, olen järkyttynyt;",
+                "> kauhu valtaa lihani."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Miksi jumalattomat jatkavat elämäänsä,",
+                "> vanhenevat ja lisääntyvät vallassa?"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Heidän lapsensa kukoistavat heidän ympärillään,",
+                "> heidän jälkeläisensä ovat heidän silmiensä edessä."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Heidän kotinsa ovat turvassa ja vailla pelkoa;",
+                "> Jumalan vitsa ei ole heidän päällään."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Heidän härkänsä lisääntyvät menestyksekkäästi;",
+                "> heidän lehmänsä poikivat eivätkä menetä vasikoitaan."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> He lähettävät lapsensa kuin lauman;",
+                "> heidän pienokaisensa tanssivat."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> He laulavat tamburiinin ja lyyran säestyksellä,",
+                "> ja iloitsevat huilun soinnista."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> He viettävät päivänsä hyvinvoinnissa",
+                "> ja laskeutuvat rauhassa hautaan."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Kuitenkin he sanovat Jumalalle: 'Poistu luotamme!",
+                "> Meillä ei ole halua tuntea teitä teitäsi."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Kuka on Kaikkivaltias, että meidän pitäisi palvella häntä?",
+                "> Mitä hyötyä meillä on, jos rukoilemme häntä?'"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Totisesti, heidän menestyksensä ei ole heidän omissa käsissään,",
+                "> joten etäännytän itseni jumalattomien neuvosta."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> \"Kuinka usein jumalattomien lamppu sammuu?",
+                "> Kuinka usein onnettomuus kohtaa heitä,",
+                "> Jumalan vihassa jakamana?"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Ovatko he kuin oljet tuulen edessä,",
+                "> kuin akanat, jotka myrsky pyyhkäisee pois?"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Sanotaan, 'Jumala säilyttää ihmisen vääryyden hänen lapsilleen.'",
+                "> Antakoon hän maksaa heille, jotta he tietäisivät sen itse."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> Antakoon heidän omien silmiensä nähdä heidän tuomionsa;",
+                "> antakoon heidän juoda Kaikkivaltiaan vihaa."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> Mitä he välittävät taloudestaan jälkeensä,",
+                "> kun heidän määrätyt kuukautensa ovat päättyneet?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> Voiko kukaan antaa tietoa Jumalalle,",
+                "> koska hän tuomitsee jopa korkeimmat?"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> Yksi kuolee täydessä voimassaan,",
+                "> täysin rauhallisena ja turvassa,"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> hänen ruumiinsa hyvin ravittu,",
+                "> luut täynnä ydintä."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> Toinen kuolee sielu levottomana,",
+                "> koskaan nauttimatta mitään hyvää."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> Yhdessä he makaavat tomussa,",
+                "> ja madot peittävät heidät molemmat."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> \"Katso, tiedän ajatuksenne",
+                "> ja juonet, joita punotte minua vastaan."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> Kysytte, 'Missä nyt on jalosukuisen talo,",
+                "> teltat, joissa jumalattomat asuivat?'"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "> Ettekö ole kysyneet matkustavaisilta?",
+                "> Ettekö ole harkinneet heidän kertomuksiaan—"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> että jumalattomat säästyvät onnettomuuden päivältä,",
+                "> ja heidät johdatetaan pois vihan päivältä?"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "> Kuka kohtaa heidät heidän tekojensa kanssa,",
+                "> ja kuka maksaa heille siitä, mitä he ovat tehneet?"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "> Heidät kannetaan hautaan,",
+                "> ja heidän hautojaan vartioidaan."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "> Laakson maa on heille makea;",
+                "> koko ihmiskunta seuraa heitä,",
+                "> ja lukemattomat muut edeltävät heitä."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "> Kuinka voitte tarjota minulle tyhjää lohtua?",
+                "> Vastauksenne ovat pelkkää valhetta!\""
+            ]
+        }
+    ]
+}

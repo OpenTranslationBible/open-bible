@@ -1,115 +1,158 @@
 {
-  "book": "Ayub",
-  "chapter": 18,
-  "verses": [
-    {
-      "verse": 1,
-      "text": ["Lalu Bildad, orang Suah, menjawab dan berkata:"]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "> \"Berapa lama lagi kamu akan mencari kata-kata?",
-        "> Bersikaplah bijaksana, lalu kita bisa berbicara."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": ["> Mengapa kami dipandang sebagai binatang,", "> dan dianggap bodoh di matamu?"]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "> Kamu yang merobek dirimu dalam kemarahan,",
-        "> haruskah bumi ditinggalkan demi kamu,",
-        "> atau batu dipindahkan dari tempatnya?"
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 5,
-      "text": ["> \"Cahaya orang fasik dipadamkan,", "> dan nyala apinya berhenti bersinar."]
-    },
-    {
-      "verse": 6,
-      "text": ["> Cahaya di tendanya redup,", "> dan lampu di atasnya dipadamkan."]
-    },
-    {
-      "verse": 7,
-      "text": ["> Langkahnya yang kuat dipersingkat,", "> dan rencananya sendiri menjatuhkannya."]
-    },
-    {
-      "verse": 8,
-      "text": ["> Kakinya membawanya ke dalam jaring,", "> dan dia berjalan ke dalam anyamannya."]
-    },
-    {
-      "verse": 9,
-      "text": ["> Jerat menangkapnya di tumit,", "> dan perangkap menahannya erat-erat."]
-    },
-    {
-      "verse": 10,
-      "text": ["> Jerat tersembunyi untuknya di tanah,", "> dan perangkap terletak di jalannya."]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "> Ketakutan mendadak mengejutkannya dari segala sisi",
-        "> dan mengejarnya di setiap langkah."
-      ]
-    },
-    {
-      "verse": 12,
-      "text": ["> Kekuatan tubuhnya habis,", "> dan malapetaka siap di sisinya."]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "> Itu menghabiskan bagian-bagian kulitnya;",
-        "> anak sulung maut melahap anggota tubuhnya."
-      ]
-    },
-    {
-      "verse": 14,
-      "text": ["> Dia dirobek dari keamanan tendanya", "> dan dibawa ke hadapan raja ketakutan."]
-    },
-    {
-      "verse": 15,
-      "text": ["> Belerang ditaburkan di tempat tinggalnya;", "> api menghabiskan tendanya."]
-    },
-    {
-      "verse": 16,
-      "text": ["> Akarnya layu di bawah,", "> dan cabangnya layu di atas."]
-    },
-    {
-      "verse": 17,
-      "text": ["> Kenangannya memudar dari bumi,", "> dan dia tidak meninggalkan nama di tanah."]
-    },
-    {
-      "verse": 18,
-      "text": ["> Dia dilemparkan dari terang ke dalam kegelapan", "> dan dihapus dari dunia."]
-    },
-    {
-      "verse": 19,
-      "text": [
-        "> Dia tidak memiliki keturunan atau keturunan di antara bangsanya,",
-        "> maupun penyintas di tempat tinggalnya."
-      ]
-    },
-    {
-      "verse": 20,
-      "text": [
-        "> Mereka di barat terkejut dengan nasibnya,",
-        "> dan mereka di timur dipenuhi ketakutan."
-      ]
-    },
-    {
-      "verse": 21,
-      "text": [
-        "> Pastilah ini adalah tempat tinggal orang fasik,",
-        "> dan ini adalah tempat orang yang tidak mengenal Tuhan.\""
-      ]
-    }
-  ]
+    "book": "Ayub",
+    "chapter": 18,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Lalu Bildad, orang Suah, menjawab dan berkata:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> \"Berapa lama lagi kamu akan mencari kata-kata?",
+                "> Bersikaplah bijaksana, lalu kita bisa berbicara."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Mengapa kami dipandang sebagai binatang,",
+                "> dan dianggap bodoh di matamu?"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Kamu yang merobek dirimu dalam kemarahan,",
+                "> haruskah bumi ditinggalkan demi kamu,",
+                "> atau batu dipindahkan dari tempatnya?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> \"Cahaya orang fasik dipadamkan,",
+                "> dan nyala apinya berhenti bersinar."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Cahaya di tendanya redup,",
+                "> dan lampu di atasnya dipadamkan."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Langkahnya yang kuat dipersingkat,",
+                "> dan rencananya sendiri menjatuhkannya."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Kakinya membawanya ke dalam jaring,",
+                "> dan dia berjalan ke dalam anyamannya."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Jerat menangkapnya di tumit,",
+                "> dan perangkap menahannya erat-erat."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Jerat tersembunyi untuknya di tanah,",
+                "> dan perangkap terletak di jalannya."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Ketakutan mendadak mengejutkannya dari segala sisi",
+                "> dan mengejarnya di setiap langkah."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Kekuatan tubuhnya habis,",
+                "> dan malapetaka siap di sisinya."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Itu menghabiskan bagian-bagian kulitnya;",
+                "> anak sulung maut melahap anggota tubuhnya."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Dia dirobek dari keamanan tendanya",
+                "> dan dibawa ke hadapan raja ketakutan."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Belerang ditaburkan di tempat tinggalnya;",
+                "> api menghabiskan tendanya."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Akarnya layu di bawah,",
+                "> dan cabangnya layu di atas."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Kenangannya memudar dari bumi,",
+                "> dan dia tidak meninggalkan nama di tanah."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Dia dilemparkan dari terang ke dalam kegelapan",
+                "> dan dihapus dari dunia."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Dia tidak memiliki keturunan atau keturunan di antara bangsanya,",
+                "> maupun penyintas di tempat tinggalnya."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> Mereka di barat terkejut dengan nasibnya,",
+                "> dan mereka di timur dipenuhi ketakutan."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> Pastilah ini adalah tempat tinggal orang fasik,",
+                "> dan ini adalah tempat orang yang tidak mengenal Tuhan.\""
+            ]
+        }
+    ]
 }

@@ -1,326 +1,348 @@
 {
-  "book": "Mazmur",
-  "chapter": 107,
-  "verses": [
-    {
-      "verse": 1,
-      "text": ["> Bersyukurlah kepada Tuhan, sebab Ia baik;", "> Karena kasih-Nya kekal."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "> Biarlah orang-orang yang ditebus oleh Tuhan mengatakannya,",
-        "> Mereka yang telah diselamatkan-Nya dari tangan lawan."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "> Dan dikumpulkan dari negeri-negeri yang jauh,",
-        "> Dari timur dan dari barat,",
-        "> Dari utara dan dari selatan."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "> Mereka mengembara di padang gurun, daerah tandus;",
-        "> Mereka tidak menemukan jalan ke kota tempat mereka bisa tinggal."
-      ]
-    },
-    {
-      "verse": 5,
-      "text": ["> Mereka lapar dan haus;", "> Jiwa mereka menjadi lemah di dalam diri mereka."]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "> Lalu mereka berseru kepada Tuhan dalam kesesakan mereka;",
-        "> Ia melepaskan mereka dari kesusahan mereka."
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "> Ia juga menuntun mereka di jalan yang lurus,",
-        "> Untuk pergi ke kota yang berpenduduk."
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "> Biarlah mereka bersyukur kepada Tuhan atas kasih setia-Nya,",
-        "> Dan atas perbuatan-perbuatan-Nya yang ajaib kepada anak-anak manusia!"
-      ]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "> Sebab Ia telah memuaskan jiwa yang haus,",
-        "> Dan Ia telah mengisi jiwa yang lapar dengan hal-hal yang baik."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "> Ada orang-orang yang tinggal dalam kegelapan dan dalam bayang-bayang maut,",
-        "> Tahanan dalam penderitaan dan rantai,"
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "> Karena mereka telah memberontak melawan firman Tuhan",
-        "> Dan menolak nasihat Yang Mahatinggi."
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "> Oleh karena itu Ia merendahkan hati mereka dengan kerja keras;",
-        "> Mereka tersandung dan tidak ada yang menolong."
-      ]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "> Lalu mereka berseru kepada Tuhan dalam kesesakan mereka;",
-        "> Ia menyelamatkan mereka dari kesusahan mereka."
-      ]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "> Ia membawa mereka keluar dari kegelapan dan bayang-bayang maut",
-        "> Dan mematahkan rantai mereka."
-      ]
-    },
-    {
-      "verse": 15,
-      "text": [
-        "> Biarlah mereka bersyukur kepada Tuhan atas kasih setia-Nya,",
-        "> Dan atas perbuatan-perbuatan-Nya yang ajaib kepada anak-anak manusia!"
-      ]
-    },
-    {
-      "verse": 16,
-      "text": [
-        "> Sebab Ia telah menghancurkan pintu-pintu tembaga,",
-        "> Dan memotong palang-palang besi."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 17,
-      "text": [
-        "> Orang-orang bodoh, karena cara mereka yang memberontak,",
-        "> Dan karena kesalahan mereka, menderita."
-      ]
-    },
-    {
-      "verse": 18,
-      "text": [
-        "> Jiwa mereka muak terhadap segala jenis makanan,",
-        "> Dan mereka mendekati pintu-pintu maut."
-      ]
-    },
-    {
-      "verse": 19,
-      "text": [
-        "> Lalu mereka berseru kepada Tuhan dalam kesesakan mereka;",
-        "> Ia menyelamatkan mereka dari kesusahan mereka."
-      ]
-    },
-    {
-      "verse": 20,
-      "text": [
-        "> Ia mengirimkan firman-Nya dan menyembuhkan mereka,",
-        "> Dan menyelamatkan mereka dari kehancuran mereka."
-      ]
-    },
-    {
-      "verse": 21,
-      "text": [
-        "> Biarlah mereka bersyukur kepada Tuhan atas kasih setia-Nya,",
-        "> Dan atas perbuatan-perbuatan-Nya yang ajaib kepada anak-anak manusia!"
-      ]
-    },
-    {
-      "verse": 22,
-      "text": [
-        "> Biarlah mereka juga membawa persembahan syukur,",
-        "> Dan memberitakan pekerjaan-Nya dengan nyanyian sukacita."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 23,
-      "text": [
-        "> Mereka yang turun ke laut dengan kapal,",
-        "> Yang melakukan bisnis di atas air yang besar,"
-      ]
-    },
-    {
-      "verse": 24,
-      "text": [
-        "> Mereka telah menyaksikan pekerjaan-pekerjaan Tuhan,",
-        "> Dan keajaiban-keajaiban-Nya di kedalaman."
-      ]
-    },
-    {
-      "verse": 25,
-      "text": [
-        "> Sebab Ia berfirman dan membangkitkan angin badai,",
-        "> Yang mengangkat gelombang laut."
-      ]
-    },
-    {
-      "verse": 26,
-      "text": [
-        "> Mereka naik ke langit, mereka turun ke kedalaman;",
-        "> Keberanian mereka mencair dalam kesusahan mereka."
-      ]
-    },
-    {
-      "verse": 27,
-      "text": [
-        "> Mereka terhuyung-huyung dan terhuyung-huyung seperti orang yang mabuk,",
-        "> Dan kehilangan akal."
-      ]
-    },
-    {
-      "verse": 28,
-      "text": [
-        "> Lalu mereka berseru kepada Tuhan dalam kesesakan mereka,",
-        "> Dan Ia melepaskan mereka dari kesusahan mereka."
-      ]
-    },
-    {
-      "verse": 29,
-      "text": [
-        "> Ia menenangkan badai menjadi bisikan,",
-        "> Sehingga gelombang laut menjadi tenang."
-      ]
-    },
-    {
-      "verse": 30,
-      "text": [
-        "> Lalu mereka bersukacita, karena mereka tenang,",
-        "> Maka Ia menuntun mereka ke pelabuhan yang mereka inginkan."
-      ]
-    },
-    {
-      "verse": 31,
-      "text": [
-        "> Biarlah mereka bersyukur kepada Tuhan atas kasih setia-Nya,",
-        "> Dan atas perbuatan-perbuatan-Nya yang ajaib kepada anak-anak manusia!"
-      ]
-    },
-    {
-      "verse": 32,
-      "text": [
-        "> Biarlah mereka juga memuliakan Dia dalam jemaat umat,",
-        "> Dan memuji Dia dalam pertemuan para tua-tua."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 33,
-      "text": [
-        "> Ia mengubah sungai-sungai menjadi padang gurun,",
-        "> Dan mata air menjadi tanah kering;"
-      ]
-    },
-    {
-      "verse": 34,
-      "text": [
-        "> Tanah yang subur menjadi padang tandus,",
-        "> Karena kejahatan orang-orang yang tinggal di dalamnya."
-      ]
-    },
-    {
-      "verse": 35,
-      "text": [
-        "> Ia mengubah padang gurun menjadi kolam air,",
-        "> Dan tanah kering menjadi mata air;"
-      ]
-    },
-    {
-      "verse": 36,
-      "text": [
-        "> Dan Ia membuat orang lapar tinggal di sana,",
-        "> Agar mereka dapat mendirikan kota untuk tinggal,"
-      ]
-    },
-    {
-      "verse": 37,
-      "text": [
-        "> Dan mengolah ladang dan menanam kebun anggur,",
-        "> Dan mengumpulkan hasil panen yang berlimpah."
-      ]
-    },
-    {
-      "verse": 38,
-      "text": [
-        "> Ia juga memberkati mereka dan mereka berkembang biak dengan banyak,",
-        "> Dan Ia tidak membiarkan ternak mereka berkurang."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 39,
-      "text": [
-        "> Ketika mereka berkurang dan direndahkan",
-        "> Karena penindasan, penderitaan, dan kesedihan,"
-      ]
-    },
-    {
-      "verse": 40,
-      "text": [
-        "> Ia mencurahkan penghinaan kepada bangsawan",
-        "> Dan membuat mereka mengembara di padang tandus yang tak berjejak."
-      ]
-    },
-    {
-      "verse": 41,
-      "text": [
-        "> Tetapi Ia menempatkan orang miskin dengan aman di tempat tinggi, jauh dari penderitaan,",
-        "> Dan membuat keluarga mereka seperti kawanan domba."
-      ]
-    },
-    {
-      "verse": 42,
-      "text": [
-        "> Orang-orang jujur melihatnya dan bersukacita;",
-        "> Tetapi segala ketidakadilan dibungkam."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 43,
-      "text": [
-        "> Siapa yang bijaksana? Biarlah ia memperhatikan hal-hal ini,",
-        "> Dan mempertimbangkan kasih setia Tuhan."
-      ]
-    }
-  ]
+    "book": "Mazmur",
+    "chapter": 107,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> Bersyukurlah kepada Tuhan, sebab Ia baik;",
+                "> Karena kasih-Nya kekal."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Biarlah orang-orang yang ditebus oleh Tuhan mengatakannya,",
+                "> Mereka yang telah diselamatkan-Nya dari tangan lawan."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Dan dikumpulkan dari negeri-negeri yang jauh,",
+                "> Dari timur dan dari barat,",
+                "> Dari utara dan dari selatan."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Mereka mengembara di padang gurun, daerah tandus;",
+                "> Mereka tidak menemukan jalan ke kota tempat mereka bisa tinggal."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Mereka lapar dan haus;",
+                "> Jiwa mereka menjadi lemah di dalam diri mereka."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Lalu mereka berseru kepada Tuhan dalam kesesakan mereka;",
+                "> Ia melepaskan mereka dari kesusahan mereka."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Ia juga menuntun mereka di jalan yang lurus,",
+                "> Untuk pergi ke kota yang berpenduduk."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Biarlah mereka bersyukur kepada Tuhan atas kasih setia-Nya,",
+                "> Dan atas perbuatan-perbuatan-Nya yang ajaib kepada anak-anak manusia!"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Sebab Ia telah memuaskan jiwa yang haus,",
+                "> Dan Ia telah mengisi jiwa yang lapar dengan hal-hal yang baik."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Ada orang-orang yang tinggal dalam kegelapan dan dalam bayang-bayang maut,",
+                "> Tahanan dalam penderitaan dan rantai,"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Karena mereka telah memberontak melawan firman Tuhan",
+                "> Dan menolak nasihat Yang Mahatinggi."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Oleh karena itu Ia merendahkan hati mereka dengan kerja keras;",
+                "> Mereka tersandung dan tidak ada yang menolong."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Lalu mereka berseru kepada Tuhan dalam kesesakan mereka;",
+                "> Ia menyelamatkan mereka dari kesusahan mereka."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Ia membawa mereka keluar dari kegelapan dan bayang-bayang maut",
+                "> Dan mematahkan rantai mereka."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Biarlah mereka bersyukur kepada Tuhan atas kasih setia-Nya,",
+                "> Dan atas perbuatan-perbuatan-Nya yang ajaib kepada anak-anak manusia!"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Sebab Ia telah menghancurkan pintu-pintu tembaga,",
+                "> Dan memotong palang-palang besi."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Orang-orang bodoh, karena cara mereka yang memberontak,",
+                "> Dan karena kesalahan mereka, menderita."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Jiwa mereka muak terhadap segala jenis makanan,",
+                "> Dan mereka mendekati pintu-pintu maut."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Lalu mereka berseru kepada Tuhan dalam kesesakan mereka;",
+                "> Ia menyelamatkan mereka dari kesusahan mereka."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> Ia mengirimkan firman-Nya dan menyembuhkan mereka,",
+                "> Dan menyelamatkan mereka dari kehancuran mereka."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> Biarlah mereka bersyukur kepada Tuhan atas kasih setia-Nya,",
+                "> Dan atas perbuatan-perbuatan-Nya yang ajaib kepada anak-anak manusia!"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> Biarlah mereka juga membawa persembahan syukur,",
+                "> Dan memberitakan pekerjaan-Nya dengan nyanyian sukacita."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> Mereka yang turun ke laut dengan kapal,",
+                "> Yang melakukan bisnis di atas air yang besar,"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Mereka telah menyaksikan pekerjaan-pekerjaan Tuhan,",
+                "> Dan keajaiban-keajaiban-Nya di kedalaman."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> Sebab Ia berfirman dan membangkitkan angin badai,",
+                "> Yang mengangkat gelombang laut."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> Mereka naik ke langit, mereka turun ke kedalaman;",
+                "> Keberanian mereka mencair dalam kesusahan mereka."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> Mereka terhuyung-huyung dan terhuyung-huyung seperti orang yang mabuk,",
+                "> Dan kehilangan akal."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> Lalu mereka berseru kepada Tuhan dalam kesesakan mereka,",
+                "> Dan Ia melepaskan mereka dari kesusahan mereka."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "> Ia menenangkan badai menjadi bisikan,",
+                "> Sehingga gelombang laut menjadi tenang."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> Lalu mereka bersukacita, karena mereka tenang,",
+                "> Maka Ia menuntun mereka ke pelabuhan yang mereka inginkan."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "> Biarlah mereka bersyukur kepada Tuhan atas kasih setia-Nya,",
+                "> Dan atas perbuatan-perbuatan-Nya yang ajaib kepada anak-anak manusia!"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "> Biarlah mereka juga memuliakan Dia dalam jemaat umat,",
+                "> Dan memuji Dia dalam pertemuan para tua-tua."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "> Ia mengubah sungai-sungai menjadi padang gurun,",
+                "> Dan mata air menjadi tanah kering;"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "> Tanah yang subur menjadi padang tandus,",
+                "> Karena kejahatan orang-orang yang tinggal di dalamnya."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "> Ia mengubah padang gurun menjadi kolam air,",
+                "> Dan tanah kering menjadi mata air;"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "> Dan Ia membuat orang lapar tinggal di sana,",
+                "> Agar mereka dapat mendirikan kota untuk tinggal,"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "> Dan mengolah ladang dan menanam kebun anggur,",
+                "> Dan mengumpulkan hasil panen yang berlimpah."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "> Ia juga memberkati mereka dan mereka berkembang biak dengan banyak,",
+                "> Dan Ia tidak membiarkan ternak mereka berkurang."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "> Ketika mereka berkurang dan direndahkan",
+                "> Karena penindasan, penderitaan, dan kesedihan,"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "> Ia mencurahkan penghinaan kepada bangsawan",
+                "> Dan membuat mereka mengembara di padang tandus yang tak berjejak."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "> Tetapi Ia menempatkan orang miskin dengan aman di tempat tinggi, jauh dari penderitaan,",
+                "> Dan membuat keluarga mereka seperti kawanan domba."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "> Orang-orang jujur melihatnya dan bersukacita;",
+                "> Tetapi segala ketidakadilan dibungkam."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "> Siapa yang bijaksana? Biarlah ia memperhatikan hal-hal ini,",
+                "> Dan mempertimbangkan kasih setia Tuhan."
+            ]
+        }
+    ]
 }

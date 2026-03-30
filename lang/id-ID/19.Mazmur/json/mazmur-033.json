@@ -1,160 +1,190 @@
 {
-  "book": "Mazmur",
-  "chapter": 33,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "> Bersukacitalah dalam Tuhan, hai orang-orang benar;",
-        "> Pujian itu layak bagi orang-orang jujur."
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "> Bersyukurlah kepada Tuhan dengan kecapi;",
-        "> Bernyanyilah bagi-Nya dengan gambus sepuluh tali."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "> Nyanyikanlah bagi-Nya nyanyian baru;",
-        "> Mainkanlah dengan mahir dan sorak-sorai."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "> Karena firman Tuhan itu benar,",
-        "> Dan segala pekerjaan-Nya dilakukan dengan setia."
-      ]
-    },
-    {
-      "verse": 5,
-      "text": ["> Dia mencintai kebenaran dan keadilan;", "> Bumi penuh dengan kebaikan Tuhan."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "> Oleh firman Tuhan langit diciptakan,",
-        "> Dan oleh nafas mulut-Nya segala tentaranya."
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "> Dia mengumpulkan air laut seperti bendungan;",
-        "> Dia menyimpan samudera raya dalam gudang-gudang."
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "> Biarlah seluruh bumi takut kepada Tuhan;",
-        "> Biarlah semua penduduk dunia gentar terhadap-Nya."
-      ]
-    },
-    {
-      "verse": 9,
-      "text": ["> Karena Dia berfirman, maka jadilah;", "> Dia memberi perintah, maka berdirilah."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "> Tuhan menggagalkan rencana bangsa-bangsa;",
-        "> Dia membatalkan rancangan suku-suku bangsa."
-      ]
-    },
-    {
-      "verse": 11,
-      "text": ["> Rencana Tuhan tetap selama-lamanya,", "> Pikiran hati-Nya turun-temurun."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "> Berbahagialah bangsa yang Tuhannya adalah Tuhan,",
-        "> Umat yang dipilih-Nya menjadi milik-Nya sendiri."
-      ]
-    },
-    {
-      "verse": 13,
-      "text": ["> Tuhan memandang dari surga;", "> Dia melihat semua anak manusia;"]
-    },
-    {
-      "verse": 14,
-      "text": ["> Dari tempat kediaman-Nya Dia mengamati", "> Semua penduduk bumi,"]
-    },
-    {
-      "verse": 15,
-      "text": [
-        "> Dia yang membentuk hati mereka semua,",
-        "> Dia yang memahami segala perbuatan mereka."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 16,
-      "text": [
-        "> Seorang raja tidak diselamatkan oleh pasukan yang besar;",
-        "> Seorang pahlawan tidak dibebaskan oleh kekuatan yang besar."
-      ]
-    },
-    {
-      "verse": 17,
-      "text": [
-        "> Kuda adalah harapan yang sia-sia untuk kemenangan;",
-        "> Tidak juga menyelamatkan dengan kekuatannya yang besar."
-      ]
-    },
-    {
-      "verse": 18,
-      "text": [
-        "> Lihatlah, mata Tuhan tertuju pada mereka yang takut akan Dia,",
-        "> Pada mereka yang berharap pada kesetiaan-Nya,"
-      ]
-    },
-    {
-      "verse": 19,
-      "text": [
-        "> Untuk melepaskan jiwa mereka dari maut",
-        "> Dan untuk memelihara mereka pada masa kelaparan."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 20,
-      "text": ["> Jiwa kami menanti-nantikan Tuhan;", "> Dia adalah penolong dan perisai kami."]
-    },
-    {
-      "verse": 21,
-      "text": [
-        "> Karena hati kami bersukacita dalam Dia,",
-        "> Sebab kami percaya pada nama-Nya yang kudus."
-      ]
-    },
-    {
-      "verse": 22,
-      "text": [
-        "> Kiranya kasih karunia-Mu, Tuhan, menyertai kami,",
-        "> Sama seperti kami berharap kepada-Mu."
-      ]
-    }
-  ]
+    "book": "Mazmur",
+    "chapter": 33,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> Bersukacitalah dalam Tuhan, hai orang-orang benar;",
+                "> Pujian itu layak bagi orang-orang jujur."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Bersyukurlah kepada Tuhan dengan kecapi;",
+                "> Bernyanyilah bagi-Nya dengan gambus sepuluh tali."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Nyanyikanlah bagi-Nya nyanyian baru;",
+                "> Mainkanlah dengan mahir dan sorak-sorai."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Karena firman Tuhan itu benar,",
+                "> Dan segala pekerjaan-Nya dilakukan dengan setia."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Dia mencintai kebenaran dan keadilan;",
+                "> Bumi penuh dengan kebaikan Tuhan."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Oleh firman Tuhan langit diciptakan,",
+                "> Dan oleh nafas mulut-Nya segala tentaranya."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Dia mengumpulkan air laut seperti bendungan;",
+                "> Dia menyimpan samudera raya dalam gudang-gudang."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Biarlah seluruh bumi takut kepada Tuhan;",
+                "> Biarlah semua penduduk dunia gentar terhadap-Nya."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Karena Dia berfirman, maka jadilah;",
+                "> Dia memberi perintah, maka berdirilah."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Tuhan menggagalkan rencana bangsa-bangsa;",
+                "> Dia membatalkan rancangan suku-suku bangsa."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Rencana Tuhan tetap selama-lamanya,",
+                "> Pikiran hati-Nya turun-temurun."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Berbahagialah bangsa yang Tuhannya adalah Tuhan,",
+                "> Umat yang dipilih-Nya menjadi milik-Nya sendiri."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Tuhan memandang dari surga;",
+                "> Dia melihat semua anak manusia;"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Dari tempat kediaman-Nya Dia mengamati",
+                "> Semua penduduk bumi,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Dia yang membentuk hati mereka semua,",
+                "> Dia yang memahami segala perbuatan mereka."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Seorang raja tidak diselamatkan oleh pasukan yang besar;",
+                "> Seorang pahlawan tidak dibebaskan oleh kekuatan yang besar."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Kuda adalah harapan yang sia-sia untuk kemenangan;",
+                "> Tidak juga menyelamatkan dengan kekuatannya yang besar."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Lihatlah, mata Tuhan tertuju pada mereka yang takut akan Dia,",
+                "> Pada mereka yang berharap pada kesetiaan-Nya,"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Untuk melepaskan jiwa mereka dari maut",
+                "> Dan untuk memelihara mereka pada masa kelaparan."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> Jiwa kami menanti-nantikan Tuhan;",
+                "> Dia adalah penolong dan perisai kami."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> Karena hati kami bersukacita dalam Dia,",
+                "> Sebab kami percaya pada nama-Nya yang kudus."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> Kiranya kasih karunia-Mu, Tuhan, menyertai kami,",
+                "> Sama seperti kami berharap kepada-Mu."
+            ]
+        }
+    ]
 }

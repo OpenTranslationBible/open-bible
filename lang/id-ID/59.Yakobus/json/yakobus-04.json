@@ -1,108 +1,110 @@
 {
-  "book": "Yakobus",
-  "chapter": 4,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "Apa penyebab pertengkaran dan perselisihan di antara kamu? Bukankah itu timbul dari keinginan-keinginanmu yang berperang di dalam anggota-anggota tubuhmu?"
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "Kamu mengingini sesuatu dan tidak memperolehnya, jadi kamu membunuh. Kamu iri hati dan tidak dapat mencapai tujuanmu, jadi kamu bertengkar dan berkelahi. Kamu tidak memperoleh apa-apa karena kamu tidak meminta kepada Tuhan."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "Ketika kamu meminta, kamu tidak menerima, karena kamu meminta dengan motif yang salah, supaya kamu dapat menghabiskannya untuk kesenanganmu."
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "Hai orang-orang yang tidak setia, tidakkah kamu tahu bahwa persahabatan dengan dunia adalah permusuhan dengan Tuhan? Oleh karena itu, siapa saja yang memilih untuk menjadi sahabat dunia menjadi musuh Tuhan."
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "Atau apakah kamu berpikir bahwa Kitab Suci berbicara tanpa alasan ketika dikatakan bahwa Ia dengan cemburu menginginkan roh yang telah Ia tempatkan untuk diam di dalam kita?"
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "Tetapi Ia memberikan kasih karunia yang lebih besar. Itulah sebabnya Kitab Suci mengatakan:",
-        "> “Tuhan menentang orang yang sombong",
-        "> tetapi memberikan kasih karunia kepada orang yang rendah hati.”"
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "Jadi, tempatkan dirimu di bawah otoritas Tuhan. Berdirilah melawan iblis, dan ia akan lari darimu."
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "Dekatkan dirimu kepada Tuhan, dan Ia akan mendekat kepadamu. Bersihkan tanganmu, hai orang-orang berdosa, dan sucikan hatimu, hai orang yang mendua hati."
-      ]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "Berdukacitalah, merataplah, dan menangislah. Biarlah tawamu berubah menjadi ratapan dan sukacitamu menjadi kesedihan."
-      ]
-    },
-    {
-      "verse": 10,
-      "text": ["Rendahkanlah dirimu di hadapan Tuhan, dan Ia akan meninggikan kamu."]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "Saudara-saudara, janganlah berbicara melawan satu sama lain. Siapa saja yang berbicara melawan saudara atau menghakimi mereka berbicara melawan hukum dan menghakiminya. Jika kamu menghakimi hukum, kamu bukan pelaku hukum tetapi hakimnya."
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "Hanya ada satu Pembuat Hukum dan Hakim, Dia yang mampu menyelamatkan dan menghancurkan. Tetapi siapakah kamu sehingga menghakimi sesamamu?"
-      ]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "Sekarang, kamu yang berkata, “Hari ini atau besok kami akan pergi ke kota ini atau itu, tinggal setahun di sana, berdagang dan mendapat untung.”"
-      ]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "Namun kamu tidak tahu bagaimana hidupmu besok. Kamu adalah uap yang muncul sebentar lalu lenyap."
-      ]
-    },
-    {
-      "verse": 15,
-      "text": [
-        "Sebaliknya, kamu harus berkata, “Jika Tuhan menghendaki, kami akan hidup dan melakukan ini atau itu.”"
-      ]
-    },
-    {
-      "verse": 16,
-      "text": [
-        "Tetapi sebagaimana adanya, kamu bermegah dalam rencana sombongmu. Semua kemegahan seperti itu adalah jahat."
-      ]
-    },
-    {
-      "verse": 17,
-      "text": [
-        "Oleh karena itu, jika seseorang tahu apa yang baik yang harus mereka lakukan dan tidak melakukannya, itu adalah dosa bagi mereka."
-      ]
-    }
-  ]
+    "book": "Yakobus",
+    "chapter": 4,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Apa penyebab pertengkaran dan perselisihan di antara kamu? Bukankah itu timbul dari keinginan-keinginanmu yang berperang di dalam anggota-anggota tubuhmu?"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Kamu mengingini sesuatu dan tidak memperolehnya, jadi kamu membunuh. Kamu iri hati dan tidak dapat mencapai tujuanmu, jadi kamu bertengkar dan berkelahi. Kamu tidak memperoleh apa-apa karena kamu tidak meminta kepada Tuhan."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Ketika kamu meminta, kamu tidak menerima, karena kamu meminta dengan motif yang salah, supaya kamu dapat menghabiskannya untuk kesenanganmu."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Hai orang-orang yang tidak setia, tidakkah kamu tahu bahwa persahabatan dengan dunia adalah permusuhan dengan Tuhan? Oleh karena itu, siapa saja yang memilih untuk menjadi sahabat dunia menjadi musuh Tuhan."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Atau apakah kamu berpikir bahwa Kitab Suci berbicara tanpa alasan ketika dikatakan bahwa Ia dengan cemburu menginginkan roh yang telah Ia tempatkan untuk diam di dalam kita?"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Tetapi Ia memberikan kasih karunia yang lebih besar. Itulah sebabnya Kitab Suci mengatakan:",
+                "> “Tuhan menentang orang yang sombong",
+                "> tetapi memberikan kasih karunia kepada orang yang rendah hati.”"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Jadi, tempatkan dirimu di bawah otoritas Tuhan. Berdirilah melawan iblis, dan ia akan lari darimu."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Dekatkan dirimu kepada Tuhan, dan Ia akan mendekat kepadamu. Bersihkan tanganmu, hai orang-orang berdosa, dan sucikan hatimu, hai orang yang mendua hati."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Berdukacitalah, merataplah, dan menangislah. Biarlah tawamu berubah menjadi ratapan dan sukacitamu menjadi kesedihan."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Rendahkanlah dirimu di hadapan Tuhan, dan Ia akan meninggikan kamu."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Saudara-saudara, janganlah berbicara melawan satu sama lain. Siapa saja yang berbicara melawan saudara atau menghakimi mereka berbicara melawan hukum dan menghakiminya. Jika kamu menghakimi hukum, kamu bukan pelaku hukum tetapi hakimnya."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Hanya ada satu Pembuat Hukum dan Hakim, Dia yang mampu menyelamatkan dan menghancurkan. Tetapi siapakah kamu sehingga menghakimi sesamamu?"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Sekarang, kamu yang berkata, “Hari ini atau besok kami akan pergi ke kota ini atau itu, tinggal setahun di sana, berdagang dan mendapat untung.”"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Namun kamu tidak tahu bagaimana hidupmu besok. Kamu adalah uap yang muncul sebentar lalu lenyap."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Sebaliknya, kamu harus berkata, “Jika Tuhan menghendaki, kami akan hidup dan melakukan ini atau itu.”"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Tetapi sebagaimana adanya, kamu bermegah dalam rencana sombongmu. Semua kemegahan seperti itu adalah jahat."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Oleh karena itu, jika seseorang tahu apa yang baik yang harus mereka lakukan dan tidak melakukannya, itu adalah dosa bagi mereka."
+            ]
+        }
+    ]
 }

@@ -1,0 +1,210 @@
+{
+    "book": "4. Mooseksen kirja",
+    "chapter": 2,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Herra puhui Moosekselle ja Aaronille sanoen:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "\"Israelilaisten tulee leiriytyä kohtaamisteltan ympärille, kukin oman lippunsa mukaan, perheittensä viirien alla, etäälle siitä."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Idän puolella, auringonnousun suunnassa, leiriytyköön Juudan leirin osastot lippunsa alla. Juudan kansan johtaja on Nahson, Amminadabin poika."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Hänen joukkoonsa kuuluvia miehiä oli 74 600."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Heidän vieressään leiriytyköön Isaskarin heimo. Isaskarin kansan johtaja on Netanel, Suarin poika."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Hänen joukkoonsa kuuluvia miehiä oli 54 400."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Heidän jälkeensä leiriytyköön Sebulonin heimo. Sebulonin kansan johtaja on Eliab, Helonin poika."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Hänen joukkoonsa kuuluvia miehiä oli 57 400."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Kaikkiaan Juudan leiriin kuuluvia miehiä, osastoittain, oli 186 400. He lähtevät liikkeelle ensimmäisinä."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Etelän puolella leiriytyköön Ruubenin leirin osastot lippunsa alla. Ruubenin kansan johtaja on Elisur, Sedeurin poika."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Hänen joukkoonsa kuuluvia miehiä oli 46 500."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Heidän vieressään leiriytyköön Simeonin heimo. Simeonin kansan johtaja on Selumiel, Surisaddain poika."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Hänen joukkoonsa kuuluvia miehiä oli 59 300."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Heidän jälkeensä leiriytyköön Gadin heimo. Gadin kansan johtaja on Eljasaf, Deuelin poika."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Hänen joukkoonsa kuuluvia miehiä oli 45 650."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Kaikkiaan Ruubenin leiriin kuuluvia miehiä, osastoittain, oli 151 450. He lähtevät liikkeelle toisina."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Sitten kohtaamisteltta, leeviläisten leiri, lähtee liikkeelle leirien keskellä. He lähtevät liikkeelle samassa järjestyksessä kuin leiriytyvät, kukin omalla paikallaan lippunsa alla."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Lännen puolella leiriytyköön Efraimin leirin osastot lippunsa alla. Efraimin kansan johtaja on Elisama, Ammihudin poika."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Hänen joukkoonsa kuuluvia miehiä oli 40 500."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Heidän vieressään leiriytyköön Manassen heimo. Manassen kansan johtaja on Gamliel, Pedasurin poika."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Hänen joukkoonsa kuuluvia miehiä oli 32 200."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Heidän jälkeensä leiriytyköön Benjaminin heimo. Benjaminin kansan johtaja on Abidan, Gideonin poika."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Hänen joukkoonsa kuuluvia miehiä oli 35 400."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Kaikkiaan Efraimin leiriin kuuluvia miehiä, osastoittain, oli 108 100. He lähtevät liikkeelle kolmansina."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Pohjoisen puolella leiriytyköön Danin leirin osastot lippunsa alla. Danin kansan johtaja on Ahieser, Ammisaddain poika."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Hänen joukkoonsa kuuluvia miehiä oli 62 700."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Heidän vieressään leiriytyköön Asserin heimo. Asserin kansan johtaja on Pagiel, Okranin poika."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Hänen joukkoonsa kuuluvia miehiä oli 41 500."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Heidän jälkeensä leiriytyköön Naftalin heimo. Naftalin kansan johtaja on Ahira, Enanin poika."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Hänen joukkoonsa kuuluvia miehiä oli 53 400."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Kaikkiaan Danin leiriin kuuluvia miehiä oli 157 600. He lähtevät liikkeelle viimeisinä, lippujensa alla."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Nämä ovat israelilaiset, laskettuna perheittäin. Leirien miesten kokonaismäärä, osastoittain, on 603 550."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Leeviläisiä ei kuitenkaan laskettu muiden israelilaisten joukkoon, kuten Herra Moosekselle käski."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Näin israelilaiset tekivät kaiken, mitä Herra Moosekselle käski; he leiriytyivät lippujensa mukaan ja lähtivät liikkeelle, kukin perheineen ja sukukuntineen."
+            ]
+        }
+    ]
+}

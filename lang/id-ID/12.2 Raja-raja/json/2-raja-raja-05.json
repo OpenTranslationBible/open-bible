@@ -1,230 +1,236 @@
 {
-  "book": "2 Raja-raja",
-  "chapter": 5,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "Naaman, panglima tentara raja Aram, adalah seorang yang besar di hadapan tuannya dan sangat dihormati,",
-        "karena oleh dia Tuhan telah memberikan kemenangan kepada Aram.",
-        "Orang itu juga seorang pahlawan yang gagah berani, tetapi ia seorang penderita kusta."
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "Orang Aram telah keluar dalam gerombolan dan telah membawa seorang gadis muda dari tanah Israel sebagai tawanan;",
-        "dan dia melayani istri Naaman."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "Dan dia berkata kepada nyonyanya,",
-        "“Sekiranya tuanku berada dengan nabi yang di Samaria!",
-        "Dia pasti akan menyembuhkannya dari kustanya.”"
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "Maka Naaman pergi dan memberitahu tuannya, katanya,",
-        "“Inilah yang dikatakan gadis yang dari tanah Israel itu.”"
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "Kemudian raja Aram menjawab,",
-        "“Pergilah sekarang, dan aku akan mengirim surat kepada raja Israel.”",
-        "Maka dia pergi, membawa sepuluh talenta perak, enam ribu syikal emas, dan sepuluh pakaian ganti."
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "Dan dia membawa surat itu kepada raja Israel, yang berbunyi:",
-        "“Sekarang, ketika surat ini sampai kepadamu, lihatlah, aku telah mengirim Naaman, hambaku, kepadamu,",
-        "supaya engkau dapat menyembuhkannya dari kustanya.”"
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "Tetapi ketika raja Israel membaca surat itu, dia mengoyakkan pakaiannya dan berkata,",
-        "“Apakah aku ini Tuhan, yang dapat membunuh dan menghidupkan, sehingga orang ini mengirim pesan kepadaku untuk menyembuhkan seorang dari kustanya?",
-        "Tetapi pertimbangkanlah sekarang, dan lihatlah bagaimana dia mencari pertengkaran dengan aku.”"
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "Sekarang terjadilah, ketika Elisa, abdi Tuhan, mendengar bahwa raja Israel telah mengoyakkan pakaiannya,",
-        "dia mengirim pesan kepada raja, berkata,",
-        "“Mengapa engkau mengoyakkan pakaianmu? Biarkan dia datang kepadaku, dan dia akan tahu bahwa ada seorang nabi di Israel.”"
-      ]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "Maka Naaman datang dengan kuda-kudanya dan keretanya, dan berdiri di depan pintu rumah Elisa."
-      ]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "Dan Elisa mengirim seorang utusan kepadanya, memberi petunjuk,",
-        "“Pergilah dan mandilah di sungai Yordan tujuh kali,",
-        "dan dagingmu akan dipulihkan kepadamu, dan engkau akan menjadi bersih.”"
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "Tetapi Naaman marah dan pergi, berkata,",
-        "“Lihatlah, aku berpikir, ‘Dia pasti akan keluar menemuiku dan berdiri,",
-        "dan memanggil nama Tuhan Tuhannya, dan mengayunkan tangannya di atas tempat itu dan menyembuhkan penderita kusta itu.’"
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "Bukankah Abana dan Parpar, sungai-sungai di Damsyik, lebih baik dari semua air di Israel?",
-        "Tidakkah aku dapat mandi di dalamnya dan menjadi bersih?”",
-        "Maka dia berbalik dan pergi dengan marah."
-      ]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "Kemudian hamba-hambanya mendekat dan berbicara kepadanya, dan berkata,",
-        "“Bapaku, seandainya nabi itu menyuruhmu melakukan sesuatu yang besar, tidakkah engkau akan melakukannya?",
-        "Apalagi sekarang, ketika dia berkata kepadamu, ‘Mandilah, dan jadilah bersih’?”"
-      ]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "Maka dia turun dan membenamkan dirinya tujuh kali di sungai Yordan, sesuai petunjuk abdi Tuhan;",
-        "dan dagingnya dipulihkan seperti daging seorang anak kecil, dan dia menjadi bersih."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 15,
-      "text": [
-        "Kemudian dia kembali kepada abdi Tuhan dengan seluruh rombongannya, dan datang dan berdiri di hadapannya.",
-        "Dan dia menyatakan,",
-        "“Lihatlah sekarang, aku tahu bahwa tidak ada Tuhan di seluruh bumi, kecuali di Israel;",
-        "jadi tolong terimalah hadiah dari hambamu sekarang.”"
-      ]
-    },
-    {
-      "verse": 16,
-      "text": [
-        "Tetapi dia berkata,",
-        "“Demi Tuhan yang hidup, di hadapan siapa aku berdiri, aku tidak akan menerima apa pun.”",
-        "Dan dia mendesaknya untuk menerimanya, tetapi dia menolak."
-      ]
-    },
-    {
-      "verse": 17,
-      "text": [
-        "Maka Naaman berkata,",
-        "“Jika tidak, tolong biarkan hambamu diberi dua muatan bagal tanah;",
-        "karena hambamu tidak akan lagi mempersembahkan korban bakaran atau korban kepada Tuhan lain, tetapi hanya kepada Tuhan."
-      ]
-    },
-    {
-      "verse": 18,
-      "text": [
-        "Dalam hal ini, semoga Tuhan mengampuni hambamu:",
-        "ketika tuanku masuk ke rumah Rimmon untuk beribadah di sana,",
-        "dan dia bersandar pada tanganku dan aku sujud di rumah Rimmon—",
-        "ketika aku sujud di rumah Rimmon,",
-        "semoga Tuhan mengampuni hambamu dalam hal ini.”"
-      ]
-    },
-    {
-      "verse": 19,
-      "text": [
-        "Dan dia berkata kepadanya, “Pergilah dengan damai.”",
-        "Maka dia berangkat darinya dalam jarak pendek."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 20,
-      "text": [
-        "Tetapi Gehazi, hamba Elisa, abdi Tuhan, berpikir,",
-        "“Lihatlah, tuanku telah menyayangkan orang Aram ini, Naaman, dengan tidak menerima dari tangannya apa yang dia bawa.",
-        "Demi Tuhan yang hidup, aku akan berlari mengejarnya dan mengambil sesuatu darinya.”"
-      ]
-    },
-    {
-      "verse": 21,
-      "text": [
-        "Maka Gehazi mengejar Naaman.",
-        "Ketika Naaman melihat seseorang berlari mengejarnya, dia turun dari kereta untuk menemuinya dan bertanya,",
-        "“Apakah semuanya baik-baik saja?”"
-      ]
-    },
-    {
-      "verse": 22,
-      "text": [
-        "Dan dia berkata,",
-        "“Semuanya baik-baik saja. Tuanku telah mengirim aku, berkata,",
-        "‘Lihatlah, baru saja dua orang muda dari anak-anak nabi datang kepadaku dari daerah pegunungan Efraim.",
-        "Tolong berikan mereka satu talenta perak dan dua pakaian ganti.’”"
-      ]
-    },
-    {
-      "verse": 23,
-      "text": [
-        "Naaman berkata,",
-        "“Tolong ambillah dua talenta.”",
-        "Dan dia mendesaknya dan mengikat dua talenta perak dalam dua kantong dengan dua pakaian ganti,",
-        "dan memberikannya kepada dua hambanya; dan mereka membawanya di depan dia."
-      ]
-    },
-    {
-      "verse": 24,
-      "text": [
-        "Ketika dia sampai di bukit, dia mengambilnya dari tangan mereka dan menyimpannya di rumah,",
-        "dan kemudian menyuruh orang-orang itu pergi, dan mereka pergi."
-      ]
-    },
-    {
-      "verse": 25,
-      "text": [
-        "Tetapi dia masuk dan berdiri di hadapan tuannya.",
-        "Dan Elisa bertanya kepadanya,",
-        "“Dari mana engkau, Gehazi?”",
-        "Dan dia menjawab, “Hambamu tidak pergi ke mana-mana.”"
-      ]
-    },
-    {
-      "verse": 26,
-      "text": [
-        "Kemudian dia berkata kepadanya,",
-        "“Apakah hatiku tidak pergi bersamamu,",
-        "ketika orang itu berbalik dari keretanya untuk menemuimu?",
-        "Apakah ini saatnya untuk menerima uang, dan menerima pakaian, kebun zaitun, kebun anggur, domba, lembu, hamba laki-laki dan perempuan?"
-      ]
-    },
-    {
-      "verse": 27,
-      "text": [
-        "Oleh karena itu, kusta Naaman akan melekat padamu dan keturunanmu selamanya.”",
-        "Maka dia pergi dari hadapannya dengan kusta, seputih salju."
-      ]
-    }
-  ]
+    "book": "2 Raja-raja",
+    "chapter": 5,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Naaman, panglima tentara raja Aram, adalah seorang yang besar di hadapan tuannya dan sangat dihormati,",
+                "karena oleh dia Tuhan telah memberikan kemenangan kepada Aram.",
+                "Orang itu juga seorang pahlawan yang gagah berani, tetapi ia seorang penderita kusta."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Orang Aram telah keluar dalam gerombolan dan telah membawa seorang gadis muda dari tanah Israel sebagai tawanan;",
+                "dan dia melayani istri Naaman."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Dan dia berkata kepada nyonyanya,",
+                "“Sekiranya tuanku berada dengan nabi yang di Samaria!",
+                "Dia pasti akan menyembuhkannya dari kustanya.”"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Maka Naaman pergi dan memberitahu tuannya, katanya,",
+                "“Inilah yang dikatakan gadis yang dari tanah Israel itu.”"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Kemudian raja Aram menjawab,",
+                "“Pergilah sekarang, dan aku akan mengirim surat kepada raja Israel.”",
+                "Maka dia pergi, membawa sepuluh talenta perak, enam ribu syikal emas, dan sepuluh pakaian ganti."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Dan dia membawa surat itu kepada raja Israel, yang berbunyi:",
+                "“Sekarang, ketika surat ini sampai kepadamu, lihatlah, aku telah mengirim Naaman, hambaku, kepadamu,",
+                "supaya engkau dapat menyembuhkannya dari kustanya.”"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Tetapi ketika raja Israel membaca surat itu, dia mengoyakkan pakaiannya dan berkata,",
+                "“Apakah aku ini Tuhan, yang dapat membunuh dan menghidupkan, sehingga orang ini mengirim pesan kepadaku untuk menyembuhkan seorang dari kustanya?",
+                "Tetapi pertimbangkanlah sekarang, dan lihatlah bagaimana dia mencari pertengkaran dengan aku.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Sekarang terjadilah, ketika Elisa, abdi Tuhan, mendengar bahwa raja Israel telah mengoyakkan pakaiannya,",
+                "dia mengirim pesan kepada raja, berkata,",
+                "“Mengapa engkau mengoyakkan pakaianmu? Biarkan dia datang kepadaku, dan dia akan tahu bahwa ada seorang nabi di Israel.”"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Maka Naaman datang dengan kuda-kudanya dan keretanya, dan berdiri di depan pintu rumah Elisa."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Dan Elisa mengirim seorang utusan kepadanya, memberi petunjuk,",
+                "“Pergilah dan mandilah di sungai Yordan tujuh kali,",
+                "dan dagingmu akan dipulihkan kepadamu, dan engkau akan menjadi bersih.”"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Tetapi Naaman marah dan pergi, berkata,",
+                "“Lihatlah, aku berpikir, ‘Dia pasti akan keluar menemuiku dan berdiri,",
+                "dan memanggil nama Tuhan Tuhannya, dan mengayunkan tangannya di atas tempat itu dan menyembuhkan penderita kusta itu.’"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Bukankah Abana dan Parpar, sungai-sungai di Damsyik, lebih baik dari semua air di Israel?",
+                "Tidakkah aku dapat mandi di dalamnya dan menjadi bersih?”",
+                "Maka dia berbalik dan pergi dengan marah."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Kemudian hamba-hambanya mendekat dan berbicara kepadanya, dan berkata,",
+                "“Bapaku, seandainya nabi itu menyuruhmu melakukan sesuatu yang besar, tidakkah engkau akan melakukannya?",
+                "Apalagi sekarang, ketika dia berkata kepadamu, ‘Mandilah, dan jadilah bersih’?”"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Maka dia turun dan membenamkan dirinya tujuh kali di sungai Yordan, sesuai petunjuk abdi Tuhan;",
+                "dan dagingnya dipulihkan seperti daging seorang anak kecil, dan dia menjadi bersih."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Kemudian dia kembali kepada abdi Tuhan dengan seluruh rombongannya, dan datang dan berdiri di hadapannya.",
+                "Dan dia menyatakan,",
+                "“Lihatlah sekarang, aku tahu bahwa tidak ada Tuhan di seluruh bumi, kecuali di Israel;",
+                "jadi tolong terimalah hadiah dari hambamu sekarang.”"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Tetapi dia berkata,",
+                "“Demi Tuhan yang hidup, di hadapan siapa aku berdiri, aku tidak akan menerima apa pun.”",
+                "Dan dia mendesaknya untuk menerimanya, tetapi dia menolak."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Maka Naaman berkata,",
+                "“Jika tidak, tolong biarkan hambamu diberi dua muatan bagal tanah;",
+                "karena hambamu tidak akan lagi mempersembahkan korban bakaran atau korban kepada Tuhan lain, tetapi hanya kepada Tuhan."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Dalam hal ini, semoga Tuhan mengampuni hambamu:",
+                "ketika tuanku masuk ke rumah Rimmon untuk beribadah di sana,",
+                "dan dia bersandar pada tanganku dan aku sujud di rumah Rimmon—",
+                "ketika aku sujud di rumah Rimmon,",
+                "semoga Tuhan mengampuni hambamu dalam hal ini.”"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Dan dia berkata kepadanya, “Pergilah dengan damai.”",
+                "Maka dia berangkat darinya dalam jarak pendek."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Tetapi Gehazi, hamba Elisa, abdi Tuhan, berpikir,",
+                "“Lihatlah, tuanku telah menyayangkan orang Aram ini, Naaman, dengan tidak menerima dari tangannya apa yang dia bawa.",
+                "Demi Tuhan yang hidup, aku akan berlari mengejarnya dan mengambil sesuatu darinya.”"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Maka Gehazi mengejar Naaman.",
+                "Ketika Naaman melihat seseorang berlari mengejarnya, dia turun dari kereta untuk menemuinya dan bertanya,",
+                "“Apakah semuanya baik-baik saja?”"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Dan dia berkata,",
+                "“Semuanya baik-baik saja. Tuanku telah mengirim aku, berkata,",
+                "‘Lihatlah, baru saja dua orang muda dari anak-anak nabi datang kepadaku dari daerah pegunungan Efraim.",
+                "Tolong berikan mereka satu talenta perak dan dua pakaian ganti.’”"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Naaman berkata,",
+                "“Tolong ambillah dua talenta.”",
+                "Dan dia mendesaknya dan mengikat dua talenta perak dalam dua kantong dengan dua pakaian ganti,",
+                "dan memberikannya kepada dua hambanya; dan mereka membawanya di depan dia."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Ketika dia sampai di bukit, dia mengambilnya dari tangan mereka dan menyimpannya di rumah,",
+                "dan kemudian menyuruh orang-orang itu pergi, dan mereka pergi."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Tetapi dia masuk dan berdiri di hadapan tuannya.",
+                "Dan Elisa bertanya kepadanya,",
+                "“Dari mana engkau, Gehazi?”",
+                "Dan dia menjawab, “Hambamu tidak pergi ke mana-mana.”"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Kemudian dia berkata kepadanya,",
+                "“Apakah hatiku tidak pergi bersamamu,",
+                "ketika orang itu berbalik dari keretanya untuk menemuimu?",
+                "Apakah ini saatnya untuk menerima uang, dan menerima pakaian, kebun zaitun, kebun anggur, domba, lembu, hamba laki-laki dan perempuan?"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Oleh karena itu, kusta Naaman akan melekat padamu dan keturunanmu selamanya.”",
+                "Maka dia pergi dari hadapannya dengan kusta, seputih salju."
+            ]
+        }
+    ]
 }

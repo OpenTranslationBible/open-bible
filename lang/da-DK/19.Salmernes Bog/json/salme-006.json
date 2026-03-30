@@ -1,0 +1,97 @@
+{
+    "book": "Salmernes Bog",
+    "chapter": 6,
+    "verses": [
+        {
+            "text": [
+                "Til musiklederen; med strengeinstrumenter, på en otte-strenget lyre. En salme af David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Herre, irettesæt mig ikke i din vrede,",
+                "> Og tugt mig ikke i din harme."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Vis nåde mod mig, Herre, for jeg er svag;",
+                "> Helbred mig, Herre, for mine knogler er i nød."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Og min sjæl er dybt foruroliget;",
+                "> Men du, Herre—hvor længe?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Vend tilbage, Herre, befri min sjæl;",
+                "> Frels mig på grund af din kærlighed."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> For der er ingen, der mindes dig i døden;",
+                "> I Sheol, hvem vil prise dig?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Jeg er udmattet af min stønnen;",
+                "> Hver nat væder jeg min seng,",
+                "> Jeg gennembløder min sofa med mine tårer."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Mit øje er blevet svagt af sorg;",
+                "> Det er ældet på grund af alle mine fjender."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Bort fra mig, alle I, der begår uretfærdighed,",
+                "> For Herren har hørt lyden af min gråd."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Herren har lyttet til min bøn,",
+                "> Herren tager imod min bøn."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Alle mine fjender vil blive gjort til skamme og stærkt foruroligede;",
+                "> De skal vende tilbage, de vil pludselig blive gjort til skamme."
+            ]
+        }
+    ]
+}

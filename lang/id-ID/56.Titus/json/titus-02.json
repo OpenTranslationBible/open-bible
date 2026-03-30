@@ -1,90 +1,96 @@
 {
-  "book": "Titus",
-  "chapter": 2,
-  "verses": [
-    {
-      "verse": 1,
-      "text": ["Tetapi engkau, sampaikanlah apa yang sesuai dengan ajaran yang sehat."]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "Orang-orang tua hendaknya hidup sederhana, terhormat, bijaksana, sehat dalam iman, dalam kasih, dan dalam ketekunan."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "Demikian juga perempuan-perempuan tua hendaknya hidup sebagai orang-orang beribadah, tidak memfitnah, tidak menjadi hamba anggur, melainkan mengajarkan apa yang baik."
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "Dengan demikian mereka dapat mendidik perempuan-perempuan muda untuk mengasihi suami dan anak-anak mereka,"
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "hidup bijaksana, suci, rajin mengurus rumah tangga, baik hati, dan tunduk kepada suami mereka sendiri, supaya firman Tuhan jangan dihujat orang."
-      ]
-    },
-    {
-      "verse": 6,
-      "text": ["Demikian juga orang-orang muda, nasihatilah mereka supaya bijaksana."]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "Dan jadikanlah dirimu sendiri suatu teladan dalam berbuat baik. Dalam pengajaran, tunjukkanlah kemurnian, kehormatan,"
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "dan perkataan yang sehat dan tidak bercela, supaya lawan menjadi malu, karena tidak ada hal buruk yang dapat mereka katakan tentang kita."
-      ]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "Nasihatilah hamba-hamba supaya taat kepada tuan mereka dalam segala hal, dan berkenan kepada mereka, jangan membantah,"
-      ]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "jangan curang, tetapi tunjukkanlah kesetiaan yang sempurna, supaya dengan demikian mereka dapat menghiasi ajaran Tuhan, Juruselamat kita, dalam segala hal."
-      ]
-    },
-    {
-      "verse": 11,
-      "text": ["Karena kasih karunia Tuhan yang menyelamatkan semua manusia sudah nyata."]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "Ia mendidik kita supaya kita meninggalkan kefasikan dan keinginan-keinginan duniawi, dan supaya kita hidup bijaksana, adil, dan beribadah di dalam dunia sekarang ini,"
-      ]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "sambil menantikan penggenapan pengharapan kita yang penuh bahagia dan penyataan kemuliaan Tuhan yang Mahabesar dan Juruselamat kita, Yesus Kristus,"
-      ]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "yang telah menyerahkan diri-Nya bagi kita untuk membebaskan kita dari segala kejahatan dan untuk menguduskan bagi diri-Nya suatu umat milik-Nya sendiri yang rajin berbuat baik."
-      ]
-    },
-    {
-      "verse": 15,
-      "text": [
-        "Berbicaralah tentang semuanya ini, nasihatilah dan tegurlah dengan segala kewibawaan. Jangan ada orang yang menganggap engkau rendah."
-      ]
-    }
-  ]
+    "book": "Titus",
+    "chapter": 2,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Tetapi engkau, sampaikanlah apa yang sesuai dengan ajaran yang sehat."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Orang-orang tua hendaknya hidup sederhana, terhormat, bijaksana, sehat dalam iman, dalam kasih, dan dalam ketekunan."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Demikian juga perempuan-perempuan tua hendaknya hidup sebagai orang-orang beribadah, tidak memfitnah, tidak menjadi hamba anggur, melainkan mengajarkan apa yang baik."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Dengan demikian mereka dapat mendidik perempuan-perempuan muda untuk mengasihi suami dan anak-anak mereka,"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "hidup bijaksana, suci, rajin mengurus rumah tangga, baik hati, dan tunduk kepada suami mereka sendiri, supaya firman Tuhan jangan dihujat orang."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Demikian juga orang-orang muda, nasihatilah mereka supaya bijaksana."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Dan jadikanlah dirimu sendiri suatu teladan dalam berbuat baik. Dalam pengajaran, tunjukkanlah kemurnian, kehormatan,"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "dan perkataan yang sehat dan tidak bercela, supaya lawan menjadi malu, karena tidak ada hal buruk yang dapat mereka katakan tentang kita."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Nasihatilah hamba-hamba supaya taat kepada tuan mereka dalam segala hal, dan berkenan kepada mereka, jangan membantah,"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "jangan curang, tetapi tunjukkanlah kesetiaan yang sempurna, supaya dengan demikian mereka dapat menghiasi ajaran Tuhan, Juruselamat kita, dalam segala hal."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Karena kasih karunia Tuhan yang menyelamatkan semua manusia sudah nyata."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Ia mendidik kita supaya kita meninggalkan kefasikan dan keinginan-keinginan duniawi, dan supaya kita hidup bijaksana, adil, dan beribadah di dalam dunia sekarang ini,"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "sambil menantikan penggenapan pengharapan kita yang penuh bahagia dan penyataan kemuliaan Tuhan yang Mahabesar dan Juruselamat kita, Yesus Kristus,"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "yang telah menyerahkan diri-Nya bagi kita untuk membebaskan kita dari segala kejahatan dan untuk menguduskan bagi diri-Nya suatu umat milik-Nya sendiri yang rajin berbuat baik."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Berbicaralah tentang semuanya ini, nasihatilah dan tegurlah dengan segala kewibawaan. Jangan ada orang yang menganggap engkau rendah."
+            ]
+        }
+    ]
 }

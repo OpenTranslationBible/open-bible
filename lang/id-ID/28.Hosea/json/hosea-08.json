@@ -1,117 +1,123 @@
 {
-  "book": "Hosea",
-  "chapter": 8,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "> Tiuplah sangkakala!",
-        "> Seperti rajawali, musuh datang melawan rumah Tuhan,",
-        "> Karena mereka telah melanggar perjanjian-Ku",
-        "> Dan menentang hukum-Ku."
-      ]
-    },
-    {
-      "verse": 2,
-      "text": ["> Mereka berseru kepada-Ku,", "> “Ya Tuhan, kami orang Israel mengenal Engkau!”"]
-    },
-    {
-      "verse": 3,
-      "text": ["> Israel telah berpaling dari yang baik;", "> Musuh akan mengejarnya."]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "> Mereka telah mendirikan raja-raja, tetapi bukan atas perintah-Ku;",
-        "> Mereka telah mengangkat pejabat-pejabat, tetapi Aku tidak dikonsultasikan.",
-        "> Dengan perak dan emas mereka, mereka telah membuat patung-patung untuk diri mereka sendiri,",
-        "> Sehingga mereka akan disingkirkan."
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "> Dia telah menolak anak lembumu, Samaria, menyatakan,",
-        "> “Amarah-Ku menyala terhadap mereka!”",
-        "> Berapa lama mereka tidak mampu tetap tidak bersalah?"
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "> Karena dari Israel datang bahkan ini!",
-        "> Seorang pengrajin membuatnya, jadi itu bukan Tuhan;",
-        "> Pastilah anak lembu Samaria akan dihancurkan."
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "> Karena mereka menabur angin",
-        "> Dan mereka menuai puting beliung.",
-        "> Gandum yang berdiri tidak memiliki biji;",
-        "> Itu tidak menghasilkan gandum.",
-        "> Jika itu menghasilkan, orang asing akan memakannya."
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "> Israel telah dikonsumsi;",
-        "> Mereka sekarang di antara bangsa-bangsa",
-        "> Seperti bejana yang tidak disukai siapa pun."
-      ]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "> Karena mereka telah pergi ke Asyur,",
-        "> Seperti keledai liar yang sendirian;",
-        "> Efraim telah menyewa kekasih."
-      ]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "> Meskipun mereka menyewa sekutu di antara bangsa-bangsa,",
-        "> Aku akan mengumpulkan mereka sekarang;",
-        "> Dan mereka akan mulai berkurang",
-        "> Karena beban raja pejabat."
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "> Karena Efraim telah memperbanyak mezbah untuk dosa,",
-        "> Mereka telah menjadi mezbah dosa baginya."
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "> Meskipun Aku menuliskan baginya ajaran-ajaran hukum-Ku yang tak terhitung,",
-        "> Itu dipandang sebagai sesuatu yang asing."
-      ]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "> Mengenai persembahan kurban-Ku,",
-        "> Mereka mengorbankan daging dan memakannya,",
-        "> Tetapi Tuhan tidak menerimanya.",
-        "> Sekarang Dia akan mengingat kesalahan mereka",
-        "> Dan menghukum mereka karena dosa-dosa mereka;",
-        "> Mereka akan kembali ke Mesir."
-      ]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "> Karena Israel telah melupakan Penciptanya dan membangun istana-istana;",
-        "> Dan Yehuda telah memperbanyak kota-kota berbenteng,",
-        "> Tetapi Aku akan mengirimkan api ke kota-kotanya,",
-        "> Dan itu akan menghanguskan benteng-bentengnya."
-      ]
-    }
-  ]
+    "book": "Hosea",
+    "chapter": 8,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> Tiuplah sangkakala!",
+                "> Seperti rajawali, musuh datang melawan rumah Tuhan,",
+                "> Karena mereka telah melanggar perjanjian-Ku",
+                "> Dan menentang hukum-Ku."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Mereka berseru kepada-Ku,",
+                "> “Ya Tuhan, kami orang Israel mengenal Engkau!”"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Israel telah berpaling dari yang baik;",
+                "> Musuh akan mengejarnya."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Mereka telah mendirikan raja-raja, tetapi bukan atas perintah-Ku;",
+                "> Mereka telah mengangkat pejabat-pejabat, tetapi Aku tidak dikonsultasikan.",
+                "> Dengan perak dan emas mereka, mereka telah membuat patung-patung untuk diri mereka sendiri,",
+                "> Sehingga mereka akan disingkirkan."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Dia telah menolak anak lembumu, Samaria, menyatakan,",
+                "> “Amarah-Ku menyala terhadap mereka!”",
+                "> Berapa lama mereka tidak mampu tetap tidak bersalah?"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Karena dari Israel datang bahkan ini!",
+                "> Seorang pengrajin membuatnya, jadi itu bukan Tuhan;",
+                "> Pastilah anak lembu Samaria akan dihancurkan."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Karena mereka menabur angin",
+                "> Dan mereka menuai puting beliung.",
+                "> Gandum yang berdiri tidak memiliki biji;",
+                "> Itu tidak menghasilkan gandum.",
+                "> Jika itu menghasilkan, orang asing akan memakannya."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Israel telah dikonsumsi;",
+                "> Mereka sekarang di antara bangsa-bangsa",
+                "> Seperti bejana yang tidak disukai siapa pun."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Karena mereka telah pergi ke Asyur,",
+                "> Seperti keledai liar yang sendirian;",
+                "> Efraim telah menyewa kekasih."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Meskipun mereka menyewa sekutu di antara bangsa-bangsa,",
+                "> Aku akan mengumpulkan mereka sekarang;",
+                "> Dan mereka akan mulai berkurang",
+                "> Karena beban raja pejabat."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Karena Efraim telah memperbanyak mezbah untuk dosa,",
+                "> Mereka telah menjadi mezbah dosa baginya."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Meskipun Aku menuliskan baginya ajaran-ajaran hukum-Ku yang tak terhitung,",
+                "> Itu dipandang sebagai sesuatu yang asing."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Mengenai persembahan kurban-Ku,",
+                "> Mereka mengorbankan daging dan memakannya,",
+                "> Tetapi Tuhan tidak menerimanya.",
+                "> Sekarang Dia akan mengingat kesalahan mereka",
+                "> Dan menghukum mereka karena dosa-dosa mereka;",
+                "> Mereka akan kembali ke Mesir."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Karena Israel telah melupakan Penciptanya dan membangun istana-istana;",
+                "> Dan Yehuda telah memperbanyak kota-kota berbenteng,",
+                "> Tetapi Aku akan mengirimkan api ke kota-kotanya,",
+                "> Dan itu akan menghanguskan benteng-bentengnya."
+            ]
+        }
+    ]
 }

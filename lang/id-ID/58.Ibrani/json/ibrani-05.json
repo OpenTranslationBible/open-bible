@@ -1,90 +1,94 @@
 {
-  "book": "Ibrani",
-  "chapter": 5,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "Setiap imam besar dipilih dari antara manusia dan ditetapkan untuk bertindak bagi manusia dalam hal-hal yang berhubungan dengan Tuhan, untuk mempersembahkan baik pemberian maupun korban untuk dosa."
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "Ia dapat berlaku lembut terhadap mereka yang tidak tahu dan yang sesat, karena ia sendiri juga tunduk pada kelemahan."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "Karena itu, ia diwajibkan untuk mempersembahkan korban untuk dosa-dosanya sendiri, serta untuk dosa-dosa orang-orang."
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "Dan tidak seorang pun mengambil kehormatan ini untuk dirinya sendiri, tetapi ia menerimanya ketika dipanggil oleh Tuhan, seperti halnya Harun."
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "Demikian juga, Kristus tidak memuliakan Diri-Nya sendiri dengan menjadi imam besar, tetapi Tuhan yang berkata kepada-Nya,",
-        "> “Engkau adalah Anak-Ku;",
-        "> pada hari ini Aku telah memperanakkan Engkau.”"
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "Ia juga menyatakan di tempat lain,",
-        "> “Engkau adalah imam untuk selama-lamanya,",
-        "> menurut peraturan Melkisedek.”"
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "Selama hari-hari kehidupan-Nya di bumi, Ia mempersembahkan doa dan permohonan dengan seruan yang keras dan air mata kepada Dia yang dapat menyelamatkan-Nya dari maut, dan Ia didengar karena ketundukan-Nya yang penuh hormat."
-      ]
-    },
-    {
-      "verse": 8,
-      "text": ["Meskipun Ia adalah Anak, Ia belajar taat melalui pengalaman yang Ia derita."]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "Dan setelah mencapai kesempurnaan, Ia menjadi sumber keselamatan kekal bagi semua orang yang taat kepada-Nya,"
-      ]
-    },
-    {
-      "verse": 10,
-      "text": ["ditetapkan oleh Tuhan sebagai imam besar menurut peraturan Melkisedek."]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "Kami memiliki banyak hal untuk dikatakan tentang ini, tetapi sulit untuk dijelaskan, karena kamu telah menjadi lamban untuk mengerti."
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "Sebab meskipun pada saat ini kamu seharusnya sudah menjadi pengajar, kamu memerlukan seseorang untuk mengajar kamu lagi prinsip-prinsip dasar dari firman Tuhan. Kamu memerlukan susu, bukan makanan keras!"
-      ]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "Karena siapa pun yang hidup dengan susu tidak mengenal ajaran tentang kebenaran, karena ia masih bayi."
-      ]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "Tetapi makanan keras adalah untuk orang dewasa, yang melalui latihan terus-menerus telah melatih diri mereka untuk membedakan yang baik dari yang jahat."
-      ]
-    }
-  ]
+    "book": "Ibrani",
+    "chapter": 5,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Setiap imam besar dipilih dari antara manusia dan ditetapkan untuk bertindak bagi manusia dalam hal-hal yang berhubungan dengan Tuhan, untuk mempersembahkan baik pemberian maupun korban untuk dosa."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Ia dapat berlaku lembut terhadap mereka yang tidak tahu dan yang sesat, karena ia sendiri juga tunduk pada kelemahan."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Karena itu, ia diwajibkan untuk mempersembahkan korban untuk dosa-dosanya sendiri, serta untuk dosa-dosa orang-orang."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Dan tidak seorang pun mengambil kehormatan ini untuk dirinya sendiri, tetapi ia menerimanya ketika dipanggil oleh Tuhan, seperti halnya Harun."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Demikian juga, Kristus tidak memuliakan Diri-Nya sendiri dengan menjadi imam besar, tetapi Tuhan yang berkata kepada-Nya,",
+                "> “Engkau adalah Anak-Ku;",
+                "> pada hari ini Aku telah memperanakkan Engkau.”"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Ia juga menyatakan di tempat lain,",
+                "> “Engkau adalah imam untuk selama-lamanya,",
+                "> menurut peraturan Melkisedek.”"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Selama hari-hari kehidupan-Nya di bumi, Ia mempersembahkan doa dan permohonan dengan seruan yang keras dan air mata kepada Dia yang dapat menyelamatkan-Nya dari maut, dan Ia didengar karena ketundukan-Nya yang penuh hormat."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Meskipun Ia adalah Anak, Ia belajar taat melalui pengalaman yang Ia derita."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Dan setelah mencapai kesempurnaan, Ia menjadi sumber keselamatan kekal bagi semua orang yang taat kepada-Nya,"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "ditetapkan oleh Tuhan sebagai imam besar menurut peraturan Melkisedek."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Kami memiliki banyak hal untuk dikatakan tentang ini, tetapi sulit untuk dijelaskan, karena kamu telah menjadi lamban untuk mengerti."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Sebab meskipun pada saat ini kamu seharusnya sudah menjadi pengajar, kamu memerlukan seseorang untuk mengajar kamu lagi prinsip-prinsip dasar dari firman Tuhan. Kamu memerlukan susu, bukan makanan keras!"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Karena siapa pun yang hidup dengan susu tidak mengenal ajaran tentang kebenaran, karena ia masih bayi."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Tetapi makanan keras adalah untuk orang dewasa, yang melalui latihan terus-menerus telah melatih diri mereka untuk membedakan yang baik dari yang jahat."
+            ]
+        }
+    ]
 }

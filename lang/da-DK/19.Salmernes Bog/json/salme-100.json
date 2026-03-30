@@ -1,0 +1,48 @@
+{
+    "book": "Salmernes Bog",
+    "chapter": 100,
+    "verses": [
+        {
+            "text": [
+                "En takkesalme."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Råb af glæde for Herren, hele jorden."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Tjen Herren med glæde;",
+                "> Kom frem for ham med frydefuld sang."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Erkend, at Herren er Gud;",
+                "> Han har skabt os, og vi skabte ikke os selv;",
+                "> Vi tilhører ham, flokken under hans omsorg."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Gå ind i hans porte med taksigelse,",
+                "> Og hans forgårde med lovsang.",
+                "> Tak ham, ær hans navn."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> For Herren er god;",
+                "> Hans godhed varer evigt,",
+                "> Og hans trofasthed fortsætter gennem alle generationer."
+            ]
+        }
+    ]
+}

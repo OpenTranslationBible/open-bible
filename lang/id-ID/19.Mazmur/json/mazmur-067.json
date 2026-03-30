@@ -1,58 +1,73 @@
 {
-  "book": "Mazmur",
-  "chapter": 67,
-  "verses": [
-    {
-      "text": ["Untuk pemimpin musik; dengan alat musik petik. Sebuah Mazmur. Sebuah Nyanyian."]
-    },
-    {
-      "verse": 1,
-      "text": [
-        "> Kiranya Tuhan mengasihani kita dan memberkati kita,",
-        "> Dan menyinari kita dengan wajah-Nya—",
-        "> Sela"
-      ]
-    },
-    {
-      "verse": 2,
-      "text": ["> Supaya jalan-Mu dikenal di bumi,", "> Keselamatan-Mu di antara segala bangsa."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "> Kiranya bangsa-bangsa bersyukur kepada-Mu, ya Tuhan;",
-        "> Kiranya semua bangsa bersyukur kepada-Mu."
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "> Kiranya bangsa-bangsa bersukacita dan bernyanyi dengan gembira;",
-        "> Karena Engkau akan menghakimi bangsa-bangsa dengan adil",
-        "> Dan memimpin bangsa-bangsa di bumi.",
-        "> Sela"
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "> Kiranya bangsa-bangsa bersyukur kepada-Mu, ya Tuhan;",
-        "> Kiranya semua bangsa bersyukur kepada-Mu."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 6,
-      "text": ["> Bumi telah memberikan hasilnya;", "> Tuhan, Tuhan kita, memberkati kita."]
-    },
-    {
-      "verse": 7,
-      "text": ["> Tuhan memberkati kita,", "> Supaya segala ujung bumi takut akan Dia."]
-    }
-  ]
+    "book": "Mazmur",
+    "chapter": 67,
+    "verses": [
+        {
+            "text": [
+                "Untuk pemimpin musik; dengan alat musik petik. Sebuah Mazmur. Sebuah Nyanyian."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Kiranya Tuhan mengasihani kita dan memberkati kita,",
+                "> Dan menyinari kita dengan wajah-Nya—",
+                "> Sela"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Supaya jalan-Mu dikenal di bumi,",
+                "> Keselamatan-Mu di antara segala bangsa."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Kiranya bangsa-bangsa bersyukur kepada-Mu, ya Tuhan;",
+                "> Kiranya semua bangsa bersyukur kepada-Mu."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Kiranya bangsa-bangsa bersukacita dan bernyanyi dengan gembira;",
+                "> Karena Engkau akan menghakimi bangsa-bangsa dengan adil",
+                "> Dan memimpin bangsa-bangsa di bumi.",
+                "> Sela"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Kiranya bangsa-bangsa bersyukur kepada-Mu, ya Tuhan;",
+                "> Kiranya semua bangsa bersyukur kepada-Mu."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Bumi telah memberikan hasilnya;",
+                "> Tuhan, Tuhan kita, memberkati kita."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Tuhan memberkati kita,",
+                "> Supaya segala ujung bumi takut akan Dia."
+            ]
+        }
+    ]
 }

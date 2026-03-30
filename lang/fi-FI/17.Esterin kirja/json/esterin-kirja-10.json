@@ -1,0 +1,24 @@
+{
+    "book": "Ester",
+    "chapter": 10,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Kuningas Ahasveros määräsi veron maalle ja meren saarille."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Kaikki hänen voimansa ja mahtinsa teot sekä täydellinen kertomus Mordokain suuruudesta, jota kuningas kunnioitti, eivätkö ne ole kirjoitettu Meedian ja Persian kuninkaiden aikakirjaan?"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Juudan Mordokai oli toisena kuningas Ahasveroksen jälkeen, arvostettu juutalaisten keskuudessa ja korkeassa asemassa monien sukulaistensa joukossa, sillä hän etsi kansansa parasta ja puhui koko kansakuntansa hyvinvoinnin puolesta."
+            ]
+        }
+    ]
+}

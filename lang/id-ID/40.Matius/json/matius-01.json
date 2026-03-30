@@ -1,148 +1,156 @@
 {
-  "book": "Matius",
-  "chapter": 1,
-  "verses": [
-    {
-      "verse": 1,
-      "text": ["Inilah silsilah Yesus Kristus, anak Daud, anak Abraham:"]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "Abraham memperanakkan Ishak, Ishak memperanakkan Yakub, dan Yakub memperanakkan Yehuda dan saudara-saudaranya,"
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "Yehuda memperanakkan Peres dan Zerah dari Tamar; Peres memperanakkan Hezron, dan Hezron memperanakkan Ram,"
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "Ram memperanakkan Aminadab, Aminadab memperanakkan Nahason, dan Nahason memperanakkan Salmon,"
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "Salmon memperanakkan Boas dari Rahab; Boas memperanakkan Obed dari Rut; dan Obed memperanakkan Isai,"
-      ]
-    },
-    {
-      "verse": 6,
-      "text": ["dan Isai memperanakkan Raja Daud. Daud memperanakkan Salomo dari istri Uria,"]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "Salomo memperanakkan Rehabeam, Rehabeam memperanakkan Abia, dan Abia memperanakkan Asa,"
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "Asa memperanakkan Yosafat, Yosafat memperanakkan Yoram, dan Yoram memperanakkan Uzia,"
-      ]
-    },
-    {
-      "verse": 9,
-      "text": ["Uzia memperanakkan Yotam, Yotam memperanakkan Ahas, dan Ahas memperanakkan Hizkia,"]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "Hizkia memperanakkan Manasye, Manasye memperanakkan Amon, dan Amon memperanakkan Yosia,"
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "dan Yosia memperanakkan Yekhonya dan saudara-saudaranya pada waktu pembuangan ke Babel."
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "Setelah pembuangan ke Babel: Yekhonya memperanakkan Sealtiel, dan Sealtiel memperanakkan Zerubabel,"
-      ]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "Zerubabel memperanakkan Abihud, Abihud memperanakkan Elyakim, dan Elyakim memperanakkan Azor,"
-      ]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "Azor memperanakkan Zadok, Zadok memperanakkan Akhim, dan Akhim memperanakkan Eliud,"
-      ]
-    },
-    {
-      "verse": 15,
-      "text": [
-        "Eliud memperanakkan Eleazar, Eleazar memperanakkan Matan, dan Matan memperanakkan Yakub,"
-      ]
-    },
-    {
-      "verse": 16,
-      "text": [
-        "dan Yakub memperanakkan Yusuf, suami Maria, yang melahirkan Yesus, yang disebut Kristus."
-      ]
-    },
-    {
-      "verse": 17,
-      "text": [
-        "Jadi, semua keturunan dari Abraham sampai Daud ada empat belas keturunan; dari Daud sampai pembuangan ke Babel, empat belas keturunan; dan dari pembuangan ke Kristus, empat belas keturunan."
-      ]
-    },
-    {
-      "verse": 18,
-      "text": [
-        "Kelahiran Yesus Kristus terjadi dengan cara ini: Ketika Maria, ibu-Nya, bertunangan dengan Yusuf, sebelum mereka bersatu, ternyata ia mengandung dari Roh Kudus."
-      ]
-    },
-    {
-      "verse": 19,
-      "text": [
-        "Yusuf, suaminya, seorang yang benar dan tidak ingin mempermalukannya, bermaksud menceraikannya secara diam-diam."
-      ]
-    },
-    {
-      "verse": 20,
-      "text": [
-        "Tetapi ketika ia mempertimbangkan hal ini, malaikat Tuhan menampakkan diri kepadanya dalam mimpi, berkata, “Yusuf, anak Daud, jangan takut mengambil Maria sebagai istrimu, karena yang dikandungnya adalah dari Roh Kudus."
-      ]
-    },
-    {
-      "verse": 21,
-      "text": [
-        "Ia akan melahirkan seorang anak laki-laki, dan engkau akan menamakan Dia Yesus, karena Dialah yang akan menyelamatkan umat-Nya dari dosa mereka.”"
-      ]
-    },
-    {
-      "verse": 22,
-      "text": ["Semua ini terjadi untuk menggenapi apa yang telah difirmankan Tuhan melalui nabi:"]
-    },
-    {
-      "verse": 23,
-      "text": [
-        "“Lihatlah, seorang perawan akan mengandung dan melahirkan seorang anak laki-laki, dan mereka akan menamakan Dia Imanuel,” yang berarti “Tuhan menyertai kita.”"
-      ]
-    },
-    {
-      "verse": 24,
-      "text": [
-        "Ketika Yusuf bangun dari tidurnya, ia melakukan seperti yang diperintahkan malaikat Tuhan kepadanya dan mengambil Maria sebagai istrinya,"
-      ]
-    },
-    {
-      "verse": 25,
-      "text": [
-        "tetapi tidak bersetubuh dengannya sampai ia melahirkan seorang anak laki-laki; dan ia menamakan Dia Yesus."
-      ]
-    }
-  ]
+    "book": "Matius",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Inilah silsilah Yesus Kristus, anak Daud, anak Abraham:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Abraham memperanakkan Ishak, Ishak memperanakkan Yakub, dan Yakub memperanakkan Yehuda dan saudara-saudaranya,"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Yehuda memperanakkan Peres dan Zerah dari Tamar; Peres memperanakkan Hezron, dan Hezron memperanakkan Ram,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Ram memperanakkan Aminadab, Aminadab memperanakkan Nahason, dan Nahason memperanakkan Salmon,"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Salmon memperanakkan Boas dari Rahab; Boas memperanakkan Obed dari Rut; dan Obed memperanakkan Isai,"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "dan Isai memperanakkan Raja Daud. Daud memperanakkan Salomo dari istri Uria,"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Salomo memperanakkan Rehabeam, Rehabeam memperanakkan Abia, dan Abia memperanakkan Asa,"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Asa memperanakkan Yosafat, Yosafat memperanakkan Yoram, dan Yoram memperanakkan Uzia,"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Uzia memperanakkan Yotam, Yotam memperanakkan Ahas, dan Ahas memperanakkan Hizkia,"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Hizkia memperanakkan Manasye, Manasye memperanakkan Amon, dan Amon memperanakkan Yosia,"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "dan Yosia memperanakkan Yekhonya dan saudara-saudaranya pada waktu pembuangan ke Babel."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Setelah pembuangan ke Babel: Yekhonya memperanakkan Sealtiel, dan Sealtiel memperanakkan Zerubabel,"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Zerubabel memperanakkan Abihud, Abihud memperanakkan Elyakim, dan Elyakim memperanakkan Azor,"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Azor memperanakkan Zadok, Zadok memperanakkan Akhim, dan Akhim memperanakkan Eliud,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Eliud memperanakkan Eleazar, Eleazar memperanakkan Matan, dan Matan memperanakkan Yakub,"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "dan Yakub memperanakkan Yusuf, suami Maria, yang melahirkan Yesus, yang disebut Kristus."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Jadi, semua keturunan dari Abraham sampai Daud ada empat belas keturunan; dari Daud sampai pembuangan ke Babel, empat belas keturunan; dan dari pembuangan ke Kristus, empat belas keturunan."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Kelahiran Yesus Kristus terjadi dengan cara ini: Ketika Maria, ibu-Nya, bertunangan dengan Yusuf, sebelum mereka bersatu, ternyata ia mengandung dari Roh Kudus."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Yusuf, suaminya, seorang yang benar dan tidak ingin mempermalukannya, bermaksud menceraikannya secara diam-diam."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Tetapi ketika ia mempertimbangkan hal ini, malaikat Tuhan menampakkan diri kepadanya dalam mimpi, berkata, “Yusuf, anak Daud, jangan takut mengambil Maria sebagai istrimu, karena yang dikandungnya adalah dari Roh Kudus."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Ia akan melahirkan seorang anak laki-laki, dan engkau akan menamakan Dia Yesus, karena Dialah yang akan menyelamatkan umat-Nya dari dosa mereka.”"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Semua ini terjadi untuk menggenapi apa yang telah difirmankan Tuhan melalui nabi:"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "“Lihatlah, seorang perawan akan mengandung dan melahirkan seorang anak laki-laki, dan mereka akan menamakan Dia Imanuel,” yang berarti “Tuhan menyertai kita.”"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Ketika Yusuf bangun dari tidurnya, ia melakukan seperti yang diperintahkan malaikat Tuhan kepadanya dan mengambil Maria sebagai istrinya,"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "tetapi tidak bersetubuh dengannya sampai ia melahirkan seorang anak laki-laki; dan ia menamakan Dia Yesus."
+            ]
+        }
+    ]
 }

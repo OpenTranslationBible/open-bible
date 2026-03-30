@@ -1,158 +1,180 @@
 {
-  "book": "Mazmur",
-  "chapter": 80,
-  "verses": [
-    {
-      "text": ["Untuk pemimpin musik; menurut lagu Shoshannim, Eduth. Mazmur Asaf."]
-    },
-    {
-      "verse": 1,
-      "text": [
-        "> Dengarlah, Gembala Israel,",
-        "> Yang memimpin Yusuf seperti kawanan domba;",
-        "> Engkau yang bertakhta di atas kerub, bersinarlah!"
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "> Bangkitkanlah kekuatan-Mu di hadapan Efraim, Benyamin, dan Manasye,",
-        "> Dan datanglah menyelamatkan kami!"
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "> Ya Tuhan, bawalah kami kembali",
-        "> Dan biarlah wajah-Mu bersinar atas kami, supaya kami diselamatkan."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "> Tuhan Tuhan semesta alam,",
-        "> Berapa lama Engkau akan murka terhadap doa umat-Mu?"
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "> Engkau telah memberi mereka roti air mata,",
-        "> Dan Engkau telah membuat mereka minum air mata berlimpah."
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "> Engkau membuat kami menjadi sumber perselisihan bagi tetangga kami,",
-        "> Dan musuh-musuh kami menertawakan kami di antara mereka."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "> Tuhan semesta alam, bawalah kami kembali",
-        "> Dan biarlah wajah-Mu bersinar atas kami, supaya kami diselamatkan."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "> Engkau membawa pohon anggur dari Mesir;",
-        "> Engkau mengusir bangsa-bangsa dan menanamnya."
-      ]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "> Engkau menyiapkan tanah untuknya,",
-        "> Dan ia berakar dalam dan memenuhi tanah itu."
-      ]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "> Bayangannya menutupi gunung-gunung,",
-        "> Dan cabang-cabangnya mencapai pohon-pohon aras yang perkasa."
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "> Ia memanjangkan cabang-cabangnya ke laut",
-        "> Dan tunas-tunasnya ke Sungai Efrat."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "> Mengapa Engkau merobohkan tembok-temboknya,",
-        "> Sehingga semua yang lewat di jalan memetik buahnya?"
-      ]
-    },
-    {
-      "verse": 13,
-      "text": ["> Babi hutan merusaknya,", "> Dan apa saja yang bergerak di ladang memakannya."]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "> Tuhan semesta alam, kembalilah;",
-        "> Pandanglah dari surga dan lihatlah, dan rawatlah pohon anggur ini,"
-      ]
-    },
-    {
-      "verse": 15,
-      "text": [
-        "> Akar yang ditanam oleh tangan kanan-Mu,",
-        "> Dan anak yang Engkau bangkitkan untuk diri-Mu."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 16,
-      "text": ["> Ia dimakan api, ia ditebang;", "> Mereka binasa di hadapan teguran wajah-Mu."]
-    },
-    {
-      "verse": 17,
-      "text": [
-        "> Biarlah tangan-Mu beristirahat atas orang di tangan kanan-Mu,",
-        "> Atas anak manusia yang telah Engkau kuatkan untuk diri-Mu."
-      ]
-    },
-    {
-      "verse": 18,
-      "text": [
-        "> Maka kami tidak akan berpaling dari-Mu;",
-        "> Hidupkanlah kami, dan kami akan memanggil nama-Mu."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 19,
-      "text": [
-        "> Tuhan Tuhan semesta alam, bawalah kami kembali;",
-        "> Biarlah wajah-Mu bersinar atas kami, supaya kami diselamatkan."
-      ]
-    }
-  ]
+    "book": "Mazmur",
+    "chapter": 80,
+    "verses": [
+        {
+            "text": [
+                "Untuk pemimpin musik; menurut lagu Shoshannim, Eduth. Mazmur Asaf."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Dengarlah, Gembala Israel,",
+                "> Yang memimpin Yusuf seperti kawanan domba;",
+                "> Engkau yang bertakhta di atas kerub, bersinarlah!"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Bangkitkanlah kekuatan-Mu di hadapan Efraim, Benyamin, dan Manasye,",
+                "> Dan datanglah menyelamatkan kami!"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Ya Tuhan, bawalah kami kembali",
+                "> Dan biarlah wajah-Mu bersinar atas kami, supaya kami diselamatkan."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Tuhan Tuhan semesta alam,",
+                "> Berapa lama Engkau akan murka terhadap doa umat-Mu?"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Engkau telah memberi mereka roti air mata,",
+                "> Dan Engkau telah membuat mereka minum air mata berlimpah."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Engkau membuat kami menjadi sumber perselisihan bagi tetangga kami,",
+                "> Dan musuh-musuh kami menertawakan kami di antara mereka."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Tuhan semesta alam, bawalah kami kembali",
+                "> Dan biarlah wajah-Mu bersinar atas kami, supaya kami diselamatkan."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Engkau membawa pohon anggur dari Mesir;",
+                "> Engkau mengusir bangsa-bangsa dan menanamnya."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Engkau menyiapkan tanah untuknya,",
+                "> Dan ia berakar dalam dan memenuhi tanah itu."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Bayangannya menutupi gunung-gunung,",
+                "> Dan cabang-cabangnya mencapai pohon-pohon aras yang perkasa."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Ia memanjangkan cabang-cabangnya ke laut",
+                "> Dan tunas-tunasnya ke Sungai Efrat."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Mengapa Engkau merobohkan tembok-temboknya,",
+                "> Sehingga semua yang lewat di jalan memetik buahnya?"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Babi hutan merusaknya,",
+                "> Dan apa saja yang bergerak di ladang memakannya."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Tuhan semesta alam, kembalilah;",
+                "> Pandanglah dari surga dan lihatlah, dan rawatlah pohon anggur ini,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Akar yang ditanam oleh tangan kanan-Mu,",
+                "> Dan anak yang Engkau bangkitkan untuk diri-Mu."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Ia dimakan api, ia ditebang;",
+                "> Mereka binasa di hadapan teguran wajah-Mu."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Biarlah tangan-Mu beristirahat atas orang di tangan kanan-Mu,",
+                "> Atas anak manusia yang telah Engkau kuatkan untuk diri-Mu."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Maka kami tidak akan berpaling dari-Mu;",
+                "> Hidupkanlah kami, dan kami akan memanggil nama-Mu."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Tuhan Tuhan semesta alam, bawalah kami kembali;",
+                "> Biarlah wajah-Mu bersinar atas kami, supaya kami diselamatkan."
+            ]
+        }
+    ]
 }

@@ -1,0 +1,435 @@
+{
+    "book": "1 Mambo ya Nyakati Sura ya",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Adamu, Sethi, na Enoshi,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Kenani, Mahalaleli, na Yaredi,"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Henoko, Methusela, na Lameki,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Nuhu, pamoja na wanawe:",
+                "> Shemu, Hamu, na Yafethi."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Wana wa Yafethi walikuwa:",
+                "> Gomeri, Magogu, Madai, Yavani, Tubali, Mesheki, na Tirasi."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Wana wa Gomeri walikuwa:",
+                "> Ashkenazi, Diphathi, na Togarma."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Ukoo wa Yavani ulijumuisha:",
+                "> Elisha, Tarshishi, Kitimu, na Rodanimu."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Wana wa Hamu walikuwa:",
+                "> Kushi, Misri, Puti, na Kanaani."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Wana wa Kushi walikuwa:",
+                "> Seba, Havila, Sabta, Raama, na Sabteka.",
+                "> Na wana wa Raama walikuwa:",
+                "> Sheba na Dedani."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Kushi alikuwa baba wa Nimrodi;",
+                "> akawa mtu hodari duniani."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Misri alikuwa baba wa ukoo wa",
+                "> Ludi, Anamu, Lehabu, Naftuhu,"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Pathrusi, Kasluhu (ambao Wafilisti walitoka), na Kaftori."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Kanaani alikuwa baba wa",
+                "> Sidoni, mzaliwa wake wa kwanza, na Hethi,"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "na Myebusi, Mwamori, na Mgirgashi,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "na Mhivi, Mwaruki, na Msini,"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "na Mwarvadi, Mzemari, na Mhamathi."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Wana wa Shemu walikuwa:",
+                "> Elamu, Ashuru, Arfaksadi, Ludi, Aramu,",
+                "> Wana wa Aramu walikuwa",
+                "> Usi, Huli, Getheri, na Mesheki."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Arfaksadi alikuwa baba wa Shela,",
+                "na Shela alikuwa baba wa Eberi."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Eberi alikuwa na wana wawili:",
+                "> mmoja aliitwa Pelegi, kwa maana katika siku zake dunia iligawanyika;",
+                "> na ndugu yake aliitwa Yoktani."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Wazao wa Yoktani walikuwa:",
+                "> Almodadi, Shelefu, Hazarmavethi, Yera,"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Hadoramu, na Uzali, na Dikla,"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Ebali, Abimaeli, na Sheba,"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Ofiri, Havila, na Yobabu.",
+                "Hawa wote walikuwa wana wa Yoktani."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Shemu, Arfaksadi, na Shela,"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> Eberi, Pelegi, na Reu,"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> Serugi, Nahori, na Tera,"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> na Abramu, ambaye pia anajulikana kama Abrahamu."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> Wana wa Abrahamu walikuwa:",
+                "> walioitwa Isaka na Ishmaeli."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Hizi ndizo kizazi chao:",
+                "> Mzaliwa wa kwanza wa Ishmaeli alikuwa Nebayothi, akifuatiwa na Kedari, Adbeeli, na Mibsamu,"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Mishma, Duma, Masa, Hadadi, na Tema,"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Yeturi, Nafishi, na Kedema.",
+                "Hawa walikuwa wazao wa Ishmaeli."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Wana wa Ketura, suria wa Abrahamu, aliowazaa:",
+                "> Zimrani, Yokshani, Medani, Midiani, Ishbaki, na Shua.",
+                "> Wana wa Yokshani walikuwa:",
+                "> Sheba na Dedani."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Wana wa Midiani walikuwa:",
+                "> Efai, Eferi, Hanoki, Abida, na Eldaa.",
+                "> Hawa wote walikuwa wana wa Ketura."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Abrahamu alimzaa Isaka.",
+                "> Wana wa Isaka walikuwa:",
+                "> Esau na Israeli."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Wana wa Esau walikuwa:",
+                "> Elifazi, Reueli, na Yeushi; Yalamu, na Kora."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Wana wa Elifazi walikuwa:",
+                "> Temani, Omari, Sefo, Gatamu, Kenazi, Timna, na Amaleki."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Wana wa Reueli walikuwa:",
+                "> Nahathi, na Zera; Shama, na Miza."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Wana wa Seiri walikuwa:",
+                "> Lotani, Shobali, na Zibeoni; Ana, Dishoni, Ezeri, na Dishani."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Wana wa Lotani walikuwa:",
+                "> Hori na Homamu; na Timna alikuwa dada wa Lotani."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Wana wa Shobali walikuwa:",
+                "> Aliani, Manahathi, Ebali, Shefi, na Onamu.",
+                "> Na wana wa Zibeoni walikuwa:",
+                "> Aya na Ana."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Mwana wa Ana alikuwa:",
+                "> Dishoni.",
+                "> Na wana wa Dishoni walikuwa:",
+                "> Hamrani, Eshbani, Ithrani, na Cherani."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Wana wa Ezeri walikuwa:",
+                "> Bilhani, Zaavani, na Yaakani.",
+                "> Wana wa Dishani walikuwa:",
+                "> Usi na Arani."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Hawa ndio wafalme waliotawala katika nchi ya Edomu kabla ya mfalme yeyote kutawala juu ya Waisraeli:",
+                "Bela mwana wa Beori, na mji wake uliitwa Dinhaba."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Bela alipokufa, Yobabu mwana wa Zera kutoka Bosra alimfuata kama mfalme."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Baada ya kifo cha Yobabu, Hushamu kutoka nchi ya Watemani alichukua kiti cha enzi."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Hushamu alipokufa, Hadadi mwana wa Bedadi, aliyewashinda Midiani katika eneo la Moabu,",
+                "akawa mfalme; mji wake uliitwa Avithi."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "Hadadi alipokufa, Samla kutoka Masreka alichukua kiti cha enzi."
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "Samla alipokufa, Shauli kutoka Rehobothi karibu na Mto alifuata kama mfalme."
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "Shauli alipokufa, Baal-hanani mwana wa Akbori alichukua kiti cha enzi."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "Baal-hanani alipokufa, Hadadi akawa mfalme;",
+                "mji wake uliitwa Pai,",
+                "na mke wake alikuwa Mehetabeli, binti Matredi, binti Mezahabu."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "Kisha Hadadi alikufa.",
+                "Na wakuu wa Edomu walikuwa:",
+                "mkuu Timna, mkuu Alia, na mkuu Yethethi,"
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "mkuu Oholibama, mkuu Ela, na mkuu Pinoni,"
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "mkuu Kenazi, mkuu Temani, na mkuu Mibsari,"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "mkuu Magdieli, na mkuu Irama.",
+                "Hawa walikuwa viongozi wa Edomu."
+            ]
+        }
+    ]
+}

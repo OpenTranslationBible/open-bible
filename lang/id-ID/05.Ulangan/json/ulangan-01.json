@@ -1,268 +1,282 @@
 {
-  "book": "Ulangan",
-  "chapter": 1,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "Inilah perkataan yang disampaikan Musa kepada seluruh orang Israel di seberang Sungai Yordan di padang gurun, di Araba berhadapan dengan Suph, antara Paran dan Tofel, Laban, Hazerot, dan Dizahab."
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "Perjalanan dari Horeb melalui jalan pegunungan Seir ke Kadesh-Barnea memakan waktu sebelas hari."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "Pada tahun keempat puluh, pada hari pertama bulan kesebelas, Musa berbicara kepada orang Israel sesuai dengan segala yang diperintahkan Tuhan kepadanya untuk disampaikan kepada mereka,"
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "setelah ia mengalahkan Sihon, raja orang Amori yang tinggal di Hesybon, dan Og, raja Basan yang tinggal di Astarot dan Edrei."
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "Di seberang Sungai Yordan, di tanah Moab, Musa mulai menjelaskan hukum ini, katanya,"
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "\"Tuhan, Tuhan kita, berbicara kepada kita di Horeb, 'Kamu telah tinggal cukup lama di gunung ini."
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "Berbaliklah dan berangkatlah dalam perjalananmu, dan pergilah ke pegunungan orang Amori, dan kepada semua tetangga mereka di Araba, di pegunungan, di dataran rendah, di Negeb, di tepi laut, tanah orang Kanaan, dan Libanon, sampai ke sungai besar, yaitu sungai Efrat."
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "Lihatlah, Aku telah menempatkan tanah itu di depanmu; pergilah dan ambillah tanah yang telah Tuhan janjikan kepada nenek moyangmu, kepada Abraham, Ishak, dan Yakub, serta keturunan mereka sesudah mereka.'"
-      ]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "\"Pada waktu itu aku berkata kepadamu, 'Aku tidak dapat menanggung bebanmu sendirian."
-      ]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "Tuhan, Tuhanmu, telah memperbanyak kamu, dan lihatlah, hari ini kamu sebanyak bintang di langit."
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "Kiranya Tuhan, Tuhan nenek moyangmu, menambah kamu seribu kali lipat dan memberkati kamu, seperti yang telah Dia janjikan!"
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "Tetapi bagaimana aku dapat menanggung sendiri berat masalahmu, bebanmu, dan perselisihanmu?"
-      ]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "Pilihlah orang-orang bijaksana, berpengertian, dan dihormati dari setiap suku, dan aku akan mengangkat mereka sebagai pemimpinmu.'"
-      ]
-    },
-    {
-      "verse": 14,
-      "text": ["Dan kamu menjawab aku, 'Apa yang kamu usulkan untuk dilakukan adalah baik.'"]
-    },
-    {
-      "verse": 15,
-      "text": [
-        "Maka aku mengambil orang-orang terkemuka dari suku-sukumu, yang bijaksana dan dihormati, dan mengangkat mereka sebagai pemimpin atasmu, komandan ribuan, ratusan, lima puluhan, dan puluhan, serta petugas untuk suku-sukumu."
-      ]
-    },
-    {
-      "verse": 16,
-      "text": [
-        "\"Lalu aku memerintahkan hakim-hakimmu pada waktu itu, dengan berkata, 'Dengarkanlah perkara-perkara di antara bangsamu dan hakimilah dengan adil, baik perkara itu antara dua orang Israel atau antara seorang Israel dan orang asing yang tinggal di antara kamu."
-      ]
-    },
-    {
-      "verse": 17,
-      "text": [
-        "Janganlah memihak dalam penghakiman; dengarkanlah baik yang kecil maupun yang besar. Jangan takut kepada siapa pun, karena penghakiman adalah milik Tuhan. Bawalah perkara yang terlalu sulit bagimu kepadaku, dan aku akan mendengarnya.'"
-      ]
-    },
-    {
-      "verse": 18,
-      "text": ["Pada waktu itu aku memerintahkan kepadamu semua hal yang harus kamu lakukan."]
-    },
-    {
-      "verse": 19,
-      "text": [
-        "\"Kemudian kita berangkat dari Horeb dan melalui seluruh padang gurun yang luas dan mengerikan yang kamu lihat, dalam perjalanan ke pegunungan orang Amori, seperti yang diperintahkan Tuhan, Tuhan kita, kepada kita, dan kita sampai di Kadesh-Barnea."
-      ]
-    },
-    {
-      "verse": 20,
-      "text": [
-        "Dan aku berkata kepadamu, 'Kamu telah sampai di pegunungan orang Amori, yang diberikan Tuhan, Tuhan kita, kepada kita."
-      ]
-    },
-    {
-      "verse": 21,
-      "text": [
-        "Lihatlah, Tuhan, Tuhanmu, telah menempatkan tanah itu di depanmu; naiklah dan ambillah, seperti yang telah Tuhan, Tuhan nenek moyangmu, katakan kepadamu. Jangan takut atau berkecil hati.'"
-      ]
-    },
-    {
-      "verse": 22,
-      "text": [
-        "\"Kemudian kamu semua datang kepadaku dan berkata, 'Biarlah kita mengirim orang-orang di depan kita untuk mengintai tanah itu dan membawa kembali laporan tentang jalan yang harus kita tempuh dan kota-kota yang akan kita datangi.'"
-      ]
-    },
-    {
-      "verse": 23,
-      "text": [
-        "Rencana itu tampak baik bagiku, jadi aku memilih dua belas dari kamu, satu orang dari setiap suku."
-      ]
-    },
-    {
-      "verse": 24,
-      "text": [
-        "Mereka berangkat dan naik ke pegunungan, dan sampai ke Lembah Eskol dan menjelajahinya."
-      ]
-    },
-    {
-      "verse": 25,
-      "text": [
-        "Mereka membawa beberapa buah dari tanah itu, dan membawanya turun kepada kita dan melaporkan, 'Tanah yang diberikan Tuhan, Tuhan kita, kepada kita adalah baik.'"
-      ]
-    },
-    {
-      "verse": 26,
-      "text": ["Namun kamu enggan untuk naik; kamu memberontak terhadap perintah Tuhan, Tuhanmu."]
-    },
-    {
-      "verse": 27,
-      "text": [
-        "Kamu menggerutu di kemah-kemahmu dan berkata, 'Karena Tuhan membenci kita, Dia membawa kita keluar dari Mesir untuk menyerahkan kita ke tangan orang Amori untuk membinasakan kita."
-      ]
-    },
-    {
-      "verse": 28,
-      "text": [
-        "Ke mana kita harus pergi? Saudara-saudara kita telah membuat hati kita lemah, dengan mengatakan, \"Orang-orang itu lebih kuat dan lebih tinggi dari kita; kota-kota itu besar dan berbenteng sampai ke langit. Kita bahkan melihat orang-orang Enak di sana.\"'"
-      ]
-    },
-    {
-      "verse": 29,
-      "text": ["Aku mendorong kamu, dengan berkata, 'Jangan takut atau gentar terhadap mereka."]
-    },
-    {
-      "verse": 30,
-      "text": [
-        "Tuhan, Tuhanmu, yang berjalan di depanmu, akan berperang untukmu, seperti yang Dia lakukan untukmu di Mesir di depan matamu,"
-      ]
-    },
-    {
-      "verse": 31,
-      "text": [
-        "dan di padang gurun di mana kamu melihat bagaimana Tuhan, Tuhanmu, menggendongmu, seperti seorang ayah menggendong anaknya, sepanjang jalan yang kamu tempuh sampai kamu mencapai tempat ini.'"
-      ]
-    },
-    {
-      "verse": 32,
-      "text": ["Namun, meskipun demikian, kamu tidak mempercayai Tuhan, Tuhanmu,"]
-    },
-    {
-      "verse": 33,
-      "text": [
-        "yang berjalan di depanmu dalam perjalananmu, untuk mencari tempat-tempat bagimu untuk berkemah, dalam api pada malam hari dan dalam awan pada siang hari, untuk menunjukkan jalan yang harus kamu tempuh."
-      ]
-    },
-    {
-      "verse": 34,
-      "text": ["Ketika Tuhan mendengar apa yang kamu katakan, Dia marah dan bersumpah:"]
-    },
-    {
-      "verse": 35,
-      "text": [
-        "'Tidak satu pun dari generasi jahat ini akan melihat tanah baik yang Aku janjikan kepada nenek moyangmu,"
-      ]
-    },
-    {
-      "verse": 36,
-      "text": [
-        "kecuali Kaleb anak Yefune. Dia akan melihatnya, dan Aku akan memberikan kepadanya dan keturunannya tanah yang diinjaknya, karena dia mengikuti Tuhan dengan sepenuh hati.'"
-      ]
-    },
-    {
-      "verse": 37,
-      "text": [
-        "Tuhan juga marah kepadaku karena kamu, dengan berkata, 'Kamu pun tidak akan masuk ke sana."
-      ]
-    },
-    {
-      "verse": 38,
-      "text": [
-        "Yosua anak Nun, yang berdiri di depanmu, akan masuk ke sana. Doronglah dia, karena dia akan memimpin Israel untuk mewarisinya."
-      ]
-    },
-    {
-      "verse": 39,
-      "text": [
-        "Selain itu, anak-anak kecilmu yang kamu katakan akan ditawan, anak-anakmu yang belum tahu yang baik dari yang buruk, mereka akan masuk ke tanah itu. Aku akan memberikannya kepada mereka, dan mereka akan memilikinya."
-      ]
-    },
-    {
-      "verse": 40,
-      "text": [
-        "Tetapi kamu, berbaliklah dan berangkatlah menuju padang gurun melalui jalan Laut Merah.'"
-      ]
-    },
-    {
-      "verse": 41,
-      "text": [
-        "\"Kemudian kamu menjawab, 'Kami telah berdosa terhadap Tuhan. Kami akan naik dan berperang, seperti yang diperintahkan Tuhan, Tuhan kita, kepada kita.' Maka setiap dari kamu mengenakan senjatanya, berpikir mudah untuk naik ke pegunungan."
-      ]
-    },
-    {
-      "verse": 42,
-      "text": [
-        "Tetapi Tuhan berkata kepadaku, 'Katakan kepada mereka, \"Jangan naik dan berperang, karena Aku tidak ada di antara kamu; jika tidak, kamu akan dikalahkan oleh musuhmu.\"'"
-      ]
-    },
-    {
-      "verse": 43,
-      "text": [
-        "Maka aku berbicara kepadamu, tetapi kamu tidak mendengarkan. Kamu memberontak terhadap perintah Tuhan dan bertindak dengan angkuh dan naik ke pegunungan."
-      ]
-    },
-    {
-      "verse": 44,
-      "text": [
-        "Orang Amori yang tinggal di pegunungan itu keluar melawanmu; mereka mengejar kamu seperti kawanan lebah dan memukulmu dari Seir sampai Horma."
-      ]
-    },
-    {
-      "verse": 45,
-      "text": [
-        "Kamu kembali dan menangis di hadapan Tuhan, tetapi Dia tidak memperhatikan tangisanmu dan menutup telinga terhadapmu."
-      ]
-    },
-    {
-      "verse": 46,
-      "text": ["Jadi kamu tinggal di Kadesh banyak hari—seluruh waktu yang kamu habiskan di sana."]
-    }
-  ]
+    "book": "Ulangan",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Inilah perkataan yang disampaikan Musa kepada seluruh orang Israel di seberang Sungai Yordan di padang gurun, di Araba berhadapan dengan Suph, antara Paran dan Tofel, Laban, Hazerot, dan Dizahab."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Perjalanan dari Horeb melalui jalan pegunungan Seir ke Kadesh-Barnea memakan waktu sebelas hari."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Pada tahun keempat puluh, pada hari pertama bulan kesebelas, Musa berbicara kepada orang Israel sesuai dengan segala yang diperintahkan Tuhan kepadanya untuk disampaikan kepada mereka,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "setelah ia mengalahkan Sihon, raja orang Amori yang tinggal di Hesybon, dan Og, raja Basan yang tinggal di Astarot dan Edrei."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Di seberang Sungai Yordan, di tanah Moab, Musa mulai menjelaskan hukum ini, katanya,"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "\"Tuhan, Tuhan kita, berbicara kepada kita di Horeb, 'Kamu telah tinggal cukup lama di gunung ini."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Berbaliklah dan berangkatlah dalam perjalananmu, dan pergilah ke pegunungan orang Amori, dan kepada semua tetangga mereka di Araba, di pegunungan, di dataran rendah, di Negeb, di tepi laut, tanah orang Kanaan, dan Libanon, sampai ke sungai besar, yaitu sungai Efrat."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Lihatlah, Aku telah menempatkan tanah itu di depanmu; pergilah dan ambillah tanah yang telah Tuhan janjikan kepada nenek moyangmu, kepada Abraham, Ishak, dan Yakub, serta keturunan mereka sesudah mereka.'"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "\"Pada waktu itu aku berkata kepadamu, 'Aku tidak dapat menanggung bebanmu sendirian."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Tuhan, Tuhanmu, telah memperbanyak kamu, dan lihatlah, hari ini kamu sebanyak bintang di langit."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Kiranya Tuhan, Tuhan nenek moyangmu, menambah kamu seribu kali lipat dan memberkati kamu, seperti yang telah Dia janjikan!"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Tetapi bagaimana aku dapat menanggung sendiri berat masalahmu, bebanmu, dan perselisihanmu?"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Pilihlah orang-orang bijaksana, berpengertian, dan dihormati dari setiap suku, dan aku akan mengangkat mereka sebagai pemimpinmu.'"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Dan kamu menjawab aku, 'Apa yang kamu usulkan untuk dilakukan adalah baik.'"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Maka aku mengambil orang-orang terkemuka dari suku-sukumu, yang bijaksana dan dihormati, dan mengangkat mereka sebagai pemimpin atasmu, komandan ribuan, ratusan, lima puluhan, dan puluhan, serta petugas untuk suku-sukumu."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "\"Lalu aku memerintahkan hakim-hakimmu pada waktu itu, dengan berkata, 'Dengarkanlah perkara-perkara di antara bangsamu dan hakimilah dengan adil, baik perkara itu antara dua orang Israel atau antara seorang Israel dan orang asing yang tinggal di antara kamu."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Janganlah memihak dalam penghakiman; dengarkanlah baik yang kecil maupun yang besar. Jangan takut kepada siapa pun, karena penghakiman adalah milik Tuhan. Bawalah perkara yang terlalu sulit bagimu kepadaku, dan aku akan mendengarnya.'"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Pada waktu itu aku memerintahkan kepadamu semua hal yang harus kamu lakukan."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "\"Kemudian kita berangkat dari Horeb dan melalui seluruh padang gurun yang luas dan mengerikan yang kamu lihat, dalam perjalanan ke pegunungan orang Amori, seperti yang diperintahkan Tuhan, Tuhan kita, kepada kita, dan kita sampai di Kadesh-Barnea."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Dan aku berkata kepadamu, 'Kamu telah sampai di pegunungan orang Amori, yang diberikan Tuhan, Tuhan kita, kepada kita."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Lihatlah, Tuhan, Tuhanmu, telah menempatkan tanah itu di depanmu; naiklah dan ambillah, seperti yang telah Tuhan, Tuhan nenek moyangmu, katakan kepadamu. Jangan takut atau berkecil hati.'"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "\"Kemudian kamu semua datang kepadaku dan berkata, 'Biarlah kita mengirim orang-orang di depan kita untuk mengintai tanah itu dan membawa kembali laporan tentang jalan yang harus kita tempuh dan kota-kota yang akan kita datangi.'"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Rencana itu tampak baik bagiku, jadi aku memilih dua belas dari kamu, satu orang dari setiap suku."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Mereka berangkat dan naik ke pegunungan, dan sampai ke Lembah Eskol dan menjelajahinya."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Mereka membawa beberapa buah dari tanah itu, dan membawanya turun kepada kita dan melaporkan, 'Tanah yang diberikan Tuhan, Tuhan kita, kepada kita adalah baik.'"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Namun kamu enggan untuk naik; kamu memberontak terhadap perintah Tuhan, Tuhanmu."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Kamu menggerutu di kemah-kemahmu dan berkata, 'Karena Tuhan membenci kita, Dia membawa kita keluar dari Mesir untuk menyerahkan kita ke tangan orang Amori untuk membinasakan kita."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Ke mana kita harus pergi? Saudara-saudara kita telah membuat hati kita lemah, dengan mengatakan, \"Orang-orang itu lebih kuat dan lebih tinggi dari kita; kota-kota itu besar dan berbenteng sampai ke langit. Kita bahkan melihat orang-orang Enak di sana.\"'"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Aku mendorong kamu, dengan berkata, 'Jangan takut atau gentar terhadap mereka."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Tuhan, Tuhanmu, yang berjalan di depanmu, akan berperang untukmu, seperti yang Dia lakukan untukmu di Mesir di depan matamu,"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "dan di padang gurun di mana kamu melihat bagaimana Tuhan, Tuhanmu, menggendongmu, seperti seorang ayah menggendong anaknya, sepanjang jalan yang kamu tempuh sampai kamu mencapai tempat ini.'"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Namun, meskipun demikian, kamu tidak mempercayai Tuhan, Tuhanmu,"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "yang berjalan di depanmu dalam perjalananmu, untuk mencari tempat-tempat bagimu untuk berkemah, dalam api pada malam hari dan dalam awan pada siang hari, untuk menunjukkan jalan yang harus kamu tempuh."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Ketika Tuhan mendengar apa yang kamu katakan, Dia marah dan bersumpah:"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "'Tidak satu pun dari generasi jahat ini akan melihat tanah baik yang Aku janjikan kepada nenek moyangmu,"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "kecuali Kaleb anak Yefune. Dia akan melihatnya, dan Aku akan memberikan kepadanya dan keturunannya tanah yang diinjaknya, karena dia mengikuti Tuhan dengan sepenuh hati.'"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Tuhan juga marah kepadaku karena kamu, dengan berkata, 'Kamu pun tidak akan masuk ke sana."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Yosua anak Nun, yang berdiri di depanmu, akan masuk ke sana. Doronglah dia, karena dia akan memimpin Israel untuk mewarisinya."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Selain itu, anak-anak kecilmu yang kamu katakan akan ditawan, anak-anakmu yang belum tahu yang baik dari yang buruk, mereka akan masuk ke tanah itu. Aku akan memberikannya kepada mereka, dan mereka akan memilikinya."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Tetapi kamu, berbaliklah dan berangkatlah menuju padang gurun melalui jalan Laut Merah.'"
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "\"Kemudian kamu menjawab, 'Kami telah berdosa terhadap Tuhan. Kami akan naik dan berperang, seperti yang diperintahkan Tuhan, Tuhan kita, kepada kita.' Maka setiap dari kamu mengenakan senjatanya, berpikir mudah untuk naik ke pegunungan."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Tetapi Tuhan berkata kepadaku, 'Katakan kepada mereka, \"Jangan naik dan berperang, karena Aku tidak ada di antara kamu; jika tidak, kamu akan dikalahkan oleh musuhmu.\"'"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Maka aku berbicara kepadamu, tetapi kamu tidak mendengarkan. Kamu memberontak terhadap perintah Tuhan dan bertindak dengan angkuh dan naik ke pegunungan."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Orang Amori yang tinggal di pegunungan itu keluar melawanmu; mereka mengejar kamu seperti kawanan lebah dan memukulmu dari Seir sampai Horma."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Kamu kembali dan menangis di hadapan Tuhan, tetapi Dia tidak memperhatikan tangisanmu dan menutup telinga terhadapmu."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Jadi kamu tinggal di Kadesh banyak hari—seluruh waktu yang kamu habiskan di sana."
+            ]
+        }
+    ]
 }

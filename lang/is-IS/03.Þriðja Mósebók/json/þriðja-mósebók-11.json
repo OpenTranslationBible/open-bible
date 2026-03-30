@@ -1,0 +1,288 @@
+{
+    "book": "3. Mósebók,",
+    "chapter": 11,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Drottinn talaði við Móse og Aron og sagði:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "„Talið til Ísraelsmanna og segið: ‘Af öllum dýrum sem lifa á landi eru þetta þau sem þið megið eta:"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Þið megið eta öll dýr sem hafa klaufir, alveg klaufskipt, og jórtra."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "En það eru nokkur sem aðeins jórtra eða aðeins hafa klaufir, en þau megið þið ekki eta. Úlfaldinn, þótt hann jórtri, hefur ekki klaufir; hann er óhreinn fyrir ykkur."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Klippimúsin, þótt hún jórtri, hefur ekki klaufir; hún er óhrein fyrir ykkur."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Kanínan, þótt hún jórtri, hefur ekki klaufir; hún er óhrein fyrir ykkur."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Og svínið, þótt það hafi klaufir, alveg klaufskipt, jórtrar ekki; það er óhreint fyrir ykkur."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Þið skuluð hvorki neyta kjöts þeirra né snerta hræ þeirra; þau eru talin óhrein fyrir ykkur."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Af öllum skepnum sem lifa í vatni megið þið eta þær sem hafa ugga og hreistur."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "En allar skepnur í sjónum eða ám sem ekki hafa ugga og hreistur—af öllum þeim sem skríða eða lifa í vatninu—eru ykkur viðurstyggð."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Og þar sem þær eru ykkur viðurstyggð, skuluð þið ekki eta kjöt þeirra og skuluð líta á hræ þeirra sem viðurstyggð."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Allt sem lifir í vatninu og hefur ekki ugga og hreistur skal vera ykkur viðurstyggð."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Þetta eru fuglarnir sem þið skuluð líta á sem viðurstyggð og ekki eta því þeir eru viðurstyggð: örninn, hrægammurinn og glóvargurinn,"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "rauðglóvargurinn, hvers kyns fálkar,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "allar tegundir hrafna,"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "strúturinn, uglan, mávurinn og hvers kyns haukar,"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "litla uglan, skarfurinn og stóra uglan,"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "hlöðuugluna, pelíkaninn og hrægamminn,"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "storkurinn, hvers kyns hegri, hrossagaukurinn og leðurblakan."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Allir fljúgandi skordýr sem ganga á fjórum fótum skulu vera ykkur viðurstyggð."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "En af fljúgandi skordýrum sem ganga á fjórum fótum megið þið eta þau sem hafa liðskiptar fætur til að hoppa á jörðinni."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Af þessum megið þið eta hvers kyns engisprettur, skordýr, krikket eða grasbít."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "En öll önnur fljúgandi skordýr sem hafa fjóra fætur skulu vera ykkur viðurstyggð."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Þið verðið óhrein af þessum; hver sem snertir hræ þeirra verður óhreinn til kvölds."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Hver sem tekur upp eitt af hræjum þeirra skal þvo föt sín og verður óhreinn til kvölds."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Öll dýr sem ekki hafa alveg klaufskiptar klaufir eða jórtra ekki eru óhrein fyrir ykkur; hver sem snertir hræ þeirra verður óhreinn."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Af öllum dýrum sem ganga á fjórum fótum eru þau sem ganga á loppum óhrein fyrir ykkur; hver sem snertir hræ þeirra verður óhreinn til kvölds."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Hver sem tekur upp hræ þeirra skal þvo föt sín og verður óhreinn til kvölds. Þessi dýr eru óhrein fyrir ykkur."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Af dýrum sem skríða á jörðinni eru þessi óhrein fyrir ykkur: moldvarpan, músin og hvers kyns stór eðla,"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "svo og gecko, monitor eðlan, algenga eðlan, skinkurinn og kamelljónið."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Af öllum þeim sem skríða á jörðinni eru þessi óhrein fyrir ykkur. Hver sem snertir þau þegar þau eru dauð verður óhreinn til kvölds."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Þegar eitt þeirra deyr og fellur á eitthvað, þá verður sá hlutur, hvað sem hann er notaður til, óhreinn, hvort sem hann er úr tré, klæði, húð eða sekk. Það skal setja í vatn; það verður óhreint til kvölds og þá verður það hreint."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Ef eitt þeirra fellur í leirker, verður allt í því óhreint og kerið skal brotið."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Allur matur sem þið megið eta sem hefur komist í snertingu við vatn úr slíku ker er óhreinn, og hver vökvi sem drukkið er úr slíku keri er óhreinn."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Allt sem eitt af hræjum þeirra fellur á verður óhreint; ofn eða eldunarpottur skal brotinn. Þau eru óhrein og þið skuluð líta á þau sem óhrein."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Lind, þó, eða vatnsgeymir til að safna vatni er hreinn, en hver sem snertir eitt af þessum hræjum er óhreinn."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Ef hræ fellur á nokkur fræ sem á að planta, þá eru þau hrein."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "En ef vatn hefur verið sett á fræið og hræ fellur á það, verður það óhreint fyrir ykkur."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Ef dýr sem þið megið eta deyr, verður hver sem snertir hræ þess óhreinn til kvölds."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Hver sem etur eitthvað af hræi þess skal þvo föt sín og verður óhreinn til kvölds. Hver sem tekur upp hræið skal þvo föt sín og verður óhreinn til kvölds."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Öll skepna sem skríður á jörðinni skal vera ykkur viðurstyggð; hana má ekki eta."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Þið skuluð ekki eta neina skepnu sem skríður á jörðinni, hvort sem hún skríður á kviðnum eða gengur á fjórum fótum eða á mörgum fótum; hún er viðurstyggð."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Gerið ykkur ekki óhrein með neinni af þessum skepnum. Gerið ykkur ekki óhrein með þeim eða verðið óhrein af þeim."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Ég er Drottinn, Guð ykkar; helgið ykkur og verið heilög, því ég er heilagur. Gerið ykkur ekki óhrein með neinni skepnu sem skríður á jörðinni."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Ég er Drottinn, sem leiddi ykkur út af Egyptalandi til að vera Guð ykkar; því skuluð þið vera heilög, því ég er heilagur."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Þetta eru lögin um dýrin, fuglana, hverja lifandi skepnu sem hreyfist í vatninu, og hverja skepnu sem skríður á jörðinni."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "Þið skuluð greina á milli hins óhreina og hreina, milli lifandi skepna sem má eta og þeirra sem má ekki eta.’”"
+            ]
+        }
+    ]
+}

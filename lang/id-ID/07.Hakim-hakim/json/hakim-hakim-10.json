@@ -1,118 +1,124 @@
 {
-  "book": "Hakim-Hakim",
-  "chapter": 10,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "Setelah kematian Abimelekh, Tola, anak Pua, anak Dodo, seorang dari suku Isakhar, bangkit untuk menyelamatkan Israel. Ia tinggal di Samir, yang terletak di pegunungan Efraim."
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "Ia memerintah Israel selama dua puluh tiga tahun, kemudian ia meninggal dan dimakamkan di Samir."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "Setelah dia, datanglah Yair, seorang Gilead, yang memerintah Israel selama dua puluh dua tahun."
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "Yair memiliki tiga puluh anak laki-laki yang menunggangi tiga puluh keledai, dan mereka memiliki tiga puluh kota di Gilead, yang dikenal hingga hari ini sebagai Hawot-Yair."
-      ]
-    },
-    {
-      "verse": 5,
-      "text": ["Setelah Yair meninggal, ia dimakamkan di Kamon."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "Sekali lagi, orang Israel melakukan kejahatan di mata Tuhan. Mereka menyembah Baal dan Asytoret, serta dewa-dewa Aram, Sidon, Moab, orang Amon, dan orang Filistin. Mereka meninggalkan Tuhan dan berhenti melayani-Nya."
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "Murka Tuhan menyala terhadap Israel, dan Dia menyerahkan mereka kepada orang Filistin dan orang Amon."
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "Pada tahun itu, mereka menindas dan menghancurkan orang Israel. Selama delapan belas tahun, mereka menindas semua orang Israel di sebelah timur Yordan di Gilead, tanah orang Amori."
-      ]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "Orang Amon juga menyeberangi Yordan untuk berperang melawan Yehuda, Benyamin, dan kaum Efraim, menyebabkan kesusahan besar bagi Israel."
-      ]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "Orang Israel berseru kepada Tuhan, mengakui, “Kami telah berdosa terhadap-Mu dengan meninggalkan Tuhan kami dan melayani Baal.”"
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "Tuhan menjawab orang Israel, “Bukankah Aku telah menyelamatkan kamu dari orang Mesir, orang Amori, orang Amon, dan orang Filistin?"
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "Ketika orang Sidon, Amalek, dan Maon menindas kamu, kamu berseru kepada-Ku, dan Aku menyelamatkan kamu dari tangan mereka."
-      ]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "Tetapi kamu telah berpaling dari-Ku dan melayani dewa-dewa lain; sebagai akibatnya, Aku tidak akan menyelamatkan kamu lagi."
-      ]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "Pergilah dan berserulah kepada dewa-dewa yang telah kamu pilih. Biarlah mereka menyelamatkan kamu pada waktu kesusahanmu.”"
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 15,
-      "text": [
-        "Tetapi orang Israel memohon kepada Tuhan, “Kami telah berdosa. Lakukanlah kepada kami apa yang Engkau anggap baik, tetapi tolong selamatkan kami hari ini.”"
-      ]
-    },
-    {
-      "verse": 16,
-      "text": [
-        "Mereka menyingkirkan dewa-dewa asing dari antara mereka dan melayani Tuhan, dan Dia tidak tahan lagi melihat kesengsaraan Israel."
-      ]
-    },
-    {
-      "verse": 17,
-      "text": [
-        "Orang Amon dipanggil untuk berperang dan berkemah di Gilead, sementara orang Israel berkumpul dan berkemah di Mizpa."
-      ]
-    },
-    {
-      "verse": 18,
-      "text": [
-        "Para pemimpin Gilead berkata satu sama lain, “Siapa pun yang akan memimpin menyerang orang Amon akan menjadi kepala atas semua penduduk Gilead.”"
-      ]
-    }
-  ]
+    "book": "Hakim-Hakim",
+    "chapter": 10,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Setelah kematian Abimelekh, Tola, anak Pua, anak Dodo, seorang dari suku Isakhar, bangkit untuk menyelamatkan Israel. Ia tinggal di Samir, yang terletak di pegunungan Efraim."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Ia memerintah Israel selama dua puluh tiga tahun, kemudian ia meninggal dan dimakamkan di Samir."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Setelah dia, datanglah Yair, seorang Gilead, yang memerintah Israel selama dua puluh dua tahun."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Yair memiliki tiga puluh anak laki-laki yang menunggangi tiga puluh keledai, dan mereka memiliki tiga puluh kota di Gilead, yang dikenal hingga hari ini sebagai Hawot-Yair."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Setelah Yair meninggal, ia dimakamkan di Kamon."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Sekali lagi, orang Israel melakukan kejahatan di mata Tuhan. Mereka menyembah Baal dan Asytoret, serta dewa-dewa Aram, Sidon, Moab, orang Amon, dan orang Filistin. Mereka meninggalkan Tuhan dan berhenti melayani-Nya."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Murka Tuhan menyala terhadap Israel, dan Dia menyerahkan mereka kepada orang Filistin dan orang Amon."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Pada tahun itu, mereka menindas dan menghancurkan orang Israel. Selama delapan belas tahun, mereka menindas semua orang Israel di sebelah timur Yordan di Gilead, tanah orang Amori."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Orang Amon juga menyeberangi Yordan untuk berperang melawan Yehuda, Benyamin, dan kaum Efraim, menyebabkan kesusahan besar bagi Israel."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Orang Israel berseru kepada Tuhan, mengakui, “Kami telah berdosa terhadap-Mu dengan meninggalkan Tuhan kami dan melayani Baal.”"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Tuhan menjawab orang Israel, “Bukankah Aku telah menyelamatkan kamu dari orang Mesir, orang Amori, orang Amon, dan orang Filistin?"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Ketika orang Sidon, Amalek, dan Maon menindas kamu, kamu berseru kepada-Ku, dan Aku menyelamatkan kamu dari tangan mereka."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Tetapi kamu telah berpaling dari-Ku dan melayani dewa-dewa lain; sebagai akibatnya, Aku tidak akan menyelamatkan kamu lagi."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Pergilah dan berserulah kepada dewa-dewa yang telah kamu pilih. Biarlah mereka menyelamatkan kamu pada waktu kesusahanmu.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Tetapi orang Israel memohon kepada Tuhan, “Kami telah berdosa. Lakukanlah kepada kami apa yang Engkau anggap baik, tetapi tolong selamatkan kami hari ini.”"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Mereka menyingkirkan dewa-dewa asing dari antara mereka dan melayani Tuhan, dan Dia tidak tahan lagi melihat kesengsaraan Israel."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Orang Amon dipanggil untuk berperang dan berkemah di Gilead, sementara orang Israel berkumpul dan berkemah di Mizpa."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Para pemimpin Gilead berkata satu sama lain, “Siapa pun yang akan memimpin menyerang orang Amon akan menjadi kepala atas semua penduduk Gilead.”"
+            ]
+        }
+    ]
 }

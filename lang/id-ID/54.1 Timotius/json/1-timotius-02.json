@@ -1,86 +1,96 @@
 {
-  "book": "1 Timotius",
-  "chapter": 2,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "Pertama-tama, aku mendorong agar permohonan, doa, syafaat, dan ucapan syukur dipanjatkan untuk semua orang,"
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "termasuk raja-raja dan semua orang yang berada dalam posisi otoritas, agar kita dapat hidup dalam damai dan tenang dengan segala kesalehan dan martabat."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": ["Hal ini baik dan berkenan di hadapan Tuhan, Juruselamat kita,"]
-    },
-    {
-      "verse": 4,
-      "text": ["yang menghendaki semua orang diselamatkan dan datang untuk memahami kebenaran."]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "Karena ada satu Tuhan, dan satu pengantara antara Tuhan dan manusia, yaitu manusia Kristus Yesus,"
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "yang telah menyerahkan diri-Nya sebagai tebusan bagi semua orang, kesaksian yang diberikan pada waktu yang tepat."
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "Untuk tujuan ini, aku ditunjuk sebagai pemberita dan rasul (aku mengatakan kebenaran, aku tidak berbohong), sebagai guru bagi bangsa-bangsa lain dalam iman dan kebenaran."
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "Oleh karena itu, aku ingin agar pria di setiap tempat berdoa, mengangkat tangan yang suci, tanpa kemarahan dan perdebatan."
-      ]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "Demikian juga, aku ingin wanita berpakaian dengan pantas, dengan kesopanan dan kesederhanaan, tidak dengan rambut yang dikepang, emas, mutiara, atau pakaian yang mahal,"
-      ]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "tetapi lebih melalui perbuatan baik, sebagaimana layaknya wanita yang mengaku beribadah kepada Tuhan."
-      ]
-    },
-    {
-      "verse": 11,
-      "text": ["Seorang wanita harus belajar dengan tenang dan penuh hormat."]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "Tetapi aku tidak mengizinkan seorang wanita mengajar atau memiliki otoritas atas seorang pria; ia harus diam."
-      ]
-    },
-    {
-      "verse": 13,
-      "text": ["Karena Adam dibentuk pertama, kemudian Hawa."]
-    },
-    {
-      "verse": 14,
-      "text": ["Dan bukan Adam yang tertipu, tetapi wanita itu yang tertipu dan menjadi pelanggar."]
-    },
-    {
-      "verse": 15,
-      "text": [
-        "Namun wanita akan diselamatkan melalui melahirkan anak—jika mereka terus beriman, kasih, dan kesucian, dengan pengendalian diri."
-      ]
-    }
-  ]
+    "book": "1 Timotius",
+    "chapter": 2,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Pertama-tama, aku mendorong agar permohonan, doa, syafaat, dan ucapan syukur dipanjatkan untuk semua orang,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "termasuk raja-raja dan semua orang yang berada dalam posisi otoritas, agar kita dapat hidup dalam damai dan tenang dengan segala kesalehan dan martabat."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Hal ini baik dan berkenan di hadapan Tuhan, Juruselamat kita,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "yang menghendaki semua orang diselamatkan dan datang untuk memahami kebenaran."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Karena ada satu Tuhan, dan satu pengantara antara Tuhan dan manusia, yaitu manusia Kristus Yesus,"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "yang telah menyerahkan diri-Nya sebagai tebusan bagi semua orang, kesaksian yang diberikan pada waktu yang tepat."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Untuk tujuan ini, aku ditunjuk sebagai pemberita dan rasul (aku mengatakan kebenaran, aku tidak berbohong), sebagai guru bagi bangsa-bangsa lain dalam iman dan kebenaran."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Oleh karena itu, aku ingin agar pria di setiap tempat berdoa, mengangkat tangan yang suci, tanpa kemarahan dan perdebatan."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Demikian juga, aku ingin wanita berpakaian dengan pantas, dengan kesopanan dan kesederhanaan, tidak dengan rambut yang dikepang, emas, mutiara, atau pakaian yang mahal,"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "tetapi lebih melalui perbuatan baik, sebagaimana layaknya wanita yang mengaku beribadah kepada Tuhan."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Seorang wanita harus belajar dengan tenang dan penuh hormat."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Tetapi aku tidak mengizinkan seorang wanita mengajar atau memiliki otoritas atas seorang pria; ia harus diam."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Karena Adam dibentuk pertama, kemudian Hawa."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Dan bukan Adam yang tertipu, tetapi wanita itu yang tertipu dan menjadi pelanggar."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Namun wanita akan diselamatkan melalui melahirkan anak—jika mereka terus beriman, kasih, dan kesucian, dengan pengendalian diri."
+            ]
+        }
+    ]
 }

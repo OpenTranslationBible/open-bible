@@ -1,0 +1,400 @@
+{
+    "book": "Sálmabók",
+    "chapter": 37,
+    "verses": [
+        {
+            "text": [
+                "Sálmur Davíðs."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Vertu ekki reiður út af illgjörðarmönnum,",
+                "> Öfundaðu ekki ranglát fólk."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Því að þeir munu fljótt fölna eins og grasið,",
+                "> Og visna eins og græn jurt."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Treystu Drottni og gerðu gott;",
+                "> Búðu í landinu og ræktaðu trúfesti."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Gleð þig í Drottni;",
+                "> Og hann mun uppfylla óskir hjarta þíns."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Fel vegu þína Drottni,",
+                "> Treystu honum, og hann mun framkvæma það."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Hann mun láta réttlæti þitt skína eins og dögun,",
+                "> Og réttlæti þitt eins og hádegissól."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Vertu kyrr fyrir Drottni og bíddu þolinmóður eftir honum;",
+                "> Vertu ekki órólegur vegna þeirra sem ná árangri á vegum sínum,",
+                "> Vegna þeirra sem framkvæma illar ráðagerðir."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Forðastu reiði og yfirgefðu heift;",
+                "> Vertu ekki reiður, það leiðir aðeins til skaða."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Því að illgjörðarmenn munu afmáðir verða,",
+                "> En þeir sem vona á Drottin munu erfa landið."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Eftir stutta stund munu hinir óguðlegu ekki vera til;",
+                "> Þótt þú leitar að þeim, munu þeir ekki finnast."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> En hinir hógværu munu erfa landið,",
+                "> Og njóta mikillar friðar."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Hinir óguðlegu leggja á ráð gegn hinum réttlátu,",
+                "> Og gnísta tönnum sínum gegn þeim."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Drottinn hlær að hinum óguðlegu,",
+                "> Því að hann veit að dagur þeirra kemur."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Hinir óguðlegu búa til vopn sín",
+                "> Til að fella hina fátæku og þurfandi,",
+                "> Til að skaða þá sem ganga réttlátlega."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Sverð þeirra munu stinga hjörtu þeirra sjálfra,",
+                "> Og bogar þeirra munu brotna."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Lítið sem hinir réttlátu eiga",
+                "> Er betra en auðæfi margra óguðlegra."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Því að styrkur hinna óguðlegu mun brotna,",
+                "> En Drottinn styður hina réttlátu."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Drottinn vakir yfir dögum hinna saklausu,",
+                "> Og arfleifð þeirra mun vara að eilífu."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Þeir munu ekki verða til skammar á tímum neyðar,",
+                "> Og á dögum hungurs munu þeir hafa gnægð."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> En hinir óguðlegu munu farast;",
+                "> Óvinir Drottins munu hverfa eins og dýrð engjanna,",
+                "> Þeir munu hverfa eins og reykur."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> Hinir óguðlegu lána og endurgjalda ekki,",
+                "> En hinir réttlátu eru örlátir og gefa."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> Þeir sem hann blessar munu erfa landið,",
+                "> En þeir sem hann bölvar munu afmáðir verða."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> Drottinn gerir skref þess sem gleðst í honum stöðug;",
+                "> Hann hefur ánægju af vegi þeirra."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Þótt þeir hrasi, munu þeir ekki falla,",
+                "> Því að Drottinn styður þá með hendi sinni."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> Ég var ungur og nú er ég gamall,",
+                "> En ég hef aldrei séð réttlátan mann yfirgefinn",
+                "> Eða börn hans biðja um brauð."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> Þeir eru alltaf örlátir og lána frjálslega,",
+                "> Og börn þeirra munu verða blessun."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> Snúðu frá illu og gerðu gott,",
+                "> Svo að þú megir búa í landinu að eilífu."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> Því að Drottinn elskar réttlæti",
+                "> Og mun ekki yfirgefa sína trúuðu;",
+                "---",
+                "> Þeir munu verndaðir verða að eilífu,",
+                "> En afkvæmi hinna óguðlegu munu afmáðir verða."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "> Hinir réttlátu munu erfa landið",
+                "> Og búa í því að eilífu."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> Munnar hinna réttlátu tala visku,",
+                "> Og tungur þeirra tjá það sem rétt er."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "> Lög Guðs þeirra eru í hjörtum þeirra;",
+                "> Skref þeirra skjögrar ekki."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "> Hinir óguðlegu liggja í leyni fyrir hinum réttlátu,",
+                "> Leita að því að taka líf þeirra."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "> En Drottinn mun ekki yfirgefa þá í valdi hinna óguðlegu",
+                "> Eða láta þá dæmast þegar þeir eru leiddir fyrir dóm."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "> Vona á Drottin og fylgdu vegi hans,",
+                "> Og hann mun upphefja þig til að erfa landið;",
+                "> Þegar hinir óguðlegu eru eyddir, munt þú sjá það."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "> Ég hef séð óguðlegan og miskunnarlausan mann",
+                "> Blómstra eins og gróskumikill innlendur tré."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "> En þeir hurfu fljótt og voru ekki lengur til;",
+                "> Þótt ég leitaði að þeim, fundust þeir ekki."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "> Íhugaðu hina saklausu, skoðaðu hina réttlátu;",
+                "> Framtíð bíður þeirra sem sækjast eftir friði."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "> En allir sem syndga munu eyddir verða;",
+                "> Það verður engin framtíð fyrir hina óguðlegu."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "> Hjálpræði hinna réttlátu kemur frá Drottni;",
+                "> Hann er vígi þeirra á tímum neyðar."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "> Drottinn hjálpar þeim og frelsar þá;",
+                "> Hann bjargar þeim frá hinum óguðlegu og frelsar þá,",
+                "> Því að þeir leita skjóls hjá honum."
+            ]
+        }
+    ]
+}

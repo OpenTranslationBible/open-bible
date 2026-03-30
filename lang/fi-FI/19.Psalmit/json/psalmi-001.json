@@ -1,0 +1,61 @@
+{
+    "book": "Psalmit",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> Autuas on se mies, joka ei vaella jumalattomien neuvossa,",
+                "> Ei seiso syntisten tiellä,",
+                "> Eikä istu pilkkaajien istuimella!"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Vaan löytää ilonsa Herran laista,",
+                "> Ja mietiskelee hänen lakiansa päivin ja öin."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Hän on kuin vesivirtojen äärelle istutettu puu,",
+                "> Joka antaa hedelmänsä ajallaan,",
+                "> Ja jonka lehti ei kuihdu;",
+                "> Ja kaikessa, mitä hän tekee, hän menestyy."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Jumalattomat eivät ole tällaisia,",
+                "> Vaan he ovat kuin akanat, joita tuuli ajaa pois."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Siksi jumalattomat eivät kestä tuomiossa,",
+                "> Eivätkä syntiset vanhurskaiden seurakunnassa."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Sillä Herra tuntee vanhurskaiden tien,",
+                "> Mutta jumalattomien tie vie tuhoon."
+            ]
+        }
+    ]
+}

@@ -1,74 +1,86 @@
 {
-  "book": "Mazmur",
-  "chapter": 98,
-  "verses": [
-    {
-      "text": ["Sebuah Mazmur."]
-    },
-    {
-      "verse": 1,
-      "text": [
-        "> Nyanyikanlah nyanyian baru bagi Tuhan,",
-        "> Karena Ia telah melakukan perbuatan-perbuatan yang ajaib,",
-        "> Tangan kanan-Nya dan lengan kudus-Nya telah memperoleh kemenangan bagi-Nya."
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "> Tuhan telah memberitahukan keselamatan-Nya;",
-        "> Ia telah memperlihatkan kebenaran-Nya kepada bangsa-bangsa."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "> Ia telah mengingat kasih setia-Nya dan kesetiaan-Nya kepada kaum Israel;",
-        "> Segala ujung bumi telah melihat keselamatan dari Tuhan kita."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "> Bersorak-sorailah bagi Tuhan, hai seluruh bumi;",
-        "> Bergembiralah dan bernyanyilah dengan sukacita dan pujilah."
-      ]
-    },
-    {
-      "verse": 5,
-      "text": ["> Bernyanyilah memuji Tuhan dengan kecapi,", "> Dengan kecapi dan suara melodi."]
-    },
-    {
-      "verse": 6,
-      "text": ["> Dengan nafiri dan suara sangkakala", "> Bersukacitalah di hadapan Raja, Tuhan."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "> Biarlah laut bergemuruh dan segala isinya,",
-        "> Dunia, dan mereka yang mendiaminya."
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "> Biarlah sungai-sungai bertepuk tangan dengan sukacita,",
-        "> Biarlah gunung-gunung bersorak-sorai dengan gembira"
-      ]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "> Di hadapan Tuhan, karena Ia datang untuk menghakimi bumi;",
-        "> Ia akan menghakimi dunia dengan kebenaran,",
-        "> Dan bangsa-bangsa dengan keadilan."
-      ]
-    }
-  ]
+    "book": "Mazmur",
+    "chapter": 98,
+    "verses": [
+        {
+            "text": [
+                "Sebuah Mazmur."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Nyanyikanlah nyanyian baru bagi Tuhan,",
+                "> Karena Ia telah melakukan perbuatan-perbuatan yang ajaib,",
+                "> Tangan kanan-Nya dan lengan kudus-Nya telah memperoleh kemenangan bagi-Nya."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Tuhan telah memberitahukan keselamatan-Nya;",
+                "> Ia telah memperlihatkan kebenaran-Nya kepada bangsa-bangsa."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Ia telah mengingat kasih setia-Nya dan kesetiaan-Nya kepada kaum Israel;",
+                "> Segala ujung bumi telah melihat keselamatan dari Tuhan kita."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Bersorak-sorailah bagi Tuhan, hai seluruh bumi;",
+                "> Bergembiralah dan bernyanyilah dengan sukacita dan pujilah."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Bernyanyilah memuji Tuhan dengan kecapi,",
+                "> Dengan kecapi dan suara melodi."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Dengan nafiri dan suara sangkakala",
+                "> Bersukacitalah di hadapan Raja, Tuhan."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Biarlah laut bergemuruh dan segala isinya,",
+                "> Dunia, dan mereka yang mendiaminya."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Biarlah sungai-sungai bertepuk tangan dengan sukacita,",
+                "> Biarlah gunung-gunung bersorak-sorai dengan gembira"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Di hadapan Tuhan, karena Ia datang untuk menghakimi bumi;",
+                "> Ia akan menghakimi dunia dengan kebenaran,",
+                "> Dan bangsa-bangsa dengan keadilan."
+            ]
+        }
+    ]
 }

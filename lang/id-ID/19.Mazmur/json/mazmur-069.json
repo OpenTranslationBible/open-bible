@@ -1,283 +1,312 @@
 {
-  "book": "Mazmur",
-  "chapter": 69,
-  "verses": [
-    {
-      "text": ["Untuk pemimpin musik; menurut Shoshannim. Mazmur Daud."]
-    },
-    {
-      "verse": 1,
-      "text": ["> Selamatkan aku, ya Tuhan,", "> Karena air telah mengancam hidupku."]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "> Aku telah tenggelam ke dalam lumpur yang dalam, dan tidak ada tempat berpijak;",
-        "> Aku telah masuk ke dalam air yang dalam, dan banjir melanda aku."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "> Aku lelah karena menangis; tenggorokanku kering;",
-        "> Mataku gagal menunggu Tuhanku."
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "> Mereka yang membenci aku tanpa alasan lebih banyak dari rambut di kepalaku;",
-        "> Mereka yang berusaha menghancurkan aku kuat, mereka yang menentang aku dengan kebohongan;",
-        "> Apa yang tidak aku curi, sekarang harus aku kembalikan."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "> Tuhan, Engkau mengetahui kebodohanku,",
-        "> Dan kesalahanku tidak tersembunyi dari-Mu."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "> Semoga mereka yang menunggu Engkau tidak dipermalukan karena aku, Tuhan Tuhan semesta alam;",
-        "> Semoga mereka yang mencari Engkau tidak dihina karena aku, Tuhan Israel,"
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "> Karena demi Engkau aku telah menanggung cela;",
-        "> Kehinaan telah menutupi wajahku."
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "> Aku telah menjadi terasing dari saudara-saudaraku,",
-        "> Dan orang asing bagi anak-anak ibuku."
-      ]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "> Karena semangat untuk rumah-Mu telah menghabiskan aku,",
-        "> Dan hinaan mereka yang menghina Engkau telah jatuh ke atas aku."
-      ]
-    },
-    {
-      "verse": 10,
-      "text": ["> Ketika aku menangis dan berpuasa,", "> Itu membawa celaan bagiku."]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "> Ketika aku mengenakan kain kabung sebagai pakaianku,",
-        "> Aku menjadi bahan ejekan bagi mereka."
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "> Mereka yang duduk di gerbang berbicara tentang aku,",
-        "> Dan aku menjadi subjek nyanyian oleh mereka yang mabuk."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "> Tetapi bagiku, doaku adalah kepada-Mu, Tuhan, pada waktu yang baik;",
-        "> Tuhan, dalam kelimpahan rahmat-Mu,",
-        "> Jawablah aku dengan kebenaran penyelamatan-Mu."
-      ]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "> Selamatkan aku dari lumpur dan jangan biarkan aku tenggelam;",
-        "> Semoga aku diselamatkan dari mereka yang membenci aku, dan dari kedalaman air."
-      ]
-    },
-    {
-      "verse": 15,
-      "text": [
-        "> Semoga air bah tidak melanda aku",
-        "> Atau kedalaman menelan aku,",
-        "> Atau lubang menutup mulutnya atas aku."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 16,
-      "text": [
-        "> Jawablah aku, Tuhan, karena kebaikan-Mu melimpah;",
-        "> Dalam belas kasihan-Mu yang besar, berpalinglah kepadaku,"
-      ]
-    },
-    {
-      "verse": 17,
-      "text": [
-        "> Dan jangan sembunyikan wajah-Mu dari hambamu,",
-        "> Karena aku dalam kesusahan; jawablah aku dengan cepat."
-      ]
-    },
-    {
-      "verse": 18,
-      "text": ["> Dekatkanlah diriku dan tebuslah itu;", "> Selamatkan aku karena musuh-musuhku!"]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 19,
-      "text": [
-        "> Engkau mengetahui celaanku, rasa maluku, dan kehinaanku;",
-        "> Semua lawanku diketahui oleh-Mu."
-      ]
-    },
-    {
-      "verse": 20,
-      "text": [
-        "> Celaan telah mematahkan hatiku, dan aku sangat lemah.",
-        "> Dan aku mencari simpati, tetapi tidak ada,",
-        "> Dan untuk penghibur, tetapi aku tidak menemukannya."
-      ]
-    },
-    {
-      "verse": 21,
-      "text": [
-        "> Mereka juga memberiku makanan pahit,",
-        "> Dan untuk hausku mereka memberiku anggur asam."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 22,
-      "text": [
-        "> Semoga meja mereka di depan mereka menjadi jerat;",
-        "> Dan ketika mereka merasa aman, semoga itu menjadi perangkap."
-      ]
-    },
-    {
-      "verse": 23,
-      "text": [
-        "> Semoga mata mereka menjadi gelap sehingga mereka tidak dapat melihat,",
-        "> Dan buatlah tubuh mereka gemetar terus-menerus."
-      ]
-    },
-    {
-      "verse": 24,
-      "text": [
-        "> Curahkanlah kemarahan-Mu atas mereka,",
-        "> Dan semoga amarah-Mu yang hebat mengejar mereka."
-      ]
-    },
-    {
-      "verse": 25,
-      "text": [
-        "> Semoga perkemahan mereka menjadi sunyi;",
-        "> Semoga tidak ada yang tinggal di tenda mereka."
-      ]
-    },
-    {
-      "verse": 26,
-      "text": [
-        "> Karena mereka telah menganiaya orang yang Engkau pukul,",
-        "> Dan mereka menceritakan rasa sakit dari mereka yang Engkau lukai."
-      ]
-    },
-    {
-      "verse": 27,
-      "text": [
-        "> Tambahkanlah kesalahan pada kesalahan mereka,",
-        "> Dan semoga mereka tidak masuk ke dalam kebenaran-Mu."
-      ]
-    },
-    {
-      "verse": 28,
-      "text": [
-        "> Semoga mereka dihapus dari kitab kehidupan,",
-        "> Dan semoga mereka tidak terdaftar dengan orang benar."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 29,
-      "text": [
-        "> Tetapi aku menderita dan dalam kesakitan;",
-        "> Semoga keselamatan-Mu, Tuhan, menempatkan aku dengan aman di tempat yang tinggi."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 30,
-      "text": [
-        "> Aku akan memuliakan nama Tuhan dengan nyanyian,",
-        "> Dan meninggikan Dia dengan ucapan syukur."
-      ]
-    },
-    {
-      "verse": 31,
-      "text": [
-        "> Dan itu akan menyenangkan Tuhan lebih dari seekor lembu",
-        "> Atau seekor sapi jantan dengan tanduk dan kuku."
-      ]
-    },
-    {
-      "verse": 32,
-      "text": [
-        "> Orang-orang yang rendah hati telah melihatnya dan bersukacita;",
-        "> Kamu yang mencari Tuhan, biarlah hatimu hidup kembali."
-      ]
-    },
-    {
-      "verse": 33,
-      "text": [
-        "> Karena Tuhan mendengar orang-orang yang membutuhkan,",
-        "> Dan tidak meremehkan tahanan-Nya."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 34,
-      "text": [
-        "> Biarlah langit dan bumi memuliakan Dia,",
-        "> Lautan dan semua yang bergerak di dalamnya."
-      ]
-    },
-    {
-      "verse": 35,
-      "text": [
-        "> Karena Tuhan akan menyelamatkan Sion dan membangun kembali kota-kota Yehuda,",
-        "> Sehingga mereka dapat tinggal di sana dan memilikinya."
-      ]
-    },
-    {
-      "verse": 36,
-      "text": [
-        "> Keturunan hamba-hamba-Nya akan mewarisinya,",
-        "> Dan mereka yang mencintai nama-Nya akan tinggal di dalamnya."
-      ]
-    }
-  ]
+    "book": "Mazmur",
+    "chapter": 69,
+    "verses": [
+        {
+            "text": [
+                "Untuk pemimpin musik; menurut Shoshannim. Mazmur Daud."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Selamatkan aku, ya Tuhan,",
+                "> Karena air telah mengancam hidupku."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Aku telah tenggelam ke dalam lumpur yang dalam, dan tidak ada tempat berpijak;",
+                "> Aku telah masuk ke dalam air yang dalam, dan banjir melanda aku."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Aku lelah karena menangis; tenggorokanku kering;",
+                "> Mataku gagal menunggu Tuhanku."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Mereka yang membenci aku tanpa alasan lebih banyak dari rambut di kepalaku;",
+                "> Mereka yang berusaha menghancurkan aku kuat, mereka yang menentang aku dengan kebohongan;",
+                "> Apa yang tidak aku curi, sekarang harus aku kembalikan."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Tuhan, Engkau mengetahui kebodohanku,",
+                "> Dan kesalahanku tidak tersembunyi dari-Mu."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Semoga mereka yang menunggu Engkau tidak dipermalukan karena aku, Tuhan Tuhan semesta alam;",
+                "> Semoga mereka yang mencari Engkau tidak dihina karena aku, Tuhan Israel,"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Karena demi Engkau aku telah menanggung cela;",
+                "> Kehinaan telah menutupi wajahku."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Aku telah menjadi terasing dari saudara-saudaraku,",
+                "> Dan orang asing bagi anak-anak ibuku."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Karena semangat untuk rumah-Mu telah menghabiskan aku,",
+                "> Dan hinaan mereka yang menghina Engkau telah jatuh ke atas aku."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Ketika aku menangis dan berpuasa,",
+                "> Itu membawa celaan bagiku."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Ketika aku mengenakan kain kabung sebagai pakaianku,",
+                "> Aku menjadi bahan ejekan bagi mereka."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Mereka yang duduk di gerbang berbicara tentang aku,",
+                "> Dan aku menjadi subjek nyanyian oleh mereka yang mabuk."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Tetapi bagiku, doaku adalah kepada-Mu, Tuhan, pada waktu yang baik;",
+                "> Tuhan, dalam kelimpahan rahmat-Mu,",
+                "> Jawablah aku dengan kebenaran penyelamatan-Mu."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Selamatkan aku dari lumpur dan jangan biarkan aku tenggelam;",
+                "> Semoga aku diselamatkan dari mereka yang membenci aku, dan dari kedalaman air."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Semoga air bah tidak melanda aku",
+                "> Atau kedalaman menelan aku,",
+                "> Atau lubang menutup mulutnya atas aku."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Jawablah aku, Tuhan, karena kebaikan-Mu melimpah;",
+                "> Dalam belas kasihan-Mu yang besar, berpalinglah kepadaku,"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Dan jangan sembunyikan wajah-Mu dari hambamu,",
+                "> Karena aku dalam kesusahan; jawablah aku dengan cepat."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Dekatkanlah diriku dan tebuslah itu;",
+                "> Selamatkan aku karena musuh-musuhku!"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Engkau mengetahui celaanku, rasa maluku, dan kehinaanku;",
+                "> Semua lawanku diketahui oleh-Mu."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> Celaan telah mematahkan hatiku, dan aku sangat lemah.",
+                "> Dan aku mencari simpati, tetapi tidak ada,",
+                "> Dan untuk penghibur, tetapi aku tidak menemukannya."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> Mereka juga memberiku makanan pahit,",
+                "> Dan untuk hausku mereka memberiku anggur asam."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> Semoga meja mereka di depan mereka menjadi jerat;",
+                "> Dan ketika mereka merasa aman, semoga itu menjadi perangkap."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> Semoga mata mereka menjadi gelap sehingga mereka tidak dapat melihat,",
+                "> Dan buatlah tubuh mereka gemetar terus-menerus."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Curahkanlah kemarahan-Mu atas mereka,",
+                "> Dan semoga amarah-Mu yang hebat mengejar mereka."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> Semoga perkemahan mereka menjadi sunyi;",
+                "> Semoga tidak ada yang tinggal di tenda mereka."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> Karena mereka telah menganiaya orang yang Engkau pukul,",
+                "> Dan mereka menceritakan rasa sakit dari mereka yang Engkau lukai."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> Tambahkanlah kesalahan pada kesalahan mereka,",
+                "> Dan semoga mereka tidak masuk ke dalam kebenaran-Mu."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> Semoga mereka dihapus dari kitab kehidupan,",
+                "> Dan semoga mereka tidak terdaftar dengan orang benar."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "> Tetapi aku menderita dan dalam kesakitan;",
+                "> Semoga keselamatan-Mu, Tuhan, menempatkan aku dengan aman di tempat yang tinggi."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> Aku akan memuliakan nama Tuhan dengan nyanyian,",
+                "> Dan meninggikan Dia dengan ucapan syukur."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "> Dan itu akan menyenangkan Tuhan lebih dari seekor lembu",
+                "> Atau seekor sapi jantan dengan tanduk dan kuku."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "> Orang-orang yang rendah hati telah melihatnya dan bersukacita;",
+                "> Kamu yang mencari Tuhan, biarlah hatimu hidup kembali."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "> Karena Tuhan mendengar orang-orang yang membutuhkan,",
+                "> Dan tidak meremehkan tahanan-Nya."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "> Biarlah langit dan bumi memuliakan Dia,",
+                "> Lautan dan semua yang bergerak di dalamnya."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "> Karena Tuhan akan menyelamatkan Sion dan membangun kembali kota-kota Yehuda,",
+                "> Sehingga mereka dapat tinggal di sana dan memilikinya."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "> Keturunan hamba-hamba-Nya akan mewarisinya,",
+                "> Dan mereka yang mencintai nama-Nya akan tinggal di dalamnya."
+            ]
+        }
+    ]
 }

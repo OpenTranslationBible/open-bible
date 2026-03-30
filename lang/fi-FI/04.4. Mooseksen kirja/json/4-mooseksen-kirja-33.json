@@ -1,0 +1,342 @@
+{
+    "book": "Numeri",
+    "chapter": 33,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Nämä ovat israelilaisten matkan vaiheet, joiden kautta he lähtivät Egyptin maasta osastoissaan Mooseksen ja Aaronin johdolla."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Herran käskystä Mooses kirjasi heidän lähtöpaikkansa heidän matkojensa mukaan. Nämä ovat heidän matkansa vaiheittain:"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Israelilaiset lähtivät liikkeelle Rameseksesta ensimmäisessä kuussa, kuukauden viidentenätoista päivänä, päivää pääsiäisen jälkeen. He lähtivät rohkeasti kaikkien egyptiläisten nähden,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "kun egyptiläiset hautasivat kaikkia esikoisiaan, jotka Herra oli lyönyt heidän keskuudessaan; sillä Herra oli pannut täytäntöön tuomiot heidän jumaliaan vastaan."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Israelilaiset lähtivät Rameseksesta ja leiriytyivät Sukkotiin."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "He lähtivät liikkeelle Sukkotista ja leiriytyivät Eetamiin, erämaan reunalle."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "He lähtivät Eetamista ja kääntyivät takaisin Pi Hahirotiin, joka on Baal Sefonin itäpuolella, ja leiriytyivät Migdolin edustalle."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "He lähtivät Pi Hahirotista ja kulkivat meren keskeltä erämaahan, ja kuljettuaan kolme päivää Eetamin erämaassa he leiriytyivät Maaraan."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "He lähtivät Maarasta ja tulivat Eelimiin, missä oli kaksitoista lähdettä ja seitsemänkymmentä palmupuuta, ja he leiriytyivät sinne."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Eelimistä he matkustivat ja leiriytyivät Punaisenmeren rannalle."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "He lähtivät Punaiseltamereltä ja leiriytyivät Siinin erämaahan."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "He lähtivät Siinin erämaasta ja leiriytyivät Dofkaan."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Dofkasta he matkustivat ja leiriytyivät Alusiin."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "He lähtivät Alusista ja leiriytyivät Refidimiin, missä ei ollut vettä kansan juoda."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "He lähtivät Refidimistä ja leiriytyivät Siinain erämaahan."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "He lähtivät Siinain erämaasta ja leiriytyivät Kibrot Hattaavaan."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "He lähtivät Kibrot Hattaavasta ja leiriytyivät Haserotiin."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Haserotista he matkustivat ja leiriytyivät Ritmaan."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "He lähtivät Ritmasta ja leiriytyivät Rimmon Pereziin."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "He lähtivät Rimmon Perezistä ja leiriytyivät Libnaan."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Libnasta he matkustivat ja leiriytyivät Rissaan."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Rissasta he matkustivat ja leiriytyivät Kehelataan."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Kehelatasta he matkustivat ja leiriytyivät Seferin vuorelle."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Seferin vuorelta he matkustivat ja leiriytyivät Haradaan."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Haradasta he matkustivat ja leiriytyivät Makhelotiin."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Makhelotista he matkustivat ja leiriytyivät Tahatiin."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Tahatista he matkustivat ja leiriytyivät Teraan."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Terasta he matkustivat ja leiriytyivät Mitkaan."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Mitkasta he matkustivat ja leiriytyivät Hasmonaan."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Hasmonasta he matkustivat ja leiriytyivät Moserotiin."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "He lähtivät Moserotista ja leiriytyivät Bene Jaakaniin."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "He lähtivät Bene Jaakanista ja leiriytyivät Hor Haggidgadiin."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "He lähtivät Hor Haggidgadista ja leiriytyivät Jotbataan."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Jotbatasta he matkustivat ja leiriytyivät Abronaan."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "He lähtivät Abronasta ja leiriytyivät Esjon Geberiin."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "He lähtivät Esjon Geberistä ja leiriytyivät Kadesiin, Siinin erämaahan."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "He lähtivät Kadesista ja leiriytyivät Horin vuorelle, Edomin maan rajalle."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Herran käskystä pappi Aaron nousi Horin vuorelle, missä hän kuoli neljäntenäkymmenentenä vuotena sen jälkeen, kun israelilaiset olivat lähteneet Egyptistä, viidennen kuukauden ensimmäisenä päivänä."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Aaron oli satakaksikymmentäkolme vuotta vanha, kun hän kuoli Horin vuorella."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Nyt Aradin kanaanilainen kuningas, joka asui Kanaanin Negevissä, kuuli israelilaisten tulosta."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "He lähtivät Horin vuorelta ja leiriytyivät Salmonaan."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Salmonasta he matkustivat ja leiriytyivät Punoniin."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Punonista he matkustivat ja leiriytyivät Obootiin."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "He lähtivät Obootista ja leiriytyivät Iye Abarimiin, Moabin rajalle."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "He lähtivät Iye Abarimista ja leiriytyivät Dibon Gadiin."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "He lähtivät Dibon Gadista ja leiriytyivät Almon Diblataimiin."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "He lähtivät Almon Diblataimista ja leiriytyivät Abarimin vuorille, Nebon lähelle."
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "He lähtivät Abarimin vuorilta ja leiriytyivät Moabin tasangoille Jordanin varrelle Jerikon kohdalle."
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "Moabin tasangoilla he leiriytyivät Jordanin varrelle Bet Jesimotista Abel Sittimiin."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "Sitten Herra puhui Moosekselle Moabin tasangoilla Jordanin varrella Jerikon kohdalla sanoen:"
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "\"Käske israelilaisia: 'Kun te ylitätte Jordanin Kanaanin maahan,"
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "ajatte pois kaikki maan asukkaat edestänne, tuhoatte kaikki heidän veistetyt kuvansa, tuhoatte kaikki heidän valetut epäjumalansa ja hävitätte kaikki heidän uhrikukkulansa."
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "Teidän tulee omistaa maa ja tehdä siitä kotinne, sillä minä olen antanut teille maan asuttavaksi."
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "Teidän tulee jakaa maa arpomalla sukujenne mukaan. Suuremmalle ryhmälle annetaan suurempi perintöosa ja pienemmälle ryhmälle pienempi. Mikä heille arpomalla osuu, se on heidän. Teidän tulee jakaa se esi-isienne heimojen mukaan."
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "Mutta jos ette aja pois maan asukkaita edestänne, ne, jotka sallitte jäädä, tulevat olemaan piikkejä silmissänne ja okaat kyljissänne, ja he vaivaavat teitä maassa, jossa tulette asumaan."
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "Ja mitä aion tehdä heille, sen teen teille.'”"
+            ]
+        }
+    ]
+}

@@ -1,89 +1,93 @@
 {
-  "book": "1 Petrus",
-  "chapter": 5,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "Jadi, aku menasihati para penatua di antara kamu, sebagai sesama penatua dan saksi penderitaan Kristus, dan juga sebagai orang yang turut ambil bagian dalam kemuliaan yang akan dinyatakan:"
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "gembalakanlah kawanan domba Tuhan yang ada padamu, dengan memberikan pengawasan secara sukarela, sesuai dengan kehendak Tuhan; dan bukan karena paksaan, tetapi dengan sukacita;"
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "bukan dengan memerintah atas mereka yang dipercayakan kepadamu, tetapi dengan menjadi teladan bagi kawanan domba itu."
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "Dan apabila Gembala Agung itu dinyatakan, kamu akan menerima mahkota kemuliaan yang tidak dapat layu."
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "Demikian juga, hai orang-orang muda, tunduklah kepada para penatua; dan kamu semua, kenakanlah kerendahan hati terhadap satu sama lain, karena",
-        "> “Tuhan menentang orang yang congkak,",
-        "> Tetapi memberi kasih karunia kepada orang yang rendah hati.”"
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "Karena itu, rendahkanlah dirimu di bawah tangan Tuhan yang kuat, supaya Ia meninggikan kamu pada waktunya,"
-      ]
-    },
-    {
-      "verse": 7,
-      "text": ["serahkanlah segala kekhawatiranmu kepada-Nya, sebab Ia memelihara kamu."]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "Sadarlah dan berjaga-jagalah. Lawanmu, si iblis, berkeliaran seperti singa yang mengaum-ngaum, mencari orang yang dapat ditelannya."
-      ]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "Lawanlah dia dengan teguh dalam imanmu, karena kamu tahu bahwa saudara-saudaramu di seluruh dunia sedang mengalami penderitaan yang sama."
-      ]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "Setelah kamu menderita untuk waktu yang singkat, Tuhan, sumber segala kasih karunia, yang telah memanggil kamu kepada kemuliaan-Nya yang kekal dalam Kristus, akan memulihkan, meneguhkan, menguatkan, dan mengokohkan kamu."
-      ]
-    },
-    {
-      "verse": 11,
-      "text": ["Bagi-Nya lah segala kuasa, sampai selama-lamanya. Amin."]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "Dengan perantaraan Silwanus, saudara kita yang setia (sebagaimana aku menganggapnya), aku telah menulis kepadamu dengan singkat, untuk menguatkan kamu dan untuk memberi kesaksian bahwa inilah kasih karunia Tuhan yang benar. Berdirilah teguh di dalamnya!"
-      ]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "Gereja di Babilon, yang terpilih bersama-sama dengan kamu, mengirimkan salam kepadamu, demikian juga anakku, Markus."
-      ]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "Sampaikanlah salam hangat satu sama lain dengan ciuman kasih.",
-        "Damai sejahtera menyertai kamu semua yang ada di dalam Kristus."
-      ]
-    }
-  ]
+    "book": "1 Petrus",
+    "chapter": 5,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Jadi, aku menasihati para penatua di antara kamu, sebagai sesama penatua dan saksi penderitaan Kristus, dan juga sebagai orang yang turut ambil bagian dalam kemuliaan yang akan dinyatakan:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "gembalakanlah kawanan domba Tuhan yang ada padamu, dengan memberikan pengawasan secara sukarela, sesuai dengan kehendak Tuhan; dan bukan karena paksaan, tetapi dengan sukacita;"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "bukan dengan memerintah atas mereka yang dipercayakan kepadamu, tetapi dengan menjadi teladan bagi kawanan domba itu."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Dan apabila Gembala Agung itu dinyatakan, kamu akan menerima mahkota kemuliaan yang tidak dapat layu."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Demikian juga, hai orang-orang muda, tunduklah kepada para penatua; dan kamu semua, kenakanlah kerendahan hati terhadap satu sama lain, karena",
+                "> “Tuhan menentang orang yang congkak,",
+                "> Tetapi memberi kasih karunia kepada orang yang rendah hati.”"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Karena itu, rendahkanlah dirimu di bawah tangan Tuhan yang kuat, supaya Ia meninggikan kamu pada waktunya,"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "serahkanlah segala kekhawatiranmu kepada-Nya, sebab Ia memelihara kamu."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Sadarlah dan berjaga-jagalah. Lawanmu, si iblis, berkeliaran seperti singa yang mengaum-ngaum, mencari orang yang dapat ditelannya."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Lawanlah dia dengan teguh dalam imanmu, karena kamu tahu bahwa saudara-saudaramu di seluruh dunia sedang mengalami penderitaan yang sama."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Setelah kamu menderita untuk waktu yang singkat, Tuhan, sumber segala kasih karunia, yang telah memanggil kamu kepada kemuliaan-Nya yang kekal dalam Kristus, akan memulihkan, meneguhkan, menguatkan, dan mengokohkan kamu."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Bagi-Nya lah segala kuasa, sampai selama-lamanya. Amin."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Dengan perantaraan Silwanus, saudara kita yang setia (sebagaimana aku menganggapnya), aku telah menulis kepadamu dengan singkat, untuk menguatkan kamu dan untuk memberi kesaksian bahwa inilah kasih karunia Tuhan yang benar. Berdirilah teguh di dalamnya!"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Gereja di Babilon, yang terpilih bersama-sama dengan kamu, mengirimkan salam kepadamu, demikian juga anakku, Markus."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Sampaikanlah salam hangat satu sama lain dengan ciuman kasih.",
+                "Damai sejahtera menyertai kamu semua yang ada di dalam Kristus."
+            ]
+        }
+    ]
 }

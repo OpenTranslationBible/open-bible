@@ -1,0 +1,48 @@
+{
+    "book": "Psaltaren",
+    "chapter": 100,
+    "verses": [
+        {
+            "text": [
+                "En tacksägelsepsalm."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Ropa med glädje till Herren, hela jorden."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Tjäna Herren med glädje;",
+                "> Kom inför honom med jublande sång."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Erkänn att Herren är Gud;",
+                "> Han är vår Skapare, och vi skapade inte oss själva;",
+                "> Vi tillhör honom, flocken under hans vård."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Gå in i hans portar med tacksamhet,",
+                "> Och hans gårdar med lovsång.",
+                "> Tacka honom, ära hans namn."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Ty Herren är god;",
+                "> Hans nåd varar för evigt,",
+                "> Och hans trofasthet fortsätter genom alla generationer."
+            ]
+        }
+    ]
+}

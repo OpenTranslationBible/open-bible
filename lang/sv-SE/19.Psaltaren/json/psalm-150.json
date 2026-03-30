@@ -1,0 +1,49 @@
+{
+    "book": "Psaltaren",
+    "chapter": 150,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> Prisa Herren!",
+                "> Ära Gud i hans heliga plats;",
+                "> Prisa honom i hans väldiga himlar."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Ära honom för hans mäktiga gärningar;",
+                "> Prisa honom för hans överväldigande storhet."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Ära honom med ljudet av trumpeten;",
+                "> Prisa honom med harpa och lyra."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Ära honom med tamburin och dans;",
+                "> Prisa honom med stränginstrument och flöjt."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Ära honom med ljudliga cymbaler;",
+                "> Prisa honom med klingande cymbaler."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Allt som har andedräkt, prisa Herren.",
+                "> Prisa Herren!"
+            ]
+        }
+    ]
+}

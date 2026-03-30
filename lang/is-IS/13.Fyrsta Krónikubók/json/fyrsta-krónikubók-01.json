@@ -1,0 +1,435 @@
+{
+    "book": "1 Kroníkubók",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Adam, Set, og Enós,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Kenan, Mahalalel, og Jared,"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Enok, Metúsalem, og Lamek,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Nói, ásamt sonum sínum:",
+                "> Sem, Kam, og Jafet."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Synir Jafets voru:",
+                "> Gomer, Magog, Madaí, Javan, Túbal, Mesek, og Tíras."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Synir Gomers voru:",
+                "> Askenas, Dífat, og Tógarma."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Afkomendur Javans voru:",
+                "> Elísa, Tarshís, Kittím, og Ródanim."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Synir Kams voru:",
+                "> Kús, Misraím, Pút, og Kanaans."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Synir Kús voru:",
+                "> Seba, Havíla, Sabta, Raama, og Sabteka.",
+                "> Og synir Raama voru:",
+                "> Saba og Dedan."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Kús var faðir Nimrods;",
+                "> hann varð voldugur á jörðinni."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Misraím var faðir línunnar",
+                "> Lúd, Anam, Lehab, Naftúh,"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Patrús, Kaslúh (þaðan komu Filistear), og Kaftór."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Kanaan var faðir",
+                "> Sídon, frumburðar hans, og Het,"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "og Jebúsíta, Amoríta, og Girgasíta,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "og Hívíta, Arkíta, og Síníta,"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "og Arvadíta, Semaríta, og Hamatíta."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Synir Sems voru:",
+                "> Elam, Assúr, Arpak Sad, Lúd, Aram,",
+                "> Synir Arams voru",
+                "> Ús, Húl, Geter, og Mesek."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Arpak Sad var faðir Sela,",
+                "og Sela var faðir Ebers."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Eber átti tvo syni:",
+                "> annar var nefndur Peleg, því á hans dögum var jörðin skipt;",
+                "> og bróðir hans var nefndur Joktan."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Afkomendur Joktans voru:",
+                "> Almodad, Selef, Hasarmavet, Jerah,"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Hadoram, og Úsal, og Dikla,"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Ebal, Abímael, og Saba,"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Ófír, Havíla, og Jobab.",
+                "Þessir voru allir synir Joktans."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Sem, Arpak Sad, og Sela,"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> Eber, Peleg, og Reú,"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> Serúg, Nahor, og Terah,"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> og Abram, sem einnig er þekktur sem Abraham."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> Synir Abrahams voru:",
+                "> nefndir Ísak og Ísmael."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Þetta eru kynslóðir þeirra:",
+                "> Frumburður Ísmaels var Nebajót, síðan Kedar, Adbeel, og Míbsam,"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Misma, Dúma, Massa, Hadad, og Tema,"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Jetúr, Nafís, og Kedema.",
+                "Þessir voru afkomendur Ísmaels."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Synir Ketúru, hjákonu Abrahams, sem hún ól:",
+                "> Simran, Joksan, Medan, Midían, Jisbak, og Súah.",
+                "> Synir Joksans voru:",
+                "> Saba og Dedan."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Synir Midíans voru:",
+                "> Efa, Efer, Hanok, Abída, og Eldaa.",
+                "> Þessir voru allir synir Ketúru."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Abraham var faðir Ísaks.",
+                "> Synir Ísaks voru:",
+                "> Esaú og Ísrael."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Synir Esaús voru:",
+                "> Elífas, Reúel, og Jeús; Jalam, og Kóra."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Synir Elífas voru:",
+                "> Teman, Ómar, Sefí, Gatam, Kenaz, Timna, og Amalek."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Synir Reúels voru:",
+                "> Nahat, og Sera; Samma, og Mísa."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Synir Seírs voru:",
+                "> Lotan, Sobal, og Síbeon; Ana, Dison, Eser, og Disan."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Synir Lotans voru:",
+                "> Hórí og Hómam; og Timna var systir Lotans."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Synir Sobals voru:",
+                "> Alían, Manahat, Ebal, Sefí, og Ónam.",
+                "> Og synir Síbeons voru:",
+                "> Aja og Ana."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Sonur Anas var:",
+                "> Dison.",
+                "> Og synir Disons voru:",
+                "> Hamran, Esban, Ítran, og Keran."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Synir Esers voru:",
+                "> Bilhan, Saavan, og Jaakan.",
+                "> Synir Disans voru:",
+                "> Ús og Aran."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Þessir eru konungarnir sem ríktu í Edómlandi áður en nokkur konungur réði yfir Ísraelsmönnum:",
+                "Bela sonur Beórs, og borg hans var nefnd Dinhaba."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Eftir andlát Bela, tók Jobab sonur Sera frá Bosra við sem konungur."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Eftir andlát Jobabs, tók Húsam frá landi Temaníta við hásætinu."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Þegar Húsam lést, varð Hadad sonur Bedads, sem sigraði Midían á svæði Móabs,",
+                "konungur; borg hans var nefnd Avít."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "Eftir andlát Hadads, tók Samla frá Masreka við hásætinu."
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "Eftir andlát Samla, tók Saúl frá Rehóbót við ánni við sem konungur."
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "Eftir andlát Saúls, tók Baal-Hanan sonur Akbórs við hásætinu."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "Þegar Baal-Hanan lést, varð Hadad konungur;",
+                "borg hans var nefnd Paí,",
+                "og kona hans var Mehetabel, dóttir Matred, dóttir Mezaahabs."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "Síðan dó Hadad.",
+                "Og höfðingjar Edóms voru:",
+                "höfðingi Timna, höfðingi Alía, og höfðingi Jetet,"
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "höfðingi Óholíbama, höfðingi Ela, og höfðingi Pínon,"
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "höfðingi Kenaz, höfðingi Teman, og höfðingi Mibzar,"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "höfðingi Magdíel, og höfðingi Íram.",
+                "Þessir voru leiðtogar Edóms."
+            ]
+        }
+    ]
+}

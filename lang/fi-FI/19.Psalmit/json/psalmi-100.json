@@ -1,0 +1,48 @@
+{
+    "book": "Psalmit",
+    "chapter": 100,
+    "verses": [
+        {
+            "text": [
+                "Kiitospsalmi."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Kohottakaa riemuhuuto Herralle, kaikki maa."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Palvelkaa Herraa ilolla;",
+                "> Tulkaa Hänen eteensä riemulauluin."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Tietäkää, että Herra on Jumala;",
+                "> Hän on meidät luonut, emme me itseämme;",
+                "> Me olemme Hänen, Hänen laitumensa lampaat."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Käykää Hänen portteihinsa kiitosta laulaen,",
+                "> Hänen esipihoihinsa ylistystä veisaten.",
+                "> Kiittäkää Häntä, ylistäkää Hänen nimeään."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Sillä Herra on hyvä;",
+                "> Hänen armonsa pysyy iankaikkisesti,",
+                "> Ja Hänen uskollisuutensa polvesta polveen."
+            ]
+        }
+    ]
+}

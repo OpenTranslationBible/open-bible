@@ -1,0 +1,485 @@
+{
+    "book": "1 Mambo ya Nyakati Mlango wa",
+    "chapter": 7,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Sasa wana wa Isakari walikuwa:",
+                "> Tola, Puwa, Yashubu, na Shimron—wote wanne."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Wana wa Tola walikuwa:",
+                "> Uzi, Refaia, Yerieli, Yahmai, Ibsamu, na Shemueli—viongozi wa nyumba za baba zao.",
+                "> Kwa kizazi cha Tola walihesabiwa wapiganaji,",
+                "> idadi yao katika siku za Daudi ilikuwa elfu ishirini na mbili mia sita."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Mwana wa Uzi alikuwa Izrahia.",
+                "Na wana wa Izrahia walikuwa:",
+                "> Mikaeli, Obadia, Yoeli, na Ishia—wote watano,",
+                "> wote walikuwa watu wakuu."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Pamoja na wazao wao, kulingana na nyumba za baba zao, walikuwa na askari elfu thelathini na sita kwa vita,",
+                "> kwa kuwa walikuwa na wake wengi na wana."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Ndugu zao kati ya familia zote za Isakari,",
+                "> mashujaa hodari,",
+                "> walihesabiwa kwa nasaba—elfu themanini na saba wote."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Wana wa Benyamini walikuwa:",
+                "> Bela, Bekeri, na Yediaeli—watatu."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Wana wa Bela walikuwa:",
+                "> Esboni, Uzi, Uzieli, Yerimothi, na Iri—watano;",
+                "> walikuwa viongozi wa nyumba za baba zao, mashujaa hodari,",
+                "> na walihesabiwa kwa nasaba—elfu ishirini na mbili na thelathini na nne."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Wana wa Bekeri walikuwa:",
+                "> Zemira, Yoashi, Eliezeri, Elioenai, Omri, Yeremothi, Abiya, Anathothi, na Alemeti.",
+                "> Hawa wote walikuwa wana wa Bekeri."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Walihesabiwa kwa nasaba kulingana na vizazi vyao,",
+                "viongozi wa nyumba za baba zao, mashujaa hodari—",
+                "> elfu ishirini na mia mbili."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Mwana wa Yediaeli alikuwa Bilhani.",
+                "Na wana wa Bilhani walikuwa:",
+                "> Yeushi, Benyamini, Ehudi, Kenaana, Zethani, Tarshishi, na Ahishahari."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Hawa wote walikuwa wana wa Yediaeli,",
+                "> kulingana na viongozi wa nyumba za baba zao,",
+                "> elfu kumi na saba na mia mbili mashujaa hodari, tayari kwenda vitani na jeshi."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Shupimu na Hupimu walikuwa wana wa Iri;",
+                "> Hushimu alikuwa mzao wa Aheri."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Wana wa Naftali walikuwa:",
+                "> Yahzieli, Guni, Yezeri, na Shalumu—wana wa Bilha."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Wana wa Manase walikuwa:",
+                "> Asrieli, ambaye suria wake Mwaramu alimzalia;",
+                "> alimzaa Makiri baba wa Gileadi."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Makiri alioa mke kwa ajili ya Hupimu na Shupimu,",
+                "> na dada yao aliitwa Maaka.",
+                "> Wa pili aliitwa Selofehadi,",
+                "> na Selofehadi alikuwa na binti."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Maaka, mke wa Makiri, alimzaa mwana,",
+                "> ambaye alimwita Pereshi;",
+                "> na ndugu yake alikuwa Shereshi.",
+                "> Wana wake walikuwa:",
+                "> Ulamu na Rakemu."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Mwana wa Ulamu alikuwa Bedani.",
+                "> Hawa walikuwa wazao wa Gileadi, mwana wa Makiri, mwana wa Manase."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Hammolekethi, dada yake, alikuwa mama wa:",
+                "> Ishodi, Abiezeri, na Mahla."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Wazao wa Shemida walikuwa:",
+                "> Ahiani, Shekemu, Liki, na Aniamu."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Wana wa Efraimu walikuwa:",
+                "> Shuthela, na Beredi mwanawe, na Tahathi mwanawe,",
+                "> na Eleada mwanawe, na Tahathi mwanawe,"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> na Zabadi mwanawe, na Shuthela mwanawe,",
+                "> na Ezeri na Eleadi.",
+                "> Lakini watu wa Gathi waliozaliwa katika nchi waliwaua,",
+                "> kwa sababu walishuka kuchukua mifugo yao."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Baba yao Efraimu aliomboleza kwa siku nyingi,",
+                "> na jamaa zake walikuja kumfariji."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Kisha akaenda kwa mke wake, naye akapata mimba na kuzaa mwana,",
+                "> ambaye alimwita Beria, kwa sababu msiba ulikuwa umekuja juu ya nyumba yake."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Binti yake alikuwa Sheera,",
+                "> ambaye alijenga Beth-horoni ya Chini na ya Juu, na Uzzeni-sheera."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Refa alikuwa mwanawe,",
+                "> pamoja na Reshefu, Telahi ambaye alikuwa baba, Tahani ambaye alikuwa baba,"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> Ladani ambaye alikuwa baba, Amihudi ambaye alikuwa baba, Elishama ambaye alikuwa baba,"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> Nuni ambaye alikuwa baba wa Yoshua."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Milki yao na makao yao yalikuwa:",
+                "> Betheli na vijiji vyake,",
+                "> na upande wa mashariki Naarani, na upande wa magharibi Gezeri na vijiji vyake,",
+                "> pia Shekemu na vijiji vyake, hadi Aya na vijiji vyake."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Na kando ya mipaka ya wana wa Manase:",
+                "> Beth-shani, Taanaki, Megido, na Dori, na vijiji vyake.",
+                "> Humo waliishi wana wa Yosefu mwana wa Israeli."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Wana wa Asheri walikuwa:",
+                "> Imna, Ishva, Ishvi, na Beria,",
+                "> na dada yao Seraha."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Wana wa Beria walikuwa:",
+                "> Heberi na Malkieli, ambaye alikuwa baba wa Birzaiti."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Watoto wa Heberi walikuwa:",
+                "> Yafleti, Shomeri, Hothamu, na dada yao Shua."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Wana wa Yafleti walikuwa:",
+                "> Pasaki, Bimhali, na Ashvathi.",
+                "> Hawa walikuwa wazao wa Yafleti."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Wana wa Shemeri walikuwa:",
+                "> Ahi, Rohga, Yehuba, na Aramu."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Wana wa ndugu yake Helemu walikuwa:",
+                "> Zofa, Imna, Sheleshi, na Amali."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Wana wa Zofa walikuwa:",
+                "> Suwa, Harneferi, Shuali, Beri, Imra,"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "> Bezeri, Hodi, na Shama, Shilsha, Ithrani, na Beera."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Wana wa Yetheri walikuwa:",
+                "> Yefune, Pispa, na Ara."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Wana wa Ula walikuwa:",
+                "> Ara, Hanieli, na Rizia."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Hawa wote walikuwa wana wa Asheri,",
+                "> viongozi wa nyumba za baba zao, watu teule na mashujaa hodari, wakuu wa wakuu.",
+                "> Na idadi yao walioandikishwa kwa nasaba kwa ajili ya huduma ya vita ilikuwa",
+                "> elfu ishirini na sita."
+            ]
+        }
+    ]
+}

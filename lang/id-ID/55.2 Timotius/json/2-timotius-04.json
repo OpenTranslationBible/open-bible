@@ -1,126 +1,139 @@
 {
-  "book": "2 Timotius",
-  "chapter": 4,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "Aku sungguh-sungguh menasihatkan engkau di hadapan Tuhan dan Kristus Yesus, yang akan menghakimi orang yang hidup dan yang mati, dan demi penampakan-Nya dan kerajaan-Nya:"
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "Beritakanlah firman; siap sedialah baik atau tidak baik waktunya; tegurlah, hardiklah, dan nasihatilah dengan segala kesabaran dan pengajaran yang teliti."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "Karena akan datang waktunya, orang tidak akan menerima ajaran sehat; tetapi karena ingin mendengar hal-hal yang menyenangkan telinga, mereka akan mengumpulkan guru-guru bagi diri mereka sendiri sesuai dengan keinginan mereka,"
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "dan mereka akan memalingkan telinga mereka dari kebenaran dan beralih kepada dongeng-dongeng."
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "Tetapi engkau, kuasailah dirimu dalam segala hal, sabarlah menderita, lakukanlah pekerjaan pemberita Injil, tunaikanlah pelayananmu."
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "Karena aku sudah hampir dicurahkan sebagai persembahan, dan waktu keberangkatanku sudah dekat."
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "Aku telah berjuang dalam pertandingan yang baik, aku telah menyelesaikan perlombaan, aku telah memelihara iman;"
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "Sekarang telah tersedia bagiku mahkota kebenaran, yang akan diberikan kepadaku oleh Tuhan, Hakim yang adil, pada hari itu; dan bukan hanya kepadaku, tetapi juga kepada semua orang yang merindukan penampakan-Nya."
-      ]
-    },
-    {
-      "verse": 9,
-      "text": ["Berusahalah sekuat tenaga untuk segera mengunjungiku;"]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "karena Demas, yang mencintai dunia ini, telah meninggalkan aku dan pergi ke Tesalonika; Kreskes telah pergi ke Galatia, Titus ke Dalmatia."
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "Hanya Lukas yang tinggal bersamaku. Ambillah Markus dan bawalah dia bersamamu, karena dia berguna bagiku dalam pelayanan."
-      ]
-    },
-    {
-      "verse": 12,
-      "text": ["Aku telah mengutus Tikhikus ke Efesus."]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "Jika engkau datang, bawalah jubah yang kutinggalkan di Troas pada Karpus, dan juga kitab-kitab, terutama perkamen."
-      ]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "Aleksander, tukang tembaga, telah banyak merugikan aku; Tuhan akan membalasnya sesuai dengan perbuatannya."
-      ]
-    },
-    {
-      "verse": 15,
-      "text": ["Berhati-hatilah juga terhadap dia, karena dia sangat menentang pesan kita."]
-    },
-    {
-      "verse": 16,
-      "text": [
-        "Pada pembelaan pertamaku tidak ada seorang pun yang mendukung aku, tetapi semua meninggalkan aku; kiranya itu tidak diperhitungkan kepada mereka."
-      ]
-    },
-    {
-      "verse": 17,
-      "text": [
-        "Tetapi Tuhan berdiri di sampingku dan memberiku kekuatan, sehingga melalui aku pesan itu dapat sepenuhnya diberitakan, dan semua bangsa bukan Yahudi dapat mendengarnya; dan aku diselamatkan dari mulut singa."
-      ]
-    },
-    {
-      "verse": 18,
-      "text": [
-        "Tuhan akan melepaskan aku dari setiap perbuatan jahat, dan akan membawaku dengan selamat ke dalam kerajaan-Nya yang surgawi; bagi-Nya kemuliaan selama-lamanya. Amin."
-      ]
-    },
-    {
-      "verse": 19,
-      "text": ["Sampaikan salam kepada Priska dan Akwila, dan kepada keluarga Onesiforus."]
-    },
-    {
-      "verse": 20,
-      "text": ["Erastus tinggal di Korintus, tetapi aku meninggalkan Trofimus sakit di Miletus."]
-    },
-    {
-      "verse": 21,
-      "text": [
-        "Berusahalah sebaik mungkin untuk datang sebelum musim dingin. Eubulus menyampaikan salam kepadamu, demikian juga Pudens, Linus, Klaudia, dan semua saudara dan saudari."
-      ]
-    },
-    {
-      "verse": 22,
-      "text": ["Kiranya Tuhan menyertai rohmu.", "Kiranya kasih karunia menyertai kamu."]
-    }
-  ]
+    "book": "2 Timotius",
+    "chapter": 4,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Aku sungguh-sungguh menasihatkan engkau di hadapan Tuhan dan Kristus Yesus, yang akan menghakimi orang yang hidup dan yang mati, dan demi penampakan-Nya dan kerajaan-Nya:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Beritakanlah firman; siap sedialah baik atau tidak baik waktunya; tegurlah, hardiklah, dan nasihatilah dengan segala kesabaran dan pengajaran yang teliti."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Karena akan datang waktunya, orang tidak akan menerima ajaran sehat; tetapi karena ingin mendengar hal-hal yang menyenangkan telinga, mereka akan mengumpulkan guru-guru bagi diri mereka sendiri sesuai dengan keinginan mereka,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "dan mereka akan memalingkan telinga mereka dari kebenaran dan beralih kepada dongeng-dongeng."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Tetapi engkau, kuasailah dirimu dalam segala hal, sabarlah menderita, lakukanlah pekerjaan pemberita Injil, tunaikanlah pelayananmu."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Karena aku sudah hampir dicurahkan sebagai persembahan, dan waktu keberangkatanku sudah dekat."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Aku telah berjuang dalam pertandingan yang baik, aku telah menyelesaikan perlombaan, aku telah memelihara iman;"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Sekarang telah tersedia bagiku mahkota kebenaran, yang akan diberikan kepadaku oleh Tuhan, Hakim yang adil, pada hari itu; dan bukan hanya kepadaku, tetapi juga kepada semua orang yang merindukan penampakan-Nya."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Berusahalah sekuat tenaga untuk segera mengunjungiku;"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "karena Demas, yang mencintai dunia ini, telah meninggalkan aku dan pergi ke Tesalonika; Kreskes telah pergi ke Galatia, Titus ke Dalmatia."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Hanya Lukas yang tinggal bersamaku. Ambillah Markus dan bawalah dia bersamamu, karena dia berguna bagiku dalam pelayanan."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Aku telah mengutus Tikhikus ke Efesus."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Jika engkau datang, bawalah jubah yang kutinggalkan di Troas pada Karpus, dan juga kitab-kitab, terutama perkamen."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Aleksander, tukang tembaga, telah banyak merugikan aku; Tuhan akan membalasnya sesuai dengan perbuatannya."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Berhati-hatilah juga terhadap dia, karena dia sangat menentang pesan kita."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Pada pembelaan pertamaku tidak ada seorang pun yang mendukung aku, tetapi semua meninggalkan aku; kiranya itu tidak diperhitungkan kepada mereka."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Tetapi Tuhan berdiri di sampingku dan memberiku kekuatan, sehingga melalui aku pesan itu dapat sepenuhnya diberitakan, dan semua bangsa bukan Yahudi dapat mendengarnya; dan aku diselamatkan dari mulut singa."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Tuhan akan melepaskan aku dari setiap perbuatan jahat, dan akan membawaku dengan selamat ke dalam kerajaan-Nya yang surgawi; bagi-Nya kemuliaan selama-lamanya. Amin."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Sampaikan salam kepada Priska dan Akwila, dan kepada keluarga Onesiforus."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Erastus tinggal di Korintus, tetapi aku meninggalkan Trofimus sakit di Miletus."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Berusahalah sebaik mungkin untuk datang sebelum musim dingin. Eubulus menyampaikan salam kepadamu, demikian juga Pudens, Linus, Klaudia, dan semua saudara dan saudari."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Kiranya Tuhan menyertai rohmu.",
+                "Kiranya kasih karunia menyertai kamu."
+            ]
+        }
+    ]
 }

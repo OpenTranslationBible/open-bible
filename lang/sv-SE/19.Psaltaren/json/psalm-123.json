@@ -1,0 +1,47 @@
+{
+    "book": "Psaltaren",
+    "chapter": 123,
+    "verses": [
+        {
+            "text": [
+                "En vallfartssång."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Till dig har jag lyft mina ögon,",
+                "> du som tronar i himlen!"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Se, såsom tjänarnas ögon ser på sin herres hand,",
+                "> och såsom tjänarinnans ögon ser på sin frus hand,",
+                "> så ser våra ögon på Herren vår Gud,",
+                "> tills han visar oss sin nåd."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Visa oss din nåd, Herre, visa oss din nåd,",
+                "> ty vi har fått nog av förakt."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Vår själ har fått nog",
+                "> av de sorglösas hån,",
+                "> och av de högmodigas förakt."
+            ]
+        }
+    ]
+}

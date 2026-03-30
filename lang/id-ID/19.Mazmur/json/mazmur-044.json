@@ -1,202 +1,233 @@
 {
-  "book": "Mazmur",
-  "chapter": 44,
-  "verses": [
-    {
-      "text": ["Untuk pemimpin musik. Nyanyian pengajaran dari bani Korah."]
-    },
-    {
-      "verse": 1,
-      "text": [
-        "> Ya Tuhan, dengan telinga kami telah kami dengar,",
-        "> Nenek moyang kami telah menceritakan kepada kami",
-        "> Pekerjaan yang Engkau lakukan pada zaman mereka,",
-        "> Pada zaman dahulu kala."
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "> Dengan tangan-Mu yang perkasa, Engkau menghalau bangsa-bangsa dan menegakkan nenek moyang kami;",
-        "> Engkau menindas bangsa-bangsa dan kemudian membebaskan mereka."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "> Sebab bukan dengan pedang mereka sendiri mereka memiliki tanah itu,",
-        "> Dan bukan lengan mereka sendiri yang menyelamatkan mereka,",
-        "> Tetapi tangan kanan-Mu dan lengan-Mu dan cahaya wajah-Mu,",
-        "> Karena Engkau berkenan kepada mereka."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 4,
-      "text": ["> Engkau adalah rajaku, ya Tuhan;", "> Berikan kemenangan bagi Yakub."]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "> Melalui Engkau, kami akan menghalau lawan kami;",
-        "> Dalam nama-Mu, kami akan mengalahkan mereka yang bangkit melawan kami."
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "> Sebab aku tidak akan mengandalkan busurku,",
-        "> Dan pedangku tidak akan menyelamatkanku."
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "> Tetapi Engkau telah menyelamatkan kami dari lawan kami,",
-        "> Dan Engkau telah mempermalukan mereka yang membenci kami."
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "> Dalam Tuhan, kami telah memuliakan sepanjang hari,",
-        "> Dan kami akan terus-menerus mengucap syukur kepada nama-Mu.",
-        "> Sela"
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "> Namun Engkau telah menolak kami dan membawa kami ke dalam kehinaan,",
-        "> Dan tidak pergi bersama pasukan kami."
-      ]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "> Engkau membuat kami mundur dari musuh,",
-        "> Dan mereka yang membenci kami telah mengambil jarahan bagi diri mereka sendiri."
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "> Engkau menyerahkan kami seperti domba untuk dimakan,",
-        "> Dan telah mencerai-beraikan kami di antara bangsa-bangsa."
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "> Engkau telah menjual umat-Mu dengan harga murah,",
-        "> Dan tidak mendapatkan keuntungan dari penjualan mereka."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "> Engkau membuat kami menjadi bahan celaan bagi tetangga kami,",
-        "> Bahan ejekan dan cemoohan bagi mereka yang di sekitar kami."
-      ]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "> Engkau telah membuat kami menjadi perumpamaan di antara bangsa-bangsa,",
-        "> Sumber penghinaan di antara bangsa-bangsa."
-      ]
-    },
-    {
-      "verse": 15,
-      "text": [
-        "> Sepanjang hari kehinaanku ada di hadapanku,",
-        "> Dan aku ditutupi dengan rasa maluku,"
-      ]
-    },
-    {
-      "verse": 16,
-      "text": ["> Karena suara orang yang menghina dan mencemooh,", "> Karena musuh dan pendendam."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 17,
-      "text": [
-        "> Semua ini telah menimpa kami, namun kami tidak melupakan Engkau,",
-        "> Dan kami tetap setia pada perjanjian-Mu."
-      ]
-    },
-    {
-      "verse": 18,
-      "text": ["> Hati kami tidak berbalik,", "> Dan langkah kami tidak menyimpang dari jalan-Mu,"]
-    },
-    {
-      "verse": 19,
-      "text": [
-        "> Namun Engkau telah menghancurkan kami di tempat yang sunyi,",
-        "> Dan menutupi kami dengan kegelapan yang dalam."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 20,
-      "text": [
-        "> Jika kami melupakan nama Tuhan kami",
-        "> Atau mengulurkan tangan kepada dewa asing,"
-      ]
-    },
-    {
-      "verse": 21,
-      "text": ["> Tidakkah Tuhan akan menemukannya?", "> Karena Dia mengetahui rahasia hati."]
-    },
-    {
-      "verse": 22,
-      "text": [
-        "> Namun demi Engkau, kami berada dalam bahaya sepanjang hari;",
-        "> Kami dianggap seperti domba yang ditentukan untuk disembelih."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 23,
-      "text": [
-        "> Bangunlah, mengapa Engkau tidur, Tuhan?",
-        "> Bangkitlah, jangan menolak kami selamanya."
-      ]
-    },
-    {
-      "verse": 24,
-      "text": [
-        "> Mengapa Engkau menyembunyikan wajah-Mu",
-        "> Dan mengabaikan penderitaan dan penindasan kami?"
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 25,
-      "text": [
-        "> Sebab jiwa kami telah dibawa turun ke dalam debu;",
-        "> Tubuh kami melekat pada tanah."
-      ]
-    },
-    {
-      "verse": 26,
-      "text": ["> Bangkitlah, jadilah penolong kami,", "> Dan tebuslah kami karena kasih setia-Mu."]
-    }
-  ]
+    "book": "Mazmur",
+    "chapter": 44,
+    "verses": [
+        {
+            "text": [
+                "Untuk pemimpin musik. Nyanyian pengajaran dari bani Korah."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Ya Tuhan, dengan telinga kami telah kami dengar,",
+                "> Nenek moyang kami telah menceritakan kepada kami",
+                "> Pekerjaan yang Engkau lakukan pada zaman mereka,",
+                "> Pada zaman dahulu kala."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Dengan tangan-Mu yang perkasa, Engkau menghalau bangsa-bangsa dan menegakkan nenek moyang kami;",
+                "> Engkau menindas bangsa-bangsa dan kemudian membebaskan mereka."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Sebab bukan dengan pedang mereka sendiri mereka memiliki tanah itu,",
+                "> Dan bukan lengan mereka sendiri yang menyelamatkan mereka,",
+                "> Tetapi tangan kanan-Mu dan lengan-Mu dan cahaya wajah-Mu,",
+                "> Karena Engkau berkenan kepada mereka."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Engkau adalah rajaku, ya Tuhan;",
+                "> Berikan kemenangan bagi Yakub."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Melalui Engkau, kami akan menghalau lawan kami;",
+                "> Dalam nama-Mu, kami akan mengalahkan mereka yang bangkit melawan kami."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Sebab aku tidak akan mengandalkan busurku,",
+                "> Dan pedangku tidak akan menyelamatkanku."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Tetapi Engkau telah menyelamatkan kami dari lawan kami,",
+                "> Dan Engkau telah mempermalukan mereka yang membenci kami."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Dalam Tuhan, kami telah memuliakan sepanjang hari,",
+                "> Dan kami akan terus-menerus mengucap syukur kepada nama-Mu.",
+                "> Sela"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Namun Engkau telah menolak kami dan membawa kami ke dalam kehinaan,",
+                "> Dan tidak pergi bersama pasukan kami."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Engkau membuat kami mundur dari musuh,",
+                "> Dan mereka yang membenci kami telah mengambil jarahan bagi diri mereka sendiri."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Engkau menyerahkan kami seperti domba untuk dimakan,",
+                "> Dan telah mencerai-beraikan kami di antara bangsa-bangsa."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Engkau telah menjual umat-Mu dengan harga murah,",
+                "> Dan tidak mendapatkan keuntungan dari penjualan mereka."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Engkau membuat kami menjadi bahan celaan bagi tetangga kami,",
+                "> Bahan ejekan dan cemoohan bagi mereka yang di sekitar kami."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Engkau telah membuat kami menjadi perumpamaan di antara bangsa-bangsa,",
+                "> Sumber penghinaan di antara bangsa-bangsa."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Sepanjang hari kehinaanku ada di hadapanku,",
+                "> Dan aku ditutupi dengan rasa maluku,"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Karena suara orang yang menghina dan mencemooh,",
+                "> Karena musuh dan pendendam."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Semua ini telah menimpa kami, namun kami tidak melupakan Engkau,",
+                "> Dan kami tetap setia pada perjanjian-Mu."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Hati kami tidak berbalik,",
+                "> Dan langkah kami tidak menyimpang dari jalan-Mu,"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Namun Engkau telah menghancurkan kami di tempat yang sunyi,",
+                "> Dan menutupi kami dengan kegelapan yang dalam."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> Jika kami melupakan nama Tuhan kami",
+                "> Atau mengulurkan tangan kepada dewa asing,"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> Tidakkah Tuhan akan menemukannya?",
+                "> Karena Dia mengetahui rahasia hati."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> Namun demi Engkau, kami berada dalam bahaya sepanjang hari;",
+                "> Kami dianggap seperti domba yang ditentukan untuk disembelih."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> Bangunlah, mengapa Engkau tidur, Tuhan?",
+                "> Bangkitlah, jangan menolak kami selamanya."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Mengapa Engkau menyembunyikan wajah-Mu",
+                "> Dan mengabaikan penderitaan dan penindasan kami?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> Sebab jiwa kami telah dibawa turun ke dalam debu;",
+                "> Tubuh kami melekat pada tanah."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> Bangkitlah, jadilah penolong kami,",
+                "> Dan tebuslah kami karena kasih setia-Mu."
+            ]
+        }
+    ]
 }

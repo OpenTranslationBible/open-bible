@@ -1,0 +1,414 @@
+{
+    "book": "5. Mooseksen kirja",
+    "chapter": 28,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Jos kuulet tarkoin Herran, sinun Jumalasi, ääntä ja noudatat huolellisesti kaikkia hänen käskyjään, jotka minä tänä päivänä sinulle annan, niin Herra, sinun Jumalasi, asettaa sinut kaikkien maan kansojen yläpuolelle."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Kaikki nämä siunaukset tulevat osaksesi ja saavuttavat sinut, jos kuulet Herran, sinun Jumalasi, ääntä:"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Siunattu olet kaupungissa ja siunattu olet maaseudulla."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Siunattu on kohtusi hedelmä, maasi sato ja karjasi jälkeläiset—karjasi vasikat ja lampaittesi karitsat."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Siunattu on sinun korisi ja taikinakaukalosi."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Siunattu olet tullessasi ja siunattu olet lähtiessäsi."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Herra antaa vihollistesi, jotka nousevat sinua vastaan, joutua tappiolle edessäsi. He tulevat kimppuusi yhdestä suunnasta, mutta pakenevat seitsemään suuntaan."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Herra käskee siunauksen olemaan sinun aitoissasi ja kaikessa, mihin kätesi ryhtyy, ja hän siunaa sinua siinä maassa, jonka Herra, sinun Jumalasi, sinulle antaa."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Herra vahvistaa sinut pyhäksi kansakseen, kuten hän on sinulle vannonut, jos pidät Herran, sinun Jumalasi, käskyt ja vaellat hänen teitään."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Silloin kaikki maan kansat näkevät, että sinut on kutsuttu Herran nimellä, ja he pelkäävät sinua."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Herra antaa sinulle runsasta menestystä—kohtusi hedelmässä, karjasi jälkeläisissä ja maasi sadossa—siinä maassa, jonka hän vannoi esi-isillesi antavansa sinulle."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Herra avaa sinulle taivaan, runsautensa aarrekammion, antaakseen maallesi sateen ajallaan ja siunatakseen kaikkia kättesi töitä. Sinä lainaat monille kansoille, mutta et lainaa itse."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Herra tekee sinut pääksi eikä hännäksi. Jos kuuntelet Herran, sinun Jumalasi, käskyjä, jotka minä tänä päivänä sinulle annan, ja noudatat niitä huolellisesti, olet aina ylhäällä etkä koskaan alhaalla."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Älä poikkea oikealle äläkä vasemmalle mistään käskyistä, jotka minä tänä päivänä sinulle annan, äläkä seuraa muita jumalia palvellaksesi niitä."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Mutta jos et kuule Herran, sinun Jumalasi, ääntä etkä noudata huolellisesti kaikkia hänen käskyjään ja säädöksiään, jotka minä tänä päivänä sinulle annan, niin kaikki nämä kiroukset tulevat osaksesi ja saavuttavat sinut:"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Kirottu olet kaupungissa ja kirottu olet maaseudulla."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Kirottu on sinun korisi ja taikinakaukalosi."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Kirottu on kohtusi hedelmä, maasi sato, karjasi vasikat ja lampaittesi karitsat."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Kirottu olet tullessasi ja kirottu olet lähtiessäsi."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Herra lähettää sinulle kirouksia, hämmennystä ja nuhteita kaikessa, mihin ryhdyt, kunnes sinut tuhotaan ja joudut äkilliseen perikatoon sen pahuuden tähden, jonka olet tehnyt hylkäämällä hänet."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Herra lyö sinua taudeilla, kunnes hän on hävittänyt sinut siitä maasta, jota olet menossa ottamaan haltuusi."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Herra lyö sinua kuihtumataudilla, kuumeella, tulehduksella, polttavalla helteellä, kuivuudella, viljanruosteella ja homeella, jotka vainoavat sinua, kunnes tuhoudut."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Taivas sinun päälläsi on kuin pronssi ja maa allasi kuin rauta."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Herra muuttaa maasi sateen tomuksi ja pölyksi; se sataa päällesi taivaasta, kunnes sinut tuhotaan."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Herra antaa sinun joutua tappiolle vihollistesi edessä. Sinä lähdet heitä vastaan yhdestä suunnasta, mutta pakenet seitsemään suuntaan, ja sinusta tulee kauhistus kaikille maan valtakunnille."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Sinun ruumiisi joutuvat taivaan lintujen ja maan eläinten ruoaksi, eikä kukaan niitä pelästytä."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Herra lyö sinua Egyptin paiseilla, kasvaimilla, märkivillä haavoilla ja syyhyllä, joista et voi parantua."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Herra lyö sinua hulluudella, sokeudella ja mielen hämmennyksellä."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Keskipäivällä haparoit kuin sokea pimeässä. Et onnistu missään toimissasi; sinua sorretaan ja ryöstetään joka päivä, eikä kukaan pelasta sinua."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Sinut kihlataan vaimoksi, mutta toinen mies makaa hänen kanssaan. Rakennat talon, mutta et asu siinä. Istutat viinitarhan, mutta et nauti sen hedelmää."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Härkäsi teurastetaan silmiesi edessä, mutta et syö siitä. Aasisi ryöstetään väkivalloin, eikä sitä palauteta. Lampaitasi annetaan vihollisillesi, eikä kukaan pelasta niitä."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Poikasi ja tyttäresi annetaan toiselle kansalle, ja silmäsi näkevät ja ikävöivät heitä joka päivä, mutta et voi tehdä mitään."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Kansa, jota et tunne, syö maasi ja työsi hedelmät, ja sinä kärsit vain sortoa ja ahdistusta kaikkina päivinäsi."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Näkemäsi asiat ajavat sinut hulluuteen."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Herra lyö sinua polvien ja säärien paiseilla, jotka eivät parane, ja ne leviävät jalkapohjistasi päälaellesi."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Herra vie sinut ja kuninkaasi, jonka asetat ylitsesi, kansaan, jota et tunne, etkä sinun isäsi. Siellä palvelet muita jumalia, puusta ja kivestä tehtyjä."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Sinusta tulee kauhistus, sananlasku ja pilkan kohde kaikkien kansojen keskuudessa, joihin Herra sinut ajaa."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Kylvät paljon siementä peltoosi, mutta korjaat vähän, sillä heinäsirkat syövät sen."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Istutat viinitarhoja ja viljelet niitä, mutta et juo viiniä etkä korjaa rypäleitä, sillä madot syövät ne."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Sinulla on oliivipuita kaikkialla maassasi, mutta et käytä niiden öljyä, sillä oliivit putoavat."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Saat poikia ja tyttäriä, mutta et pidä heitä, sillä he menevät pakkosiirtolaisuuteen."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Heinäsirkkaparvet syövät kaikki puusi ja maasi sadon."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Muukalaiset, jotka asuvat keskuudessasi, nousevat yhä korkeammalle ja korkeammalle sinun ylitsesi, mutta sinä laskeudut yhä alemmaksi."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "He lainaavat sinulle, mutta sinä et lainaa heille. He ovat päälliköitä, ja sinä seuraat."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Kaikki nämä kiroukset tulevat osaksesi. Ne vainoavat sinua ja saavuttavat sinut, kunnes sinut tuhotaan, koska et kuullut Herran, sinun Jumalasi, ääntä etkä noudattanut hänen käskyjään ja säädöksiään, jotka hän sinulle antoi."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Ne ovat merkkinä ja ihmeenä sinulle ja jälkeläisillesi ikuisesti."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "Koska et palvellut Herraa, sinun Jumalaasi, ilolla ja riemulla menestyksen aikana,"
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "niin nälässä ja janossa, alastomuudessa ja äärimmäisessä köyhyydessä palvelet vihollisiasi, jotka Herra lähettää sinua vastaan. Hän panee rautaisen ikeen kaulaasi, kunnes hän on sinut tuhonnut."
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "Herra tuo sinua vastaan kansan kaukaa, maan ääristä, kuin kotka syöksyen alas, kansan, jonka kieltä et ymmärrä,"
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "kansan, jolla on julmat kasvot, joka ei kunnioita vanhoja eikä sääli nuoria."
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "He syövät karjasi jälkeläiset ja maasi sadon, kunnes sinut tuhotaan. He eivät jätä sinulle viljaa, viiniä tai öljyä, eivätkä karjasi vasikoita tai lampaittesi karitsoja, kunnes sinut on tuhottu."
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "He piirittävät kaikki kaupunkisi, kunnes korkeat ja lujat muurisi, joihin luotit, kaatuvat. He piirittävät kaikki kaupunkisi kautta koko maan, jonka Herra, sinun Jumalasi, on sinulle antanut."
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "Piirityksen aikana, jonka vihollisesi sinulle aiheuttaa, joudut syömään kohtusi hedelmää, Herran, sinun Jumalasi, sinulle antamien poikien ja tyttärien lihaa."
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "Jopa lempein ja herkin mies keskuudessasi menettää myötätuntonsa omaa veljeään, rakastamaansa vaimoa ja jäljellä olevia lapsiaan kohtaan,"
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "eikä hän jaa heille lastensa lihaa, jota hän syö. Se on kaikki, mitä hänelle jää, koska vihollisesi aiheuttaa sinulle ahdinkoa kaikkien kaupunkiesi piirityksen aikana."
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "Lempein ja herkin nainen keskuudessasi—niin hieno ja herkkä, ettei hän uskaltaisi koskettaa maata jalkapohjallaan—kadehtii rakastamaansa aviomiestä ja omaa poikaansa tai tytärtään"
+            ]
+        },
+        {
+            "verse": 57,
+            "text": [
+                "kohdusta tulevaa jälkeläistä ja lapsia, joita hän synnyttää. Suuressa hädässään hän aikoo syödä heidät salaa, koska vihollisesi aiheuttaa sinulle ahdinkoa kaupunkiesi piirityksen aikana."
+            ]
+        },
+        {
+            "verse": 58,
+            "text": [
+                "Jos et noudata tarkoin kaikkia tämän lain sanoja, jotka on kirjoitettu tähän kirjaan, etkä kunnioita tätä kunniakasta ja pelottavaa nimeä—Herraa, sinun Jumalaasi—"
+            ]
+        },
+        {
+            "verse": 59,
+            "text": [
+                "niin Herra lähettää sinulle ja jälkeläisillesi kauhistuttavia vitsauksia, ankaria ja pitkittyneitä onnettomuuksia ja vakavia ja pitkäkestoisia sairauksia."
+            ]
+        },
+        {
+            "verse": 60,
+            "text": [
+                "Hän tuo sinulle kaikki Egyptin taudit, joita pelkäsit, ja ne tarttuvat sinuun."
+            ]
+        },
+        {
+            "verse": 61,
+            "text": [
+                "Herra tuo sinulle myös kaikenlaisia sairauksia ja onnettomuuksia, joita ei ole mainittu tässä Lain kirjassa, kunnes sinut on tuhottu."
+            ]
+        },
+        {
+            "verse": 62,
+            "text": [
+                "Teitä, jotka olitte yhtä lukuisia kuin taivaan tähdet, jää vain vähän jäljelle, koska ette kuulleet Herran, teidän Jumalanne, ääntä."
+            ]
+        },
+        {
+            "verse": 63,
+            "text": [
+                "Kuten Herra iloitsi teidän menestyksestänne ja lisääntymisestänne, niin hän iloitsee teidän tuhostanne ja häviöstänne. Teidät revitään juurineen siitä maasta, jota olette menossa ottamaan haltuunne."
+            ]
+        },
+        {
+            "verse": 64,
+            "text": [
+                "Sitten Herra hajottaa teidät kaikkien kansojen sekaan, maan äärestä toiseen. Siellä palvelette muita jumalia—puusta ja kivestä tehtyjä, joita ette te eivätkä teidän isänne ole tunteneet."
+            ]
+        },
+        {
+            "verse": 65,
+            "text": [
+                "Niiden kansojen keskuudessa ette löydä lepoa, ei paikkaa, jossa jalkapohjanne saisi levätä. Siellä Herra antaa teille levottoman mielen, silmät väsyneinä ikävästä ja epätoivoisen sydämen."
+            ]
+        },
+        {
+            "verse": 66,
+            "text": [
+                "Elätte jatkuvassa epävarmuudessa, täynnä pelkoa sekä yöllä että päivällä, ettekä ole koskaan varmoja elämästänne."
+            ]
+        },
+        {
+            "verse": 67,
+            "text": [
+                "Aamulla sanotte: \"Jospa olisi ilta!\" ja illalla: \"Jospa olisi aamu!\"—sydämenne pelon ja silmienne näkemien asioiden tähden."
+            ]
+        },
+        {
+            "verse": 68,
+            "text": [
+                "Herra lähettää teidät takaisin laivoilla Egyptiin matkalle, jota sanoin teidän olevan tekemättä enää koskaan. Siellä tarjoatte itseänne myytäväksi vihollisillenne orjiksi ja orjattariksi, mutta kukaan ei osta teitä."
+            ]
+        }
+    ]
+}

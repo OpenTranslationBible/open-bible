@@ -1,119 +1,137 @@
 {
-  "book": "Mazmur",
-  "chapter": 92,
-  "verses": [
-    {
-      "text": ["Sebuah Mazmur, sebuah Nyanyian untuk hari Sabat."]
-    },
-    {
-      "verse": 1,
-      "text": [
-        "> Adalah baik untuk mengucap syukur kepada Tuhan",
-        "> Dan menyanyikan pujian bagi nama-Mu, Yang Mahatinggi;"
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "> Untuk memberitakan kasih setia-Mu di pagi hari",
-        "> Dan kesetiaan-Mu di waktu malam,"
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "> Dengan bunyi yang harmonis dari kecapi dan harpa,",
-        "> Dengan musik merdu pada gambus."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "> Sebab Engkau, Tuhan, telah memenuhi aku dengan sukacita melalui perbuatan-Mu,",
-        "> Aku akan bernyanyi dengan sukacita atas karya tangan-Mu."
-      ]
-    },
-    {
-      "verse": 5,
-      "text": ["> Betapa megahnya karya-Mu, Tuhan!", "> Pikiran-Mu sangat dalam."]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "> Orang yang tidak bijaksana tidak memiliki pengetahuan,",
-        "> Juga orang yang bodoh tidak memahami hal ini:"
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "> Ketika orang jahat bertunas seperti rumput",
-        "> Dan semua yang melakukan ketidakadilan berkembang,",
-        "> Itu hanya agar mereka dapat dihancurkan selamanya."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 8,
-      "text": ["> Tetapi Engkau, Tuhan, selamanya di tempat yang tinggi."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "> Sebab sesungguhnya, musuh-musuh-Mu, Tuhan,",
-        "> Sebab sesungguhnya, musuh-musuh-Mu akan binasa;",
-        "> Semua yang melakukan ketidakadilan akan tercerai-berai."
-      ]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "> Tetapi Engkau telah mengangkat tandukku seperti tanduk banteng liar;",
-        "> Aku telah diurapi dengan minyak yang segar."
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "> Dan mataku telah melihat kejatuhan musuh-musuhku,",
-        "> Telingaku mendengar tentang orang-orang jahat yang bangkit melawan aku."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "> Orang benar akan berkembang seperti pohon palem,",
-        "> Mereka akan tumbuh seperti pohon aras di Libanon."
-      ]
-    },
-    {
-      "verse": 13,
-      "text": ["> Berakar di rumah Tuhan,", "> Mereka akan berkembang di pelataran Tuhan kita."]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "> Mereka masih akan berbuah di tahun-tahun kemudian;",
-        "> Mereka akan penuh vitalitas dan sangat hijau,"
-      ]
-    },
-    {
-      "verse": 15,
-      "text": [
-        "> Untuk menyatakan bahwa Tuhan itu benar;",
-        "> Dia adalah batu karangku, dan tidak ada kejahatan di dalam Dia."
-      ]
-    }
-  ]
+    "book": "Mazmur",
+    "chapter": 92,
+    "verses": [
+        {
+            "text": [
+                "Sebuah Mazmur, sebuah Nyanyian untuk hari Sabat."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Adalah baik untuk mengucap syukur kepada Tuhan",
+                "> Dan menyanyikan pujian bagi nama-Mu, Yang Mahatinggi;"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Untuk memberitakan kasih setia-Mu di pagi hari",
+                "> Dan kesetiaan-Mu di waktu malam,"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Dengan bunyi yang harmonis dari kecapi dan harpa,",
+                "> Dengan musik merdu pada gambus."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Sebab Engkau, Tuhan, telah memenuhi aku dengan sukacita melalui perbuatan-Mu,",
+                "> Aku akan bernyanyi dengan sukacita atas karya tangan-Mu."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Betapa megahnya karya-Mu, Tuhan!",
+                "> Pikiran-Mu sangat dalam."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Orang yang tidak bijaksana tidak memiliki pengetahuan,",
+                "> Juga orang yang bodoh tidak memahami hal ini:"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Ketika orang jahat bertunas seperti rumput",
+                "> Dan semua yang melakukan ketidakadilan berkembang,",
+                "> Itu hanya agar mereka dapat dihancurkan selamanya."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Tetapi Engkau, Tuhan, selamanya di tempat yang tinggi."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Sebab sesungguhnya, musuh-musuh-Mu, Tuhan,",
+                "> Sebab sesungguhnya, musuh-musuh-Mu akan binasa;",
+                "> Semua yang melakukan ketidakadilan akan tercerai-berai."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Tetapi Engkau telah mengangkat tandukku seperti tanduk banteng liar;",
+                "> Aku telah diurapi dengan minyak yang segar."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Dan mataku telah melihat kejatuhan musuh-musuhku,",
+                "> Telingaku mendengar tentang orang-orang jahat yang bangkit melawan aku."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Orang benar akan berkembang seperti pohon palem,",
+                "> Mereka akan tumbuh seperti pohon aras di Libanon."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Berakar di rumah Tuhan,",
+                "> Mereka akan berkembang di pelataran Tuhan kita."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Mereka masih akan berbuah di tahun-tahun kemudian;",
+                "> Mereka akan penuh vitalitas dan sangat hijau,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Untuk menyatakan bahwa Tuhan itu benar;",
+                "> Dia adalah batu karangku, dan tidak ada kejahatan di dalam Dia."
+            ]
+        }
+    ]
 }

@@ -1,326 +1,400 @@
 {
-  "book": "1 Tawarikh",
-  "chapter": 26,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "Mengenai pembagian para penjaga pintu gerbang:",
-        "Di antara orang-orang Korah, Meshelemia, anak Kore, dari keturunan Asaf."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "Anak-anak Meshelemia adalah:",
-        "> Zakharia anak sulung, Yediael anak kedua, Zebadia anak ketiga, Yatniel anak keempat,"
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 3,
-      "text": ["> Elam anak kelima, Yehohanan anak keenam, Eliehoenai anak ketujuh."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "Anak-anak Obed-edom adalah:",
-        "> Semaya anak sulung, Yozabad anak kedua, Yoah anak ketiga, Sakhar anak keempat, Netanel anak kelima,"
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "> Amiel anak keenam, Isakhar anak ketujuh, Peuletai anak kedelapan;",
-        "> karena Tuhan telah memberkatinya."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "Juga kepada anaknya Semaya lahir anak-anak,",
-        "> yang memerintah atas rumah ayah mereka, karena mereka adalah orang-orang gagah perkasa."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "Anak-anak Semaya adalah:",
-        "> Otni, Refael, Obed, Elzabad,",
-        "> yang saudara-saudaranya, Elihu dan Semakhya, adalah orang-orang gagah perkasa."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "Semua ini adalah keturunan Obed-edom; mereka dan anak-anak serta saudara-saudara mereka adalah orang-orang yang mampu dengan kekuatan untuk bekerja:",
-        "> enam puluh dua dari Obed-edom."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "Meshelemia memiliki anak-anak dan saudara-saudara, orang-orang yang mampu:",
-        "> delapan belas semuanya."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "Juga Hosah, salah satu anak Merari, memiliki anak-anak:",
-        "> Simri yang pertama (meskipun ia bukan anak sulung, ayahnya menjadikannya yang pertama),"
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "> Hilkia anak kedua, Tebalia anak ketiga, Zakharia anak keempat.",
-        "> Jumlah keseluruhan anak-anak dan saudara-saudara Hosah adalah tiga belas."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "Kepada pembagian para penjaga pintu gerbang ini, para pemimpin, ditugaskan tugas-tugas serupa dengan saudara-saudara mereka,",
-        "> untuk melayani di rumah Tuhan."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "Mereka membuang undi, baik kecil maupun besar,",
-        "menurut rumah tangga ayah mereka, untuk setiap pintu gerbang."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "Undian untuk timur jatuh kepada Selemia.",
-        "Kemudian untuk anaknya Zakharia, seorang penasihat dengan wawasan, mereka membuang undi,",
-        "> dan undiannya jatuh ke utara."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 15,
-      "text": ["Untuk Obed-edom adalah ke selatan,", "> dan untuk anak-anaknya, gudang."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 16,
-      "text": [
-        "Untuk Supim dan Hosah adalah ke barat,",
-        "> di dekat pintu gerbang Salleket di jalan yang naik.",
-        "> Penjaga berhadapan dengan penjaga."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 17,
-      "text": [
-        "Di timur ada enam orang Lewi yang ditugaskan,",
-        "> di utara empat setiap hari,",
-        "> di selatan empat setiap hari,",
-        "> dan di gudang dua sekaligus."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 18,
-      "text": ["Di Parbar di barat ada empat di jalan", "> dan dua di Parbar."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 19,
-      "text": [
-        "Inilah pembagian para penjaga pintu gerbang dari anak-anak orang Korah dan dari anak-anak Merari."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 20,
-      "text": [
-        "Dari orang-orang Lewi, Ahia bertanggung jawab atas harta benda rumah Tuhan",
-        "> dan atas harta benda dari persembahan yang dikhususkan."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 21,
-      "text": [
-        "Anak-anak Ladan, anak-anak orang Gerson dari Ladan, kepala-kepala rumah tangga ayah dari Ladan orang Gerson, adalah:",
-        "> Yehieli."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 22,
-      "text": [
-        "Anak-anak Yehieli adalah:",
-        "> Zetam dan Yoel saudaranya,",
-        "> yang bertanggung jawab atas harta benda rumah Tuhan."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 23,
-      "text": ["Dari keturunan Amram, Yizhar, Hebron, dan Uziel—"]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 24,
-      "text": ["Syebuel, keturunan Gersom dan Musa, bertanggung jawab atas harta benda."]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 25,
-      "text": [
-        "Saudara-saudaranya oleh Eliezer adalah:",
-        "> Rehabia anaknya,",
-        "> dan Yesaya anaknya,",
-        "> dan Yoram anaknya,",
-        "> dan Zikhri anaknya,",
-        "> dan Selomot anaknya."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 26,
-      "text": [
-        "Selomot ini dan saudara-saudaranya bertanggung jawab atas semua harta benda dari persembahan yang dikhususkan,",
-        "> yang Raja Daud dan kepala-kepala rumah tangga ayah,",
-        "> para panglima ribuan dan ratusan,",
-        "> dan para panglima tentara telah khususkan."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 27,
-      "text": [
-        "Mereka mengkhususkan sebagian dari rampasan yang diperoleh dalam pertempuran untuk memperbaiki rumah Tuhan."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 28,
-      "text": [
-        "Dan semua yang Samuel pelihat telah khususkan,",
-        "> dan Saul anak Kish,",
-        "> dan Abner anak Ner,",
-        "> dan Yoab anak Zeruya,",
-        "> segala sesuatu yang telah dikhususkan oleh siapa pun,",
-        "> ada dalam pengawasan Selomot dan saudara-saudaranya."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 29,
-      "text": [
-        "Dari orang-orang Yizhar, Kenania dan anak-anaknya ditugaskan untuk tugas-tugas luar bagi Israel,",
-        "> sebagai pejabat dan hakim."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 30,
-      "text": [
-        "Dari orang-orang Hebron, Hasabia dan saudara-saudaranya, 1.700 orang yang mampu,",
-        "> bertanggung jawab atas urusan Israel di sebelah barat Yordan,",
-        "> untuk semua pekerjaan Tuhan dan pelayanan raja."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 31,
-      "text": [
-        "Dari orang-orang Hebron, Yeria adalah kepala orang-orang Hebron.",
-        "Menurut silsilah mereka berdasarkan rumah tangga ayah,",
-        "> pada tahun keempat puluh pemerintahan Daud mereka diperiksa,",
-        "> dan orang-orang yang mampu ditemukan di antara mereka di Yaezer di Gilead."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 32,
-      "text": [
-        "Dan saudara-saudaranya, orang-orang yang mampu, adalah 2.700 kepala rumah tangga ayah.",
-        "> Dan Raja Daud menunjuk mereka atas orang-orang Ruben, orang-orang Gad, dan setengah suku Manasye,",
-        "> untuk semua urusan Tuhan dan raja."
-      ]
-    }
-  ]
+    "book": "1 Tawarikh",
+    "chapter": 26,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Mengenai pembagian para penjaga pintu gerbang:",
+                "Di antara orang-orang Korah, Meshelemia, anak Kore, dari keturunan Asaf."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Anak-anak Meshelemia adalah:",
+                "> Zakharia anak sulung, Yediael anak kedua, Zebadia anak ketiga, Yatniel anak keempat,"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Elam anak kelima, Yehohanan anak keenam, Eliehoenai anak ketujuh."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Anak-anak Obed-edom adalah:",
+                "> Semaya anak sulung, Yozabad anak kedua, Yoah anak ketiga, Sakhar anak keempat, Netanel anak kelima,"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Amiel anak keenam, Isakhar anak ketujuh, Peuletai anak kedelapan;",
+                "> karena Tuhan telah memberkatinya."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Juga kepada anaknya Semaya lahir anak-anak,",
+                "> yang memerintah atas rumah ayah mereka, karena mereka adalah orang-orang gagah perkasa."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Anak-anak Semaya adalah:",
+                "> Otni, Refael, Obed, Elzabad,",
+                "> yang saudara-saudaranya, Elihu dan Semakhya, adalah orang-orang gagah perkasa."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Semua ini adalah keturunan Obed-edom; mereka dan anak-anak serta saudara-saudara mereka adalah orang-orang yang mampu dengan kekuatan untuk bekerja:",
+                "> enam puluh dua dari Obed-edom."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Meshelemia memiliki anak-anak dan saudara-saudara, orang-orang yang mampu:",
+                "> delapan belas semuanya."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Juga Hosah, salah satu anak Merari, memiliki anak-anak:",
+                "> Simri yang pertama (meskipun ia bukan anak sulung, ayahnya menjadikannya yang pertama),"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Hilkia anak kedua, Tebalia anak ketiga, Zakharia anak keempat.",
+                "> Jumlah keseluruhan anak-anak dan saudara-saudara Hosah adalah tiga belas."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Kepada pembagian para penjaga pintu gerbang ini, para pemimpin, ditugaskan tugas-tugas serupa dengan saudara-saudara mereka,",
+                "> untuk melayani di rumah Tuhan."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Mereka membuang undi, baik kecil maupun besar,",
+                "menurut rumah tangga ayah mereka, untuk setiap pintu gerbang."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Undian untuk timur jatuh kepada Selemia.",
+                "Kemudian untuk anaknya Zakharia, seorang penasihat dengan wawasan, mereka membuang undi,",
+                "> dan undiannya jatuh ke utara."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Untuk Obed-edom adalah ke selatan,",
+                "> dan untuk anak-anaknya, gudang."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Untuk Supim dan Hosah adalah ke barat,",
+                "> di dekat pintu gerbang Salleket di jalan yang naik.",
+                "> Penjaga berhadapan dengan penjaga."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Di timur ada enam orang Lewi yang ditugaskan,",
+                "> di utara empat setiap hari,",
+                "> di selatan empat setiap hari,",
+                "> dan di gudang dua sekaligus."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Di Parbar di barat ada empat di jalan",
+                "> dan dua di Parbar."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Inilah pembagian para penjaga pintu gerbang dari anak-anak orang Korah dan dari anak-anak Merari."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Dari orang-orang Lewi, Ahia bertanggung jawab atas harta benda rumah Tuhan",
+                "> dan atas harta benda dari persembahan yang dikhususkan."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Anak-anak Ladan, anak-anak orang Gerson dari Ladan, kepala-kepala rumah tangga ayah dari Ladan orang Gerson, adalah:",
+                "> Yehieli."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Anak-anak Yehieli adalah:",
+                "> Zetam dan Yoel saudaranya,",
+                "> yang bertanggung jawab atas harta benda rumah Tuhan."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Dari keturunan Amram, Yizhar, Hebron, dan Uziel—"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Syebuel, keturunan Gersom dan Musa, bertanggung jawab atas harta benda."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Saudara-saudaranya oleh Eliezer adalah:",
+                "> Rehabia anaknya,",
+                "> dan Yesaya anaknya,",
+                "> dan Yoram anaknya,",
+                "> dan Zikhri anaknya,",
+                "> dan Selomot anaknya."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Selomot ini dan saudara-saudaranya bertanggung jawab atas semua harta benda dari persembahan yang dikhususkan,",
+                "> yang Raja Daud dan kepala-kepala rumah tangga ayah,",
+                "> para panglima ribuan dan ratusan,",
+                "> dan para panglima tentara telah khususkan."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Mereka mengkhususkan sebagian dari rampasan yang diperoleh dalam pertempuran untuk memperbaiki rumah Tuhan."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Dan semua yang Samuel pelihat telah khususkan,",
+                "> dan Saul anak Kish,",
+                "> dan Abner anak Ner,",
+                "> dan Yoab anak Zeruya,",
+                "> segala sesuatu yang telah dikhususkan oleh siapa pun,",
+                "> ada dalam pengawasan Selomot dan saudara-saudaranya."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Dari orang-orang Yizhar, Kenania dan anak-anaknya ditugaskan untuk tugas-tugas luar bagi Israel,",
+                "> sebagai pejabat dan hakim."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Dari orang-orang Hebron, Hasabia dan saudara-saudaranya, 1.700 orang yang mampu,",
+                "> bertanggung jawab atas urusan Israel di sebelah barat Yordan,",
+                "> untuk semua pekerjaan Tuhan dan pelayanan raja."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Dari orang-orang Hebron, Yeria adalah kepala orang-orang Hebron.",
+                "Menurut silsilah mereka berdasarkan rumah tangga ayah,",
+                "> pada tahun keempat puluh pemerintahan Daud mereka diperiksa,",
+                "> dan orang-orang yang mampu ditemukan di antara mereka di Yaezer di Gilead."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Dan saudara-saudaranya, orang-orang yang mampu, adalah 2.700 kepala rumah tangga ayah.",
+                "> Dan Raja Daud menunjuk mereka atas orang-orang Ruben, orang-orang Gad, dan setengah suku Manasye,",
+                "> untuk semua urusan Tuhan dan raja."
+            ]
+        }
+    ]
 }
