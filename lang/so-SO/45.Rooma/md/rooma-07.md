@@ -1,4 +1,4 @@
-# Rooma Chapter 7
+﻿# Rooma Cutubka 7
 
 ## Rooma 7:1
 Miyaadan garanayn, walaalayaal (waayo, waxaan la hadlayaa kuwa sharciga yaqaan), in sharcigu uu xukun ku leeyahay qofka intuu nool yahay oo keliya?

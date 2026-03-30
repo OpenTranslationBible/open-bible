@@ -1,4 +1,4 @@
-# Galatiya Chapter 1
+﻿# Galatiya Cutubka 1
 
 ## Galatiya 1:1
 Bawlos, rasuul—aan ka imaanin dad ama iyada oo loo marayo hab bini'aadam, laakiin iyada oo loo marayo Ciise Masiix iyo Eebbe Aabbaha, kaas oo isaga ka sara kiciyey kuwii dhintay—

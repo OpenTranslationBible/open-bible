@@ -1,4 +1,4 @@
-# Galatiya Chapter 6
+﻿# Galatiya Cutubka 6
 
 ## Galatiya 6:1
 Walaalayaal, haddii qof lagu qabto khalad kasta, idinka oo ruuxa hagayo waa inaad qofkaas ku soo celisaan ruux deggan. Laakiin iska jira, si aanad adiguna u jirin.

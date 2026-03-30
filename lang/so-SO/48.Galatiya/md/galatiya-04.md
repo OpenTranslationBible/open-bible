@@ -1,4 +1,4 @@
-# Galatiya Chapter 4
+﻿# Galatiya Cutubka 4
 
 ## Galatiya 4:1
 

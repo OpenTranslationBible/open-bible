@@ -1,4 +1,4 @@
-# Galatiya Chapter 2
+﻿# Galatiya Cutubka 2
 
 ## Galatiya 2:1
 

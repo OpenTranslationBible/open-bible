@@ -1,6 +1,6 @@
-# Ezekiel Chapter 20
+﻿# Xesekiel Cutubka 20
 
-## Ezekiel 20:1
+## Xesekiel 20:1
 Sannaddii toddobaad, bishii shanaad, maalintii tobnaad, odayaashii reer binu Israa'iil qaarkood ayaa u yimid inay Eebbe doondoonaan, oo hortayda ayay fadhiisteen.
 
 ## Ezekiel 20:2

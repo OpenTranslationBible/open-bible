@@ -1,4 +1,4 @@
-# Rooma Chapter 13
+﻿# Rooma Cutubka 13
 
 ## Rooma 13:1
 Qof walba waa inuu u hoggaansamaa maamulada xukuma, waayo, ma jiro amar aan ka imaan Eebbe, kuwa jiraana waxaa lagu aasaasay Eebbe.

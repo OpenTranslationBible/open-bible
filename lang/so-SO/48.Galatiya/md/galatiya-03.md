@@ -1,4 +1,4 @@
-# Galatiya Chapter 3
+﻿# Galatiya Cutubka 3
 
 ## Galatiya 3:1
 

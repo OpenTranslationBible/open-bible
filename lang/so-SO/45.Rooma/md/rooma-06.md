@@ -1,4 +1,4 @@
-# Rooma Chapter 6
+﻿# Rooma Cutubka 6
 
 ## Rooma 6:1
 

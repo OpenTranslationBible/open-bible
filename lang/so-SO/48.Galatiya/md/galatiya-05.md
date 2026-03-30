@@ -1,4 +1,4 @@
-# Galatiya Chapter 5
+﻿# Galatiya Cutubka 5
 
 ## Galatiya 5:1
 

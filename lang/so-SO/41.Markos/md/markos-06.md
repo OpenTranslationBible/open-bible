@@ -1,6 +1,6 @@
-# Mark Chapter 6
+﻿# Markos Cutubka 6
 
-## Mark 6:1
+## Markos 6:1
 
 Ciise ayaa ka tegey halkaas oo yimid magaaladiisii, oo xertiisiina way raaceen.
 
