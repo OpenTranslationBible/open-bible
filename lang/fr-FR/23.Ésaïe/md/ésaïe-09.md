@@ -26,7 +26,7 @@ Car un enfant nous est né, un fils nous est donné, et la souveraineté reposer
 
 ## Ésaïe 9:7
 
-## À l'accroissement de sa souveraineté et à la paix il n'y aura pas de fin. Il régnera sur le trône de David et sur son royaume, l'affermissant et le soutenant par le droit et la justice dès maintenant et à jamais. Le zèle de l'Éternel des armées accomplira cela.
+À l'accroissement de sa souveraineté et à la paix il n'y aura pas de fin. Il régnera sur le trône de David et sur son royaume, l'affermissant et le soutenant par le droit et la justice dès maintenant et à jamais. Le zèle de l'Éternel des armées accomplira cela.
 
 ## Ésaïe 9:8
 

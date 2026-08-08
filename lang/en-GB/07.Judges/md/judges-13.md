@@ -44,7 +44,7 @@ The woman hurried to her husband and said, “The man who appeared to me the oth
 
 ## Judges 13:11
 
-## Manoah got up and followed his wife. When he reached the man, he asked, “Are you the man who spoke to my wife?” “I am,” he replied.
+Manoah got up and followed his wife. When he reached the man, he asked, “Are you the man who spoke to my wife?” “I am,” he replied.
 
 ## Judges 13:12
 

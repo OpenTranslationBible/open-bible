@@ -26,7 +26,7 @@ For unto us a child is born, unto us a son is given, and the government will be 
 
 ## Isaiah 9:7
 
-## Of the increase of his government and peace there will be no end. He will reign on David’s throne and over his kingdom, establishing and upholding it with justice and righteousness from that time forth and for evermore. The zeal of the Lord of hosts will accomplish this.
+Of the increase of his government and peace there will be no end. He will reign on David’s throne and over his kingdom, establishing and upholding it with justice and righteousness from that time forth and for evermore. The zeal of the Lord of hosts will accomplish this.
 
 ## Isaiah 9:8
 

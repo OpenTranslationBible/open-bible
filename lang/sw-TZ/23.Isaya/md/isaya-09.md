@@ -26,7 +26,7 @@ Kwa maana kwetu mtoto amezaliwa, kwetu mwana amepewa, na utawala utakuwa mabegan
 
 ## Isaya 9:7
 
-## Kuongezeka kwa utawala wake na amani hakutakuwa na mwisho. Atatawala juu ya kiti cha enzi cha Daudi na juu ya ufalme wake, kuuthibitisha na kuudumisha kwa haki na kwa uadilifu tangu wakati huo na hata milele. Ari ya Bwana wa majeshi itatimiza haya.
+Kuongezeka kwa utawala wake na amani hakutakuwa na mwisho. Atatawala juu ya kiti cha enzi cha Daudi na juu ya ufalme wake, kuuthibitisha na kuudumisha kwa haki na kwa uadilifu tangu wakati huo na hata milele. Ari ya Bwana wa majeshi itatimiza haya.
 
 ## Isaya 9:8
 

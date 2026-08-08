@@ -44,7 +44,7 @@ La femme se hâta d'aller dire à son mari : « L'homme qui m'est apparu l'autre
 
 ## Juges 13:11
 
-## Manoach se leva et suivit sa femme. Lorsqu'il atteignit l'homme, il lui demanda : « Es-tu l'homme qui a parlé à ma femme ? » « Je le suis, » répondit-il.
+Manoach se leva et suivit sa femme. Lorsqu'il atteignit l'homme, il lui demanda : « Es-tu l'homme qui a parlé à ma femme ? » « Je le suis, » répondit-il.
 
 ## Juges 13:12
 

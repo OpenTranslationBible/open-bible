@@ -26,7 +26,7 @@ Karena seorang anak telah lahir bagi kita, seorang putra telah diberikan kepada 
 
 ## Yesaya 9:7
 
-## Peningkatan pemerintahan dan damainya tidak akan ada akhirnya. Dia akan memerintah di atas takhta Daud dan atas kerajaannya, menegakkan dan menopangnya dengan keadilan dan kebenaran dari waktu itu dan seterusnya untuk selama-lamanya. Semangat Tuhan semesta alam akan melaksanakan ini.
+Peningkatan pemerintahan dan damainya tidak akan ada akhirnya. Dia akan memerintah di atas takhta Daud dan atas kerajaannya, menegakkan dan menopangnya dengan keadilan dan kebenaran dari waktu itu dan seterusnya untuk selama-lamanya. Semangat Tuhan semesta alam akan melaksanakan ini.
 
 ## Yesaya 9:8
 

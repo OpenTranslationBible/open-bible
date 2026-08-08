@@ -26,7 +26,7 @@ Sérhver stígvél stríðsmannsins í ólgu bardagans, og sérhver klæði vafi
 
 ## Jesaja 9:7
 
-## Aukning stjórnar hans og friðar mun ekki hafa endi. Hann mun ríkja á hásæti Davíðs og yfir ríki hans, staðfesta og viðhalda því með réttlæti og réttsýni frá þeim tíma og að eilífu. Ástríða Drottins hersveitanna mun framkvæma þetta.
+Aukning stjórnar hans og friðar mun ekki hafa endi. Hann mun ríkja á hásæti Davíðs og yfir ríki hans, staðfesta og viðhalda því með réttlæti og réttsýni frá þeim tíma og að eilífu. Ástríða Drottins hersveitanna mun framkvæma þetta.
 
 ## Jesaja 9:8
 

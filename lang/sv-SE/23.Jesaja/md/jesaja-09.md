@@ -26,7 +26,7 @@ Ty ett barn är oss fött, en son är oss given, och herradömet vilar på hans 
 
 ## Jesaja 9:7
 
-## Hans herradöme ska bli stort och friden utan slut över Davids tron och hans rike, som han ska upprätta och hålla vid makt med rätt och rättfärdighet från nu och till evig tid. Herren Sebaots nitälskan ska göra detta.
+Hans herradöme ska bli stort och friden utan slut över Davids tron och hans rike, som han ska upprätta och hålla vid makt med rätt och rättfärdighet från nu och till evig tid. Herren Sebaots nitälskan ska göra detta.
 
 ## Jesaja 9:8
 

@@ -44,7 +44,7 @@ Perempuan itu segera pergi kepada suaminya dan berkata, “Orang yang menampakka
 
 ## Hakim-Hakim 13:11
 
-## Manoah bangun dan mengikuti istrinya. Ketika dia sampai kepada orang itu, dia bertanya, “Apakah engkau orang yang berbicara kepada istriku?” “Akulah dia,” jawabnya.
+Manoah bangun dan mengikuti istrinya. Ketika dia sampai kepada orang itu, dia bertanya, “Apakah engkau orang yang berbicara kepada istriku?” “Akulah dia,” jawabnya.
 
 ## Hakim-Hakim 13:12
 

@@ -26,7 +26,7 @@ Sillä meille on syntynyt lapsi, meille on annettu poika, ja hallitus on hänen 
 
 ## Jesaja 9:7
 
-## Hänen hallituksensa ja rauhansa lisääntymisellä ei ole loppua. Hän hallitsee Daavidin valtaistuimella ja hänen valtakunnassaan, vahvistaen ja ylläpitäen sitä oikeudella ja vanhurskaudella siitä ajasta lähtien ja ikuisesti. Herran Sebaotin kiivaus tekee tämän.
+Hänen hallituksensa ja rauhansa lisääntymisellä ei ole loppua. Hän hallitsee Daavidin valtaistuimella ja hänen valtakunnassaan, vahvistaen ja ylläpitäen sitä oikeudella ja vanhurskaudella siitä ajasta lähtien ja ikuisesti. Herran Sebaotin kiivaus tekee tämän.
 
 ## Jesaja 9:8
 

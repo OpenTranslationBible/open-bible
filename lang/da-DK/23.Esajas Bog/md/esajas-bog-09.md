@@ -26,7 +26,7 @@ For os er et barn født, os er en søn givet, og herredømmet vil være på hans
 
 ## Esajas 9:7
 
-## Der vil ikke være ende på hans herredømme og fred. Han vil regere på Davids trone og over hans rige, grundfæste og opretholde det med retfærdighed og ret fra nu af og for evigt. Hærskarers Herres nidkærhed vil udrette dette.
+Der vil ikke være ende på hans herredømme og fred. Han vil regere på Davids trone og over hans rige, grundfæste og opretholde det med retfærdighed og ret fra nu af og for evigt. Hærskarers Herres nidkærhed vil udrette dette.
 
 ## Esajas 9:8
 

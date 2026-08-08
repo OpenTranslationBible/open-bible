@@ -26,7 +26,7 @@ Porque un niño nos es nacido, un hijo nos es dado, y el gobierno estará sobre 
 
 ## Isaías 9:7
 
-## Del aumento de su gobierno y de la paz no habrá fin. Reinará sobre el trono de David y sobre su reino, estableciéndolo y sosteniéndolo con justicia y rectitud desde ahora y para siempre. El celo del Señor de los ejércitos hará esto.
+Del aumento de su gobierno y de la paz no habrá fin. Reinará sobre el trono de David y sobre su reino, estableciéndolo y sosteniéndolo con justicia y rectitud desde ahora y para siempre. El celo del Señor de los ejércitos hará esto.
 
 ## Isaías 9:8
 

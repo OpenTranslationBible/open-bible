@@ -44,7 +44,7 @@ Naagtii waxay u carartay ninkeeda oo ku tidhi, “Ninkii maalintii hore ii muuqd
 
 ## Xaakinnada 13:11
 
-## Manoaax wuu kacay oo raacay naagtiisa. Markuu ninkii gaaray, wuxuu weydiiyey, “Ma adigaa ninkii naagta ii hadlay?” “Waa aniga,” ayuu ugu jawaabay.
+Manoaax wuu kacay oo raacay naagtiisa. Markuu ninkii gaaray, wuxuu weydiiyey, “Ma adigaa ninkii naagta ii hadlay?” “Waa aniga,” ayuu ugu jawaabay.
 
 ## Xaakinnada 13:12
 

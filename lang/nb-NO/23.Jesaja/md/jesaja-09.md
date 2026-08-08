@@ -26,7 +26,7 @@ For et barn er oss født, en sønn er oss gitt, og herredømmet skal være på h
 
 ## Jesaja 9:7
 
-## Det skal ikke være ende på veksten av hans herredømme og fred. Han skal regjere på Davids trone og over hans rike, for å grunnfeste det og holde det oppe ved rett og rettferdighet fra nå av og til evig tid. Herren, hærskarenes Gud, skal gjøre dette i sin brennende iver.
+Det skal ikke være ende på veksten av hans herredømme og fred. Han skal regjere på Davids trone og over hans rike, for å grunnfeste det og holde det oppe ved rett og rettferdighet fra nå av og til evig tid. Herren, hærskarenes Gud, skal gjøre dette i sin brennende iver.
 
 ## Jesaja 9:8
 

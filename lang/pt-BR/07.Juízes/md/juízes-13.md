@@ -44,7 +44,7 @@ A mulher correu até seu marido e disse: “O homem que apareceu a mim outro dia
 
 ## Juízes 13:11
 
-## Manoá levantou-se e seguiu sua esposa. Quando chegou ao homem, perguntou: “Você é o homem que falou com minha esposa?” “Eu sou,” ele respondeu.
+Manoá levantou-se e seguiu sua esposa. Quando chegou ao homem, perguntou: “Você é o homem que falou com minha esposa?” “Eu sou,” ele respondeu.
 
 ## Juízes 13:12
 

@@ -26,7 +26,7 @@ Denn uns ist ein Kind geboren, uns ist ein Sohn gegeben, und die Herrschaft wird
 
 ## Jesaja 9:7
 
-## Der Zuwachs seiner Herrschaft und des Friedens wird kein Ende haben. Er wird auf Davids Thron und über sein Königreich herrschen, es mit Recht und Gerechtigkeit von nun an bis in Ewigkeit festigen und stützen. Der Eifer des Herrn der Heerscharen wird dies vollbringen.
+Der Zuwachs seiner Herrschaft und des Friedens wird kein Ende haben. Er wird auf Davids Thron und über sein Königreich herrschen, es mit Recht und Gerechtigkeit von nun an bis in Ewigkeit festigen und stützen. Der Eifer des Herrn der Heerscharen wird dies vollbringen.
 
 ## Jesaja 9:8
 
