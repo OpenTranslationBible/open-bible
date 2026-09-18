@@ -1,4 +1,4 @@
-# Nehemía Bók 13. kafli
+# Nehemía Kafli 13
 
 ## Nehemía 13:1
 

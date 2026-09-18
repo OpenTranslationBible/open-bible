@@ -1,4 +1,4 @@
-# Postulasagan, 9. kafli
+# Postulasagan Kafli 9
 
 ## Postulasagan 9:1
 

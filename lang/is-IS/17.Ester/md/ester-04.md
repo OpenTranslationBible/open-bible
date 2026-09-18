@@ -1,4 +1,4 @@
-# Ester Bók 4. kafli
+# Ester Kafli 4
 
 ## Ester 4:1
 

@@ -1,4 +1,4 @@
-# Malakí 1. kafli
+# Malakí Kafli 1
 
 ## Malakí 1:1
 Orð Drottins til Ísraels fyrir munn Malakí:

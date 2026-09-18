@@ -1,4 +1,4 @@
-# Fyrra Korintubréf 12. kafli
+# Fyrsta Korintubréf Kafli 12
 
 ## Fyrra Korintubréf 12:1
 

@@ -1,4 +1,4 @@
-# Postulasagan, 11. kafli
+# Postulasagan Kafli 11
 
 ## Postulasagan 11:1
 

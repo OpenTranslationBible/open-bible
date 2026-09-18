@@ -1,4 +1,4 @@
-# Fjárbók 31. kafli
+# Fjórða Mósebók Kafli 31
 
 ## Fjárbók 31:1
 

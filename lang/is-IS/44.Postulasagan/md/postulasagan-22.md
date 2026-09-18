@@ -1,4 +1,4 @@
-# Postulasagan, 22. kafli
+# Postulasagan Kafli 22
 
 ## Postulasagan 22:1
 

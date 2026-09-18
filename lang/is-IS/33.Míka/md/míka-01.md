@@ -1,4 +1,4 @@
-# Míka 1. kafli
+# Míka Kafli 1
 
 ## Míka 1:1
 

@@ -1,4 +1,4 @@
-# Postulasagan 18. kafli
+# Postulasagan Kafli 18
 
 ## Postulasagan 18:1
 

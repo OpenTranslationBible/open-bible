@@ -1,4 +1,4 @@
-# Sefanía 1. kafli
+# Sefanía Kafli 1
 
 ## Sefanía 1:1
 

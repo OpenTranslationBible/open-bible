@@ -1,4 +1,4 @@
-# Postulasagan, 17. kafli
+# Postulasagan Kafli 17
 
 ## Postulasagan 17:1
 

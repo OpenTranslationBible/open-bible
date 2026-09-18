@@ -1,4 +1,4 @@
-# Malakí 4. kafli
+# Malakí Kafli 4
 
 ## Malakí 4:1
 "Reyndar kemur dagurinn, brennandi eins og ofn; allir hrokafullir og hver illgjörðamaður mun verða sem hálmstrá, og dagurinn sem kemur mun kveikja í þeim," segir Drottinn allsherjar, "og skilur þá hvorki eftir rót né grein."
