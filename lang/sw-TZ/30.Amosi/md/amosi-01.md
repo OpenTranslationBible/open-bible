@@ -1,10 +1,10 @@
-# Amos Sura ya 1
+# Amosi Sura ya 1
 
-## Amos 1:1
+## Amosi 1:1
 
 Maneno ya Amos, aliyekuwa miongoni mwa wachungaji wa Tekoa, maono aliyoyaona kuhusu Israeli wakati wa utawala wa Uzia, mfalme wa Yuda, na Yeroboamu mwana wa Yoashi, mfalme wa Israeli, miaka miwili kabla ya tetemeko la ardhi.
 
-## Amos 1:2
+## Amosi 1:2
 
 Akasema:
 
@@ -13,7 +13,7 @@ Akasema:
 > malisho ya wachungaji yanaomboleza,
 > na kilele cha Karmeli kinakauka.”
 
-## Amos 1:3
+## Amosi 1:3
 
 Hivi ndivyo asemavyo Bwana:
 
@@ -21,12 +21,12 @@ Hivi ndivyo asemavyo Bwana:
 > sitaiondoa adhabu.
 > Kwa sababu walipura Gileadi kwa magurudumu ya chuma,
 
-## Amos 1:4
+## Amosi 1:4
 
 > Nitatuma moto juu ya nyumba ya Hazaeli,
 > nao utateketeza ngome za Ben-Hadadi.
 
-## Amos 1:5
+## Amosi 1:5
 
 > Nitavunja pingo la lango la Dameski;
 > nitamwondoa mtawala kutoka Bonde la Aveni
@@ -35,7 +35,7 @@ Hivi ndivyo asemavyo Bwana:
 
 asema Bwana.
 
-## Amos 1:6
+## Amosi 1:6
 
 Hivi ndivyo asemavyo Bwana:
 
@@ -44,12 +44,12 @@ Hivi ndivyo asemavyo Bwana:
 > Kwa sababu walichukua mateka jamii nzima
 > na kuwakabidhi kwa Edomu,
 
-## Amos 1:7
+## Amosi 1:7
 
 > Nitatuma moto juu ya kuta za Gaza,
 > nao utateketeza ngome zake.
 
-## Amos 1:8
+## Amosi 1:8
 
 > Nitamwondoa mtawala kutoka Ashdodi
 > na yeye ashikaye fimbo ya enzi kutoka Ashkeloni.
@@ -58,7 +58,7 @@ Hivi ndivyo asemavyo Bwana:
 
 asema Bwana Mwenyezi.
 
-## Amos 1:9
+## Amosi 1:9
 
 Hivi ndivyo asemavyo Bwana:
 
@@ -67,12 +67,12 @@ Hivi ndivyo asemavyo Bwana:
 > Kwa sababu waliwakabidhi jamii nzima kwa Edomu,
 > wakipuuza agano la udugu,
 
-## Amos 1:10
+## Amosi 1:10
 
 > Nitatuma moto juu ya kuta za Tiro,
 > nao utateketeza ngome zake.”
 
-## Amos 1:11
+## Amosi 1:11
 
 Hivi ndivyo asemavyo Bwana:
 
@@ -83,12 +83,12 @@ Hivi ndivyo asemavyo Bwana:
 > hasira yake iliwaka daima,
 > na ghadhabu yake iliwaka bila kuzuilika,
 
-## Amos 1:12
+## Amosi 1:12
 
 > Nitatuma moto juu ya Temani,
 > nao utateketeza ngome za Bosra.”
 
-## Amos 1:13
+## Amosi 1:13
 
 Hivi ndivyo asemavyo Bwana:
 
@@ -97,14 +97,14 @@ Hivi ndivyo asemavyo Bwana:
 > Kwa sababu walipasua wanawake wajawazito wa Gileadi
 > ili kupanua mipaka yao,
 
-## Amos 1:14
+## Amosi 1:14
 
 > Nitawasha moto juu ya kuta za Raba,
 > nao utateketeza ngome zake
 > katikati ya kelele za vita siku ya mapambano,
 > katikati ya dhoruba siku ya tufani.
 
-## Amos 1:15
+## Amosi 1:15
 
 > Mfalme wao ataenda uhamishoni,
 > yeye na wakuu wake pamoja,”

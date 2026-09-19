@@ -1,4 +1,4 @@
-# Kitabu cha Esta Sura ya 6
+# Esta Sura ya 6
 
 ## Esta 6:1
 

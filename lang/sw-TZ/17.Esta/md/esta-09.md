@@ -1,4 +1,4 @@
-# Kitabu cha Esta Sura ya 9
+# Esta Sura ya 9
 
 ## Esta 9:1
 

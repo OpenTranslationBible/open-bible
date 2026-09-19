@@ -1,4 +1,4 @@
-# Kitabu cha Esta Sura ya 10
+# Esta Sura ya 10
 
 ## Esta 10:1
 Mfalme Ahasuero akaweka kodi juu ya nchi na visiwa vya baharini.

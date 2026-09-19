@@ -1,4 +1,4 @@
-# Kitabu cha Esta Sura ya 8
+# Esta Sura ya 8
 
 ## Esta 8:1
 
