@@ -88,12 +88,12 @@ Isso tornou-se conhecido por todos os habitantes de Jerusalém, de modo que em s
 
 “Pois,” disse Pedro, “está escrito no livro dos Salmos:
 
-> ‘Fique deserta a sua habitação;
-> não haja quem nela habite,’
+>  ‘Fique deserta a sua habitação;
+>  não haja quem nela habite,’
 
-e,
+ e,
 
-> ‘Tome outro o seu encargo.’
+>  ‘Tome outro o seu encargo.’
 
 ---
 

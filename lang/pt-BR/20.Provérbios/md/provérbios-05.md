@@ -78,7 +78,7 @@ Que sua fonte de alegria seja abençoada, e encontre deleite na esposa da sua ju
 
 ## Provérbios 5:19
 
-Uma corça amorosa, uma gazela graciosa—que seus seios o satisfaçam sempre, que você esteja sempre embriagado com o amor dela.
+Uma corça amorosa, uma gazela graciosa — que seus seios o satisfaçam sempre, que você esteja sempre embriagado com o amor dela.
 
 ## Provérbios 5:20
 

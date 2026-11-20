@@ -26,7 +26,7 @@ Eu olhei para dentro dele e vi quadrúpedes da terra, feras selvagens, répteis 
 
 ## Atos 11:7
 
-Então ouvi uma voz me instruindo: ‘Levante-se, Pedro; prepare-se e coma.’
+Então ouvi uma voz me instruindo: ‘Levante-se, Pedro; mate e coma.’
 
 ## Atos 11:8
 
@@ -84,7 +84,7 @@ Mas alguns deles, homens de Chipre e Cirene, foram para Antioquia e começaram a
 
 ## Atos 11:21
 
-A orientação do Senhor estava com eles, e um grande número de pessoas acreditou e se voltou para o Senhor.
+A mão do Senhor estava com eles, e um grande número de pessoas acreditou e se voltou para o Senhor.
 
 ## Atos 11:22
 

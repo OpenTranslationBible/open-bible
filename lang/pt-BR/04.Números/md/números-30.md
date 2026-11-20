@@ -37,10 +37,10 @@ e seu marido ouvir e permanecer em silêncio, então todos os seus votos serão 
 Mas se seu marido os anular quando os ouvir, então eles não são vinculantes. O Senhor a liberará.
 
 ## Números 30:13
-Seu marido pode confirmar ou cancelar qualquer voto ou juramento que ela fizer.
+Seu marido pode confirmar ou cancelar qualquer voto ou juramento de abstinência que ela fizer.
 
 ## Números 30:14
-Se ele permanecer em silêncio dia após dia, ele confirma todos os seus votos e compromissos.
+Se ele permanecer em silêncio dia após dia, ele confirma todos os seus votos e compromissos. Ele os confirmou, porque não disse nada a ela no dia em que soube deles.
 
 ## Números 30:15
 Mas se ele os cancelar mais tarde, ele assume a responsabilidade por sua culpa.

@@ -25,7 +25,7 @@ Depois voltaram e foram a En-Mispate (que é Cades), e conquistaram todo o terri
 Então o rei de Sodoma, o rei de Gomorra, o rei de Admá, o rei de Zeboim e o rei de Bela (isto é, Zoar) saíram e formaram suas linhas de batalha no Vale de Sidim
 
 ## Gênesis 14:9
-contra Quedorlaomer, rei de Elão, Tidal, rei de Goiim, Anrafel, rei de Sinar, e Arioque, rei de Elasar—quatro reis contra cinco.
+contra Quedorlaomer, rei de Elão, Tidal, rei de Goiim, Anrafel, rei de Sinar, e Arioque, rei de Elasar — quatro reis contra cinco.
 
 ## Gênesis 14:10
 Ora, o Vale de Sidim estava cheio de poços de betume, e quando os reis de Sodoma e Gomorra fugiram, alguns caíram neles, enquanto o restante fugiu para as colinas.
@@ -70,4 +70,4 @@ Mas Abrão disse ao rei de Sodoma: “Jurei ao Senhor, Deus Altíssimo, Criador 
 que não tomarei nada que lhe pertença, nem mesmo um fio ou uma correia de sandália, para que você nunca diga: ‘Eu enriqueci Abrão.’
 
 ## Gênesis 14:24
-Não aceitarei nada além do que meus homens comeram e a parte que pertence aos homens que foram comigo—Aner, Escol e Manre. Que eles tomem a sua parte.”
+Não aceitarei nada além do que meus homens comeram e a parte que pertence aos homens que foram comigo — Aner, Escol e Manre. Que eles tomem a sua parte.”

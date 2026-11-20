@@ -35,7 +35,7 @@ Quando ele os reuniu em Bezeque, os filhos de Israel eram trezentos mil, e os ho
 ## 1 Samuel 11:9
 
 Eles disseram aos mensageiros que tinham vindo: “Assim dirás aos homens de Jabes-Gileade: ‘Amanhã, quando o sol estiver quente, tereis libertação.’”  
-Então os mensageiros foram e contaram aos homens de Jabes, e eles se alegraram.
+ Então os mensageiros foram e contaram aos homens de Jabes, e eles se alegraram.
 
 ## 1 Samuel 11:10
 

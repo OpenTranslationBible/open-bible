@@ -86,7 +86,7 @@ A cada manhã, todos recolhiam conforme suas necessidades, e quando o sol esquen
 
 ## Êxodo 16:22
 
-No sexto dia, recolheram o dobro—dois ômeres para cada pessoa—e todos os líderes da congregação vieram e relataram isso a Moisés.
+No sexto dia, recolheram o dobro — dois ômeres para cada pessoa — e todos os líderes da congregação vieram e relataram isso a Moisés.
 
 ## Êxodo 16:23
 

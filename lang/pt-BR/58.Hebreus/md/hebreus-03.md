@@ -28,12 +28,12 @@ Mas Cristo é fiel como Filho sobre a casa de Deus. E nós somos a sua casa, se 
 
 Portanto, como o Espírito Santo expressa:
 
-> “Hoje, se ouvirem a sua voz,
+>  “Hoje, se ouvirem a sua voz,
 
 ## Hebreus 3:8
 
 > não endureçam o coração como na rebelião,
-> durante o tempo de provação no deserto,
+>  durante o tempo de provação no deserto,
 
 ## Hebreus 3:9
 
@@ -42,13 +42,13 @@ onde seus antepassados me testaram e provaram, e viram minhas obras por quarenta
 ## Hebreus 3:10
 
 > Por isso fiquei irado com aquela geração,
-> e disse: ‘Seus corações sempre se desviam,
-> e eles não conheceram os meus caminhos.’
+>  e disse: ‘Seus corações sempre se desviam,
+>  e eles não conheceram os meus caminhos.’
 
 ## Hebreus 3:11
 
 > Assim jurei na minha ira,
-> ‘Eles nunca entrarão no meu descanso.’”
+>  ‘Eles nunca entrarão no meu descanso.’”
 
 ## Hebreus 3:12
 
@@ -66,8 +66,8 @@ Pois nos tornamos participantes de Cristo, se mantivermos nossa convicção orig
 
 Como foi dito:
 
-> “Hoje, se ouvirem a sua voz,
-> não endureçam o coração como na rebelião.”
+>  “Hoje, se ouvirem a sua voz,
+>  não endureçam o coração como na rebelião.”
 
 ## Hebreus 3:16
 
@@ -79,7 +79,7 @@ E com quem Deus ficou descontente por quarenta anos? Não foi com aqueles que pe
 
 ## Hebreus 3:18
 
-E a quem ele declarou que não entrariam no seu descanso, senão àqueles que foram desobedientes?
+E a quem ele jurou que não entrariam no seu descanso, senão àqueles que foram desobedientes?
 
 ## Hebreus 3:19
 

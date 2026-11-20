@@ -54,7 +54,7 @@ e outro homem tiver relações sexuais com ela, e isso for ocultado de seu marid
 
 ## Números 5:14
 
-e se sentimentos de ciúmes vierem sobre seu marido e ele suspeitar de sua esposa quando ela estiver impura—ou se ele estiver com ciúmes e suspeitar dela embora ela não esteja impura—
+e se sentimentos de ciúmes vierem sobre seu marido e ele suspeitar de sua esposa quando ela estiver impura — ou se ele estiver com ciúmes e suspeitar dela embora ela não esteja impura—
 
 ## Números 5:15
 

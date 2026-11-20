@@ -14,7 +14,7 @@ Quando ouviram que ele lhes falava no dialeto hebraico, ficaram ainda mais quiet
 
 ## Atos 22:4
 
-Persegui este Caminho implacavelmente, prendendo e colocando tanto homens quanto mulheres em prisões,
+Persegui este Caminho até a morte, prendendo e colocando tanto homens quanto mulheres em prisões,
 
 ## Atos 22:5
 

@@ -7,7 +7,7 @@ Seja diligente em observar todos os mandamentos que estou lhe dando hoje, para q
 E lembre-se de toda a jornada que o Senhor seu Deus o conduziu no deserto nestes quarenta anos, para humilhá-lo e testá-lo, para saber o que estava em seu coração, se você guardaria ou não os Seus mandamentos.
 
 ## Deuteronômio 8:3
-Ele o humilhou deixando-o passar fome, e depois o alimentou com maná, que você nem seus pais conheciam, para fazê-lo entender que o homem não vive só de pão, mas de toda palavra que procede da boca do Senhor.
+Ele o humilhou deixando-o passar fome, e depois o alimentou com maná, que nem você nem seus pais conheciam, para fazê-lo entender que o homem não vive só de pão, mas de toda palavra que procede da boca do Senhor.
 
 ## Deuteronômio 8:4
 Suas roupas não se desgastaram, nem seus pés incharam durante esses quarenta anos.

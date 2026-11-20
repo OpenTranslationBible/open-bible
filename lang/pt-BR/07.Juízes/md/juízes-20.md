@@ -124,7 +124,7 @@ No terceiro dia, os israelitas subiram contra os benjamitas e tomaram posições
 
 ## Juízes 20:31
 
-Os benjamitas saíram para encontrá-los e foram afastados da cidade. Começaram a infligir baixas aos israelitas como nas ocasiões anteriores, cerca de trinta homens caíram no campo aberto e nas estradas—uma levando a Betel e a outra a Gibeá.
+Os benjamitas saíram para encontrá-los e foram afastados da cidade. Começaram a infligir baixas aos israelitas como nas ocasiões anteriores, cerca de trinta homens caíram no campo aberto e nas estradas — uma levando a Betel e a outra a Gibeá.
 
 ## Juízes 20:32
 

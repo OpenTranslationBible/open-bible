@@ -122,7 +122,7 @@ Não se surpreendam com isso, pois vem a hora em que todos os que estão nos tú
 
 ## João 5:29
 
-e sairão—os que fizeram o bem ressuscitarão para a vida, e os que fizeram o mal ressuscitarão para serem condenados.
+e sairão — os que fizeram o bem ressuscitarão para a vida, e os que fizeram o mal ressuscitarão para serem condenados.
 
 ---
 
@@ -154,7 +154,7 @@ João era uma lâmpada que queimava e dava luz, e vocês escolheram por um tempo
 
 ## João 5:36
 
-Mas eu tenho um testemunho maior do que o de João. Pois as obras que o Pai me deu para completar—as próprias obras que estou fazendo—testificam que o Pai me enviou.
+Mas eu tenho um testemunho maior do que o de João. Pois as obras que o Pai me deu para completar — as próprias obras que estou fazendo — testificam que o Pai me enviou.
 
 ---
 

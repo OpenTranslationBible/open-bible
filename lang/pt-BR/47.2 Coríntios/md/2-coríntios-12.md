@@ -6,11 +6,11 @@ Ainda que não seja benéfico, devo continuar com visões e revelações do Senh
 
 ## 2 Coríntios 12:2
 
-Conheço um homem em Cristo que, há quatorze anos—se no corpo ou fora do corpo, não sei, só Deus sabe—foi arrebatado ao terceiro céu.
+Conheço um homem em Cristo que, há quatorze anos — se no corpo ou fora do corpo, não sei, só Deus sabe — foi arrebatado ao terceiro céu.
 
 ## 2 Coríntios 12:3
 
-E sei que esse homem—se no corpo ou fora do corpo, não sei, só Deus sabe—
+E sei que esse homem — se no corpo ou fora do corpo, não sei, só Deus sabe—
 
 ## 2 Coríntios 12:4
 
@@ -26,7 +26,7 @@ Se eu escolher me gloriar, não serei tolo, pois estaria falando a verdade; mas 
 
 ## 2 Coríntios 12:7
 
-Por causa da extraordinária grandeza das revelações, para evitar que eu me tornasse arrogante, foi-me dado um espinho na carne, um mensageiro de Satanás para me atormentar—para me impedir de me tornar arrogante!
+Por causa da extraordinária grandeza das revelações, para evitar que eu me tornasse arrogante, foi-me dado um espinho na carne, um mensageiro de Satanás para me atormentar — para me impedir de me tornar arrogante!
 
 ## 2 Coríntios 12:8
 

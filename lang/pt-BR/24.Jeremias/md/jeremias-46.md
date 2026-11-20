@@ -25,10 +25,10 @@ Quem é este que se levanta como o Nilo, como rios de águas turbulentas?
 O Egito se levanta como o Nilo, como rios cujas águas transbordam. Ela diz: ‘Eu me levantarei e cobrirei a terra; destruirei cidades e seus habitantes.’
 
 ## Jeremias 46:9
-Avancem, cavalos! Conduzam loucamente, condutores de carros! Avancem, guerreiros—homens de Cuxe e Pute que carregam escudos, homens de Lídia que manejam o arco.
+Avancem, cavalos! Conduzam loucamente, condutores de carros! Avancem, guerreiros — homens de Cuxe e Pute que carregam escudos, homens de Lídia que manejam o arco.
 
 ## Jeremias 46:10
-Pois aquele dia pertence ao Senhor, o Senhor Todo-Poderoso—um dia de vingança, para vingar-se de seus inimigos. A espada devorará e se satisfará, e beberá seu enchimento de sangue. Pois o Senhor, o Senhor Todo-Poderoso, oferecerá sacrifício na terra do norte, junto ao rio Eufrates.
+Pois aquele dia pertence ao Senhor, o Senhor Todo-Poderoso — um dia de vingança, para vingar-se de seus inimigos. A espada devorará e se satisfará, e beberá seu enchimento de sangue. Pois o Senhor, o Senhor Todo-Poderoso, oferecerá sacrifício na terra do norte, junto ao rio Eufrates.
 
 ## Jeremias 46:11
 “Suba a Gileade e pegue bálsamo, Virgem Filha do Egito. Você usou muitos remédios em vão; não há cura para você.
@@ -76,7 +76,7 @@ A Filha do Egito será envergonhada, entregue nas mãos do povo do norte.”
 O Senhor Todo-Poderoso, o Deus de Israel, diz: “Estou prestes a trazer julgamento sobre Amom, deus de Tebas, sobre Faraó, sobre o Egito e seus deuses e seus reis, e sobre aqueles que confiam em Faraó.
 
 ## Jeremias 46:26
-Eu os entregarei nas mãos daqueles que buscam suas vidas—Nabucodonosor, rei da Babilônia, e seus oficiais. Mais tarde, porém, o Egito será habitado como nos tempos passados”, declara o Senhor.
+Eu os entregarei nas mãos daqueles que buscam suas vidas — Nabucodonosor, rei da Babilônia, e seus oficiais. Mais tarde, porém, o Egito será habitado como nos tempos passados”, declara o Senhor.
 
 ## Jeremias 46:27
 “Mas quanto a você, Jacó, meu servo, não tenha medo, nem se assuste, Israel. Certamente o salvarei de longe, e seus descendentes da terra de seu cativeiro. Jacó voltará e terá paz e segurança, sem que ninguém o amedronte.

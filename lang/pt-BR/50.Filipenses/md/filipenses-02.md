@@ -23,34 +23,34 @@ Tenham entre vocês o mesmo modo de pensar que Cristo Jesus teve:
 ## Filipenses 2:6
 
 > Que, existindo na forma de Deus,
-> não considerou o ser igual a Deus algo a que devesse apegar-se para sua própria vantagem;
+>  não considerou o ser igual a Deus algo a que devesse apegar-se para sua própria vantagem;
 
 ## Filipenses 2:7
 
 > mas esvaziou-se a si mesmo,
-> assumindo a forma de servo,
-> tornando-se semelhante aos homens.
+>  assumindo a forma de servo,
+>  tornando-se semelhante aos homens.
 
 ## Filipenses 2:8
 
 > E, sendo encontrado em forma humana,
-> humilhou-se a si mesmo, tornando-se obediente até a morte,
-> e morte de cruz.
+>  humilhou-se a si mesmo, tornando-se obediente até a morte,
+>  e morte de cruz.
 
 ## Filipenses 2:9
 
 > Por isso Deus o exaltou sobremaneira,
-> e lhe deu o nome que está acima de todo nome,
+>  e lhe deu o nome que está acima de todo nome,
 
 ## Filipenses 2:10
 
 > para que ao nome de Jesus todo joelho se dobre,
-> nos céus, na terra e debaixo da terra,
+>  nos céus, na terra e debaixo da terra,
 
 ## Filipenses 2:11
 
 > e toda língua confesse que Jesus Cristo é Senhor,
-> para a glória de Deus Pai.
+>  para a glória de Deus Pai.
 
 ## Filipenses 2:12
 

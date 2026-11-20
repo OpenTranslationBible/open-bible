@@ -4,49 +4,49 @@
 
 Depois desses eventos, ouvi uma voz como o rugido de uma vasta multidão no céu, proclamando:
 
-> “Aleluia! A salvação, a glória e o poder pertencem ao nosso Deus,
+>  “Aleluia! A salvação, a glória e o poder pertencem ao nosso Deus,
 
 ## Apocalipse 19:2
 
 > pois Seus julgamentos são verdadeiros e justos.
-> Ele julgou a grande prostituta que corrompeu a terra com sua imoralidade,
-> e Ele vingou o sangue de Seus servos sobre ela.”
+>  Ele julgou a grande prostituta que corrompeu a terra com sua imoralidade,
+>  e Ele vingou o sangue de Seus servos sobre ela.”
 
 ## Apocalipse 19:3
 
 E mais uma vez disseram:
 
-> “Aleluia! A fumaça dela sobe para todo o sempre.”
+>  “Aleluia! A fumaça dela sobe para todo o sempre.”
 
 ## Apocalipse 19:4
 
 Os vinte e quatro anciãos e os quatro seres viventes prostraram-se e adoraram a Deus que está sentado no trono, dizendo:
 
-> “Amém, Aleluia!”
+>  “Amém, Aleluia!”
 
 ## Apocalipse 19:5
 
 Então uma voz veio do trono, dizendo:
 
-> “Louvem o nosso Deus, todos vocês, Seus servos,
-> vocês que O temem, tanto pequenos como grandes!”
+>  “Louvem o nosso Deus, todos vocês, Seus servos,
+>  vocês que O temem, tanto pequenos como grandes!”
 
 ## Apocalipse 19:6
 
 E ouvi o que parecia ser a voz de uma grande multidão, como o som de muitas águas e como fortes trovões, dizendo:
 
-> “Aleluia! Pois o Senhor nosso Deus, o Todo-Poderoso, reina.
+>  “Aleluia! Pois o Senhor nosso Deus, o Todo-Poderoso, reina.
 
 ## Apocalipse 19:7
 
 > Alegremo-nos e exultemos e demos-Lhe glória,
-> pois chegou o casamento do Cordeiro,
-> e Sua noiva já se preparou.”
+>  pois chegou o casamento do Cordeiro,
+>  e Sua noiva já se preparou.”
 
 ## Apocalipse 19:8
 
 > Foi-lhe dado linho fino para vestir, resplandecente e puro.
-> (Pois o linho fino representa os atos de justiça dos santos.)
+>  (Pois o linho fino representa os atos de justiça dos santos.)
 
 ## Apocalipse 19:9
 

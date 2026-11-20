@@ -28,7 +28,7 @@ Dentro da fortaleza de Susã, os judeus mataram e destruíram quinhentos homens.
 
 ## Ester 9:7
 
-Parsandata, Dalfom, Aspata,
+Mataram Parsandata, Dalfom, Aspata,
 
 ## Ester 9:8
 

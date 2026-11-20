@@ -1,7 +1,7 @@
 # Gálatas Capítulo 1
 
 ## Gálatas 1:1
-Paulo, apóstolo—não enviado por homens nem por meios humanos, mas por Jesus Cristo e Deus Pai, que o ressuscitou dos mortos—
+Paulo, apóstolo — não enviado por homens nem por meios humanos, mas por Jesus Cristo e Deus Pai, que o ressuscitou dos mortos—
 
 ## Gálatas 1:2
 e todos os irmãos que estão comigo, às igrejas da Galácia:

@@ -34,7 +34,7 @@ E agora, eis que o Senhor me manteve vivo, assim como Ele prometeu, estes quaren
 Ainda estou tão forte hoje como no dia em que Moisés me enviou; minha força agora é como era então, para a batalha e para sair e entrar.
 
 ## Josué 14:12
-Agora me dê esta região montanhosa que o Senhor me prometeu naquele dia. Você ouviu então que os anaquins estavam lá, com grandes cidades fortificadas, mas com a ajuda do Senhor, eu os expulsarei, como Ele disse.”
+Agora me dê esta região montanhosa que o Senhor me prometeu naquele dia. Você ouviu então que os anaquins estavam lá, com grandes cidades fortificadas, mas talvez, com a ajuda do Senhor, eu os expulse, como Ele disse.”
 
 ## Josué 14:13
 Então Josué abençoou Calebe, filho de Jefoné, e concedeu-lhe Hebrom como sua herança.

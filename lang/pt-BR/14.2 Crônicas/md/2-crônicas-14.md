@@ -8,7 +8,7 @@ Abias faleceu e foi sepultado na cidade de Davi; seu filho Asa o sucedeu como re
 
 ## 2 Crônicas 14:2
 
-Asa agiu de maneira que foi tanto agradável quanto justa perante o Senhor Deus,
+Asa fez o que era bom e certo aos olhos do Senhor, seu Deus,
 
 ---
 
@@ -86,4 +86,4 @@ Eles destruíram todas as cidades ao redor de Gerar, pois o terror do Senhor hav
 
 ## 2 Crônicas 14:15
 
-Eles também feriram fatalmente aqueles que possuíam gado, e levaram grandes números de ovelhas e camelos. Então voltaram para Jerusalém.
+Eles também atacaram as tendas daqueles que possuíam gado, e levaram grandes números de ovelhas e camelos. Então voltaram para Jerusalém.

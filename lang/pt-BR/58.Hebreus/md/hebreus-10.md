@@ -20,8 +20,8 @@ Pois o sangue de touros e bodes não pode remover pecados.
 
 Assim, quando Cristo entrou no mundo, ele declarou:
 
-> “Sacrifício e oferta não quiseste,
-> mas um corpo me preparaste;
+>  “Sacrifício e oferta não quiseste,
+>  mas um corpo me preparaste;
 
 ## Hebreus 10:6
 
@@ -29,9 +29,9 @@ com holocaustos e ofertas pelo pecado não te agradaste.
 
 ## Hebreus 10:7
 
-> Então eu disse: ‘Eis que venho
-> — está escrito a meu respeito no rolo do livro
-> — para fazer a tua vontade, ó Deus.’”
+> Então eu disse:
+>  ‘Eis que venho — está escrito a meu respeito no rolo do livro — para fazer a tua vontade,
+>  ó Deus.’”
 
 ## Hebreus 10:8
 
@@ -67,17 +67,17 @@ O Espírito Santo também nos dá testemunho a respeito disso. Primeiro ele diz:
 
 ## Hebreus 10:16
 
-> “Esta é a aliança que farei com eles
-> depois daqueles dias, declara o Senhor.
-> Porei minhas leis em seus corações,
-> e as escreverei em suas mentes.”
+> “Esta é a aliança que farei com eles depois daqueles dias,
+>  declara o Senhor.
+>  Porei minhas leis em seus corações,
+>  e as escreverei em suas mentes.”
 
 ## Hebreus 10:17
 
 Ele então continua:
 
-> “Dos seus pecados e iniquidades
-> não me lembrarei mais.”
+>  “Dos seus pecados e iniquidades não me lembrarei mais.
+> ”
 
 ## Hebreus 10:18
 

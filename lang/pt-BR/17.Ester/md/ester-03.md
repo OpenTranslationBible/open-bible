@@ -56,7 +56,7 @@ No décimo terceiro dia do primeiro mês, os escribas do rei foram convocados, e
 
 ## Ester 3:13
 
-Despachos foram enviados por mensageiros a todas as províncias do rei com ordens para destruir, matar e aniquilar todos os judeus—jovens e velhos, mulheres e crianças—em um único dia, o décimo terceiro dia do décimo segundo mês, o mês de Adar, e saquear seus bens.
+Despachos foram enviados por mensageiros a todas as províncias do rei com ordens para destruir, matar e aniquilar todos os judeus — jovens e velhos, mulheres e crianças — em um único dia, o décimo terceiro dia do décimo segundo mês, o mês de Adar, e saquear seus bens.
 
 ## Ester 3:14
 

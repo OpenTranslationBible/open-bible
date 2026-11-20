@@ -110,7 +110,7 @@ Com o dedo indicador direito, o sacerdote aspergirá um pouco do óleo de sua pa
 
 ## Levítico 14:28
 
-Um pouco do óleo em sua palma ele aplicará nos mesmos lugares onde colocou o sangue da oferta pela culpa—no lóbulo da orelha direita da pessoa a ser purificada, no polegar de sua mão direita e no dedão do pé direito.
+Um pouco do óleo em sua palma ele aplicará nos mesmos lugares onde colocou o sangue da oferta pela culpa — no lóbulo da orelha direita da pessoa a ser purificada, no polegar de sua mão direita e no dedão do pé direito.
 
 ## Levítico 14:29
 
@@ -134,7 +134,7 @@ O Senhor também falou a Moisés e Arão, dizendo:
 
 ## Levítico 14:34
 
-“Quando entrarem na terra de Canaã, que estou dando a vocês como posse, e eu permitir um mofo se espalhar em uma casa naquela terra,
+“Quando entrarem na terra de Canaã, que estou dando a vocês como posse, e eu puser um mofo que se espalha em uma casa naquela terra,
 
 ## Levítico 14:35
 
@@ -178,7 +178,7 @@ o sacerdote irá examiná-la, e se o mofo tiver se espalhado na casa, é um mofo
 
 ## Levítico 14:45
 
-A casa deve ser demolida—suas pedras, madeiras e todo o reboco—e levada para fora da cidade a um lugar impuro.
+A casa deve ser demolida — suas pedras, madeiras e todo o reboco — e levada para fora da cidade a um lugar impuro.
 
 ## Levítico 14:46
 

@@ -6,7 +6,7 @@
 
 ## Isaías 44:2
 
-Assim diz o Senhor— aquele que o fez e formou no ventre, que o ajudará: Não tema, Jacó, meu servo, e Jesurum, a quem escolhi.
+Assim diz o Senhor — aquele que o fez e formou no ventre, que o ajudará: Não tema, Jacó, meu servo, e Jesurum, a quem escolhi.
 
 ## Isaías 44:3
 
@@ -24,11 +24,11 @@ Um dirá: ‘Eu sou do Senhor’; outro se chamará pelo nome de Jacó; e outro 
 
 ## Isaías 44:6
 
-Assim diz o Senhor— o Rei de Israel e seu Redentor, o Senhor dos Exércitos: Eu sou o primeiro e eu sou o último; além de mim, não há Deus.
+Assim diz o Senhor — o Rei de Israel e seu Redentor, o Senhor dos Exércitos: Eu sou o primeiro e eu sou o último; além de mim, não há Deus.
 
 ## Isaías 44:7
 
-Quem é como eu? Que o proclame. Que declare e exponha diante de mim o que aconteceu desde que estabeleci meu povo antigo, e o que ainda está por vir— que prevejam o que está por vir.
+Quem é como eu? Que o proclame. Que declare e exponha diante de mim o que aconteceu desde que estabeleci meu povo antigo, e o que ainda está por vir — que prevejam o que está por vir.
 
 ## Isaías 44:8
 
@@ -96,7 +96,7 @@ Cantem de alegria, ó céus, pois o Senhor o fez; gritem em alta voz, ó partes 
 
 ## Isaías 44:24
 
-Assim diz o Senhor— seu Redentor, que o formou desde o ventre: Eu sou o Senhor, o Criador de todas as coisas, que estende os céus por mim mesmo, que espalha a terra sozinho,
+Assim diz o Senhor — seu Redentor, que o formou desde o ventre: Eu sou o Senhor, o Criador de todas as coisas, que estende os céus por mim mesmo, que espalha a terra sozinho,
 
 ## Isaías 44:25
 

@@ -52,7 +52,7 @@ casa de Davi, assim diz o Senhor: Administrem justiça todas as manhãs; resgate
 
 ## Jeremias 21:13
 
-Eis que estou contra vós, vós que habitais no vale, na planície rochosa, declara o Senhor— vós que dizeis: “Quem pode descer contra nós? Quem pode entrar em nossas moradas?”
+Eis que estou contra vós, vós que habitais no vale, na planície rochosa, declara o Senhor — vós que dizeis: “Quem pode descer contra nós? Quem pode entrar em nossas moradas?”
 
 ## Jeremias 21:14
 

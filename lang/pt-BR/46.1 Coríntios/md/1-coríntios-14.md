@@ -84,11 +84,10 @@ Irmãos e irmãs, não sejam crianças no entendimento; quanto ao mal, sejam cri
 
 Na Lei está escrito:
 
-> “Por homens de outras línguas
-> e por lábios de estrangeiros
-> falarei a este povo,
-> e nem assim me ouvirão”,
-> diz o Senhor.
+>  “Por homens de outras línguas e por lábios de estrangeiros falarei a este povo,
+>  e nem assim me ouvirão”
+> ,
+>  diz o Senhor.
 
 ## 1 Coríntios 14:22
 

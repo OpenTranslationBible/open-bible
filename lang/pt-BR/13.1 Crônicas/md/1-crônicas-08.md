@@ -4,7 +4,7 @@
 
 Benjamim foi pai de:
 
-> Belá, seu primogênito, Asbel, o segundo, Aará, o terceiro,
+>  Belá, seu primogênito, Asbel, o segundo, Aará, o terceiro,
 
 ## 1 Crônicas 8:2
 
@@ -16,7 +16,7 @@ Benjamim foi pai de:
 
 Os filhos de Belá incluíam:
 
-> Adar, Gera, Abiúde,
+>  Adar, Gera, Abiúde,
 
 ## 1 Crônicas 8:4
 
@@ -31,23 +31,23 @@ Os filhos de Belá incluíam:
 ## 1 Crônicas 8:6
 
 Estes são os descendentes de Eúde.  
-Eles eram os líderes das famílias que viviam em Geba,
+ Eles eram os líderes das famílias que viviam em Geba,
 
-> e foram levados ao exílio para Manaate:
+>  e foram levados ao exílio para Manaate:
 
 ---
 
 ## 1 Crônicas 8:7
 
-> a saber, Naamã, Aías e Gera—ele os levou ao exílio.  
-> E ele foi pai de Uzá e Aíude.
+> a saber, Naamã, Aías e Gera — ele os levou ao exílio.  
+>  E ele foi pai de Uzá e Aíude.
 
 ---
 
 ## 1 Crônicas 8:8
 
-Saaraim teve filhos na terra de Moabe  
-depois de ter despedido Husim e Baara, suas esposas.
+Saaraim teve filhos na terra de Moabe depois de ter despedido Husim e Baara,  
+ suas esposas.
 
 ---
 
@@ -55,12 +55,12 @@ depois de ter despedido Husim e Baara, suas esposas.
 
 Com Hodes, sua esposa, ele teve:
 
-> Jobabe, Zibia, Mesa, Malcã,
+>  Jobabe, Zibia, Mesa, Malcã,
 
 ## 1 Crônicas 8:10
 
 > Jeúz, Saquias e Mirmá.  
-> Estes foram seus filhos, líderes de suas famílias.
+>  Estes foram seus filhos, líderes de suas famílias.
 
 ---
 
@@ -68,7 +68,7 @@ Com Hodes, sua esposa, ele teve:
 
 Com Husim, ele gerou:
 
-> Abitube e Elpaal.
+>  Abitube e Elpaal.
 
 ---
 
@@ -76,14 +76,14 @@ Com Husim, ele gerou:
 
 Os filhos de Elpaal foram:
 
-> Éber, Misã e Semede—que construíram Ono e Lode com suas cidades—
+>  Éber, Misã e Semede — que construíram Ono e Lode com suas cidades—
 
 ---
 
 ## 1 Crônicas 8:13
 
-> e Berias e Sema, que eram líderes das famílias  
-> dos habitantes de Aijalom, que expulsaram os habitantes de Gate.
+> e Berias e Sema, que eram líderes das famílias dos habitantes de Aijalom,  
+>  que expulsaram os habitantes de Gate.
 
 ---
 
@@ -139,7 +139,7 @@ Hananias, Elão e Antotias,
 
 ## 1 Crônicas 8:25
 
-Ifdeias e Penuel - filhos de Sasaque.
+Ifdeias e Penuel eram filhos de Sasaque.
 
 ---
 
@@ -157,7 +157,7 @@ Jaaresias, Elias e Zicri foram os filhos de Jeroão.
 
 Estes foram líderes de famílias segundo suas gerações,
 
-> homens proeminentes que viviam em Jerusalém.
+>  homens proeminentes que viviam em Jerusalém.
 
 ---
 
@@ -165,7 +165,7 @@ Estes foram líderes de famílias segundo suas gerações,
 
 Agora em Gibeão, Jeiel, o patriarca de Gibeão, vivia,
 
-> e o nome de sua esposa era Maacá.
+>  e o nome de sua esposa era Maacá.
 
 ---
 
@@ -183,7 +183,7 @@ Gedor, Aio e Zequer.
 
 Miclote foi pai de Simeá.
 
-> Eles também residiam com seus parentes em Jerusalém, em frente a seus outros parentes.
+>  Eles também residiam com seus parentes em Jerusalém, em frente a seus outros parentes.
 
 ---
 
@@ -191,8 +191,8 @@ Miclote foi pai de Simeá.
 
 Ner foi pai da linhagem de Quis,
 
-> Quis foi pai de Saul,  
-> Saul foi pai de Jônatas, Malquisua, Abinadabe e Esbaal.
+>  Quis foi pai de Saul,  
+>  Saul foi pai de Jônatas, Malquisua, Abinadabe e Esbaal.
 
 ---
 
@@ -200,7 +200,7 @@ Ner foi pai da linhagem de Quis,
 
 O filho de Jônatas foi Meribe-Baal,
 
-> e Meribe-Baal foi pai de Mica.
+>  e Meribe-Baal foi pai de Mica.
 
 ---
 
@@ -208,7 +208,7 @@ O filho de Jônatas foi Meribe-Baal,
 
 Os descendentes de Mica foram:
 
-> Pitom, Meleque, Tareá e Acaz.
+>  Pitom, Meleque, Tareá e Acaz.
 
 ---
 
@@ -216,18 +216,18 @@ Os descendentes de Mica foram:
 
 Acaz foi pai de Jeoada,
 
-> e Jeoada foi pai de Alemete, Azmavete e Zimri;  
-> e Zimri foi pai de Moza.
+>  e Jeoada foi pai de Alemete, Azmavete e Zimri;  
+>  e Zimri foi pai de Moza.
 
 ---
 
 ## 1 Crônicas 8:37
 
 Moza foi pai de Bineá;  
-Rafa foi seu filho,
+ Rafa foi seu filho,
 
-> Eleasá seu filho,  
-> Azel seu filho.
+>  Eleasá seu filho,  
+>  Azel seu filho.
 
 ---
 
@@ -235,8 +235,8 @@ Rafa foi seu filho,
 
 Azel teve seis filhos, e estes são seus nomes:
 
-> Azricão, Boqueru, Ismael, Searias, Obadias e Hanã.  
-> Todos estes foram os descendentes de Azel.
+>  Azricão, Boqueru, Ismael, Searias, Obadias e Hanã.  
+>  Todos estes foram os descendentes de Azel.
 
 ---
 
@@ -244,7 +244,7 @@ Azel teve seis filhos, e estes são seus nomes:
 
 Os filhos de Eseque incluíam:
 
-> Ulão, seu primogênito, Jeús, o segundo, e Elifelete, o terceiro.
+>  Ulão, seu primogênito, Jeús, o segundo, e Elifelete, o terceiro.
 
 ---
 
@@ -252,5 +252,5 @@ Os filhos de Eseque incluíam:
 
 Os filhos de Ulão eram valentes guerreiros habilidosos no arco,
 
-> e eles tinham muitos filhos e netos, 150 no total.  
-> Todos estes estavam entre os descendentes de Benjamim.
+>  e eles tinham muitos filhos e netos, 150 no total.  
+>  Todos estes estavam entre os descendentes de Benjamim.

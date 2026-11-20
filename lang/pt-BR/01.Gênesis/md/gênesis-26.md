@@ -82,7 +82,7 @@ Enquanto isso, Abimeleque veio a ele de Gerar, com Auzate, seu conselheiro, e Fi
 Isaque lhes disse: “Por que vieram a mim, visto que foram hostis a mim e me mandaram embora?”
 
 ## Gênesis 26:28
-Eles responderam: “Vimos claramente que o Senhor tem estado com você; então dissemos: ‘Haja agora um acordo juramentado entre nós’—entre nós e você. Façamos um pacto com você
+Eles responderam: “Vimos claramente que o Senhor tem estado com você; então dissemos: ‘Haja agora um acordo juramentado entre nós’ — entre nós e você. Façamos um pacto com você
 
 ## Gênesis 26:29
 de que você não nos fará mal, assim como não o tocamos e não fizemos nada além de bem a você, e o mandamos embora em paz. Agora você é abençoado pelo Senhor.”

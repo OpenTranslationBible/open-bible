@@ -106,4 +106,4 @@ mas agora revelado e dado a conhecer através dos escritos proféticos por ordem
 
 ## Romanos 16:27
 
-Ao único Deus verdadeiro, sábio e digno de glória para sempre por meio de Jesus Cristo. Amém.
+ao único Deus sábio seja a glória para sempre por meio de Jesus Cristo. Amém.

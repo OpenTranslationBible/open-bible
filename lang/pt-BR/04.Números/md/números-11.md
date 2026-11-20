@@ -43,7 +43,7 @@ Onde encontrarei carne para dar a todo este povo? Eles continuam chorando para m
 Não sou capaz de suportar sozinho a responsabilidade de todo este povo; é pesado demais para mim.
 
 ## Números 11:15
-Se é assim que vais me tratar, por favor, mata-me agora—se encontrei favor aos teus olhos—e não me deixes ver minha própria ruína.”
+Se é assim que vais me tratar, por favor, mata-me agora — se encontrei favor aos teus olhos — e não me deixes ver minha própria ruína.”
 
 ## Números 11:16
 O Senhor disse a Moisés: “Reúne para mim setenta homens dos anciãos de Israel, que sabes serem os anciãos do povo e seus oficiais. Leva-os à tenda do encontro, e que estejam ali com você.
@@ -76,7 +76,7 @@ Então Moisés saiu e contou ao povo o que o Senhor havia dito. Ele reuniu seten
 Então o Senhor desceu na nuvem e falou com ele, e tirou do Espírito que estava sobre ele e o colocou sobre os setenta anciãos. Quando o Espírito repousou sobre eles, profetizaram, mas não o fizeram novamente.
 
 ## Números 11:26
-No entanto, dois homens ficaram no acampamento; um se chamava Eldade e o outro Medade. O Espírito também repousou sobre eles, e eles profetizaram no acampamento.
+No entanto, dois homens ficaram no acampamento; um se chamava Eldade e o outro Medade. O Espírito também repousou sobre eles. Eles estavam entre os inscritos, mas não tinham saído para a tenda, e profetizaram no acampamento.
 
 ## Números 11:27
 Um jovem correu até Moisés e informou: “Eldade e Medade estão profetizando no acampamento.”

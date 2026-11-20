@@ -25,7 +25,7 @@ Quem tem ouvidos, ouça o que o Espírito diz às igrejas.
 Conheço suas obras. Veja, coloquei diante de você uma porta aberta que ninguém pode fechar. Você tem pouca força, mas guardou a minha palavra e não negou o meu nome.
 
 ## Apocalipse 3:9
-Farei com que aqueles que pertencem à sinagoga de Satanás, que afirmam ser judeus mas não são, e são mentirosos—farei com que venham e se prostrem aos seus pés e reconheçam que eu amei você.
+Farei com que aqueles que pertencem à sinagoga de Satanás, que afirmam ser judeus mas não são, e são mentirosos — farei com que venham e se prostrem aos seus pés e reconheçam que eu amei você.
 
 ## Apocalipse 3:10
 Porque você guardou o meu mandamento de perseverar, também o guardarei da hora da provação que está para vir sobre o mundo inteiro para testar os habitantes da terra.
@@ -46,7 +46,7 @@ Quem tem ouvidos, ouça o que o Espírito diz às igrejas.
 Conheço suas obras, que você não é frio nem quente. Gostaria que você fosse frio ou quente!
 
 ## Apocalipse 3:16
-Portanto, como você é morno—nem quente nem frio—estou prestes a rejeitá-lo.
+Portanto, como você é morno — nem quente nem frio — estou prestes a vomitá-lo da minha boca.
 
 ## Apocalipse 3:17
 Você diz: ‘Sou rico; adquiri riquezas e não preciso de nada.’ Mas você não percebe que é miserável, digno de compaixão, pobre, cego e nu.

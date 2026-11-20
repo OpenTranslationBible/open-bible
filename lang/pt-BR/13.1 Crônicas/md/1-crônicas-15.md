@@ -3,9 +3,9 @@
 ## 1 Crônicas 15:1
 
 Davi construiu casas para si na cidade de Davi;  
-e preparou um lugar para a arca de Deus,
+ e preparou um lugar para a arca de Deus,
 
-> e armou uma tenda para ela.
+>  e armou uma tenda para ela.
 
 ---
 
@@ -13,16 +13,15 @@ e preparou um lugar para a arca de Deus,
 
 Então Davi declarou:
 
-> “Ninguém deve transportar a arca de Deus, exceto os levitas,  
-> pois o Senhor os escolheu para levar a arca do Senhor  
-> e para servi-Lo perpetuamente.”
+>  “Ninguém deve transportar a arca de Deus, exceto os levitas,  
+>  pois o Senhor os escolheu para levar a arca do Senhor e para servi-Lo perpetuamente.  
+> ”
 
 ---
 
 ## 1 Crônicas 15:3
 
-Davi reuniu todo o Israel em Jerusalém  
-para trazer a arca do Senhor ao local que ele havia preparado para ela.
+Davi reuniu todo o Israel em Jerusalém para trazer a arca do Senhor ao local que ele havia preparado para ela.
 
 ---
 
@@ -71,9 +70,9 @@ Davi convocou os filhos de Arão e os levitas:
 ## 1 Crônicas 15:11
 
 Então Davi chamou os sacerdotes Zadoque e Abiatar,  
-e os levitas:
+ e os levitas:
 
-> Uriel, Asaías, Joel, Semaías, Eliel e Aminadabe,
+>  Uriel, Asaías, Joel, Semaías, Eliel e Aminadabe,
 
 ---
 
@@ -81,25 +80,24 @@ e os levitas:
 
 e disse-lhes:
 
-> “Vocês são os chefes das casas paternas dos levitas;  
-> consagrem-se, vocês e seus parentes,  
-> para que possam trazer a arca do Senhor Deus de Israel  
-> ao lugar que preparei para ela.
+>  “Vocês são os chefes das casas paternas dos levitas;  
+>  consagrem-se, vocês e seus parentes,  
+>  para que possam trazer a arca do Senhor Deus de Israel ao lugar que preparei para ela.
 
 ---
 
 ## 1 Crônicas 15:13
 
 > Porque vocês não a carregaram da primeira vez,  
-> o Senhor nosso Deus fez uma explosão contra nós,  
-> pois não O buscamos conforme a ordenança.”
+>  o Senhor nosso Deus fez uma explosão contra nós,  
+>  pois não O buscamos conforme a ordenança.”
 
 ---
 
 ## 1 Crônicas 15:14
 
-Assim, os sacerdotes e os levitas se consagraram  
-para trazer a arca do Senhor Deus de Israel.
+Assim,  
+ os sacerdotes e os levitas se consagraram para trazer a arca do Senhor Deus de Israel.
 
 ---
 
@@ -107,17 +105,17 @@ para trazer a arca do Senhor Deus de Israel.
 
 E os filhos dos levitas carregaram a arca de Deus sobre os ombros com os varais sobre ela,
 
-> assim como Moisés havia ordenado segundo a palavra do Senhor.
+>  assim como Moisés havia ordenado segundo a palavra do Senhor.
 
 ---
 
 ## 1 Crônicas 15:16
 
-Então Davi falou aos chefes dos levitas
+Então Davi falou aos chefes dos levitas para nomear seus parentes os cantores,
 
-> para nomear seus parentes os cantores,  
-> com instrumentos de música, harpas, liras e címbalos,  
-> para levantarem suas vozes com alegria.
+>  com instrumentos de música,  
+>  harpas, liras e címbalos,  
+>  para levantarem suas vozes com alegria.
 
 ---
 
@@ -125,9 +123,9 @@ Então Davi falou aos chefes dos levitas
 
 Então os levitas selecionaram:
 
-> Hemã, filho de Joel,  
-> e de seus parentes Asafe, filho de Berequias,  
-> e dos filhos de Merari, seus parentes, Etã, filho de Cusaías;
+>  Hemã, filho de Joel,  
+>  e de seus parentes Asafe, filho de Berequias,  
+>  e dos filhos de Merari, seus parentes, Etã, filho de Cusaías;
 
 ---
 
@@ -135,31 +133,31 @@ Então os levitas selecionaram:
 
 e com eles seus parentes de segunda ordem:
 
-> Zacarias, Jaaziel, Semiramote, Jeiel, Uni, Eliabe, Benaia, Maaseias, Matitias, Elifeleu, Miquenias, Obede-Edom e Jeiel, os porteiros.
+>  Zacarias, Jaaziel, Semiramote, Jeiel, Uni, Eliabe, Benaia, Maaseias, Matitias, Elifeleu, Miquenias, Obede-Edom e Jeiel, os porteiros.
 
 ---
 
 ## 1 Crônicas 15:19
 
-Assim, os cantores, Hemã, Asafe e Etã foram designados
+Assim, os cantores, Hemã,
 
-> para tocarem címbalos de bronze;
+>  Asafe e Etã foram designados para tocarem címbalos de bronze;
 
 ---
 
 ## 1 Crônicas 15:20
 
-e Zacarias, Aziel, Semiramote, Jeiel, Uni, Eliabe, Maaseias e Benaia
+e Zacarias, Aziel, Semiramote, Jeiel, Uni, Eliabe,
 
-> com harpas afinadas para alamote;
+>  Maaseias e Benaia com harpas afinadas para alamote;
 
 ---
 
 ## 1 Crônicas 15:21
 
-e Matitias, Elifeleu, Miquenias, Obede-Edom, Jeiel e Azazias
+e Matitias, Elifeleu, Miquenias, Obede-Edom,
 
-> com liras afinadas para a oitava, para dirigir o canto.
+>  Jeiel e Azazias com liras afinadas para a oitava, para dirigir o canto.
 
 ---
 
@@ -167,7 +165,7 @@ e Matitias, Elifeleu, Miquenias, Obede-Edom, Jeiel e Azazias
 
 Quenanias, chefe dos levitas, era responsável pelo canto;
 
-> ele dava instruções no canto porque era hábil.
+>  ele dava instruções no canto porque era hábil.
 
 ---
 
@@ -179,19 +177,17 @@ E Berequias e Elcana serviam como porteiros para a arca.
 
 ## 1 Crônicas 15:24
 
-E os sacerdotes Sebanias, Josafá, Natanael, Amasai, Zacarias, Benaia e Eliezer
+E os sacerdotes Sebanias, Josafá, Natanael, Amasai, Zacarias,
 
-> tocavam as trombetas diante da arca de Deus.  
-> E Obede-Edom e Jeías também eram porteiros para a arca.
+>  Benaia e Eliezer tocavam as trombetas diante da arca de Deus.  
+>  E Obede-Edom e Jeías também eram porteiros para a arca.
 
 ---
 
 ## 1 Crônicas 15:25
 
 Assim, Davi, com os anciãos de Israel e os capitães sobre milhares,  
-foi trazer a arca da aliança do Senhor
-
-> da casa de Obede-Edom com alegria.
+ foi trazer a arca da aliança do Senhor da casa de Obede-Edom com alegria.
 
 ---
 
@@ -199,16 +195,16 @@ foi trazer a arca da aliança do Senhor
 
 E porque Deus estava ajudando os levitas que carregavam a arca da aliança do Senhor,
 
-> ofereceram sete novilhos e sete carneiros.
+>  ofereceram sete novilhos e sete carneiros.
 
 ---
 
 ## 1 Crônicas 15:27
 
-Agora Davi estava vestido com um manto de linho fino junto com todos os levitas  
-que carregavam a arca, e os cantores e Quenanias, o líder do canto com os cantores.
+Agora Davi estava vestido com um manto de linho fino junto com todos os levitas que carregavam a arca,  
+ e os cantores e Quenanias, o líder do canto com os cantores.
 
-> Davi também usava um éfode de linho.
+>  Davi também usava um éfode de linho.
 
 ---
 
@@ -216,14 +212,14 @@ que carregavam a arca, e os cantores e Quenanias, o líder do canto com os canto
 
 Assim, todo o Israel trouxe a arca da aliança do Senhor com júbilo,
 
-> e com som de trombeta, com trombetas, com címbalos ressoantes,  
-> com harpas e liras.
+>  e com som de trombeta, com trombetas, com címbalos ressoantes,  
+>  com harpas e liras.
 
 ---
 
 ## 1 Crônicas 15:29
 
 E quando a arca da aliança do Senhor chegou à cidade de Davi,  
-Mical, filha de Saul, olhou pela janela e viu o rei Davi saltando e celebrando;
+ Mical, filha de Saul, olhou pela janela e viu o rei Davi saltando e celebrando;
 
-> e ela o desprezou em seu coração.
+>  e ela o desprezou em seu coração.

@@ -97,4 +97,4 @@ E eles vêm a você como o povo vem, e se sentam diante de você como Meu povo e
 De fato, para eles você é como alguém que canta canções de amor com uma bela voz e toca bem um instrumento, pois eles ouvem suas palavras mas não as colocam em prática.
 
 ## Ezequiel 33:33
-Então, quando isso acontecer—como certamente acontecerá—então saberão que um profeta esteve entre eles."
+Então, quando isso acontecer — como certamente acontecerá — então saberão que um profeta esteve entre eles."

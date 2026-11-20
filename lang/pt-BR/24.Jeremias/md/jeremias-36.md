@@ -31,7 +31,7 @@ No nono mês do quinto ano de Jeoaquim, filho de Josias, rei de Judá, um jejum 
 Então Baruque leu do rolo as palavras de Jeremias a todo o povo na casa do Senhor, na câmara de Gemarias, filho de Safã, o escriba, no pátio superior, na entrada do Portão Novo da casa do Senhor.
 
 ## Jeremias 36:11
-Quando Micaías, filho de Gemarias, filho de Safã, ouviu todas as palavras do rolo,
+Quando Micaías, filho de Gemarias, filho de Safã, ouviu todas as palavras do Senhor que estavam no rolo,
 
 ## Jeremias 36:12
 ele desceu à câmara do escriba no palácio real, onde todos os oficiais estavam sentados: Elisama, o escriba, Delaías, filho de Semaías, Elnatã, filho de Acbor, Gemarias, filho de Safã, Zedequias, filho de Hananias, e todos os outros oficiais.

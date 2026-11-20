@@ -31,7 +31,7 @@ Portanto eu chorarei como Jazer chora pelas vinhas de Sibma. Eu vos encharcarei 
 A alegria e o júbilo são removidos dos pomares; nas vinhas, não há canto nem gritos de júbilo; ninguém pisa o vinho nos lagares, pois eu silenciei os gritos.
 
 ## Isaías 16:11
-Meu coração lamenta por Moabe como o som de uma harpa, meu íntimo por Quir-Haresete.
+Meu coração lamenta por Moabe como o som de uma harpa, meu íntimo por Quir-Heres.
 
 ## Isaías 16:12
 Quando Moabe aparece em seu alto lugar, ela se esgota; quando vai ao seu santuário para orar, é em vão.

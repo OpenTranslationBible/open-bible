@@ -30,7 +30,7 @@ Se vocês tivessem entendido o que isso significa: ‘Desejo misericórdia, não
 
 ## Mateus 12:8
 
-Pois o Filho do Homem tem autoridade sobre o sábado.”
+Pois o Filho do Homem é Senhor do sábado.”
 
 ---
 
@@ -75,20 +75,20 @@ Isso foi feito para cumprir o que havia sido dito pelo profeta Isaías:
 ## Mateus 12:18
 
 > “Eis o Meu Servo que escolhi,
-> Meu amado escolhido em quem Minha alma se compraz;
-> Coloquei Meu Espírito sobre ele,
-> ele proclamará justiça às nações.
+>  Meu amado, em quem Minha alma se compraz;
+>  Porei Meu Espírito sobre ele,
+>  e ele proclamará justiça às nações.
 
 ## Mateus 12:19
 
 > Ele não discutirá nem gritará;
-> ninguém ouvirá Sua voz nas ruas.
+>  ninguém ouvirá Sua voz nas ruas.
 
 ## Mateus 12:20
 
 > Uma cana quebrada Ele não quebrará,
-> e um pavio fumegante Ele não apagará,
-> até que leve a justiça à vitória.
+>  e um pavio fumegante Ele não apagará,
+>  até que leve a justiça à vitória.
 
 ## Mateus 12:21
 

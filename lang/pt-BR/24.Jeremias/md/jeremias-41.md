@@ -28,7 +28,7 @@ Mas dez deles disseram a Ismael: “Não nos mate! Temos trigo, cevada, óleo e 
 Agora, a cisterna onde Ismael havia jogado todos os corpos dos homens que ele matou por causa de Gedalias era aquela que o rei Asa havia construído como defesa contra Baasa, rei de Israel. Ismael, filho de Netanias, a encheu com os mortos.
 
 ## Jeremias 41:10
-Ismael levou cativos todos os demais que estavam em Mispá—as filhas do rei e todos os outros que restavam lá, que Nebuzaradã, o capitão da guarda, havia colocado sob os cuidados de Gedalias, filho de Aicão. Ismael, filho de Netanias, os levou cativos e partiu para ir aos amonitas.
+Ismael levou cativos todos os demais que estavam em Mispá — as filhas do rei e todos os outros que restavam lá, que Nebuzaradã, o capitão da guarda, havia colocado sob os cuidados de Gedalias, filho de Aicão. Ismael, filho de Netanias, os levou cativos e partiu para ir aos amonitas.
 
 ## Jeremias 41:11
 Quando Joanã, filho de Careá, e todos os comandantes das forças com ele ouviram sobre todo o mal que Ismael, filho de Netanias, havia feito,
@@ -46,7 +46,7 @@ Todo o povo que Ismael havia levado cativo de Mispá se virou e foi para Joanã,
 No entanto, Ismael, filho de Netanias, conseguiu escapar de Joanã com oito homens e fugiu para os amonitas.
 
 ## Jeremias 41:16
-Então Joanã, filho de Careá, e todos os comandantes das forças com ele levaram de Mispá todo o restante do povo que ele havia recuperado de Ismael, filho de Netanias, depois que ele matou Gedalias, filho de Aicão—os soldados, mulheres, crianças e oficiais da corte que ele havia trazido de volta de Gibeão.
+Então Joanã, filho de Careá, e todos os comandantes das forças com ele levaram de Mispá todo o restante do povo que ele havia recuperado de Ismael, filho de Netanias, depois que ele matou Gedalias, filho de Aicão — os soldados, mulheres, crianças e oficiais da corte que ele havia trazido de volta de Gibeão.
 
 ## Jeremias 41:17
 E foram e ficaram em Gerute-Quimam, perto de Belém, com a intenção de ir para o Egito

@@ -29,9 +29,9 @@ Aqui está uma cópia da carta que Tatenai, o governador da região além do Euf
 ## Esdras 5:7
 
 O relatório que eles despacharam para ele foi escrito da seguinte forma:
-“Ao rei Dario:
+ “Ao rei Dario:
 
-Toda paz.
+ Toda paz.
 
 ## Esdras 5:8
 

@@ -6,7 +6,7 @@ Estes são os reis da terra que os israelitas derrotaram, e cujo território tom
 
 ## Josué 12:2
 
-Seom, rei dos amorreus, que vivia em Hesbom. Ele governava desde Aroer, na borda do desfiladeiro do Arnom—desde o meio do desfiladeiro—e metade de Gileade, até o rio Jaboque, que é a fronteira dos amonitas.
+Seom, rei dos amorreus, que vivia em Hesbom. Ele governava desde Aroer, na borda do desfiladeiro do Arnom — desde o meio do desfiladeiro — e metade de Gileade, até o rio Jaboque, que é a fronteira dos amonitas.
 
 ## Josué 12:3
 

@@ -67,7 +67,7 @@ Pegue um pouco do sangue do altar e um pouco do óleo da unção e espalhe sobre
 “Pegue deste carneiro a gordura, a cauda gorda, a gordura que cobre as entranhas, o lóbulo longo do fígado, os dois rins com a gordura que está sobre eles, e a coxa direita. (Este é o carneiro da ordenação.)
 
 ## Êxodo 29:23
-Do cesto de pães sem fermento, pegue um pão, um bolo de pão misturado com óleo, e uma bolacha.
+Do cesto de pães sem fermento que está diante do Senhor, pegue um pão, um bolo de pão misturado com óleo, e uma bolacha.
 
 ## Êxodo 29:24
 Coloque tudo isso nas mãos de Arão e seus filhos e mova-os como uma oferta movida perante o Senhor.

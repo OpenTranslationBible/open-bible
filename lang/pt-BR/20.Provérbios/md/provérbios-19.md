@@ -106,7 +106,7 @@ Quem rouba seu pai e expulsa sua mãe é um filho vergonhoso e desonroso.
 
 ## Provérbios 19:27
 
-Se você deixar de ouvir a instrução, se desviará das palavras do conhecimento.
+Se você deixar de ouvir a instrução, meu filho, se desviará das palavras do conhecimento.
 
 ## Provérbios 19:28
 

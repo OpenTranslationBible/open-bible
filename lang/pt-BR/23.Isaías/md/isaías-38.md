@@ -74,7 +74,7 @@ Pois o reino dos mortos não pode te agradecer, nem a morte pode te louvar; aque
 
 ## Isaías 38:19
 
-Os vivos, os vivos—eles te agradecem, como eu faço hoje; os pais contam aos seus filhos sobre a tua fidelidade.
+Os vivos, os vivos — eles te agradecem, como eu faço hoje; os pais contam aos seus filhos sobre a tua fidelidade.
 
 ## Isaías 38:20
 

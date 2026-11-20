@@ -10,13 +10,13 @@ O Senhor me disse: “Não tenha medo dele, pois eu o entreguei em suas mãos, j
 Assim, o Senhor nosso Deus entregou em nossas mãos Ogue, rei de Basã, e todo o seu povo, e os atacamos até que não restasse nenhum sobrevivente.
 
 ## Deuteronômio 3:4
-Naquela ocasião capturamos todas as suas cidades; não houve uma única cidade que não tomássemos deles—sessenta cidades, toda a região de Argobe, o reino de Ogue em Basã.
+Naquela ocasião capturamos todas as suas cidades; não houve uma única cidade que não tomássemos deles — sessenta cidades, toda a região de Argobe, o reino de Ogue em Basã.
 
 ## Deuteronômio 3:5
 Todas essas cidades eram fortificadas com altas muralhas, portões e trancas, além de muitas aldeias sem muros.
 
 ## Deuteronômio 3:6
-Nós as destruímos completamente, como fizemos com Seom, rei de Hesbom, destruindo totalmente cada cidade—homens, mulheres e crianças.
+Nós as destruímos completamente, como fizemos com Seom, rei de Hesbom, destruindo totalmente cada cidade — homens, mulheres e crianças.
 
 ## Deuteronômio 3:7
 Mas todo o gado e o despojo das cidades tomamos para nós.
@@ -31,7 +31,7 @@ Naquela ocasião tomamos a terra dos dois reis dos amorreus que estavam além do
 Tomamos todas as cidades do planalto, toda Gileade e toda Basã até Salcá e Edrei, cidades do reino de Ogue em Basã.
 
 ## Deuteronômio 3:11
-(Ogue, rei de Basã, era o último dos refains. Sua cama era feita de ferro e tinha mais de nove côvados de comprimento e quatro côvados de largura. Ainda está em Rabá dos amonitas.)
+(Ogue, rei de Basã, era o último dos refains. Sua cama era feita de ferro e tinha nove côvados de comprimento e quatro côvados de largura. Ainda está em Rabá dos amonitas.)
 
 ## Deuteronômio 3:12
 Da terra que tomamos naquela ocasião, dei aos rubenitas e gaditas o território ao norte de Aroer, pelo Vale do Arnom, incluindo metade da região montanhosa de Gileade, junto com suas cidades.
@@ -73,7 +73,7 @@ Naquela ocasião, busquei intensamente o Senhor:
 “Senhor Deus, começaste a revelar ao teu servo a tua grandeza e a tua mão poderosa. Pois que deus há no céu ou na terra que possa realizar as obras e os feitos poderosos que tu fazes?
 
 ## Deuteronômio 3:25
-Por favor, deixe-me atravessar e ver a boa terra além do Jordão—essa bela região montanhosa e o Líbano.”
+Por favor, deixe-me atravessar e ver a boa terra além do Jordão — essa bela região montanhosa e o Líbano.”
 
 ## Deuteronômio 3:26
 Mas o Senhor estava irado comigo por causa de vocês e não quis me ouvir. “Basta,” o Senhor disse. “Não me fale mais sobre este assunto.

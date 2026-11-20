@@ -58,7 +58,7 @@ Se o que foi construído resistir, o construtor receberá uma recompensa.
 
 ## 1 Coríntios 3:15
 
-Se for consumido, o construtor sofrerá perda, mas ainda será salvo—embora somente como alguém escapando através das chamas.
+Se for consumido, o construtor sofrerá perda, mas ainda será salvo — embora somente como alguém escapando através das chamas.
 
 ## 1 Coríntios 3:16
 
@@ -86,7 +86,7 @@ Portanto, que não haja mais vanglória sobre líderes humanos! Todas as coisas 
 
 ## 1 Coríntios 3:22
 
-Seja Paulo, Apolo, Cefas, o mundo, a vida, a morte, o presente ou o futuro—tudo é de vocês,
+Seja Paulo, Apolo, Cefas, o mundo, a vida, a morte, o presente ou o futuro — tudo é de vocês,
 
 ## 1 Coríntios 3:23
 

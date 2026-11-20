@@ -82,7 +82,7 @@ O Senhor expulsou diante de nós todas as nações, incluindo os amorreus, que v
 
 ## Josué 24:19
 
-Josué disse ao povo: “Vocês podem achar difícil servir ao Senhor. Ele é um Deus santo; Ele é um Deus zeloso. Ele não perdoará sua rebelião e seus pecados.
+Josué disse ao povo: “Vocês não são capazes de servir ao Senhor. Ele é um Deus santo; Ele é um Deus zeloso. Ele não perdoará sua rebelião e seus pecados.
 
 ## Josué 24:20
 

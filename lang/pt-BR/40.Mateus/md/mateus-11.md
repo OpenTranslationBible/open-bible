@@ -71,9 +71,9 @@ Quem tem ouvidos para ouvir, ouça.
 ## Mateus 11:17
 
 > ‘Tocamos flauta para vocês,
-> e vocês não dançaram;
-> cantamos uma canção triste,
-> e vocês não se lamentaram.’
+>  e vocês não dançaram;
+>  cantamos uma canção triste,
+>  e vocês não se lamentaram.’
 
 ## Mateus 11:18
 

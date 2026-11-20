@@ -18,7 +18,7 @@ e que Ele foi sepultado, e no terceiro dia ressuscitou, como predito pelas Escri
 
 ## 1 Coríntios 15:5
 
-Pois Ele apareceu a Cefas, e depois aos Doze.
+e que Ele apareceu a Cefas, e depois aos Doze.
 
 ## 1 Coríntios 15:6
 
@@ -128,8 +128,8 @@ Declaro, queridos amigos, pelo orgulho que tenho em vocês em Cristo Jesus nosso
 
 Se por motivos humanos lutei com feras em Éfeso, que benefício isso me traz? Se os mortos não ressuscitam,
 
-> “Comamos e bebamos,  
-> pois amanhã morreremos.”
+>  “Comamos e bebamos,  
+>  pois amanhã morreremos.”
 
 ## 1 Coríntios 15:33
 
@@ -181,7 +181,7 @@ Embora seja plantado como um corpo natural, é ressuscitado como um corpo espiri
 
 ## 1 Coríntios 15:45
 
-Como está escrito: “O primeiro homem, Adão, tornou-se um ser vivente.” e o último Adão tornou-se um espírito vivificante.
+Como está escrito: “O primeiro homem, Adão, tornou-se alma vivente”; e o último Adão tornou-se um espírito vivificante.
 
 ## 1 Coríntios 15:46
 
@@ -218,12 +218,12 @@ Pois este perecível deve ser revestido com o imperecível, e este mortal com a 
 ## 1 Coríntios 15:54
 
 Mas quando este perecível for revestido com o imperecível, e este mortal com a imortalidade, então se cumprirá a palavra que está escrita:  
-“A morte foi tragada na vitória.
+ “A morte foi tragada na vitória.
 
 ## 1 Coríntios 15:55
 
-> Ó morte, onde está o teu triunfo?  
-> Ó morte, onde está o teu aguilhão?”
+> Ó morte, onde está a tua vitória?  
+>  Ó morte, onde está o teu aguilhão?”
 
 ## 1 Coríntios 15:56
 

@@ -12,9 +12,9 @@ Pois, de fato, a boa nova nos foi pregada, assim como a eles; mas a mensagem que
 
 Pois nós, os que cremos, estamos entrando naquele descanso, assim como Ele disse:
 
-> “Assim jurei na Minha ira,
-> ‘Certamente não entrarão no Meu descanso,’”
-> embora Suas obras estivessem concluídas desde a fundação do mundo.
+>  “Assim jurei na Minha ira,
+>  ‘Certamente não entrarão no Meu descanso,’”
+>  embora Suas obras estivessem concluídas desde a fundação do mundo.
 
 ## Hebreus 4:4
 
@@ -32,8 +32,8 @@ Portanto, visto que ainda resta para alguns entrarem nele, e aqueles que anterio
 
 Ele novamente designa um certo dia, chamando-o de “Hoje,” falando por meio de Davi após tanto tempo, como foi citado antes:
 
-> “Hoje, se ouvirem a Sua voz,
-> não endureçam os seus corações.”
+>  “Hoje, se ouvirem a Sua voz,
+>  não endureçam os seus corações.”
 
 ## Hebreus 4:8
 

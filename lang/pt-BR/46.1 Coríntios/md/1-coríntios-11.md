@@ -10,7 +10,7 @@ Eu os elogio por se lembrarem de mim em todas as coisas e por manterem firmement
 
 ## 1 Coríntios 11:3
 
-Desejo que vocês entendam que Cristo é o líder de todo homem, o homem é o líder de uma mulher, e Deus é o líder de Cristo.
+Desejo que vocês entendam que Cristo é a cabeça de todo homem, o homem é a cabeça da mulher, e Deus é a cabeça de Cristo.
 
 ## 1 Coríntios 11:4
 
@@ -98,7 +98,7 @@ E, depois de dar graças, partiu-o e disse: “Isto é o meu corpo, que é dado 
 
 ## 1 Coríntios 11:25
 
-Da mesma forma, após a refeição, tomou o cálice, dizendo: “Este cálice representa a nova aliança no meu sangue; façam isto, sempre que o beberem, em memória de mim.”
+Da mesma forma, após a refeição, tomou o cálice, dizendo: “Este cálice é a nova aliança no meu sangue; façam isto, sempre que o beberem, em memória de mim.”
 
 ## 1 Coríntios 11:26
 

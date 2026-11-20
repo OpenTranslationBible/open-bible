@@ -64,7 +64,7 @@ E este evangelho do reino será pregado em todo o mundo como testemunho a todas 
 
 ## Mateus 24:15
 
-“Assim, quando vocês virem a abominação da desolação, de que falou o profeta Daniel, no lugar santo—quem lê, entenda—
+“Assim, quando vocês virem a abominação da desolação, de que falou o profeta Daniel, no lugar santo — quem lê, entenda—
 
 ## Mateus 24:16
 
@@ -88,7 +88,7 @@ Orem para que a fuga de vocês não aconteça no inverno nem no sábado.
 
 ## Mateus 24:21
 
-Pois haverá então grande tribulação, como nunca houve desde o princípio do mundo até agora—e nunca mais haverá.
+Pois haverá então grande tribulação, como nunca houve desde o princípio do mundo até agora — e nunca mais haverá.
 
 ## Mateus 24:22
 
@@ -124,12 +124,12 @@ Onde houver um cadáver, ali se ajuntarão os abutres.
 
 ## Mateus 24:29
 
-“Imediatamente após a tribulação daqueles dias
+“Imediatamente após a tribulação daqueles dias ‘o sol escurecerá,
 
-> ‘o sol escurecerá,
-> e a lua não dará a sua luz;
-> as estrelas cairão do céu,
-> e os poderes celestiais serão abalados.’
+>  e a lua não dará a sua luz;
+>  as estrelas cairão do céu,
+>  e os poderes celestiais serão abalados.
+> ’
 
 ## Mateus 24:30
 
@@ -225,4 +225,4 @@ O senhor daquele servo virá num dia em que ele não o espera e numa hora que el
 
 ## Mateus 24:51
 
-Ele o punirá severamente e o designará um lugar com os hipócritas, onde haverá choro e ranger de dentes.
+Ele o cortará em pedaços e o designará um lugar com os hipócritas, onde haverá choro e ranger de dentes.

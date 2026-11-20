@@ -40,7 +40,7 @@ Esta será a praga com a qual o Senhor ferirá todos os povos que lutaram contra
 Naquele dia, um grande pânico do Senhor cairá sobre eles. Eles se agarrarão uns aos outros pela mão e levantarão suas mãos uns contra os outros.
 
 ## Zacarias 14:14
-Judá também lutará em Jerusalém, e a riqueza de todas as nações vizinhas será reunida—ouro, prata e vestes em grande abundância.
+Judá também lutará em Jerusalém, e a riqueza de todas as nações vizinhas será reunida — ouro, prata e vestes em grande abundância.
 
 ## Zacarias 14:15
 Uma praga semelhante atingirá os cavalos, mulas, camelos, jumentos e todos os animais nesses acampamentos.

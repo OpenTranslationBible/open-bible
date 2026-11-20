@@ -2,7 +2,7 @@
 
 ## Malaquias 3:1
 
-"Eis que eu envio o meu mensageiro adiante de ti, que preparará o teu caminho diante de mim. De repente, o Senhor, a quem buscais, virá ao seu templo; o mensageiro da aliança, em quem vos deleitais, eis que ele vem," diz o Senhor dos Exércitos.
+"Eis que eu envio o meu mensageiro, que preparará o caminho diante de mim. De repente, o Senhor, a quem buscais, virá ao seu templo; o mensageiro da aliança, em quem vos deleitais, eis que ele vem," diz o Senhor dos Exércitos.
 
 ## Malaquias 3:2
 

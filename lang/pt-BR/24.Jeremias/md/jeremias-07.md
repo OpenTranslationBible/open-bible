@@ -122,7 +122,7 @@ Pois o povo de Judá fez o mal aos Meus olhos,” declara o Senhor. “Eles colo
 
 ## Jeremias 7:31
 
-Eles construíram os altos de Tofete no Vale de Ben-Hinom para queimar seus filhos e filhas no fogo—algo que não ordenei, nem me passou pela mente.
+Eles construíram os altos de Tofete no Vale de Ben-Hinom para queimar seus filhos e filhas no fogo — algo que não ordenei, nem me passou pela mente.
 
 ## Jeremias 7:32
 

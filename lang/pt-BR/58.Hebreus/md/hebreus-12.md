@@ -20,13 +20,13 @@ Na luta contra o pecado, vocês ainda não resistiram até o ponto de derramar o
 
 E vocês se esqueceram da palavra de encorajamento que lhes foi dirigida como a filhos?
 
-> Diz: “Meu filho, não despreze a disciplina do Senhor,
-> e não desanime quando ele o repreender,
+>  Diz: “Meu filho, não despreze a disciplina do Senhor,
+>  e não desanime quando ele o repreender,
 
 ## Hebreus 12:6
 
 > porque o Senhor disciplina a quem ama,
-> e castiga todo aquele a quem aceita como filho.”
+>  e castiga todo aquele a quem aceita como filho.”
 
 ## Hebreus 12:7
 

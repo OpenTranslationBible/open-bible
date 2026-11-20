@@ -58,7 +58,7 @@ Agora por que ir ao Egito para beber as águas do Nilo? E por que ir à Assíria
 Sua maldade os corrigirá, e sua infidelidade os repreenderá. Considerem então e percebam quão mau e amargo é para vocês abandonarem o Senhor seu Deus e não terem temor de mim”, declara o Senhor, o Deus dos exércitos.
 
 ## Jeremias 2:20
-“Há muito tempo vocês romperam o seu jugo e rasgaram suas amarras; vocês disseram: ‘Não servirei a você!’ De fato, em toda colina alta e debaixo de toda árvore frondosa vocês se deitaram como uma infiel.
+“Há muito tempo vocês romperam o seu jugo e rasgaram suas amarras; vocês disseram: ‘Não servirei a você!’ De fato, em toda colina alta e debaixo de toda árvore frondosa vocês se deitaram como uma prostituta.
 
 ## Jeremias 2:21
 Eu os plantei como uma videira escolhida, uma semente completamente fiel. Como então vocês se voltaram contra mim em uma videira corrupta e selvagem?
@@ -70,13 +70,13 @@ Embora vocês se lavem com soda e usem muito sabão, a mancha da sua culpa ainda
 “Como podem dizer: ‘Não estou contaminado; não corri atrás dos Baalins’? Veja o seu comportamento no vale; considere o que você fez. Você é uma camela ligeira correndo para lá e para cá,
 
 ## Jeremias 2:24
-uma jumenta selvagem acostumada ao deserto, farejando o vento em seu desejo— em seu cio quem pode contê-la? Qualquer macho que a persegue não precisa se cansar; em seu tempo a encontrará.
+uma jumenta selvagem acostumada ao deserto, farejando o vento em seu desejo — em seu cio quem pode contê-la? Qualquer macho que a persegue não precisa se cansar; em seu tempo a encontrará.
 
 ## Jeremias 2:25
 Não corra até que seus pés fiquem descalços e sua garganta seca. Mas você disse: ‘É inútil! Eu amo deuses estrangeiros, e devo segui-los.’
 
 ## Jeremias 2:26
-“Como um ladrão é envergonhado quando é pego, assim a casa de Israel é envergonhada— eles, seus reis, seus oficiais, seus sacerdotes e seus profetas.
+“Como um ladrão é envergonhado quando é pego, assim a casa de Israel é envergonhada — eles, seus reis, seus oficiais, seus sacerdotes e seus profetas.
 
 ## Jeremias 2:27
 Eles falam à madeira, ‘Você é meu pai,’ e à pedra, ‘Você me deu à luz.’ Eles viraram as costas para mim e não seus rostos; ainda assim, quando estão em apuros, clamam: ‘Venha e nos resgate!’

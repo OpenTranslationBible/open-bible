@@ -79,7 +79,7 @@ A prata coletada do censo da comunidade totalizou cem talentos e 1.775 siclos, s
 Isso foi um beka por pessoa, ou seja, meio siclo, segundo o siclo do santuário, de cada homem com vinte anos ou mais, totalizando 603.550 homens.
 
 ## Êxodo 38:27
-Os cem talentos de prata foram usados para fundir as bases para o santuário e a cortina—cem bases dos cem talentos, um talento por base.
+Os cem talentos de prata foram usados para fundir as bases para o santuário e a cortina — cem bases dos cem talentos, um talento por base.
 
 ## Êxodo 38:28
 Os 1.775 siclos foram usados para fazer ganchos para as colunas, para revestir seus topos e para fazer faixas para elas.

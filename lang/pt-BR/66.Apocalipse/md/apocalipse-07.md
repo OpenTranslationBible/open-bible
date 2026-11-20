@@ -19,26 +19,26 @@ E ouvi o número dos que foram selados: 144.000, selados de todas as tribos dos 
 ## Apocalipse 7:5
 
 > Selados da tribo de Judá, 12.000,
-> da tribo de Rúben, 12.000,
-> da tribo de Gade, 12.000,
+>  da tribo de Rúben, 12.000,
+>  da tribo de Gade, 12.000,
 
 ## Apocalipse 7:6
 
 > selados da tribo de Aser, 12.000,
-> da tribo de Naftali, 12.000,
-> da tribo de Manassés, 12.000,
+>  da tribo de Naftali, 12.000,
+>  da tribo de Manassés, 12.000,
 
 ## Apocalipse 7:7
 
 > selados da tribo de Simeão, 12.000,
-> da tribo de Levi, 12.000,
-> da tribo de Issacar, 12.000,
+>  da tribo de Levi, 12.000,
+>  da tribo de Issacar, 12.000,
 
 ## Apocalipse 7:8
 
 > da tribo de Zebulom, 12.000,
-> da tribo de José, 12.000,
-> e da tribo de Benjamim, 12.000 foram selados.
+>  da tribo de José, 12.000,
+>  e da tribo de Benjamim, 12.000 foram selados.
 
 ## Apocalipse 7:9
 
@@ -48,9 +48,9 @@ Depois desses eventos, olhei, e havia uma grande multidão que ninguém podia co
 
 E proclamavam em alta voz,
 
-> “A salvação pertence ao nosso Deus
-> que está sentado no trono,
-> e ao Cordeiro.”
+>  “A salvação pertence ao nosso Deus que está sentado no trono,
+>  e ao Cordeiro.
+> ”
 
 ## Apocalipse 7:11
 
@@ -60,12 +60,12 @@ Todos os anjos estavam em pé ao redor do trono, dos anciãos e dos quatro seres
 
 dizendo,
 
-> “Amém!
-> Bênção, glória,
-> sabedoria, ação de graças, honra,
-> poder e força
-> sejam ao nosso Deus para todo o sempre.
-> Amém.”
+>  “Amém!
+>  Bênção, glória,
+>  sabedoria, ação de graças, honra,
+>  poder e força sejam ao nosso Deus para todo o sempre.
+>  Amém.
+> ”
 
 ## Apocalipse 7:13
 
@@ -77,17 +77,17 @@ Respondi: “Senhor, tu sabes.” E ele me disse: “Estes são os que vieram da
 
 ## Apocalipse 7:15
 
-> Por essa razão, estão diante do trono de Deus
-> e o servem dia e noite no seu templo;
-> e aquele que está sentado no trono os abrigará com sua presença.
+> Por essa razão,
+>  estão diante do trono de Deus e o servem dia e noite no seu templo;
+>  e aquele que está sentado no trono os abrigará com sua presença.
 
 ## Apocalipse 7:16
 
 > Eles não terão mais fome nem sede,
-> nem o sol cairá sobre eles, nem calor abrasador;
+>  nem o sol cairá sobre eles, nem calor abrasador;
 
 ## Apocalipse 7:17
 
 > pois o Cordeiro que está no meio do trono será o seu pastor,
-> e os guiará às fontes das águas da vida;
-> e Deus enxugará toda lágrima dos seus olhos.”
+>  e os guiará às fontes das águas da vida;
+>  e Deus enxugará toda lágrima dos seus olhos.”

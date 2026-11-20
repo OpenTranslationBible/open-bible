@@ -30,7 +30,7 @@ E a paz de Deus, que está além de todo entendimento, protegerá seus coraçõe
 
 ## Filipenses 4:8
 
-Finalmente, irmãos e irmãs, tudo o que é verdadeiro, tudo o que é honroso, tudo o que é justo, tudo o que é puro, tudo o que é amável, tudo o que é recomendável—se algo é excelente ou digno de louvor—pensem nessas coisas.
+Finalmente, irmãos e irmãs, tudo o que é verdadeiro, tudo o que é honroso, tudo o que é justo, tudo o que é puro, tudo o que é amável, tudo o que é recomendável — se algo é excelente ou digno de louvor — pensem nessas coisas.
 
 ## Filipenses 4:9
 

@@ -18,7 +18,7 @@ Quando Cristo, que é a vossa vida, se manifestar, então vós também sereis ma
 
 ## Colossenses 3:5
 
-Portanto, considerem os membros do vosso corpo terreno como mortos para a imoralidade sexual, impureza, paixão, maus desejos e ganância, que é idolatria.
+Portanto, façam morrer os membros do vosso corpo terreno: imoralidade sexual, impureza, paixão, maus desejos e ganância, que é idolatria.
 
 ## Colossenses 3:6
 

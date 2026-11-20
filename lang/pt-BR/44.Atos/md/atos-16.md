@@ -146,7 +146,7 @@ Naquela mesma hora da noite, ele os levou e lavou suas feridas; em seguida, ele 
 
 ## Atos 16:34
 
-Ele os levou para sua casa, pôs comida diante deles, e se alegrou muito porque havia crido em Deus—ele e toda a sua casa.
+Ele os levou para sua casa, pôs comida diante deles, e se alegrou muito porque havia crido em Deus — ele e toda a sua casa.
 
 ---
 

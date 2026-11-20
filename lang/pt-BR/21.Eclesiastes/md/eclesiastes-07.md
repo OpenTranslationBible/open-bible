@@ -46,10 +46,10 @@ Nos tempos de prosperidade, seja alegre, mas nos tempos de adversidade, consider
 Em minha vida passageira, vi ambos: o justo perecer em sua justiça, e o ímpio viver muito em sua impiedade.
 
 ## Eclesiastes 7:16
-Não seja excessivamente justo, nem seja demasiadamente sábio— por que se arruinar?
+Não seja excessivamente justo, nem seja demasiadamente sábio — por que se arruinar?
 
 ## Eclesiastes 7:17
-Não seja demasiadamente ímpio, nem seja tolo— por que morrer antes do tempo?
+Não seja demasiadamente ímpio, nem seja tolo — por que morrer antes do tempo?
 
 ## Eclesiastes 7:18
 É bom agarrar-se a uma coisa e não soltar a outra. Quem teme a Deus evitará todos os extremos.
@@ -67,10 +67,10 @@ Não preste muita atenção a todas as palavras que as pessoas dizem, ou você p
 pois você sabe em seu coração que também já falou mal dos outros muitas vezes.
 
 ## Eclesiastes 7:23
-Apliquei tudo isso à sabedoria e disse: “Serei sábio”— mas estava além de mim.
+Apliquei tudo isso à sabedoria e disse: “Serei sábio” — mas estava além de mim.
 
 ## Eclesiastes 7:24
-O que existe é distante e profundo— quem pode descobri-lo?
+O que existe é distante e profundo — quem pode descobri-lo?
 
 ## Eclesiastes 7:25
 Então, voltei minha mente para entender, explorar e buscar a sabedoria e o esquema das coisas, e para entender a loucura da impiedade e a insensatez da tolice.
@@ -82,7 +82,7 @@ Acho mais amarga do que a morte a mulher que enlaça, cujo coração é uma arma
 “Eis”, diz o Mestre, “isto é o que descobri: Somando uma coisa a outra para encontrar uma explicação—
 
 ## Eclesiastes 7:28
-enquanto ainda estava procurando, mas não encontrando— encontrei um homem justo entre mil, mas não uma única mulher justa entre todas.
+enquanto ainda estava procurando, mas não encontrando — encontrei um homem justo entre mil, mas não uma única mulher justa entre todas.
 
 ## Eclesiastes 7:29
 Isto apenas descobri: Deus criou a humanidade reta, mas eles buscaram muitos esquemas.”

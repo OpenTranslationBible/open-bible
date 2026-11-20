@@ -114,7 +114,7 @@ Portanto, diga-lhes: ‘Tão certo como Eu vivo, declara o Senhor, farei a você
 
 ## Números 14:29
 
-Neste deserto cairão seus corpos—todos vocês com vinte anos ou mais que foram contados no censo e que reclamaram contra Mim.
+Neste deserto cairão seus corpos — todos vocês com vinte anos ou mais que foram contados no censo e que reclamaram contra Mim.
 
 ## Números 14:30
 
@@ -134,7 +134,7 @@ Seus filhos serão pastores aqui por quarenta anos, suportando as consequências
 
 ## Números 14:34
 
-Por quarenta anos—um ano para cada um dos quarenta dias que vocês exploraram a terra—vocês sofrerão as consequências de seus pecados e saberão como é ter-Me contra vocês.’
+Por quarenta anos — um ano para cada um dos quarenta dias que vocês exploraram a terra — vocês sofrerão as consequências de seus pecados e saberão como é ter-Me contra vocês.’
 
 ## Números 14:35
 

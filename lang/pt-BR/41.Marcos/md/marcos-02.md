@@ -38,7 +38,7 @@ O que vocês acham que é mais simples: dizer a este homem paralítico, ‘Os se
 
 ## Marcos 2:10
 
-Mas para que vocês saibam que o Filho do Homem tem autoridade na terra para perdoar pecados”—ele disse ao homem paralítico,
+Mas para que vocês saibam que o Filho do Homem tem autoridade na terra para perdoar pecados” — ele disse ao homem paralítico,
 
 ## Marcos 2:11
 

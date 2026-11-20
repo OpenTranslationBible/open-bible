@@ -50,9 +50,9 @@ Ele lhes disse: “O mistério do reino de Deus foi dado a vocês, mas para os d
 
 para que,
 
-> ‘olhem, mas não percebam,
-> escutem, mas não entendam;
-> caso contrário, poderiam se converter e ser perdoados.’”
+>  ‘olhem, mas não percebam,
+>  escutem, mas não entendam;
+>  caso contrário, poderiam se converter e ser perdoados.’”
 
 ---
 
@@ -66,7 +66,7 @@ O semeador semeia a palavra.
 
 ## Marcos 4:15
 
-Alguns são como a semente à beira do caminho onde a palavra é semeada. Assim que a ouvem, o adversário vem e tira a palavra que foi semeada neles.
+Alguns são como a semente à beira do caminho onde a palavra é semeada. Assim que a ouvem, Satanás vem e tira a palavra que foi semeada neles.
 
 ## Marcos 4:16
 
@@ -86,7 +86,7 @@ mas as preocupações do mundo, o engano das riquezas e os desejos por outras co
 
 ## Marcos 4:20
 
-Mas outros são como a semente semeada em boa terra; ouvem a palavra, a aceitam e dão fruto—trinta, sessenta e cem vezes mais.”
+Mas outros são como a semente semeada em boa terra; ouvem a palavra, a aceitam e dão fruto — trinta, sessenta e cem vezes mais.”
 
 ---
 
@@ -104,7 +104,7 @@ Se alguém tem ouvidos para ouvir, ouça.”
 
 ## Marcos 4:24
 
-Ele continuou: “Considerem cuidadosamente o que ouvem. Com a medida que usarem, será medido a vocês—e ainda mais será acrescentado.
+Ele continuou: “Considerem cuidadosamente o que ouvem. Com a medida que usarem, será medido a vocês — e ainda mais será acrescentado.
 
 ## Marcos 4:25
 

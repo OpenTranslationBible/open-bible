@@ -26,7 +26,7 @@ Em Cristo Jesus, nem a circuncisão nem a incircuncisão têm qualquer significa
 
 ## Gálatas 5:7
 
-Vocês estavam progredindo bem. Quem os impediu de seguir a verdade?
+Vocês estavam correndo bem. Quem os impediu de seguir a verdade?
 
 ## Gálatas 5:8
 

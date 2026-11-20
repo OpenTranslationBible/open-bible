@@ -50,7 +50,7 @@ Bendito seja o Senhor seu Deus que se agradou de você, para colocá-lo em Seu t
 
 ## 2 Crônicas 9:9
 
-Então ela deu ao rei cento e vinte talentos de ouro, e uma quantidade muito grande de especiarias e pedras preciosas. Nunca mais vieram especiarias como aquelas que a rainha de Sabá deu ao rei Salomão.
+Então ela deu ao rei cento e vinte talentos de ouro, e uma quantidade muito grande de especiarias e pedras preciosas. Nunca antes houve especiarias como aquelas que a rainha de Sabá deu ao rei Salomão.
 
 ---
 

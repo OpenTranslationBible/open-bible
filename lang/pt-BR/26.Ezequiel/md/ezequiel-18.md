@@ -34,7 +34,7 @@ se ele não empresta com usura nem cobra juros, retém a sua mão da injustiça 
 
 ## Ezequiel 18:9
 
-se ele anda nos meus estatutos e guarda as minhas ordenanças, agindo fielmente—ele é justo; certamente viverá”, declara o Senhor Deus.
+se ele anda nos meus estatutos e guarda as minhas ordenanças, agindo fielmente — ele é justo; certamente viverá”, declara o Senhor Deus.
 
 ## Ezequiel 18:10
 
@@ -42,7 +42,7 @@ se ele anda nos meus estatutos e guarda as minhas ordenanças, agindo fielmente�
 
 ## Ezequiel 18:11
 
-embora ele mesmo não tenha feito nenhuma destas coisas—que até come nos santuários dos montes, contamina a mulher do seu próximo,
+embora ele mesmo não tenha feito nenhuma destas coisas — que até come nos santuários dos montes, contamina a mulher do seu próximo,
 
 ## Ezequiel 18:12
 

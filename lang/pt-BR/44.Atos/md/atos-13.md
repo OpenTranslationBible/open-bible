@@ -138,20 +138,20 @@ e por muitos dias Ele apareceu àqueles que o acompanharam da Galileia a Jerusal
 
 Ele cumpriu para nós, seus filhos, ressuscitando Jesus. Como está escrito no segundo Salmo:
 
-> ‘Tu és meu Filho;
-> hoje eu me tornei teu Pai.’
+>  ‘Tu és meu Filho;
+>  hoje eu me tornei teu Pai.’
 
 ## Atos 13:34
 
 Deus o ressuscitou dos mortos, garantindo que Ele nunca seria sujeito à corrupção. Como Deus disse,
 
-> ‘Eu lhes darei as santas e fiéis bênçãos prometidas a Davi.’
+>  ‘Eu lhes darei as santas e fiéis bênçãos prometidas a Davi.’
 
 ## Atos 13:35
 
 Assim também está dito em outro lugar:
 
-> ‘Não permitirás que o teu Santo veja a corrupção.’
+>  ‘Não permitirás que o teu Santo veja a corrupção.’
 
 ## Atos 13:36
 
@@ -176,10 +176,10 @@ Tenham cuidado para que não aconteça a vocês o que os profetas disseram:
 ## Atos 13:41
 
 > ‘Olhem, zombadores,
-> olhem maravilhados e desapareçam,
-> pois estou prestes a fazer algo em seus dias
-> que vocês jamais acreditariam,
-> mesmo que alguém lhes contasse.’”
+>  olhem maravilhados e desapareçam,
+>  pois estou prestes a fazer algo em seus dias que vocês jamais acreditariam,
+>  mesmo que alguém lhes contasse.
+> ’”
 
 ---
 
@@ -209,8 +209,8 @@ Então Paulo e Barnabé falaram ousadamente: “Era necessário falar a palavra 
 
 Pois o Senhor nos ordenou:
 
-> ‘Eu fiz de você uma luz para os gentios,
-> para que você leve a salvação até os confins da terra.’”
+>  ‘Eu fiz de você uma luz para os gentios,
+>  para que você leve a salvação até os confins da terra.’”
 
 ## Atos 13:48
 

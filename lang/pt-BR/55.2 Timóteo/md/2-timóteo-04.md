@@ -87,4 +87,4 @@ Procura vir antes do inverno. Êubulo, e Pudente, e Lino, e Cláudia, e todos os
 ## 2 Timóteo 4:22
 
 O Senhor Jesus Cristo seja com o teu espírito.  
-A graça seja convosco.
+ A graça seja convosco.

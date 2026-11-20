@@ -34,7 +34,7 @@ No entanto, planejo permanecer em Éfeso até o Pentecostes;
 
 ## 1 Coríntios 16:9
 
-Pois uma grande oportunidade para um trabalho eficaz se abriu para mim, e há muitos adversários.
+Pois uma grande porta para um trabalho eficaz se abriu para mim, e há muitos adversários.
 
 ## 1 Coríntios 16:10
 
@@ -82,7 +82,7 @@ Todos os crentes enviam saudações. Saúdem uns aos outros com um beijo santo.
 
 ## 1 Coríntios 16:21
 
-Vejam que esta saudação é escrita por mim, Paulo, de próprio punho.
+Esta saudação é escrita por mim, Paulo, de próprio punho.
 
 ## 1 Coríntios 16:22
 

@@ -102,7 +102,7 @@ Avim, Pará e a povoação de Ofra,
 
 ## Josué 18:24
 
-Quefar-Amoni, Ofni e Geba —doze cidades com suas aldeias.
+Quefar-Amoni, Ofni e Geba — doze cidades com suas aldeias.
 
 ## Josué 18:25
 
@@ -118,4 +118,4 @@ Requém, Irpeel e a povoação de Taralá,
 
 ## Josué 18:28
 
-Zela, Elefe, a cidade jebuseia (isto é, Jerusalém), Gibeá e Quiriate —catorze cidades com suas aldeias. Esta foi a herança da tribo de Benjamim, de acordo com seus clãs.
+Zela, Elefe, a cidade jebuseia (isto é, Jerusalém), Gibeá e Quiriate — catorze cidades com suas aldeias. Esta foi a herança da tribo de Benjamim, de acordo com seus clãs.

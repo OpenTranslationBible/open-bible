@@ -52,13 +52,13 @@ Aproximei-me de um dos que estavam ali e pedi a interpretação de tudo isso. El
 ‘As quatro grandes bestas são quatro reis que se levantarão da terra.
 
 ## Daniel 7:18
-Mas os santos do Altíssimo receberão o reino e o possuirão para sempre—de fato, para todo o sempre.’
+Mas os santos do Altíssimo receberão o reino e o possuirão para sempre — de fato, para todo o sempre.’
 
 ## Daniel 7:19
 Então desejei entender o significado da quarta besta, que era diferente de todas as outras e extremamente terrível, com seus dentes de ferro e garras de bronze, que devorava, esmagava e pisoteava o que restava com seus pés.
 
 ## Daniel 7:20
-Eu também queria saber sobre os dez chifres em sua cabeça e o outro chifre que surgiu, diante do qual três caíram—o chifre que tinha olhos e uma boca que falava arrogantemente, e que parecia mais imponente que os outros.
+Eu também queria saber sobre os dez chifres em sua cabeça e o outro chifre que surgiu, diante do qual três caíram — o chifre que tinha olhos e uma boca que falava arrogantemente, e que parecia mais imponente que os outros.
 
 ## Daniel 7:21
 Enquanto eu observava, este chifre fazia guerra contra os santos e prevalecia contra eles,

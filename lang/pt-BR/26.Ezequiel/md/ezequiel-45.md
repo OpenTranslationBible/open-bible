@@ -49,7 +49,7 @@ E uma ovelha de cada rebanho de duzentas das pastagens bem irrigadas de Israel, 
 Todo o povo da terra será obrigado a dar esta oferta especial ao príncipe em Israel.
 
 ## Ezequiel 45:17
-Será dever do príncipe fornecer as ofertas queimadas, ofertas de cereais e ofertas de bebida nas festas, nas Luas Novas e nos Sábados—em todas as festas designadas da casa de Israel. Ele fornecerá as ofertas pelo pecado, ofertas de cereais, ofertas queimadas e ofertas de paz para fazer expiação pelos israelitas.
+Será dever do príncipe fornecer as ofertas queimadas, ofertas de cereais e ofertas de bebida nas festas, nas Luas Novas e nos Sábados — em todas as festas designadas da casa de Israel. Ele fornecerá as ofertas pelo pecado, ofertas de cereais, ofertas queimadas e ofertas de paz para fazer expiação pelos israelitas.
 
 ## Ezequiel 45:18
 “‘Assim diz o Soberano Senhor: No primeiro mês, no primeiro dia, vocês deverão tomar um novilho jovem sem defeito e purificar o santuário.

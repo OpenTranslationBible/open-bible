@@ -8,23 +8,23 @@ A mensagem do Senhor chegou a mim:
 
 “Filho do homem, profetize e declare: ‘Assim diz o Soberano Senhor:
 
-> “Lamente,
-> ‘Ai daquele dia!’
+>  “Lamente,
+>  ‘Ai daquele dia!’
 
 ## Ezequiel 30:3
 
 > Pois o dia está próximo,
-> de fato, o dia do Senhor está próximo;
-> um dia de nuvens,
-> um tempo de desgraça para as nações.
+>  de fato, o dia do Senhor está próximo;
+>  um dia de nuvens,
+>  um tempo de desgraça para as nações.
 
 ## Ezequiel 30:4
 
 > Uma espada virá sobre o Egito,
-> e haverá angústia na Cuxe.
-> Quando os mortos caírem no Egito,
-> sua riqueza será levada,
-> e seus fundamentos serão destruídos.
+>  e haverá angústia na Cuxe.
+>  Quando os mortos caírem no Egito,
+>  sua riqueza será levada,
+>  e seus fundamentos serão destruídos.
 
 ## Ezequiel 30:5
 
@@ -34,23 +34,20 @@ Cuxe, Pute, Lude, toda a Arábia, Líbia e o povo da terra da aliança cairão p
 
 ‘Assim diz o Senhor:
 
-> “Os aliados do Egito cairão
-> e o orgulho de seu poder será abatido.
-> De Migdol a Sevene eles cairão pela espada dentro dela,”
-> declara o Soberano Senhor.
+>  “Os aliados do Egito cairão e o orgulho de seu poder será abatido.
+>  De Migdol a Sevene eles cairão pela espada dentro dela,
+> ”
+>  declara o Soberano Senhor.
 
 ## Ezequiel 30:7
 
-> “Eles ficarão desolados
-> entre terras desoladas,
-> e suas cidades estarão
-> entre cidades devastadas.
+> “Eles ficarão desolados entre terras desoladas,
+>  e suas cidades estarão entre cidades devastadas.
 
 ## Ezequiel 30:8
 
 > Então saberão que eu sou o Senhor,
-> quando eu atear fogo ao Egito
-> e todos os seus ajudantes forem destruídos.
+>  quando eu atear fogo ao Egito e todos os seus ajudantes forem destruídos.
 
 ## Ezequiel 30:9
 
@@ -60,72 +57,68 @@ Naquele dia, mensageiros sairão de mim em navios para amedrontar a Cuxe em sua 
 
 ‘Assim declara o Soberano Senhor:
 
-> “Eu acabarei com a multidão do Egito
-> e usarei a mão de Nabucodonosor, rei da Babilônia.
+>  “Eu acabarei com a multidão do Egito e usarei a mão de Nabucodonosor,
+>  rei da Babilônia.
 
 ## Ezequiel 30:11
 
 > Ele e seu povo com ele,
-> os mais impiedosos das nações,
-> serão trazidos para destruir a terra.
-> Eles brandirão suas espadas contra o Egito
-> e encherão a terra de mortos.
+>  os mais impiedosos das nações,
+>  serão trazidos para destruir a terra.
+>  Eles brandirão suas espadas contra o Egito e encherão a terra de mortos.
 
 ## Ezequiel 30:12
 
-> Eu secarei as águas do Nilo
-> e venderei a terra nas mãos de homens maus;
-> pela mão de estrangeiros devastarei a terra
-> e tudo o que nela há.
+> Eu secarei as águas do Nilo e venderei a terra nas mãos de homens maus;
+>  pela mão de estrangeiros devastarei a terra e tudo o que nela há.
+>  Eu,
+>  o Senhor,
 
-Eu, o Senhor, falei.
+ falei.
 
 ## Ezequiel 30:13
 
 ‘Assim diz o Soberano Senhor:
 
-> “Destruirei os ídolos
-> e acabarei com as imagens em Mênfis.
-> Não haverá mais príncipe no Egito,
-> e espalharei o medo por toda a terra.
+>  “Destruirei os ídolos e acabarei com as imagens em Mênfis.
+>  Não haverá mais príncipe no Egito,
+>  e espalharei o medo por toda a terra.
 
 ## Ezequiel 30:14
 
 > Devastarei Patros,
-> atearei fogo a Zoã,
-> e infligirei punição a Tebas.
+>  atearei fogo a Zoã,
+>  e infligirei punição a Tebas.
 
 ## Ezequiel 30:15
 
 > Derramarei minha ira sobre Pelúsio,
-> a fortaleza do Egito,
-> e eliminarei as hordas de Tebas.
+>  a fortaleza do Egito,
+>  e eliminarei as hordas de Tebas.
 
 ## Ezequiel 30:16
 
 > Atearei fogo ao Egito;
-> Pelúsio se contorcerá em agonia,
-> Tebas será rompida,
-> e Mênfis estará em constante aflição.
+>  Pelúsio se contorcerá em agonia,
+>  Tebas será rompida,
+>  e Mênfis estará em constante aflição.
 
 ## Ezequiel 30:17
 
-> Os jovens de Heliópolis e Bubástis
-> cairão pela espada,
-> e as mulheres serão levadas cativas.
+> Os jovens de Heliópolis e Bubástis cairão pela espada,
+>  e as mulheres serão levadas cativas.
 
 ## Ezequiel 30:18
 
-> Escuro será o dia em Tafnes
-> quando eu quebrar o jugo do Egito;
-> ali seu orgulho e força chegarão ao fim.
-> Ela será coberta de nuvens,
-> e suas filhas irão para o cativeiro.
+> Escuro será o dia em Tafnes quando eu quebrar o jugo do Egito;
+>  ali seu orgulho e força chegarão ao fim.
+>  Ela será coberta de nuvens,
+>  e suas filhas irão para o cativeiro.
 
 ## Ezequiel 30:19
 
 > Assim trarei juízos sobre o Egito,
-> e saberão que eu sou o Senhor.’”
+>  e saberão que eu sou o Senhor.’”
 
 ## Ezequiel 30:20
 

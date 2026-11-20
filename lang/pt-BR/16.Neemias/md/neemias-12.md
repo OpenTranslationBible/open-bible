@@ -68,7 +68,7 @@ Da de Ido, Zacarias; da de Ginetom, Mesulão;
 
 ## Neemias 12:17
 
-Da de Abias, Zicri; da de Moadias, Piltai, da terra de Miniamin;
+da de Abias, Zicri; da de Miniamin e da de Moadias, Piltai;
 
 ## Neemias 12:18
 
@@ -144,7 +144,7 @@ e alguns dos sacerdotes com trombetas, e também Zacarias, filho de Jônatas, fi
 
 ## Neemias 12:36
 
-e seus parentes—Semaías, Azarel, Milalai, Gilalai, Maai, Netanel, Judá e Hanani—com os instrumentos musicais de Davi, o homem de Deus. Esdras, o escriba, os liderava.
+e seus parentes — Semaías, Azarel, Milalai, Gilalai, Maai, Netanel, Judá e Hanani — com os instrumentos musicais de Davi, o homem de Deus. Esdras, o escriba, os liderava.
 
 ## Neemias 12:37
 
@@ -164,7 +164,7 @@ Os dois coros que ofereciam graças tomaram então seus lugares na casa de Deus;
 
 ## Neemias 12:41
 
-e os sacerdotes—Eliacim, Maaseias, Miniamim, Micaías, Elioenai, Zacarias e Hananias com suas trombetas—
+e os sacerdotes — Eliacim, Maaseias, Miniamim, Micaías, Elioenai, Zacarias e Hananias com suas trombetas—
 
 ## Neemias 12:42
 

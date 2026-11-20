@@ -3,7 +3,7 @@
 ## 2 Coríntios 1:1
 
 De Paulo, apóstolo de Cristo Jesus pela vontade de Deus, e Timóteo nosso irmão,  
-À igreja de Deus em Corinto, juntamente com todos os santos em toda a Acaia:
+ À igreja de Deus em Corinto, juntamente com todos os santos em toda a Acaia:
 
 ## 2 Coríntios 1:2
 

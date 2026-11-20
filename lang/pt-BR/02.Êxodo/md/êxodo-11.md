@@ -16,7 +16,7 @@ Moisés então declarou: “Assim diz o Senhor: ‘Por volta da meia-noite passa
 Todo primogênito na terra do Egito perecerá, desde o primogênito de Faraó que se senta no trono, até o primogênito da escrava atrás das pedras de moinho, e todos os primogênitos do gado também.
 
 ## Êxodo 11:6
-Haverá um grande clamor em todo o Egito—como nunca houve antes nem jamais haverá.
+Haverá um grande clamor em todo o Egito — como nunca houve antes nem jamais haverá.
 
 ## Êxodo 11:7
 Mas entre os israelitas, nem mesmo um cão rosnará para qualquer pessoa ou animal, para que vocês entendam que o Senhor faz distinção entre o Egito e Israel.’

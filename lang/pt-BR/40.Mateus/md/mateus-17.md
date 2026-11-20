@@ -108,7 +108,7 @@ Quando chegaram a Cafarnaum, os cobradores do imposto do templo de duas dracmas 
 
 ## Mateus 17:25
 
-“Sim, paga,” respondeu Pedro. Quando ele entrou em casa, Jesus falou primeiro: “O que você acha, Simão? De quem os reis da terra cobram tributos e impostos—de seus próprios filhos ou dos outros?”
+“Sim, paga,” respondeu Pedro. Quando ele entrou em casa, Jesus falou primeiro: “O que você acha, Simão? De quem os reis da terra cobram tributos e impostos — de seus próprios filhos ou dos outros?”
 
 ## Mateus 17:26
 

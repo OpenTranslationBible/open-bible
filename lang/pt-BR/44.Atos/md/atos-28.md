@@ -114,18 +114,18 @@ Eles discordaram entre si e começaram a sair depois que Paulo fez esta última 
 
 dizendo,
 
-> ‘Vá a este povo e diga,
-> “Vocês estarão sempre ouvindo, mas nunca entendendo;
-> estarão sempre vendo, mas nunca percebendo.”
+>  ‘Vá a este povo e diga,
+>  “Vocês estarão sempre ouvindo, mas nunca entendendo;
+>  estarão sempre vendo, mas nunca percebendo.”
 
 ## Atos 28:27
 
 > Pois o coração deste povo se tornou insensível;
-> eles mal ouvem com os ouvidos,
-> e fecharam os olhos.
-> Caso contrário, poderiam ver com os olhos,
-> ouvir com os ouvidos, entender com o coração e se converter,
-> e eu os curaria.’
+>  eles mal ouvem com os ouvidos,
+>  e fecharam os olhos.
+>  Caso contrário, poderiam ver com os olhos,
+>  ouvir com os ouvidos, entender com o coração e se converter,
+>  e eu os curaria.’
 
 ## Atos 28:28
 

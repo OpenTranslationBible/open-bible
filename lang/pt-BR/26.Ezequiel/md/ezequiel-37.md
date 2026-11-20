@@ -50,7 +50,7 @@ Portanto, profetize e diga-lhes: ‘Assim diz o Soberano Senhor: Meu povo, vou a
 
 ## Ezequiel 37:13
 
-Então vocês reconhecerão que Eu sou o Senhor, quando Eu abrir seus túmulos e os tirar de lá.
+Então vocês, povo meu, reconhecerão que Eu sou o Senhor, quando Eu abrir seus túmulos e os tirar de lá.
 
 ## Ezequiel 37:14
 

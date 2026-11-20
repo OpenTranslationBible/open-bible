@@ -40,14 +40,14 @@ Não os imitem: seu Pai sabe do que vocês precisam antes mesmo de vocês pedire
 
 “Orem desta forma:
 
-> ‘Pai nosso que estás nos céus,
-> santificado seja o Teu nome,
+>  ‘Pai nosso que estás nos céus,
+>  santificado seja o Teu nome,
 
 ## Mateus 6:10
 
 > Venha o Teu reino,
-> seja feita a Tua vontade,
-> assim na terra como no céu.
+>  seja feita a Tua vontade,
+>  assim na terra como no céu.
 
 ## Mateus 6:11
 
@@ -56,15 +56,15 @@ Não os imitem: seu Pai sabe do que vocês precisam antes mesmo de vocês pedire
 ## Mateus 6:12
 
 > E perdoa-nos os nossos pecados,
-> assim como perdoamos aos que pecam contra nós.
+>  assim como perdoamos aos que pecam contra nós.
 
 ## Mateus 6:13
 
 > E não nos deixes cair em tentação,
-> mas livra-nos do mal.’
+>  mas livra-nos do mal.’
 
-> Pois Teu é o reino, o poder e a glória,
-> para sempre. Amém
+>  Pois Teu é o reino, o poder e a glória,
+>  para sempre. Amém
 
 ---
 

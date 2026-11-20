@@ -78,7 +78,7 @@ Ao anoitecer, Jesus chegou com os Doze.
 
 ## Marcos 14:18
 
-Enquanto estavam reclinados à mesa comendo, Jesus disse: “Em verdade vos digo que um de vocês me trairá—um que está comendo comigo.”
+Enquanto estavam reclinados à mesa comendo, Jesus disse: “Em verdade vos digo que um de vocês me trairá — um que está comendo comigo.”
 
 ## Marcos 14:19
 
@@ -96,7 +96,7 @@ O Filho do Homem vai, como está escrito a seu respeito. Mas ai daquele que trai
 
 ## Marcos 14:22
 
-Enquanto comiam, Jesus tomou o pão, e tendo dado graças, partiu-o e deu-o aos seus discípulos, dizendo: “Tomem; isto simboliza o meu corpo.”
+Enquanto comiam, Jesus tomou o pão, e tendo dado graças, partiu-o e deu-o aos seus discípulos, dizendo: “Tomem; isto é o meu corpo.”
 
 ## Marcos 14:23
 
@@ -104,7 +104,7 @@ Em seguida, tomou um cálice, e após dar graças, ofereceu-o a eles, e todos be
 
 ## Marcos 14:24
 
-“Isto representa o meu sangue da aliança, que é derramado por muitos”, disse-lhes.
+“Isto é o meu sangue da aliança, que é derramado por muitos”, disse-lhes.
 
 ## Marcos 14:25
 
@@ -120,8 +120,8 @@ Depois de cantarem um hino, foram para o Monte das Oliveiras.
 
 “Todos vocês cairão”, disse Jesus a eles, “pois está escrito:
 
-> ‘Ferirei o pastor,
-> e as ovelhas se dispersarão.’
+>  ‘Ferirei o pastor,
+>  e as ovelhas se dispersarão.’
 
 ## Marcos 14:28
 
@@ -133,7 +133,7 @@ Pedro declarou: “Mesmo que todos os outros caiam, eu não cairei.”
 
 ## Marcos 14:30
 
-“Em verdade vos digo”, respondeu Jesus, “hoje—sim, esta noite—antes que o galo cante duas vezes, você me negará três vezes.”
+“Em verdade vos digo”, respondeu Jesus, “hoje — sim, esta noite — antes que o galo cante duas vezes, você me negará três vezes.”
 
 ## Marcos 14:31
 

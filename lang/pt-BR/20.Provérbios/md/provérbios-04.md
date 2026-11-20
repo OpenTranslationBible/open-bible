@@ -16,8 +16,8 @@ Quando eu era filho de meu pai, tenro e querido por minha mãe,
 
 Ele me instruiu e disse,
 
-> "Que seu coração agarre minhas palavras;
-> guarde meus mandamentos e viva.
+>  "Que seu coração agarre minhas palavras;
+>  guarde meus mandamentos e viva.
 
 ## Provérbios 4:5
 

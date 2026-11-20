@@ -82,7 +82,7 @@ Este é o julgamento: A luz veio ao mundo, mas as pessoas amaram mais as trevas 
 
 ## João 3:20
 
-Aqueles que fazem o mal evitam a luz, temendo que suas obras sejam reveladas.
+Aqueles que fazem o mal odeiam a luz e a evitam, temendo que suas obras sejam reveladas.
 
 ## João 3:21
 

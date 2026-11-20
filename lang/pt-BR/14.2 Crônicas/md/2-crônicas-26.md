@@ -87,7 +87,7 @@ Além disso, Uzias equipou todo o exército com escudos, lanças, capacetes, cou
 ## 2 Crônicas 26:15
 
 Ele fez dispositivos habilmente projetados em Jerusalém para estarem nas torres e nos cantos, com o propósito de disparar flechas e grandes pedras.  
-E sua fama se espalhou longe, pois foi maravilhosamente ajudado até que se tornou forte.
+ E sua fama se espalhou longe, pois foi maravilhosamente ajudado até que se tornou forte.
 
 ---
 
@@ -124,7 +124,7 @@ Azarias, o sumo sacerdote, e todos os sacerdotes olharam para ele, e eis que ele
 ## 2 Crônicas 26:21
 
 O rei Uzias foi leproso até o dia de sua morte; e viveu em uma casa separada, sendo leproso, pois foi excluído da casa do Senhor.  
-E seu filho Jotão estava encarregado da casa do rei, julgando o povo da terra.
+ E seu filho Jotão estava encarregado da casa do rei, julgando o povo da terra.
 
 ---
 
@@ -137,4 +137,4 @@ Agora, o restante dos atos de Uzias, desde o começo até o fim, foram registrad
 ## 2 Crônicas 26:23
 
 Assim, Uzias foi sepultado com seus antepassados, e o enterraram com seus pais no campo do sepulcro que pertencia aos reis, pois disseram: “Ele é leproso.”  
-E seu filho Jotão se tornou rei em seu lugar.
+ E seu filho Jotão se tornou rei em seu lugar.

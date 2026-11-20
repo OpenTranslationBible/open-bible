@@ -3,8 +3,8 @@
 ## 1 Crônicas 9:1
 
 Assim, todo o Israel foi registrado em genealogias,  
-e, de fato, estão documentados no Livro dos Reis de Israel.  
-E Judá foi levado ao exílio para Babilônia devido à sua infidelidade.
+ e, de fato, estão documentados no Livro dos Reis de Israel.  
+ E Judá foi levado ao exílio para Babilônia devido à sua infidelidade.
 
 ---
 
@@ -12,7 +12,7 @@ E Judá foi levado ao exílio para Babilônia devido à sua infidelidade.
 
 Agora, os primeiros que viveram em suas possessões em suas cidades foram:
 
-> Israelitas, sacerdotes, levitas e os servos do templo.
+>  Israelitas, sacerdotes, levitas e os servos do templo.
 
 ---
 
@@ -25,7 +25,7 @@ Alguns descendentes de Judá, Benjamim, Efraim e Manassés residiram em Jerusal�
 ## 1 Crônicas 9:4
 
 > Utai, descendente de Amiúde, Omri, Inri e Bani,  
-> da linhagem de Perez, filho de Judá.
+>  da linhagem de Perez, filho de Judá.
 
 ---
 
@@ -48,15 +48,15 @@ Alguns descendentes de Judá, Benjamim, Efraim e Manassés residiram em Jerusal�
 ## 1 Crônicas 9:8
 
 > junto com Ibneias, descendente de Jeroão,  
-> e Elá, descendente de Uzi e Micri,  
-> e Mesulão, descendente de Sefatias, Reuel e Ibnijas;
+>  e Elá, descendente de Uzi e Micri,  
+>  e Mesulão, descendente de Sefatias, Reuel e Ibnijas;
 
 ---
 
 ## 1 Crônicas 9:9
 
 > e seus parentes segundo suas gerações, 956.  
-> Todos estes eram líderes das casas de seus pais segundo suas linhagens familiares.
+>  Todos estes eram líderes das casas de seus pais segundo suas linhagens familiares.
 
 ---
 
@@ -75,7 +75,7 @@ Alguns descendentes de Judá, Benjamim, Efraim e Manassés residiram em Jerusal�
 ## 1 Crônicas 9:12
 
 > e Adaías, descendente de Jeroão, Pasur e Malquias;  
-> e Maasai, descendente de Adiel, Jazerá, Mesulão, Mesilemite e Imer;
+>  e Maasai, descendente de Adiel, Jazerá, Mesulão, Mesilemite e Imer;
 
 ---
 
@@ -94,14 +94,14 @@ Alguns descendentes de Judá, Benjamim, Efraim e Manassés residiram em Jerusal�
 ## 1 Crônicas 9:15
 
 > e Bacbacar, Heres e Galal;  
-> e Matanias, descendente de Mica, Zicri e Asafe;
+>  e Matanias, descendente de Mica, Zicri e Asafe;
 
 ---
 
 ## 1 Crônicas 9:16
 
 > e Obadias, descendente de Semaías, Galal e Jedutum;  
-> e Berequias, descendente de Asa e Elcana, que viviam nos povoados dos Netofatitas.
+>  e Berequias, descendente de Asa e Elcana, que viviam nos povoados dos Netofatitas.
 
 ---
 
@@ -109,32 +109,32 @@ Alguns descendentes de Judá, Benjamim, Efraim e Manassés residiram em Jerusal�
 
 Agora os porteiros eram:
 
-> Salum, Acube, Talmom, Aimã e seus parentes.  
-> Salum era o chefe.
+>  Salum, Acube, Talmom, Aimã e seus parentes.  
+>  Salum era o chefe.
 
 ---
 
 ## 1 Crônicas 9:18
 
 Até agora ele estava no portão do rei, a leste.  
-Estes eram os porteiros para o acampamento dos filhos de Levi.
+ Estes eram os porteiros para o acampamento dos filhos de Levi.
 
 ---
 
 ## 1 Crônicas 9:19
 
 Salum, descendente de Coré, Ebiasafe e Corá,  
-e seus parentes da casa de seu pai, os coraítas,  
-estavam sobre o trabalho do serviço, guardiões dos umbrais da tenda.
+ e seus parentes da casa de seu pai, os coraítas,  
+ estavam sobre o trabalho do serviço, guardiões dos umbrais da tenda.
 
-> E seus pais tinham estado sobre o acampamento do Senhor, guardiões da entrada.
+>  E seus pais tinham estado sobre o acampamento do Senhor, guardiões da entrada.
 
 ---
 
 ## 1 Crônicas 9:20
 
 Fineias, descendente de Eleazar, tinha sido governador sobre eles anteriormente,  
-e o Senhor estava com ele.
+ e o Senhor estava com ele.
 
 ---
 
@@ -147,9 +147,9 @@ Zacarias, filho de Meselemias, servia como porteiro na entrada da tenda do encon
 ## 1 Crônicas 9:22
 
 Todos os que foram escolhidos para serem porteiros nos umbrais eram 212.  
-Estes foram registrados por genealogia em seus povoados,
+ Estes foram registrados por genealogia em seus povoados,
 
-> aqueles que Davi e Samuel, o vidente, nomearam em seu ofício de confiança.
+>  aqueles que Davi e Samuel, o vidente, nomearam em seu ofício de confiança.
 
 ---
 
@@ -157,7 +157,7 @@ Estes foram registrados por genealogia em seus povoados,
 
 Assim, eles e seus filhos supervisionavam os portões da casa do Senhor,
 
-> a saber, a casa da tenda, como guardas.
+>  a saber, a casa da tenda, como guardas.
 
 ---
 
@@ -165,7 +165,7 @@ Assim, eles e seus filhos supervisionavam os portões da casa do Senhor,
 
 Os porteiros estavam posicionados em todos os quatro lados:
 
-> ao leste, oeste, norte e sul.
+>  ao leste, oeste, norte e sul.
 
 ---
 
@@ -178,30 +178,30 @@ Seus parentes de seus povoados se juntavam a eles a cada sete dias periodicament
 ## 1 Crônicas 9:26
 
 pois os quatro principais porteiros, que eram levitas,  
-estavam encarregados das salas e dos tesouros na casa de Deus.
+ estavam encarregados das salas e dos tesouros na casa de Deus.
 
 ---
 
 ## 1 Crônicas 9:27
 
 Eles passavam a noite ao redor da casa de Deus,  
-porque a vigilância lhes era confiada;
+ porque a vigilância lhes era confiada;
 
-> e eles eram responsáveis por abri-la manhã após manhã.
+>  e eles eram responsáveis por abri-la manhã após manhã.
 
 ---
 
 ## 1 Crônicas 9:28
 
 Agora alguns deles eram responsáveis pelos utensílios do serviço,  
-pois os contavam quando os traziam e quando os levavam.
+ pois os contavam quando os traziam e quando os levavam.
 
 ---
 
 ## 1 Crônicas 9:29
 
 Alguns deles também foram designados sobre os móveis e sobre todos os utensílios do santuário,  
-e sobre a farinha fina, o vinho, o óleo, o incenso e as especiarias.
+ e sobre a farinha fina, o vinho, o óleo, o incenso e as especiarias.
 
 ---
 
@@ -215,30 +215,29 @@ Certos descendentes dos sacerdotes foram encarregados de preparar a mistura das 
 
 Matitias, um dos levitas, que era o primogênito de Salum, o coraíta,
 
-> tinha a responsabilidade de assar bolos em panelas.
+>  tinha a responsabilidade de assar bolos em panelas.
 
 ---
 
 ## 1 Crônicas 9:32
 
-Alguns de seus parentes dos filhos dos coatitas  
-eram encarregados dos pães da proposição para prepará-los a cada sábado.
+Alguns de seus parentes dos filhos dos coatitas eram encarregados dos pães da proposição para prepará-los a cada sábado.
 
 ---
 
 ## 1 Crônicas 9:33
 
 Agora estes são os cantores, líderes das casas de seus pais dos levitas,  
-que viviam nas câmaras do templo isentos de outros serviços,  
-pois estavam empenhados em seu trabalho dia e noite.
+ que viviam nas câmaras do templo isentos de outros serviços,  
+ pois estavam empenhados em seu trabalho dia e noite.
 
 ---
 
 ## 1 Crônicas 9:34
 
-Estes eram líderes das casas de seus pais dos levitas  
-segundo suas gerações, homens principais,  
-que viviam em Jerusalém.
+Estes eram líderes das casas de seus pais dos levitas segundo suas gerações,  
+ homens principais,  
+ que viviam em Jerusalém.
 
 ---
 
@@ -246,7 +245,7 @@ que viviam em Jerusalém.
 
 Em Gibeão, Jeiel, o pai de Gibeão, vivia,
 
-> e o nome de sua esposa era Maacá.
+>  e o nome de sua esposa era Maacá.
 
 ---
 
@@ -264,7 +263,7 @@ também Gedor, Aio, Zacarias e Miclote.
 
 Miclote gerou Simeão.
 
-> Eles também viviam com seus parentes em Jerusalém, em frente a seus outros parentes.
+>  Eles também viviam com seus parentes em Jerusalém, em frente a seus outros parentes.
 
 ---
 
@@ -272,7 +271,7 @@ Miclote gerou Simeão.
 
 Ner foi pai de Quis, e Quis foi pai de Saul;
 
-> Saul foi pai de Jônatas, Malquisua, Abinadabe e Esbaal.
+>  Saul foi pai de Jônatas, Malquisua, Abinadabe e Esbaal.
 
 ---
 
@@ -280,7 +279,7 @@ Ner foi pai de Quis, e Quis foi pai de Saul;
 
 O filho de Jônatas foi Meribe-Baal,
 
-> e Meribe-Baal foi pai de Mica.
+>  e Meribe-Baal foi pai de Mica.
 
 ---
 
@@ -288,7 +287,7 @@ O filho de Jônatas foi Meribe-Baal,
 
 Os filhos de Mica incluíam:
 
-> Pitom, Meleque, Tareia e Acaz.
+>  Pitom, Meleque, Tareia e Acaz.
 
 ---
 
@@ -296,8 +295,8 @@ Os filhos de Mica incluíam:
 
 Acaz foi pai de Jará,
 
-> e Jará foi pai de Alemete, Azmavete e Zimri;  
-> e Zimri foi pai de Moza;
+>  e Jará foi pai de Alemete, Azmavete e Zimri;  
+>  e Zimri foi pai de Moza;
 
 ---
 
@@ -305,9 +304,9 @@ Acaz foi pai de Jará,
 
 Moza foi pai de Bineá,
 
-> e seu filho foi Refaías,  
-> seu filho foi Eleasá,  
-> e seu filho foi Azel.
+>  e seu filho foi Refaías,  
+>  seu filho foi Eleasá,  
+>  e seu filho foi Azel.
 
 ---
 
@@ -315,5 +314,5 @@ Moza foi pai de Bineá,
 
 Azel teve seis filhos chamados:
 
-> Azricão, Boqueru, Ismael, Searias, Obadias e Hanã.  
-> Estes foram os filhos de Azel.
+>  Azricão, Boqueru, Ismael, Searias, Obadias e Hanã.  
+>  Estes foram os filhos de Azel.

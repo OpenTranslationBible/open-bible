@@ -62,11 +62,11 @@ Então Moisés ficou muito irado e disse ao Senhor: “Não consideres a oferta 
 
 ## Números 16:16
 
-Moisés instruiu Corá: “Você e todos os seus seguidores devem estar perante o Senhor amanhã—você, eles e Arão.
+Moisés instruiu Corá: “Você e todos os seus seguidores devem estar perante o Senhor amanhã — você, eles e Arão.
 
 ## Números 16:17
 
-Cada homem deve tomar seu incensário e colocar incenso nele—250 incensários ao todo—e trazê-lo perante o Senhor. Você e Arão devem trazer seus incensários também.”
+Cada homem deve tomar seu incensário e colocar incenso nele — 250 incensários ao todo — e trazê-lo perante o Senhor. Você e Arão devem trazer seus incensários também.”
 
 ## Números 16:18
 
@@ -158,7 +158,7 @@ Assim, Eleazar, o sacerdote, tomou os incensários de bronze trazidos por aquele
 
 ## Números 16:40
 
-como um lembrete para os israelitas de que ninguém, exceto um descendente de Arão, deve vir para queimar incenso perante o Senhor, ou ele se tornará como Corá e seus seguidores—assim como o Senhor tinha falado a ele por meio de Moisés.
+como um lembrete para os israelitas de que ninguém, exceto um descendente de Arão, deve vir para queimar incenso perante o Senhor, ou ele se tornará como Corá e seus seguidores — assim como o Senhor tinha falado a ele por meio de Moisés.
 
 ## Números 16:41
 

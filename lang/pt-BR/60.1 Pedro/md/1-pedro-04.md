@@ -70,10 +70,9 @@ Pois é tempo de o julgamento começar pela casa de Deus; e se começa primeiro 
 
 ## 1 Pedro 4:18
 
-E
+E se é com dificuldade que o justo é salvo,
 
-> se é com dificuldade que o justo é salvo,
-> o que será do ímpio e do pecador?
+>  o que será do ímpio e do pecador?
 
 ## 1 Pedro 4:19
 

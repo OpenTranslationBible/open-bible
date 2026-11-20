@@ -78,11 +78,11 @@ As águas prevaleceram grandemente sobre a terra, e todos os altos montes debaix
 
 ## Gênesis 7:20
 
-As águas subiram e submergiram os montes a uma profundidade de mais de quinze côvados.
+As águas subiram e submergiram os montes a uma profundidade de quinze côvados.
 
 ## Gênesis 7:21
 
-Todos os seres vivos que se moviam sobre a terra pereceram—aves, rebanhos, animais selvagens, todas as criaturas que enxameiam sobre a terra, e toda a humanidade.
+Todos os seres vivos que se moviam sobre a terra pereceram — aves, rebanhos, animais selvagens, todas as criaturas que enxameiam sobre a terra, e toda a humanidade.
 
 ## Gênesis 7:22
 

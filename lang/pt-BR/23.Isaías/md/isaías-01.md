@@ -50,7 +50,7 @@ Quando vindes para aparecer diante de Mim, quem requereu isso de vós, este piso
 
 ## Isaías 1:13
 
-Não tragais mais ofertas inúteis; o incenso é uma abominação para Mim. Novas luas, sábados e convocações—não posso suportar iniquidade e assembleia solene.
+Não tragais mais ofertas inúteis; o incenso é uma abominação para Mim. Novas luas, sábados e convocações — não posso suportar iniquidade e assembleia solene.
 
 ## Isaías 1:14
 
@@ -82,7 +82,7 @@ mas se recusardes e vos rebelardes, sereis devorados pela espada.” Pois o Senh
 
 ## Isaías 1:21
 
-Como se tornou infiel a cidade fiel! Ela que estava cheia de justiça! A retidão habitava nela, mas agora assassinos.
+Como se tornou prostituta a cidade fiel! Ela que estava cheia de justiça! A retidão habitava nela, mas agora assassinos.
 
 ## Isaías 1:22
 

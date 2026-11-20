@@ -10,7 +10,7 @@ Se o culpado merecer ser açoitado, o juiz deverá fazê-lo deitar-se e ser aço
 O juiz não deve impor mais de quarenta chicotadas, para que o seu compatriota israelita não se torne desprezível aos seus olhos por ser excessivamente açoitado.
 
 ## Deuteronômio 25:4
-Não impeça o boi de comer enquanto estiver trabalhando para debulhar o grão.
+Não amordace o boi enquanto estiver trabalhando para debulhar o grão.
 
 ## Deuteronômio 25:5
 Se irmãos estiverem vivendo juntos e um deles morrer sem ter um filho, a viúva não deve casar-se fora da família. O irmão do falecido deverá casar-se com ela e cumprir o dever de cunhado para com ela.
@@ -34,13 +34,13 @@ A sua família será conhecida em Israel como A Casa do Descalçado.
 Se dois homens estiverem brigando e a esposa de um intervir para resgatar o marido do seu agressor, e ela estender a mão e agarrá-lo pelas suas partes íntimas,
 
 ## Deuteronômio 25:12
-você deverá tomar a ação apropriada. Não mostre indulgência.
+você deverá cortar a mão dela. Não mostre indulgência.
 
 ## Deuteronômio 25:13
-Não tenha pesos diferentes na sua bolsa—um pesado, outro leve.
+Não tenha pesos diferentes na sua bolsa — um pesado, outro leve.
 
 ## Deuteronômio 25:14
-Não tenha medidas diferentes na sua casa—uma grande, outra pequena.
+Não tenha medidas diferentes na sua casa — uma grande, outra pequena.
 
 ## Deuteronômio 25:15
 Você deve ter pesos e medidas precisos e honestos, para que possa viver muito tempo na terra que o Senhor seu Deus está lhe dando.

@@ -4,16 +4,16 @@
 
 Aqui estão as divisões dos filhos de Arão:
 
-> Os filhos de Arão foram Nadabe, Abiú, Eleazar e Itamar.
+>  Os filhos de Arão foram Nadabe, Abiú, Eleazar e Itamar.
 
 ---
 
 ## 1 Crônicas 24:2
 
 No entanto, Nadabe e Abiú faleceram antes de seu pai,  
-e não tiveram filhos.
+ e não tiveram filhos.
 
-> Assim, Eleazar e Itamar serviram como sacerdotes.
+>  Assim, Eleazar e Itamar serviram como sacerdotes.
 
 ---
 
@@ -21,7 +21,7 @@ e não tiveram filhos.
 
 Davi, com Zadoque dos filhos de Eleazar e Aimeleque dos filhos de Itamar,
 
-> os dividiu de acordo com seus deveres designados em seu serviço.
+>  os dividiu de acordo com seus deveres designados em seu serviço.
 
 ---
 
@@ -29,9 +29,9 @@ Davi, com Zadoque dos filhos de Eleazar e Aimeleque dos filhos de Itamar,
 
 Mais chefes foram encontrados entre os filhos de Eleazar do que entre os filhos de Itamar,
 
-> e eles os dividiram de acordo.  
-> Havia dezesseis chefes de casas paternas dos filhos de Eleazar,  
-> e oito dos filhos de Itamar segundo suas casas paternas.
+>  e eles os dividiram de acordo.  
+>  Havia dezesseis chefes de casas paternas dos filhos de Eleazar,  
+>  e oito dos filhos de Itamar segundo suas casas paternas.
 
 ---
 
@@ -39,17 +39,16 @@ Mais chefes foram encontrados entre os filhos de Eleazar do que entre os filhos 
 
 Assim, foram divididos por sorteio, um grupo com o outro,
 
-> pois os oficiais do santuário e os oficiais de Deus eram dos filhos de Eleazar e dos filhos de Itamar.
+>  pois os oficiais do santuário e os oficiais de Deus eram dos filhos de Eleazar e dos filhos de Itamar.
 
 ---
 
 ## 1 Crônicas 24:6
 
 Semaías, filho de Netanel, o escriba, dos levitas,  
-os registrou na presença do rei, dos oficiais, Zadoque, o sacerdote, Aimeleque, filho de Abiatar,
+ os registrou na presença do rei, dos oficiais, Zadoque, o sacerdote, Aimeleque, filho de Abiatar,
 
-> e dos chefes das casas paternas dos sacerdotes e dos levitas—  
-> uma casa paterna tomada para Eleazar e uma tomada para Itamar.
+>  e dos chefes das casas paternas dos sacerdotes e dos levitas — uma casa paterna tomada para Eleazar e uma tomada para Itamar.
 
 ---
 
@@ -57,93 +56,93 @@ os registrou na presença do rei, dos oficiais, Zadoque, o sacerdote, Aimeleque,
 
 O primeiro sorteio foi atribuído a Joiaribe,
 
-> o segundo a Jedaías,
+>  o segundo a Jedaías,
 
 ---
 
 ## 1 Crônicas 24:8
 
 > o terceiro foi dado a Harim,  
-> o quarto foi dado a Seorim,
+>  o quarto foi dado a Seorim,
 
 ---
 
 ## 1 Crônicas 24:9
 
 > o quinto foi dado a Malquias,  
-> o sexto foi dado a Mijamim,
+>  o sexto foi dado a Mijamim,
 
 ---
 
 ## 1 Crônicas 24:10
 
 > o sétimo foi dado a Hacoz,  
-> o oitavo foi dado a Abias,
+>  o oitavo foi dado a Abias,
 
 ---
 
 ## 1 Crônicas 24:11
 
 > o nono foi dado a Jesua,  
-> o décimo foi dado a Secanias,
+>  o décimo foi dado a Secanias,
 
 ---
 
 ## 1 Crônicas 24:12
 
 > o décimo primeiro foi dado a Eliasibe,  
-> o décimo segundo foi dado a Jaquim,
+>  o décimo segundo foi dado a Jaquim,
 
 ---
 
 ## 1 Crônicas 24:13
 
 > o décimo terceiro foi dado a Hupá,  
-> o décimo quarto foi dado a Jesebeabe,
+>  o décimo quarto foi dado a Jesebeabe,
 
 ---
 
 ## 1 Crônicas 24:14
 
 > o décimo quinto foi dado a Bilga,  
-> o décimo sexto foi dado a Imer,
+>  o décimo sexto foi dado a Imer,
 
 ---
 
 ## 1 Crônicas 24:15
 
 > o décimo sétimo foi dado a Hezir,  
-> o décimo oitavo foi dado a Hapizes,
+>  o décimo oitavo foi dado a Hapizes,
 
 ---
 
 ## 1 Crônicas 24:16
 
 > o décimo nono foi dado a Petaías,  
-> o vigésimo foi dado a Jehezequiel,
+>  o vigésimo foi dado a Jehezequiel,
 
 ---
 
 ## 1 Crônicas 24:17
 
 > o vigésimo primeiro foi dado a Jaquim,  
-> o vigésimo segundo foi dado a Gamul,
+>  o vigésimo segundo foi dado a Gamul,
 
 ---
 
 ## 1 Crônicas 24:18
 
 > o vigésimo terceiro foi dado a Delaías,  
-> o vigésimo quarto foi dado a Maazias.
+>  o vigésimo quarto foi dado a Maazias.
 
 ---
 
 ## 1 Crônicas 24:19
 
-Estes eram seus ofícios para seu ministério  
-quando entravam na casa do Senhor de acordo com a ordenança dada a eles por meio de Arão, seu pai,
+Estes eram seus ofícios para seu ministério quando entravam na casa do Senhor de acordo com a ordenança dada a eles por meio de Arão,  
+ seu pai,
 
-> assim como o Senhor Deus de Israel lhe havia ordenado.
+>  assim como o Senhor Deus de Israel lhe havia ordenado.
 
 ---
 
@@ -151,8 +150,8 @@ quando entravam na casa do Senhor de acordo com a ordenança dada a eles por mei
 
 Agora, dos outros filhos de Levi:
 
-> dos filhos de Anrão: Subael;  
-> dos filhos de Subael: Jedias.
+>  dos filhos de Anrão: Subael;  
+>  dos filhos de Subael: Jedias.
 
 ---
 
@@ -165,7 +164,7 @@ Agora, dos outros filhos de Levi:
 ## 1 Crônicas 24:22
 
 > Dos izaritas: Selomote;  
-> dos filhos de Selomote: Jaate.
+>  dos filhos de Selomote: Jaate.
 
 ---
 
@@ -178,21 +177,21 @@ Agora, dos outros filhos de Levi:
 ## 1 Crônicas 24:24
 
 > Dos filhos de Uziel: Mica;  
-> dos filhos de Mica: Samir.
+>  dos filhos de Mica: Samir.
 
 ---
 
 ## 1 Crônicas 24:25
 
 > O irmão de Mica: Issias;  
-> dos filhos de Issias: Zacarias.
+>  dos filhos de Issias: Zacarias.
 
 ---
 
 ## 1 Crônicas 24:26
 
 > Os descendentes de Merari incluíam Mali e Musi;  
-> os filhos de Jaazias: Beno.
+>  os filhos de Jaazias: Beno.
 
 ---
 
@@ -218,14 +217,14 @@ Agora, dos outros filhos de Levi:
 
 Os filhos de Musi foram:
 
-> Mali, Éder e Jerimote.  
-> Estes foram os filhos dos levitas segundo suas casas paternas.
+>  Mali, Éder e Jerimote.  
+>  Estes foram os filhos dos levitas segundo suas casas paternas.
 
 ---
 
 ## 1 Crônicas 24:31
 
-Estes também lançaram sortes assim como seus parentes, os filhos de Arão, fizeram  
-na presença de Davi, o rei, Zadoque, Aimeleque, e os chefes das casas paternas dos sacerdotes e dos levitas—
+Estes também lançaram sortes assim como seus parentes, os filhos de Arão,  
+ fizeram na presença de Davi, o rei, Zadoque, Aimeleque, e os chefes das casas paternas dos sacerdotes e dos levitas — o chefe das casas paternas,
 
-> o chefe das casas paternas, assim como os de seu irmão mais novo.
+>  assim como os de seu irmão mais novo.

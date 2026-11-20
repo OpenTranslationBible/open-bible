@@ -27,23 +27,23 @@ E se alguém perguntar, ‘Quais são essas feridas no seu corpo?’ ele respond
 ## Zacarias 13:7
 
 > “Desperta, ó espada, contra o meu pastor,
-> contra o homem que é meu companheiro!”
-> declara o Senhor dos Exércitos.
-> “Fere o pastor, e as ovelhas serão dispersas,
-> e voltarei minha mão contra os pequeninos.
+>  contra o homem que é meu companheiro!”
+>  declara o Senhor dos Exércitos.
+>  “Fere o pastor, e as ovelhas serão dispersas,
+>  e voltarei minha mão contra os pequeninos.
 
 ## Zacarias 13:8
 
 > E por toda a terra,”
-> declara o Senhor,
-> “dois terços serão cortados e perecerão,
-> mas um terço será deixado nela.
+>  declara o Senhor,
+>  “dois terços serão cortados e perecerão,
+>  mas um terço será deixado nela.
 
 ## Zacarias 13:9
 
 > Este terço eu trarei através do fogo;
-> Eu os refinarei como a prata é refinada
-> e os testarei como o ouro é testado.
-> Eles invocarão o meu nome, e eu os responderei;
-> Eu direi, ‘Eles são o meu povo,’
-> e eles dirão, ‘O Senhor é nosso Deus.’”
+>  Eu os refinarei como a prata é refinada e os testarei como o ouro é testado.
+>  Eles invocarão o meu nome,
+>  e eu os responderei;
+>  Eu direi, ‘Eles são o meu povo,’
+>  e eles dirão, ‘O Senhor é nosso Deus.’”

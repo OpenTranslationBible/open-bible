@@ -18,7 +18,7 @@ Pois, de fato, Ele foi crucificado em fraqueza, mas vive pelo poder de Deus. Nó
 
 ## 2 Coríntios 13:5
 
-Examinem-se para ver se vocês estão na fé; testem-se a si mesmos! Ou vocês não reconhecem isso sobre vocês mesmos, que Jesus Cristo está em vocês—a menos que, de fato, vocês não passem no teste?
+Examinem-se para ver se vocês estão na fé; testem-se a si mesmos! Ou vocês não reconhecem isso sobre vocês mesmos, que Jesus Cristo está em vocês — a menos que, de fato, vocês não passem no teste?
 
 ## 2 Coríntios 13:6
 

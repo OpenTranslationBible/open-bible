@@ -70,7 +70,7 @@ Em sua mão direita vem o sorteio para Jerusalém, para preparar aríetes, dar a
 Parecerá uma adivinhação falsa para aqueles que juraram lealdade a ele, mas ele os lembrará de sua culpa e os capturará.
 
 ## Ezequiel 21:24
-“Portanto, assim diz o Senhor Soberano: ‘Porque você trouxe à mente sua culpa por sua rebelião aberta, revelando seus pecados em tudo o que você faz—porque você veio à mente, você será capturado.
+“Portanto, assim diz o Senhor Soberano: ‘Porque você trouxe à mente sua culpa por sua rebelião aberta, revelando seus pecados em tudo o que você faz — porque você veio à mente, você será capturado.
 
 ## Ezequiel 21:25
 E você, príncipe profano e ímpio de Israel, cujo dia chegou, no tempo da punição final,
@@ -85,7 +85,7 @@ Uma ruína, uma ruína, uma ruína eu farei! Isso não será restaurado até que
 “E você, filho do homem, profetize e declare, ‘Assim diz o Senhor Soberano sobre os amonitas e seus insultos: Uma espada, uma espada, desembainhada para matança, polida para consumir e brilhar como relâmpago—
 
 ## Ezequiel 21:29
-enquanto eles veem falsas visões para você, enquanto adivinham mentiras para você—para colocá-lo sobre os pescoços dos ímpios que devem ser mortos, cujo dia chegou, no tempo da punição final.
+enquanto eles veem falsas visões para você, enquanto adivinham mentiras para você — para colocá-lo sobre os pescoços dos ímpios que devem ser mortos, cujo dia chegou, no tempo da punição final.
 
 ## Ezequiel 21:30
 Retorne a espada à sua bainha. No lugar onde você foi criado, na terra de sua origem, eu o julgarei.

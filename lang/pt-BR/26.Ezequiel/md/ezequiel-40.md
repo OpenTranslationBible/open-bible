@@ -61,7 +61,7 @@ Então ele mediu a distância da frente do portão inferior até a frente do ext
 Então ele mediu o comprimento e a largura do portão norte que levava ao pátio externo.
 
 ## Ezequiel 40:21
-Suas salas de guarda—três de cada lado—seus pilares laterais e seu pórtico tinham as mesmas medidas que os do primeiro portão. Tinha cinquenta côvados de comprimento e vinte e cinco côvados de largura.
+Suas salas de guarda — três de cada lado — seus pilares laterais e seu pórtico tinham as mesmas medidas que os do primeiro portão. Tinha cinquenta côvados de comprimento e vinte e cinco côvados de largura.
 
 ## Ezequiel 40:22
 Suas janelas, seu pórtico e suas decorações de palmeiras tinham as mesmas medidas que as do portão voltado para o leste. Sete degraus levavam até ele, com seu pórtico na frente deles.
@@ -121,7 +121,7 @@ No pórtico do portão havia duas mesas de cada lado, usadas para o abate de ofe
 No lado externo, ao subir para a entrada do portão norte, havia duas mesas, e do outro lado do pórtico do portão havia duas mesas.
 
 ## Ezequiel 40:41
-Assim, havia quatro mesas de um lado do portão e quatro do outro—oito mesas no total—nas quais os sacrifícios eram abatidos.
+Assim, havia quatro mesas de um lado do portão e quatro do outro — oito mesas no total — nas quais os sacrifícios eram abatidos.
 
 ## Ezequiel 40:42
 Havia também quatro mesas de pedra lavrada para as ofertas queimadas, cada uma com um côvado e meio de comprimento, um côvado e meio de largura, e um côvado de altura. Sobre elas eram colocados os utensílios para preparar as ofertas queimadas e os outros sacrifícios.

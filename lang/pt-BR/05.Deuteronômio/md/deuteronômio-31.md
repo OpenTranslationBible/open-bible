@@ -34,7 +34,7 @@ Então Moisés lhes ordenou: “Ao final de cada sete anos, no ano do cancelamen
 quando todo o Israel vier apresentar-se ao Senhor, o seu Deus, no local que Ele escolher, vocês lerão esta lei diante deles para que a ouçam.
 
 ## Deuteronômio 31:12
-Reúnam o povo—homens, mulheres, crianças e os estrangeiros que vivem em suas cidades—para que ouçam e aprendam a temer o Senhor, o seu Deus, e sigam cuidadosamente todas as palavras desta lei.
+Reúnam o povo — homens, mulheres, crianças e os estrangeiros que vivem em suas cidades — para que ouçam e aprendam a temer o Senhor, o seu Deus, e sigam cuidadosamente todas as palavras desta lei.
 
 ## Deuteronômio 31:13
 Seus filhos, que não conhecem esta lei, deverão ouvi-la e aprender a temer o Senhor, o seu Deus, enquanto viverem na terra que vocês estão atravessando o Jordão para possuir.

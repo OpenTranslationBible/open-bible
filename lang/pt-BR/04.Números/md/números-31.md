@@ -198,7 +198,7 @@ e disseram-lhe: “Seus servos contaram os soldados sob nosso comando, e nenhum 
 
 ## Números 31:50
 
-Por isso trouxemos como oferta ao Senhor o que cada homem encontrou, artigos de ouro—braceletes, pulseiras, anéis de sinete, brincos e colares—para fazer expiação por nós mesmos diante do Senhor.”
+Por isso trouxemos como oferta ao Senhor o que cada homem encontrou, artigos de ouro — braceletes, pulseiras, anéis de sinete, brincos e colares — para fazer expiação por nós mesmos diante do Senhor.”
 
 ## Números 31:51
 

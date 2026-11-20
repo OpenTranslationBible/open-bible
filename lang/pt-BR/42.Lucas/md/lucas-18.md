@@ -44,7 +44,7 @@ Ele também contou esta parábola a alguns que confiavam em sua própria justiç
 
 ## Lucas 18:11
 
-O fariseu ficou em pé e orou: ‘Deus, eu Te agradeço porque não sou como os outros homens—trapaceiros, malfeitores, adúlteros—ou mesmo como este cobrador de impostos.
+O fariseu ficou em pé e orou: ‘Deus, eu Te agradeço porque não sou como os outros homens — trapaceiros, malfeitores, adúlteros — ou mesmo como este cobrador de impostos.
 
 ## Lucas 18:12
 

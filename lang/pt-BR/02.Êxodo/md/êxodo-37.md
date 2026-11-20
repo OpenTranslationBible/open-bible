@@ -46,13 +46,13 @@ As argolas foram posicionadas próximas à borda para segurar as varas para carr
 Ele fez as varas de madeira de acácia, revestindo-as de ouro, para o propósito de carregar a mesa.
 
 ## Êxodo 37:16
-Ele fez de ouro puro os utensílios para a mesa—seus pratos, travessas, tigelas e jarros para derramar ofertas de bebida.
+Ele fez de ouro puro os utensílios para a mesa — seus pratos, travessas, tigelas e jarros para derramar ofertas de bebida.
 
 ## Êxodo 37:17
 Ele fez o candelabro de ouro puro, martelando sua base e haste, com suas taças em forma de flores, botões e flores de uma só peça com ele.
 
 ## Êxodo 37:18
-Seis braços se estendiam dos seus lados—três braços de um lado e três do outro.
+Seis braços se estendiam dos seus lados — três braços de um lado e três do outro.
 
 ## Êxodo 37:19
 Cada braço tinha três taças em forma de flores de amêndoa com botões e flores, e esse padrão era consistente para todos os seis braços que se estendiam do candelabro.
@@ -61,7 +61,7 @@ Cada braço tinha três taças em forma de flores de amêndoa com botões e flor
 O próprio candelabro apresentava quatro taças em forma de flores de amêndoa com botões e flores.
 
 ## Êxodo 37:21
-Um botão estava sob o primeiro par de braços que se estendiam do candelabro, um segundo botão sob o segundo par, e um terceiro botão sob o terceiro par—seis braços no total.
+Um botão estava sob o primeiro par de braços que se estendiam do candelabro, um segundo botão sob o segundo par, e um terceiro botão sob o terceiro par — seis braços no total.
 
 ## Êxodo 37:22
 Os botões e braços eram todos de uma só peça com o candelabro, uma única obra martelada de ouro puro.

@@ -13,7 +13,7 @@ e diga: ‘Ouçam a palavra do Senhor, ó reis de Judá e habitantes de Jerusal�
 Pois eles me abandonaram e tornaram este lugar estranho, queimando incenso nele a deuses que nem eles, nem seus antepassados, nem os reis de Judá conheceram, e encheram este lugar com o sangue dos inocentes.
 
 ## Jeremias 19:5
-Construíram os altos de Baal para queimar seus filhos no fogo como ofertas a Baal—algo que não ordenei, nem falei, nem me passou pela mente.
+Construíram os altos de Baal para queimar seus filhos no fogo como ofertas a Baal — algo que não ordenei, nem falei, nem me passou pela mente.
 
 ## Jeremias 19:6
 Portanto, eis que vêm os dias, declara o Senhor, em que este lugar não será mais chamado Tofete ou Vale de Ben-Hinom, mas Vale da Matança.
@@ -37,7 +37,7 @@ e diga-lhes: ‘Assim diz o Senhor dos Exércitos: Quebrarei este povo e esta ci
 É isso que farei a este lugar e aos seus habitantes, declara o Senhor, tornando esta cidade como Tofete.
 
 ## Jeremias 19:13
-As casas em Jerusalém e as casas dos reis de Judá serão profanadas como este lugar, Tofete—todas as casas cujos telhados queimaram incenso a todos os exércitos celestiais e derramaram libações a outros deuses.’”
+As casas em Jerusalém e as casas dos reis de Judá serão profanadas como este lugar, Tofete — todas as casas cujos telhados queimaram incenso a todos os exércitos celestiais e derramaram libações a outros deuses.’”
 
 ## Jeremias 19:14
 Então Jeremias voltou de Tofete, onde o Senhor o havia enviado para profetizar, e ficou no pátio da casa do Senhor e falou a todo o povo,

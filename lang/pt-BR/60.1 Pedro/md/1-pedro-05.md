@@ -18,10 +18,10 @@ E, quando o Supremo Pastor se manifestar, vocês receberão a coroa da glória q
 
 ## 1 Pedro 5:5
 
-Vocês, jovens, da mesma forma, sujeitem-se aos presbíteros; e todos vocês, vistam-se de humildade no trato uns com os outros, porque
+Vocês, jovens, da mesma forma, sujeitem-se aos presbíteros; e todos vocês, vistam-se de humildade no trato uns com os outros,
 
-> “Deus se opõe aos orgulhosos,  
-> Mas concede graça aos humildes.”
+>  porque “Deus se opõe aos orgulhosos,  
+>  Mas concede graça aos humildes.”
 
 ## 1 Pedro 5:6
 
@@ -57,5 +57,5 @@ A igreja em Babilônia, eleita juntamente com vocês, envia saudações, e tamb�
 
 ## 1 Pedro 5:14
 
-Cumprimentem-se uns aos outros com um gesto de amor.  
-Que a paz esteja com todos vocês que estão em Cristo.
+Cumprimentem-se uns aos outros com um beijo de amor.  
+ Que a paz esteja com todos vocês que estão em Cristo.

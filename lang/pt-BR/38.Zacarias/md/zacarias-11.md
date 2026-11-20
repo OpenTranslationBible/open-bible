@@ -3,21 +3,21 @@
 ## Zacarias 11:1
 
 > Abra suas portas, ó Líbano,
-> para que o fogo consuma os seus cedros.
+>  para que o fogo consuma os seus cedros.
 
 ## Zacarias 11:2
 
 > Lamente, ó junípero, pois o cedro caiu;
-> as árvores majestosas foram destruídas!
-> Lamentem, carvalhos de Basã,
-> pois a floresta densa foi derrubada!
+>  as árvores majestosas foram destruídas!
+>  Lamentem, carvalhos de Basã,
+>  pois a floresta densa foi derrubada!
 
 ## Zacarias 11:3
 
 > Ouçam o lamento dos pastores,
-> pois suas gloriosas pastagens estão arruinadas!
-> Ouçam o rugido dos leões jovens,
-> pois o orgulho do Jordão está devastado!
+>  pois suas gloriosas pastagens estão arruinadas!
+>  Ouçam o rugido dos leões jovens,
+>  pois o orgulho do Jordão está devastado!
 
 ## Zacarias 11:4
 
@@ -57,7 +57,7 @@ Eu lhes disse: “Se acharem conveniente, deem-me meu salário; se não, guardem
 
 ## Zacarias 11:13
 
-E o Senhor me disse: “Lance-o ao oleiro—o esplêndido preço pelo qual me avaliaram!” Então tomei as trinta peças de prata e as lancei ao oleiro na casa do Senhor.
+E o Senhor me disse: “Lance-o ao oleiro — o esplêndido preço pelo qual me avaliaram!” Então tomei as trinta peças de prata e as lancei ao oleiro na casa do Senhor.
 
 ## Zacarias 11:14
 
@@ -73,8 +73,8 @@ Pois estou prestes a levantar um pastor na terra que não se importará com os q
 
 ## Zacarias 11:17
 
-> Ai do pastor inútil
-> que abandona o rebanho!
-> Que a espada fira seu braço e seu olho direito!
-> Que seu braço fique completamente mirrado,
-> e seu olho direito totalmente cego!”
+> Ai do pastor inútil que abandona o rebanho!
+>  Que a espada fira seu braço e seu olho direito!
+>  Que seu braço fique completamente mirrado,
+>  e seu olho direito totalmente cego!
+> ”

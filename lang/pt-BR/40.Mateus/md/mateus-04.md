@@ -14,7 +14,7 @@ O tentador aproximou-se dele e disse: “Se você é o Filho de Deus, ordene que
 
 ## Mateus 4:4
 
-Mas Jesus respondeu: “Está escrito: ‘O homem não vive só de pão, mas de toda palavra que procede da boca do Senhor.’”
+Mas Jesus respondeu: “Está escrito: ‘O homem não vive só de pão, mas de toda palavra que procede da boca de Deus.’”
 
 ## Mateus 4:5
 

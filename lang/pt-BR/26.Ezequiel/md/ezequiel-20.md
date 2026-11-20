@@ -37,13 +37,13 @@ Dei-lhes meus estatutos e lhes fiz conhecer minhas ordenanças, pelas quais a pe
 Também lhes dei meus sábados como um sinal entre nós, para que soubessem que eu, o Senhor, os santifico.
 
 ## Ezequiel 20:13
-No entanto, a casa de Israel se rebelou contra mim no deserto. Eles não seguiram meus estatutos e rejeitaram minhas ordenanças—pelas quais a pessoa viverá se as obedecer—e profanaram grandemente meus sábados. Então resolvi derramar minha ira sobre eles no deserto, para destruí-los.
+No entanto, a casa de Israel se rebelou contra mim no deserto. Eles não seguiram meus estatutos e rejeitaram minhas ordenanças — pelas quais a pessoa viverá se as obedecer — e profanaram grandemente meus sábados. Então resolvi derramar minha ira sobre eles no deserto, para destruí-los.
 
 ## Ezequiel 20:14
 Mas agi por causa do meu nome, para impedir que ele fosse profanado à vista das nações à vista de quem eu os tirei.
 
 ## Ezequiel 20:15
-Também lhes jurei no deserto que não os levaria à terra que lhes havia dado—uma terra que mana leite e mel, a mais gloriosa de todas as terras—
+Também lhes jurei no deserto que não os levaria à terra que lhes havia dado — uma terra que mana leite e mel, a mais gloriosa de todas as terras—
 
 ## Ezequiel 20:16
 porque rejeitaram minhas ordenanças, não seguiram meus estatutos e profanaram meus sábados, pois seus corações estavam devotados aos seus ídolos.
@@ -76,7 +76,7 @@ porque não obedeceram minhas ordenanças, mas rejeitaram meus estatutos e profa
 Então permiti que seguissem estatutos que não eram benéficos e ordenanças pelas quais não poderiam prosperar;
 
 ## Ezequiel 20:26
-Deixei que se contaminassem por meio de seus presentes—o sacrifício de todo primogênito—para que ficassem cheios de horror e soubessem que eu sou o Senhor.’
+Deixei que se contaminassem por meio de seus presentes — o sacrifício de todo primogênito — para que ficassem cheios de horror e soubessem que eu sou o Senhor.’
 
 ## Ezequiel 20:27
 “Portanto, filho do homem, fale à casa de Israel e diga-lhes: ‘Assim diz o Senhor Deus: Nisso também seus antepassados me blasfemaram, sendo infiéis a mim:

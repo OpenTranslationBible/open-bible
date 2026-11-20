@@ -26,7 +26,7 @@ Eles levaram seus rebanhos e seus bens, que haviam adquirido em Canaã, e foram 
 
 ## Gênesis 46:7
 
-Seus filhos e netos, suas filhas e netas—todos os seus descendentes ele levou com ele para o Egito.
+Seus filhos e netos, suas filhas e netas — todos os seus descendentes ele levou com ele para o Egito.
 
 ## Gênesis 46:8
 
@@ -70,7 +70,7 @@ Os filhos de Aser: Imna, Isvá, Isvi e Berias, com sua irmã Sera. Os filhos de 
 
 ## Gênesis 46:18
 
-Estes foram os filhos nascidos a Jacó por Zilpa, que Labão deu à sua filha Lia—dezesseis ao todo.
+Estes foram os filhos nascidos a Jacó por Zilpa, que Labão deu à sua filha Lia — dezesseis ao todo.
 
 ## Gênesis 46:19
 
@@ -86,7 +86,7 @@ Os filhos de Benjamim: Belá, Bequer, Asbel, Gera, Naamã, Eí, Rôs, Mupim, Hup
 
 ## Gênesis 46:22
 
-Estes foram os filhos de Raquel que nasceram a Jacó—catorze ao todo.
+Estes foram os filhos de Raquel que nasceram a Jacó — catorze ao todo.
 
 ## Gênesis 46:23
 
@@ -98,7 +98,7 @@ Os filhos de Naftali eram Jazeel, Guni, Jezer e Silém.
 
 ## Gênesis 46:25
 
-Estes foram os filhos nascidos a Jacó por Bila, que Labão deu à sua filha Raquel—sete ao todo.
+Estes foram os filhos nascidos a Jacó por Bila, que Labão deu à sua filha Raquel — sete ao todo.
 
 ## Gênesis 46:26
 

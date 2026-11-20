@@ -10,7 +10,7 @@ e proclamando: “Arrependei-vos, porque o reino dos céus está próximo.”
 
 ## Mateus 3:3
 
-Este é aquele mencionado pelo profeta Isaías: “Voz do que clama no deserto: ‘Preparai o caminho do Senhor, endireitai no deserto uma estrada para o nosso Deus.’”
+Este é aquele mencionado pelo profeta Isaías: “Voz do que clama no deserto: ‘Preparai o caminho do Senhor, endireitai as suas veredas.’”
 
 ## Mateus 3:4
 

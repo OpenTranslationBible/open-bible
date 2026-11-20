@@ -12,60 +12,56 @@ Uma mensagem do Senhor veio a mim:
 
 Dize a Tiro, que se assenta à entrada do mar, mercador dos povos para muitas costas, ‘Assim diz o Soberano Senhor:
 
-> “‘Você declarou, Tiro,
-> “Eu sou perfeita em beleza.”
+>  “‘Você declarou, Tiro,
+>  “Eu sou perfeita em beleza.”
 
 ## Ezequiel 27:4
 
 > Seu domínio está no coração dos mares;
-> seus construtores aperfeiçoaram sua beleza.
+>  seus construtores aperfeiçoaram sua beleza.
 
 ## Ezequiel 27:5
 
 > Fizeram toda a sua madeira de junípero de Senir;
-> um cedro do Líbano foi tomado
-> para fazer um mastro para você.
+>  um cedro do Líbano foi tomado para fazer um mastro para você.
 
 ## Ezequiel 27:6
 
-> De carvalhos de Basã
-> fizeram seus remos;
-> seu convés foi incrustado com marfim de buxo
-> das costas de Chipre.
+> De carvalhos de Basã fizeram seus remos;
+>  seu convés,
+>  de buxo das costas de Chipre,
+>  foi incrustado com marfim.
 
 ## Ezequiel 27:7
 
 > Sua vela era de linho finamente bordado do Egito,
-> servindo como sua bandeira;
-> suas coberturas eram de azul e púrpura
-> das costas de Elisá.
+>  servindo como sua bandeira;
+>  suas coberturas eram de azul e púrpura das costas de Elisá.
 
 ## Ezequiel 27:8
 
 > Os habitantes de Sidom e Arvade eram seus remadores;
-> seus sábios, Tiro, estavam a bordo como seus marinheiros.
+>  seus sábios, Tiro, estavam a bordo como seus marinheiros.
 
 ## Ezequiel 27:9
 
 > Os anciãos de Gebal e seus homens habilidosos estavam com você,
-> calafetando suas juntas.
-> Todos os navios do mar e seus marinheiros
-> estavam com você para negociar suas mercadorias.
+>  calafetando suas juntas.
+>  Todos os navios do mar e seus marinheiros estavam com você para negociar suas mercadorias.
 
 ## Ezequiel 27:10
 
-> “‘Homens da Pérsia, Lude e Pute
-> estavam em seu exército, seus guerreiros.
-> Eles penduraram seus escudos e capacetes em suas paredes,
-> trazendo-lhe esplendor.
+> “‘Homens da Pérsia,
+>  Lude e Pute estavam em seu exército, seus guerreiros.
+>  Eles penduraram seus escudos e capacetes em suas paredes,
+>  trazendo-lhe esplendor.
 
 ## Ezequiel 27:11
 
-> Os homens de Arvade e
-> seu exército estavam sobre suas muralhas ao redor,
-> e os Gamaditas estavam em suas torres.
-> Eles penduraram seus escudos em suas paredes ao redor;
-> eles aperfeiçoaram sua beleza.
+> Os homens de Arvade e seu exército estavam sobre suas muralhas ao redor,
+>  e os Gamaditas estavam em suas torres.
+>  Eles penduraram seus escudos em suas paredes ao redor;
+>  eles aperfeiçoaram sua beleza.
 
 ## Ezequiel 27:12
 
@@ -121,82 +117,68 @@ Em seu mercado, eles negociavam com você em vestes escolhidas, tecido azul, bor
 
 ## Ezequiel 27:25
 
-> “‘Os navios de Társis eram
-> seus transportadores para suas mercadorias.
-> Você estava cheia de carga pesada e era gloriosa
-> no coração dos mares.
+> “‘Os navios de Társis eram seus transportadores para suas mercadorias.
+>  Você estava cheia de carga pesada e era gloriosa no coração dos mares.
 
 ## Ezequiel 27:26
 
 > Seus remadores a trouxeram para as grandes águas;
-> o vento leste a quebrou
-> em pedaços no coração dos mares.
+>  o vento leste a quebrou em pedaços no coração dos mares.
 
 ## Ezequiel 27:27
 
 > Sua riqueza, mercadorias e bens,
-> seus marinheiros, navegadores e construtores de navios,
-> seus mercadores e todos os seus guerreiros,
-> e todos os que estão em você,
-> cairão no coração dos mares
-> no dia do seu naufrágio.
+>  seus marinheiros, navegadores e construtores de navios,
+>  seus mercadores e todos os seus guerreiros,
+>  e todos os que estão em você,
+>  cairão no coração dos mares no dia do seu naufrágio.
 
 ## Ezequiel 27:28
 
 > Ao som do clamor de seus marinheiros,
-> as terras costeiras tremerão.
+>  as terras costeiras tremerão.
 
 ## Ezequiel 27:29
 
-> Todos os que manejam os remos
-> abandonarão seus navios;
-> os marinheiros e todos os navegadores
-> ficarão em terra.
+> Todos os que manejam os remos abandonarão seus navios;
+>  os marinheiros e todos os navegadores ficarão em terra.
 
 ## Ezequiel 27:30
 
-> Eles levantarão suas vozes
-> e clamarão amargamente por você;
-> jogarão pó sobre suas cabeças
-> e rolarão em cinzas.
+> Eles levantarão suas vozes e clamarão amargamente por você;
+>  jogarão pó sobre suas cabeças e rolarão em cinzas.
 
 ## Ezequiel 27:31
 
-> Eles rasparão suas cabeças por sua causa
-> e vestirão pano de saco.
-> Chorarão por você com amargura de alma
-> com pranto amargo.
+> Eles rasparão suas cabeças por sua causa e vestirão pano de saco.
+>  Chorarão por você com amargura de alma com pranto amargo.
 
 ## Ezequiel 27:32
 
 > Enquanto lamentam e choram por você,
-> levantarão uma lamentação por você e cantarão:
-> “Quem é como Tiro,
-> agora silenciosa no meio do mar?”
+>  levantarão uma lamentação por você e cantarão:
+>  “Quem é como Tiro,
+>  agora silenciosa no meio do mar?”
 
 ## Ezequiel 27:33
 
 > Quando suas mercadorias navegavam pelos mares,
-> você trouxe grande comércio para muitas nações;
-> com sua grande riqueza e seus bens
-> você trouxe prosperidade aos reis da terra.
+>  você trouxe grande comércio para muitas nações;
+>  com sua grande riqueza e seus bens você trouxe prosperidade aos reis da terra.
 
 ## Ezequiel 27:34
 
-> Agora você está despedaçada pelos mares
-> nas profundezas das águas;
-> suas mercadorias e toda a sua companhia
-> desceram com você.
+> Agora você está despedaçada pelos mares nas profundezas das águas;
+>  suas mercadorias e toda a sua companhia desceram com você.
 
 ## Ezequiel 27:35
 
-> Todos os que vivem nas terras costeiras
-> estão espantados com você;
-> seus reis tremem de horror,
-> seus rostos distorcidos de medo.
+> Todos os que vivem nas terras costeiras estão espantados com você;
+>  seus reis tremem de horror,
+>  seus rostos distorcidos de medo.
 
 ## Ezequiel 27:36
 
 > Os mercadores entre os povos assobiam para você;
-> você chegou a um fim terrível
-> e não será mais.’”
+>  você chegou a um fim terrível e não será mais.
+> ’”

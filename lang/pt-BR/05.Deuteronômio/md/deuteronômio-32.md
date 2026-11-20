@@ -10,7 +10,7 @@ Que meu ensino caia como a chuva, minhas palavras destilem como o orvalho, como 
 
 ## Deuteronômio 32:3
 
-Pois proclamarei o nome do Senhor; atribuindo grandeza ao nosso Deus!
+Pois proclamarei o nome do Senhor; atribuam grandeza ao nosso Deus!
 
 ## Deuteronômio 32:4
 
@@ -66,7 +66,7 @@ Provocaram-no ao ciúme com deuses estrangeiros; com atos detestáveis o irritar
 
 ## Deuteronômio 32:17
 
-Ofereceram sacrifícios a espíritos que não eram deuses, a deuses que não conheceram, a novos deuses que recentemente apareceram, que seus antepassados não temeram.
+Ofereceram sacrifícios a demônios que não eram deuses, a deuses que não conheceram, a novos deuses que recentemente apareceram, que seus antepassados não temeram.
 
 ## Deuteronômio 32:18
 
@@ -78,7 +78,7 @@ O Senhor viu isso e os rejeitou, por causa da provocação de seus filhos e filh
 
 ## Deuteronômio 32:20
 
-E ele disse: ‘e assim esconderei meu rosto deles, verei qual será o seu fim; pois são uma geração perversa, filhos em quem não há fidelidade.
+E ele disse: ‘Esconderei meu rosto deles, verei qual será o seu fim; pois são uma geração perversa, filhos em quem não há fidelidade.
 
 ## Deuteronômio 32:21
 
@@ -150,7 +150,7 @@ Então ele dirá deles: ‘Onde estão seus deuses, sua rocha em que buscaram re
 
 ## Deuteronômio 32:38
 
-que então, consumiram a gordura dos sacrifícios e beberam o vinho da oferta de bebida? Que eles se levantem e ajudem vocês, que sejam sua proteção!
+que consumiram a gordura dos sacrifícios e beberam o vinho da oferta de bebida? Que eles se levantem e ajudem vocês, que sejam sua proteção!
 
 ## Deuteronômio 32:39
 
@@ -166,7 +166,7 @@ se eu afiar minha espada reluzente e minha mão tomar o julgamento, vingarei-me 
 
 ## Deuteronômio 32:42
 
-Farei minhas flechas embebidas em sangue, e minha espada consumirá carne— com o sangue dos mortos e dos cativos, das cabeças cabeludas do inimigo.’
+Farei minhas flechas embebidas em sangue, e minha espada consumirá carne — com o sangue dos mortos e dos cativos, das cabeças cabeludas do inimigo.’
 
 ## Deuteronômio 32:43
 

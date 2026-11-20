@@ -2,7 +2,7 @@
 
 ## Josué 9:1
 
-Quando todos os reis além do Jordão ouviram falar desses eventos—nas montanhas, na planície e ao longo de toda a costa do Grande Mar em direção ao Líbano, incluindo os reis dos hititas, amorreus, cananeus, perizeus, heveus e jebuseus—
+Quando todos os reis além do Jordão ouviram falar desses eventos — nas montanhas, na planície e ao longo de toda a costa do Grande Mar em direção ao Líbano, incluindo os reis dos hititas, amorreus, cananeus, perizeus, heveus e jebuseus—
 
 ## Josué 9:2
 
@@ -40,7 +40,7 @@ Eles responderam: “Seus servos vieram de um país muito distante por causa da 
 
 ## Josué 9:10
 
-e de tudo o que Ele fez aos dois reis dos amorreus além do Jordão—Seom, rei de Hesbom, e Ogue, rei de Basã, que reinava em Astarote.
+e de tudo o que Ele fez aos dois reis dos amorreus além do Jordão — Seom, rei de Hesbom, e Ogue, rei de Basã, que reinava em Astarote.
 
 ## Josué 9:11
 

@@ -61,4 +61,4 @@ Eu os recompensarei em dobro por sua iniquidade e seu pecado, porque contaminara
 Pode uma pessoa fazer deuses para si mesma? Mas eles não são deuses!
 
 ## Jeremias 16:21
-“Portanto, eis que os farei saber—desta vez os farei conhecer meu poder e minha força; e saberão que meu nome é o Senhor.”
+“Portanto, eis que os farei saber — desta vez os farei conhecer meu poder e minha força; e saberão que meu nome é o Senhor.”

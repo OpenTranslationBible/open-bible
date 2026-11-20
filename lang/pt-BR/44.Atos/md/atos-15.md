@@ -66,15 +66,15 @@ A mensagem dos profetas está alinhada com isso, como está escrito:
 
 ## Atos 15:16
 
-> ‘Depois disso, voltarei
-> e restaurarei a casa caída de Davi.
-> Reconstruirei suas ruínas,
-> e a levantarei novamente,
+> ‘Depois disso,
+>  voltarei e restaurarei a tenda caída de Davi.
+>  Reconstruirei suas ruínas,
+>  e a levantarei novamente,
 
 ## Atos 15:17
 
 > para que o restante da humanidade busque o Senhor,
-> incluindo todos os gentios que levam o meu nome,’
+>  incluindo todos os gentios que levam o meu nome,’
 
 ## Atos 15:18
 

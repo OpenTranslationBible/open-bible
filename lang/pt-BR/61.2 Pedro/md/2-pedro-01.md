@@ -3,7 +3,7 @@
 ## 2 Pedro 1:1
 
 Simão Pedro, servo e apóstolo de Jesus Cristo,  
-Aos que receberam uma fé do mesmo tipo que a nossa, pela justiça do nosso Deus e Salvador, Jesus Cristo:
+ Aos que receberam uma fé do mesmo tipo que a nossa, pela justiça do nosso Deus e Salvador, Jesus Cristo:
 
 ## 2 Pedro 1:2
 

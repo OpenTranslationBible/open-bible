@@ -13,7 +13,7 @@ Eu comandei aqueles que separei para a batalha; convoquei meus guerreiros, que s
 Ouçam, um rugido nas montanhas, como o de uma vasta multidão! Ouçam o tumulto de reinos, nações se reunindo! O Senhor dos Exércitos está reunindo um exército para a batalha.
 
 ## Isaías 13:5
-Eles vêm de terras distantes, dos horizontes mais remotos— o Senhor e as armas de sua indignação— para devastar toda a terra.
+Eles vêm de terras distantes, dos horizontes mais remotos — o Senhor e as armas de sua indignação — para devastar toda a terra.
 
 ## Isaías 13:6
 Gritem, pois o dia do Senhor está próximo; ele chegará como devastação do Todo-Poderoso.
@@ -25,7 +25,7 @@ Portanto, todas as mãos ficarão frouxas, todo coração se derreterá.
 Eles serão tomados de terror, dor e angústia os agarrarão; eles se contorcerão como uma mulher em trabalho de parto. Olharão uns para os outros em espanto, seus rostos em chamas.
 
 ## Isaías 13:9
-Eis que o dia do Senhor está vindo— um dia de crueldade, com fúria e ira feroz— para tornar a terra desolada e aniquilar os pecadores dentro dela.
+Eis que o dia do Senhor está vindo — um dia de crueldade, com fúria e ira feroz — para tornar a terra desolada e aniquilar os pecadores dentro dela.
 
 ## Isaías 13:10
 Pois as estrelas do céu e suas constelações não brilharão; o sol nascente será escurecido, e a lua não dará sua luz.

@@ -106,7 +106,7 @@ Foram este Arão e Moisés que o Senhor instruiu a tirar os israelitas do Egito 
 
 ## Êxodo 6:27
 
-Estes foram os que falaram ao faraó, rei do Egito, sobre tirar os israelitas do Egito—este mesmo Moisés e Arão.
+Estes foram os que falaram ao faraó, rei do Egito, sobre tirar os israelitas do Egito — este mesmo Moisés e Arão.
 
 ## Êxodo 6:28
 

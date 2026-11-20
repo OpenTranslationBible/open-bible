@@ -172,8 +172,8 @@ Eles vieram com Zorobabel, Jesua, Neemias, Seraías, Reelaías, Mordecai, Bilsha
 
 Os porteiros do templo:
 
-> os descendentes de Salum, Ater, Talmom,
-> Acube, Hatita e Sobai, 139.
+>  os descendentes de Salum, Ater, Talmom,
+>  Acube, Hatita e Sobai, 139.
 
 ---
 
@@ -181,7 +181,7 @@ Os porteiros do templo:
 
 Os servos do templo:
 
-> os descendentes de Zia, Hasufa, Tabaote,
+>  os descendentes de Zia, Hasufa, Tabaote,
 
 ## Esdras 2:44
 
@@ -233,7 +233,7 @@ Os servos do templo:
 
 Os descendentes dos servos de Salomão:
 
-os descendentes de Sotai, Hassofere e Peruda,
+ os descendentes de Sotai, Hassofere e Peruda,
 
 ## Esdras 2:56
 
@@ -259,9 +259,9 @@ As famílias de Delaías, Tobias e Necoda, 652.
 
 E entre os sacerdotes:
 
-> os descendentes de Hobaías, Hacoz e Barzilai,
-> que havia se casado com uma filha de Barzilai, o gileadita,
-> e foi chamado por seu nome.
+>  os descendentes de Hobaías, Hacoz e Barzilai,
+>  que havia se casado com uma filha de Barzilai, o gileadita,
+>  e foi chamado por seu nome.
 
 ## Esdras 2:62
 

@@ -1,7 +1,7 @@
 # Deuteronômio Capítulo 7
 
 ## Deuteronômio 7:1
-Quando o Senhor, o seu Deus, os tiver introduzido na terra que vocês vão possuir, e tiver expulsado de diante de vocês muitas nações—os hititas, girgaseus, amorreus, cananeus, ferezeus, heveus e jebuseus, sete nações maiores e mais poderosas do que vocês—
+Quando o Senhor, o seu Deus, os tiver introduzido na terra que vocês vão possuir, e tiver expulsado de diante de vocês muitas nações — os hititas, girgaseus, amorreus, cananeus, ferezeus, heveus e jebuseus, sete nações maiores e mais poderosas do que vocês—
 
 ## Deuteronômio 7:2
 e quando o Senhor, o seu Deus, as tiver entregado a vocês e vocês as tiverem derrotado, então vocês as destruirão totalmente. Não façam com elas nenhum tratado, nem tenham piedade delas.
@@ -37,7 +37,7 @@ Portanto, sejam diligentes em seguir os mandamentos, decretos e leis que hoje lh
 Se vocês obedecerem a essas leis e forem cuidadosos em segui-las, então o Senhor, o seu Deus, manterá a sua aliança de amor com vocês, como jurou a seus antepassados.
 
 ## Deuteronômio 7:13
-Ele os amará, abençoará e aumentará o número de vocês. Ele abençoará o fruto do seu ventre, as colheitas da sua terra—o seu cereal, o vinho novo e o azeite—os bezerros dos seus rebanhos e os cordeiros dos seus rebanhos na terra que ele jurou a seus antepassados dar a vocês.
+Ele os amará, abençoará e aumentará o número de vocês. Ele abençoará o fruto do seu ventre, as colheitas da sua terra — o seu cereal, o vinho novo e o azeite — os bezerros dos seus rebanhos e os cordeiros dos seus rebanhos na terra que ele jurou a seus antepassados dar a vocês.
 
 ## Deuteronômio 7:14
 Vocês serão abençoados mais do que todos os povos; nenhum dos seus homens ou mulheres será estéril, nem qualquer dos seus rebanhos ficará sem crias.

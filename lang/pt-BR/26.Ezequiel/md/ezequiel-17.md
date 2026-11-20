@@ -28,7 +28,7 @@ Ela havia sido plantada em bom solo junto a águas abundantes, para que pudesse 
 Diga-lhes: ‘Assim diz o Soberano Senhor: Ela prosperará? Não será arrancada e despojada de seu fruto para que murche? Todo o seu novo crescimento murchará. Não será necessário um braço forte ou muitas pessoas para arrancá-la pelas raízes.
 
 ## Ezequiel 17:10
-Embora esteja plantada, prosperará? Não murchará completamente quando o vento leste a atingir—murchará no leito onde cresceu?’”
+Embora esteja plantada, prosperará? Não murchará completamente quando o vento leste a atingir — murchará no leito onde cresceu?’”
 
 ## Ezequiel 17:11
 Mais tarde, uma mensagem do Senhor veio a mim:
@@ -43,7 +43,7 @@ Ele tomou um membro da família real e fez um pacto com ele, colocando-o sob jur
 para que o reino fosse humilhado, não se exaltando, mas mantendo o pacto para sobreviver.
 
 ## Ezequiel 17:15
-Mas ele se rebelou contra ele enviando seus emissários ao Egito em busca de cavalos e um grande exército. Ele terá sucesso? Pode ele quebrar o pacto e escapar?
+Mas ele se rebelou contra ele enviando seus emissários ao Egito em busca de cavalos e um grande exército. Ele terá sucesso? Escapará quem faz tais coisas? Pode ele quebrar o pacto e escapar?
 
 ## Ezequiel 17:16
 Tão certo como eu vivo, declara o Soberano Senhor, ele morrerá na Babilônia, na terra do rei que o colocou no trono, cujo juramento ele desprezou e cujo pacto ele quebrou.

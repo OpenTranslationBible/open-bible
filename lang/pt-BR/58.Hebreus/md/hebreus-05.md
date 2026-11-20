@@ -20,15 +20,15 @@ E ninguém assume essa honra por si mesmo, mas a recebe quando chamado por Deus,
 
 Da mesma forma, Cristo não se glorificou ao se tornar sumo sacerdote, mas foi Deus quem lhe disse:
 
-> “Tu és meu Filho;
-> hoje te gerei.”
+>  “Tu és meu Filho;
+>  hoje te gerei.”
 
 ## Hebreus 5:6
 
 Ele também declara em outro lugar:
 
-> “Tu és sacerdote para sempre,
-> segundo a ordem de Melquisedeque.”
+>  “Tu és sacerdote para sempre,
+>  segundo a ordem de Melquisedeque.”
 
 ## Hebreus 5:7
 

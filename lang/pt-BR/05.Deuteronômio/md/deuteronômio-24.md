@@ -25,7 +25,7 @@ Se alguém for encontrado sequestrando um israelita e tratando-o como mercadoria
 Tenha muito cuidado nos casos de doenças de pele contaminantes para fazer exatamente como os sacerdotes levitas instruírem você. Siga cuidadosamente o que eu lhes ordenei.
 
 ## Deuteronômio 24:9
-Lembre-se do que aconteceu a Miriã pelo Senhor seu Deus durante sua jornada para fora do Egito.
+Lembre-se do que o Senhor seu Deus fez a Miriã durante sua jornada para fora do Egito.
 
 ## Deuteronômio 24:10
 Quando você fizer um empréstimo de qualquer tipo ao seu vizinho, não entre na casa dele para pegar o penhor.

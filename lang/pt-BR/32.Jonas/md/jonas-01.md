@@ -7,7 +7,7 @@ A palavra do Senhor veio a Jonas, filho de Amitai, dizendo,
 ## Jonas 1:2
 
 > “Levanta-te, vai à grande cidade de Nínive e clama contra ela,
-> porque a sua maldade subiu até mim.”
+>  porque a sua maldade subiu até mim.”
 
 ## Jonas 1:3
 
@@ -24,7 +24,7 @@ Os marinheiros ficaram com medo e cada um clamava ao seu próprio deus. Eles lan
 ## Jonas 1:6
 
 O capitão foi até ele e disse,
-“Como você pode dormir? Levante-se, clame ao seu deus! Talvez o seu deus se lembre de nós para que não pereçamos.”
+ “Como você pode dormir? Levante-se, clame ao seu deus! Talvez o seu deus se lembre de nós para que não pereçamos.”
 
 ## Jonas 1:7
 

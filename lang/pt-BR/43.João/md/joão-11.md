@@ -108,7 +108,7 @@ Jesus disse a ela: “Eu sou a ressurreição e a vida. Quem crê em Mim viverá
 
 ## João 11:26
 
-e quem vive crendo em Mim nunca morrerá verdadeiramente. Você crê nisso?”
+e quem vive e crê em Mim nunca morrerá. Você crê nisso?”
 
 ## João 11:27
 
@@ -218,7 +218,7 @@ Vocês não entendem que é melhor para vocês que um homem morra pelo povo do q
 
 ## João 11:51
 
-Ele não disse isso por conta própria, de fato, como sumo sacerdote, ele já havia profetizado naquele ano que Jesus morreria pela nação judaica,
+Ele não disse isso por conta própria; de fato, como sumo sacerdote naquele ano, ele profetizou que Jesus morreria pela nação judaica,
 
 ## João 11:52
 

@@ -36,7 +36,7 @@ Reum, o comandante, e Sinsai, o escriba, compuseram uma carta sobre Jerusalém a
 
 ## Esdras 4:9
 
-Reum, o comandante, Sinsai, o escriba, e o restante de seus companheiros—os juízes, os governadores menores, os oficiais, os secretários, os homens da Pérsia, Uruk e Babilônia, os homens de Susã, isto é, os elamitas,
+Reum, o comandante, Sinsai, o escriba, e o restante de seus companheiros — os juízes, os governadores menores, os oficiais, os secretários, os homens da Pérsia, Uruk e Babilônia, os homens de Susã, isto é, os elamitas,
 
 ## Esdras 4:10
 

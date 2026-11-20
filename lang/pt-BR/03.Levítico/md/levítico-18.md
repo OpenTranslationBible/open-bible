@@ -30,7 +30,7 @@ Você não deve descobrir a nudez de seu pai, que é a nudez de sua mãe. Ela é
 
 ## Levítico 18:8
 
-Você não deve ajudar a despir a esposa de seu pai, é como se você fizesse seu pai ficar nu.
+Você não deve descobrir a nudez da esposa de seu pai; é como se você fizesse seu pai ficar nu.
 
 ## Levítico 18:9
 
@@ -58,11 +58,11 @@ Você não deve descobrir a nudez da esposa do irmão de seu pai; ela é sua tia
 
 ## Levítico 18:15
 
-Você não deve ajudar a despir sua nora, pois ela é a esposa de seu filho.
+Você não deve descobrir a nudez de sua nora, pois ela é a esposa de seu filho; não descubra a nudez dela.
 
 ## Levítico 18:16
 
-Você não deve ajudar a despir a esposa de seu irmão, pois isso desonraria seu irmão.
+Você não deve descobrir a nudez da esposa de seu irmão, pois isso desonraria seu irmão.
 
 ## Levítico 18:17
 

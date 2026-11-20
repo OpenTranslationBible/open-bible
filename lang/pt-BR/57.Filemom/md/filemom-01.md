@@ -34,7 +34,7 @@ Portanto, embora eu tenha plena confiança em Cristo para ordenar que você faç
 
 ## Filemom 1:9
 
-ainda assim, por amor, prefiro apelar a você—sendo eu, Paulo, um velho e agora também prisioneiro de Cristo Jesus—
+ainda assim, por amor, prefiro apelar a você — sendo eu, Paulo, um velho e agora também prisioneiro de Cristo Jesus—
 
 ## Filemom 1:10
 
@@ -74,7 +74,7 @@ Se ele lhe causou algum dano ou lhe deve algo, considere isso minha responsabili
 
 ## Filemom 1:19
 
-Eu, Paulo, escrevo isto com minha própria mão—eu pagarei—para não mencionar que você me deve até a si mesmo.
+Eu, Paulo, escrevo isto com minha própria mão — eu pagarei — para não mencionar que você me deve até a si mesmo.
 
 ## Filemom 1:20
 

@@ -25,7 +25,7 @@ Os anciãos de Moabe e Midiã partiram, levando consigo a taxa para adivinhaçã
 Balaão disse a eles: “Passem a noite aqui, e eu lhes trarei a resposta que o Senhor me der.” Assim, os líderes moabitas ficaram com ele.
 
 ## Números 22:9
-O Senhor se aproximou de Balaão e perguntou: “Quem são esses homens que estão com você?”
+Deus se aproximou de Balaão e perguntou: “Quem são esses homens que estão com você?”
 
 ## Números 22:10
 Balaão respondeu a Deus: “Balaque, filho de Zipor, rei de Moabe, enviou-me esta mensagem:
@@ -97,7 +97,7 @@ Então o Senhor permitiu que Balaão visse claramente, e ele percebeu o anjo do 
 O anjo do Senhor lhe perguntou: “Por que você bateu no seu jumento estas três vezes? Eu vim aqui para me opor a você porque seu caminho é imprudente diante de mim.
 
 ## Números 22:33
-O jumento me viu e desviou-se de mim estas três vezes. Se não tivesse se desviado, eu certamente já teria tirado sua vida, mas o pouparia.”
+O jumento me viu e desviou-se de mim estas três vezes. Se não tivesse se desviado, eu certamente já teria tirado sua vida, mas teria poupado o jumento.”
 
 ## Números 22:34
 Balaão disse ao anjo do Senhor: “Eu pequei. Não percebi que você estava no caminho para se opor a mim. Se você está descontente, eu voltarei.”

@@ -24,13 +24,13 @@ Então os fariseus e os escribas Lhe perguntaram: “Por que Seus discípulos n�
 
 Ele respondeu: “Isaías estava certo quando profetizou sobre vocês, hipócritas, como está escrito:
 
-> ‘Este povo Me honra com os lábios,
-> mas seus corações estão longe de Mim.
+>  ‘Este povo Me honra com os lábios,
+>  mas seus corações estão longe de Mim.
 
 ## Marcos 7:7
 
 > Eles Me adoram em vão;
-> seus ensinamentos são meramente mandamentos humanos.’
+>  seus ensinamentos são meramente mandamentos humanos.’
 
 ## Marcos 7:8
 

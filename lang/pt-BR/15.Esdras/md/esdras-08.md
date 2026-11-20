@@ -49,7 +49,7 @@ Eu os reuni junto ao rio que corre para Aava, e acampamos ali por três dias. Qu
 Então convoquei Eliezer, Ariel, Semaías, Elnatã, Jaribe, Elnatã, Natã, Zacarias e Mesulão, que eram homens líderes, e Joiaribe e Elnatã, que eram mestres.
 
 ## Esdras 8:17
-Enviei-os a Ido, o líder em Casifia, instruindo-os sobre o que dizer a Ido e seus companheiros levitas, os servos do templo em Casifia, para nos trazer ministros para a casa de nosso Deus.
+Enviei-os a Ido, o líder em Casifia, instruindo-os sobre o que dizer a Ido e seus parentes, os servos do templo em Casifia, para nos trazer ministros para a casa de nosso Deus.
 
 ## Esdras 8:18
 Porque a boa mão de nosso Deus estava sobre nós, eles nos trouxeram Serebias, um homem de entendimento, dos descendentes de Mali, filho de Levi, filho de Israel, e os filhos e irmãos de Serebias, 18 ao todo;

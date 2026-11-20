@@ -8,7 +8,7 @@ A sabedoria construiu sua casa; ela lavrou suas sete colunas.
 
 Ela preparou seu banquete, misturou seu vinho;
 
-> também arrumou sua mesa.
+>  também arrumou sua mesa.
 
 ## Provérbios 9:3
 
@@ -36,13 +36,13 @@ Quem corrige o zombador atrai desonra; quem repreende o ímpio recebe insultos.
 
 Não repreenda o zombador, para que não o odeie;
 
-> repreenda o sábio, e ele o amará.
+>  repreenda o sábio, e ele o amará.
 
 ## Provérbios 9:9
 
 Instrua o sábio, e ele se tornará ainda mais sábio;
 
-> ensine o justo, e ele aumentará seu aprendizado.
+>  ensine o justo, e ele aumentará seu aprendizado.
 
 ## Provérbios 9:10
 

@@ -8,19 +8,19 @@ Aconteceu que, enquanto Jesus estava orando em certo lugar, quando Ele concluiu,
 
 Ele respondeu: “Quando vocês orarem, digam:
 
-> ‘Pai, santificado seja o Teu nome.
-> Venha o Teu reino.
+>  ‘Pai, santificado seja o Teu nome.
+>  Venha o Teu reino.
 
 ## Lucas 11:3
 
-> Dá-nos hoje o nosso pão diário.
+> Dá-nos a cada dia o nosso pão diário.
 
 ## Lucas 11:4
 
 > E perdoa-nos os nossos pecados,
-> pois também perdoamos a todos os que pecaram contra nós.
-> E não nos deixes cair em tentação,
-> mas livra-nos do mal.’”
+>  pois também perdoamos a todos os que pecaram contra nós.
+>  E não nos deixes cair em tentação,
+>  mas livra-nos do mal.’”
 
 ---
 
@@ -88,7 +88,7 @@ Se eu expulso demônios por Belzebu, por quem os seguidores de vocês os expulsa
 
 ## Lucas 11:20
 
-Mas se eu expulso demônios pelo poder de Deus, então o reino de Deus chegou até vocês.
+Mas se eu expulso demônios pelo dedo de Deus, então o reino de Deus chegou até vocês.
 
 ## Lucas 11:21
 

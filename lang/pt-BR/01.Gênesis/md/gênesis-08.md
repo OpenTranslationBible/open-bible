@@ -66,7 +66,7 @@ Então Deus falou a Noé, dizendo,
 
 ## Gênesis 8:17
 
-Traga para fora todos os seres vivos que estão com você—os pássaros, os animais e todos os seres que se movem sobre a terra—para que se reproduzam abundantemente na terra, sejam fecundos e se multipliquem.”
+Traga para fora todos os seres vivos que estão com você — os pássaros, os animais e todos os seres que se movem sobre a terra — para que se reproduzam abundantemente na terra, sejam fecundos e se multipliquem.”
 
 ## Gênesis 8:18
 

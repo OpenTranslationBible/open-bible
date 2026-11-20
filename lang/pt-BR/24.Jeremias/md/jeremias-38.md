@@ -70,7 +70,7 @@ No entanto, se você escolher não se render, o Senhor me mostrou o seguinte:
 “Todas as suas esposas e filhos serão levados aos caldeus. Você mesmo não escapará das mãos deles, mas será capturado pelo rei da Babilônia; e esta cidade será queimada.”’
 
 ## Jeremias 38:24
-Então Zedequias disse a Jeremias: “Não deixe ninguém saber sobre esta conversa, ou você pode estar em risco.
+Então Zedequias disse a Jeremias: “Não deixe ninguém saber sobre esta conversa, ou você morrerá.
 
 ## Jeremias 38:25
 Se os oficiais ouvirem que falei com você e vierem a você e disserem: ‘Conte-nos o que você disse ao rei e o que o rei disse a você; não esconda de nós ou o mataremos,’

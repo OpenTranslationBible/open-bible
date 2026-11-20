@@ -138,15 +138,15 @@ Ele respondeu: “Como posso, a menos que alguém me guie?” E convidou Filipe 
 
 Agora, a passagem da Escritura que ele estava lendo era esta:
 
-> “Ele foi levado como uma ovelha ao matadouro,
-> e como um cordeiro diante do seu tosquiador está calado,
-> assim ele não abre a sua boca.
+>  “Ele foi levado como uma ovelha ao matadouro,
+>  e como um cordeiro diante do seu tosquiador está calado,
+>  assim ele não abre a sua boca.
 
 ## Atos 8:33
 
 > Em sua humilhação, a justiça lhe foi negada.
-> Quem pode falar de seus descendentes?
-> Pois sua vida foi tirada da terra.”
+>  Quem pode falar de seus descendentes?
+>  Pois sua vida foi tirada da terra.”
 
 ## Atos 8:34
 

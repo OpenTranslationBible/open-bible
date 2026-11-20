@@ -96,7 +96,7 @@ O servo voltou e relatou isso ao seu senhor. O dono da casa ficou irado e ordeno
 
 ## Lucas 14:23
 
-Então o senhor instruiu seu servo: ‘Vá para os caminhos e valados e encoraje-os a entrar, para que minha casa fique cheia.
+Então o senhor instruiu seu servo: ‘Vá para os caminhos e valados e obrigue-os a entrar, para que minha casa fique cheia.
 
 ## Lucas 14:24
 
@@ -110,7 +110,7 @@ Grandes multidões viajavam com Jesus, e Ele se virou e lhes disse:
 
 ## Lucas 14:26
 
-“Se alguém vem a Mim e não odeia seu pai e mãe, esposa e filhos, irmãos e irmãs—sim, até mesmo sua própria vida—essa pessoa não pode ser Meu discípulo.
+“Se alguém vem a Mim e não odeia seu pai e mãe, esposa e filhos, irmãos e irmãs — sim, até mesmo sua própria vida — essa pessoa não pode ser Meu discípulo.
 
 ## Lucas 14:27
 

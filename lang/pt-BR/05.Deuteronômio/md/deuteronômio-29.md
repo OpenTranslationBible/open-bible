@@ -28,7 +28,7 @@ Tomamos posse de sua terra e a atribuímos como herança aos rubenitas, aos gadi
 Portanto, observem as cláusulas desta aliança e as cumpram, para que prosperem em tudo o que fizerem.
 
 ## Deuteronômio 29:10
-Todos vocês estão hoje na presença do Senhor seu Deus—seus líderes, suas tribos, seus anciãos e oficiais, todos os homens de Israel,
+Todos vocês estão hoje na presença do Senhor seu Deus — seus líderes, suas tribos, seus anciãos e oficiais, todos os homens de Israel,
 
 ## Deuteronômio 29:11
 junto com seus filhos e esposas, e os estrangeiros que residem em seus acampamentos, que cortam sua lenha e tiram sua água,
@@ -64,10 +64,10 @@ O Senhor não estará disposto a perdoá-los; Sua ira e zelo arderão contra ele
 O Senhor os separará de todas as tribos de Israel para calamidade, de acordo com todas as maldições da aliança escrita neste Livro da Lei.
 
 ## Deuteronômio 29:22
-Gerações futuras—seus descendentes que se levantarem depois de vocês e estrangeiros de terras distantes—verão as calamidades que se abateram sobre a terra e as doenças com as quais o Senhor a afligiu.
+Gerações futuras — seus descendentes que se levantarem depois de vocês e estrangeiros de terras distantes — verão as calamidades que se abateram sobre a terra e as doenças com as quais o Senhor a afligiu.
 
 ## Deuteronômio 29:23
-Toda a terra será um deserto ardente de sal e enxofre—nada semeado, nada brotando, nenhuma vegetação crescendo nela. Será como a destruição de Sodoma e Gomorra, Admá e Zeboim, que o Senhor destruiu em Sua ira feroz.
+Toda a terra será um deserto ardente de sal e enxofre — nada semeado, nada brotando, nenhuma vegetação crescendo nela. Será como a destruição de Sodoma e Gomorra, Admá e Zeboim, que o Senhor destruiu em Sua ira feroz.
 
 ## Deuteronômio 29:24
 Todas as nações perguntarão: 'Por que o Senhor fez isso a esta terra? Por que esta grande intensidade de ira?'

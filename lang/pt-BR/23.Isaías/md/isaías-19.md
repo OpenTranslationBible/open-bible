@@ -43,7 +43,7 @@ Os oficiais de Zoã se tornaram tolos, os líderes de Mênfis foram enganados; a
 O Senhor misturou dentro dela um espírito de tontura; eles fazem o Egito cambalear em tudo o que faz, como um bêbado cambaleia em seu vômito.
 
 ## Isaías 19:15
-Não há nada que o Egito possa fazer—cabeça ou cauda, ramo de palmeira ou junco.
+Não há nada que o Egito possa fazer — cabeça ou cauda, ramo de palmeira ou junco.
 
 ## Isaías 19:16
 Naquele dia os egípcios se tornarão fracos; eles tremerão de medo diante da mão levantada que o Senhor dos Exércitos ergue contra eles.

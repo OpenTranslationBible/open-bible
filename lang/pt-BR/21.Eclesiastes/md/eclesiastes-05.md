@@ -52,10 +52,10 @@ Isso também é um mal grave: exatamente como alguém vem, assim partirá. Que g
 Todos os seus dias comem na escuridão, com grande frustração, doença e raiva.
 
 ## Eclesiastes 5:18
-Isso é o que observei ser bom e apropriado: comer, beber e encontrar satisfação em todo o trabalho que alguém realiza debaixo do sol durante os poucos dias de vida que Deus lhe deu—pois essa é a sua recompensa.
+Isso é o que observei ser bom e apropriado: comer, beber e encontrar satisfação em todo o trabalho que alguém realiza debaixo do sol durante os poucos dias de vida que Deus lhe deu — pois essa é a sua recompensa.
 
 ## Eclesiastes 5:19
-Além disso, quando Deus dá a alguém riqueza e posses, e a capacidade de desfrutá-las, de aceitar sua sorte e encontrar alegria em seu trabalho—isso é um presente de Deus.
+Além disso, quando Deus dá a alguém riqueza e posses, e a capacidade de desfrutá-las, de aceitar sua sorte e encontrar alegria em seu trabalho — isso é um presente de Deus.
 
 ## Eclesiastes 5:20
 Eles raramente refletem sobre os dias de sua vida, porque Deus os mantém ocupados com alegria em seu coração.

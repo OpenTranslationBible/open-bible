@@ -34,7 +34,7 @@ Mas quando vocês atravessarem o Jordão e se estabelecerem na terra que o Senho
 então, para o lugar que o Senhor, seu Deus, escolher para fazer habitar o seu Nome, para lá vocês levarão tudo o que eu ordeno a vocês: seus holocaustos, sacrifícios, dízimos, ofertas especiais e todas as suas melhores ofertas votivas ao Senhor.
 
 ## Deuteronômio 12:12
-E vocês se alegrarão diante do Senhor, seu Deus—vocês, seus filhos e filhas, seus servos e servas, e os levitas de suas cidades, pois eles não têm parte nem herança com vocês.
+E vocês se alegrarão diante do Senhor, seu Deus — vocês, seus filhos e filhas, seus servos e servas, e os levitas de suas cidades, pois eles não têm parte nem herança com vocês.
 
 ## Deuteronômio 12:13
 Tenham cuidado para não oferecer seus holocaustos em qualquer lugar que vocês vejam.
@@ -52,7 +52,7 @@ Mas vocês não devem consumir o sangue; derramem-no no chão como água.
 Vocês não devem comer em suas próprias cidades o dízimo de seu cereal, vinho novo ou azeite, ou os primogênitos de seus rebanhos e manadas, ou qualquer uma de suas ofertas votivas, ofertas voluntárias ou ofertas especiais.
 
 ## Deuteronômio 12:18
-Em vez disso, vocês devem comê-los na presença do Senhor, seu Deus, no lugar que o Senhor, seu Deus, escolher—vocês, seus filhos e filhas, seus servos e servas, e os levitas de suas cidades—e vocês se alegrarão em todas as suas realizações.
+Em vez disso, vocês devem comê-los na presença do Senhor, seu Deus, no lugar que o Senhor, seu Deus, escolher — vocês, seus filhos e filhas, seus servos e servas, e os levitas de suas cidades — e vocês se alegrarão em todas as suas realizações.
 
 ## Deuteronômio 12:19
 Lembrem-se de apoiar os levitas enquanto viverem em sua terra.

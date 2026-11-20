@@ -36,28 +36,28 @@ Pois eu digo que Cristo se tornou servo dos judeus em prol da verdade de Deus, p
 
 e para que os gentios glorifiquem a Deus por Sua misericórdia. Como está escrito:
 
-> “Portanto, eu te louvarei entre os gentios;
-> cantarei louvores ao teu nome.”
+>  “Portanto, eu te louvarei entre os gentios;
+>  cantarei louvores ao teu nome.”
 
 ## Romanos 15:10
 
 Além disso, está afirmado,
 
-> “Alegrem-se, ó gentios, com o povo dele.”
+>  “Alegrem-se, ó gentios, com o povo dele.”
 
 ## Romanos 15:11
 
 E também é declarado,
 
-> “Louvem ao Senhor, todos vocês, gentios; que todos os povos o exaltem.”
+>  “Louvem ao Senhor, todos vocês, gentios; que todos os povos o exaltem.”
 
 ## Romanos 15:12
 
 Além disso, Isaías proclama,
 
-> “A Raiz de Jessé brotará,
-> aquele que se levantará para governar as nações;
-> nele os gentios depositarão sua esperança.”
+>  “A Raiz de Jessé brotará,
+>  aquele que se levantará para governar as nações;
+>  nele os gentios depositarão sua esperança.”
 
 ## Romanos 15:13
 
@@ -95,8 +95,8 @@ E dessa forma aspirei pregar o evangelho, não onde Cristo já era reconhecido, 
 
 mas, como diz a Escritura:
 
-> “Aqueles que não foram informados sobre ele verão,
-> e os que não ouviram entenderão.”
+>  “Aqueles que não foram informados sobre ele verão,
+>  e os que não ouviram entenderão.”
 
 ## Romanos 15:22
 

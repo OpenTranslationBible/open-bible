@@ -148,7 +148,7 @@ No entanto, devo continuar minha jornada hoje, amanhã e no dia seguinte — poi
 
 ## Lucas 13:34
 
-Ó Jerusalém, Jerusalém, você que maltrata os profetas e apedreja os que são enviados a você, quantas vezes desejei reunir seus filhos, como uma galinha reúne seus pintinhos debaixo de suas asas, mas você não quis.
+Ó Jerusalém, Jerusalém, você que mata os profetas e apedreja os que são enviados a você, quantas vezes desejei reunir seus filhos, como uma galinha reúne seus pintinhos debaixo de suas asas, mas você não quis.
 
 ## Lucas 13:35
 

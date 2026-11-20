@@ -32,21 +32,21 @@ O que então? O que Israel tanto buscava não obteve, mas os eleitos obtiveram. 
 
 como está escrito:
 
-> “Deus lhes deu um espírito de torpor,
-> olhos para não ver e ouvidos para não ouvir,
-> até o dia de hoje.”
+>  “Deus lhes deu um espírito de torpor,
+>  olhos para não ver e ouvidos para não ouvir,
+>  até o dia de hoje.”
 
 ## Romanos 11:9
 
 E Davi diz:
 
-> “Que a mesa deles se torne um laço e uma armadilha,
-> uma pedra de tropeço e uma retribuição para eles.
+>  “Que a mesa deles se torne um laço e uma armadilha,
+>  uma pedra de tropeço e uma retribuição para eles.
 
 ## Romanos 11:10
 
 > Que os olhos deles se escureçam para não ver,
-> e as costas deles fiquem encurvadas para sempre.”
+>  e as costas deles fiquem encurvadas para sempre.”
 
 ## Romanos 11:11
 
@@ -112,13 +112,13 @@ Não quero que vocês ignorem este mistério, irmãos e irmãs, para que não se
 
 e assim todo o Israel será salvo. Como está escrito:
 
-> “O Libertador virá de Sião;
-> Ele afastará a impiedade de Jacó.
+>  “O Libertador virá de Sião;
+>  Ele afastará a impiedade de Jacó.
 
 ## Romanos 11:27
 
-> E esta é a Minha aliança com eles
-> quando Eu remover os seus pecados.”
+> E esta é a Minha aliança com eles quando Eu remover os seus pecados.
+> ”
 
 ## Romanos 11:28
 
@@ -138,25 +138,25 @@ assim também eles agora se tornaram desobedientes para que também possam agora
 
 ## Romanos 11:32
 
-Pois Deus permitiu que todos fossem desobedientes para que Ele pudesse ter misericórdia de todos.
+Pois Deus encerrou todos na desobediência para que Ele pudesse ter misericórdia de todos.
 
 ## Romanos 11:33
 
 > Oh, a profundidade das riquezas da sabedoria e do conhecimento de Deus!
-> Quão insondáveis são os Seus juízos,
-> e os Seus caminhos além da compreensão!
+>  Quão insondáveis são os Seus juízos,
+>  e os Seus caminhos além da compreensão!
 
 ## Romanos 11:34
 
 > “Quem compreendeu a mente do Senhor?
-> Ou quem foi Seu conselheiro?”
+>  Ou quem foi Seu conselheiro?”
 
 ## Romanos 11:35
 
 > “Quem já ofereceu algo a Deus,
-> para que Deus lhe retribua?”
+>  para que Deus lhe retribua?”
 
 ## Romanos 11:36
 
 > Pois todas as coisas são dEle, por Ele e para Ele.
-> A Ele seja a glória para sempre! Amém.
+>  A Ele seja a glória para sempre! Amém.

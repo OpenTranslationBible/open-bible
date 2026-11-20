@@ -28,13 +28,13 @@ Um rei que se senta no trono de julgamento peneira todo mal com seus olhos.
 Quem pode afirmar: “Purifiquei meu coração; estou livre do meu pecado”?
 
 ## Provérbios 20:10
-Pesos e medidas diferentes— ambos são detestáveis ao Senhor.
+Pesos e medidas diferentes — ambos são detestáveis ao Senhor.
 
 ## Provérbios 20:11
 Até uma criança é conhecida por suas ações, se sua conduta é pura e correta.
 
 ## Provérbios 20:12
-A capacidade de ouvir e ver— ambos são criados pelo Senhor.
+A capacidade de ouvir e ver — ambos são criados pelo Senhor.
 
 ## Provérbios 20:13
 Não ame o sono, ou você ficará pobre; abra os olhos, e terá comida de sobra.

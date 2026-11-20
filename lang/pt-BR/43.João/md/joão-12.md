@@ -56,9 +56,9 @@ No dia seguinte, a grande multidão que tinha vindo para a festa ouviu que Jesus
 
 Eles pegaram ramos de palmeiras e saíram ao encontro dele, clamando:
 
-> “Hosana!
-> Bendito é aquele que vem em nome do Senhor!
-> Bendito é o Rei de Israel!”
+>  “Hosana!
+>  Bendito é aquele que vem em nome do Senhor!
+>  Bendito é o Rei de Israel!”
 
 ## João 12:14
 
@@ -67,8 +67,8 @@ Jesus encontrou um jumentinho e montou nele, cumprindo o que estava escrito:
 ## João 12:15
 
 > “Não temas, filha de Sião;
-> eis que o teu rei vem,
-> montado no filho de uma jumenta.”
+>  eis que o teu rei vem,
+>  montado no filho de uma jumenta.”
 
 ## João 12:16
 
@@ -110,7 +110,7 @@ Em verdade, em verdade vos digo, se o grão de trigo não cair na terra e morrer
 
 ## João 12:25
 
-Quem ama a sua vida a perderá, enquanto quem despreza a sua vida neste mundo a conservará para a vida eterna.
+Quem ama a sua vida a perderá, enquanto quem odeia a sua vida neste mundo a conservará para a vida eterna.
 
 ## João 12:26
 
@@ -170,8 +170,8 @@ Mesmo que Jesus tivesse realizado tantos sinais na presença deles, ainda assim 
 
 Isso foi para cumprir as palavras do profeta Isaías:
 
-> “Senhor, quem creu em nossa mensagem
-> e a quem foi revelado o braço do Senhor?”
+>  “Senhor,
+>  quem creu em nossa mensagem e a quem foi revelado o braço do Senhor?”
 
 ## João 12:39
 
@@ -179,11 +179,11 @@ Eles não puderam crer por esta razão, como Isaías diz em outro lugar:
 
 ## João 12:40
 
-> “Ele cegou os olhos deles
-> e endureceu seus corações,
-> para que não vejam com os olhos,
-> nem entendam com o coração,
-> nem se convertam —e eu os curaria.”
+> “Ele cegou os olhos deles e endureceu seus corações,
+>  para que não vejam com os olhos,
+>  nem entendam com o coração,
+>  nem se convertam — e eu os curaria.
+> ”
 
 ## João 12:41
 

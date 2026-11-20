@@ -91,7 +91,7 @@ Enquanto Vossa Majestade estava deitado, sua mente se voltou para o futuro, e o 
 Quanto a mim, este mistério foi revelado a mim não porque eu tenha maior sabedoria do que qualquer outro vivo, mas para que Vossa Majestade conheça a interpretação e entenda os pensamentos de sua mente.
 
 ## Daniel 2:31
-Vossa Majestade observou, e diante de você estava uma grande estátua—uma estátua enorme e deslumbrante, impressionante em aparência.
+Vossa Majestade observou, e diante de você estava uma grande estátua — uma estátua enorme e deslumbrante, impressionante em aparência.
 
 ## Daniel 2:32
 A cabeça da estátua era de ouro fino, seu peito e braços de prata, seu ventre e coxas de bronze,
@@ -118,7 +118,7 @@ Ele colocou todas as pessoas, os animais do campo e as aves do céu sob sua auto
 Depois de você, surgirá outro reino, inferior ao seu. Então, um terceiro reino, de bronze, governará toda a terra.
 
 ## Daniel 2:40
-Finalmente, haverá um quarto reino, forte como ferro—pois o ferro quebra e esmaga tudo—e como o ferro esmaga todas as coisas, assim ele esmagará e quebrará todos os outros.
+Finalmente, haverá um quarto reino, forte como ferro — pois o ferro quebra e esmaga tudo — e como o ferro esmaga todas as coisas, assim ele esmagará e quebrará todos os outros.
 
 ## Daniel 2:41
 Assim como você viu que os pés e os dedos eram em parte de barro e em parte de ferro, assim será um reino dividido; no entanto, terá alguma força do ferro nele, assim como você viu o ferro misturado com o barro.
@@ -133,7 +133,7 @@ E assim como você viu o ferro misturado com o barro, assim as pessoas serão um
 Durante o reinado desses reis, o Deus do céu estabelecerá um reino que nunca será destruído, nem será deixado para outro povo. Ele esmagará todos esses reinos e os trará ao fim, mas ele mesmo perdurará para sempre.
 
 ## Daniel 2:45
-Este é o significado da visão da pedra cortada de uma montanha, mas não por mãos humanas—uma pedra que quebrou o ferro, o bronze, o barro, a prata e o ouro em pedaços. O grande Deus mostrou ao rei o que acontecerá no futuro. O sonho é verdadeiro, e sua interpretação é confiável.”
+Este é o significado da visão da pedra cortada de uma montanha, mas não por mãos humanas — uma pedra que quebrou o ferro, o bronze, o barro, a prata e o ouro em pedaços. O grande Deus mostrou ao rei o que acontecerá no futuro. O sonho é verdadeiro, e sua interpretação é confiável.”
 
 ## Daniel 2:46
 Então o rei Nabucodonosor prostrou-se diante de Daniel e o honrou, e ordenou que lhe fossem apresentados uma oferta e incenso.

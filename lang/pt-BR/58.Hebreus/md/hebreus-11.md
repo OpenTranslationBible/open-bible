@@ -150,7 +150,7 @@ Foram apedrejados, serrados ao meio, mortos ao fio da espada. Andaram vestidos d
 
 ## Hebreus 11:38
 
-dos quais o mundo não era digno—vagando em desertos e montanhas, e em cavernas e buracos na terra.
+dos quais o mundo não era digno — vagando em desertos e montanhas, e em cavernas e buracos na terra.
 
 ## Hebreus 11:39
 

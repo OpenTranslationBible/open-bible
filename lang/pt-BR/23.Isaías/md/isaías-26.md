@@ -22,7 +22,7 @@ Ele abateu aqueles que habitam nas alturas; a cidade altiva ele derruba, nivela-
 
 ## Isaías 26:6
 
-O pé a pisoteará— os pés dos pobres, os passos dos oprimidos.
+O pé a pisoteará — os pés dos pobres, os passos dos oprimidos.
 
 ## Isaías 26:7
 

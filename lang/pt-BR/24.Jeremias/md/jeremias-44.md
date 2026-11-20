@@ -13,7 +13,7 @@ por causa de suas más ações que Me provocaram à ira, queimando sacrifícios 
 Enviei todos os Meus servos, os profetas, a vocês repetidamente, dizendo: ‘Não cometam este ato abominável que Eu detesto.’
 
 ## Jeremias 44:5
-Mas vocês não ouviram nem inclinaram seus ouvidos para se afastarem de sua maldade, para cessar de queimar sacrifícios a outros deuses.
+Mas eles não ouviram nem inclinaram seus ouvidos para se afastarem de sua maldade, para cessar de queimar sacrifícios a outros deuses.
 
 ## Jeremias 44:6
 Portanto, Minha ira e fúria foram derramadas e queimaram nas cidades de Judá e nas ruas de Jerusalém, deixando-as em ruínas e desolação como estão hoje.

@@ -2,7 +2,7 @@
 
 ## Zacarias 6:1
 
-Levantei meus olhos mais uma vez e vi quatro carruagens emergindo de entre dois montes—montes de bronze.
+Levantei meus olhos mais uma vez e vi quatro carruagens emergindo de entre dois montes — montes de bronze.
 
 ## Zacarias 6:2
 

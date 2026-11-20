@@ -68,7 +68,7 @@ Um deles, ao perceber que estava curado, voltou, glorificando a Deus em alta voz
 
 ## Lucas 17:16
 
-Ele se prostrou aos pés de Jesus e expressou sua gratidão—e ele era um samaritano.
+Ele se prostrou aos pés de Jesus e expressou sua gratidão — e ele era um samaritano.
 
 ## Lucas 17:17
 

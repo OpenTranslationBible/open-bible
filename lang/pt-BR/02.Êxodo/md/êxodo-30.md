@@ -134,7 +134,7 @@ Quem fizer um perfume como este ou colocá-lo em alguém que não seja sacerdote
 
 ## Êxodo 30:34
 
-Então o Senhor disse a Moisés: “Tome especiarias aromáticas—estoraque, ônica, gálbano e incenso puro—tudo em partes iguais,
+Então o Senhor disse a Moisés: “Tome especiarias aromáticas — estoraque, ônica, gálbano e incenso puro — tudo em partes iguais,
 
 ## Êxodo 30:35
 

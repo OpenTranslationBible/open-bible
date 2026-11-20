@@ -148,7 +148,7 @@ Eles disseram a Ele: “Senhor, dá-nos sempre desse pão.”
 
 ## João 6:35
 
-Jesus declarou: “Eu sou o pão da vida. Quem vem a mim e crê em Mim, jamais terá fome, nem sede novamente.
+Jesus declarou: “Eu sou o pão da vida. Quem vem a Mim jamais terá fome, e quem crê em Mim jamais terá sede.
 
 ## João 6:36
 

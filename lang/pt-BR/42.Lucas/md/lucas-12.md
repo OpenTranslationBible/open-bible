@@ -118,7 +118,7 @@ Considerem os lírios, como crescem: eles não trabalham nem tecem; contudo, Eu 
 
 ## Lucas 12:28
 
-Se é assim que Deus veste a erva do campo, que hoje está aqui e amanhã é lançada no fogo, quanto mais Ele vestirá vocês—ó vocês de pouca fé!
+Se é assim que Deus veste a erva do campo, que hoje está aqui e amanhã é lançada no fogo, quanto mais Ele vestirá vocês — ó vocês de pouca fé!
 
 ## Lucas 12:29
 

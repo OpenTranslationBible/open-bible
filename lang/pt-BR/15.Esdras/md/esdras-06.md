@@ -22,8 +22,6 @@ Além disso, os artigos de ouro e prata da casa de Deus, que Nabucodonosor levou
 
 ---
 
----
-
 ## Esdras 6:6
 
 Agora, Tatenai, governador da província além do Rio, Setar-Bozenai, e seus colegas, os oficiais daquela região, mantenham-se afastados dali.
@@ -38,7 +36,7 @@ Além disso, emito um decreto sobre o que vocês devem fazer por esses anciãos 
 
 ## Esdras 6:9
 
-Tudo o que for necessário—touros, carneiros e cordeiros para holocaustos ao Deus do céu, e trigo, sal, vinho e azeite, conforme solicitado pelos sacerdotes em Jerusalém—deve ser fornecido a eles diariamente sem falta,
+Tudo o que for necessário — touros, carneiros e cordeiros para holocaustos ao Deus do céu, e trigo, sal, vinho e azeite, conforme solicitado pelos sacerdotes em Jerusalém — deve ser fornecido a eles diariamente sem falta,
 
 ## Esdras 6:10
 
@@ -66,7 +64,7 @@ O templo foi concluído no terceiro dia do mês de Adar, no sexto ano do reinado
 
 ## Esdras 6:16
 
-Então os israelitas—os sacerdotes, os levitas e o restante dos exilados—celebraram a dedicação da casa de Deus com alegria.
+Então os israelitas — os sacerdotes, os levitas e o restante dos exilados — celebraram a dedicação da casa de Deus com alegria.
 
 ## Esdras 6:17
 

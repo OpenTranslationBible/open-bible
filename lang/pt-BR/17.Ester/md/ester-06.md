@@ -28,7 +28,7 @@ Quando Haman entrou, o rei lhe perguntou: “O que deve ser feito para o homem a
 
 ---
 
-Haman pensou consigo mesmo: “Quem o rei desejaria honrar mais do que a mim?”
+ Haman pensou consigo mesmo: “Quem o rei desejaria honrar mais do que a mim?”
 
 ## Ester 6:7
 
@@ -62,7 +62,7 @@ Haman contou a Zeresh, sua esposa, e a todos os seus amigos tudo o que lhe havia
 
 ---
 
-Seus sábios e sua esposa Zeresh lhe disseram: “Se Mordecai, diante de quem você começou a cair, é de descendência judaica, você não prevalecerá contra ele, mas certamente cairá em ruína.”
+ Seus sábios e sua esposa Zeresh lhe disseram: “Se Mordecai, diante de quem você começou a cair, é de descendência judaica, você não prevalecerá contra ele, mas certamente cairá em ruína.”
 
 ## Ester 6:14
 

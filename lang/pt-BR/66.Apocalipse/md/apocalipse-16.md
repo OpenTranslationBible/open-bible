@@ -20,21 +20,21 @@ O terceiro anjo derramou sua taça nos rios e nas fontes de água, e eles se tor
 
 Então ouvi o anjo das águas declarar:
 
-> “Justo és tu, ó Santo, que és e que eras,
-> pois passaste estes julgamentos;
+>  “Justo és tu, ó Santo, que és e que eras,
+>  pois passaste estes julgamentos;
 
 ## Apocalipse 16:6
 
 > porque derramaram o sangue dos santos e dos profetas,
-> e tu lhes deste sangue para beber,
-> como merecem.”
+>  e tu lhes deste sangue para beber,
+>  como merecem.”
 
 ## Apocalipse 16:7
 
 E ouvi o altar afirmar:
 
-> “Sim, Senhor Deus Todo-Poderoso,
-> verdadeiros e justos são os teus julgamentos.”
+>  “Sim, Senhor Deus Todo-Poderoso,
+>  verdadeiros e justos são os teus julgamentos.”
 
 ## Apocalipse 16:8
 

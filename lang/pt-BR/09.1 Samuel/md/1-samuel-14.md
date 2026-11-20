@@ -49,7 +49,7 @@ Quando ambos se revelaram à guarnição dos filisteus, os filisteus disseram: �
 ## 1 Samuel 14:12
 
 E os homens da guarnição chamaram Jônatas e seu escudeiro e disseram: “Subi a nós, e vos mostraremos algo.”  
-Jônatas disse ao seu escudeiro: “Sobe após mim, pois o Senhor os entregou na mão de Israel.”
+ Jônatas disse ao seu escudeiro: “Sobe após mim, pois o Senhor os entregou na mão de Israel.”
 
 ## 1 Samuel 14:13
 
@@ -140,7 +140,7 @@ O povo correu avidamente sobre o despojo e tomou ovelhas, bois e bezerros, e os 
 ## 1 Samuel 14:33
 
 Então foi dito a Saul, dizendo: “Eis que o povo está pecando contra o Senhor comendo carne com sangue.”  
-E ele disse: “Agistes traiçoeiramente; rolai uma grande pedra para mim aqui.”
+ E ele disse: “Agistes traiçoeiramente; rolai uma grande pedra para mim aqui.”
 
 ## 1 Samuel 14:34
 
@@ -148,7 +148,7 @@ Então Saul disse: “Dispersai-vos entre o povo e dizei-lhes: ‘Cada um traga 
 
 ## 1 Samuel 14:35
 
-E Saul edificou um altar ao Senhor—foi o primeiro altar que ele edificou ao Senhor.
+E Saul edificou um altar ao Senhor — foi o primeiro altar que ele edificou ao Senhor.
 
 ---
 
@@ -183,7 +183,7 @@ Então Saul disse: “Lançai a sorte entre mim e Jônatas meu filho.” E Jôna
 ## 1 Samuel 14:43
 
 Então Saul disse a Jônatas: “Dize-me o que fizeste.”  
-E Jônatas lhe contou: “De fato provei um pouco de mel com a ponta do bastão que estava em minha mão. Aqui estou; devo morrer.”
+ E Jônatas lhe contou: “De fato provei um pouco de mel com a ponta do bastão que estava em minha mão. Aqui estou; devo morrer.”
 
 ## 1 Samuel 14:44
 
@@ -201,7 +201,7 @@ Então Saul cessou de perseguir os filisteus, e os filisteus voltaram ao seu lug
 
 ## 1 Samuel 14:47
 
-Ora, quando Saul tomou o reino sobre Israel, ele lutou contra todos os seus inimigos em todos os lados—contra Moabe, os amonitas, Edom, os reis de Zobá e os filisteus. E onde quer que se voltasse, ele os derrotava.
+Ora, quando Saul tomou o reino sobre Israel, ele lutou contra todos os seus inimigos em todos os lados — contra Moabe, os amonitas, Edom, os reis de Zobá e os filisteus. E onde quer que se voltasse, ele os derrotava.
 
 ## 1 Samuel 14:48
 

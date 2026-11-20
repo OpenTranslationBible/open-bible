@@ -20,66 +20,65 @@ Assim, Ele se tornou tão superior aos anjos quanto o nome que herdou é mais ex
 
 Pois a qual dos anjos Deus alguma vez declarou,
 
-> “Tu és Meu Filho; hoje
-> Eu Me tornei Teu Pai”?
+>  “Tu és Meu Filho;
+>  hoje Eu Me tornei Teu Pai”?
 
-Ou ainda,
+ Ou ainda,
 
-> “Eu serei Seu Pai,
-> e Ele será Meu Filho”?
+>  “Eu serei Seu Pai,
+>  e Ele será Meu Filho”?
 
 ## Hebreus 1:6
 
 E mais uma vez, quando Deus introduz Seu primogênito no mundo, Ele proclama,
 
-> “Que todos os anjos de Deus O adorem.”
+>  “Que todos os anjos de Deus O adorem.”
 
 ## Hebreus 1:7
 
 Ao falar dos anjos, Ele diz,
 
-> “Ele faz Seus anjos ventos,
-> e Seus servos chamas de fogo.”
+>  “Ele faz Seus anjos ventos,
+>  e Seus servos chamas de fogo.”
 
 ## Hebreus 1:8
 
 Mas sobre o Filho, Ele diz,
 
-> “Teu trono, ó Deus, é para todo o sempre;
-> um cetro de justiça será o cetro do Teu reino.
+>  “Teu trono, ó Deus, é para todo o sempre;
+>  um cetro de justiça será o cetro do Teu reino.
 
 ## Hebreus 1:9
 
 > Amaste a justiça e odiaste a iniquidade;
-> por isso Deus, o Teu Deus, Te ungiu
-> com o óleo da alegria acima de Teus companheiros.”
+>  por isso Deus, o Teu Deus,
+>  Te ungiu com o óleo da alegria acima de Teus companheiros.”
 
 ## Hebreus 1:10
 
 Ele também declara,
 
-> “No princípio, Senhor, estabeleceste os fundamentos da terra,
-> e os céus são obra de Tuas mãos.
+>  “No princípio, Senhor, estabeleceste os fundamentos da terra,
+>  e os céus são obra de Tuas mãos.
 
 ## Hebreus 1:11
 
 > Eles passarão, mas Tu permaneces;
-> todos envelhecerão como vestuário.
+>  todos envelhecerão como vestuário.
 
 ## Hebreus 1:12
 
 > Tu os dobrarás como um manto;
-> como vestuário, eles serão alterados.
-> Mas Tu permaneces inalterado,
-> e Teus anos jamais terão fim.”
+>  como vestuário, eles serão alterados.
+>  Mas Tu permaneces inalterado,
+>  e Teus anos jamais terão fim.”
 
 ## Hebreus 1:13
 
 A qual dos anjos Deus alguma vez declarou,
 
-> “Senta-Te à Minha direita
-> até que Eu faça de Teus inimigos
-> um estrado para Teus pés”?
+>  “Senta-Te à Minha direita até que Eu faça de Teus inimigos um estrado para Teus pés”
+> ?
 
 ## Hebreus 1:14
 

@@ -22,7 +22,7 @@ O que é mais fácil: declarar, ‘Os seus pecados estão perdoados,’ ou dizer
 
 ## Mateus 9:6
 
-Mas para que vocês saibam que o Filho do Homem tem autoridade na terra para perdoar pecados”—ele então disse ao homem paralítico: “Levante-se, pegue sua maca e vá para casa.”
+Mas para que vocês saibam que o Filho do Homem tem autoridade na terra para perdoar pecados” — ele então disse ao homem paralítico: “Levante-se, pegue sua maca e vá para casa.”
 
 ## Mateus 9:7
 

@@ -78,7 +78,7 @@ Um desejo realizado é doce para a alma, mas os tolos detestam afastar-se do mal
 
 ## Provérbios 13:20
 
-Ande com os sábios e se tornará sábio, pois o companheiro dos tolos sofre dano.
+Ande com os sábios e se tornará sábio, mas o companheiro dos tolos sofre dano.
 
 ## Provérbios 13:21
 

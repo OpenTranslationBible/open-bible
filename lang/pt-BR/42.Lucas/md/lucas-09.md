@@ -10,7 +10,7 @@ Ele os enviou para anunciar o reino de Deus e curar os enfermos.
 
 ## Lucas 9:3
 
-Ele os instruiu: “Não levem nada para a viagem—nem cajado, nem bolsa, nem pão, nem dinheiro; e não levem túnica extra.”
+Ele os instruiu: “Não levem nada para a viagem — nem cajado, nem bolsa, nem pão, nem dinheiro; e não levem túnica extra.”
 
 ## Lucas 9:4
 
@@ -54,7 +54,7 @@ Ao cair da tarde, os Doze aproximaram-se dEle e disseram: “Despede a multidão
 
 ## Lucas 9:13
 
-Ele respondeu: “Dêem-lhes vocês algo para comer.” Eles disseram: “Temos apenas cinco pães e dois peixes—a menos que compremos comida para toda esta multidão.”
+Ele respondeu: “Dêem-lhes vocês algo para comer.” Eles disseram: “Temos apenas cinco pães e dois peixes — a menos que compremos comida para toda esta multidão.”
 
 ## Lucas 9:14
 
@@ -142,7 +142,7 @@ Pedro e seus companheiros estavam bastante sonolentos, mas quando estavam totalm
 
 ## Lucas 9:33
 
-Quando os homens estavam se afastando de Jesus, Pedro disse a Ele: “Mestre, é bom estarmos aqui. Vamos montar três tendas—uma para Ti, uma para Moisés e uma para Elias.” (Ele não sabia o que estava dizendo.)
+Quando os homens estavam se afastando de Jesus, Pedro disse a Ele: “Mestre, é bom estarmos aqui. Vamos montar três tendas — uma para Ti, uma para Moisés e uma para Elias.” (Ele não sabia o que estava dizendo.)
 
 ## Lucas 9:34
 

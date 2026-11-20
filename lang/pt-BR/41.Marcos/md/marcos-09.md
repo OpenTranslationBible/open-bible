@@ -204,14 +204,13 @@ E se o teu olho te leva a tropeçar, arranca-o. É melhor entrares no reino de D
 
 ## Marcos 9:48
 
-onde
+onde o seu verme não morre,
 
-> o seu verme não morre,
-> e o fogo nunca se apaga.
+>  e o fogo nunca se apaga.
 
 ## Marcos 9:49
 
-Pois todos serão refinados com fogo.
+Pois todos serão salgados com fogo.
 
 ## Marcos 9:50
 

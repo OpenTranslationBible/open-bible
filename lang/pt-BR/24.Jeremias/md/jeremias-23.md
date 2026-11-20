@@ -118,4 +118,4 @@ E se vocês disserem: ‘A mensagem do Senhor!’ por essa razão o Senhor diz: 
 Portanto, eis que certamente os esquecerei e os lançarei fora da minha presença, juntamente com a cidade que dei a vocês e a seus antepassados.
 
 ## Jeremias 23:40
-Trarei sobre vocês vergonha eterna—uma desonra eterna que não será esquecida.”
+Trarei sobre vocês vergonha eterna — uma desonra eterna que não será esquecida.”

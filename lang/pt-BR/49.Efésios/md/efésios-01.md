@@ -26,7 +26,7 @@ para o louvor da glória de sua graça, que ele nos concedeu gratuitamente no Am
 
 ## Efésios 1:7
 
-Nele, temos a redenção por meio de seu sacrifício, o perdão dos pecados, de acordo com as riquezas de sua graça
+Nele, temos a redenção por meio de seu sangue, o perdão dos pecados, de acordo com as riquezas de sua graça
 
 ## Efésios 1:8
 

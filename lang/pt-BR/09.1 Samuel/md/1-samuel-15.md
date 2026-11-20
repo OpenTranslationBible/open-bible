@@ -47,7 +47,7 @@ Então uma mensagem do Senhor veio a Samuel, dizendo,
 ## 1 Samuel 15:11
 
 “Lamento ter feito Saul rei, pois ele se afastou de Me seguir e não cumpriu Meus mandamentos.”  
-E Samuel ficou angustiado e clamou ao Senhor a noite toda.
+ E Samuel ficou angustiado e clamou ao Senhor a noite toda.
 
 ## 1 Samuel 15:12
 
@@ -70,7 +70,7 @@ Saul respondeu: “Eles foram trazidos dos amalequitas, pois o povo poupou o mel
 ## 1 Samuel 15:16
 
 Então Samuel disse a Saul: “Pare! Vou lhe contar o que o Senhor me disse ontem à noite.”  
-E ele lhe disse: “Fale.”
+ E ele lhe disse: “Fale.”
 
 ## 1 Samuel 15:17
 
@@ -98,17 +98,16 @@ Mas o povo tomou parte do despojo, ovelhas e bois, o melhor das coisas destinada
 
 Samuel disse,
 
-> “Tem o Senhor tanto prazer em holocaustos e sacrifícios  
-> Como em obedecer à voz do Senhor?  
-> Eis que obedecer é melhor do que sacrificar,  
-> E ouvir é melhor do que a gordura de carneiros.
+>  “Tem o Senhor tanto prazer em holocaustos e sacrifícios Como em obedecer à voz do Senhor?  
+>  Eis que obedecer é melhor do que sacrificar,  
+>  E ouvir é melhor do que a gordura de carneiros.
 
 ## 1 Samuel 15:23
 
 > Pois a rebelião é como o pecado de adivinhação,  
-> E a teimosia é como iniquidade e idolatria.  
-> Porque você rejeitou a palavra do Senhor,  
-> Ele também o rejeitou como rei.”
+>  E a teimosia é como iniquidade e idolatria.  
+>  Porque você rejeitou a palavra do Senhor,  
+>  Ele também o rejeitou como rei.”
 
 ---
 
@@ -149,15 +148,15 @@ Assim, Samuel voltou após Saul, e Saul adorou o Senhor.
 ## 1 Samuel 15:32
 
 Então Samuel disse: “Tragam-me Agague, o rei dos amalequitas.”  
-E Agague se aproximou dele alegremente, dizendo: “Certamente a amargura da morte já passou.”
+ E Agague se aproximou dele alegremente, dizendo: “Certamente a amargura da morte já passou.”
 
 ## 1 Samuel 15:33
 
 Mas Samuel disse,
 
-> “Assim como sua espada fez mulheres sem filhos,  
-> Assim sua mãe ficará sem filhos entre as mulheres.”  
-> E Samuel executou Agague perante o Senhor em Gilgal.
+>  “Assim como sua espada fez mulheres sem filhos,  
+>  Assim sua mãe ficará sem filhos entre as mulheres.”  
+>  E Samuel executou Agague perante o Senhor em Gilgal.
 
 ## 1 Samuel 15:34
 
@@ -166,4 +165,4 @@ Então Samuel foi para Ramá, enquanto Saul subiu para sua casa em Gibeá de Sau
 ## 1 Samuel 15:35
 
 Samuel não viu Saul novamente até o dia de sua morte;  
-pois Samuel lamentou por Saul, e o Senhor lamentou ter feito Saul rei sobre Israel.
+ pois Samuel lamentou por Saul, e o Senhor lamentou ter feito Saul rei sobre Israel.

@@ -50,7 +50,7 @@ Portanto, irmãos e irmãs, temos uma obrigação, mas não é para com a carne,
 
 ## Romanos 8:13
 
-pois se vocês vivem pela carne, enfrentarão a morte; mas se pelo Espírito vocês mortificam as obras da carne, terão vida.
+pois se vocês vivem pela carne, enfrentarão a morte; mas se pelo Espírito vocês mortificam as obras do corpo, terão vida.
 
 ## Romanos 8:14
 
@@ -66,7 +66,7 @@ O próprio Espírito testifica com o nosso espírito que somos filhos de Deus.
 
 ## Romanos 8:17
 
-E se somos filhos, então somos herdeiros—herdeiros de Deus e co-herdeiros com Cristo, se de fato participamos dos Seus sofrimentos para que também possamos participar da Sua glória.
+E se somos filhos, então somos herdeiros — herdeiros de Deus e co-herdeiros com Cristo, se de fato participamos dos Seus sofrimentos para que também possamos participar da Sua glória.
 
 ## Romanos 8:18
 
@@ -126,7 +126,7 @@ O que diremos então em resposta a essas coisas? Se Deus é por nós, quem será
 
 ## Romanos 8:32
 
-Aquele que não poupou Seu próprio Filho, mas O entregou por todos nós—como não nos dará também, juntamente com Ele, todas as coisas?
+Aquele que não poupou Seu próprio Filho, mas O entregou por todos nós — como não nos dará também, juntamente com Ele, todas as coisas?
 
 ## Romanos 8:33
 
@@ -134,7 +134,7 @@ Quem fará alguma acusação contra os escolhidos de Deus? É Deus quem justific
 
 ## Romanos 8:34
 
-Quem então é aquele que condena? Ninguém. Cristo Jesus, que morreu—e mais do que isso, que foi ressuscitado—está à direita de Deus e também intercede por nós.
+Quem então é aquele que condena? Cristo Jesus, que morreu — e mais do que isso, que foi ressuscitado — está à direita de Deus e também intercede por nós.
 
 ## Romanos 8:35
 
@@ -144,8 +144,8 @@ Quem nos separará do amor de Cristo? Será tribulação, ou angústia, ou perse
 
 Como diz a escritura:
 
-> “Por tua causa enfrentamos a morte o dia todo;
-> somos considerados como ovelhas destinadas ao matadouro.”
+>  “Por tua causa enfrentamos a morte o dia todo;
+>  somos considerados como ovelhas destinadas ao matadouro.”
 
 ## Romanos 8:37
 

@@ -6,7 +6,7 @@ E a palavra de Samuel foi divulgada por todo o Israel.
 
 ---
 
-Agora os israelitas saíram para lutar contra os filisteus. Acamparam em Ebenézer, e os filisteus montaram acampamento em Afeca.
+ Agora os israelitas saíram para lutar contra os filisteus. Acamparam em Ebenézer, e os filisteus montaram acampamento em Afeca.
 
 ## 1 Samuel 4:2
 
@@ -27,7 +27,7 @@ Quando a arca da aliança do Senhor chegou ao acampamento, todo Israel levantou 
 ## 1 Samuel 4:6
 
 Os filisteus ouviram o barulho do clamor e perguntaram: “O que é esse grande clamor no acampamento dos hebreus?”  
-Quando souberam que a arca do Senhor havia chegado ao acampamento,
+ Quando souberam que a arca do Senhor havia chegado ao acampamento,
 
 ## 1 Samuel 4:7
 
@@ -45,7 +45,7 @@ Tenham coragem e sejam homens, ó filisteus, ou vocês se tornarão escravos dos
 
 ## 1 Samuel 4:10
 
-Então os filisteus lutaram, e Israel foi derrotado. Cada homem fugiu para sua tenda. A matança foi muito grande—trinta mil soldados de infantaria de Israel caíram.
+Então os filisteus lutaram, e Israel foi derrotado. Cada homem fugiu para sua tenda. A matança foi muito grande — trinta mil soldados de infantaria de Israel caíram.
 
 ## 1 Samuel 4:11
 
@@ -60,12 +60,12 @@ Um homem da tribo de Benjamim correu da linha de batalha e chegou a Siló no mes
 ## 1 Samuel 4:13
 
 Quando ele chegou, Eli estava sentado em sua cadeira ao lado da estrada, observando, pois seu coração tremia pela arca de Deus.  
-Quando o homem entrou na cidade e relatou o que havia acontecido, toda a cidade clamou.
+ Quando o homem entrou na cidade e relatou o que havia acontecido, toda a cidade clamou.
 
 ## 1 Samuel 4:14
 
 Eli ouviu o clamor e perguntou: “Qual é o significado dessa comoção?”  
-O homem se apressou para contar a Eli.
+ O homem se apressou para contar a Eli.
 
 ## 1 Samuel 4:15
 
@@ -73,8 +73,8 @@ Eli tinha noventa e oito anos, e seus olhos estavam tão fracos que ele não pod
 
 ## 1 Samuel 4:16
 
-O homem disse a Eli: “Vim da linha de batalha—fugi dela hoje.”  
-Eli perguntou: “O que aconteceu, meu filho?”
+O homem disse a Eli: “Vim da linha de batalha — fugi dela hoje.”  
+ Eli perguntou: “O que aconteceu, meu filho?”
 
 ## 1 Samuel 4:17
 

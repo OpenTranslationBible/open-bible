@@ -76,7 +76,7 @@ Ouvimos relatos sobre eles, e nossas mãos estão fracas. A angústia nos tomou,
 Evitem sair aos campos ou andar nas estradas, pois o inimigo tem uma espada, e há terror por todos os lados.
 
 ## Jeremias 6:26
-Vistam-se de pano de saco e cubram-se de cinzas; lamentem com profundo pranto como por um filho único, pois de repente o destruidor virá sobre nós.
+Ó filha do meu povo, vista-se de pano de saco e cubra-se de cinzas; lamente com profundo pranto como por um filho único, pois de repente o destruidor virá sobre nós.
 
 ## Jeremias 6:27
 ‘Eu fiz de você um testador de metais e meu povo o minério, para que você possa observar e examinar seus caminhos.

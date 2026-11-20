@@ -14,7 +14,7 @@ Então o Senhor disse a Isaías: “Saia agora para encontrar-se com Acaz, você
 
 ## Isaías 7:4
 
-Diga-lhe: ‘Tenha cuidado, fique calmo, não tema, e não desanime por causa desses dois tocos fumegantes de lenha—por causa da ira feroz de Rezim e da Síria e do filho de Remalias.
+Diga-lhe: ‘Tenha cuidado, fique calmo, não tema, e não desanime por causa desses dois tocos fumegantes de lenha — por causa da ira feroz de Rezim e da Síria e do filho de Remalias.
 
 ## Isaías 7:5
 
@@ -68,7 +68,7 @@ pois antes que o menino saiba rejeitar o mal e escolher o bem, a terra dos dois 
 
 ## Isaías 7:17
 
-O Senhor trará sobre você, sobre o seu povo e sobre a casa de seu pai dias como nunca houve desde que Efraim se separou de Judá—ele trará o rei da Assíria.”
+O Senhor trará sobre você, sobre o seu povo e sobre a casa de seu pai dias como nunca houve desde que Efraim se separou de Judá — ele trará o rei da Assíria.”
 
 ## Isaías 7:18
 
@@ -80,7 +80,7 @@ Todos eles virão e se estabelecerão nos desfiladeiros íngremes, nas fendas da
 
 ## Isaías 7:20
 
-Naquele dia, o Senhor usará uma navalha alugada de além do Eufrates—o rei da Assíria—para raspar sua cabeça e os pelos de suas pernas, e também para remover sua barba.
+Naquele dia, o Senhor usará uma navalha alugada de além do Eufrates — o rei da Assíria — para raspar sua cabeça e os pelos de suas pernas, e também para remover sua barba.
 
 ## Isaías 7:21
 

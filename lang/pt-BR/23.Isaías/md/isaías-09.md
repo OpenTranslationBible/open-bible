@@ -6,7 +6,7 @@ Contudo, não haverá mais escuridão para aqueles que estavam em angústia. Nos
 
 ## Isaías 9:2
 
-O povo que andava em trevas viu uma grande luz; sobre os que habitavam na terra de profunda escuridão, uma luz resplandeceu.
+O povo que andava em trevas viu uma grande luz; sobre os que habitavam na terra da sombra da morte, uma luz resplandeceu.
 
 ## Isaías 9:3
 
@@ -34,7 +34,7 @@ O Senhor enviou uma palavra contra Jacó, e ela cairá sobre Israel.
 
 ## Isaías 9:9
 
-E todo o povo saberá disso—Efraim e os habitantes de Samaria—que dizem com orgulho e arrogância de coração:
+E todo o povo saberá disso — Efraim e os habitantes de Samaria — que dizem com orgulho e arrogância de coração:
 
 ## Isaías 9:10
 

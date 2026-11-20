@@ -194,7 +194,7 @@ Filipe, como André e Pedro, era da cidade de Betsaida.
 
 ## João 1:45
 
-Filipe encontrou Natanael e lhe disse: “Achamos aquele sobre quem Moisés escreveu na Lei, e a respeito de quem os profetas também escreveram—Jesus de Nazaré, filho de José.”
+Filipe encontrou Natanael e lhe disse: “Achamos aquele sobre quem Moisés escreveu na Lei, e a respeito de quem os profetas também escreveram — Jesus de Nazaré, filho de José.”
 
 ## João 1:46
 

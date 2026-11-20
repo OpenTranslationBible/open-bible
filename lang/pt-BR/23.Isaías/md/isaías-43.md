@@ -2,7 +2,7 @@
 
 ## Isaías 43:1
 
-Mas agora, assim diz o Senhor— Aquele que o criou, Jacó, e Aquele que o formou, Israel: “Não tema, pois eu o resgatei; eu o chamei pelo nome; você é meu.
+Mas agora, assim diz o Senhor — Aquele que o criou, Jacó, e Aquele que o formou, Israel: “Não tema, pois eu o resgatei; eu o chamei pelo nome; você é meu.
 
 ## Isaías 43:2
 
@@ -46,7 +46,7 @@ Eu, eu mesmo, sou o Senhor, e além de mim não há salvador.
 
 ## Isaías 43:12
 
-Eu revelei, salvei e proclamei— eu, e não algum deus estrangeiro entre vocês. Vocês são minhas testemunhas,” declara o Senhor, “de que eu sou Deus.
+Eu revelei, salvei e proclamei — eu, e não algum deus estrangeiro entre vocês. Vocês são minhas testemunhas,” declara o Senhor, “de que eu sou Deus.
 
 ## Isaías 43:13
 
@@ -54,7 +54,7 @@ Desde a eternidade, eu sou ele, e ninguém pode resgatar da minha mão. Quando e
 
 ## Isaías 43:14
 
-Assim diz o Senhor— seu Redentor, o Santo de Israel: “Por sua causa, enviei a Babilônia e farei com que todos desçam como fugitivos, até mesmo os caldeus, nos navios sobre os quais se alegraram.
+Assim diz o Senhor — seu Redentor, o Santo de Israel: “Por sua causa, enviei a Babilônia e farei com que todos desçam como fugitivos, até mesmo os caldeus, nos navios sobre os quais se alegraram.
 
 ## Isaías 43:15
 
@@ -62,7 +62,7 @@ Eu sou o Senhor, o seu Santo, o Criador de Israel, o seu Soberano e Rei.”
 
 ## Isaías 43:16
 
-Assim diz o Senhor— Aquele que faz um caminho pelo mar e uma vereda pelas águas poderosas,
+Assim diz o Senhor — Aquele que faz um caminho pelo mar e uma vereda pelas águas poderosas,
 
 ## Isaías 43:17
 

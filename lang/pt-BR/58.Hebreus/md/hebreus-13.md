@@ -20,14 +20,14 @@ O casamento deve ser honrado por todos, e o leito conjugal, conservado puro, poi
 
 Certifiquem-se de que seu caráter esteja livre do amor ao dinheiro, contentando-se com o que vocês têm; pois Ele disse:
 
-> “Nunca o deixarei, nem o abandonarei.”
+>  “Nunca o deixarei, nem o abandonarei.”
 
 ## Hebreus 13:6
 
 Assim, podemos dizer com confiança:
 
-> “O Senhor é o meu ajudador; não temerei.
-> O que podem os simples mortais fazer comigo?”
+>  “O Senhor é o meu ajudador; não temerei.
+>  O que podem os simples mortais fazer comigo?”
 
 ## Hebreus 13:7
 
@@ -43,7 +43,7 @@ Não se deixem levar por ensinos diversos e estranhos; é benéfico que o coraç
 
 ## Hebreus 13:10
 
-Temos um lugar sagrado do qual aqueles que servem no tabernáculo não têm permissão para participar.
+Temos um altar do qual aqueles que servem no tabernáculo não têm permissão para participar.
 
 ## Hebreus 13:11
 
@@ -71,7 +71,7 @@ Lembrem-se de fazer o bem e de compartilhar com os outros, pois tais sacrifício
 
 ## Hebreus 13:17
 
-Tenham confiança em seus líderes e submetam-se à autoridade deles, pois eles vigiam suas almas como aqueles que devem prestar contas. Que façam isso com alegria e não com gemidos, pois isso não seria vantajoso para vocês.
+Obedeçam a seus líderes e submetam-se à autoridade deles, pois eles vigiam suas almas como aqueles que devem prestar contas. Que façam isso com alegria e não com gemidos, pois isso não seria vantajoso para vocês.
 
 ## Hebreus 13:18
 

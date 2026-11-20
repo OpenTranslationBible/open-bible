@@ -116,7 +116,7 @@ e quem quiser ser o primeiro deve ser servo—
 
 ## Mateus 20:28
 
-pois o Filho do Homem não veio para ser servido, mas para servir, e para dar a sua vida em resgate por muitos.”
+assim como o Filho do Homem não veio para ser servido, mas para servir, e para dar a sua vida em resgate por muitos.”
 
 ---
 

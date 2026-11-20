@@ -11,12 +11,12 @@ Eles levaram a arca para o templo de Dagom e a colocaram ao lado de Dagom.
 ## 1 Samuel 5:3
 
 Quando o povo de Asdode se levantou cedo no dia seguinte, lá estava Dagom, caído com o rosto em terra diante da arca do Senhor.  
-Eles pegaram Dagom e o colocaram de volta em seu lugar.
+ Eles pegaram Dagom e o colocaram de volta em seu lugar.
 
 ## 1 Samuel 5:4
 
 Mas na manhã seguinte, quando se levantaram cedo, Dagom havia caído novamente, com o rosto em terra diante da arca do Senhor.  
-Sua cabeça e ambas as mãos estavam quebradas e caídas no limiar; apenas seu tronco permaneceu.
+ Sua cabeça e ambas as mãos estavam quebradas e caídas no limiar; apenas seu tronco permaneceu.
 
 ## 1 Samuel 5:5
 
@@ -35,8 +35,8 @@ Quando o povo de Asdode viu o que estava acontecendo, disseram: “A arca do Deu
 ## 1 Samuel 5:8
 
 Então convocaram todos os governantes dos filisteus e perguntaram: “O que devemos fazer com a arca do Deus de Israel?”  
-Eles responderam: “Que seja movida para Gate.”  
-Então moveram a arca do Deus de Israel para lá.
+ Eles responderam: “Que seja movida para Gate.”  
+ Então moveram a arca do Deus de Israel para lá.
 
 ## 1 Samuel 5:9
 
@@ -45,12 +45,12 @@ Mas depois que a moveram, a mão do Senhor estava contra aquela cidade também. 
 ## 1 Samuel 5:10
 
 Então enviaram a arca de Deus para Ecrom.  
-Mas quando a arca chegou a Ecrom, o povo clamou: “Trouxeram a arca do Deus de Israel para nós, para nos matar e ao nosso povo!”
+ Mas quando a arca chegou a Ecrom, o povo clamou: “Trouxeram a arca do Deus de Israel para nós, para nos matar e ao nosso povo!”
 
 ## 1 Samuel 5:11
 
 Então convocaram todos os governantes dos filisteus e disseram: “Mandem a arca do Deus de Israel embora. Que ela volte para seu próprio lugar, para que não nos mate e ao nosso povo.”  
-Pois a morte e o pânico haviam enchido a cidade; a mão de Deus estava muito pesada ali.
+ Pois a morte e o pânico haviam enchido a cidade; a mão de Deus estava muito pesada ali.
 
 ## 1 Samuel 5:12
 

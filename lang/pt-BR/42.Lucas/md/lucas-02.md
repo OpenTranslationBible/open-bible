@@ -57,7 +57,7 @@ E de repente, junto com o anjo, apareceu uma multidão do exército celestial lo
 ## Lucas 2:14
 
 > “Glória a Deus nas alturas,
-> e paz na terra entre os homens a quem ele quer bem.”
+>  e paz na terra entre os homens a quem ele quer bem.”
 
 ---
 
@@ -126,7 +126,7 @@ Simeão o tomou nos braços e louvou a Deus, dizendo,
 ## Lucas 2:29
 
 > “Senhor, agora permites que o teu servo parta em paz,
-> conforme a tua promessa;
+>  conforme a tua promessa;
 
 ## Lucas 2:30
 
@@ -139,7 +139,7 @@ Simeão o tomou nos braços e louvou a Deus, dizendo,
 ## Lucas 2:32
 
 > uma luz para revelar a tua verdade às nações,
-> e a glória do teu povo Israel.”
+>  e a glória do teu povo Israel.”
 
 ---
 

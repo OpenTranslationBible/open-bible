@@ -2,11 +2,11 @@
 
 ## Romanos 12:1
 
-Portanto, irmãos e irmãs, rogo-lhes pelas misericórdias de Deus que ofereçam seus corpos como sacrifício vivo, santo e agradável a Deus—este é o seu verdadeiro e espiritual ato de adoração.
+Portanto, irmãos e irmãs, rogo-lhes pelas misericórdias de Deus que ofereçam seus corpos como sacrifício vivo, santo e agradável a Deus — este é o seu verdadeiro e espiritual ato de adoração.
 
 ## Romanos 12:2
 
-Não se conformem com o padrão deste mundo, mas transformem-se pela renovação da sua mente. Desta forma, vocês serão capazes de discernir qual é a vontade de Deus—sua boa, agradável e perfeita vontade.
+Não se conformem com o padrão deste mundo, mas transformem-se pela renovação da sua mente. Desta forma, vocês serão capazes de discernir qual é a vontade de Deus — sua boa, agradável e perfeita vontade.
 
 ## Romanos 12:3
 
@@ -80,9 +80,9 @@ Não se vinguem, meus queridos amigos, mas deixem espaço para a ira de Deus, po
 
 Pelo contrário,
 
-> se o seu inimigo tiver fome, dê-lhe de comer;
-> se tiver sede, ofereça-lhe algo para beber.
-> Fazendo isso, você amontoará brasas vivas sobre a cabeça dele.
+>  se o seu inimigo tiver fome, dê-lhe de comer;
+>  se tiver sede, ofereça-lhe algo para beber.
+>  Fazendo isso, você amontoará brasas vivas sobre a cabeça dele.
 
 ## Romanos 12:21
 

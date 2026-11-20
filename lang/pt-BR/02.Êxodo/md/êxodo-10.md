@@ -16,7 +16,7 @@ Pois se você continuar a recusar-se a deixar meu povo ir, saiba que amanhã tra
 Eles cobrirão a superfície da terra de modo que ninguém poderá vê-la. Eles devorarão o que restou para você após a saraiva, incluindo todas as árvores que crescem em seus campos.
 
 ## Êxodo 10:6
-Suas casas estarão cheias deles, assim como as casas de todos os seus servos e de todos os egípcios—algo que nem seus pais nem seus avós viram desde o dia em que se estabeleceram nesta terra até agora.’” Então Moisés virou-se e saiu da presença de Faraó.
+Suas casas estarão cheias deles, assim como as casas de todos os seus servos e de todos os egípcios — algo que nem seus pais nem seus avós viram desde o dia em que se estabeleceram nesta terra até agora.’” Então Moisés virou-se e saiu da presença de Faraó.
 
 ## Êxodo 10:7
 Então os servos de Faraó lhe disseram: “Até quando este homem será um laço para nós? Deixe o povo ir, para que sirvam ao Senhor seu Deus. Você ainda não percebeu que o Egito está destruído?”
@@ -61,7 +61,7 @@ Então o Senhor mudou o vento para um vento oeste muito forte, que apanhou os ga
 No entanto, o Senhor tornou o coração de Faraó obstinado, e ele não permitiu que os israelitas partissem.
 
 ## Êxodo 10:21
-Então o Senhor disse a Moisés: “Estenda sua mão em direção ao céu, para que a escuridão se espalhe sobre a terra do Egito—uma escuridão que se pode sentir.”
+Então o Senhor disse a Moisés: “Estenda sua mão em direção ao céu, para que a escuridão se espalhe sobre a terra do Egito — uma escuridão que se pode sentir.”
 
 ## Êxodo 10:22
 Então Moisés estendeu sua mão em direção ao céu, e uma densa escuridão cobriu toda a terra do Egito por três dias.

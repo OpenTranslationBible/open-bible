@@ -46,7 +46,7 @@ No entanto, Hamã se conteve e foi para casa.
 
 ---
 
-Ele reuniu seus amigos e Zeresh, sua esposa,
+ Ele reuniu seus amigos e Zeresh, sua esposa,
 
 ## Ester 5:11
 

@@ -10,7 +10,7 @@ Ali o anjo do Senhor apareceu-lhe numa chama de fogo no meio de uma sarça. Mois
 
 ## Êxodo 3:3
 
-Então Moisés pensou: “Vou me aproximar para ver essa grande maravilha—por que a sarça não se queima.”
+Então Moisés pensou: “Vou me aproximar para ver essa grande maravilha — por que a sarça não se queima.”
 
 ## Êxodo 3:4
 
@@ -22,7 +22,7 @@ Quando o Senhor viu que ele se aproximava para olhar, Deus o chamou do meio da s
 
 ## Êxodo 3:6
 
-Então Ele disse: “Eu sou o Deus de seu pai—o Deus de Abraão, o Deus de Isaque e o Deus de Jacó.” Diante disso, Moisés escondeu o rosto, pois teve medo de olhar para Deus.
+Então Ele disse: “Eu sou o Deus de seu pai — o Deus de Abraão, o Deus de Isaque e o Deus de Jacó.” Diante disso, Moisés escondeu o rosto, pois teve medo de olhar para Deus.
 
 ## Êxodo 3:7
 
@@ -30,7 +30,7 @@ O Senhor disse: “Certamente vi a aflição do Meu povo no Egito e ouvi o seu c
 
 ## Êxodo 3:8
 
-Por isso desci para livrá-los do poder dos egípcios e para trazê-los daquela terra para uma terra boa e espaçosa, uma terra que mana leite e mel—a terra dos cananeus, hititas, amorreus, ferezeus, heveus e jebuseus.
+Por isso desci para livrá-los do poder dos egípcios e para trazê-los daquela terra para uma terra boa e espaçosa, uma terra que mana leite e mel — a terra dos cananeus, hititas, amorreus, ferezeus, heveus e jebuseus.
 
 ## Êxodo 3:9
 
@@ -58,15 +58,15 @@ Deus disse a Moisés: “EU SOU O QUE SOU. É isto que você dirá aos israelita
 
 ## Êxodo 3:15
 
-Deus também disse a Moisés: “Diga aos israelitas: ‘O Senhor, o Deus de seus antepassados—o Deus de Abraão, o Deus de Isaque e o Deus de Jacó—me enviou a vocês.’ Este é o Meu nome para sempre, o nome pelo qual serei lembrado de geração em geração.
+Deus também disse a Moisés: “Diga aos israelitas: ‘O Senhor, o Deus de seus antepassados — o Deus de Abraão, o Deus de Isaque e o Deus de Jacó — me enviou a vocês.’ Este é o Meu nome para sempre, o nome pelo qual serei lembrado de geração em geração.
 
 ## Êxodo 3:16
 
-“Vá, reúna os anciãos de Israel e diga-lhes: ‘O Senhor, o Deus de seus antepassados—o Deus de Abraão, Isaque e Jacó—apareceu a mim e disse: Tenho observado vocês e tenho visto o que tem sido feito a vocês no Egito.
+“Vá, reúna os anciãos de Israel e diga-lhes: ‘O Senhor, o Deus de seus antepassados — o Deus de Abraão, Isaque e Jacó — apareceu a mim e disse: Tenho observado vocês e tenho visto o que tem sido feito a vocês no Egito.
 
 ## Êxodo 3:17
 
-E prometi tirar vocês da sua aflição no Egito para a terra dos cananeus, hititas, amorreus, ferezeus, heveus e jebuseus—uma terra que mana leite e mel.’
+E prometi tirar vocês da sua aflição no Egito para a terra dos cananeus, hititas, amorreus, ferezeus, heveus e jebuseus — uma terra que mana leite e mel.’
 
 ## Êxodo 3:18
 

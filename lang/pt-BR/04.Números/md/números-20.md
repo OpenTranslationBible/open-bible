@@ -74,7 +74,7 @@ Mas Edom respondeu: “Não passareis por aqui; se tentares, sairemos contra ti 
 
 ## Números 20:19
 
-Os israelitas disseram a ele: “Iremos pela estrada principal, e se nós ou nosso gado bebermos de tua água, pagaremos por ela. Só queremos passar a pé—nada mais.”
+Os israelitas disseram a ele: “Iremos pela estrada principal, e se nós ou nosso gado bebermos de tua água, pagaremos por ela. Só queremos passar a pé — nada mais.”
 
 ## Números 20:20
 

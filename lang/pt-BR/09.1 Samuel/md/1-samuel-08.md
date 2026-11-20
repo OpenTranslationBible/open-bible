@@ -32,7 +32,7 @@ O Senhor disse a Samuel: “Ouça o povo em tudo o que lhe dizem. Não é a voc�
 
 ## 1 Samuel 8:8
 
-Eles estão agindo com você assim como têm feito Comigo desde o dia em que os tirei do Egito—abandonando-Me e servindo a outros deuses.
+Eles estão agindo com você assim como têm feito Comigo desde o dia em que os tirei do Egito — abandonando-Me e servindo a outros deuses.
 
 ## 1 Samuel 8:9
 
@@ -93,4 +93,4 @@ Quando Samuel ouviu tudo o que o povo disse, ele comunicou ao Senhor.
 ## 1 Samuel 8:22
 
 E o Senhor disse a Samuel: “Ouça-os e nomeie um rei para eles.”  
-Então Samuel disse aos homens de Israel: “Cada um de vocês volte para sua própria cidade.”
+ Então Samuel disse aos homens de Israel: “Cada um de vocês volte para sua própria cidade.”

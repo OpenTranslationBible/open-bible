@@ -36,13 +36,13 @@ Muitos estenderam seus mantos pelo caminho, enquanto outros espalhavam ramos que
 
 Os que iam à frente e os que seguiam gritavam:
 
-> “Hosana!
-> Bendito é aquele que vem em nome do Senhor!”
+>  “Hosana!
+>  Bendito é aquele que vem em nome do Senhor!”
 
 ## Marcos 11:10
 
-> “Bendito é o reino vindouro de Davi!
-> Hosana nas alturas!”
+> “Bendito é o reino vindouro de nosso pai Davi!
+>  Hosana nas alturas!”
 
 ## Marcos 11:11
 

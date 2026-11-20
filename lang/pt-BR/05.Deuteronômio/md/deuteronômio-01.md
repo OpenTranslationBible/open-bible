@@ -136,4 +136,4 @@ Os amorreus que viviam naquelas colinas saíram contra vocês; perseguiram-nos c
 Vocês voltaram e choraram diante do Senhor, mas Ele não prestou atenção ao seu choro e virou-Lhe as costas.
 
 ## Deuteronômio 1:46
-Então vocês permaneceram em Cades muitos dias—todo o tempo que passaram ali.
+Então vocês permaneceram em Cades muitos dias — todo o tempo que passaram ali.

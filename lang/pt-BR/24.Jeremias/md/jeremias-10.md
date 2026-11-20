@@ -86,7 +86,7 @@ Os pastores são insensatos e não buscaram o Senhor; portanto, não prosperam, 
 
 ## Jeremias 10:22
 
-Ouça! Um relatório está chegando— um grande tumulto da terra do norte! Fará as cidades de Judá desoladas, um covil de chacais.
+Ouça! Um relatório está chegando — um grande tumulto da terra do norte! Fará as cidades de Judá desoladas, um covil de chacais.
 
 ## Jeremias 10:23
 

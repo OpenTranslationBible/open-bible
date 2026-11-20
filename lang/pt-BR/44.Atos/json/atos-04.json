@@ -70,9 +70,9 @@
         {
             "verse": 11,
             "text": [
-                "Ele é",
-                "> ‘a pedra que vocês, construtores, rejeitaram,",
-                "> que se tornou a pedra angular.’"
+                "Ele é ‘a pedra que vocês,",
+                ">  construtores, rejeitaram,",
+                ">  que se tornou a pedra angular.’"
             ]
         },
         {
@@ -167,16 +167,14 @@
             "verse": 25,
             "text": [
                 "Tu falaste pelo Espírito Santo pela boca do teu servo, nosso pai Davi:",
-                "> ‘Por que as nações se enfurecem",
-                "> e os povos tramam em vão?"
+                ">  ‘Por que as nações se enfurecem e os povos tramam em vão?"
             ]
         },
         {
             "verse": 26,
             "text": [
-                "> Os reis da terra se levantam e os governantes se reúnem",
-                "> contra o Senhor e",
-                "> contra o seu Ungido.’"
+                "> Os reis da terra se levantam e os governantes se reúnem contra o Senhor e contra o seu Ungido.",
+                "> ’"
             ]
         },
         {

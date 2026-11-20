@@ -73,7 +73,7 @@ Então Eli respondeu: “Vá em paz, e que o Deus de Israel lhe conceda o que vo
 ## 1 Samuel 1:18
 
 Ela disse: “Que tua serva encontre favor aos teus olhos.”  
-Então ela seguiu seu caminho e comeu algo, e seu rosto já não estava abatido.
+ Então ela seguiu seu caminho e comeu algo, e seu rosto já não estava abatido.
 
 ---
 
@@ -96,7 +96,7 @@ Ana não foi. Ela disse a seu marido: “Depois que o menino for desmamado, eu o
 ## 1 Samuel 1:23
 
 Elcana, seu marido, lhe disse: “Faça o que parecer melhor a você. Fique até que o tenha desmamado; somente que o Senhor confirme a Sua palavra.”  
-Assim, ela ficou em casa e amamentou seu filho até que o desmamou.
+ Assim, ela ficou em casa e amamentou seu filho até que o desmamou.
 
 ---
 
@@ -119,4 +119,4 @@ Eu orei por este menino, e o Senhor concedeu o meu pedido.
 ## 1 Samuel 1:28
 
 Agora eu o dedico ao Senhor. Enquanto ele viver, ele será dedicado ao Senhor.”  
-E ele adorou o Senhor ali.
+ E ele adorou o Senhor ali.

@@ -9,7 +9,7 @@ Nos seus últimos anos, Davi nomeou seu filho Salomão como rei sobre Israel.
 ## 1 Crônicas 23:2
 
 E ele reuniu todos os líderes de Israel,  
-incluindo os sacerdotes e os levitas.
+ incluindo os sacerdotes e os levitas.
 
 ---
 
@@ -17,7 +17,7 @@ incluindo os sacerdotes e os levitas.
 
 Os levitas foram contados a partir de trinta anos de idade para cima,
 
-> e seu número por censo de homens era trinta e oito mil.
+>  e seu número por censo de homens era trinta e oito mil.
 
 ---
 
@@ -25,15 +25,14 @@ Os levitas foram contados a partir de trinta anos de idade para cima,
 
 Entre eles, vinte e quatro mil eram para supervisionar o trabalho da casa do Senhor;
 
-> e seis mil serviam como oficiais e juízes,
+>  e seis mil serviam como oficiais e juízes,
 
 ---
 
 ## 1 Crônicas 23:5
 
 > e quatro mil eram porteiros,  
-> e quatro mil eram dedicados a louvar o Senhor com os instrumentos  
-> que Davi fez para o culto.
+>  e quatro mil eram dedicados a louvar o Senhor com os instrumentos que Davi fez para o culto.
 
 ---
 
@@ -41,7 +40,7 @@ Entre eles, vinte e quatro mil eram para supervisionar o trabalho da casa do Sen
 
 Davi os organizou em divisões de acordo com os filhos de Levi:
 
-> Gérson, Coate e Merari.
+>  Gérson, Coate e Merari.
 
 ---
 
@@ -49,7 +48,7 @@ Davi os organizou em divisões de acordo com os filhos de Levi:
 
 Dos descendentes de Gérson:
 
-> Ladã e Simei.
+>  Ladã e Simei.
 
 ---
 
@@ -57,7 +56,7 @@ Dos descendentes de Gérson:
 
 Os filhos de Ladã eram:
 
-> Jeiel o primeiro, depois Zetã e Joel—três.
+>  Jeiel o primeiro, depois Zetã e Joel — três.
 
 ---
 
@@ -65,8 +64,8 @@ Os filhos de Ladã eram:
 
 Os filhos de Simei eram:
 
-> Selomite, Haziel e Harã—três.  
-> Estes eram os chefes das casas paternas de Ladã.
+>  Selomite, Haziel e Harã — três.  
+>  Estes eram os chefes das casas paternas de Ladã.
 
 ---
 
@@ -74,17 +73,17 @@ Os filhos de Simei eram:
 
 Os filhos de Simei incluíam:
 
-> Jaate, Zina, Jeús e Berias.  
-> Estes quatro eram os filhos de Simei.
+>  Jaate, Zina, Jeús e Berias.  
+>  Estes quatro eram os filhos de Simei.
 
 ---
 
 ## 1 Crônicas 23:11
 
 Jaate era o primeiro, e Ziza o segundo;  
-mas Jeús e Berias não tiveram muitos filhos,
+ mas Jeús e Berias não tiveram muitos filhos,
 
-> então foram contados como uma casa paterna.
+>  então foram contados como uma casa paterna.
 
 ---
 
@@ -92,7 +91,7 @@ mas Jeús e Berias não tiveram muitos filhos,
 
 Os filhos de Coate eram:
 
-> Anrão, Izar, Hebrom e Uziel—quatro.
+>  Anrão, Izar, Hebrom e Uziel — quatro.
 
 ---
 
@@ -100,18 +99,18 @@ Os filhos de Coate eram:
 
 Os filhos de Anrão eram:
 
-> Arão e Moisés.  
-> E Arão foi separado para santificá-lo como santíssimo,  
-> ele e seus filhos para sempre,  
-> para oferecer sacrifícios perante o Senhor,  
-> para ministrar a Ele e abençoar em Seu nome para sempre.
+>  Arão e Moisés.  
+>  E Arão foi separado para santificá-lo como santíssimo,  
+>  ele e seus filhos para sempre,  
+>  para oferecer sacrifícios perante o Senhor,  
+>  para ministrar a Ele e abençoar em Seu nome para sempre.
 
 ---
 
 ## 1 Crônicas 23:14
 
 Quanto a Moisés, o homem de Deus,  
-seus filhos foram reconhecidos entre a tribo de Levi.
+ seus filhos foram reconhecidos entre a tribo de Levi.
 
 ---
 
@@ -119,7 +118,7 @@ seus filhos foram reconhecidos entre a tribo de Levi.
 
 Os descendentes de Moisés eram:
 
-> Gérson e Eliezer.
+>  Gérson e Eliezer.
 
 ---
 
@@ -132,9 +131,9 @@ O filho de Gérson era Sebuel, que servia como chefe.
 ## 1 Crônicas 23:17
 
 O filho de Eliezer era Reabias o chefe;  
-e Eliezer não teve outros filhos,
+ e Eliezer não teve outros filhos,
 
-> no entanto, os filhos de Reabias eram numerosos.
+>  no entanto, os filhos de Reabias eram numerosos.
 
 ---
 
@@ -148,7 +147,7 @@ O filho de Izar era Selomite, que era o líder e chefe.
 
 Os filhos de Hebrom eram:
 
-> Jerias o primeiro, Amarias o segundo, Jaaziel o terceiro, e Jecameão o quarto.
+>  Jerias o primeiro, Amarias o segundo, Jaaziel o terceiro, e Jecameão o quarto.
 
 ---
 
@@ -156,7 +155,7 @@ Os filhos de Hebrom eram:
 
 Os filhos de Uziel eram:
 
-> Mica o primeiro e Issias o segundo.
+>  Mica o primeiro e Issias o segundo.
 
 ---
 
@@ -164,10 +163,10 @@ Os filhos de Uziel eram:
 
 Os descendentes de Merari eram:
 
-> Mali e Musi.  
-> Os filhos de Mali eram:
+>  Mali e Musi.  
+>  Os filhos de Mali eram:
 
-> Eleazar e Quis.
+>  Eleazar e Quis.
 
 ---
 
@@ -175,7 +174,7 @@ Os descendentes de Merari eram:
 
 Eleazar morreu e não teve filhos, mas apenas filhas,
 
-> e seus parentes, os filhos de Quis, as tomaram como esposas.
+>  e seus parentes, os filhos de Quis, as tomaram como esposas.
 
 ---
 
@@ -183,18 +182,18 @@ Eleazar morreu e não teve filhos, mas apenas filhas,
 
 Os filhos de Musi eram:
 
-> Mali, Éder e Jeremote—três.
+>  Mali, Éder e Jeremote — três.
 
 ---
 
 ## 1 Crônicas 23:24
 
 Estes eram os filhos de Levi por suas casas paternas,  
-os chefes das casas paternas dos que foram contados,  
-de acordo com o número de nomes por sua contagem individual,
+ os chefes das casas paternas dos que foram contados,  
+ de acordo com o número de nomes por sua contagem individual,
 
-> que realizavam o trabalho para o serviço da casa do Senhor,  
-> a partir de vinte anos de idade para cima.
+>  que realizavam o trabalho para o serviço da casa do Senhor,  
+>  a partir de vinte anos de idade para cima.
 
 ---
 
@@ -202,15 +201,15 @@ de acordo com o número de nomes por sua contagem individual,
 
 Pois Davi declarou,
 
-> “O Senhor Deus de Israel concedeu paz ao Seu povo,  
-> e Ele reside em Jerusalém para sempre.
+>  “O Senhor Deus de Israel concedeu paz ao Seu povo,  
+>  e Ele reside em Jerusalém para sempre.
 
 ---
 
 ## 1 Crônicas 23:26
 
-> Além disso, os levitas não precisarão mais carregar o tabernáculo  
-> e todos os seus utensílios para o seu serviço.”
+> Além disso, os levitas não precisarão mais carregar o tabernáculo e todos os seus utensílios para o seu serviço.  
+> ”
 
 ---
 
@@ -218,7 +217,7 @@ Pois Davi declarou,
 
 De acordo com as instruções finais de Davi,
 
-> os filhos de Levi foram contados a partir de vinte anos de idade para cima.
+>  os filhos de Levi foram contados a partir de vinte anos de idade para cima.
 
 ---
 
@@ -226,18 +225,18 @@ De acordo com as instruções finais de Davi,
 
 O dever deles é ajudar os filhos de Arão com o serviço da casa do Senhor,
 
-> nos pátios e nas salas,  
-> e na purificação de todas as coisas santas,  
-> até mesmo o trabalho do serviço da casa de Deus,
+>  nos pátios e nas salas,  
+>  e na purificação de todas as coisas santas,  
+>  até mesmo o trabalho do serviço da casa de Deus,
 
 ---
 
 ## 1 Crônicas 23:29
 
 > e com os pães da proposição, a farinha fina para uma oferta de cereais,  
-> as bolachas sem fermento,  
-> ou o que é assado na panela ou misturado,  
-> e todas as medidas de volume e tamanho.
+>  as bolachas sem fermento,  
+>  ou o que é assado na panela ou misturado,  
+>  e todas as medidas de volume e tamanho.
 
 ---
 
@@ -245,16 +244,16 @@ O dever deles é ajudar os filhos de Arão com o serviço da casa do Senhor,
 
 Eles devem estar de pé todas as manhãs para dar graças e louvar ao Senhor,
 
-> e da mesma forma à noite,
+>  e da mesma forma à noite,
 
 ---
 
 ## 1 Crônicas 23:31
 
 > e para apresentar todas as ofertas queimadas ao Senhor,  
-> nos sábados, nas luas novas e nas festas designadas,  
-> no número especificado pela ordenança a respeito delas,  
-> continuamente perante o Senhor.
+>  nos sábados, nas luas novas e nas festas designadas,  
+>  no número especificado pela ordenança a respeito delas,  
+>  continuamente perante o Senhor.
 
 ---
 
@@ -262,6 +261,6 @@ Eles devem estar de pé todas as manhãs para dar graças e louvar ao Senhor,
 
 Assim, eles devem realizar os deveres da tenda da congregação,
 
-> os deveres do lugar santo,  
-> e os deveres dos filhos de Arão, seus parentes,  
-> para o serviço da casa do Senhor.
+>  os deveres do lugar santo,  
+>  e os deveres dos filhos de Arão, seus parentes,  
+>  para o serviço da casa do Senhor.

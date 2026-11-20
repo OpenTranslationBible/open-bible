@@ -24,19 +24,19 @@ Pois não é aos anjos que Ele sujeitou o mundo vindouro, sobre o qual estamos f
 
 Mas alguém testemunhou em algum lugar, dizendo,
 
-> “Que é o homem, para que Te lembres dele,
-> ou o filho do homem, para que Te importes com ele?
+>  “Que é o homem, para que Te lembres dele,
+>  ou o filho do homem, para que Te importes com ele?
 
 ## Hebreus 2:7
 
 > Tu o fizeste um pouco menor que os anjos;
-> Tu o coroaste de glória e honra
+>  Tu o coroaste de glória e honra
 
 ## Hebreus 2:8
 
 > e colocaste tudo debaixo de seus pés.”
 
-Ao sujeitar todas as coisas a ele, Ele não deixou nada que não esteja sujeito a ele. No entanto, no presente, não vemos tudo sujeito a ele.
+ Ao sujeitar todas as coisas a ele, Ele não deixou nada que não esteja sujeito a ele. No entanto, no presente, não vemos tudo sujeito a ele.
 
 ## Hebreus 2:9
 
@@ -54,19 +54,19 @@ Pois tanto o que santifica quanto os que são santificados vêm todos de um só 
 
 dizendo,
 
-> “Declararei o Teu nome aos Meus irmãos
-> e irmãs; no meio da assembleia,
-> cantarei Teus louvores.”
+>  “Declararei o Teu nome aos Meus irmãos e irmãs;
+>  no meio da assembleia,
+>  cantarei Teus louvores.”
 
 ## Hebreus 2:13
 
 E ainda,
 
-> “Colocarei Minha confiança Nele.”
+>  “Colocarei Minha confiança Nele.”
 
-E também,
+ E também,
 
-> “Aqui estou Eu, juntamente com os filhos que Deus Me deu.”
+>  “Aqui estou Eu, juntamente com os filhos que Deus Me deu.”
 
 ## Hebreus 2:14
 

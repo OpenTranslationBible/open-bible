@@ -50,7 +50,7 @@ Meu filho, não rejeite a disciplina do Senhor, nem despreze a sua repreensão,
 
 pois o Senhor disciplina aqueles que ama,
 
-> assim como um pai disciplina o filho em quem se deleita.
+>  assim como um pai disciplina o filho em quem se deleita.
 
 ---
 
@@ -124,7 +124,7 @@ Não retenha o bem daqueles que o merecem, quando estiver ao seu alcance ajudar.
 
 Não diga ao seu vizinho: “Vá, e volte,
 
-> e amanhã eu lhe darei”, quando você tem isso com você.
+>  e amanhã eu lhe darei”, quando você tem isso com você.
 
 ## Provérbios 3:29
 

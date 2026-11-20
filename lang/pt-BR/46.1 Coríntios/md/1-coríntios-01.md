@@ -76,8 +76,8 @@ Pois a mensagem da cruz parece loucura para os que estão se perdendo, mas para 
 
 Pois a escritura diz:
 
-> “Destruirei a sabedoria dos sábios,  
-> E aniquilarei a inteligência dos inteligentes.”
+>  “Destruirei a sabedoria dos sábios,  
+>  E aniquilarei a inteligência dos inteligentes.”
 
 ## 1 Coríntios 1:20
 

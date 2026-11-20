@@ -34,7 +34,7 @@ O príncipe estará entre eles, entrando quando eles entrarem e saindo quando el
 Nas festas e festivais designados, a oferta de cereal será de um efa com um novilho, um efa com um carneiro, e com os cordeiros quanto alguém desejar dar, juntamente com um him de azeite para cada efa.
 
 ## Ezequiel 46:12
-Quando o príncipe oferecer uma oferta voluntária ao Senhor—seja um holocausto ou ofertas de comunhão—o portão voltado para o leste será aberto para ele. Ele oferecerá seu holocausto ou suas ofertas de comunhão como faz no dia de sábado. Então ele sairá, e depois que ele sair, o portão será fechado.
+Quando o príncipe oferecer uma oferta voluntária ao Senhor — seja um holocausto ou ofertas de comunhão — o portão voltado para o leste será aberto para ele. Ele oferecerá seu holocausto ou suas ofertas de comunhão como faz no dia de sábado. Então ele sairá, e depois que ele sair, o portão será fechado.
 
 ## Ezequiel 46:13
 Todos os dias você oferecerá um cordeiro de um ano sem defeito como holocausto ao Senhor; manhã após manhã você o oferecerá.

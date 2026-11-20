@@ -118,7 +118,7 @@ Ele disse: ‘Então eu imploro a você, pai, que o envie à casa de meu pai—
 
 ## Lucas 16:28
 
-pois tenho cinco irmãos—para que ele os avise, para que não venham também para este lugar de tormento.’
+pois tenho cinco irmãos — para que ele os avise, para que não venham também para este lugar de tormento.’
 
 ## Lucas 16:29
 

@@ -46,7 +46,7 @@ Assim diz o Senhor a respeito de todos os meus vizinhos perversos que prejudicam
 Contudo, depois de tê-los arrancado, novamente terei compaixão e trarei cada um deles de volta à sua própria herança e à sua própria terra.
 
 ## Jeremias 12:16
-E se eles verdadeiramente aprenderem os caminhos do meu povo e jurarem pelo meu nome, ‘Assim como vive o Senhor’—assim como uma vez ensinaram meu povo a jurar por Baal—então serão estabelecidos entre meu povo.
+E se eles verdadeiramente aprenderem os caminhos do meu povo e jurarem pelo meu nome, ‘Assim como vive o Senhor’ — assim como uma vez ensinaram meu povo a jurar por Baal — então serão estabelecidos entre meu povo.
 
 ## Jeremias 12:17
 Mas se não ouvirem, arrancarei completamente e trarei um fim a essa nação,” declara o Senhor.

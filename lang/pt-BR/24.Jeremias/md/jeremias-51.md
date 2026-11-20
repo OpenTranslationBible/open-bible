@@ -2,389 +2,367 @@
 
 ## Jeremias 51:1
 
-“Esta é a mensagem do Senhor sobre Babilônia, a respeito da terra dos babilônios, por Jeremias, o profeta:
+Assim diz o Senhor: “Eis que levantarei contra Babilônia e contra o povo de Lebe-Camai o espírito de um destruidor.
 
 ## Jeremias 51:2
 
-“‘Declarem e proclamem entre as nações, levantem um estandarte; proclamem e não ocultem, digam: “Babilônia foi capturada, Bel foi envergonhado, Marduque foi despedaçado; suas imagens foram envergonhadas, seus ídolos foram despedaçados.”
+Enviarei estrangeiros a Babilônia para peneirá-la e esvaziar a sua terra; pois eles virão contra ela de todos os lados no dia da sua desgraça.
 
 ## Jeremias 51:3
 
-Pois uma nação do norte veio contra ela; tornará sua terra uma desolação, uma horda orgulhosa; seus habitantes serão expulsos, tanto homens quanto animais.
+Que o arqueiro não arme o seu arco nem vista a sua armadura. Não poupem os jovens dela; destruam completamente todo o seu exército!
 
 ## Jeremias 51:4
 
-“‘Naqueles dias e naquele tempo’, declara o Senhor, ‘os sons de asas farfalhando serão ouvidos na terra dos babilônios, pois estou trazendo destruição sobre eles desde a terra do norte.
+Eles cairão mortos na terra dos caldeus, traspassados nas ruas dela.
 
 ## Jeremias 51:5
 
-“Para Babilônia, o habitante, para a terra dos caldeus, cuja antiga glória pereceu—  
-Falem, e digam: “Os jovens são abatidos nas ruas, e suas vestes são deixadas em vergonha.
+Pois Israel e Judá não foram abandonados pelo seu Deus, o Senhor dos Exércitos,  
+ ainda que a terra deles esteja cheia de culpa diante do Santo de Israel.”
 
 ## Jeremias 51:6
 
-“‘Preparem-se para a guerra contra ela!  
-Que todos que manejam o arado voltem e passem em armadura completa.
+Fujam de Babilônia! Salvem a sua vida!  
+ Não sejam destruídos no castigo dela. Pois este é o tempo da vingança do Senhor; Ele lhe dará o que ela merece.
 
 ## Jeremias 51:7
 
-“‘Por que vestir as melhores vestes, buscando ser distinto?  
-Vocês que manejam o arco, coloquem seus capacetes!  
-Não poupem a espada; não retenham flechas!  
-Uma nação está vindo do norte,  
-E um grande rei se levantará das partes remotas da terra.
+Babilônia era um cálice de ouro na mão do Senhor,  
+ que embriagava a terra inteira.  
+ As nações beberam do seu vinho;  
+ por isso as nações enlouqueceram.
 
 ## Jeremias 51:8
 
-Ele armou as tendas de seu comando,  
-Cobriu seus lugares de reunião,  
-Ele subiu contra ela, e seus jovens caíram nas ruas dela.
+De repente Babilônia caiu e foi despedaçada.  
+ Lamentem por ela;  
+ tragam bálsamo para a sua dor; talvez ela possa ser curada.
 
 ## Jeremias 51:9
 
-“‘Ó arco dos poderosos será quebrado, e aqueles que fogem caminharão feridos;  
-Pois o Senhor “um julgamento planejou contra Babilônia,  
-Para destruir a terra dos caldeus;  
-E a terra se tornará um objeto de desolação, sem habitante.”
+“Tentamos curar Babilônia, mas ela não pôde ser curada.  
+ Abandonem-na! Vamos embora, cada um para a sua terra,  
+ pois o julgamento dela chega até o céu e se eleva até as nuvens.  
+”
 
 ## Jeremias 51:10
 
-Ó vocês que habitam junto a muitas águas, abundantes em tesouros, seu fim chegou,  
-A medida de sua destruição.
+“O Senhor trouxe à luz a nossa justiça; venham, vamos contar em Sião o que o Senhor nosso Deus realizou.  
+”
 
 ## Jeremias 51:11
 
-“‘O Senhor dos exércitos jurou por Si mesmo:  
-“Certamente, eu os encherei de homens como gafanhotos,  
-E com tal multidão de pessoas que o barulho deles os surpreenderá.
+Afiem as flechas! Encham as aljavas!  
+ O Senhor despertou o espírito dos reis dos medos, porque o Seu plano é contra Babilônia,  
+ para destruí-la; pois esta é a vingança do Senhor, a vingança pelo Seu templo.
 
 ## Jeremias 51:12
 
-Vocês comerão, ficarão satisfeitos, e louvarão o Senhor seu Deus,  
-Porque Ele lhes deu o desejo do coração.”  
-Ele amplia seu domínio,  
-E lhes dá liberdade para a glória do seu nome.
+Levantem um estandarte contra as muralhas de Babilônia; reforcem a guarda;  
+ ponham as sentinelas; preparem a emboscada.  
+ Pois o Senhor planejou e também realizou o que falou contra o povo de Babilônia.
 
 ## Jeremias 51:13
 
-“‘Pois o Senhor diz,  
-“Eis que defenderei sua causa  
-E tomarei vingança por vocês.  
-Secarei seu mar e tornarei suas fontes secas.
+Você que habita junto a muitas águas,  
+ rica em tesouros,  
+ o seu fim chegou;  
+ o fio da sua vida foi cortado.
 
 ## Jeremias 51:14
 
-“‘E Babilônia se tornará um monte de ruínas, um lugar de habitação para chacais, uma desolação.
+O Senhor dos Exércitos jurou por Si mesmo: “Certamente encherei você de homens, como de gafanhotos, e eles gritarão em triunfo sobre você.”
 
 ## Jeremias 51:15
 
-Como vilas que não são habitadas, uma terra seca e deserto.
+Ele é aquele que, por seu poder, fez a terra. Ele estabeleceu o mundo com sua sabedoria, e por seu entendimento estendeu os céus.
 
 ## Jeremias 51:16
 
-“‘Expulsarei dela aqueles que se alegram em sua força,  
-E seus povos serão sobrecarregados com insensatez;  
-Seus oficiais e seus sábios se tornarão tolos.
+Quando ele fala, há um tumulto de águas nos céus,  
+ e ele faz as nuvens subirem dos confins da terra.  
+ Ele envia relâmpagos com a chuva e traz o vento de seus depósitos.
 
 ## Jeremias 51:17
 
-Então colocarei estrangeiros sobre ela,  
-E os ímpios estarão em seu meio;  
-Trarei seu mal ao fim,  
-E o som de suas canções não será mais ouvido.
+Toda pessoa é insensata, desprovida de conhecimento;  
+ todo ourives é envergonhado por seus ídolos,  
+ pois suas imagens são uma fraude,  
+ e não há fôlego nelas.
 
 ## Jeremias 51:18
 
-Farei de Babilônia uma possessão para o ouriço,  
-E poças de água,  
-Varrei-a com a vassoura da destruição,’  
-Diz o Senhor dos exércitos.
+Eles são inúteis,  
+ objetos de zombaria;  
+ no tempo de seu castigo,  
+ perecerão.
 
 ## Jeremias 51:19
 
-“‘O mar subiu sobre Babilônia;  
-Ela foi coberta com suas ondas rugidoras.
+A Porção de Jacó não é como estes; pois ele é o Criador de todas as coisas,  
+ inclusive da tribo de sua herança; Senhor dos Exércitos é seu nome.
 
 ## Jeremias 51:20
 
-“‘“Saiam do meio dela, Meu povo!  
-E cada um salve sua vida da ira feroz do Senhor.
+“Você é a minha clava de guerra,  
+ a minha arma de batalha. Com você despedaço nações; com você arruíno reinos.
 
 ## Jeremias 51:21
 
-“‘Levantem um estandarte nas muralhas de Babilônia!  
-Reforcem a guarda,  
-Coloquem a sentinela,  
-Enviem os embaixadores,  
-Não parem!  
-Avancem os cavalos,  
-Montem os corcéis!  
-Reúnam os poderosos!
+Com você despedaço o cavalo e o cavaleiro;  
+ com você despedaço o carro e o condutor.
 
 ## Jeremias 51:22
 
-“‘Enviem os arqueiros!  
-Apressai-vos e coloquem-se contra ela ao redor;  
-Não deixem ninguém escapar!  
-Recompensem-na de acordo com suas obras;  
-Façam a ela exatamente como ela fez.
+Com você despedaço o homem e a mulher;  
+ com você despedaço o velho e o menino;  
+ com você despedaço o jovem e a moça.
 
 ## Jeremias 51:23
 
-“‘Cortem o fôlego de seu braço estendido;  
-Que o Senhor devolva sua iniquidade a ela.
+Com você despedaço o pastor e o seu rebanho; com você despedaço o lavrador e os seus bois;  
+ com você despedaço os governadores e os oficiais.
 
 ## Jeremias 51:24
 
-“‘Espalharei seus filhos e filhas  
-Para os povos de todos os quadrantes;  
-Darei a Babilônia  
-Uma praga do coração, de dores e de lamentações.
+Diante dos seus próprios olhos,  
+ retribuirei a Babilônia e a todos os habitantes da Caldeia todo o mal que fizeram em Sião,  
+”  
+ declara o Senhor.
 
 ## Jeremias 51:25
 
-“‘Estou contra você, ó monte destruidor,  
-Que destrói toda a terra,” diz o Senhor;  
-“E estenderei Minha mão contra você,  
-E rolarei você dos penhascos,  
-E farei de você um monte queimado.
+“Eis que estou contra você, ó monte destruidor,  
+ que devasta a terra inteira, declara o Senhor.  
+ Estenderei a minha mão contra você;  
+ farei você rolar dos penhascos e farei de você um monte queimado.
 
 ## Jeremias 51:26
 
-Então nenhuma pedra será tirada  
-De você para um memorial,  
-Nem você será levantada novamente,  
-Pois farei de Babilônia uma desolação para sempre.”
+Ninguém tirará de você uma pedra angular nem uma pedra de alicerce,  
+ porque você ficará desolado para sempre,  
+”  
+ declara o Senhor.
 
 ## Jeremias 51:27
 
 “Levantem um estandarte na terra!  
-Soem a trombeta entre os povos!  
-Preparem as nações para a batalha contra ela!  
-Convoquem contra ela os reinos, os arameus, os gebalitas,  
-Os amonitas, e os moabitas, contra ela,  
-O povo de whobbeth e Tamuz,  
-Contra ela, as nações de toda a face da terra.
+ Toquem o chifre de carneiro entre as nações!  
+ Preparem as nações contra ela.  
+ Convoquem contra ela os reinos de Ararate,  
+ Mini e Asquenaz.  
+ Nomeiem um comandante contra ela;  
+ façam subir cavalos como enxames de gafanhotos.
 
 ## Jeremias 51:28
 
-“‘Sim, reúnam contra ela os reinos de Ararate, Mini e Asquenaz;  
-Nomeiem arqueiros contra ela;  
-Dêem a ordem para destruí-la!  
-Enviem os cavalos, coloquem-nos em movimento!  
-Subam, guerreiros, e envolvam-se com sua vergonha!
+Preparem as nações para a batalha contra ela:  
+ os reis dos medos,  
+ os seus governadores e todos os seus oficiais,  
+ e todas as terras que eles dominam.
 
 ## Jeremias 51:29
 
-“‘O Senhor levantou o espírito dos reis dos medos;  
-De uma terra distante eles vieram, e eu os farei mover contra ela;  
-Ninguém considerará a prata, nem se deleitará no ouro.
+A terra treme e se contorce,  
+ porque os planos do Senhor contra Babilônia permanecem:  
+ fazer da terra de Babilônia uma desolação, sem habitantes.
 
 ## Jeremias 51:30
 
-Seus arcos abaterão os jovens;  
-Eles não terão misericórdia do fruto do ventre;  
-Seus olhos não terão piedade das crianças.
+Os guerreiros de Babilônia pararam de lutar;  
+ ficam sentados em suas fortalezas. As suas forças se esgotaram; eles se tornaram como mulheres.  
+ As casas de Babilônia foram incendiadas, as trancas dos seus portões foram quebradas.
 
 ## Jeremias 51:31
 
-“‘E Babilônia se tornará um monte na terra desolada,  
-Uma presa e um dilema para as nações.
+Um mensageiro corre ao encontro de outro, e um arauto vem atrás de outro arauto,  
+ para anunciar ao rei de Babilônia que a sua cidade foi tomada de ponta a ponta.
 
 ## Jeremias 51:32
 
-O mar subiu sobre Babilônia;  
-Ela está coberta com suas ondas rugidoras.
+Os vaus foram tomados,  
+ os pântanos foram incendiados, e os soldados estão aterrorizados.”
 
 ## Jeremias 51:33
 
-“‘Suas cidades se tornaram uma desolação,  
-Uma terra seca e deserto, uma terra na qual ninguém habita,  
-Nem qualquer ser humano passa por ela.
+Pois assim diz o Senhor dos Exércitos, o Deus de Israel:  
+ “A Filha Babilônia é como uma eira no tempo em que é pisada.  
+ Daqui a pouco chegará o tempo da sua colheita.”
 
 ## Jeremias 51:34
 
-“‘E punirei Bel em Babilônia,  
-E trarei à tona a imagem esculpida de Marduque, e os sacerdotes idólatras,  
-Junto com aqueles que os adoram ao mesmo tempo,  
-Para que se tornem tolice e uma presa capturada.
+“Nabucodonosor, rei de Babilônia,  
+ me devorou; ele me esmagou. Ele me pôs de lado como um vaso vazio;  
+ me engoliu como um monstro;  
+ encheu a barriga com as minhas iguarias e depois me vomitou.
 
 ## Jeremias 51:35
 
-“‘Ó vocês que habitam junto a muitas águas, abundantes em tesouros,  
-Seu fim chegou, a medida de sua destruição.
+Que a violência feita a mim e à minha carne caia sobre Babilônia,” diz o morador de Sião.  
+ “Que o meu sangue caia sobre os habitantes da Caldeia,” diz Jerusalém.
 
 ## Jeremias 51:36
 
-“‘O Senhor falou:  
-“Certamente, eu os encherei de homens  
-Como gafanhotos, e eles levantarão um grito de batalha  
-Contra vocês.
+Portanto, assim diz o Senhor:  
+ “Eis que defenderei a sua causa e tomarei vingança por você;  
+ secarei o mar dela e esgotarei as fontes dela.
 
 ## Jeremias 51:37
 
-“‘Eles levantarão um grito contra vocês,  
-Como quem levanta um grito de batalha ameaçador nas montanhas;  
-Porque o Senhor os tomou  
-E os perturbou com o som de sua flecha.
+Babilônia se tornará um monte de ruínas,  
+ um covil de chacais,  
+ objeto de horror e de zombaria,  
+ sem habitantes.
 
 ## Jeremias 51:38
 
-“‘Mas seus jovens cairão nas ruas dela,  
-E todos os seus guerreiros serão destruídos naquele dia,’  
-Declara o Senhor.
+Eles rugirão juntos como leões novos;  
+ rosnarão como filhotes de leão.
 
 ## Jeremias 51:39
 
-“‘Eis que estou contra você, ó arrogante,’  
-Declara o Senhor Deus dos exércitos,  
-“Pois seu dia chegou, o tempo em que o punirei.
+Enquanto estiverem acalorados, eu lhes servirei um banquete e os embriagarei,  
+ para que se divirtam;  
+ então dormirão para sempre e nunca mais acordarão, declara o Senhor.
 
 ## Jeremias 51:40
 
-O arrogante tropeçará e cairá  
-Sem que ninguém o levante,  
-E colocarei fogo em suas cidades,  
-E elas serão queimadas.
+Eu os levarei para baixo como cordeiros ao matadouro,  
+ como carneiros e bodes.
 
 ## Jeremias 51:41
 
-“‘“Trarei vingança;  
-Não mostrarei misericórdia;  
-E seus próprios olhos terão um olhar satânico na execução.’”
+Como Sesaque foi tomada!  
+ O orgulho de toda a terra foi capturado.  
+ Como Babilônia se tornou um horror entre as nações!
 
 ## Jeremias 51:42
 
-“‘Preparem-se contra Babilônia de todos os lados,  
-Todos que dobram o arco, atirem nela;  
-Não poupem suas flechas!  
-Pois ela pecou contra o Senhor.
+O mar subiu sobre Babilônia;  
+ ela está coberta por ondas agitadas.
 
 ## Jeremias 51:43
 
-“‘Eis que o Senhor traz sobre ela aqueles que se levantam como o vento do norte;  
-E eles a expulsarão como a tempestade.
+Suas cidades se tornaram uma desolação, uma terra seca e árida, uma terra onde ninguém mora,  
+ por onde nenhum ser humano passa.
 
 ## Jeremias 51:44
 
-Portões altos e barras de bronze serão esmagados!  
-O rei e os príncipes se sentarão ali em vergonha;  
-Eles se fecharão e subirão os muros,  
-Mas acenderei um fogo em seus queixos,  
-E ele os consumirá.”
+Punirei Bel em Babilônia.  
+ Farei com que ele vomite o que engoliu.  
+ As nações não correrão mais até ele;  
+ até a muralha de Babilônia cairá.
 
 ## Jeremias 51:45
 
-“‘“Saiam do meio dela, Meu povo!  
-Que cada um salve sua vida da ira feroz do Senhor.
+Saiam do meio dela, meu povo!  
+ Salvem a vida, cada um de vocês, da ira feroz do Senhor.
 
 ## Jeremias 51:46
 
-“‘Inclinem seus ouvidos e venham a mim;  
-Ouçam, e sua vida será preservada.
+Não deixem que o coração de vocês desanime, nem tenham medo quando o boato for ouvido na terra; pois um boato virá num ano,  
+ e outro no ano seguinte, falando de violência na terra e de governante contra governante.
 
 ## Jeremias 51:47
 
-Eis que estou para levantar e trazer contra Babilônia  
-Uma assembleia de grandes nações da terra do norte—
+Portanto, eis que vêm os dias em que punirei os ídolos de Babilônia.  
+ Toda a terra dela será envergonhada, e todos os seus mortos ficarão caídos no meio dela.
 
 ## Jeremias 51:48
 
-Elas acamparão contra ela;  
-Terão muro e rampa, e atirarão nela com flechas do chão.
+Então os céus e a terra, e tudo o que neles há,  
+ gritarão de alegria sobre Babilônia, porque os destruidores virão do norte contra ela,” declara o Senhor.
 
 ## Jeremias 51:49
 
-Elas levantarão uma rampa de cerco,  
-Construirão um muro,  
-Entrarão por seus portões,  
-Como homens invadindo uma cidade.
+“Babilônia tem de cair por causa dos mortos de Israel,  
+ assim como os mortos de toda a terra caíram por causa de Babilônia.
 
 ## Jeremias 51:50
 
-Mas elas serão capturadas, sua flecha não será recuada,  
-E a corda do arco será quebrada,  
-Pois o Senhor é um Deus de retribuição;  
-Ele retribuirá em cheio.
+Vocês que escaparam da espada, partam e não se demorem!  
+ Lembrem-se do Senhor,  
+ lá de longe,  
+ e tragam Jerusalém à memória.”
 
 ## Jeremias 51:51
 
-“‘Eis que estou levantando contra eles  
-Os medos, que não têm consideração pela prata;  
-Quanto ao ouro, eles não se deleitam nele.
+“Estamos envergonhados, porque ouvimos insultos;  
+ a humilhação cobriu o nosso rosto,  
+ porque estrangeiros entraram nos lugares santos da casa do Senhor.”
 
 ## Jeremias 51:52
 
-Seus arcos abaterão os jovens;  
-Eles não terão misericórdia do fruto do ventre;  
-Seus olhos não terão piedade das crianças.
+“Portanto, eis que vêm os dias,  
+” declara o Senhor, “em que punirei os ídolos dela,  
+ e em toda a sua terra os feridos gemerão.
 
 ## Jeremias 51:53
 
-“‘E Babilônia se tornará um monte no deserto,  
-Uma terra seca e um deserto,  
-Uma terra na qual nenhum homem vive ou passa por ela.
+Ainda que Babilônia suba até os céus e fortifique a sua alta fortaleza,  
+ os destruidores que eu enviar virão contra ela,  
+” declara o Senhor.
 
 ## Jeremias 51:54
 
-“‘Pagarei retribuição a Babilônia e a todos os habitantes da Caldeia  
-Por todo o mal que fizeram em Sião à sua vista,’  
-Declara o Senhor.
+“Ouve-se um grito vindo de Babilônia,  
+ o som de grande destruição vindo da terra dos caldeus!
 
 ## Jeremias 51:55
 
-Vocês que escaparam da espada dos caldeus,  
-Zarparão para habitá-los,  
-E enterrarão na terra sua veste,  
-Escondam-na da face do opressor.
+Pois o Senhor destruirá Babilônia;  
+ Ele fará calar a sua voz poderosa.  
+ As ondas rugirão como grandes águas;  
+ o tumulto das suas vozes ressoará.
 
 ## Jeremias 51:56
 
-Pois o Senhor designou um dia  
-De vingança—Ele tem indignação sobre Babilônia;  
-E o poder de seus mortos cairá no meio dela.
+Pois um destruidor vem contra ela, contra Babilônia.  
+ Os seus guerreiros serão capturados, e os seus arcos serão quebrados,  
+ pois o Senhor é um Deus de retribuição; Ele retribuirá por completo.
 
 ## Jeremias 51:57
 
-E toda a terra tremerá ao som de sua queda,  
-Ao som de um grito, ao som de um rugido;  
-“Pois sua voz soou como o mar;  
-Pois ela falou como o dragão,  
-Gritando contra Sião,  
-Lançando ameaças, levantando ferozmente sua voz.
+Embriagarei os seus príncipes e os seus sábios,  
+ junto com os seus governadores,  
+ oficiais e guerreiros.  
+ Então dormirão para sempre e não acordarão,  
+”  
+ declara o Rei, cujo nome é o Senhor dos Exércitos.
 
 ## Jeremias 51:58
 
-Portanto, os mortos do Senhor cairão naquele dia  
-De uma extremidade da terra até a outra;  
-Eles não serão lamentados,  
-Nem recolhidos, Nem enterrados;  
-Serão esterco sobre a terra.
+Assim diz o Senhor dos Exércitos: “As grossas muralhas de Babilônia serão arrasadas,  
+ e os seus altos portões serão consumidos pelo fogo.  
+ Assim o trabalho dos povos será em vão;  
+ as nações se esgotarão para alimentar as chamas.  
+”
 
 ## Jeremias 51:59
 
-“Além disso, a palavra que Jeremias, o profeta, ordenou a Seraías, filho de Nerias, filho de Maaseias, quando ele foi com Zedequias, rei de Judá, a Babilônia no quarto ano de seu reinado foi:
+Esta é a mensagem que Jeremias, o profeta, deu ao intendente Seraías, filho de Nerias, filho de Maaseias, quando ele foi a Babilônia com Zedequias, rei de Judá, no quarto ano do reinado de Zedequias.
 
 ## Jeremias 51:60
 
-Pois assim disse o Senhor a Jeremias: ‘Tome um grande rolo e escreva nele todas as palavras que falei contra Babilônia e contra todas as nações, desde o dia em que primeiro falei sobre elas, até este dia.’
+Jeremias tinha escrito num único rolo toda a desgraça que viria sobre Babilônia, todas estas palavras que haviam sido escritas a respeito de Babilônia.
 
 ## Jeremias 51:61
 
-Além disso, amarre uma pedra nele e jogue-o no rio Eufrates,
+E Jeremias disse a Seraías: “Quando você chegar a Babilônia, trate de ler em voz alta todas estas palavras,
 
 ## Jeremias 51:62
 
-e diga: “Assim Babilônia afundará e não se levantará novamente, por causa do desastre que estou trazendo sobre ela.  
-E se perguntarem a você: ‘Por que você fez isso?’ então você dirá a eles: ‘Porque o Senhor falou e prometeu fazer essas coisas.’
+e diga: ‘Ó Senhor, tu prometeste eliminar este lugar, de modo que ninguém fique nele,  
+ nem homem nem animal. Sim, ele ficará desolado para sempre.’
 
 ## Jeremias 51:63
 
-“E quando terminar de ler este rolo, amarre uma pedra nele e jogue-o no rio Eufrates,
+E quando terminar de ler este rolo, amarre uma pedra nele e jogue-o no rio Eufrates,
 
 ## Jeremias 51:64
 
-e diga: ‘Assim Babilônia afundará e não se levantará novamente  
-Por causa do desastre que estou trazendo sobre ela,’”
+e diga: ‘Assim Babilônia afundará e não se levantará mais, por causa da desgraça que trarei sobre ela.  
+ E o seu povo ficará exausto.’”
 
-Declara o Senhor.
+ Aqui terminam as palavras de Jeremias.

@@ -82,7 +82,7 @@ Então o Senhor disse a Moisés: “Estenda a mão sobre o mar para que as água
 Então Moisés estendeu a mão sobre o mar, e ao amanhecer o mar voltou ao seu lugar. Os egípcios estavam fugindo em direção a ele, e o Senhor os varreu para dentro do mar.
 
 ## Êxodo 14:28
-As águas voltaram e cobriram os carros e cavaleiros—todo o exército de Faraó que havia seguido os israelitas no mar. Nenhum deles sobreviveu.
+As águas voltaram e cobriram os carros e cavaleiros — todo o exército de Faraó que havia seguido os israelitas no mar. Nenhum deles sobreviveu.
 
 ## Êxodo 14:29
 Mas os israelitas atravessaram o mar em terra seca, com uma parede de água à direita e à esquerda.

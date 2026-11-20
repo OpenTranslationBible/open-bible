@@ -30,7 +30,7 @@ E não apenas com a vinda dele, mas também com o encorajamento que ele recebeu 
 
 ## 2 Coríntios 7:8
 
-Pois, embora eu tenha causado tristeza a vocês com minha carta, não me arrependo; embora tenha me arrependido—porque vejo que a carta causou tristeza a vocês, embora apenas por um tempo—
+Pois, embora eu tenha causado tristeza a vocês com minha carta, não me arrependo; embora tenha me arrependido — porque vejo que a carta causou tristeza a vocês, embora apenas por um tempo—
 
 ## 2 Coríntios 7:9
 
@@ -42,7 +42,7 @@ Pois a tristeza que se alinha com a vontade de Deus traz um arrependimento que l
 
 ## 2 Coríntios 7:11
 
-Pois vejam quanta seriedade esta mesma coisa—esta tristeza segundo Deus—produziu em vocês: que vindicação de vocês mesmos, que indignação, que temor, que anseio, que zelo, que correção do erro! Em tudo vocês demonstraram ser inocentes nesta questão.
+Pois vejam quanta seriedade esta mesma coisa — esta tristeza segundo Deus — produziu em vocês: que vindicação de vocês mesmos, que indignação, que temor, que anseio, que zelo, que correção do erro! Em tudo vocês demonstraram ser inocentes nesta questão.
 
 ## 2 Coríntios 7:12
 

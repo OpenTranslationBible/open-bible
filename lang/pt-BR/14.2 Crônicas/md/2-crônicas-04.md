@@ -4,9 +4,9 @@
 
 Ele construiu um altar de bronze,
 
-> vinte côvados de comprimento,  
-> vinte côvados de largura,  
-> e dez côvados de altura.
+>  vinte côvados de comprimento,  
+>  vinte côvados de largura,  
+>  e dez côvados de altura.
 
 ---
 
@@ -14,8 +14,8 @@ Ele construiu um altar de bronze,
 
 Ele também fez o Mar de metal fundido, dez côvados de borda a borda, circular em forma,
 
-> e sua altura era de cinco côvados,  
-> e tinha trinta côvados de circunferência.
+>  e sua altura era de cinco côvados,  
+>  e tinha trinta côvados de circunferência.
 
 ---
 
@@ -23,8 +23,8 @@ Ele também fez o Mar de metal fundido, dez côvados de borda a borda, circular 
 
 Debaixo dele havia algo como figuras de bois ao seu redor,
 
-> dez por côvado, cercando completamente o Mar;  
-> os bois foram fundidos em duas filas quando foi fundido.
+>  dez por côvado, cercando completamente o Mar;  
+>  os bois foram fundidos em duas filas quando foi fundido.
 
 ---
 
@@ -32,9 +32,9 @@ Debaixo dele havia algo como figuras de bois ao seu redor,
 
 Ele estava sobre doze bois:
 
-> três voltados para o norte, três voltados para o oeste, três voltados para o sul, e três voltados para o leste;  
-> e o Mar estava colocado sobre eles,  
-> e todas as suas partes traseiras voltadas para dentro.
+>  três voltados para o norte, três voltados para o oeste, três voltados para o sul, e três voltados para o leste;  
+>  e o Mar estava colocado sobre eles,  
+>  e todas as suas partes traseiras voltadas para dentro.
 
 ---
 
@@ -42,8 +42,8 @@ Ele estava sobre doze bois:
 
 Era tão espesso quanto a largura de uma mão,
 
-> e sua borda era trabalhada como a borda de um copo, semelhante a uma flor de lírio;  
-> podia conter três mil batos.
+>  e sua borda era trabalhada como a borda de um copo, semelhante a uma flor de lírio;  
+>  podia conter três mil batos.
 
 ---
 
@@ -51,9 +51,9 @@ Era tão espesso quanto a largura de uma mão,
 
 Ele também fez dez bacias para lavar,
 
-> e colocou cinco no lado direito e cinco no lado esquerdo,  
-> para enxaguar as coisas para a oferta queimada;  
-> mas o Mar era para os sacerdotes se lavarem.
+>  e colocou cinco no lado direito e cinco no lado esquerdo,  
+>  para enxaguar as coisas para a oferta queimada;  
+>  mas o Mar era para os sacerdotes se lavarem.
 
 ---
 
@@ -61,16 +61,16 @@ Ele também fez dez bacias para lavar,
 
 Então ele fez os dez candelabros de ouro de acordo com suas especificações,
 
-> e os colocou no templo: cinco no lado direito e cinco no lado esquerdo.
+>  e os colocou no templo: cinco no lado direito e cinco no lado esquerdo.
 
 ---
 
 ## 2 Crônicas 4:8
 
-Ele confeccionou dez mesas
+Ele confeccionou dez mesas e as posicionou no templo:
 
-> e as posicionou no templo: cinco no lado direito e cinco no lado esquerdo.  
-> Além disso, ele fez cem tigelas de ouro.
+>  cinco no lado direito e cinco no lado esquerdo.  
+>  Além disso, ele fez cem tigelas de ouro.
 
 ---
 
@@ -78,7 +78,7 @@ Ele confeccionou dez mesas
 
 Então ele fez o pátio dos sacerdotes, e o grande pátio e portas para o pátio,
 
-> e revestiu suas portas com bronze.
+>  e revestiu suas portas com bronze.
 
 ---
 
@@ -92,22 +92,21 @@ Ele posicionou o Mar no lado direito da casa, em direção ao sudeste.
 
 Hurão também fez os baldes, as pás e as tigelas.
 
-> Assim, Hurão completou o trabalho que empreendeu para o rei Salomão na casa de Deus:
+>  Assim, Hurão completou o trabalho que empreendeu para o rei Salomão na casa de Deus:
 
 ---
 
 ## 2 Crônicas 4:12
 
 > os dois pilares,  
-> as tigelas e os dois capitéis no topo dos pilares,  
-> e as duas treliças para cobrir as duas tigelas dos capitéis que estavam no topo dos pilares,
+>  as tigelas e os dois capitéis no topo dos pilares,  
+>  e as duas treliças para cobrir as duas tigelas dos capitéis que estavam no topo dos pilares,
 
 ---
 
 ## 2 Crônicas 4:13
 
-> e as quatrocentas romãs para as duas treliças—  
-> duas fileiras de romãs para cada treliça para cobrir as duas tigelas dos capitéis no topo dos pilares.
+> e as quatrocentas romãs para as duas treliças — duas fileiras de romãs para cada treliça para cobrir as duas tigelas dos capitéis no topo dos pilares.
 
 ---
 
@@ -125,8 +124,8 @@ Ele também confeccionou os suportes e as bacias que foram colocadas sobre eles,
 
 ## 2 Crônicas 4:16
 
-> Os baldes, as pás, os garfos, e todos os seus utensílios foram feitos por Hurão-Abi de bronze polido  
-> para o rei Salomão para a casa do Senhor.
+> Os baldes, as pás, os garfos,  
+>  e todos os seus utensílios foram feitos por Hurão-Abi de bronze polido para o rei Salomão para a casa do Senhor.
 
 ---
 
@@ -134,7 +133,7 @@ Ele também confeccionou os suportes e as bacias que foram colocadas sobre eles,
 
 O rei os fundiu no solo de argila na planície do Jordão,
 
-> entre Sucote e Zereda.
+>  entre Sucote e Zereda.
 
 ---
 
@@ -142,7 +141,7 @@ O rei os fundiu no solo de argila na planície do Jordão,
 
 Assim, Salomão produziu todos esses utensílios em grandes quantidades,
 
-> pois o peso do bronze não pôde ser determinado.
+>  pois o peso do bronze não pôde ser determinado.
 
 ---
 
@@ -150,14 +149,14 @@ Assim, Salomão produziu todos esses utensílios em grandes quantidades,
 
 Salomão também confeccionou todos os itens que estavam na casa de Deus:
 
-> o altar de ouro, as mesas com o pão da Presença sobre elas,
+>  o altar de ouro, as mesas com o pão da Presença sobre elas,
 
 ---
 
 ## 2 Crônicas 4:20
 
 > os candelabros com suas lâmpadas de ouro puro,  
-> para queimarem em frente ao santuário interno de acordo com a ordenança;
+>  para queimarem em frente ao santuário interno de acordo com a ordenança;
 
 ---
 
@@ -170,4 +169,4 @@ Salomão também confeccionou todos os itens que estavam na casa de Deus:
 ## 2 Crônicas 4:22
 
 > e os apagadores, as tigelas, as colheres, e os incensários de ouro puro;  
-> e a entrada da casa, suas portas internas para o Lugar Santíssimo, e as portas da casa, isto é, da sala principal, feitas de ouro.
+>  e a entrada da casa, suas portas internas para o Lugar Santíssimo, e as portas da casa, isto é, da sala principal, feitas de ouro.

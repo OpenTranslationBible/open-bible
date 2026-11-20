@@ -70,7 +70,7 @@ Então o Senhor designou juízes que os resgataram das mãos dos que os pilhavam
 
 ## Juízes 2:17
 
-No entanto, eles não ouviram seus juízes, mas se prostituíram com outros deuses e os adoraram. Eles rapidamente se desviaram do caminho que seus antepassados haviam seguido, que obedeceram aos mandamentos do Senhor.
+No entanto, eles não ouviram seus juízes, mas se prostituíram com outros deuses e os adoraram. Eles rapidamente se desviaram do caminho que seus antepassados haviam seguido, que obedeceram aos mandamentos do Senhor; não fizeram como eles tinham feito.
 
 ## Juízes 2:18
 

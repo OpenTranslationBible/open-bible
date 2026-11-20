@@ -46,7 +46,7 @@ Então eles feriram os homens que estavam na entrada da casa com cegueira, tanto
 
 ## Gênesis 19:12
 
-Os dois homens disseram a Ló: “Você tem mais alguém aqui—genros, filhos, filhas, ou qualquer outra pessoa na cidade que lhe pertença? Tire-os deste lugar,
+Os dois homens disseram a Ló: “Você tem mais alguém aqui — genros, filhos, filhas, ou qualquer outra pessoa na cidade que lhe pertença? Tire-os deste lugar,
 
 ## Gênesis 19:13
 
@@ -78,7 +78,7 @@ Seu servo encontrou favor aos seus olhos, e vocês mostraram grande bondade para
 
 ## Gênesis 19:20
 
-Vejam, aqui está uma cidade perto o suficiente para fugir, e é pequena. Por favor, deixem-me escapar para lá—não é pequena?—para que minha vida seja poupada.”
+Vejam, aqui está uma cidade perto o suficiente para fugir, e é pequena. Por favor, deixem-me escapar para lá — não é pequena? — para que minha vida seja poupada.”
 
 ## Gênesis 19:21
 
@@ -94,7 +94,7 @@ Ló chegou a Zoar assim que o sol se levantou sobre a terra.
 
 ## Gênesis 19:24
 
-Então o Senhor fez chover enxofre e fogo sobre Sodoma e Gomorra—da parte do Senhor, desde os céus.
+Então o Senhor fez chover enxofre e fogo sobre Sodoma e Gomorra — da parte do Senhor, desde os céus.
 
 ## Gênesis 19:25
 

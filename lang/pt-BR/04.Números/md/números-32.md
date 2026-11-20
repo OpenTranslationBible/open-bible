@@ -14,7 +14,7 @@ Assim, eles se aproximaram de Moisés, Eleazar, o sacerdote, e os líderes da co
 
 ## Números 32:4
 
-a terra que o Senhor subjugou diante da assembleia de Israel—é ideal para gado, e seus servos possuem gado.”
+a terra que o Senhor subjugou diante da assembleia de Israel — é ideal para gado, e seus servos possuem gado.”
 
 ## Números 32:5
 
@@ -78,7 +78,7 @@ Não reivindicaremos nenhuma herança com eles além do Jordão, pois nossa hera
 
 ## Números 32:20
 
-Moisés respondeu, “Se vocês fizerem isso—se vocês se armarem para a batalha perante o Senhor,
+Moisés respondeu, “Se vocês fizerem isso — se vocês se armarem para a batalha perante o Senhor,
 
 ## Números 32:21
 
@@ -130,7 +130,7 @@ Cruzaremos armados na presença do Senhor para Canaã, mas a propriedade de noss
 
 ## Números 32:33
 
-Assim, Moisés atribuiu aos filhos de Gade, aos filhos de Rúben e à meia tribo de Manassés, filho de José, o reino de Seom, rei dos amorreus, e o reino de Ogue, rei de Basã—a terra com suas cidades e os territórios circundantes.
+Assim, Moisés atribuiu aos filhos de Gade, aos filhos de Rúben e à meia tribo de Manassés, filho de José, o reino de Seom, rei dos amorreus, e o reino de Ogue, rei de Basã — a terra com suas cidades e os territórios circundantes.
 
 ## Números 32:34
 

@@ -116,7 +116,7 @@ Eles não entenderam que Ele estava falando com eles sobre o Seu Pai.
 
 ## João 8:28
 
-Então Jesus disse, “Quando o Pai tiver levantado o Filho do Homem, então vocês saberão e entenderão que Eu sou Ele - e que Eu não faço nada por Mim mesmo, mas falo apenas o que o Pai Me ensinou.
+Então Jesus disse, “Quando vocês tiverem levantado o Filho do Homem, então vocês saberão e entenderão que Eu sou Ele - e que Eu não faço nada por Mim mesmo, mas falo apenas o que o Pai Me ensinou.
 
 ## João 8:29
 

@@ -22,7 +22,7 @@ Para que a fé de vocês não se apoiasse na sabedoria humana, mas no poder de D
 
 ## 1 Coríntios 2:6
 
-Contudo, falamos sabedoria entre os que são maduros—uma sabedoria, no entanto, não desta era nem dos governantes desta era, que estão perecendo;
+Contudo, falamos sabedoria entre os que são maduros — uma sabedoria, no entanto, não desta era nem dos governantes desta era, que estão perecendo;
 
 ## 1 Coríntios 2:7
 
@@ -36,9 +36,9 @@ Essa sabedoria não foi compreendida por nenhum dos governantes desta era; pois 
 
 Mas, assim como está escrito:
 
-> “O olho não viu, o ouvido não ouviu,  
-> e a mente não concebeu,  
-> tudo o que Deus preparou para aqueles que O amam.”
+>  “O olho não viu, o ouvido não ouviu,  
+>  e a mente não concebeu,  
+>  tudo o que Deus preparou para aqueles que O amam.”
 
 ## 1 Coríntios 2:10
 
@@ -66,8 +66,8 @@ Mas aquele que é espiritual avalia todas as coisas, mas ele mesmo não é avali
 
 ## 1 Coríntios 2:16
 
-Pois
+Pois quem pode conhecer a mente do Senhor,
 
-> quem pode conhecer a mente do Senhor, para que possa instruí-Lo?
+>  para que possa instruí-Lo?
 
-No entanto, possuímos a mente de Cristo.
+ No entanto, possuímos a mente de Cristo.

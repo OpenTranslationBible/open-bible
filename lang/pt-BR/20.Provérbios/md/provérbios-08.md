@@ -54,7 +54,7 @@ Pois a sabedoria é mais valiosa que rubis, e nada do que vocês desejam pode se
 
 Temer ao Senhor é odiar o mal; eu odeio o orgulho, a arrogância, o mau caminho,
 
-> e a fala perversa.
+>  e a fala perversa.
 
 ## Provérbios 8:14
 
@@ -66,7 +66,7 @@ Por meu intermédio, os reis exercem seu governo, e os governantes fazem seus de
 
 ## Provérbios 8:16
 
-por mim, os príncipes governam, e os nobres—todos os que julgam corretamente.
+por mim, os príncipes governam, e os nobres — todos os que julgam corretamente.
 
 ## Provérbios 8:17
 
@@ -122,18 +122,17 @@ quando Ele firmou os céus acima e fixou com segurança as fontes do abismo,
 
 quando Ele estabeleceu um limite para o mar para que as águas não ultrapassassem Seu comando,
 
-> e quando Ele marcou os fundamentos da terra.
+>  e quando Ele marcou os fundamentos da terra.
 
 ## Provérbios 8:30
 
 Então eu estava ao Seu lado, como um mestre de obras; eu era o Seu deleite dia após dia,
 
-> regozijando-me sempre em Sua presença,
+>  regozijando-me sempre em Sua presença,
 
 ## Provérbios 8:31
 
-> encontrando alegria em Sua criação
-> e tendo prazer na humanidade.
+> encontrando alegria em Sua criação e tendo prazer na humanidade.
 
 ---
 

@@ -13,7 +13,7 @@ Porque transbordarás para a direita e para a esquerda; a tua descendência poss
 “Não temas, porque não serás envergonhada; não te envergonhes, porque não sofrerás humilhação; esquecerás a vergonha da tua mocidade e não te lembrarás mais do opróbrio da tua viuvez.
 
 ## Isaías 54:5
-Porque o teu Criador é o teu marido— o Senhor dos Exércitos é o Seu nome— o Santo de Israel é o teu Redentor; Ele é chamado o Deus de toda a terra.
+Porque o teu Criador é o teu marido — o Senhor dos Exércitos é o Seu nome — o Santo de Israel é o teu Redentor; Ele é chamado o Deus de toda a terra.
 
 ## Isaías 54:6
 O Senhor te chamou de volta como a uma esposa abandonada e aflita de espírito, como a esposa da mocidade que foi rejeitada”, diz o teu Deus.

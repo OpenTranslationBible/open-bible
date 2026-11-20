@@ -78,7 +78,7 @@ Depois disso, ele voltará para as fortalezas de sua própria terra, mas tropeç
 
 ## Daniel 11:20
 
-Seu sucessor enviará um oficial para coletar impostos para manter o esplendor real. Em poucos anos, porém, ele será destruído, mas não em ira ou em batalha.
+Seu sucessor enviará um oficial para coletar impostos para manter o esplendor real. Em poucos dias, porém, ele será destruído, mas não em ira ou em batalha.
 
 ## Daniel 11:21
 
@@ -94,7 +94,7 @@ Depois que uma aliança for feita com ele, ele agirá enganosamente, e com apena
 
 ## Daniel 11:24
 
-Quando as províncias mais ricas se sentirem seguras, ele as invadirá e conseguirá o que nem seus pais nem seus antepassados fizeram. Ele distribuirá despojos, espólios e posses entre seus seguidores. Ele planejará a derrubada de fortalezas—mas apenas por um tempo.
+Quando as províncias mais ricas se sentirem seguras, ele as invadirá e conseguirá o que nem seus pais nem seus antepassados fizeram. Ele distribuirá despojos, espólios e posses entre seus seguidores. Ele planejará a derrubada de fortalezas — mas apenas por um tempo.
 
 ## Daniel 11:25
 
@@ -118,7 +118,7 @@ No tempo determinado ele invadirá o Sul novamente, mas desta vez o resultado se
 
 ## Daniel 11:30
 
-Navios das regiões ocidentais se oporão a ele, e ele perderá o ânimo. Então ele voltará e descarregará sua fúria contra a aliança sagrada. Ele retornará e mostrará favor àqueles que abandonam a aliança sagrada.
+Navios de Quitim se oporão a ele, e ele perderá o ânimo. Então ele voltará e descarregará sua fúria contra a aliança sagrada. Ele retornará e mostrará favor àqueles que abandonam a aliança sagrada.
 
 ## Daniel 11:31
 

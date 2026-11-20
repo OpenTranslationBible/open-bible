@@ -42,7 +42,7 @@ Eles apenas nos pediram que nos lembrássemos dos pobres, o que era exatamente o
 
 ## Gálatas 2:11
 
-No entanto, quando Cefas veio a Antioquia, falei com ele abertamente, pois ele estava claramente errado.
+No entanto, quando Cefas veio a Antioquia, resisti a ele face a face, pois ele estava claramente errado.
 
 ## Gálatas 2:12
 

@@ -130,7 +130,7 @@ Da linhagem de Harim: Eliezer, Issias, Malquias, Semaías, Simeão,
 
 ## Esdras 10:32
 
-Incluindo Benjamim, Maluque e Semarias.
+Benjamim, Maluque e Semarias.
 
 ## Esdras 10:33
 

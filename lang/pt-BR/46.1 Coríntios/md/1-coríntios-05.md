@@ -42,7 +42,7 @@ Não quis dizer de forma alguma com as pessoas sexualmente imorais deste mundo, 
 
 ## 1 Coríntios 5:11
 
-Mas, na verdade, escrevi a vocês para não se associarem com qualquer pessoa que se diz irmão, se ela for sexualmente imoral, ou gananciosa, ou idólatra, ou verbalmente abusiva, ou bêbada, ou trapaceira—nem mesmo comer com tal pessoa.
+Mas, na verdade, escrevi a vocês para não se associarem com qualquer pessoa que se diz irmão, se ela for sexualmente imoral, ou gananciosa, ou idólatra, ou verbalmente abusiva, ou bêbada, ou trapaceira — nem mesmo comer com tal pessoa.
 
 ## 1 Coríntios 5:12
 

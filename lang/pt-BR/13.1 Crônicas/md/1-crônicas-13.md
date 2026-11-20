@@ -10,17 +10,17 @@ Davi consultou os líderes dos milhares e centenas, incluindo todos os líderes.
 
 Davi disse a toda a assembleia de Israel,
 
-> “Se parecer bem a vocês, e se for da parte do Senhor nosso Deus,  
-> enviemos palavra a todos os nossos irmãos que restam em toda a terra de Israel,  
-> também aos sacerdotes e levitas que estão com eles em suas cidades com campos de pastagem,  
-> para que se reúnam conosco;
+>  “Se parecer bem a vocês, e se for da parte do Senhor nosso Deus,  
+>  enviemos palavra a todos os nossos irmãos que restam em toda a terra de Israel,  
+>  também aos sacerdotes e levitas que estão com eles em suas cidades com campos de pastagem,  
+>  para que se reúnam conosco;
 
 ---
 
 ## 1 Crônicas 13:3
 
 > e voltemos a trazer a arca do nosso Deus para nós,  
-> pois não a buscamos durante os dias de Saul.”
+>  pois não a buscamos durante os dias de Saul.”
 
 ---
 
@@ -28,16 +28,16 @@ Davi disse a toda a assembleia de Israel,
 
 Então toda a assembleia concordou em fazer assim,
 
-> pois isso era certo aos olhos de todo o povo.
+>  pois isso era certo aos olhos de todo o povo.
 
 ---
 
 ## 1 Crônicas 13:5
 
 Então Davi reuniu todo o Israel,  
-desde Sior do Egito até a entrada de Hamate,
+ desde Sior do Egito até a entrada de Hamate,
 
-> para trazer a arca de Deus de Quiriate-Jearim.
+>  para trazer a arca de Deus de Quiriate-Jearim.
 
 ---
 
@@ -45,8 +45,8 @@ desde Sior do Egito até a entrada de Hamate,
 
 Davi e todo o Israel subiram a Baalá, que é Quiriate-Jearim em Judá,
 
-> para trazer de lá a arca de Deus, o Senhor que está entronizado acima dos querubins,  
-> onde Seu nome é invocado.
+>  para trazer de lá a arca de Deus, o Senhor que está entronizado acima dos querubins,  
+>  onde Seu nome é invocado.
 
 ---
 
@@ -54,7 +54,7 @@ Davi e todo o Israel subiram a Baalá, que é Quiriate-Jearim em Judá,
 
 Transportaram a arca de Deus em um carro novo da casa de Abinadabe,
 
-> com Uzá e Aiô guiando o carro.
+>  com Uzá e Aiô guiando o carro.
 
 ---
 
@@ -62,25 +62,25 @@ Transportaram a arca de Deus em um carro novo da casa de Abinadabe,
 
 Davi e todo o Israel estavam celebrando diante de Deus com todas as suas forças,
 
-> com cânticos e liras, harpas, tamborins, címbalos e trombetas.
+>  com cânticos e liras, harpas, tamborins, címbalos e trombetas.
 
 ---
 
 ## 1 Crônicas 13:9
 
 Quando chegaram à eira de Quidom,  
-Uzá estendeu a mão para segurar a arca,
+ Uzá estendeu a mão para segurar a arca,
 
-> porque os bois tropeçaram.
+>  porque os bois tropeçaram.
 
 ---
 
 ## 1 Crônicas 13:10
 
 A ira do Senhor se acendeu contra Uzá,  
-e Ele o feriu por ter estendido a mão para a arca;
+ e Ele o feriu por ter estendido a mão para a arca;
 
-> e ele morreu ali diante de Deus.
+>  e ele morreu ali diante de Deus.
 
 ---
 
@@ -88,7 +88,7 @@ e Ele o feriu por ter estendido a mão para a arca;
 
 Davi ficou indignado por causa do surto do Senhor contra Uzá;
 
-> e chamou aquele lugar de Perez-Uzá, nome que conserva até hoje.
+>  e chamou aquele lugar de Perez-Uzá, nome que conserva até hoje.
 
 ---
 
@@ -96,7 +96,7 @@ Davi ficou indignado por causa do surto do Senhor contra Uzá;
 
 Davi teve medo de Deus naquele dia, dizendo,
 
-> “Como poderei trazer a arca de Deus para mim?”
+>  “Como poderei trazer a arca de Deus para mim?”
 
 ---
 
@@ -104,7 +104,7 @@ Davi teve medo de Deus naquele dia, dizendo,
 
 Assim, Davi não levou a arca para si na cidade de Davi,
 
-> mas a levou para a casa de Obede-Edom, o geteu.
+>  mas a levou para a casa de Obede-Edom, o geteu.
 
 ---
 
@@ -112,4 +112,4 @@ Assim, Davi não levou a arca para si na cidade de Davi,
 
 Assim, a arca de Deus ficou com a família de Obede-Edom em sua casa por três meses;
 
-> e o Senhor abençoou a casa de Obede-Edom e tudo o que ele tinha.
+>  e o Senhor abençoou a casa de Obede-Edom e tudo o que ele tinha.

@@ -13,13 +13,13 @@ Ele me disse: “Você é meu servo, Israel, por meio de quem mostrarei a minha 
 Mas eu disse: “Tenho trabalhado em vão; gastei minha força por nada e inutilmente. Contudo, a minha vindicação está com o Senhor, e a minha recompensa está com o meu Deus.”
 
 ## Isaías 49:5
-E agora o Senhor diz— aquele que me formou no ventre para ser seu servo, para trazer Jacó de volta a ele e reunir Israel a si mesmo, pois sou honrado aos olhos do Senhor e o meu Deus é a minha força—
+E agora o Senhor diz — aquele que me formou no ventre para ser seu servo, para trazer Jacó de volta a ele e reunir Israel a si mesmo, pois sou honrado aos olhos do Senhor e o meu Deus é a minha força—
 
 ## Isaías 49:6
 ele diz: “É muito pouco você ser meu servo para restaurar as tribos de Jacó e trazer de volta os preservados de Israel. Eu também farei de você uma luz para as nações, para que a minha salvação alcance os confins da terra.”
 
 ## Isaías 49:7
-Assim diz o Senhor— o Redentor e Santo de Israel— ao que é desprezado e abominado pela nação, ao servo dos governantes: “Reis verão e se levantarão, príncipes se inclinarão, por causa do Senhor, que é fiel, o Santo de Israel, que escolheu você.”
+Assim diz o Senhor — o Redentor e Santo de Israel — ao que é desprezado e abominado pela nação, ao servo dos governantes: “Reis verão e se levantarão, príncipes se inclinarão, por causa do Senhor, que é fiel, o Santo de Israel, que escolheu você.”
 
 ## Isaías 49:8
 Assim diz o Senhor: “No tempo da minha graça eu responderei a você, e no dia da salvação eu o ajudarei; eu o guardarei e farei de você uma aliança para o povo, para restaurar a terra e redistribuir suas heranças desoladas,
@@ -34,7 +34,7 @@ Eles não terão fome nem sede, nem o calor escaldante ou o sol os atingirá. Aq
 Transformarei todas as minhas montanhas em estradas, e minhas rodovias serão elevadas.
 
 ## Isaías 49:12
-Vejam, eles virão de longe— alguns do norte, alguns do oeste, e alguns da terra de Assuã.”
+Vejam, eles virão de longe — alguns do norte, alguns do oeste, e alguns da terra de Assuã.”
 
 ## Isaías 49:13
 Gritem de alegria, vocês, céus; regozije-se, você, terra; irrompam em cânticos, vocês, montanhas! Pois o Senhor consola o seu povo e terá compaixão dos seus aflitos.
@@ -61,7 +61,7 @@ Embora você tenha sido arruinada e desolada e sua terra devastada, agora você 
 Os filhos nascidos durante o seu luto ainda dirão aos seus ouvidos: ‘Este lugar é pequeno demais para nós; dê-nos mais espaço para viver.’
 
 ## Isaías 49:21
-Então você dirá em seu coração: ‘Quem me gerou estes? Eu estava desolada e estéril; estava exilada e rejeitada. Quem os criou? Eu estava sozinha, mas estes—de onde vieram?’”
+Então você dirá em seu coração: ‘Quem me gerou estes? Eu estava desolada e estéril; estava exilada e rejeitada. Quem os criou? Eu estava sozinha, mas estes — de onde vieram?’”
 
 ## Isaías 49:22
 Assim diz o Soberano Senhor: “Veja, eu acenarei para as nações, levantarei meu estandarte para os povos; eles trarão seus filhos em seus braços e carregarão suas filhas em seus ombros.

@@ -32,7 +32,7 @@ Ele chamou os doze para si e começou a enviá-los de dois em dois, dando-lhes a
 
 ## Marcos 6:8
 
-Ele os instruiu a não levar nada para a viagem, exceto um cajado—nem pão, nem bolsa, nem dinheiro em seus cintos—
+Ele os instruiu a não levar nada para a viagem, exceto um cajado — nem pão, nem bolsa, nem dinheiro em seus cintos—
 
 ## Marcos 6:9
 
@@ -170,7 +170,7 @@ Então ele ordenou que todos se sentassem em grupos na grama verde.
 
 ## Marcos 6:40
 
-Assim, eles se sentaram em grupos organizados.
+Assim, eles se sentaram em grupos de cem e de cinquenta.
 
 ## Marcos 6:41
 
@@ -238,4 +238,4 @@ Correram por toda a região e trouxeram os enfermos em macas para onde ouviram q
 
 ## Marcos 6:56
 
-E onde quer que ele fosse—em aldeias, cidades ou no campo—colocavam os enfermos nas praças e imploravam que lhes permitisse tocar ao menos a borda de seu manto, e todos os que tocavam eram curados.
+E onde quer que ele fosse — em aldeias, cidades ou no campo — colocavam os enfermos nas praças e imploravam que lhes permitisse tocar ao menos a borda de seu manto, e todos os que tocavam eram curados.

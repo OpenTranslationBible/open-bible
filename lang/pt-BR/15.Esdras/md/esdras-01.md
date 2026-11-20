@@ -22,7 +22,7 @@ E em qualquer lugar onde agora residam sobreviventes, o povo deve apoiá-los com
 
 ## Esdras 1:5
 
-Então os chefes das famílias de Judá e Benjamim, e os sacerdotes e levitas—todos aqueles cujo espírito Deus havia movido—prepararam-se para subir e construir a casa do Senhor em Jerusalém.
+Então os chefes das famílias de Judá e Benjamim, e os sacerdotes e levitas — todos aqueles cujo espírito Deus havia movido — prepararam-se para subir e construir a casa do Senhor em Jerusalém.
 
 ## Esdras 1:6
 
@@ -40,15 +40,15 @@ Ciro, rei da Pérsia, os fez trazer por Mitredate, o tesoureiro, que os contou a
 
 Este foi o inventário:
 
-> trinta pratos de ouro,
-> mil pratos de prata,
-> e vinte e nove bacias de prata;
+>  trinta pratos de ouro,
+>  mil pratos de prata,
+>  e vinte e nove bacias de prata;
 
 ## Esdras 1:10
 
 > trinta taças de ouro,
-> quatrocentas e dez taças de prata combinando,
-> e mil outros artigos.
+>  quatrocentas e dez taças de prata combinando,
+>  e mil outros artigos.
 
 ## Esdras 1:11
 

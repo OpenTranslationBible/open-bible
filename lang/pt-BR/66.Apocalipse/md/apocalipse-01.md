@@ -22,15 +22,15 @@ e de Jesus Cristo, a testemunha fiel, o primogênito dos mortos e o soberano dos
 
 ## Apocalipse 1:6
 
-e nos constituiu reino, sacerdotes para o seu Deus e Pai—a ele seja a glória e o domínio para todo o sempre. Amém.
+e nos constituiu reino, sacerdotes para o seu Deus e Pai — a ele seja a glória e o domínio para todo o sempre. Amém.
 
 ## Apocalipse 1:7
 
 > Eis que ele vem com as nuvens,
-> e todo olho o verá,
-> até mesmo aqueles que o traspassaram;
-> e todas as tribos da terra se lamentarão por causa dele.
-> Assim será! Amém.
+>  e todo olho o verá,
+>  até mesmo aqueles que o traspassaram;
+>  e todas as tribos da terra se lamentarão por causa dele.
+>  Assim será! Amém.
 
 ## Apocalipse 1:8
 

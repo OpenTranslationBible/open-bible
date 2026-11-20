@@ -64,7 +64,7 @@ Os benjamitas voltaram naquela época, e deram-lhes as mulheres de Jabes-Gileade
 
 ## Juízes 21:15
 
-O povo lamentou por Benjamim, pois o Senhor havia permitido que um vazio ocorresse entre as tribos de Israel.
+O povo lamentou por Benjamim, pois o Senhor havia feito um vazio entre as tribos de Israel.
 
 ## Juízes 21:16
 

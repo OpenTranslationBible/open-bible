@@ -25,7 +25,7 @@ Os que forem mortos cairão entre vocês, e vocês saberão que eu sou o Senhor.
 “‘Contudo, deixarei um remanescente, pois alguns de vocês escaparão da espada quando forem espalhados entre as nações.
 
 ## Ezequiel 6:9
-Então, entre as nações para onde foram levados cativos, os que escaparem se lembrarão de mim—como fiquei magoado com seus corações adúlteros que se afastaram de mim, e com seus olhos que cobiçaram seus ídolos. Eles se abominarão por todo o mal que fizeram e por todas as suas práticas detestáveis.
+Então, entre as nações para onde foram levados cativos, os que escaparem se lembrarão de mim — como fiquei magoado com seus corações adúlteros que se afastaram de mim, e com seus olhos que cobiçaram seus ídolos. Eles se abominarão por todo o mal que fizeram e por todas as suas práticas detestáveis.
 
 ## Ezequiel 6:10
 E saberão que eu sou o Senhor; não falei em vão que traria este desastre sobre eles.
@@ -37,7 +37,7 @@ E saberão que eu sou o Senhor; não falei em vão que traria este desastre sobr
 Os que estão longe morrerão de peste, os que estão perto cairão pela espada, e os que sobreviverem e forem poupados morrerão de fome. Assim esgotarei minha ira sobre eles.
 
 ## Ezequiel 6:13
-E vocês saberão que eu sou o Senhor, quando seus mortos estiverem entre seus ídolos ao redor de seus altares, em todas as colinas elevadas e em todos os cumes das montanhas, debaixo de toda árvore frondosa e de todo carvalho frondoso—os lugares onde ofereceram incenso perfumado a todos os seus ídolos.
+E vocês saberão que eu sou o Senhor, quando seus mortos estiverem entre seus ídolos ao redor de seus altares, em todas as colinas elevadas e em todos os cumes das montanhas, debaixo de toda árvore frondosa e de todo carvalho frondoso — os lugares onde ofereceram incenso perfumado a todos os seus ídolos.
 
 ## Ezequiel 6:14
-Estenderei minha mão contra eles e farei da terra um deserto desolado desde o deserto até Dibla—onde quer que habitem. Então saberão que eu sou o Senhor.’”
+Estenderei minha mão contra eles e farei da terra um deserto desolado desde o deserto até Dibla — onde quer que habitem. Então saberão que eu sou o Senhor.’”

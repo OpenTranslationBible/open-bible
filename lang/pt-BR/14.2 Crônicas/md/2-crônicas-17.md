@@ -2,7 +2,7 @@
 
 ## 2 Crônicas 17:1
 
-Josafá, seu filho, tornou-se rei em seu lugar, e ele se mostrou forte sobre Israel.
+Josafá, seu filho, tornou-se rei em seu lugar, e ele se fortaleceu contra Israel.
 
 ---
 
@@ -38,13 +38,13 @@ E ele se orgulhou grandemente dos caminhos do Senhor, e novamente removeu os alt
 
 ## 2 Crônicas 17:7
 
-No terceiro ano de seu reinado, ele enviou seus oficiais—Ben-Hail, Obadias, Zacarias, Natanael e Micaías—para fornecer instrução nas cidades de Judá;
+No terceiro ano de seu reinado, ele enviou seus oficiais — Ben-Hail, Obadias, Zacarias, Natanael e Micaías — para fornecer instrução nas cidades de Judá;
 
 ---
 
 ## 2 Crônicas 17:8
 
-e com eles os levitas, Semaías, Netanias, Zebadias, Asael, Semiramote, Jônatas, Adonias, Tobias e Tob-Adonias—levitas; e com eles Elishama e Jeorão, sacerdotes.
+e com eles os levitas, Semaías, Netanias, Zebadias, Asael, Semiramote, Jônatas, Adonias, Tobias e Tob-Adonias — levitas; e com eles Elishama e Jeorão, sacerdotes.
 
 ---
 
@@ -63,7 +63,7 @@ Agora, o temor do Senhor estava sobre todos os reinos das terras ao redor de Jud
 ## 2 Crônicas 17:11
 
 E alguns dos filisteus trouxeram presentes e prata como tributo a Josafá.  
-Os árabes também lhe trouxeram rebanhos, sete mil e setecentos carneiros e sete mil e setecentos bodes.
+ Os árabes também lhe trouxeram rebanhos, sete mil e setecentos carneiros e sete mil e setecentos bodes.
 
 ---
 
@@ -83,7 +83,7 @@ Ele tinha suprimentos abundantes nas cidades de Judá, e guerreiros, homens vale
 
 Este foi o seu alistamento de acordo com as casas de seus pais:
 
-> de Judá, comandantes de milhares: Adna, o comandante, e com ele 300.000 valentes guerreiros;
+>  de Judá, comandantes de milhares: Adna, o comandante, e com ele 300.000 valentes guerreiros;
 
 ---
 

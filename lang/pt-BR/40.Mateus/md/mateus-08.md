@@ -72,8 +72,8 @@ Ao anoitecer, trouxeram a Ele muitos que estavam atormentados por demônios, e E
 
 Isso foi para cumprir as palavras ditas pelo profeta Isaías:
 
-> “Ele tomou sobre si as nossas enfermidades
-> e levou as nossas doenças.”
+>  “Ele tomou sobre si as nossas enfermidades e levou as nossas doenças.
+> ”
 
 ---
 

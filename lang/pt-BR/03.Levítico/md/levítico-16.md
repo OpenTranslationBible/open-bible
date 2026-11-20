@@ -22,7 +22,7 @@ Arão oferecerá o novilho como oferta pelo pecado para fazer expiação por si 
 Ele então tomará os dois bodes e os apresentará diante do Senhor à entrada da tenda do encontro.
 
 ## Levítico 16:8
-Arão lançará sortes sobre os dois bodes—uma sorte para o Senhor e a outra para o bode emissário.
+Arão lançará sortes sobre os dois bodes — uma sorte para o Senhor e a outra para o bode emissário.
 
 ## Levítico 16:9
 Arão oferecerá o bode sobre o qual cair a sorte para o Senhor e o sacrificará como oferta pelo pecado.
@@ -61,7 +61,7 @@ Ele aspergirá um pouco do sangue sobre ele com o dedo sete vezes para purificá
 Quando Arão terminar de fazer expiação pelo Lugar Santo, pela tenda do encontro e pelo altar, ele trará o bode vivo.
 
 ## Levítico 16:21
-Ele colocará ambas as mãos sobre a cabeça do bode vivo e confessará sobre ele toda a maldade e rebeldia dos israelitas—todos os seus pecados—e os colocará sobre a cabeça do bode. Ele enviará o bode para o deserto aos cuidados de alguém designado para a tarefa.
+Ele colocará ambas as mãos sobre a cabeça do bode vivo e confessará sobre ele toda a maldade e rebeldia dos israelitas — todos os seus pecados — e os colocará sobre a cabeça do bode. Ele enviará o bode para o deserto aos cuidados de alguém designado para a tarefa.
 
 ## Levítico 16:22
 O bode levará sobre si todos os seus pecados para um lugar distante; e o homem o soltará no deserto.

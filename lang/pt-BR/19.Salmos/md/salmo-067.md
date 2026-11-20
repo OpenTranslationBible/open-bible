@@ -12,14 +12,14 @@
 ## Salmo 67:2
 
 > Para que os Teus caminhos sejam conhecidos na terra,  
-> A Tua salvação entre todas as nações.
+>  A Tua salvação entre todas as nações.
 
 ---
 
 ## Salmo 67:3
 
 > Que os povos Te louvem, ó Deus;  
-> Que todos os povos Te louvem.
+>  Que todos os povos Te louvem.
 
 ## Salmo 67:4
 
@@ -32,16 +32,16 @@
 ## Salmo 67:5
 
 > Que os povos Te louvem, ó Deus;  
-> Que todos os povos Te louvem.
+>  Que todos os povos Te louvem.
 
 ---
 
 ## Salmo 67:6
 
 > A terra deu a sua colheita;  
-> Deus, o nosso Deus, nos abençoa.
+>  Deus, o nosso Deus, nos abençoa.
 
 ## Salmo 67:7
 
 > Deus nos abençoa,  
-> Para que todos os confins da terra O reverenciem.
+>  Para que todos os confins da terra O reverenciem.

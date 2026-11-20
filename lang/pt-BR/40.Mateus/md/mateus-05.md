@@ -11,42 +11,42 @@ e Ele começou a instruí-los, dizendo:
 ## Mateus 5:3
 
 > “Bem-aventurados os pobres de espírito,
-> pois deles é o reino dos céus.
+>  pois deles é o reino dos céus.
 
 ## Mateus 5:4
 
 > Bem-aventurados os que choram,
-> pois serão consolados.
+>  pois serão consolados.
 
 ## Mateus 5:5
 
 > Bem-aventurados os mansos,
-> pois herdarão a terra.
+>  pois herdarão a terra.
 
 ## Mateus 5:6
 
 > Bem-aventurados os que têm fome e sede de justiça,
-> pois serão fartos.
+>  pois serão fartos.
 
 ## Mateus 5:7
 
 > Bem-aventurados os misericordiosos,
-> pois alcançarão misericórdia.
+>  pois alcançarão misericórdia.
 
 ## Mateus 5:8
 
 > Bem-aventurados os puros de coração,
-> pois verão a Deus.
+>  pois verão a Deus.
 
 ## Mateus 5:9
 
 > Bem-aventurados os pacificadores,
-> pois serão chamados filhos de Deus.
+>  pois serão chamados filhos de Deus.
 
 ## Mateus 5:10
 
 > Bem-aventurados os perseguidos por causa da justiça,
-> pois deles é o reino dos céus.
+>  pois deles é o reino dos céus.
 
 ## Mateus 5:11
 

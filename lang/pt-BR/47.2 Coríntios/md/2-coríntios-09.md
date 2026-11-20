@@ -14,7 +14,7 @@ Mas enviei os irmãos, para que o nosso orgulho por vocês não seja em vão nes
 
 ## 2 Coríntios 9:4
 
-Caso contrário, se alguns macedônios vierem comigo e encontrarem vocês despreparados, nós—para não mencionar vocês—ficaríamos envergonhados nesta confiança.
+Caso contrário, se alguns macedônios vierem comigo e encontrarem vocês despreparados, nós — para não mencionar vocês — ficaríamos envergonhados nesta confiança.
 
 ## 2 Coríntios 9:5
 
@@ -36,8 +36,8 @@ E Deus é capaz de fazer toda a graça abundar em vocês, para que, tendo sempre
 
 Como diz a escritura:
 
-> “Ele espalhou, deu aos pobres,  
-> Sua justiça permanece para sempre.”
+>  “Ele espalhou, deu aos pobres,  
+>  Sua justiça permanece para sempre.”
 
 ## 2 Coríntios 9:10
 

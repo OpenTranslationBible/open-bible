@@ -24,7 +24,7 @@ Quando os discípulos atravessaram para o outro lado do mar, perceberam que havi
 
 ## Mateus 16:6
 
-Jesus os advertiu: “Tenham cuidado e fiquem alertas contra a influência dos fariseus e saduceus.”
+Jesus os advertiu: “Tenham cuidado e fiquem alertas contra o fermento dos fariseus e saduceus.”
 
 ## Mateus 16:7
 
@@ -78,7 +78,7 @@ E Eu lhe digo que você é Pedro, e sobre esta pedra edificarei Minha igreja, e 
 
 ## Mateus 16:19
 
-Eu lhe darei a autoridade do reino dos céus; o que você ligar na terra será ligado nos céus, e o que você desligar na terra será desligado nos céus.”
+Eu lhe darei as chaves do reino dos céus; o que você ligar na terra será ligado nos céus, e o que você desligar na terra será desligado nos céus.”
 
 ## Mateus 16:20
 

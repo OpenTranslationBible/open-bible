@@ -28,7 +28,7 @@ Portanto, não foram vocês que me enviaram para cá, mas Deus. Ele me fez pai d
 Voltem depressa a meu pai e digam-lhe: ‘Assim diz seu filho José: Deus me fez senhor de todo o Egito. Venha para cá; não demore.
 
 ## Gênesis 45:10
-Você viverá na terra de Gósen e estará perto de mim—você, seus filhos e netos, seus rebanhos e manadas, e tudo o que você possui.
+Você viverá na terra de Gósen e estará perto de mim — você, seus filhos e netos, seus rebanhos e manadas, e tudo o que você possui.
 
 ## Gênesis 45:11
 Eu o sustentarei ali, pois ainda haverá cinco anos de fome, para que você e sua família e tudo o que tem não caiam na miséria.’

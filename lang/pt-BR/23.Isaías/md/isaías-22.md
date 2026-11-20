@@ -94,7 +94,7 @@ Eu o fixarei como uma estaca em um lugar firme; ele se tornará um trono de honr
 
 ## Isaías 22:24
 
-Toda a glória de sua família dependerá dele: sua prole e descendentes—todos os seus vasos menores, desde as bacias até todos os jarros.
+Toda a glória de sua família dependerá dele: sua prole e descendentes — todos os seus vasos menores, desde as bacias até todos os jarros.
 
 ## Isaías 22:25
 

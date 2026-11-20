@@ -10,7 +10,7 @@ Então os líderes de Israel, os chefes das casas de seus pais, que eram os líd
 
 ## Números 7:3
 
-Eles trouxeram suas ofertas perante o Senhor: seis carros cobertos e doze bois—um boi de cada líder e um carro de cada dois líderes. Eles apresentaram isso perante o tabernáculo.
+Eles trouxeram suas ofertas perante o Senhor: seis carros cobertos e doze bois — um boi de cada líder e um carro de cada dois líderes. Eles apresentaram isso perante o tabernáculo.
 
 ## Números 7:4
 

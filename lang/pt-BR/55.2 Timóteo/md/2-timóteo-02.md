@@ -44,21 +44,21 @@ Por esta razão, persevero em todas as coisas por causa dos eleitos, para que ta
 
 Esta afirmação é digna de confiança:
 
-> Pois, se morremos com Ele,
-> também viveremos com Ele;
+>  Pois, se morremos com Ele,
+>  também viveremos com Ele;
 
 ## 2 Timóteo 2:12
 
 > Se perseverarmos,
-> também reinaremos com Ele;  
-> Se o negarmos,
-> Ele também nos negará;
+>  também reinaremos com Ele;  
+>  Se o negarmos,
+>  Ele também nos negará;
 
 ## 2 Timóteo 2:13
 
 > Se somos infiéis,
-> Ele permanece fiel,
-> pois não pode negar a Si mesmo.
+>  Ele permanece fiel,
+>  pois não pode negar a Si mesmo.
 
 ## 2 Timóteo 2:14
 

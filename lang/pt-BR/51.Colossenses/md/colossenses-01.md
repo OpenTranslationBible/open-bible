@@ -1,7 +1,7 @@
 # Colossenses Capítulo 1
 
 ## Colossenses 1:1
-Paulo, mensageiro de Cristo Jesus pela vontade de Deus, junto com Timóteo, nosso irmão,
+Paulo, apóstolo de Cristo Jesus pela vontade de Deus, junto com Timóteo, nosso irmão,
 
 ## Colossenses 1:2
 Aos santos e fiéis irmãos e irmãs em Cristo em Colossos: Graça e paz a vocês da parte de Deus, nosso Pai.
@@ -40,7 +40,7 @@ dando graças ao Pai, que os qualificou para participarem da herança dos santos
 Pois ele nos resgatou do domínio das trevas e nos transferiu para o reino do Filho que ele ama,
 
 ## Colossenses 1:14
-em quem temos redenção e perdão.
+em quem temos a redenção, o perdão dos pecados.
 
 ## Colossenses 1:15
 O Filho reflete o Deus invisível, o primogênito sobre toda a criação.
@@ -49,7 +49,7 @@ O Filho reflete o Deus invisível, o primogênito sobre toda a criação.
 Pois nele foram criadas todas as coisas: coisas no céu e na terra, visíveis e invisíveis, sejam tronos ou domínios ou governantes ou autoridades; todas as coisas foram criadas por meio dele e para ele.
 
 ## Colossenses 1:17
-Ele existia antes de todas as coisas, e por meio dele todas as coisas se mantêm unidas.
+Ele existe antes de todas as coisas, e por meio dele todas as coisas se mantêm unidas.
 
 ## Colossenses 1:18
 E ele é a cabeça do corpo, a igreja; ele é o princípio e o primogênito dentre os mortos, para que em tudo tenha supremacia.

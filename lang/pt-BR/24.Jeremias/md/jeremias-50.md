@@ -103,13 +103,13 @@ Assim diz o Senhor dos Exércitos: “O povo de Israel está oprimido, e o povo 
 No entanto, seu Redentor é forte; Senhor dos Exércitos é Seu nome. Ele defenderá vigorosamente sua causa para que Ele possa trazer descanso à sua terra, mas inquietação aos que vivem em Babilônia.
 
 ## Jeremias 50:35
-“Uma espada contra os caldeus!” declara o Senhor—“contra os que vivem em Babilônia e contra seus oficiais e sábios!
+“Uma espada contra os caldeus!” declara o Senhor — “contra os que vivem em Babilônia e contra seus oficiais e sábios!
 
 ## Jeremias 50:36
 Uma espada contra seus sacerdotes oraculares! Eles se tornarão tolos. Uma espada contra seus guerreiros! Eles ficarão aterrorizados.
 
 ## Jeremias 50:37
-Uma espada contra seus cavalos e carros e todos os estrangeiros em suas fileiras! Eles se tornarão fracos. Uma espada contra seus tesouros! Eles serão saqueados.
+Uma espada contra seus cavalos e carros e todos os estrangeiros em suas fileiras! Eles se tornarão como mulheres. Uma espada contra seus tesouros! Eles serão saqueados.
 
 ## Jeremias 50:38
 Uma seca sobre suas águas! Elas secarão. Pois é uma terra de ídolos, e eles enlouquecem de terror.
