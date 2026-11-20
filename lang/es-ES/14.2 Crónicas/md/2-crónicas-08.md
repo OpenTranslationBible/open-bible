@@ -44,7 +44,7 @@ Todo el pueblo restante de los hititas, los amorreos, los ferezeos, los heveos y
 
 ## 2 Crónicas 8:8
 
-de sus descendientes que quedaron después de ellos en la tierra, a quienes los hijos de Israel no habían destruido—Salomón les impuso trabajos forzados hasta el día de hoy.
+de sus descendientes que quedaron después de ellos en la tierra, a quienes los hijos de Israel no habían destruido —Salomón les impuso trabajos forzados hasta el día de hoy—.
 
 ---
 

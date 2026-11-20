@@ -46,7 +46,7 @@ Entonces hirieron con ceguera a los hombres que estaban en la entrada de la casa
 
 ## Génesis 19:12
 
-Los dos hombres dijeron a Lot, “¿Tienes aquí a alguien más—yernos, hijos, hijas, o a cualquiera más en la ciudad que te pertenezca? Sácalos de este lugar,
+Los dos hombres dijeron a Lot, “¿Tienes aquí a alguien más —yernos, hijos, hijas, o a cualquiera más en la ciudad que te pertenezca? Sácalos de este lugar,—
 
 ## Génesis 19:13
 
@@ -78,7 +78,7 @@ Tu siervo ha hallado favor a tus ojos, y has mostrado gran bondad hacia mí salv
 
 ## Génesis 19:20
 
-Mira, aquí hay una ciudad lo suficientemente cerca para huir, y es pequeña. Por favor, déjame escapar allí—¿no es pequeña?—para que mi vida sea salvada.”
+Mira, aquí hay una ciudad lo suficientemente cerca para huir, y es pequeña. Por favor, déjame escapar allí —¿no es pequeña?— para que mi vida sea salvada.”
 
 ## Génesis 19:21
 
@@ -94,7 +94,7 @@ Lot llegó a Zoar justo cuando el sol salía sobre la tierra.
 
 ## Génesis 19:24
 
-Entonces el Señor hizo llover azufre y fuego sobre Sodoma y Gomorra—del Señor desde los cielos.
+Entonces el Señor hizo llover azufre y fuego sobre Sodoma y Gomorra —del Señor desde los cielos—.
 
 ## Génesis 19:25
 

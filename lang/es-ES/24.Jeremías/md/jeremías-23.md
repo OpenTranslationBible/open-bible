@@ -118,4 +118,4 @@ Y si dicen, ‘¡El mensaje del Señor!’ por esa razón el Señor dice: ‘Por
 Por lo tanto, he aquí, ciertamente los olvidaré y los echaré de mi presencia, junto con la ciudad que les di a ustedes y a sus antepasados.
 
 ## Jeremías 23:40
-Traeré sobre ustedes una deshonra eterna—una vergüenza eterna que no será olvidada.”
+Traeré sobre ustedes una deshonra eterna —una vergüenza eterna que no será olvidada—.”

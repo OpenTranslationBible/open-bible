@@ -82,7 +82,7 @@ El Señor expulsó de delante de nosotros a todas las naciones, incluidos los am
 
 ## Josué 24:19
 
-Josué dijo al pueblo: “Podéis encontrar difícil servir al Señor. Él es un Dios santo; Él es un Dios celoso. No pasará por alto vuestra rebelión y vuestros pecados.
+Josué dijo al pueblo: “No podréis servir al Señor. Él es un Dios santo; Él es un Dios celoso. No pasará por alto vuestra rebelión y vuestros pecados.
 
 ## Josué 24:20
 

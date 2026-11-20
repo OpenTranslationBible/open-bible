@@ -2,7 +2,7 @@
 
 ## Zacarías 6:1
 
-Levanté mis ojos una vez más y vi cuatro carros que salían de entre dos montañas—montañas de bronce.
+Levanté mis ojos una vez más y vi cuatro carros que salían de entre dos montañas —montañas de bronce—.
 
 ## Zacarías 6:2
 
@@ -46,7 +46,7 @@ Haz una corona de la plata y el oro, y colócala sobre la cabeza de Josué hijo 
 
 ## Zacarías 6:12
 
-Dile: ‘Esto es lo que dice el Señor de los Ejércitos: “He aquí el hombre cuyo nombre es el Retoño, porque brotará de su lugar y edificará el templo del Señor.
+Dile: ‘Esto es lo que dice el Señor de los Ejércitos: “He aquí el hombre cuyo nombre es el Retoño, y brotará de su lugar y edificará el templo del Señor.
 
 ## Zacarías 6:13
 

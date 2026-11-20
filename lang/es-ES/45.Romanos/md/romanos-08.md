@@ -50,7 +50,7 @@ Por lo tanto, hermanos y hermanas, tenemos una obligación, pero no es para con 
 
 ## Romanos 8:13
 
-porque si vivís según la carne, enfrentaréis la muerte; pero si por el Espíritu hacéis morir las obras de la carne, tendréis vida.
+porque si vivís según la carne, enfrentaréis la muerte; pero si por el Espíritu hacéis morir las obras del cuerpo, tendréis vida.
 
 ## Romanos 8:14
 
@@ -66,7 +66,7 @@ El Espíritu mismo da testimonio con nuestro espíritu de que somos hijos de Dio
 
 ## Romanos 8:17
 
-Y si somos hijos, entonces somos herederos—herederos de Dios y coherederos con Cristo, si es que compartimos sus sufrimientos para que también compartamos su gloria.
+Y si somos hijos, entonces somos herederos —herederos de Dios y coherederos con Cristo, si es que compartimos sus sufrimientos para que también compartamos su gloria—.
 
 ## Romanos 8:18
 
@@ -134,7 +134,7 @@ El que no escatimó a su propio Hijo, sino que lo ofreció por todos nosotros, �
 
 ## Romanos 8:34
 
-¿Quién entonces es el que condena? Nadie. Cristo Jesús, quien murió—y más aún, quien resucitó a la vida—está a la derecha de Dios y también intercede por nosotros.
+¿Quién entonces es el que condena? Cristo Jesús, quien murió —y más aún, quien resucitó a la vida— está a la derecha de Dios y también intercede por nosotros.
 
 ## Romanos 8:35
 
@@ -144,8 +144,8 @@ El que no escatimó a su propio Hijo, sino que lo ofreció por todos nosotros, �
 
 Como dice la escritura:
 
-> “Por tu causa enfrentamos la muerte todo el día;
-> se nos considera como ovejas para el matadero.”
+>  “Por tu causa enfrentamos la muerte todo el día;
+>  se nos considera como ovejas para el matadero.”
 
 ## Romanos 8:37
 

@@ -14,7 +14,7 @@ Así que se acercaron a Moisés, Eleazar el sacerdote, y los líderes de la comu
 
 ## Números 32:4
 
-la tierra que el Señor sometió ante la asamblea de Israel—es ideal para el ganado, y tus siervos poseen ganado.”
+la tierra que el Señor sometió ante la asamblea de Israel —es ideal para el ganado, y tus siervos poseen ganado—.”
 
 ## Números 32:5
 
@@ -78,7 +78,7 @@ No reclamaremos ninguna herencia con ellos más allá del Jordán, ya que nuestr
 
 ## Números 32:20
 
-Moisés respondió, “Si haréis esto—si os armaréis para la batalla ante el Señor,
+Moisés respondió, “Si haréis esto —si os armaréis para la batalla ante el Señor,—
 
 ## Números 32:21
 
@@ -130,7 +130,7 @@ Cruzaremos armados en presencia del Señor a Canaán, pero la propiedad de nuest
 
 ## Números 32:33
 
-Así que Moisés asignó a los hijos de Gad, los hijos de Rubén, y la media tribu de Manasés hijo de José, el reino de Sehón rey de los amorreos y el reino de Og rey de Basán—la tierra con sus ciudades y los territorios circundantes.
+Así que Moisés asignó a los hijos de Gad, los hijos de Rubén, y la media tribu de Manasés hijo de José, el reino de Sehón rey de los amorreos y el reino de Og rey de Basán —la tierra con sus ciudades y los territorios circundantes—.
 
 ## Números 32:34
 

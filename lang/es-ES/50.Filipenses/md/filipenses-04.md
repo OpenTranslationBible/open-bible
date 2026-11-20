@@ -30,7 +30,7 @@ Y la paz de Dios, que sobrepasa todo entendimiento, protegerá vuestros corazone
 
 ## Filipenses 4:8
 
-Finalmente, hermanos y hermanas, todo lo que es verdadero, todo lo honorable, todo lo justo, todo lo puro, todo lo amable, todo lo encomiable—si algo es excelente o digno de alabanza—pensad en estas cosas.
+Finalmente, hermanos y hermanas, todo lo que es verdadero, todo lo honorable, todo lo justo, todo lo puro, todo lo amable, todo lo encomiable —si algo es excelente o digno de alabanza— pensad en estas cosas.
 
 ## Filipenses 4:9
 

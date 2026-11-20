@@ -25,10 +25,10 @@ Acerca de Egipto: Este es el mensaje sobre el ejército del faraón Necao, rey d
 Egipto se levanta como el Nilo, como ríos cuyas aguas se desbordan. Ella dice: ‘Me levantaré y cubriré la tierra; destruiré ciudades y sus habitantes.’
 
 ## Jeremías 46:9
-¡Arremeted, caballos! ¡Conducid salvajemente, aurigas! ¡Marchad, guerreros—hombres de Cus y Fut que llevan escudos, hombres de Lud que tensan el arco.
+¡Arremeted, caballos! ¡Conducid salvajemente, aurigas! ¡Marchad, guerreros —hombres de Cus y Fut que llevan escudos, hombres de Lud que tensan el arco—.
 
 ## Jeremías 46:10
-Porque ese día pertenece al Señor, el Señor Todopoderoso—un día de venganza, para vengarse de sus enemigos. La espada devorará y se saciará, y beberá su llenura de sangre. Porque el Señor, el Señor Todopoderoso, ofrecerá sacrificio en la tierra del norte junto al río Éufrates.
+Porque ese día pertenece al Señor, el Señor Todopoderoso —un día de venganza, para vengarse de sus enemigos. La espada devorará y se saciará, y beberá su llenura de sangre. Porque el Señor, el Señor Todopoderoso, ofrecerá sacrificio en la tierra del norte junto al río Éufrates—.
 
 ## Jeremías 46:11
 “Sube a Galaad y toma bálsamo, Virgen Hija Egipto. Has usado muchos remedios en vano; no hay curación para ti.
@@ -76,7 +76,7 @@ La Hija Egipto será avergonzada, entregada en manos del pueblo del norte.”
 El Señor Todopoderoso, el Dios de Israel, dice: “Estoy a punto de traer juicio sobre Amón dios de Tebas, sobre el faraón, sobre Egipto y sus dioses y sus reyes, y sobre aquellos que confían en el faraón.
 
 ## Jeremías 46:26
-Los entregaré en manos de aquellos que buscan sus vidas—Nabucodonosor, rey de Babilonia, y sus oficiales. Sin embargo, más tarde, Egipto será habitado como en tiempos pasados,” declara el Señor.
+Los entregaré en manos de aquellos que buscan sus vidas —Nabucodonosor, rey de Babilonia, y sus oficiales. Sin embargo, más tarde, Egipto será habitado como en tiempos pasados,” declara el Señor—.
 
 ## Jeremías 46:27
 “Pero en cuanto a ti, Jacob mi siervo, no temas, ni te desanimes, Israel. Ciertamente te salvaré desde lejos, y a tus descendientes de la tierra de su cautiverio. Jacob volverá y tendrá paz y seguridad, sin que nadie lo atemorice.

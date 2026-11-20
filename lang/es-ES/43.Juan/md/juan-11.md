@@ -10,7 +10,7 @@ Había un hombre llamado Lázaro que estaba enfermo. Era de Betania, el pueblo d
 
 ## Juan 11:3
 
-Así que las hermanas enviaron un mensaje a Él, diciendo: “Señor, el que amas está enfermo.”
+Así que las hermanas le enviaron un mensaje, diciendo: “Señor, el que amas está enfermo.”
 
 ## Juan 11:4
 
@@ -218,7 +218,7 @@ No entendéis que es mejor para vosotros que un solo hombre muera por el pueblo 
 
 ## Juan 11:51
 
-No dijo esto por su cuenta, de hecho, como sumo sacerdote ya había profetizado ese año que Jesús moriría por la nación judía,
+No dijo esto por su cuenta; de hecho, como sumo sacerdote ese año profetizó que Jesús moriría por la nación judía,
 
 ## Juan 11:52
 

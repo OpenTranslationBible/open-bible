@@ -78,7 +78,7 @@ Que tu fuente de alegría sea bendecida, y encuentra deleite en la esposa de tu 
 
 ## Proverbios 5:19
 
-Una cierva amorosa, una gacela graciosa—que sus pechos te satisfagan siempre, que siempre estés embriagado de su amor.
+Una cierva amorosa, una gacela graciosa —que sus pechos te satisfagan siempre, que siempre estés embriagado de su amor—.
 
 ## Proverbios 5:20
 

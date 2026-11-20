@@ -47,7 +47,7 @@ Entonces un mensaje del Señor llegó a Samuel, diciendo,
 ## 1 Samuel 15:11
 
 “Me arrepiento de haber hecho rey a Saúl, porque se ha apartado de seguirme y no ha cumplido mis mandamientos.”  
-Y Samuel se angustió y clamó al Señor toda la noche.
+ Y Samuel se angustió y clamó al Señor toda la noche.
 
 ## 1 Samuel 15:12
 
@@ -70,7 +70,7 @@ Saúl respondió: “Fueron traídos de los amalecitas, porque el pueblo perdon�
 ## 1 Samuel 15:16
 
 Entonces Samuel dijo a Saúl: “¡Detente! Te diré lo que el Señor me dijo anoche.”  
-Y él le dijo: “Habla.”
+ Y él le dijo: “Habla.”
 
 ## 1 Samuel 15:17
 
@@ -98,17 +98,17 @@ Pero el pueblo tomó parte del botín, ovejas y bueyes, lo mejor de las cosas de
 
 Samuel dijo,
 
-> “¿Se complace el Señor tanto en los holocaustos y sacrificios  
-> Como en obedecer la voz del Señor?  
-> He aquí, obedecer es mejor que el sacrificio,  
-> Y prestar atención que la grasa de los carneros.
+>  “¿Se complace el Señor tanto en los holocaustos y sacrificios Como en obedecer la voz del Señor?  
+>  He aquí,  
+>  obedecer es mejor que el sacrificio,  
+>  Y prestar atención que la grasa de los carneros.
 
 ## 1 Samuel 15:23
 
 > Porque la rebelión es como el pecado de adivinación,  
-> Y la obstinación es como la iniquidad y la idolatría.  
-> Porque has rechazado la palabra del Señor,  
-> Él también te ha rechazado para que no seas rey.”
+>  Y la obstinación es como la iniquidad y la idolatría.  
+>  Porque has rechazado la palabra del Señor,  
+>  Él también te ha rechazado para que no seas rey.”
 
 ---
 
@@ -149,15 +149,15 @@ Así que Samuel regresó tras Saúl, y Saúl adoró al Señor.
 ## 1 Samuel 15:32
 
 Entonces Samuel dijo: “Traedme a Agag, el rey de los amalecitas.”  
-Y Agag se acercó a él alegremente, diciendo: “Seguramente la amargura de la muerte ha pasado.”
+ Y Agag se acercó a él alegremente, diciendo: “Seguramente la amargura de la muerte ha pasado.”
 
 ## 1 Samuel 15:33
 
 Pero Samuel dijo,
 
-> “Como tu espada ha dejado a las mujeres sin hijos,  
-> Así tu madre quedará sin hijos entre las mujeres.”  
-> Y Samuel ejecutó a Agag delante del Señor en Gilgal.
+>  “Como tu espada ha dejado a las mujeres sin hijos,  
+>  Así tu madre quedará sin hijos entre las mujeres.”  
+>  Y Samuel ejecutó a Agag delante del Señor en Gilgal.
 
 ## 1 Samuel 15:34
 
@@ -166,4 +166,4 @@ Entonces Samuel fue a Ramá, mientras Saúl subió a su casa en Guibeá de Saúl
 ## 1 Samuel 15:35
 
 Samuel no volvió a ver a Saúl hasta el día de su muerte;  
-porque Samuel lloró por Saúl, y el Señor lamentó haber hecho a Saúl rey sobre Israel.
+ porque Samuel lloró por Saúl, y el Señor lamentó haber hecho a Saúl rey sobre Israel.

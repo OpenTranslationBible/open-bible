@@ -30,7 +30,7 @@ Moisés colocó las varas delante del Señor en la tienda del testimonio.
 
 ## Números 17:8
 
-Al día siguiente, Moisés entró en la tienda y vio que la vara de Aarón, que representaba a la tribu de Leví, había brotado, florecido y producido almendras.
+Al día siguiente, Moisés entró en la tienda y vio que la vara de Aarón, que representaba a la tribu de Leví, había brotado, echado botones, florecido y producido almendras.
 
 ## Números 17:9
 

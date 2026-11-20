@@ -20,21 +20,21 @@ El tercer ángel derramó su copa sobre los ríos y sobre las fuentes de las agu
 
 Y oí al ángel de las aguas, que decía:
 
-> “Justo eres tú, oh Santo, que eres y que eras,
-> porque has juzgado estas cosas;
+>  “Justo eres tú, oh Santo, que eres y que eras,
+>  porque has juzgado estas cosas;
 
 ## Apocalipsis 16:6
 
 > ya que derramaron la sangre de los santos y de los profetas,
-> también tú les has dado a beber sangre,
-> pues lo merecen.”
+>  también tú les has dado a beber sangre,
+>  pues lo merecen.”
 
 ## Apocalipsis 16:7
 
 Y oí al altar que decía:
 
-> “Sí, Señor Dios Todopoderoso,
-> verdaderos y justos son tus juicios.”
+>  “Sí, Señor Dios Todopoderoso,
+>  verdaderos y justos son tus juicios.”
 
 ## Apocalipsis 16:8
 

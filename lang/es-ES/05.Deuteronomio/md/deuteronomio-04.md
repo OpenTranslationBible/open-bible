@@ -46,7 +46,7 @@ Te acercaste y te paraste al pie de la montaña, que estaba ardiendo con fuego q
 
 ## Deuteronomio 4:12
 
-Entonces el Señor te habló desde en medio del fuego; oíste el sonido de palabras pero no viste forma alguna—solo había una voz.
+Entonces el Señor te habló desde en medio del fuego; oíste el sonido de palabras pero no viste forma alguna —solo había una voz—.
 
 ## Deuteronomio 4:13
 
@@ -74,7 +74,7 @@ o en forma de cualquier criatura que se mueve sobre el suelo o cualquier pez en 
 
 ## Deuteronomio 4:19
 
-Y cuando mires al cielo y veas el sol, la luna y las estrellas—todo el ejército celestial—no te dejes seducir para inclinarte ante ellos y adorarlos, cosas que el Señor tu Dios ha repartido a todas las naciones bajo el cielo.
+Y cuando mires al cielo y veas el sol, la luna y las estrellas —todo el ejército celestial— no te dejes seducir para inclinarte ante ellos y adorarlos, cosas que el Señor tu Dios ha repartido a todas las naciones bajo el cielo.
 
 ## Deuteronomio 4:20
 
@@ -86,7 +86,7 @@ El Señor se enojó conmigo por causa de vosotros, y juró que no cruzaría el J
 
 ## Deuteronomio 4:22
 
-Permaneceré en esta tierra; no cruzaré el Jordán; pero vosotros estáis a punto de cruzar y tomar posesión de esa buena tierra.
+Moriré en esta tierra; no cruzaré el Jordán; pero vosotros estáis a punto de cruzar y tomar posesión de esa buena tierra.
 
 ## Deuteronomio 4:23
 
@@ -98,7 +98,7 @@ Porque el Señor tu Dios es un fuego devorador, un Dios que desea devoción excl
 
 ## Deuteronomio 4:25
 
-Después de que hayas tenido hijos y nietos y hayas vivido en la tierra mucho tiempo—si entonces te corrompes y creas cualquier tipo de ídolo, haciendo lo que es malo a los ojos del Señor tu Dios y provocando su ira,
+Después de que hayas tenido hijos y nietos y hayas vivido en la tierra mucho tiempo —si entonces te corrompes y creas cualquier tipo de ídolo, haciendo lo que es malo a los ojos del Señor tu Dios y provocando su ira,—
 
 ## Deuteronomio 4:26
 

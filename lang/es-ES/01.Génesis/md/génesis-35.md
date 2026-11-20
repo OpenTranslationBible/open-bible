@@ -70,7 +70,7 @@ Durante su intenso trabajo de parto, la partera le dijo: “No temas, porque tie
 
 ## Génesis 35:18
 
-Mientras exhalaba su último aliento—pues estaba muriendo—llamó a su hijo Ben-oni, pero su padre lo llamó Benjamín.
+Mientras exhalaba su último aliento —pues estaba muriendo— llamó a su hijo Ben-oni, pero su padre lo llamó Benjamín.
 
 ## Génesis 35:19
 

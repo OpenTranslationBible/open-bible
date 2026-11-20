@@ -8,9 +8,9 @@ Y como colaboradores con Él, también os exhortamos a no recibir la gracia de D
 
 Porque Él dice,
 
-> “En el momento propicio te escuché,  
-> Y en el día de salvación te ayudé.”  
-> He aquí, ahora es “el momento propicio,” he aquí, ahora es “el día de salvación”—
+>  “En el momento propicio te escuché,  
+>  Y en el día de salvación te ayudé.”  
+>  He aquí, ahora es “el momento propicio,” he aquí, ahora es “el día de salvación”—
 
 ## 2 Corintios 6:3
 
@@ -54,7 +54,7 @@ No somos nosotros quienes os limitamos, sino más bien vuestros propios afectos 
 
 ## 2 Corintios 6:13
 
-Ahora, de la misma manera en intercambio—os hablo como a hijos—abrid también vuestros corazones de par en par.
+Ahora, de la misma manera en intercambio —os hablo como a hijos— abrid también vuestros corazones de par en par.
 
 ## 2 Corintios 6:14
 
@@ -68,21 +68,21 @@ No os unáis en yugo desigual con los incrédulos; porque ¿qué tiene en común
 
 ¿O qué acuerdo se puede encontrar entre el templo de Dios y los ídolos? Nosotros somos el templo del Dios viviente; como Dios ha declarado:
 
-> “Habitaré entre ellos y caminaré entre ellos;  
-> Y seré su Dios, y ellos serán Mi pueblo.
+>  “Habitaré entre ellos y caminaré entre ellos;  
+>  Y seré su Dios, y ellos serán Mi pueblo.
 
 ## 2 Corintios 6:17
 
 Por lo tanto,
 
-> salid de en medio de ellos y apartaos,” dice el Señor.  
-> “Y no toquéis lo que es impuro;  
-> Y os recibiré.
+>  salid de en medio de ellos y apartaos,” dice el Señor.  
+>  “Y no toquéis lo que es impuro;  
+>  Y os recibiré.
 
 ## 2 Corintios 6:18
 
-Y
+Y Seré un padre para vosotros,
 
-> Seré un padre para vosotros,  
-> Y vosotros seréis Mis hijos e hijas,”  
-> Declara el Señor Todopoderoso.
+>  Y vosotros seréis Mis hijos e hijas,  
+> ”  
+>  Declara el Señor Todopoderoso.

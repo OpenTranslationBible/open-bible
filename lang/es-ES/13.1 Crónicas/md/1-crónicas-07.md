@@ -4,7 +4,7 @@
 
 Los hijos de Isacar fueron:
 
-> Tola, Fúa, Jasub y Simrón, cuatro en total.
+>  Tola, Fúa, Jasub y Simrón, cuatro en total.
 
 ---
 
@@ -12,19 +12,19 @@ Los hijos de Isacar fueron:
 
 Los hijos de Tola fueron:
 
-> Uzi, Refaías, Jeriel, Jahmai, Ibsam y Samuel, jefes de las casas de sus padres.  
-> A los descendientes de Tola se les asignaron hombres de guerra en sus generaciones,  
-> su número en los días de David era de veintidós mil seiscientos.
+>  Uzi, Refaías, Jeriel, Jahmai, Ibsam y Samuel, jefes de las casas de sus padres.  
+>  A los descendientes de Tola se les asignaron hombres de guerra en sus generaciones,  
+>  su número en los días de David era de veintidós mil seiscientos.
 
 ---
 
 ## 1 Crónicas 7:3
 
 El hijo de Uzi fue Izrahías.  
-Y los hijos de Izrahías fueron:
+ Y los hijos de Izrahías fueron:
 
-> Micael, Abdías, Joel e Isías, cinco en total,  
-> todos ellos hombres principales.
+>  Micael, Abdías, Joel e Isías, cinco en total,  
+>  todos ellos hombres principales.
 
 ---
 
@@ -32,7 +32,7 @@ Y los hijos de Izrahías fueron:
 
 Junto con sus descendientes, según las casas de sus padres, tenían treinta y seis mil tropas para la batalla,
 
-> ya que tenían muchas mujeres e hijos.
+>  ya que tenían muchas mujeres e hijos.
 
 ---
 
@@ -40,8 +40,8 @@ Junto con sus descendientes, según las casas de sus padres, tenían treinta y s
 
 Sus parientes entre todas las familias de Isacar,
 
-> hombres valientes,  
-> fueron registrados por genealogía, ochenta y siete mil en total.
+>  hombres valientes,  
+>  fueron registrados por genealogía, ochenta y siete mil en total.
 
 ---
 
@@ -49,7 +49,7 @@ Sus parientes entre todas las familias de Isacar,
 
 Los hijos de Benjamín fueron:
 
-> Bela, Bequer y Jediael, tres.
+>  Bela, Bequer y Jediael, tres.
 
 ---
 
@@ -57,9 +57,9 @@ Los hijos de Benjamín fueron:
 
 Los hijos de Bela fueron:
 
-> Ezbón, Uzi, Uziel, Jerimot e Iri, cinco;  
-> eran jefes de casas paternas, hombres valientes,  
-> y fueron registrados por genealogía, veintidós mil treinta y cuatro.
+>  Ezbón, Uzi, Uziel, Jerimot e Iri, cinco;  
+>  eran jefes de casas paternas, hombres valientes,  
+>  y fueron registrados por genealogía, veintidós mil treinta y cuatro.
 
 ---
 
@@ -67,26 +67,26 @@ Los hijos de Bela fueron:
 
 Los hijos de Bequer incluían:
 
-> Zemira, Joás, Eliezer, Elioenai, Omri, Jeremot, Abías, Anatot y Alemet.  
-> Estos eran todos los hijos de Bequer.
+>  Zemira, Joás, Eliezer, Elioenai, Omri, Jeremot, Abías, Anatot y Alemet.  
+>  Estos eran todos los hijos de Bequer.
 
 ---
 
 ## 1 Crónicas 7:9
 
 Fueron registrados por genealogía según sus generaciones,  
-jefes de las casas de sus padres, hombres valientes—
+ jefes de las casas de sus padres,
 
-> veinte mil doscientos.
+>  hombres valientes —veinte mil doscientos—.
 
 ---
 
 ## 1 Crónicas 7:10
 
 El hijo de Jediael fue Bilhán.  
-Y los hijos de Bilhán fueron:
+ Y los hijos de Bilhán fueron:
 
-> Jeús, Benjamín, Ehud, Quenaaná, Zetán, Tarsis y Ahisáhar.
+>  Jeús, Benjamín, Ehud, Quenaaná, Zetán, Tarsis y Ahisáhar.
 
 ---
 
@@ -94,8 +94,8 @@ Y los hijos de Bilhán fueron:
 
 Todos estos fueron hijos de Jediael,
 
-> según los jefes de las casas de sus padres,  
-> diecisiete mil doscientos hombres valientes, listos para salir con el ejército a la guerra.
+>  según los jefes de las casas de sus padres,  
+>  diecisiete mil doscientos hombres valientes, listos para salir con el ejército a la guerra.
 
 ---
 
@@ -103,7 +103,7 @@ Todos estos fueron hijos de Jediael,
 
 Supim y Hupim fueron hijos de Ir;
 
-> Husim fue descendiente de Aher.
+>  Husim fue descendiente de Aher.
 
 ---
 
@@ -111,7 +111,7 @@ Supim y Hupim fueron hijos de Ir;
 
 Los hijos de Neftalí fueron:
 
-> Jahziel, Guní, Jezer y Salum, hijos de Bilhá.
+>  Jahziel, Guní, Jezer y Salum, hijos de Bilhá.
 
 ---
 
@@ -119,8 +119,8 @@ Los hijos de Neftalí fueron:
 
 Los hijos de Manasés fueron:
 
-> Asriel, a quien su concubina aramea dio a luz;  
-> ella dio a luz a Maquir, el padre de Galaad.
+>  Asriel, a quien su concubina aramea dio a luz;  
+>  ella dio a luz a Maquir, el padre de Galaad.
 
 ---
 
@@ -128,9 +128,9 @@ Los hijos de Manasés fueron:
 
 Maquir tomó una esposa para Hupim y Supim,
 
-> y su hermana se llamaba Maacá.  
-> El segundo se llamaba Zelofehad,  
-> y Zelofehad tuvo hijas.
+>  y su hermana se llamaba Maacá.  
+>  El segundo se llamaba Zelofehad,  
+>  y Zelofehad tuvo hijas.
 
 ---
 
@@ -138,11 +138,11 @@ Maquir tomó una esposa para Hupim y Supim,
 
 Maacá, la esposa de Maquir, dio a luz un hijo,
 
-> al que llamó Peres;  
-> y su hermano fue Seres.  
-> Sus hijos fueron:
+>  al que llamó Peres;  
+>  y su hermano fue Seres.  
+>  Sus hijos fueron:
 
-> Ulam y Requem.
+>  Ulam y Requem.
 
 ---
 
@@ -150,7 +150,7 @@ Maacá, la esposa de Maquir, dio a luz un hijo,
 
 El hijo de Ulam fue Bedán.
 
-> Estos fueron los descendientes de Galaad, el hijo de Maquir, el hijo de Manasés.
+>  Estos fueron los descendientes de Galaad, el hijo de Maquir, el hijo de Manasés.
 
 ---
 
@@ -158,7 +158,7 @@ El hijo de Ulam fue Bedán.
 
 Hammolequet, su hermana, fue madre de:
 
-> Isod, Abiezer y Mahla.
+>  Isod, Abiezer y Mahla.
 
 ---
 
@@ -166,7 +166,7 @@ Hammolequet, su hermana, fue madre de:
 
 Los descendientes de Semida incluían:
 
-> Ahían, Siquem, Liji y Aniam.
+>  Ahían, Siquem, Liji y Aniam.
 
 ---
 
@@ -174,15 +174,15 @@ Los descendientes de Semida incluían:
 
 Los hijos de Efraín fueron:
 
-> Sutelaj, y Bered su hijo, y Tahat su hijo,  
-> y Elada su hijo, y Tahat su hijo,
+>  Sutelaj, y Bered su hijo, y Tahat su hijo,  
+>  y Elada su hijo, y Tahat su hijo,
 
 ## 1 Crónicas 7:21
 
 > y Zabad su hijo, y Sutelaj su hijo,  
-> y Ezer y Elad.  
-> Pero los hombres de Gat que nacieron en la tierra los mataron,  
-> porque bajaron a tomar su ganado.
+>  y Ezer y Elad.  
+>  Pero los hombres de Gat que nacieron en la tierra los mataron,  
+>  porque bajaron a tomar su ganado.
 
 ---
 
@@ -190,7 +190,7 @@ Los hijos de Efraín fueron:
 
 Su padre Efraín lloró por muchos días,
 
-> y sus parientes vinieron a consolarlo.
+>  y sus parientes vinieron a consolarlo.
 
 ---
 
@@ -198,7 +198,7 @@ Su padre Efraín lloró por muchos días,
 
 Luego fue a su esposa, y ella concibió y dio a luz un hijo,
 
-> al que llamó Bería, porque la desgracia había caído sobre su casa.
+>  al que llamó Bería, porque la desgracia había caído sobre su casa.
 
 ---
 
@@ -206,7 +206,7 @@ Luego fue a su esposa, y ella concibió y dio a luz un hijo,
 
 Su hija fue Seera,
 
-> quien estableció Bet-horón de abajo y de arriba, y Uzen-seera.
+>  quien estableció Bet-horón de abajo y de arriba, y Uzen-seera.
 
 ---
 
@@ -214,7 +214,7 @@ Su hija fue Seera,
 
 Refah fue su hijo,
 
-> junto con Resef, Telah que engendró, Tahan que engendró,
+>  junto con Resef, Telah que engendró, Tahan que engendró,
 
 ## 1 Crónicas 7:26
 
@@ -230,9 +230,9 @@ Refah fue su hijo,
 
 Sus posesiones y asentamientos fueron:
 
-> Betel con sus aldeas,  
-> y al este Naarán, y al oeste Gezer con sus aldeas,  
-> también Siquem con sus aldeas, hasta Ayah con sus aldeas.
+>  Betel con sus aldeas,  
+>  y al este Naarán, y al oeste Gezer con sus aldeas,  
+>  también Siquem con sus aldeas, hasta Ayah con sus aldeas.
 
 ---
 
@@ -240,8 +240,8 @@ Sus posesiones y asentamientos fueron:
 
 Y a lo largo de las fronteras de los hijos de Manasés:
 
-> Bet-seán, Taanac, Meguido y Dor, con sus aldeas.  
-> En estos vivieron los hijos de José, el hijo de Israel.
+>  Bet-seán, Taanac, Meguido y Dor, con sus aldeas.  
+>  En estos vivieron los hijos de José, el hijo de Israel.
 
 ---
 
@@ -249,8 +249,8 @@ Y a lo largo de las fronteras de los hijos de Manasés:
 
 Los hijos de Aser fueron:
 
-> Imná, Isvá, Isví y Bería,  
-> y su hermana Sera.
+>  Imná, Isvá, Isví y Bería,  
+>  y su hermana Sera.
 
 ---
 
@@ -258,7 +258,7 @@ Los hijos de Aser fueron:
 
 Los hijos de Bería fueron:
 
-> Heber y Malquiel, quien fue el padre de Birzavit.
+>  Heber y Malquiel, quien fue el padre de Birzavit.
 
 ---
 
@@ -266,7 +266,7 @@ Los hijos de Bería fueron:
 
 Los hijos de Heber fueron:
 
-> Jaflet, Somer, Hotam, y su hermana Súah.
+>  Jaflet, Somer, Hotam, y su hermana Súah.
 
 ---
 
@@ -274,8 +274,8 @@ Los hijos de Heber fueron:
 
 Los hijos de Jaflet fueron:
 
-> Pasac, Bimhal y Asvat.  
-> Estos fueron los descendientes de Jaflet.
+>  Pasac, Bimhal y Asvat.  
+>  Estos fueron los descendientes de Jaflet.
 
 ---
 
@@ -283,7 +283,7 @@ Los hijos de Jaflet fueron:
 
 Los hijos de Semer fueron:
 
-> Ahí, Rohga, Jehúba y Aram.
+>  Ahí, Rohga, Jehúba y Aram.
 
 ---
 
@@ -291,7 +291,7 @@ Los hijos de Semer fueron:
 
 Los hijos de su hermano Helem incluían:
 
-> Zofa, Imna, Seles y Amal.
+>  Zofa, Imna, Seles y Amal.
 
 ---
 
@@ -299,7 +299,7 @@ Los hijos de su hermano Helem incluían:
 
 Los hijos de Zofa incluían:
 
-> Suah, Harnefer, Sual, Beri, Imra,
+>  Suah, Harnefer, Sual, Beri, Imra,
 
 ## 1 Crónicas 7:37
 
@@ -311,7 +311,7 @@ Los hijos de Zofa incluían:
 
 Los hijos de Jéter incluían:
 
-> Jefone, Pispa y Ara.
+>  Jefone, Pispa y Ara.
 
 ---
 
@@ -319,7 +319,7 @@ Los hijos de Jéter incluían:
 
 Los hijos de Ula incluían:
 
-> Ara, Haniel y Rizía.
+>  Ara, Haniel y Rizía.
 
 ---
 
@@ -327,6 +327,5 @@ Los hijos de Ula incluían:
 
 Todos estos fueron los hijos de Aser,
 
-> jefes de las casas de sus padres, hombres selectos y valientes, principales de los príncipes.  
-> Y el número de ellos inscritos por genealogía para el servicio en la guerra era  
-> de veintiséis mil hombres.
+>  jefes de las casas de sus padres, hombres selectos y valientes, principales de los príncipes.  
+>  Y el número de ellos inscritos por genealogía para el servicio en la guerra era de veintiséis mil hombres.

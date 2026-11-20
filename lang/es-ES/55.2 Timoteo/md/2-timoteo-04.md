@@ -10,7 +10,7 @@ Proclama la palabra; prepárate ya sea que el tiempo sea favorable o no; corrige
 
 ## 2 Timoteo 4:3
 
-Porque vendrá el tiempo cuando no aceptarán la sana doctrina; sino que, deseando tener sus oídos complacidos, reunirán para sí mismos maestros que se ajusten a sus propias preferencias,
+Porque vendrá el tiempo cuando no aceptarán la sana doctrina; sino que, teniendo comezón de oídos, reunirán para sí mismos maestros que se ajusten a sus propias preferencias,
 
 ## 2 Timoteo 4:4
 
@@ -26,7 +26,7 @@ Porque ya estoy siendo ofrecido, y el tiempo de mi partida está cerca.
 
 ## 2 Timoteo 4:7
 
-He luchado por pelear la buena batalla, he completado la carrera, he mantenido la fe;
+He peleado la buena batalla, he completado la carrera, he mantenido la fe;
 
 ## 2 Timoteo 4:8
 
@@ -46,7 +46,7 @@ Solo Lucas está conmigo. Toma a Marcos y tráelo contigo, porque me es útil en
 
 ## 2 Timoteo 4:12
 
-Como he enviado a Tíquico a Éfeso.
+Pero he enviado a Tíquico a Éfeso.
 
 ## 2 Timoteo 4:13
 
@@ -87,4 +87,4 @@ Haz todo lo posible por venir antes del invierno. Eubulo te saluda, así como Pu
 ## 2 Timoteo 4:22
 
 Que el Señor esté con tu espíritu.  
-Que la gracia sea contigo.
+ Que la gracia sea contigo.

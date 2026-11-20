@@ -82,7 +82,7 @@ Todo valor se fijará según el siclo del santuario, que consta de veinte geras.
 Si es uno de los animales impuros, puede ser redimido a su valor fijado más una quinta parte; si no se redime, se venderá a su valor fijado.
 
 ## Levítico 27:28
-“‘Nada de lo que una persona posee y dedica al Señor—sea humano, animal o tierra familiar—puede ser vendido o redimido; todo lo dedicado es santísimo para el Señor.
+“‘Nada de lo que una persona posee y dedica al Señor —sea humano, animal o tierra familiar— puede ser vendido o redimido; todo lo dedicado es santísimo para el Señor.
 
 ## Levítico 27:29
 Ninguna persona que esté destinada a destrucción puede ser rescatada; deben ser puestas a muerte.

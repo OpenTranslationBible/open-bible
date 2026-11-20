@@ -10,7 +10,7 @@ Jesús, junto con sus discípulos, fue invitado a la boda.
 
 ## Juan 2:3
 
-Cuando se acabó el vino, la madre de Jesús le dijo: "No tienen vino."
+Cuando se acabó el vino, la madre de Jesús le dijo: “No tienen vino.”
 
 ## Juan 2:4
 
@@ -18,7 +18,7 @@ Jesús respondió: "Mujer, ¿qué tiene esto que ver conmigo? Mi hora aún no ha
 
 ## Juan 2:5
 
-Su madre instruyó a los sirvientes: "Haced todo lo que él os diga."
+Su madre dijo a los sirvientes: “Haced todo lo que él os diga.”
 
 ## Juan 2:6
 

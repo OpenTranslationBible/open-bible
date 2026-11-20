@@ -13,7 +13,7 @@ pero a Esaú he odiado, y he convertido sus montañas en desolación y he dado s
 Edom puede decir, “Hemos sido abatidos, pero volveremos y reconstruiremos las ruinas.” Pero esto es lo que dice el Señor de los ejércitos: “Ellos pueden construir, pero yo derribaré. Serán llamados territorio de maldad, y el pueblo con el que el Señor está indignado para siempre.”
 
 ## Malaquías 1:5
-Vuestros ojos verán esto, y diréis, “Grande es el Señor—¡incluso más allá de las fronteras de Israel!”
+Vuestros ojos verán esto, y diréis, “Grande es el Señor —¡incluso más allá de las fronteras de Israel—!”
 
 ## Malaquías 1:6
 “Un hijo honra a su padre, y un siervo a su amo. Si yo soy un padre, ¿dónde está mi honor? Y si soy un amo, ¿dónde está mi respeto?” dice el Señor de los ejércitos a vosotros, los sacerdotes que desprecian mi nombre. Pero preguntáis, “¿Cómo hemos despreciado tu nombre?”

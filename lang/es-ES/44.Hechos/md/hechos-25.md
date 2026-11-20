@@ -2,7 +2,7 @@
 
 ## Hechos 25:1
 
-Pocos días después de llegar a la provincia, Festo viajó a Jerusalén desde Cesarea.
+Tres días después de llegar a la provincia, Festo viajó a Jerusalén desde Cesarea.
 
 ## Hechos 25:2
 

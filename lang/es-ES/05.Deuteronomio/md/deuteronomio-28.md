@@ -10,7 +10,7 @@ Todas estas bendiciones vendrán sobre ti y te acompañarán si obedeces al Señ
 Serás bendecido en la ciudad y bendecido en el campo.
 
 ## Deuteronomio 28:4
-Bendito será el fruto de tu vientre, el producto de tu tierra y las crías de tu ganado—los terneros de tus manadas y los corderos de tus rebaños.
+Bendito será el fruto de tu vientre, el producto de tu tierra y las crías de tu ganado —los terneros de tus manadas y los corderos de tus rebaños—.
 
 ## Deuteronomio 28:5
 Tu canasta y tu artesa de amasar serán favorecidas.
@@ -31,7 +31,7 @@ El Señor te establecerá como Su pueblo santo, como te juró, si guardas los ma
 Entonces todos los pueblos de la tierra verán que eres llamado por el nombre del Señor, y te temerán.
 
 ## Deuteronomio 28:11
-El Señor te concederá gran prosperidad—en el fruto de tu vientre, las crías de tu ganado y los cultivos de tu tierra—en la tierra que juró a tus antepasados darte.
+El Señor te concederá gran prosperidad —en el fruto de tu vientre, las crías de tu ganado y los cultivos de tu tierra— en la tierra que juró a tus antepasados darte.
 
 ## Deuteronomio 28:12
 El Señor abrirá los cielos, el almacén de Su abundancia, para enviar lluvia a tu tierra en su tiempo y para bendecir todo el trabajo de tus manos. Prestarás a muchas naciones, pero no tomarás prestado de ninguna.
@@ -142,7 +142,7 @@ Serán una señal y un prodigio para ti y tus descendientes para siempre.
 Porque no serviste al Señor tu Dios con alegría y gozo en el tiempo de prosperidad,
 
 ## Deuteronomio 28:48
-por lo tanto, en hambre y sed, en desnudez y pobreza extrema, servirás a los enemigos que el Señor enviará contra ti. Él pondrá un yugo pesado sobre tu cuello hasta que te haya destruido.
+por lo tanto, en hambre y sed, en desnudez y pobreza extrema, servirás a los enemigos que el Señor enviará contra ti. Él pondrá un yugo de hierro sobre tu cuello hasta que te haya destruido.
 
 ## Deuteronomio 28:49
 El Señor traerá contra ti una nación desde un lugar lejano, desde los confines de la tierra, como un águila que se abalanza, una nación cuyo idioma no entenderás,
@@ -166,13 +166,13 @@ Incluso el hombre más amable y sensible entre vosotros perderá la compasión p
 y se negará a compartir cualquier parte de la carne de sus hijos que esté consumiendo. Será todo lo que le quede debido a la dificultad que tu enemigo te impondrá durante el asedio de todas tus ciudades.
 
 ## Deuteronomio 28:56
-La mujer más amable y sensible entre vosotros—tan delicada y tierna que no se atrevería a tocar el suelo con la planta de su pie—envidiará al esposo que ama y a su propio hijo o hija
+La mujer más amable y sensible entre vosotros —tan delicada y tierna que no se atrevería a tocar el suelo con la planta de su pie— envidiará al esposo que ama y a su propio hijo o hija
 
 ## Deuteronomio 28:57
 el posparto de su vientre y los hijos que da a luz. En su extrema necesidad, tiene la intención de consumirlos en secreto debido a la dificultad que tu enemigo te impondrá durante el asedio de tus ciudades.
 
 ## Deuteronomio 28:58
-Si no sigues cuidadosamente todas las palabras de esta ley, que están escritas en este libro, y no tienes reverencia por este nombre glorioso y temible—el Señor tu Dios—
+Si no sigues cuidadosamente todas las palabras de esta ley, que están escritas en este libro, y no tienes reverencia por este nombre glorioso y temible —el Señor tu Dios—
 
 ## Deuteronomio 28:59
 el Señor enviará plagas terribles sobre ti y tus descendientes, desastres duros y prolongados, y enfermedades severas y persistentes.
@@ -190,7 +190,7 @@ Tú que eras tan numeroso como las estrellas del cielo quedarás con solo unos p
 Así como al Señor le agradó hacerte prosperar y aumentar en número, así le agradará llevarte a la ruina y destrucción. Serás arrancado de la tierra que estás entrando para poseer.
 
 ## Deuteronomio 28:64
-Entonces el Señor te dispersará entre todas las naciones, de un extremo de la tierra al otro. Allí servirás a otros dioses—dioses de madera y piedra, que ni tú ni tus antepasados conocieron.
+Entonces el Señor te dispersará entre todas las naciones, de un extremo de la tierra al otro. Allí servirás a otros dioses —dioses de madera y piedra, que ni tú ni tus antepasados conocieron—.
 
 ## Deuteronomio 28:65
 Entre esas naciones no encontrarás descanso, ni lugar de reposo para la planta de tu pie. Allí el Señor te dará una mente ansiosa, ojos cansados de anhelar, y un corazón desesperado.
@@ -199,7 +199,7 @@ Entre esas naciones no encontrarás descanso, ni lugar de reposo para la planta 
 Vivirás en constante incertidumbre, lleno de temor tanto de noche como de día, sin estar nunca seguro de tu vida.
 
 ## Deuteronomio 28:67
-Por la mañana dirás: “¡Ojalá fuera de noche!” y por la noche, “¡Ojalá fuera de mañana!”—debido al terror que llenará tu corazón y a las cosas que tus ojos presenciarán.
+Por la mañana dirás: “¡Ojalá fuera de noche!” y por la noche, “¡Ojalá fuera de mañana!” —debido al terror que llenará tu corazón y a las cosas que tus ojos presenciarán—.
 
 ## Deuteronomio 28:68
 El Señor te enviará de regreso en barcos a Egipto en un viaje que dije que nunca volverías a hacer. Allí te ofrecerás en venta a tus enemigos como siervos y siervas, pero no habrá quien te compre.

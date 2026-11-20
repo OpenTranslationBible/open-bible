@@ -96,14 +96,14 @@ Con sus muchas persuasiones lo atrae; con sus labios suaves lo seduce.
 
 De repente la sigue como un buey que va al matadero,
 
-> o como un ciervo que pisa en una trampa,
+>  o como un ciervo que pisa en una trampa,
 
 ## Proverbios 7:23
 
 hasta que una flecha le atraviesa el hígado;
 
-> como un pájaro que se precipita en una trampa,
-> sin saber que le costará la vida.
+>  como un pájaro que se precipita en una trampa,
+>  sin saber que le costará la vida.
 
 ---
 

@@ -10,7 +10,7 @@ Si el culpable merece ser azotado, el juez hará que se acueste y lo hará azota
 El juez no debe imponer más de cuarenta azotes, para que tu compatriota israelita no se vuelva despreciable a tus ojos por ser golpeado en exceso.
 
 ## Deuteronomio 25:4
-No impidas que un buey coma mientras está trabajando para trillar el grano.
+No pongas bozal al buey mientras está trabajando para trillar el grano.
 
 ## Deuteronomio 25:5
 Si los hermanos viven juntos y uno de ellos muere sin tener un hijo, la viuda no debe casarse fuera de la familia. El hermano del difunto se casará con ella y cumplirá con el deber de cuñado hacia ella.
@@ -34,7 +34,7 @@ Su familia será conocida en Israel como La Casa del Descalzado.
 Si dos hombres están peleando y la esposa de uno interviene para rescatar a su esposo de su agresor, y ella extiende la mano y lo agarra por sus partes íntimas,
 
 ## Deuteronomio 25:12
-tomarás las medidas apropiadas. No muestres indulgencia.
+le cortarás la mano. No muestres indulgencia.
 
 ## Deuteronomio 25:13
 No tengas en tu bolsa pesas diferentes, una pesada y otra ligera.

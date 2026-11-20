@@ -44,7 +44,7 @@ También contó esta parábola a algunos que confiaban en su propia justicia y m
 
 ## Lucas 18:11
 
-El fariseo, de pie, oraba para sí: ‘Dios, te doy gracias porque no soy como los demás hombres—ladrones, malhechores, adúlteros—o incluso como este recaudador de impuestos.
+El fariseo, de pie, oraba para sí: ‘Dios, te doy gracias porque no soy como los demás hombres —ladrones, malhechores, adúlteros— o incluso como este recaudador de impuestos.
 
 ## Lucas 18:12
 

@@ -64,7 +64,7 @@ Noemí dijo: “Mira, tu cuñada regresa a su pueblo y a sus dioses. Vuelve con 
 
 ## Rut 1:16
 
-Pero Rut respondió: “No me instes a dejarte o a volver de seguirte. Donde tú vayas, iré yo, y donde tú vivas, viviré. Tu pueblo será mi pueblo y tu Dios mi Dios.
+Pero Rut respondió: “No insistas en que te deje o en que me vuelva y deje de seguirte. Donde tú vayas, iré yo, y donde tú vivas, viviré. Tu pueblo será mi pueblo y tu Dios mi Dios.
 
 ## Rut 1:17
 
@@ -80,7 +80,7 @@ Las dos mujeres continuaron hasta que llegaron a Belén. Cuando llegaron a Belé
 
 ## Rut 1:20
 
-Ella les respondió: “No me llaméis Noemí; en su lugar llamadme Mara, porque el Todopoderoso ha tratado conmigo muy amargamente.
+Ella les respondió: “No me llaméis Noemí; llamadme Mara, porque el Todopoderoso me ha llenado de amargura.
 
 ## Rut 1:21
 

@@ -138,15 +138,15 @@ Felipe corrió hacia él, y le oyó leer al profeta Isaías, y le preguntó: “
 
 El pasaje de la Escritura que leía era este:
 
-> “Como oveja fue llevado al matadero,
-> y como cordero mudo delante del que lo trasquila,
-> así no abre su boca.
+>  “Como oveja fue llevado al matadero,
+>  y como cordero mudo delante del que lo trasquila,
+>  así no abre su boca.
 
 ## Hechos 8:33
 
 > En su humillación, le fue negada la justicia.
-> ¿Quién hablará de su descendencia?
-> Porque su vida fue quitada de la tierra.”
+>  ¿Quién hablará de su descendencia?
+>  Porque su vida fue quitada de la tierra.”
 
 ## Hechos 8:34
 

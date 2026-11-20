@@ -38,7 +38,7 @@ Por así decirlo, a través de Abraham incluso Leví, que recibe los diezmos, ha
 
 ## Hebreos 7:10
 
-pues aún no había nacido, aún no había sido producido de sus antepasados cuando Melquisedec lo encontró.
+pues aún estaba en el cuerpo de su antepasado cuando Melquisedec lo encontró.
 
 ## Hebreos 7:11
 
@@ -68,8 +68,8 @@ que se ha convertido en sacerdote no sobre la base de un reglamento respecto a s
 
 Porque se declara acerca de Él:
 
-> “Tú eres sacerdote para siempre,
-> según el orden de Melquisedec.”
+>  “Tú eres sacerdote para siempre,
+>  según el orden de Melquisedec.”
 
 ## Hebreos 7:18
 
@@ -87,9 +87,9 @@ La regulación anterior se deja de lado porque era débil e ineficaz.
 
 Porque otros se hicieron sacerdotes sin ningún juramento, pero Él se hizo sacerdote con un juramento cuando Dios le dijo:
 
-> “El Señor ha jurado
-> y no cambiará de parecer:
-> ‘Tú eres sacerdote para siempre.’”
+>  “El Señor ha jurado y no cambiará de parecer:
+>  ‘Tú eres sacerdote para siempre.
+> ’”
 
 ## Hebreos 7:22
 

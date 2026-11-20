@@ -76,7 +76,7 @@ Así dice el Señor acerca de Joacim hijo de Josías, rey de Judá: “No lo llo
 
 ## Jeremías 22:19
 
-Tendrá el entierro de un asno—arrastrado y arrojado fuera de las puertas de Jerusalén.”
+Tendrá el entierro de un asno —arrastrado y arrojado fuera de las puertas de Jerusalén—.”
 
 ## Jeremías 22:20
 
@@ -100,7 +100,7 @@ Tú que habitas en el Líbano, anidada en edificios de cedro, ¡cómo gemirás c
 
 ## Jeremías 22:25
 
-Te entregaré en manos de aquellos que buscan tu vida, aquellos a quienes temes—Nabucodonosor rey de Babilonia y los caldeos.
+Te entregaré en manos de aquellos que buscan tu vida, aquellos a quienes temes —Nabucodonosor rey de Babilonia y los caldeos—.
 
 ## Jeremías 22:26
 

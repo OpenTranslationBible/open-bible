@@ -22,7 +22,7 @@ No cedimos a ellos ni por un momento, para que la verdad del evangelio permaneci
 
 ## Gálatas 2:6
 
-Respecto a aquellos de alta estima—lo que fueran no hace diferencia para mí; Dios no muestra parcialidad—no añadieron nada a mi mensaje.
+Respecto a aquellos de alta estima —lo que fueran no hace diferencia para mí; Dios no muestra parcialidad— no añadieron nada a mi mensaje.
 
 ## Gálatas 2:7
 
@@ -42,7 +42,7 @@ Solo nos pidieron que recordáramos a los pobres, lo cual era precisamente lo qu
 
 ## Gálatas 2:11
 
-Sin embargo, cuando Cefas vino a Antioquía, le hablé abiertamente, porque claramente estaba equivocado.
+Sin embargo, cuando Cefas vino a Antioquía, me le opuse cara a cara, porque claramente estaba equivocado.
 
 ## Gálatas 2:12
 

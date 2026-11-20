@@ -6,7 +6,7 @@
 
 ## Levítico 5:2
 
-O si una persona se da cuenta de su culpa después de tocar sin saberlo algo que es ceremonialmente impuro—ya sea el cadáver de un animal impuro, ya sea salvaje o doméstico, o cualquier criatura impura que se mueve por el suelo—y se da cuenta de su impureza;
+O si una persona se da cuenta de su culpa después de tocar sin saberlo algo que es ceremonialmente impuro —ya sea el cadáver de un animal impuro, ya sea salvaje o doméstico, o cualquier criatura impura que se mueve por el suelo— y se da cuenta de su impureza;
 
 ## Levítico 5:3
 
@@ -26,7 +26,7 @@ Como penalización por el pecado que han cometido, deben traer al Señor una hem
 
 ## Levítico 5:7
 
-Si no pueden costear un cordero, deben traer dos tórtolas o dos pichones al Señor como penalización por su pecado—uno para una ofrenda por el pecado y el otro para una ofrenda quemada.
+Si no pueden costear un cordero, deben traer dos tórtolas o dos pichones al Señor como penalización por su pecado —uno para una ofrenda por el pecado y el otro para una ofrenda quemada—.
 
 ## Levítico 5:8
 

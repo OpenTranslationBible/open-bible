@@ -71,33 +71,30 @@ En cambio, esto es lo que fue predicho por el profeta Joel:
 ## Hechos 2:17
 
 > ‘En los últimos días,’ dice Dios,
-> ‘derramaré mi Espíritu sobre toda la gente;
-> sus hijos e hijas profetizarán,
-> sus jóvenes verán visiones,
-> y sus ancianos soñarán sueños.
+>  ‘derramaré mi Espíritu sobre toda la gente;
+>  sus hijos e hijas profetizarán,
+>  sus jóvenes verán visiones,
+>  y sus ancianos soñarán sueños.
 
 ## Hechos 2:18
 
-> Sobre mis siervos y siervas
-> derramaré mi Espíritu en aquellos días,
-> y profetizarán.
+> Sobre mis siervos y siervas derramaré mi Espíritu en aquellos días,
+>  y profetizarán.
 
 ## Hechos 2:19
 
-> Mostraré maravillas en los cielos arriba
-> y señales en la tierra abajo,
-> sangre, fuego y nubes de humo.
+> Mostraré maravillas en los cielos arriba y señales en la tierra abajo,
+>  sangre,
+>  fuego y nubes de humo.
 
 ## Hechos 2:20
 
-> El sol se oscurecerá
-> y la luna se convertirá en sangre
-> antes de que llegue el gran y glorioso día del Señor.
+> El sol se oscurecerá y la luna se convertirá en sangre antes de que llegue el gran y glorioso día del Señor.
 
 ## Hechos 2:21
 
-> Y todo el que invoque el nombre del Señor
-> encontrará salvación.’
+> Y todo el que invoque el nombre del Señor encontrará salvación.
+> ’
 
 ---
 
@@ -117,23 +114,23 @@ Sin embargo, Dios lo resucitó de entre los muertos, liberándolo de la agonía 
 
 David habló acerca de él:
 
-> ‘Veía al Señor siempre delante de mí.
-> Porque él está a mi derecha, no seré sacudido.
+>  ‘Veía al Señor siempre delante de mí.
+>  Porque él está a mi derecha, no seré sacudido.
 
 ## Hechos 2:26
 
 > Por eso mi corazón se alegra y mi lengua se exalta;
-> y mi cuerpo descansará en esperanza,
+>  y mi cuerpo descansará en esperanza,
 
 ## Hechos 2:27
 
 > porque no me abandonarás al reino de los muertos,
-> ni permitirás que tu Santo vea corrupción.
+>  ni permitirás que tu Santo vea corrupción.
 
 ## Hechos 2:28
 
 > Me has revelado los caminos de la vida;
-> me llenarás de alegría en tu presencia.’
+>  me llenarás de alegría en tu presencia.’
 
 ---
 
@@ -161,13 +158,13 @@ Exaltado a la derecha de Dios, ha recibido del Padre el Espíritu Santo prometid
 
 Porque David no ascendió al cielo, y sin embargo dijo,
 
-> ‘El Señor declaró a mi Señor:
-> “Siéntate a mi derecha
+>  ‘El Señor declaró a mi Señor:
+>  “Siéntate a mi derecha
 
 ## Hechos 2:35
 
-> hasta que ponga a tus enemigos
-> bajo tus pies.”’
+> hasta que ponga a tus enemigos por estrado de tus pies.
+> ”’
 
 ## Hechos 2:36
 

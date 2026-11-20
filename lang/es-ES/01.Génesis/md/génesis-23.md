@@ -49,7 +49,7 @@ Efrón respondió a Abraham, diciéndole,
 Abraham acordó con Efrón y pesó para él la plata que había mencionado en presencia de los hititas: cuatrocientos siclos de plata, según el peso corriente entre los mercaderes.
 
 ## Génesis 23:17
-Así, el campo de Efrón en Macpela cerca de Mamré—el campo con la cueva en él, y todos los árboles dentro de los límites del campo—fue transferido
+Así, el campo de Efrón en Macpela cerca de Mamré —el campo con la cueva en él, y todos los árboles dentro de los límites del campo— fue transferido
 
 ## Génesis 23:18
 a Abraham como su posesión en presencia de los hititas, ante todos los que entraban por la puerta de su ciudad.

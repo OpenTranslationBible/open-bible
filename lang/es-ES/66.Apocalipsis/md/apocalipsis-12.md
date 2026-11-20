@@ -40,26 +40,22 @@ Y fue arrojado el gran dragón, la serpiente antigua que se llama diablo y Satan
 
 Entonces oí una gran voz en el cielo que decía:
 
-> “Ahora ha venido la salvación y el poder
-> y el reino de nuestro Dios,
-> y la autoridad de su Cristo,
-> porque el acusador de nuestros hermanos,
-> el que los acusaba delante de nuestro Dios día y noche,
-> ha sido arrojado.
+>  “Ahora ha venido la salvación y el poder y el reino de nuestro Dios,
+>  y la autoridad de su Cristo,
+>  porque el acusador de nuestros hermanos,
+>  el que los acusaba delante de nuestro Dios día y noche,
+>  ha sido arrojado.
 
 ## Apocalipsis 12:11
 
-> Ellos le han vencido
-> por medio de la sangre del Cordero
-> y de la palabra del testimonio de ellos;
-> y no amaron sus vidas
-> hasta la muerte.
+> Ellos le han vencido por medio de la sangre del Cordero y de la palabra del testimonio de ellos;
+>  y no amaron sus vidas hasta la muerte.
 
 ## Apocalipsis 12:12
 
 > Por lo cual, alegraos, cielos, y los que moráis en ellos.
-> ¡Ay de los moradores de la tierra y del mar! porque el diablo ha descendido a vosotros con gran ira,
-> sabiendo que tiene poco tiempo.”
+>  ¡Ay de los moradores de la tierra y del mar! porque el diablo ha descendido a vosotros con gran ira,
+>  sabiendo que tiene poco tiempo.”
 
 ## Apocalipsis 12:13
 

@@ -83,7 +83,7 @@ Ahora Saúl y todos los hombres de Israel estaban en el Valle de Elah, luchando 
 ## 1 Samuel 17:20
 
 Así que David se levantó temprano en la mañana, dejó el rebaño con un guardián, tomó los suministros y fue como Isaí le había mandado.  
-Llegó al campamento cuando el ejército salía a la línea de batalla gritando el grito de guerra.
+ Llegó al campamento cuando el ejército salía a la línea de batalla gritando el grito de guerra.
 
 ## 1 Samuel 17:21
 
@@ -156,7 +156,7 @@ Tu siervo ha vencido tanto al león como al oso; y este filisteo incircunciso se
 ## 1 Samuel 17:37
 
 Y David dijo: “El Señor, que me rescató de la garra del león y de la garra del oso, me rescatará de la mano de este filisteo.”  
-Y Saúl dijo a David: “Ve, y que el Señor esté contigo.”
+ Y Saúl dijo a David: “Ve, y que el Señor esté contigo.”
 
 ---
 
@@ -167,14 +167,14 @@ Entonces Saúl vistió a David con sus vestiduras y puso un casco de bronce en s
 ## 1 Samuel 17:39
 
 David ciñó su espada sobre su armadura e intentó caminar, pero no estaba acostumbrado a ellas.  
-Así que David dijo a Saúl: “No puedo ir con estas, porque no estoy acostumbrado a ellas.”  
-Y David se las quitó.
+ Así que David dijo a Saúl: “No puedo ir con estas, porque no estoy acostumbrado a ellas.”  
+ Y David se las quitó.
 
 ## 1 Samuel 17:40
 
 Entonces tomó su bastón en su mano, y escogió para sí cinco piedras lisas del arroyo,  
-y las puso en la bolsa del pastor que tenía, es decir, en su zurrón, y su honda estaba en su mano.  
-Y se acercó al filisteo.
+ y las puso en la bolsa del pastor que tenía, es decir, en su zurrón, y su honda estaba en su mano.  
+ Y se acercó al filisteo.
 
 ## 1 Samuel 17:41
 
@@ -187,7 +187,7 @@ Cuando el filisteo miró y vio a David, lo despreció, porque era sólo un joven
 ## 1 Samuel 17:43
 
 El filisteo dijo a David: “¿Soy yo un perro, para que vengas a mí con palos?”  
-Y maldijo a David por sus dioses.
+ Y maldijo a David por sus dioses.
 
 ## 1 Samuel 17:44
 
@@ -199,55 +199,54 @@ El filisteo también dijo a David: “Ven a mí, y daré tu carne a las aves del
 
 Entonces David dijo al filisteo,
 
-> “Tú vienes a mí con espada, lanza y jabalina,  
-> pero yo vengo a ti en el nombre del Señor de los ejércitos,  
-> el Dios de los ejércitos de Israel, a quien has desafiado.
+>  “Tú vienes a mí con espada, lanza y jabalina,  
+>  pero yo vengo a ti en el nombre del Señor de los ejércitos,  
+>  el Dios de los ejércitos de Israel, a quien has desafiado.
 
 ## 1 Samuel 17:46
 
 > Hoy el Señor te entregará en mi mano,  
-> y te heriré y te quitaré la cabeza.  
-> Y daré hoy los cadáveres del ejército de los filisteos  
-> a las aves del cielo y a las bestias de la tierra,  
-> para que toda la tierra sepa que hay un Dios en Israel,
+>  y te heriré y te quitaré la cabeza.  
+>  Y daré hoy los cadáveres del ejército de los filisteos a las aves del cielo y a las bestias de la tierra,  
+>  para que toda la tierra sepa que hay un Dios en Israel,
 
 ## 1 Samuel 17:47
 
-> y para que toda esta asamblea sepa  
-> que el Señor no salva con espada ni con lanza;  
-> porque la batalla es del Señor,  
-> y Él os entregará en nuestras manos.”
+> y para que toda esta asamblea sepa que el Señor no salva con espada ni con lanza;  
+>  porque la batalla es del Señor,  
+>  y Él os entregará en nuestras manos.  
+> ”
 
 ---
 
 ## 1 Samuel 17:48
 
 Entonces sucedió que, cuando el filisteo se levantó y avanzó para encontrarse con David,  
-David corrió rápidamente hacia la línea de batalla para encontrarse con el filisteo.
+ David corrió rápidamente hacia la línea de batalla para encontrarse con el filisteo.
 
 ## 1 Samuel 17:49
 
 Y David metió su mano en su bolsa y sacó de ella una piedra y la lanzó,  
-y golpeó al filisteo en su frente.  
-La piedra se hundió en su frente, y cayó sobre su rostro en tierra.
+ y golpeó al filisteo en su frente.  
+ La piedra se hundió en su frente, y cayó sobre su rostro en tierra.
 
 ## 1 Samuel 17:50
 
 Así David prevaleció sobre el filisteo con una honda y una piedra,  
-y golpeó al filisteo y lo mató;  
-pero no había espada en la mano de David.
+ y golpeó al filisteo y lo mató;  
+ pero no había espada en la mano de David.
 
 ## 1 Samuel 17:51
 
 Entonces David corrió y se paró sobre el filisteo, tomó su espada y la sacó de su vaina,  
-y lo mató y le cortó la cabeza con ella.  
-Cuando los filisteos vieron que su campeón estaba muerto, huyeron.
+ y lo mató y le cortó la cabeza con ella.  
+ Cuando los filisteos vieron que su campeón estaba muerto, huyeron.
 
 ## 1 Samuel 17:52
 
 Entonces los hombres de Israel y de Judá se levantaron y gritaron y persiguieron a los filisteos hasta el valle,  
-y hasta las puertas de Ecrón.  
-Y los filisteos muertos yacían por el camino a Saaraim, hasta Gat y Ecrón.
+ y hasta las puertas de Ecrón.  
+ Y los filisteos muertos yacían por el camino a Saaraim, hasta Gat y Ecrón.
 
 ## 1 Samuel 17:53
 
@@ -256,15 +255,15 @@ Entonces los hijos de Israel regresaron de perseguir a los filisteos y saquearon
 ## 1 Samuel 17:54
 
 David tomó la cabeza del filisteo y la llevó a Jerusalén,  
-pero puso sus armas en su propia tienda.
+ pero puso sus armas en su propia tienda.
 
 ---
 
 ## 1 Samuel 17:55
 
 Ahora, cuando Saúl vio a David salir contra el filisteo,  
-dijo a Abner, el comandante del ejército: “Abner, ¿de quién es hijo este joven?”  
-Y Abner dijo: “Vive tu alma, oh rey, que no lo sé.”
+ dijo a Abner, el comandante del ejército: “Abner, ¿de quién es hijo este joven?”  
+ Y Abner dijo: “Vive tu alma, oh rey, que no lo sé.”
 
 ## 1 Samuel 17:56
 
@@ -277,4 +276,4 @@ Así que cuando David regresó de matar al filisteo, Abner lo tomó y lo llevó 
 ## 1 Samuel 17:58
 
 Saúl le dijo: “¿De quién eres hijo, joven?”  
-Y David dijo: “Soy hijo de tu siervo Isaí el belenita.”
+ Y David dijo: “Soy hijo de tu siervo Isaí el belenita.”

@@ -42,7 +42,7 @@ y con todo el engaño de la maldad para aquellos que están pereciendo, porque n
 
 ## 2 Tesalonicenses 2:11
 
-Por eso, Dios permitirá que sean influenciados por un fuerte engaño, para que crean lo que es falso,
+Por eso, Dios les enviará un fuerte engaño, para que crean lo que es falso,
 
 ## 2 Tesalonicenses 2:12
 

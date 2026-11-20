@@ -160,7 +160,7 @@ Jesús dijo: “Ya lo has visto; de hecho, Él es el que está hablando contigo.
 
 ## Juan 9:38
 
-El hombre respondió: “Señor, creo,” y lo honró.
+El hombre respondió: “Señor, creo,” y lo adoró.
 
 ---
 

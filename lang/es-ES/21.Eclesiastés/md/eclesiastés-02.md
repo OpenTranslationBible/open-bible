@@ -10,7 +10,7 @@ Dije de la risa: “Es locura,” y del placer: “¿Qué logra?”
 
 ## Eclesiastés 2:3
 
-Busqué alegrarme con vino, abrazando la locura—mi mente aún guiándome con sabiduría—para discernir qué es bueno que hagan las personas bajo los cielos durante el breve lapso de sus vidas.
+Busqué alegrarme con vino, abrazando la locura —mi mente aún guiándome con sabiduría— para discernir qué es bueno que hagan las personas bajo los cielos durante el breve lapso de sus vidas.
 
 ## Eclesiastés 2:4
 

@@ -46,26 +46,26 @@ Hijo mío, si los pecadores intentan atraerte, no los sigas.
 
 Si dicen: “Únete a nosotros,
 
-> esperemos en secreto por sangre,
-> embosquemos al inocente sin causa;
+>  esperemos en secreto por sangre,
+>  embosquemos al inocente sin causa;
 
 ## Proverbios 1:12
 
 Traguémoslos vivos como el sepulcro,
 
-> y enteros, como los que descienden a la fosa;
+>  y enteros, como los que descienden a la fosa;
 
 ## Proverbios 1:13
 
 Encontraremos toda clase de bienes preciosos,
 
-> llenaremos nuestras casas con botín;
+>  llenaremos nuestras casas con botín;
 
 ## Proverbios 1:14
 
 Echa tu suerte con nosotros,
 
-> compartiremos todos una bolsa”—
+>  compartiremos todos una bolsa”—
 
 ## Proverbios 1:15
 
@@ -74,7 +74,7 @@ Hijo mío, no andes por su camino, aparta tu pie de su senda,
 ## Proverbios 1:16
 
 Porque son rápidos para perseguir el mal,
-y se apresuran a derramar sangre.
+ y se apresuran a derramar sangre.
 
 ## Proverbios 1:17
 
@@ -93,26 +93,25 @@ Así son los caminos de todos los que codician ganancias injustas; quita la vida
 ## Proverbios 1:20
 
 La sabiduría clama en la calle,
-levanta su voz en las plazas públicas;
+ levanta su voz en las plazas públicas;
 
 ## Proverbios 1:21
 
 En la cabeza de las calles bulliciosas clama,
-en la entrada de las puertas de la ciudad pronuncia su discurso:
+ en la entrada de las puertas de la ciudad pronuncia su discurso:
 
 ## Proverbios 1:22
 
 “¿Hasta cuándo, simples, amaréis la simpleza?
 
-> ¿Hasta cuándo los burladores se deleitarán en la burla
-> y los necios odiarán el conocimiento?
+>  ¿Hasta cuándo los burladores se deleitarán en la burla y los necios odiarán el conocimiento?
 
 ## Proverbios 1:23
 
 ¡Arrepentíos ante mi reprensión!
 
-> Entonces derramaré mi espíritu sobre vosotros,
-> os haré conocer mis palabras.
+>  Entonces derramaré mi espíritu sobre vosotros,
+>  os haré conocer mis palabras.
 
 ## Proverbios 1:24
 
@@ -120,13 +119,12 @@ Porque llamé y rehusasteis, extendí mi mano y nadie atendió;
 
 ## Proverbios 1:25
 
-Ya que ignorasteis todo mi consejo
-y no quisisteis aceptar mi reprensión,
+Ya que ignorasteis todo mi consejo y no quisisteis aceptar mi reprensión,
 
 ## Proverbios 1:26
 
 También yo me reiré de vuestra calamidad;
-responderé con burla cuando venga vuestro terror,
+ responderé con burla cuando venga vuestro terror,
 
 ---
 

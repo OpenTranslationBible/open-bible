@@ -24,8 +24,8 @@ Gente adúltera, ¿no os dais cuenta de que la amistad con el mundo es enemistad
 
 Pero Él nos da mayor gracia. Por eso la Escritura dice:
 
-> “Dios se opone a los orgullosos,
-> pero da gracia a los humildes.”
+>  “Dios se opone a los orgullosos,
+>  pero da gracia a los humildes.”
 
 ## Santiago 4:7
 
@@ -57,7 +57,7 @@ Ahora bien, vosotros que decís: “Hoy o mañana iremos a tal o cual ciudad, pa
 
 ## Santiago 4:14
 
-Sin embargo, no sabéis cómo será vuestra vida mañana. Sois una neblina que aparece por un poco de tiempo y luego se desvanece.
+Sin embargo, no sabéis cómo será vuestra vida mañana. ¿Qué es vuestra vida? Sois una neblina que aparece por un poco de tiempo y luego se desvanece.
 
 ## Santiago 4:15
 

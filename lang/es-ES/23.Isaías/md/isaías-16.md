@@ -16,7 +16,7 @@ Que los desterrados de Moab residan contigo; proporciónales refugio contra el d
 Con fidelidad, se establecerá un trono; uno se sentará en él en la tienda de David, buscando justicia y siendo rápido en la rectitud.
 
 ## Isaías 16:6
-Hemos oído del orgullo de Moab—¡cuán excesiva es su arrogancia!—de su vanidad, su orgullo y su furia; pero sus jactancias son vacías.
+Hemos oído del orgullo de Moab —¡cuán excesiva es su arrogancia!— de su vanidad, su orgullo y su furia; pero sus jactancias son vacías.
 
 ## Isaías 16:7
 Por tanto, Moab se lamentará; todo Moab se lamentará. Llorad por las tortas de pasas de Kir Hareset como aquellos profundamente heridos.

@@ -36,7 +36,7 @@ Guardando las sendas de la justicia y vigilando el camino de sus fieles.
 
 ## Proverbios 2:9
 
-Entonces percibirás lo que es correcto, justo y equitativo—cada buen camino.
+Entonces percibirás lo que es correcto, justo y equitativo —cada buen camino—.
 
 ## Proverbios 2:10
 

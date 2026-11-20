@@ -48,7 +48,7 @@ Poco después, Jesús fue a una ciudad llamada Naín, y Sus discípulos y una gr
 
 ## Lucas 7:12
 
-Al acercarse a la puerta de la ciudad, un hombre muerto era llevado afuera—el único hijo de su madre, y ella era viuda. Una gran multitud de la ciudad estaba con ella.
+Al acercarse a la puerta de la ciudad, un hombre muerto era llevado afuera —el único hijo de su madre, y ella era viuda. Una gran multitud de la ciudad estaba con ella—.
 
 ## Lucas 7:13
 
@@ -114,8 +114,8 @@ Pero, ¿qué salisteis a ver? ¿Un profeta? Sí, os digo, y más que un profeta.
 
 Este es de quien está escrito:
 
-> ‘He aquí, envío mi mensajero delante de ti,
-> quien preparará tu camino delante de ti.’
+>  ‘He aquí, envío mi mensajero delante de ti,
+>  quien preparará tu camino delante de ti.’
 
 ## Lucas 7:28
 
@@ -139,10 +139,10 @@ Pero los fariseos y los expertos en la ley rechazaron el propósito de Dios para
 
 Son como niños sentados en la plaza del mercado y llamándose unos a otros:
 
-> ‘Os tocamos la flauta,
-> y no bailasteis;
-> os cantamos una endecha,
-> y no llorasteis.’
+>  ‘Os tocamos la flauta,
+>  y no bailasteis;
+>  os cantamos una endecha,
+>  y no llorasteis.’
 
 ## Lucas 7:33
 
@@ -172,7 +172,7 @@ De pie detrás de Él a Sus pies llorando, comenzó a mojar Sus pies con sus lá
 
 ## Lucas 7:39
 
-Cuando el fariseo que lo había invitado vio esto, pensó para sí mismo, “Si este hombre fuera un profeta, sabría quién lo está tocando y qué clase de mujer es—que es una pecadora.”
+Cuando el fariseo que lo había invitado vio esto, pensó para sí mismo, “Si este hombre fuera un profeta, sabría quién lo está tocando y qué clase de mujer es —que es una pecadora—.”
 
 ## Lucas 7:40
 

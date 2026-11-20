@@ -64,10 +64,10 @@ El Señor no estará dispuesto a perdonarlos; Su ira y celo arderán contra ello
 El Señor los apartará de todas las tribus de Israel para calamidad, de acuerdo con todas las maldiciones del pacto escrito en este Libro de la Ley.
 
 ## Deuteronomio 29:22
-Las generaciones futuras—vuestros descendientes que se levanten después de vosotros y los extranjeros de tierras lejanas—verán las calamidades que han caído sobre la tierra y las enfermedades con las que el Señor la ha afligido.
+Las generaciones futuras —vuestros descendientes que se levanten después de vosotros y los extranjeros de tierras lejanas— verán las calamidades que han caído sobre la tierra y las enfermedades con las que el Señor la ha afligido.
 
 ## Deuteronomio 29:23
-Toda la tierra será un desierto ardiente de sal y azufre—nada sembrado, nada brotando, ninguna vegetación creciendo en ella. Será como la destrucción de Sodoma y Gomorra, Adma y Zeboim, que el Señor destruyó en su feroz ira.
+Toda la tierra será un desierto ardiente de sal y azufre —nada sembrado, nada brotando, ninguna vegetación creciendo en ella. Será como la destrucción de Sodoma y Gomorra, Adma y Zeboim, que el Señor destruyó en su feroz ira—.
 
 ## Deuteronomio 29:24
 Todas las naciones preguntarán, ‘¿Por qué ha hecho esto el Señor a esta tierra? ¿Por qué esta gran intensidad de ira?’

@@ -82,7 +82,7 @@ Mientras tanto, Abimelec vino a él desde Gerar, con Ahuzat su consejero y Ficol
 Isaac les dijo: “¿Por qué habéis venido a mí, ya que me erais hostiles y me echasteis?”
 
 ## Génesis 26:28
-Ellos respondieron: “Hemos visto claramente que el Señor ha estado contigo; así que dijimos, ‘Que ahora haya un acuerdo jurado entre nosotros’—entre nosotros y tú. Hagamos un pacto contigo
+Ellos respondieron: “Hemos visto claramente que el Señor ha estado contigo; así que dijimos, ‘Que ahora haya un acuerdo jurado entre nosotros’ —entre nosotros y tú. Hagamos un pacto contigo—
 
 ## Génesis 26:29
 que no nos harás daño, así como nosotros no te hemos tocado y no te hemos hecho más que bien, y te hemos enviado en paz. Ahora eres bendecido por el Señor.”

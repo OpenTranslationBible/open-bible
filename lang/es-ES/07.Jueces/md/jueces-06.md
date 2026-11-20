@@ -154,7 +154,7 @@ mira, pondré un vellón de lana en la era. Si hay rocío solo en el vellón y t
 
 ## Jueces 6:38
 
-Y así fue. Gedeón se levantó temprano al día siguiente; exprimió el vellón y sacó el rocío—un tazón lleno de agua.
+Y así fue. Gedeón se levantó temprano al día siguiente; exprimió el vellón y sacó el rocío —un tazón lleno de agua—.
 
 ## Jueces 6:39
 

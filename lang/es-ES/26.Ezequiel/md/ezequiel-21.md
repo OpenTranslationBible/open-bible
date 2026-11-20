@@ -70,7 +70,7 @@ En su mano derecha está el sorteo para Jerusalén, para establecer arietes, par
 Parecerá como una adivinación falsa a aquellos que han jurado lealtad a él, pero él les recordará su culpa y los capturará.
 
 ## Ezequiel 21:24
-“Por lo tanto, esto es lo que dice el Señor Soberano: ‘Porque has traído a la mente tu culpa con tu rebelión abierta, revelando tus pecados en todo lo que haces—porque has venido a la mente, serás capturado.
+“Por lo tanto, esto es lo que dice el Señor Soberano: ‘Porque has traído a la mente tu culpa con tu rebelión abierta, revelando tus pecados en todo lo que haces —porque has venido a la mente, serás capturado—.
 
 ## Ezequiel 21:25
 Y tú, príncipe profano y malvado de Israel, cuyo día ha llegado, en el momento del castigo final,
@@ -85,7 +85,7 @@ esto es lo que dice el Señor Soberano: Quita el turbante y quita la corona. No 
 “Y tú, hijo de hombre, profetiza y declara, ‘Esto es lo que dice el Señor Soberano sobre los amonitas y sus insultos: Una espada, una espada, desenvainada para la matanza, pulida para consumir y brillar como un relámpago—
 
 ## Ezequiel 21:29
-mientras ven visiones falsas para ti, mientras adivinan mentiras para ti—para colocarte sobre los cuellos de los malvados que serán muertos, cuyo día ha llegado, en el momento del castigo final.
+mientras ven visiones falsas para ti, mientras adivinan mentiras para ti —para colocarte sobre los cuellos de los malvados que serán muertos, cuyo día ha llegado, en el momento del castigo final—.
 
 ## Ezequiel 21:30
 Devuelve la espada a su vaina. En el lugar donde fuiste creado, en la tierra de tu origen, te juzgaré.

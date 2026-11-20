@@ -36,28 +36,28 @@ Pues os digo que Cristo se ha convertido en servidor de los judíos en favor de 
 
 y para que los gentiles glorifiquen a Dios por su misericordia. Como está escrito:
 
-> “Por eso te alabaré entre los gentiles;
-> cantaré alabanzas a tu nombre.”
+>  “Por eso te alabaré entre los gentiles;
+>  cantaré alabanzas a tu nombre.”
 
 ## Romanos 15:10
 
 Además, se dice,
 
-> “Regocijaos, gentiles, junto con su pueblo.”
+>  “Regocijaos, gentiles, junto con su pueblo.”
 
 ## Romanos 15:11
 
 Y también se declara,
 
-> “Alabad al Señor, todos los gentiles; que todos los pueblos lo exalten.”
+>  “Alabad al Señor, todos los gentiles; que todos los pueblos lo exalten.”
 
 ## Romanos 15:12
 
 Además, Isaías proclama,
 
-> “La raíz de Isaí brotará,
-> uno que se levantará para gobernar a las naciones;
-> en él los gentiles esperarán.”
+>  “La raíz de Isaí brotará,
+>  uno que se levantará para gobernar a las naciones;
+>  en él los gentiles esperarán.”
 
 ## Romanos 15:13
 
@@ -95,8 +95,8 @@ Y de esta manera aspiré a predicar el evangelio, no donde Cristo ya era reconoc
 
 sino como dice la Escritura:
 
-> “Aquellos que no fueron informados acerca de él verán,
-> y aquellos que no han oído entenderán.”
+>  “Aquellos que no fueron informados acerca de él verán,
+>  y aquellos que no han oído entenderán.”
 
 ## Romanos 15:22
 

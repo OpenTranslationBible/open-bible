@@ -22,15 +22,15 @@ y de Jesucristo, el testigo fiel, el primogénito de los muertos y el soberano d
 
 ## Apocalipsis 1:6
 
-y nos ha hecho un reino, sacerdotes para su Dios y Padre—a él sea la gloria y el dominio por los siglos de los siglos. Amén.
+y nos ha hecho un reino, sacerdotes para su Dios y Padre —a él sea la gloria y el dominio por los siglos de los siglos. Amén—.
 
 ## Apocalipsis 1:7
 
 > He aquí que viene con las nubes,
-> y todo ojo le verá,
-> aun los que le traspasaron;
-> y todas las tribus de la tierra harán lamentación por él.
-> ¡Así será! Amén.
+>  y todo ojo le verá,
+>  aun los que le traspasaron;
+>  y todas las tribus de la tierra harán lamentación por él.
+>  ¡Así será! Amén.
 
 ## Apocalipsis 1:8
 

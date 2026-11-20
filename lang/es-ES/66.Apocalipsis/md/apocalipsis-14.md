@@ -16,7 +16,7 @@ Estos son los que no se han contaminado con mujeres, pues son vírgenes. Siguen 
 No se halló mentira en sus bocas; son sin mancha.
 
 ## Apocalipsis 14:6
-Luego vi a otro ángel volando en medio del cielo, que tenía un evangelio eterno para proclamar a los que habitan en la tierra—a toda nación, tribu, lengua y pueblo.
+Luego vi a otro ángel volando en medio del cielo, que tenía un evangelio eterno para proclamar a los que habitan en la tierra —a toda nación, tribu, lengua y pueblo—.
 
 ## Apocalipsis 14:7
 Y dijo con gran voz: “Temed a Dios y dadle gloria, porque ha llegado la hora de su juicio. Adorad a aquel que hizo los cielos, la tierra, el mar y las fuentes de las aguas.”

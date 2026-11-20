@@ -43,10 +43,10 @@ Cuando clames pidiendo ayuda, ¡que te salve tu colección de ídolos! El viento
 Y se dirá: “¡Construid, construid, preparad el camino! Quitad los obstáculos del camino de mi pueblo.”
 
 ## Isaías 57:15
-Porque así dice el Alto y Sublime— el que vive para siempre, cuyo nombre es santo: “Yo habito en un lugar alto y santo, pero también con el contrito y humilde de espíritu, para reavivar el espíritu de los humildes y para reavivar el corazón de los contritos.
+Porque así dice el Alto y Sublime —el que vive para siempre, cuyo nombre es santo: “Yo habito en un lugar alto y santo, pero también con el contrito y humilde de espíritu, para reavivar el espíritu de los humildes y para reavivar el corazón de los contritos—.
 
 ## Isaías 57:16
-Porque no acusaré para siempre, ni estaré siempre enojado, pues entonces el espíritu desfallecería ante mí— el mismo aliento de aquellos que he hecho.
+Porque no acusaré para siempre, ni estaré siempre enojado, pues entonces el espíritu desfallecería ante mí —el mismo aliento de aquellos que he hecho—.
 
 ## Isaías 57:17
 Por la iniquidad de su ganancia injusta me enojé y lo herí; escondí mi rostro en enojo, pero él continuó apartándose, en el camino de su corazón.

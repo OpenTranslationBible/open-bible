@@ -6,7 +6,7 @@
 
 ## Isaías 44:2
 
-Esto es lo que dice el Señor— el que te hizo y te formó en el vientre, quien te ayudará: No temas, Jacob mi siervo, y Jesurún, a quien he escogido.
+Esto es lo que dice el Señor —el que te hizo y te formó en el vientre, quien te ayudará: No temas, Jacob mi siervo, y Jesurún, a quien he escogido—.
 
 ## Isaías 44:3
 
@@ -24,11 +24,11 @@ Uno dirá, ‘Yo soy del Señor’; otro se llamará a sí mismo por el nombre d
 
 ## Isaías 44:6
 
-Esto es lo que dice el Señor— el Rey de Israel y su Redentor, el Señor de los Ejércitos: Yo soy el primero y yo soy el último; aparte de mí, no hay Dios.
+Esto es lo que dice el Señor —el Rey de Israel y su Redentor, el Señor de los Ejércitos: Yo soy el primero y yo soy el último; aparte de mí, no hay Dios—.
 
 ## Isaías 44:7
 
-¿Quién es como yo? Que lo proclame. Que lo declare y lo exponga ante mí, lo que ha sucedido desde que establecí a mi antiguo pueblo, y lo que está por venir— que predigan lo que está por venir.
+¿Quién es como yo? Que lo proclame. Que lo declare y lo exponga ante mí, lo que ha sucedido desde que establecí a mi antiguo pueblo, y lo que está por venir —que predigan lo que está por venir—.
 
 ## Isaías 44:8
 
@@ -96,7 +96,7 @@ Canten de alegría, cielos, porque el Señor lo ha hecho; griten en voz alta, pa
 
 ## Isaías 44:24
 
-Esto es lo que dice el Señor— tu Redentor, quien te formó desde el vientre: Yo soy el Señor, el Hacedor de todas las cosas, quien extiende los cielos por mí mismo, quien extiende la tierra solo,
+Esto es lo que dice el Señor —tu Redentor, quien te formó desde el vientre: Yo soy el Señor, el Hacedor de todas las cosas, quien extiende los cielos por mí mismo, quien extiende la tierra solo,—
 
 ## Isaías 44:25
 

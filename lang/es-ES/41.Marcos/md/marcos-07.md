@@ -24,13 +24,13 @@ Entonces los fariseos y los escribas le preguntaron, “¿Por qué tus discípul
 
 Él respondió, “Isaías tenía razón cuando profetizó sobre vosotros, hipócritas, como está escrito:
 
-> ‘Este pueblo me honra con los labios,
-> pero su corazón está lejos de mí.
+>  ‘Este pueblo me honra con los labios,
+>  pero su corazón está lejos de mí.
 
 ## Marcos 7:7
 
 > En vano me adoran;
-> sus enseñanzas son meramente mandamientos humanos.’
+>  sus enseñanzas son meramente mandamientos humanos.’
 
 ## Marcos 7:8
 

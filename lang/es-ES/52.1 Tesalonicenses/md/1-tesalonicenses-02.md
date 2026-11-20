@@ -18,7 +18,7 @@ sino que, así como hemos sido aprobados por Dios para que se nos confíe el eva
 
 ## 1 Tesalonicenses 2:5
 
-Porque nunca fuimos con palabras lisonjeras, como sabéis, ni con pretexto para la avaricia—Dios es testigo—
+Porque nunca fuimos con palabras lisonjeras, como sabéis, ni con pretexto para la avaricia —Dios es testigo—
 
 ## 1 Tesalonicenses 2:6
 
@@ -66,11 +66,11 @@ impidiéndonos hablar a los gentiles para que se salven; con el resultado de que
 
 ## 1 Tesalonicenses 2:17
 
-Pero nosotros, hermanos y hermanas, separados de vosotros por un corto tiempo—en persona, no en espíritu—con más empeño y gran deseo quisimos ver vuestro rostro.
+Pero nosotros, hermanos y hermanas, separados de vosotros por un corto tiempo —en persona, no en espíritu— con más empeño y gran deseo quisimos ver vuestro rostro.
 
 ## 1 Tesalonicenses 2:18
 
-Porque quisimos ir a vosotros—yo, Pablo, más de una vez—pero Satanás nos lo impidió.
+Porque quisimos ir a vosotros —yo, Pablo, más de una vez— pero Satanás nos lo impidió.
 
 ## 1 Tesalonicenses 2:19
 

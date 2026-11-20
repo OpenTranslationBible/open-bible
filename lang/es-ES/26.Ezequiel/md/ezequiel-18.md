@@ -34,7 +34,7 @@ si no presta con interés ni obtiene ganancia, retiene su mano de la injusticia 
 
 ## Ezequiel 18:9
 
-si camina en mis estatutos y guarda mis ordenanzas actuando fielmente—él es justo; ciertamente vivirá,” declara el Señor Dios.
+si camina en mis estatutos y guarda mis ordenanzas actuando fielmente —él es justo; ciertamente vivirá,” declara el Señor Dios—.
 
 ## Ezequiel 18:10
 
@@ -42,7 +42,7 @@ si camina en mis estatutos y guarda mis ordenanzas actuando fielmente—él es j
 
 ## Ezequiel 18:11
 
-aunque él mismo no hizo ninguna de estas cosas—que incluso come en los santuarios de las montañas, deshonra a la mujer de su prójimo,
+aunque él mismo no hizo ninguna de estas cosas —que incluso come en los santuarios de las montañas, deshonra a la mujer de su prójimo,—
 
 ## Ezequiel 18:12
 

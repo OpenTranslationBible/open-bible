@@ -2,7 +2,7 @@
 
 ## Isaías 43:1
 
-Pero ahora, esto es lo que declara el Señor— Él que te creó, Jacob, y Él que te formó, Israel: “No temas, porque yo te he redimido; te he llamado por tu nombre; tú me perteneces.
+Pero ahora, esto es lo que declara el Señor —Él que te creó, Jacob, y Él que te formó, Israel: “No temas, porque yo te he redimido; te he llamado por tu nombre; tú me perteneces—.
 
 ## Isaías 43:2
 
@@ -46,7 +46,7 @@ Yo, yo soy el Señor, y fuera de mí no hay salvador.
 
 ## Isaías 43:12
 
-He revelado, salvado y proclamado— Yo, y no algún dios extranjero entre vosotros. Vosotros sois mis testigos,” declara el Señor, “de que yo soy Dios.
+He revelado, salvado y proclamado —Yo, y no algún dios extranjero entre vosotros. Vosotros sois mis testigos,” declara el Señor, “de que yo soy Dios—.
 
 ## Isaías 43:13
 
@@ -54,7 +54,7 @@ Desde la eternidad, yo soy él, y nadie puede rescatar de mi mano. Cuando actúo
 
 ## Isaías 43:14
 
-Esto es lo que declara el Señor— tu Redentor, el Santo de Israel: “Por tu causa, he enviado a Babilonia y los haré descender a todos como fugitivos, incluso a los caldeos, en los barcos sobre los cuales se regocijaron.
+Esto es lo que declara el Señor —tu Redentor, el Santo de Israel: “Por tu causa, he enviado a Babilonia y los haré descender a todos como fugitivos, incluso a los caldeos, en los barcos sobre los cuales se regocijaron—.
 
 ## Isaías 43:15
 
@@ -62,7 +62,7 @@ Yo soy el Señor, tu Santo, el Creador de Israel, tu Soberano y Rey.”
 
 ## Isaías 43:16
 
-Esto es lo que declara el Señor— Él que hace un camino a través del mar y una senda a través de las aguas poderosas,
+Esto es lo que declara el Señor —Él que hace un camino a través del mar y una senda a través de las aguas poderosas,—
 
 ## Isaías 43:17
 

@@ -13,7 +13,7 @@ Porque te extenderás a la derecha y a la izquierda; tus descendientes tomarán 
 “No temas, porque no sufrirás vergüenza; no te desalientes, porque no serás deshonrada; olvidarás la vergüenza de tu juventud y no recordarás más el oprobio de tu viudez.
 
 ## Isaías 54:5
-Porque tu Hacedor es tu esposo— el Señor de los Ejércitos es su nombre— el Santo de Israel es tu Redentor; Él es llamado el Dios de toda la tierra.
+Porque tu Hacedor es tu esposo —el Señor de los Ejércitos es su nombre— el Santo de Israel es tu Redentor; Él es llamado el Dios de toda la tierra.
 
 ## Isaías 54:6
 El Señor te ha llamado de vuelta como a una esposa abandonada y angustiada de espíritu, como a una esposa casada joven, solo para ser rechazada”, dice tu Dios.
@@ -37,7 +37,7 @@ Aunque se quiten las montañas y se sacudan las colinas, mi amor inquebrantable 
 Haré tus almenas de rubíes, tus puertas de cristal, y todos tus muros de piedras preciosas.
 
 ## Isaías 54:13
-Todos tus hijos serán guiados por el Señor, y su paz será abundante.
+Todos tus hijos serán enseñados por el Señor, y su paz será abundante.
 
 ## Isaías 54:14
 En justicia serás establecida; estarás lejos de la opresión, y no temerás; el terror estará lejos; no se acercará a ti.

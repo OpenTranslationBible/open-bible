@@ -72,8 +72,8 @@ Al llegar la tarde, le trajeron muchos que estaban atormentados por demonios, y 
 
 Esto fue para cumplir las palabras dichas por el profeta Isaías:
 
-> “Él tomó nuestras enfermedades
-> y cargó con nuestras dolencias.”
+>  “Él tomó nuestras enfermedades y cargó con nuestras dolencias.
+> ”
 
 ---
 

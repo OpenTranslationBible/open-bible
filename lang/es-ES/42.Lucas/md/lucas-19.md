@@ -108,7 +108,7 @@ Ellos le dijeron, ‘Señor, ya tiene diez minas.’
 
 ## Lucas 19:27
 
-Pero a esos enemigos míos que no querían que yo fuera su rey—tráiganlos aquí y mátenlos delante de mí.’”
+Pero a esos enemigos míos que no querían que yo fuera su rey —tráiganlos aquí y mátenlos delante de mí—.’”
 
 ---
 
@@ -172,7 +172,7 @@ Al acercarse a Jerusalén y ver la ciudad, lloró por ella
 
 ## Lucas 19:42
 
-y dijo, “Si tú, incluso tú, hubieras sabido en este día lo que te traería paz—pero ahora está oculto a tus ojos.
+y dijo, “Si tú, incluso tú, hubieras sabido en este día lo que te traería paz —pero ahora está oculto a tus ojos—.
 
 ## Lucas 19:43
 

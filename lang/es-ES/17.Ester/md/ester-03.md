@@ -56,7 +56,7 @@ El día trece del primer mes, fueron convocados los escribas del rey, y escribie
 
 ## Ester 3:13
 
-Se enviaron despachos por mensajeros a todas las provincias del rey con órdenes de destruir, matar y aniquilar a todos los judíos—jóvenes y ancianos, mujeres y niños—en un solo día, el día trece del duodécimo mes, el mes de Adar, y saquear sus bienes.
+Se enviaron despachos por mensajeros a todas las provincias del rey con órdenes de destruir, matar y aniquilar a todos los judíos —jóvenes y ancianos, mujeres y niños— en un solo día, el día trece del duodécimo mes, el mes de Adar, y saquear sus bienes.
 
 ## Ester 3:14
 

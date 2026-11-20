@@ -122,7 +122,7 @@ Y tomó una copa, y después de dar gracias, se la dio, diciendo, “Bebed de el
 
 ## Mateo 26:28
 
-porque esto representa mi sangre del pacto, que es derramada por muchos para el perdón de los pecados.
+porque esto es mi sangre del pacto, que es derramada por muchos para el perdón de los pecados.
 
 ## Mateo 26:29
 
@@ -138,8 +138,8 @@ Después de haber cantado un himno, salieron al Monte de los Olivos.
 
 Entonces Jesús les dijo, “Esta noche todos caeréis por mi causa, porque está escrito:
 
-> ‘Heriré al pastor,
-> y las ovejas del rebaño serán dispersadas.’
+>  ‘Heriré al pastor,
+>  y las ovejas del rebaño serán dispersadas.’
 
 ## Mateo 26:32
 

@@ -31,7 +31,7 @@ En el noveno mes del quinto año de Joacim hijo de Josías, rey de Judá, se pro
 Entonces Baruc leyó del rollo las palabras de Jeremías a todo el pueblo en la casa del Señor, en la cámara de Gemarías hijo de Safán el escriba, en el patio superior, a la entrada de la Puerta Nueva de la casa del Señor.
 
 ## Jeremías 36:11
-Cuando Micaías hijo de Gemarías, hijo de Safán, oyó todas las palabras del rollo,
+Cuando Micaías hijo de Gemarías, hijo de Safán, oyó todas las palabras del Señor que estaban en el rollo,
 
 ## Jeremías 36:12
 bajó a la cámara del escriba en el palacio real, donde estaban sentados todos los oficiales: Elisama el escriba, Delaías hijo de Semaías, Elnatán hijo de Acbor, Gemarías hijo de Safán, Sedequías hijo de Hananías, y todos los demás oficiales.

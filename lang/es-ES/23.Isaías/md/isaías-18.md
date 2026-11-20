@@ -19,4 +19,4 @@ Porque antes de la cosecha, cuando la flor ha desaparecido y la flor se conviert
 Serán dejados juntos para las aves de rapiña de los montes y para los animales salvajes; las aves se alimentarán de ellos todo el verano, y los animales salvajes se alimentarán de ellos todo el invierno.
 
 ## Isaías 18:7
-En ese tiempo se llevarán ofrendas al Señor Todopoderoso de un pueblo alto y de piel tersa, de un pueblo temido de cerca y de lejos, una nación poderosa y agresiva, cuya tierra está dividida por ríos— al lugar del Nombre del Señor Todopoderoso, al Monte Sión.
+En ese tiempo se llevarán ofrendas al Señor Todopoderoso de un pueblo alto y de piel tersa, de un pueblo temido de cerca y de lejos, una nación poderosa y agresiva, cuya tierra está dividida por ríos —al lugar del Nombre del Señor Todopoderoso, al Monte Sión—.

@@ -13,13 +13,13 @@ Me dijo: “Tú eres mi siervo, Israel, en quien mostraré mi gloria.”
 Pero yo dije: “He trabajado en vano; he gastado mis fuerzas para nada y en futilidad. Sin embargo, mi vindicación está con el Señor, y mi recompensa está con mi Dios.”
 
 ## Isaías 49:5
-Y ahora dice el Señor— el que me formó desde el vientre para ser su siervo, para hacer que Jacob vuelva a él y reunir a Israel para sí mismo, porque soy honrado a los ojos del Señor y mi Dios es mi fortaleza—
+Y ahora dice el Señor —el que me formó desde el vientre para ser su siervo, para hacer que Jacob vuelva a él y reunir a Israel para sí mismo, porque soy honrado a los ojos del Señor y mi Dios es mi fortaleza—
 
 ## Isaías 49:6
 él dice: “Es cosa pequeña que seas mi siervo para restaurar las tribus de Jacob y traer de vuelta a los preservados de Israel. También te haré luz para las naciones, para que mi salvación alcance hasta los confines de la tierra.”
 
 ## Isaías 49:7
-Así dice el Señor— el Redentor y Santo de Israel— al despreciado y aborrecido por la nación, al siervo de los gobernantes: “Los reyes verán y se levantarán, los príncipes se postrarán, por causa del Señor, que es fiel, el Santo de Israel, que te ha escogido.”
+Así dice el Señor —el Redentor y Santo de Israel— al despreciado y aborrecido por la nación, al siervo de los gobernantes: “Los reyes verán y se levantarán, los príncipes se postrarán, por causa del Señor, que es fiel, el Santo de Israel, que te ha escogido.”
 
 ## Isaías 49:8
 Así dice el Señor: “En el tiempo de mi favor te responderé, y en el día de salvación te ayudaré; te guardaré y te haré pacto para el pueblo, para restaurar la tierra y repartir sus herencias desoladas,
@@ -34,7 +34,7 @@ No tendrán hambre ni sed, ni el calor abrasador ni el sol los herirá. El que t
 Transformaré todos mis montes en caminos, y mis carreteras serán elevadas.
 
 ## Isaías 49:12
-Mira, vendrán de lejos— unos del norte, otros del oeste, y otros de la tierra de Asuán.”
+Mira, vendrán de lejos —unos del norte, otros del oeste, y otros de la tierra de Asuán—.”
 
 ## Isaías 49:13
 Gritad de alegría, cielos; regocíjate, tierra; prorrumpid en cánticos, montañas! Porque el Señor consuela a su pueblo y tendrá compasión de sus afligidos.
@@ -61,7 +61,7 @@ Aunque fuiste arruinada y desolada y tu tierra quedó devastada, ahora estarás 
 Los hijos nacidos durante tu duelo dirán aún en tu oído, ‘Este lugar es demasiado estrecho para nosotros; danos más espacio para vivir.’
 
 ## Isaías 49:21
-Entonces dirás en tu corazón, ‘¿Quién me ha dado estos? Estaba desolada y estéril; estaba desterrada y rechazada. ¿Quién los ha criado? Estaba sola, pero estos—¿de dónde han venido?’”
+Entonces dirás en tu corazón, ‘¿Quién me ha dado estos? Estaba desolada y estéril; estaba desterrada y rechazada. ¿Quién los ha criado? Estaba sola, pero estos —¿de dónde han venido—?’”
 
 ## Isaías 49:22
 Así dice el Señor Soberano: “Mira, haré una señal a las naciones, levantaré mi estandarte a los pueblos; traerán a tus hijos en sus brazos y llevarán a tus hijas sobre sus hombros.

@@ -202,7 +202,7 @@ Una vez que la tierra se había dividido en sus porciones, los israelitas conced
 
 ## Josué 19:50
 
-como el Señor había mandado. Le dieron la ciudad que pidió—Timnat Sera en la región montañosa de Efraín. Él edificó la ciudad y se estableció allí.
+como el Señor había mandado. Le dieron la ciudad que pidió —Timnat Sera en la región montañosa de Efraín. Él edificó la ciudad y se estableció allí—.
 
 ## Josué 19:51
 

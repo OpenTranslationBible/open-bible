@@ -18,7 +18,7 @@ En él estaba la vida, y esa vida era la luz para toda la humanidad.
 
 ## Juan 1:5
 
-La luz brilla tan intensamente en las tinieblas, que las tinieblas no pueden vencerla.
+La luz brilla en las tinieblas, y las tinieblas no pueden vencerla.
 
 ---
 
@@ -72,7 +72,7 @@ De su plenitud todos hemos recibido gracia sobre gracia.
 
 ## Juan 1:17
 
-Porque así como la ley fue dada por medio de Moisés; la gracia y la verdad fueron dadas por medio de Jesucristo.
+Porque la ley fue dada por medio de Moisés; la gracia y la verdad fueron dadas por medio de Jesucristo.
 
 ## Juan 1:18
 
@@ -194,7 +194,7 @@ Felipe, al igual que Andrés y Pedro, era de la ciudad de Betsaida.
 
 ## Juan 1:45
 
-Felipe encontró a Natanael y le informó: “Hemos descubierto al que Moisés escribió en la Ley, y de quien también hablaron los profetas—Jesús de Nazaret, el hijo de José.”
+Felipe encontró a Natanael y le informó: “Hemos descubierto al que Moisés escribió en la Ley, y de quien también hablaron los profetas —Jesús de Nazaret, el hijo de José—.”
 
 ## Juan 1:46
 

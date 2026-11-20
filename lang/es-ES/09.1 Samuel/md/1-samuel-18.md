@@ -10,7 +10,7 @@ Saúl lo tomó aquel día y no le permitió volver a la casa de su padre.
 
 ## 1 Samuel 18:3
 
-Entonces Jonatán hizo un pacto con David y se dedicó a él; como a su propia alma.
+Entonces Jonatán hizo un pacto con David porque estaba dedicado a él, como a su propia alma.
 
 ## 1 Samuel 18:4
 
@@ -30,8 +30,8 @@ Sucedió que cuando volvían a casa, cuando David regresaba de derrotar al filis
 
 Las mujeres cantaban mientras celebraban y decían:
 
-> “Saúl mató a sus miles,  
-> Y David a sus diez miles.”
+>  “Saúl mató a miles,  
+>  y David a decenas de miles.”
 
 ## 1 Samuel 18:8
 
@@ -94,7 +94,7 @@ Ahora Mical, la hija de Saúl, amaba a David. Cuando se lo dijeron a Saúl, el a
 ## 1 Samuel 18:21
 
 Saúl pensó: “Se la daré, para que ella sea un lazo para él, y para que la mano de los filisteos esté contra él.”  
-Por lo tanto, Saúl dijo a David: “Por segunda vez puedes ser mi yerno hoy.”
+ Por lo tanto, Saúl dijo a David: “Por segunda vez puedes ser mi yerno hoy.”
 
 ## 1 Samuel 18:22
 
@@ -111,7 +111,7 @@ Los siervos de Saúl le informaron según lo que David había dicho.
 ## 1 Samuel 18:25
 
 Entonces Saúl dijo: “Esto es lo que diréis a David: ‘El rey no desea dote alguna, sino cien prepucios de los filisteos, para vengarse de los enemigos del rey.’”  
-Pero Saúl tenía la intención de que David cayera por la mano de los filisteos.
+ Pero Saúl tenía la intención de que David cayera por la mano de los filisteos.
 
 ---
 
@@ -133,4 +133,4 @@ El miedo de Saúl hacia David aumentó. Así, Saúl permaneció como adversario 
 
 ## 1 Samuel 18:30
 
-Entonces los comandantes de los filisteos salieron a la batalla, y sucedió que, cada vez que salían, David tenía más éxito que todos los siervos de Saúl.
+Entonces los comandantes de los filisteos salieron a la batalla, y sucedió que, cada vez que salían, David tenía más éxito que todos los siervos de Saúl, de modo que su nombre fue muy estimado.

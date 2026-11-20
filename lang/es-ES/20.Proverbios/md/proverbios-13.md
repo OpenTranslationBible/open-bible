@@ -78,7 +78,7 @@ Un anhelo cumplido es dulce para el alma, pero los necios detestan apartarse del
 
 ## Proverbios 13:20
 
-Mantente en compañía de los sabios y serás sabio, porque el compañero de los necios sufre daño.
+Mantente en compañía de los sabios y serás sabio, pero el compañero de los necios sufre daño.
 
 ## Proverbios 13:21
 

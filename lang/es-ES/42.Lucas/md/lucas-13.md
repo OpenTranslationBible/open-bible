@@ -148,7 +148,7 @@ Sin embargo, debo continuar mi camino hoy, mañana y al día siguiente, porque n
 
 ## Lucas 13:34
 
-Oh Jerusalén, Jerusalén, tú que haces daño a los profetas y apedreas a los que te son enviados, cuántas veces he deseado reunir a tus hijos, como una gallina reúne a sus polluelos bajo sus alas, pero no quisiste.
+Oh Jerusalén, Jerusalén, tú que matas a los profetas y apedreas a los que te son enviados, cuántas veces he deseado reunir a tus hijos, como una gallina reúne a sus polluelos bajo sus alas, pero no quisiste.
 
 ## Lucas 13:35
 

@@ -40,14 +40,14 @@ No los imites: tu Padre es consciente de tus necesidades incluso antes de que se
 
 “Ora de esta manera:
 
-> ‘Padre nuestro que estás en los cielos,
-> santificado sea tu nombre,
+>  ‘Padre nuestro que estás en los cielos,
+>  santificado sea tu nombre,
 
 ## Mateo 6:10
 
 > Venga tu reino,
-> hágase tu voluntad,
-> en la tierra como en el cielo.
+>  hágase tu voluntad,
+>  en la tierra como en el cielo.
 
 ## Mateo 6:11
 
@@ -56,15 +56,15 @@ No los imites: tu Padre es consciente de tus necesidades incluso antes de que se
 ## Mateo 6:12
 
 > Y perdona nuestras deudas,
-> como también nosotros perdonamos a nuestros deudores.
+>  como también nosotros perdonamos a nuestros deudores.
 
 ## Mateo 6:13
 
 > Y no nos dejes caer en la tentación,
-> sino líbranos del mal.’
+>  sino líbranos del mal.’
 
-> Porque tuyo es el reino, el poder, la gloria,
-> por siempre. Amén
+>  Porque tuyo es el reino, el poder, la gloria,
+>  por siempre. Amén
 
 ---
 
@@ -142,7 +142,7 @@ sin embargo os digo que ni siquiera Salomón en toda su gloria se vistió como u
 
 ## Mateo 6:30
 
-Si así viste Dios la hierba del campo, que hoy está aquí y mañana es echada al fuego, ¿no os vestirá mucho más a vosotros—hombres de poca fe?
+Si así viste Dios la hierba del campo, que hoy está aquí y mañana es echada al fuego, ¿no os vestirá mucho más a vosotros —hombres de poca fe—?
 
 ---
 

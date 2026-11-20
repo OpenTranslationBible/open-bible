@@ -74,7 +74,7 @@ Entraron en un pacto para buscar al Señor Dios de sus padres con todo su coraz�
 
 ## 2 Crónicas 15:13
 
-y aquellos que no buscaran al Señor Dios de Israel enfrentaron severas consecuencias, sin importar su estatus o género.
+y aquellos que no buscaran al Señor Dios de Israel serían condenados a muerte, fuera pequeño o grande, hombre o mujer.
 
 ---
 

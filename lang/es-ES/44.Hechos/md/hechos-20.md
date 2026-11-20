@@ -112,7 +112,7 @@ Sin embargo, considero que mi vida no vale nada para mí; mi único objetivo es 
 
 ## Hechos 20:26
 
-Por tanto, os declaro hoy que estoy libre de la responsabilidad por cualquiera de vosotros.
+Por tanto, os declaro hoy que estoy limpio de la sangre de todos.
 
 ## Hechos 20:27
 

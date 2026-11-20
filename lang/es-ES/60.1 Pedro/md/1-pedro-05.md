@@ -18,10 +18,10 @@ Y cuando se revele el Príncipe de los pastores, recibiréis la corona de gloria
 
 ## 1 Pedro 5:5
 
-Vosotros, los jóvenes, igualmente, someteos a los ancianos; y todos vosotros, revestíos de humildad unos hacia otros, porque
+Vosotros, los jóvenes, igualmente, someteos a los ancianos; y todos vosotros, revestíos de humildad unos hacia otros,
 
-> “Dios se opone a los orgullosos,  
-> Pero da gracia a los humildes.”
+>  porque “Dios se opone a los orgullosos,  
+>  Pero da gracia a los humildes.”
 
 ## 1 Pedro 5:6
 
@@ -57,5 +57,5 @@ La iglesia en Babilonia, elegida juntamente con vosotros, os envía saludos, y t
 
 ## 1 Pedro 5:14
 
-Saludaos unos a otros con un gesto de amor.  
-Que la paz sea con todos vosotros que estáis en Cristo.
+Saludaos unos a otros con un beso de amor.  
+ Que la paz sea con todos vosotros que estáis en Cristo.

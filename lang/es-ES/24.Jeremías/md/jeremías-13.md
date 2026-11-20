@@ -52,7 +52,7 @@ Porque así como una prenda se adhiere a la cintura de una persona, así hice qu
 
 ## Jeremías 13:13
 
-entonces diles, ‘Esto es lo que dice el Señor: Voy a llenar a todos los habitantes de esta tierra—los reyes que se sientan en el trono de David, los sacerdotes, los profetas, y todos los habitantes de Jerusalén—con embriaguez.
+entonces diles, ‘Esto es lo que dice el Señor: Voy a llenar a todos los habitantes de esta tierra —los reyes que se sientan en el trono de David, los sacerdotes, los profetas, y todos los habitantes de Jerusalén— con embriaguez.
 
 ## Jeremías 13:14
 
@@ -88,7 +88,7 @@ Levantad vuestros ojos y ved a los que vienen del norte. ¿Dónde está el reba�
 
 ## Jeremías 13:22
 
-Y si os preguntáis, “¿Por qué me ha sucedido esto?”— es por la magnitud de vuestros pecados que vuestras faldas han sido desgarradas y vuestro cuerpo maltratado.
+Y si os preguntáis, “¿Por qué me ha sucedido esto?” —es por la magnitud de vuestros pecados que vuestras faldas han sido desgarradas y vuestro cuerpo maltratado—.
 
 ## Jeremías 13:23
 

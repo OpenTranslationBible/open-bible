@@ -14,7 +14,7 @@ Entonces Jacob llamó a sus hijos y dijo: “Reuníos para que os diga lo que os
 
 ## Génesis 49:4
 
-Inestable como el agua, no sobresaldrás, porque subiste al lecho de tu padre; lo profanaste—él subió a mi lecho.
+Inestable como el agua, no sobresaldrás, porque subiste al lecho de tu padre; lo profanaste —él subió a mi lecho—.
 
 ## Génesis 49:5
 
@@ -34,7 +34,7 @@ No entre mi alma en su consejo; no se una mi gloria a su asamblea, porque en su 
 
 ## Génesis 49:9
 
-Judá es un cachorro de león; de la presa, hijo mío, has subido. Se agazapa y se acuesta como un león, y como una leona—¿quién se atreve a despertarlo?
+Judá es un cachorro de león; de la presa, hijo mío, has subido. Se agazapa y se acuesta como un león, y como una leona —¿quién se atreve a despertarlo—?
 
 ## Génesis 49:10
 

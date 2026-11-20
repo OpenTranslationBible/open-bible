@@ -69,8 +69,8 @@ Además, hizo lugares altos en las montañas de Judá, e hizo que los habitantes
 ## 2 Crónicas 21:12
 
 Después, le llegó un mensaje de Elías el profeta, declarando,  
-“Esto es lo que proclama el Señor, el Dios de tu antepasado David:  
-‘Porque no has seguido los caminos de tu padre Josafat ni los caminos de Asa rey de Judá,
+ “Esto es lo que proclama el Señor, el Dios de tu antepasado David:  
+ ‘Porque no has seguido los caminos de tu padre Josafat ni los caminos de Asa rey de Judá,
 
 ---
 
@@ -119,4 +119,4 @@ Ahora bien, sucedió con el tiempo, al cabo de dos años, que sus intestinos sal
 ## 2 Crónicas 21:20
 
 Tenía treinta y dos años cuando comenzó a reinar, y gobernó en Jerusalén durante ocho años; y se fue sin que nadie lo lamentara.  
-Y lo enterraron en la ciudad de David, pero no en los sepulcros de los reyes.
+ Y lo enterraron en la ciudad de David, pero no en los sepulcros de los reyes.

@@ -42,7 +42,7 @@ Firmé y sellé la escritura, la hice testificar y pesé la plata en la balanza.
 
 ## Jeremías 32:11
 
-Tomé la escritura de compra—la copia sellada que contenía los términos y condiciones, así como la copia abierta—
+Tomé la escritura de compra —la copia sellada que contenía los términos y condiciones, así como la copia abierta—
 
 ## Jeremías 32:12
 
@@ -86,7 +86,7 @@ Libraste a Tu pueblo Israel de Egipto con señales y maravillas milagrosas, con 
 
 ## Jeremías 32:22
 
-Les diste esta tierra que habías prometido a sus antepasados, una tierra rica y abundante.
+Les diste esta tierra que habías prometido a sus antepasados, una tierra que fluye leche y miel.
 
 ## Jeremías 32:23
 
@@ -126,7 +126,7 @@ Desde el día en que fue construida hasta ahora, esta ciudad ha provocado tanto 
 
 ## Jeremías 32:32
 
-El pueblo de Israel y Judá ha provocado Mi ira con todo el mal que han hecho—ellos, sus reyes y oficiales, sus sacerdotes y profetas, el pueblo de Judá y los que viven en Jerusalén.
+El pueblo de Israel y Judá ha provocado Mi ira con todo el mal que han hecho —ellos, sus reyes y oficiales, sus sacerdotes y profetas, el pueblo de Judá y los que viven en Jerusalén—.
 
 ## Jeremías 32:33
 
@@ -138,7 +138,7 @@ Colocaron sus imágenes detestables en la casa que lleva Mi Nombre y la profanar
 
 ## Jeremías 32:35
 
-Construyeron lugares altos para Baal en el Valle de Ben Hinnom para ofrecer a sus hijos e hijas a Moloc, aunque nunca lo mandé—ni siquiera pasó por Mi mente—que cometieran tal abominación y así llevaran a Judá al pecado.
+Construyeron lugares altos para Baal en el Valle de Ben Hinnom para ofrecer a sus hijos e hijas a Moloc, aunque nunca lo mandé —ni siquiera pasó por Mi mente— que cometieran tal abominación y así llevaran a Judá al pecado.
 
 ## Jeremías 32:36
 

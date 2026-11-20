@@ -44,9 +44,9 @@ Para este propósito, Cristo murió y volvió a la vida, para que él sea el Se�
 
 Como está escrito:
 
-> “‘Tan cierto como que vivo,’ dice el Señor,
-> ‘ante mí se doblará toda rodilla;
-> toda lengua reconocerá a Dios.’”
+>  “‘Tan cierto como que vivo,’ dice el Señor,
+>  ‘ante mí se doblará toda rodilla;
+>  toda lengua reconocerá a Dios.’”
 
 ## Romanos 14:12
 

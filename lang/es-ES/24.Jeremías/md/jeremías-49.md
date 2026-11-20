@@ -28,7 +28,7 @@ Huid, volved, habitad en lo profundo, habitantes de Dedán, porque traeré desas
 Si los vendimiadores vinieran a ti, ¿no dejarían algunos rebuscos? Si los ladrones vinieran de noche, ¿no robarían solo lo que quisieran?
 
 ## Jeremías 49:10
-Pero yo desnudaré a Esaú; descubriré sus escondites, para que no pueda ocultarse. Sus descendientes y sus hermanos están destruidos, y él ya no existe.
+Pero yo desnudaré a Esaú; descubriré sus escondites, para que no pueda ocultarse. Sus descendientes, sus hermanos y sus vecinos están destruidos, y él ya no existe.
 
 ## Jeremías 49:11
 Deja a tus huérfanos; yo los mantendré con vida. Tus viudas también pueden confiar en mí.”

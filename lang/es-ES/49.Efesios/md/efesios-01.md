@@ -26,7 +26,7 @@ para alabanza de la gloria de Su gracia, que nos concedió gratuitamente en el A
 
 ## Efesios 1:7
 
-En Él tenemos redención por Su sacrificio, el perdón de los pecados, conforme a las riquezas de Su gracia
+En Él tenemos redención por Su sangre, el perdón de los pecados, conforme a las riquezas de Su gracia
 
 ## Efesios 1:8
 
@@ -38,7 +38,7 @@ nos dio a conocer el misterio de Su voluntad, según Su beneplácito, que se pro
 
 ## Efesios 1:10
 
-para llevarlo a cabo cuando se cumpliera el tiempo—reunir todas las cosas en Cristo, tanto las que están en los cielos, como las que están en la tierra.
+para llevarlo a cabo cuando se cumpliera el tiempo —reunir todas las cosas en Cristo, tanto las que están en los cielos, como las que están en la tierra—.
 
 ## Efesios 1:11
 

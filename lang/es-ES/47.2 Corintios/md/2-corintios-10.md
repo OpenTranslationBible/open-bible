@@ -2,7 +2,7 @@
 
 ## 2 Corintios 10:1
 
-Yo, Pablo, os ruego por la humildad y la mansedumbre de Cristo—yo que soy humilde cuando estoy presente con vosotros, pero audaz cuando estoy ausente.
+Yo, Pablo, os ruego por la humildad y la mansedumbre de Cristo —yo que soy humilde cuando estoy presente con vosotros, pero audaz cuando estoy ausente—.
 
 ## 2 Corintios 10:2
 

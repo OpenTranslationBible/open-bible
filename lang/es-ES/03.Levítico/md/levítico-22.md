@@ -58,7 +58,7 @@ Si alguien come una ofrenda sagrada sin intención, deberá hacer restitución a
 
 ## Levítico 22:15
 
-Los sacerdotes deben asegurarse de que las ofrendas sagradas presentadas por los israelitas al Señor sean tratadas con respeto
+Los sacerdotes no deben profanar las ofrendas sagradas presentadas por los israelitas al Señor
 
 ## Levítico 22:16
 
@@ -70,7 +70,7 @@ El Señor se dirigió a Moisés,
 
 ## Levítico 22:18
 
-“Habla a Aarón, a sus hijos y a todos los israelitas y diles: ‘Si alguno de vosotros—ya sea un israelita o un extranjero que resida en Israel—presenta un regalo como ofrenda quemada al Señor, para cumplir un voto o como ofrenda voluntaria,
+“Habla a Aarón, a sus hijos y a todos los israelitas y diles: ‘Si alguno de vosotros —ya sea un israelita o un extranjero que resida en Israel— presenta un regalo como ofrenda quemada al Señor, para cumplir un voto o como ofrenda voluntaria,
 
 ## Levítico 22:19
 

@@ -16,16 +16,16 @@ en el tiempo en que Anás y Caifás eran sumos sacerdotes, la palabra de Dios vi
 
 Como está escrito en el libro de las palabras del profeta Isaías:
 
-> “Voz de uno que clama en el desierto:
-> ‘Preparad el camino del Señor;
-> enderezad en el desierto una calzada para nuestro Dios.
+>  “Voz de uno que clama en el desierto:
+>  ‘Preparad el camino del Señor;
+>  enderezad sus sendas.
 
 ## Lucas 3:5
 
 > Todo valle será rellenado,
-> y todo monte y collado rebajado.
-> lo torcido se enderezará,
-> y los caminos ásperos se allanarán.
+>  y todo monte y collado rebajado.
+>  lo torcido se enderezará,
+>  y los caminos ásperos se allanarán.
 
 ## Lucas 3:6
 
@@ -65,7 +65,7 @@ También vinieron unos publicanos para ser bautizados. “Maestro,” preguntaro
 
 ## Lucas 3:14
 
-Entonces unos soldados le preguntaron, “¿Y nosotros qué debemos hacer?” Él respondió, “No extorsionéis a nadie, ni acuséis falsamente—contentaos con vuestro salario.”
+Entonces unos soldados le preguntaron, “¿Y nosotros qué debemos hacer?” Él respondió, “No extorsionéis a nadie, ni acuséis falsamente —contentaos con vuestro salario—.”
 
 ---
 
@@ -111,94 +111,94 @@ y el Espíritu Santo descendió sobre Él en forma corporal como una paloma. Una
 
 Jesús mismo tenía unos treinta años cuando comenzó su ministerio. Era, según se suponía, hijo de José,
 
-> cuyo padre era Elí,
+>  cuyo padre era Elí,
 
 ## Lucas 3:24
 
 > hijo de Matat,
-> cuyo padre era Leví, hijo de Melquí,
-> cuyo padre era Jannai, cuyo padre era José,
+>  cuyo padre era Leví, hijo de Melquí,
+>  cuyo padre era Jannai, cuyo padre era José,
 
 ## Lucas 3:25
 
 > cuyo padre era Matatías, cuyo padre era Amós,
-> cuyo padre era Nahum, cuyo padre era Esli,
-> cuyo padre era Nagai,
+>  cuyo padre era Nahum, cuyo padre era Esli,
+>  cuyo padre era Nagai,
 
 ## Lucas 3:26
 
 > cuyo padre era Maat,
-> cuyo padre era Matatías, cuyo padre era Semeín,
-> cuyo padre era Josec, cuyo padre era Jodá,
+>  cuyo padre era Matatías, cuyo padre era Semeín,
+>  cuyo padre era Josec, cuyo padre era Jodá,
 
 ## Lucas 3:27
 
 > cuyo padre era Joanan, cuyo padre era Resa,
-> cuyo padre era Zorobabel, cuyo padre era Salatiel,
-> cuyo padre era Neri,
+>  cuyo padre era Zorobabel, cuyo padre era Salatiel,
+>  cuyo padre era Neri,
 
 ## Lucas 3:28
 
 > cuyo padre era Melquí,
-> cuyo padre era Addi, cuyo padre era Cosam,
-> cuyo padre era Elmadam, cuyo padre era Er,
+>  cuyo padre era Addi, cuyo padre era Cosam,
+>  cuyo padre era Elmadam, cuyo padre era Er,
 
 ## Lucas 3:29
 
 > cuyo padre era Josué, cuyo padre era Eliezer,
-> cuyo padre era Jorim, cuyo padre era Matat,
-> cuyo padre era Leví,
+>  cuyo padre era Jorim, cuyo padre era Matat,
+>  cuyo padre era Leví,
 
 ## Lucas 3:30
 
 > cuyo padre era Simeón,
-> cuyo padre era Judá, cuyo padre era José,
-> cuyo padre era Jonam, cuyo padre era Eliakim,
+>  cuyo padre era Judá, cuyo padre era José,
+>  cuyo padre era Jonam, cuyo padre era Eliakim,
 
 ## Lucas 3:31
 
 > cuyo padre era Melea, cuyo padre era Mená,
-> cuyo padre era Matatá, cuyo padre era Natán,
-> cuyo padre era David,
+>  cuyo padre era Matatá, cuyo padre era Natán,
+>  cuyo padre era David,
 
 ## Lucas 3:32
 
 > cuyo padre era Isaí,
-> cuyo padre era Obed, cuyo padre era Booz,
-> cuyo padre era Salmón, cuyo padre era Naasón,
+>  cuyo padre era Obed, cuyo padre era Booz,
+>  cuyo padre era Salmón, cuyo padre era Naasón,
 
 ## Lucas 3:33
 
 > cuyo padre era Aminadab, cuyo padre era Admin, cuyo padre era Aram,
-> cuyo padre era Hezrón, cuyo padre era Fares,
-> cuyo padre era Judá,
+>  cuyo padre era Hezrón, cuyo padre era Fares,
+>  cuyo padre era Judá,
 
 ## Lucas 3:34
 
 > cuyo padre era Jacob,
-> cuyo padre era Isaac, cuyo padre era Abraham,
-> cuyo padre era Taré, cuyo padre era Nacor,
+>  cuyo padre era Isaac, cuyo padre era Abraham,
+>  cuyo padre era Taré, cuyo padre era Nacor,
 
 ## Lucas 3:35
 
 > cuyo padre era Serug, cuyo padre era Reú,
-> cuyo padre era Peleg, cuyo padre era Heber,
-> cuyo padre era Sala,
+>  cuyo padre era Peleg, cuyo padre era Heber,
+>  cuyo padre era Sala,
 
 ## Lucas 3:36
 
 > cuyo padre era Cainán,
-> cuyo padre era Arfaxad, cuyo padre era Sem,
-> cuyo padre era Noé, cuyo padre era Lamec,
+>  cuyo padre era Arfaxad, cuyo padre era Sem,
+>  cuyo padre era Noé, cuyo padre era Lamec,
 
 ## Lucas 3:37
 
 > cuyo padre era Matusalén, cuyo padre era Enoc,
-> cuyo padre era Jared, cuyo padre era Mahalaleel,
-> cuyo padre era Cainán,
+>  cuyo padre era Jared, cuyo padre era Mahalaleel,
+>  cuyo padre era Cainán,
 
 ## Lucas 3:38
 
 > cuyo padre era Enós,
-> cuyo padre era Set, cuyo padre era Adán,
-> cuyo padre era Dios.
+>  cuyo padre era Set, cuyo padre era Adán,
+>  cuyo padre era Dios.

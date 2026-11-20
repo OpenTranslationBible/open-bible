@@ -130,7 +130,7 @@ De la línea de Harim: Eliezer, Isías, Malquías, Semaías, Simeón,
 
 ## Esdras 10:32
 
-Incluyendo a Benjamín, Maluc y Semarías.
+Benjamín, Maluc y Semarías.
 
 ## Esdras 10:33
 

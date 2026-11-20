@@ -86,7 +86,7 @@ No podéis compartir el cáliz del Señor y el cáliz de los demonios; no podéi
 
 ## 1 Corintios 10:22
 
-¿O provocaremos la paciencia del Señor? Seguramente, no somos más fuertes que Él.
+¿O provocaremos a celos al Señor? ¿Somos más fuertes que Él?
 
 ## 1 Corintios 10:23
 

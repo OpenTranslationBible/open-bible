@@ -4,8 +4,8 @@
 
 Salomón inició la construcción de la casa del Señor en Jerusalén en el monte Moriah,
 
-> donde el Señor se había aparecido a su padre David,  
-> en el lugar que David había preparado en la era de Ornán el jebuseo.
+>  donde el Señor se había aparecido a su padre David,  
+>  en el lugar que David había preparado en la era de Ornán el jebuseo.
 
 ---
 
@@ -19,8 +19,8 @@ Comenzó la construcción el segundo día del segundo mes en el cuarto año de s
 
 Ahora bien, estos son los cimientos que Salomón puso para edificar la casa de Dios.
 
-> La longitud en codos, según la medida antigua, era de sesenta codos,  
-> y la anchura era de veinte codos.
+>  La longitud en codos, según la medida antigua, era de sesenta codos,  
+>  y la anchura era de veinte codos.
 
 ---
 
@@ -28,8 +28,8 @@ Ahora bien, estos son los cimientos que Salomón puso para edificar la casa de D
 
 El pórtico que estaba delante de la casa tenía el mismo ancho que la casa, veinte codos,
 
-> y la altura era de 120;  
-> y recubrió el interior con oro puro.
+>  y la altura era de 120;  
+>  y recubrió el interior con oro puro.
 
 ---
 
@@ -37,7 +37,7 @@ El pórtico que estaba delante de la casa tenía el mismo ancho que la casa, vei
 
 Recubrió la sala principal con madera de enebro y la recubrió con oro fino,
 
-> y la adornó con palmeras y cadenas.
+>  y la adornó con palmeras y cadenas.
 
 ---
 
@@ -45,7 +45,7 @@ Recubrió la sala principal con madera de enebro y la recubrió con oro fino,
 
 También adornó la casa con piedras preciosas;
 
-> y el oro era oro de Parvaim.
+>  y el oro era oro de Parvaim.
 
 ---
 
@@ -53,7 +53,7 @@ También adornó la casa con piedras preciosas;
 
 Recubrió la casa, sus vigas, sus umbrales, sus paredes y sus puertas con oro,
 
-> y talló querubines en las paredes.
+>  y talló querubines en las paredes.
 
 ---
 
@@ -61,9 +61,9 @@ Recubrió la casa, sus vigas, sus umbrales, sus paredes y sus puertas con oro,
 
 Luego hizo el Lugar Santísimo.
 
-> Su longitud, correspondiente al ancho de la casa, era de veinte codos,  
-> y su anchura era de veinte codos;  
-> y lo recubrió con oro fino, que ascendía a 600 talentos.
+>  Su longitud, correspondiente al ancho de la casa, era de veinte codos,  
+>  y su anchura era de veinte codos;  
+>  y lo recubrió con oro fino, que ascendía a 600 talentos.
 
 ---
 
@@ -71,15 +71,13 @@ Luego hizo el Lugar Santísimo.
 
 Los clavos pesaban cincuenta siclos de oro.
 
-> También recubrió las habitaciones superiores con oro.
+>  También recubrió las habitaciones superiores con oro.
 
 ---
 
 ## 2 Crónicas 3:10
 
-Luego hizo dos querubines esculpidos en el Lugar Santísimo
-
-> y los recubrió con oro.
+Luego hizo dos querubines esculpidos en el Lugar Santísimo y los recubrió con oro.
 
 ---
 
@@ -87,15 +85,15 @@ Luego hizo dos querubines esculpidos en el Lugar Santísimo
 
 La envergadura de las alas de los querubines era de veinte codos:
 
-> el ala de uno, de cinco codos, tocaba la pared de la casa,  
-> y su otra ala, de cinco codos, tocaba el ala del otro querubín.
+>  el ala de uno, de cinco codos, tocaba la pared de la casa,  
+>  y su otra ala, de cinco codos, tocaba el ala del otro querubín.
 
 ---
 
 ## 2 Crónicas 3:12
 
 > El ala del otro querubín, de cinco codos, tocaba la otra pared de la casa,  
-> y su otra ala, de cinco codos, estaba unida al ala del primer querubín.
+>  y su otra ala, de cinco codos, estaba unida al ala del primer querubín.
 
 ---
 
@@ -103,7 +101,7 @@ La envergadura de las alas de los querubines era de veinte codos:
 
 Las alas de los querubines se extendían veinte codos,
 
-> y estaban de pie mirando hacia la sala principal.
+>  y estaban de pie mirando hacia la sala principal.
 
 ---
 
@@ -111,7 +109,7 @@ Las alas de los querubines se extendían veinte codos,
 
 Él confeccionó el velo de violeta, púrpura, carmesí y lino fino,
 
-> y trabajó querubines en él.
+>  y trabajó querubines en él.
 
 ---
 
@@ -119,7 +117,7 @@ Las alas de los querubines se extendían veinte codos,
 
 También hizo dos columnas para el frente de la casa, de treinta y cinco codos de alto,
 
-> y el capitel en la parte superior de cada una era de cinco codos.
+>  y el capitel en la parte superior de cada una era de cinco codos.
 
 ---
 
@@ -127,7 +125,7 @@ También hizo dos columnas para el frente de la casa, de treinta y cinco codos d
 
 Creó cadenas en el santuario interior y las colocó en la parte superior de las columnas,
 
-> e hizo cien granadas y las colocó en las cadenas.
+>  e hizo cien granadas y las colocó en las cadenas.
 
 ---
 
@@ -135,5 +133,5 @@ Creó cadenas en el santuario interior y las colocó en la parte superior de las
 
 Colocó las columnas frente al templo,
 
-> una a la derecha y la otra a la izquierda;  
-> y llamó a la de la derecha Jaquín, y a la de la izquierda Boaz.
+>  una a la derecha y la otra a la izquierda;  
+>  y llamó a la de la derecha Jaquín, y a la de la izquierda Boaz.

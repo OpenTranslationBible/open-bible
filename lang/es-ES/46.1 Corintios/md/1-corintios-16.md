@@ -34,7 +34,7 @@ Sin embargo, planeo permanecer en Éfeso hasta Pentecostés;
 
 ## 1 Corintios 16:9
 
-Porque se me ha abierto una gran oportunidad para un trabajo eficaz, y hay muchos opositores.
+Porque se me ha abierto una gran puerta para un trabajo eficaz, y hay muchos opositores.
 
 ## 1 Corintios 16:10
 
@@ -82,7 +82,7 @@ Todos los creyentes os envían saludos. Saludaos unos a otros con un beso santo.
 
 ## 1 Corintios 16:21
 
-Ved que este saludo está escrito por mí, Pablo, de mi propia mano.
+Este saludo está escrito por mí, Pablo, de mi propia mano.
 
 ## 1 Corintios 16:22
 

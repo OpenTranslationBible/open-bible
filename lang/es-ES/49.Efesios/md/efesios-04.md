@@ -32,9 +32,9 @@ Pero a cada uno de nosotros se nos ha dado la gracia según la medida del don de
 
 Por eso dice:
 
-> “Cuando ascendió a lo alto,
-> llevó cautivos en su tren
-> y dio dones a los hombres.”
+>  “Cuando ascendió a lo alto,
+>  llevó cautivos en su tren y dio dones a los hombres.
+> ”
 
 ## Efesios 4:9
 

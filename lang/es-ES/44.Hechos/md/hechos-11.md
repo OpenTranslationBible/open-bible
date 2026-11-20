@@ -84,7 +84,7 @@ Pero algunos de ellos, hombres de Chipre y Cirene, fueron a Antioquía y comenza
 
 ## Hechos 11:21
 
-La guía del Señor estaba con ellos, y un gran número de personas creyó y se convirtió al Señor.
+La mano del Señor estaba con ellos, y un gran número de personas creyó y se convirtió al Señor.
 
 ## Hechos 11:22
 

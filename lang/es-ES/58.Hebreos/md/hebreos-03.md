@@ -28,12 +28,12 @@ Pero Cristo es fiel como Hijo sobre la casa de Dios. Y nosotros somos su casa, s
 
 Por lo tanto, como expresa el Espíritu Santo:
 
-> “Hoy, si escucháis su voz,
+>  “Hoy, si escucháis su voz,
 
 ## Hebreos 3:8
 
 > no endurezcáis vuestros corazones como durante la rebelión,
-> en el tiempo de prueba en el desierto,
+>  en el tiempo de prueba en el desierto,
 
 ## Hebreos 3:9
 
@@ -42,13 +42,13 @@ donde vuestros antepasados me probaron y tentaron, y vieron mis obras durante cu
 ## Hebreos 3:10
 
 > Por lo tanto, me enojé con esa generación,
-> y dije: ‘Siempre se extravían en su corazón,
-> y no han conocido mis caminos.’
+>  y dije: ‘Siempre se extravían en su corazón,
+>  y no han conocido mis caminos.’
 
 ## Hebreos 3:11
 
 > Así que juré en mi ira,
-> ‘Nunca entrarán en mi descanso.’”
+>  ‘Nunca entrarán en mi descanso.’”
 
 ## Hebreos 3:12
 
@@ -66,8 +66,8 @@ Porque hemos llegado a ser partícipes de Cristo, si mantenemos firme hasta el f
 
 Como se ha dicho:
 
-> “Hoy, si escucháis su voz,
-> no endurezcáis vuestros corazones como durante la rebelión.”
+>  “Hoy, si escucháis su voz,
+>  no endurezcáis vuestros corazones como durante la rebelión.”
 
 ## Hebreos 3:16
 
@@ -79,7 +79,7 @@ Como se ha dicho:
 
 ## Hebreos 3:18
 
-¿Y a quiénes declaró que no entrarían en su descanso, sino a los que fueron desobedientes?
+¿Y a quiénes juró que no entrarían en su descanso, sino a los que fueron desobedientes?
 
 ## Hebreos 3:19
 

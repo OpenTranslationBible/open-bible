@@ -103,13 +103,13 @@ Esto es lo que dice el Señor de los Ejércitos: “El pueblo de Israel está op
 Sin embargo, su Redentor es fuerte; el Señor de los Ejércitos es Su nombre. Defenderá vigorosamente su causa para que pueda traer descanso a su tierra, pero inquietud a los que viven en Babilonia.
 
 ## Jeremías 50:35
-“¡Una espada contra los caldeos!” declara el Señor—“contra los que viven en Babilonia y contra sus oficiales y sabios!
+“¡Una espada contra los caldeos!” declara el Señor —“contra los que viven en Babilonia y contra sus oficiales y sabios—!
 
 ## Jeremías 50:36
 ¡Una espada contra sus sacerdotes oráculos! Se volverán necios. ¡Una espada contra sus guerreros! Se llenarán de terror.
 
 ## Jeremías 50:37
-¡Una espada contra sus caballos y carros y todos los extranjeros en sus filas! Se volverán débiles. ¡Una espada contra sus tesoros! Serán saqueados.
+¡Una espada contra sus caballos y carros y todos los extranjeros en sus filas! Se volverán como mujeres. ¡Una espada contra sus tesoros! Serán saqueados.
 
 ## Jeremías 50:38
 ¡Una sequía sobre sus aguas! Se secarán. Porque es una tierra de ídolos, y se vuelven locos de terror.

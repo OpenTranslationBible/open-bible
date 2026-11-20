@@ -28,7 +28,7 @@ Esdras alabó al Señor, el gran Dios, y todo el pueblo respondió: “¡Amén, 
 
 ## Nehemías 8:7
 
-Los levitas—Jesúa, Bani, Serebías, Jamín, Acub, Sabbetai, Hodías, Maasías, Quelita, Azarías, Jozabad, Hanán y Pelaías—explicaron la Ley al pueblo mientras estaban en sus lugares.
+Los levitas —Jesúa, Bani, Serebías, Jamín, Acub, Sabbetai, Hodías, Maasías, Quelita, Azarías, Jozabad, Hanán y Pelaías— explicaron la Ley al pueblo mientras estaban en sus lugares.
 
 ## Nehemías 8:8
 

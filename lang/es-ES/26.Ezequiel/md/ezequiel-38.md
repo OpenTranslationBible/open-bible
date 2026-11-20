@@ -10,13 +10,13 @@ El mensaje del Señor vino a mí, diciendo,
 y declara: ‘Esto es lo que dice el Señor Soberano: He aquí, estoy contra ti, Gog, príncipe principal de Mesec y Tubal.
 
 ## Ezequiel 38:4
-Te haré volver, pondré ganchos en tus mandíbulas, y te sacaré con todo tu ejército—tus caballos y jinetes, todos espléndidamente ataviados, una vasta multitud con escudo y broquel, todos empuñando espadas.
+Te haré volver, pondré ganchos en tus mandíbulas, y te sacaré con todo tu ejército —tus caballos y jinetes, todos espléndidamente ataviados, una vasta multitud con escudo y broquel, todos empuñando espadas—.
 
 ## Ezequiel 38:5
 Persia, Cus, y Fut estarán con ellos, todos ellos equipados con escudo y casco;
 
 ## Ezequiel 38:6
-Gomer con todas sus tropas, y Bet Togarma desde el lejano norte con todas sus tropas—muchas naciones contigo.
+Gomer con todas sus tropas, y Bet Togarma desde el lejano norte con todas sus tropas —muchas naciones contigo—.
 
 ## Ezequiel 38:7
 “Prepárate; estate listo, tú y todas tus hordas reunidas, y toma el mando de ellas.
@@ -31,7 +31,7 @@ Tú y todas tus tropas y las muchas naciones contigo avanzaréis, viniendo como 
 ‘Esto es lo que dice el Señor Soberano: En ese día, pensamientos surgirán en tu mente, y concebirás un plan malvado.
 
 ## Ezequiel 38:11
-Dirás, “Invadiré una tierra de aldeas sin muros; atacaré a un pueblo pacífico e inadvertido—todos ellos viviendo sin muros, barras, ni puertas.
+Dirás, “Invadiré una tierra de aldeas sin muros; atacaré a un pueblo pacífico e inadvertido —todos ellos viviendo sin muros, barras, ni puertas—.
 
 ## Ezequiel 38:12
 Saquearé y despojaré, volviendo mi mano contra las ruinas repobladas y el pueblo reunido de las naciones, que han adquirido ganado y bienes, habitando en el centro del mundo.”

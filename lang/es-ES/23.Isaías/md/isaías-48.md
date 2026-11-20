@@ -49,7 +49,7 @@ Yo, incluso yo, he hablado; de hecho lo he llamado. Lo he traído, y tendrá éx
 “Acercaos a mí y escuchad esto: Desde el principio no he hablado en secreto; desde el momento en que sucede, estoy allí.” Y ahora el Señor Soberano me ha enviado, dotado de su Espíritu.
 
 ## Isaías 48:17
-Esto es lo que dice el Señor— vuestro Redentor, el Santo de Israel: “Yo soy el Señor vuestro Dios, que os enseña para vuestro beneficio, que os dirige en el camino que debéis seguir.
+Esto es lo que dice el Señor —vuestro Redentor, el Santo de Israel: “Yo soy el Señor vuestro Dios, que os enseña para vuestro beneficio, que os dirige en el camino que debéis seguir—.
 
 ## Isaías 48:18
 Si tan solo hubierais prestado atención a mis mandamientos, vuestra paz habría sido como un río, y vuestra justicia como las olas del mar.

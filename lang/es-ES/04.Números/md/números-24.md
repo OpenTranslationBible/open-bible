@@ -25,7 +25,7 @@ Abundante agua fluirá de sus vasijas, y sus descendientes serán numerosos; su 
 Dios lo saca de Egipto; tiene la fuerza de un búfalo. Consumirá a las naciones que son sus enemigas, y quebrará sus huesos y las atravesará con sus flechas.
 
 ## Números 24:9
-Se agacha, se acuesta como un león, y como una leona—¿quién se atreve a despertarlo? Benditos sean los que te bendicen, y malditos sean los que te maldicen.”
+Se agacha, se acuesta como un león, y como una leona —¿quién se atreve a despertarlo? Benditos sean los que te bendicen, y malditos sean los que te maldicen—.”
 
 ## Números 24:10
 Entonces la ira de Balac se encendió contra Balaam, y aplaudió con sus manos y dijo a Balaam: “¡Te llamé para maldecir a mis enemigos, pero los has bendecido estas tres veces!

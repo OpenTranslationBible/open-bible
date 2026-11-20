@@ -1,7 +1,7 @@
 # Jeremías Capítulo 43
 
 ## Jeremías 43:1
-Cuando Jeremías, a quien el Señor su Dios había enviado, terminó de transmitir todas las palabras del Señor su Dios al pueblo—todas estas palabras—
+Cuando Jeremías, a quien el Señor su Dios había enviado, terminó de transmitir todas las palabras del Señor su Dios al pueblo —todas estas palabras—
 
 ## Jeremías 43:2
 Azarías hijo de Osaías, Johanán hijo de Carea, y todos los hombres arrogantes dijeron a Jeremías: “¡Estás mintiendo! El Señor nuestro Dios no te ha enviado a decirnos: ‘No debéis ir a Egipto para residir allí.’

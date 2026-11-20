@@ -122,7 +122,7 @@ No os sorprendáis de esto, porque viene un tiempo en que todos los que están e
 
 ## Juan 5:29
 
-y saldrán—los que han hecho lo bueno resucitarán para vivir, y los que han hecho lo malo resucitarán para ser condenados.
+y saldrán —los que han hecho lo bueno resucitarán para vivir, y los que han hecho lo malo resucitarán para ser condenados—.
 
 ---
 
@@ -154,7 +154,7 @@ Juan era una lámpara que ardía y daba luz, y por un tiempo quisisteis disfruta
 
 ## Juan 5:36
 
-Pero tengo un testimonio mayor que el de Juan. Porque las obras que el Padre me ha dado para completar—las mismas obras que estoy haciendo—testifican que el Padre me ha enviado.
+Pero tengo un testimonio mayor que el de Juan. Porque las obras que el Padre me ha dado para completar —las mismas obras que estoy haciendo— testifican que el Padre me ha enviado.
 
 ---
 

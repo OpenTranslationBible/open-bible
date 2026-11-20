@@ -73,7 +73,7 @@ Me dijeron: ‘Haznos un dios que vaya delante de nosotros; en cuanto a este Moi
 Así que les dije: ‘Quien tenga alguna joya de oro, que se la quite.’ Me la dieron, la eché al fuego, ¡y salió este becerro!”
 
 ## Éxodo 32:25
-Cuando Moisés vio que el pueblo estaba fuera de control—porque Aarón los había dejado desenfrenados hasta el punto de ser el hazmerreír de sus enemigos—
+Cuando Moisés vio que el pueblo estaba fuera de control —porque Aarón los había dejado desenfrenados hasta el punto de ser el hazmerreír de sus enemigos—
 
 ## Éxodo 32:26
 Moisés se puso a la entrada del campamento y dijo: “Quien esté de parte del Señor, venga a mí.” Y todos los hijos de Leví se reunieron con él.
@@ -85,7 +85,7 @@ Moisés se puso a la entrada del campamento y dijo: “Quien esté de parte del 
 Los hijos de Leví hicieron lo que Moisés mandó, y aquel día cayeron unos tres mil del pueblo.
 
 ## Éxodo 32:29
-Entonces Moisés dijo: “Consagraos hoy al Señor—porque habéis estado contra vuestros propios hijos y hermanos—para que Él os conceda hoy una bendición.”
+Entonces Moisés dijo: “Consagraos hoy al Señor —porque habéis estado contra vuestros propios hijos y hermanos— para que Él os conceda hoy una bendición.”
 
 ## Éxodo 32:30
 Al día siguiente Moisés dijo al pueblo: “Habéis cometido un gran pecado. Pero ahora subiré al Señor; quizás pueda hacer expiación por vuestro pecado.”

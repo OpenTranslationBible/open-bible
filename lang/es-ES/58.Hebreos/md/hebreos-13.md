@@ -20,14 +20,14 @@ Honroso sea en todos el matrimonio, y el lecho conyugal sin mancilla; pero a los
 
 Sean vuestras costumbres sin avaricia, contentos con lo que tenéis ahora; porque él dijo:
 
-> “No te dejaré, ni te desampararé.”
+>  “No te dejaré, ni te desampararé.”
 
 ## Hebreos 13:6
 
 De manera que podemos decir confiadamente:
 
-> “El Señor es mi ayudador; no temeré.
-> ¿Qué me puede hacer el hombre?”
+>  “El Señor es mi ayudador; no temeré.
+>  ¿Qué me puede hacer el hombre?”
 
 ## Hebreos 13:7
 

@@ -50,7 +50,7 @@ Por lo tanto, profetiza y diles: ‘Esto es lo que dice el Señor Soberano: Pueb
 
 ## Ezequiel 37:13
 
-Entonces reconoceréis que yo soy el Señor, cuando abra vuestros sepulcros y os haga salir de ellos.
+Entonces reconoceréis, pueblo mío, que yo soy el Señor, cuando abra vuestros sepulcros y os haga salir de ellos.
 
 ## Ezequiel 37:14
 

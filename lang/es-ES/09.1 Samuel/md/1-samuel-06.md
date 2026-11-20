@@ -15,7 +15,7 @@ Ellos respondieron: “Si devuelven el arca del Dios de Israel, no la envíen va
 ## 1 Samuel 6:4
 
 Los filisteos preguntaron: “¿Qué ofrenda por el pecado debemos enviarle?”  
-Ellos respondieron: “Cinco tumores de oro y cinco ratas de oro, conforme al número de los gobernantes filisteos, porque la misma plaga los ha golpeado a todos ustedes y a sus gobernantes.
+ Ellos respondieron: “Cinco tumores de oro y cinco ratas de oro, conforme al número de los gobernantes filisteos, porque la misma plaga los ha golpeado a todos ustedes y a sus gobernantes.
 
 ## 1 Samuel 6:5
 
@@ -52,7 +52,7 @@ Colocaron el arca del Señor en el carro, junto con la caja que contenía las ra
 ## 1 Samuel 6:12
 
 Entonces las vacas fueron directamente hacia Bet-semes, manteniéndose en el camino y mugiendo mientras iban. No se desviaron ni a la derecha ni a la izquierda.  
-Los gobernantes de los filisteos las siguieron hasta la frontera de Bet-semes.
+ Los gobernantes de los filisteos las siguieron hasta la frontera de Bet-semes.
 
 ---
 
@@ -67,7 +67,7 @@ El carro llegó al campo de Josué de Bet-semes y se detuvo junto a una gran pie
 ## 1 Samuel 6:15
 
 Los levitas bajaron el arca del Señor y la caja al lado que contenía los objetos de oro, y los colocaron sobre la gran piedra.  
-Ese día el pueblo de Bet-semes ofreció holocaustos e hizo sacrificios al Señor.
+ Ese día el pueblo de Bet-semes ofreció holocaustos e hizo sacrificios al Señor.
 
 ## 1 Samuel 6:16
 

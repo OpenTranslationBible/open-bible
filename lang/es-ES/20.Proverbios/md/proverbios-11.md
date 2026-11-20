@@ -91,4 +91,4 @@ Quien trae problemas a su familia heredará solo viento, y el necio servirá al 
 El fruto de los justos es un árbol de vida, y los sabios salvan vidas.
 
 ## Proverbios 11:31
-Si los justos son recompensados en la tierra, ¡cuánto más los malvados y el pecador!
+Si los justos son retribuidos en la tierra, ¡cuánto más los malvados y el pecador!

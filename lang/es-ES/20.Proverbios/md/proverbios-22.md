@@ -92,7 +92,7 @@ No explotes al pobre porque es pobre, ni aplastes al necesitado en la puerta,
 
 ## Proverbios 22:23
 
-porque el Señor tomará su causa y hará justicia.
+porque el Señor tomará su causa y despojará a los que los despojan.
 
 ---
 

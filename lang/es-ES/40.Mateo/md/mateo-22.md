@@ -185,9 +185,9 @@ Mientras los fariseos estaban reunidos, Jesús les preguntó,
 ## Mateo 22:44
 
 > ‘El Señor dijo a mi Señor:
-> “Siéntate a mi derecha
-> hasta que ponga a tus enemigos
-> debajo de tus pies.”’
+>  “Siéntate a mi derecha hasta que ponga a tus enemigos debajo de tus pies.
+> ”
+> ’
 
 ## Mateo 22:45
 

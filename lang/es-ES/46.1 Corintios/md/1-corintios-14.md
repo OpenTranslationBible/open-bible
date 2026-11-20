@@ -84,10 +84,10 @@ Hermanos, no seáis niños en el modo de pensar, sino sed niños en la malicia, 
 
 En la ley está escrito:
 
-> “En otras lenguas y con otros labios
-> hablaré a este pueblo,
-> y ni aun así me oirán,”
-> dice el Señor.
+>  “En otras lenguas y con otros labios hablaré a este pueblo,
+>  y ni aun así me oirán,
+> ”
+>  dice el Señor.
 
 ## 1 Corintios 14:22
 

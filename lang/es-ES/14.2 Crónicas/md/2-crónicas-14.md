@@ -8,7 +8,7 @@ Abías falleció y fue sepultado en la ciudad de David; su hijo Asa lo sucedió 
 
 ## 2 Crónicas 14:2
 
-Asa actuó de manera que fue agradable y justa ante el Señor Dios,
+Asa hizo lo bueno y lo recto ante los ojos del Señor su Dios,
 
 ---
 
@@ -86,4 +86,4 @@ Destruyeron todas las ciudades alrededor de Gerar, porque el terror del Señor h
 
 ## 2 Crónicas 14:15
 
-También atacaron fatalmente a los que poseían ganado, y se llevaron grandes cantidades de ovejas y camellos. Luego regresaron a Jerusalén.
+También atacaron las tiendas de los que poseían ganado, y se llevaron grandes cantidades de ovejas y camellos. Luego regresaron a Jerusalén.

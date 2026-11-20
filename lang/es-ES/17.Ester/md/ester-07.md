@@ -12,7 +12,7 @@ El segundo día, mientras bebían vino en el banquete, el rey preguntó: “Rein
 
 ## Ester 7:3
 
-La reina Ester respondió: “Si he hallado favor ante tus ojos, oh rey, y si te place, concédeme la vida—esta es mi petición. Y salva a mi pueblo—esta es mi solicitud.
+La reina Ester respondió: “Si he hallado favor ante tus ojos, oh rey, y si te place, concédeme la vida: esta es mi petición. Y salva a mi pueblo: esta es mi solicitud.
 
 ## Ester 7:4
 
@@ -42,7 +42,7 @@ Entonces Harbona, uno de los eunucos que servían al rey, dijo: “Mira, una hor
 
 ---
 
-El rey dijo: “¡Cuélguenlo en ella!”
+ El rey dijo: “¡Cuélguenlo en ella!”
 
 ## Ester 7:10
 

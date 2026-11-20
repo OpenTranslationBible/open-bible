@@ -67,7 +67,7 @@ Toma parte de la sangre del altar y parte del aceite de la unción y rocíalo so
 “Toma de este carnero la grasa, la cola gorda, la grasa que cubre las entrañas, el lóbulo del hígado, los dos riñones con la grasa que tienen, y el muslo derecho. (Este es el carnero de la consagración.)
 
 ## Éxodo 29:23
-De la cesta de pan sin levadura, toma un pan, una torta de pan mezclada con aceite, y una oblea.
+De la cesta de pan sin levadura que está delante del Señor, toma un pan, una torta de pan mezclada con aceite, y una oblea.
 
 ## Éxodo 29:24
 Pon todo esto en las manos de Aarón y sus hijos y mece una ofrenda mecida delante del Señor.

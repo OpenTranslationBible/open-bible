@@ -34,7 +34,7 @@ Pero otras cayeron en buena tierra y dieron fruto, unas ciento, otras sesenta, y
 
 ## Mateo 13:9
 
-El que tenga oídos: que escuche.”
+El que tenga oídos, que escuche.”
 
 ---
 
@@ -52,28 +52,28 @@ Porque al que tiene, se le dará más, y tendrá en abundancia. Al que no tiene,
 
 ## Mateo 13:13
 
-La razón por la que les hablo en parábolas es que
+La razón por la que les hablo en parábolas es que aunque miran,
 
-> aunque miran, no ven;
-> aunque oyen, no escuchan;
-> ni entienden.
+>  no ven;
+>  aunque oyen, no escuchan;
+>  ni entienden.
 
 ## Mateo 13:14
 
 En ellos se cumple la profecía de Isaías:
 
-> ‘Oiréis una y otra vez, pero nunca entenderéis;
-> veréis una y otra vez, pero nunca percibiréis.
+>  ‘Oiréis una y otra vez, pero nunca entenderéis;
+>  veréis una y otra vez, pero nunca percibiréis.
 
 ## Mateo 13:15
 
 > Porque el corazón de este pueblo se ha vuelto insensible;
-> con sus oídos apenas oyen,
-> y han cerrado sus ojos.
-> De lo contrario, podrían ver con sus ojos,
-> oír con sus oídos,
-> entender con su corazón y volverse,
-> y yo los sanaría.’
+>  con sus oídos apenas oyen,
+>  y han cerrado sus ojos.
+>  De lo contrario, podrían ver con sus ojos,
+>  oír con sus oídos,
+>  entender con su corazón y volverse,
+>  y yo los sanaría.’
 
 ## Mateo 13:16
 

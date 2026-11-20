@@ -162,4 +162,4 @@ Entonces recordaréis obedecer todos Mis mandamientos y estaréis dedicados a vu
 
 ## Números 15:41
 
-Yo soy el Señor vuestro Dios, que os libró de Egipto para ser vuestro Dios.”
+Yo soy el Señor vuestro Dios, que os libró de Egipto para ser vuestro Dios. Yo soy el Señor vuestro Dios.”

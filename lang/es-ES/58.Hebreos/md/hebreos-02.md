@@ -24,19 +24,19 @@ Porque no es a los ángeles a quienes ha sometido el mundo venidero, del cual es
 
 Pero alguien ha testificado en alguna parte, diciendo,
 
-> “¿Qué es el hombre, para que te acuerdes de él,
-> o el hijo del hombre, para que cuides de él?
+>  “¿Qué es el hombre, para que te acuerdes de él,
+>  o el hijo del hombre, para que cuides de él?
 
 ## Hebreos 2:7
 
 > Le hiciste un poco menor que los ángeles;
-> le coronaste de gloria y honor
+>  le coronaste de gloria y honor
 
 ## Hebreos 2:8
 
 > y pusiste todo bajo sus pies.”
 
-Al someterle todas las cosas, no dejó nada que no le sea sujeto. Sin embargo, por el momento, no vemos que todo le sea sujeto.
+ Al someterle todas las cosas, no dejó nada que no le sea sujeto. Sin embargo, por el momento, no vemos que todo le sea sujeto.
 
 ## Hebreos 2:9
 
@@ -54,19 +54,19 @@ Porque tanto el que santifica como los que son santificados, todos provienen de 
 
 diciendo,
 
-> “Proclamaré Tu nombre a Mis hermanos
-> y hermanas; en medio de la asamblea,
-> cantaré Tus alabanzas.”
+>  “Proclamaré Tu nombre a Mis hermanos y hermanas;
+>  en medio de la asamblea,
+>  cantaré Tus alabanzas.”
 
 ## Hebreos 2:13
 
 Y además,
 
-> “Pondré Mi confianza en Él.”
+>  “Pondré Mi confianza en Él.”
 
-Y también,
+ Y también,
 
-> “Aquí estoy, junto con los hijos que Dios Me ha dado.”
+>  “Aquí estoy, junto con los hijos que Dios Me ha dado.”
 
 ## Hebreos 2:14
 

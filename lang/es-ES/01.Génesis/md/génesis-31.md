@@ -138,7 +138,7 @@ Ahora Raquel había tomado los dioses domésticos y los había colocado dentro d
 
 ## Génesis 31:35
 
-Raquel dijo a su padre: “No te enojes, mi señor, porque no puedo levantarme en tu presencia; estoy con mi período.” Así que él buscó pero no encontró los dioses domésticos.
+Raquel dijo a su padre: “No te enojes, mi señor, porque no puedo levantarme en tu presencia; estoy en mis días.” Así que él buscó pero no encontró los dioses domésticos.
 
 ## Génesis 31:36
 

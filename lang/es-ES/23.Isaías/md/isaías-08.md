@@ -28,7 +28,7 @@ El Señor me habló una vez más:
 
 ## Isaías 8:7
 
-por lo tanto, el Señor está a punto de traer sobre ellos las poderosas y desbordantes aguas del Éufrates— el rey de Asiria con todo su esplendor. Se elevará sobre todos sus cauces y desbordará todos sus bancos.
+por lo tanto, el Señor está a punto de traer sobre ellos las poderosas y desbordantes aguas del Éufrates —el rey de Asiria con todo su esplendor. Se elevará sobre todos sus cauces y desbordará todos sus bancos—.
 
 ## Isaías 8:8
 

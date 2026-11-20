@@ -96,7 +96,7 @@ El Hijo del Hombre se irá tal como está escrito de él. ¡Pero ay de aquel que
 
 ## Marcos 14:22
 
-Mientras comían, Jesús tomó pan, y habiendo dado gracias, lo partió y se lo dio a sus discípulos, diciendo, “Tómenlo; esto simboliza mi cuerpo.”
+Mientras comían, Jesús tomó pan, y habiendo dado gracias, lo partió y se lo dio a sus discípulos, diciendo, “Tómenlo; esto es mi cuerpo.”
 
 ## Marcos 14:23
 
@@ -104,7 +104,7 @@ Luego tomó una copa, y después de dar gracias, se la ofreció, y todos bebiero
 
 ## Marcos 14:24
 
-“Esto representa mi sangre del pacto, que es derramada por muchos,” les dijo.
+“Esto es mi sangre del pacto, que es derramada por muchos,” les dijo.
 
 ## Marcos 14:25
 
@@ -120,8 +120,8 @@ Después de cantar un himno, salieron hacia el Monte de los Olivos.
 
 “Todos ustedes caerán,” les dijo Jesús, “porque está escrito:
 
-> ‘Heriré al pastor,
-> y las ovejas se dispersarán.’
+>  ‘Heriré al pastor,
+>  y las ovejas se dispersarán.’
 
 ## Marcos 14:28
 
@@ -133,7 +133,7 @@ Pedro declaró, “Aunque todos caigan, yo no.”
 
 ## Marcos 14:30
 
-“Te aseguro,” respondió Jesús, “que hoy—sí, esta misma noche—antes de que el gallo cante dos veces, tú me negarás tres veces.”
+“Te aseguro,” respondió Jesús, “que hoy —sí, esta misma noche— antes de que el gallo cante dos veces, tú me negarás tres veces.”
 
 ## Marcos 14:31
 

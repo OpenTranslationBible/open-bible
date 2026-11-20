@@ -3,7 +3,7 @@
 ## 3 Juan 1:1
 
 Del anciano,  
-Al querido Gayo, a quien amo en la verdad.
+ Al querido Gayo, a quien amo en la verdad.
 
 ## 3 Juan 1:2
 

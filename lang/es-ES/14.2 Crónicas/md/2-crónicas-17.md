@@ -2,7 +2,7 @@
 
 ## 2 Crónicas 17:1
 
-Josafat, su hijo, reinó en su lugar, y se mostró fuerte sobre Israel.
+Josafat, su hijo, reinó en su lugar, y se fortaleció contra Israel.
 
 ---
 
@@ -38,13 +38,13 @@ Y se enorgulleció en los caminos del Señor, y nuevamente quitó los lugares al
 
 ## 2 Crónicas 17:7
 
-En el tercer año de su reinado, envió a sus oficiales—Ben-hail, Abdías, Zacarías, Natanael y Micaías—a instruir en las ciudades de Judá;
+En el tercer año de su reinado, envió a sus oficiales —Ben-hail, Abdías, Zacarías, Natanael y Micaías— a instruir en las ciudades de Judá;
 
 ---
 
 ## 2 Crónicas 17:8
 
-y con ellos a los levitas, Semaías, Netanías, Zebadías, Asael, Semiramot, Jonatán, Adonías, Tobías y Tob-adonías—levitas; y con ellos a Elisama y Joram, sacerdotes.
+y con ellos a los levitas, Semaías, Netanías, Zebadías, Asael, Semiramot, Jonatán, Adonías, Tobías y Tob-adonías —levitas; y con ellos a Elisama y Joram, sacerdotes—.
 
 ---
 
@@ -63,7 +63,7 @@ Ahora el temor del Señor estaba sobre todos los reinos de las tierras que rodea
 ## 2 Crónicas 17:11
 
 Y algunos de los filisteos trajeron regalos y plata como tributo a Josafat.  
-Los árabes también le trajeron rebaños, siete mil setecientos carneros y siete mil setecientos machos cabríos.
+ Los árabes también le trajeron rebaños, siete mil setecientos carneros y siete mil setecientos machos cabríos.
 
 ---
 
@@ -83,7 +83,7 @@ Tenía abundantes provisiones en las ciudades de Judá, y guerreros, hombres val
 
 Este fue su censo según las casas de sus padres:
 
-> de Judá, comandantes de miles: Adna el comandante, y con él 300,000 valientes guerreros;
+>  de Judá, comandantes de miles: Adna el comandante, y con él 300,000 valientes guerreros;
 
 ---
 

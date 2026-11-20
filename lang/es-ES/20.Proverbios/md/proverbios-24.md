@@ -72,7 +72,7 @@ No te regocijes cuando caiga tu enemigo, y no dejes que tu corazón se alegre cu
 
 ## Proverbios 24:18
 
-no sea que el Señor lo note y aparte su atención de ellos.
+no sea que el Señor lo note y lo desapruebe, y aparte su ira de ellos.
 
 ## Proverbios 24:19
 

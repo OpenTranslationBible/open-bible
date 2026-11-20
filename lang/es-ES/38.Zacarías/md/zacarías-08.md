@@ -40,7 +40,7 @@ Sin embargo, ahora trataré al remanente de este pueblo de manera diferente que 
 Así como han sido una maldición entre las naciones, casa de Judá y casa de Israel, así los salvaré, y serán una bendición. No teman, sino que sus manos sean fuertes.”
 
 ## Zacarías 8:14
-Esto es lo que dice el Señor de los ejércitos: “Así como había determinado traer desastre sobre ustedes cuando sus antepasados me provocaron a ira,” dice el Señor de los ejércitos,
+Esto es lo que dice el Señor de los ejércitos: “Así como había determinado traer desastre sobre ustedes cuando sus antepasados me provocaron a ira, y no me arrepentí,” dice el Señor de los ejércitos,
 
 ## Zacarías 8:15
 “así he determinado hacer el bien nuevamente a Jerusalén y a la casa de Judá. No teman.

@@ -174,7 +174,7 @@ pero Dios lo resucitó de entre los muertos al tercer día y permitió que se le
 
 ## Hechos 10:41
 
-no por todo el pueblo, sino por testigos que Dios ya había escogido—por nosotros que comimos y bebimos con Él después de que resucitó de entre los muertos.
+no por todo el pueblo, sino por testigos que Dios ya había escogido —por nosotros que comimos y bebimos con Él después de que resucitó de entre los muertos—.
 
 ## Hechos 10:42
 

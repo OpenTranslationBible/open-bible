@@ -46,7 +46,7 @@ Descubrieron su desnudez, se llevaron a sus hijos e hijas, y la mataron a espada
 
 ## Ezequiel 23:12
 
-Ella también deseó a los asirios—gobernadores y comandantes, opulentamente vestidos, jinetes montados a caballo, todos jóvenes apuestos.
+Ella también deseó a los asirios —gobernadores y comandantes, opulentamente vestidos, jinetes montados a caballo, todos jóvenes apuestos—.
 
 ## Ezequiel 23:13
 

@@ -37,7 +37,7 @@ El ángel del Señor le dijo además: “Estás embarazada y darás a luz un hij
 Será como un asno salvaje; su mano estará contra todos, y la mano de todos contra él, y vivirá en oposición a todos sus hermanos.”
 
 ## Génesis 16:13
-Ella llamó al nombre del Señor que le habló: “Tú eres el Dios que me ve,” porque dijo: “Ahora he visto al que me ve.”
+Ella dio este nombre al Señor que le había hablado: “Tú eres el Dios que me ve”, porque dijo: “Ahora he visto al que me ve.”
 
 ## Génesis 16:14
 Por eso el pozo fue llamado Beer-lahai-roi; todavía está allí, entre Cades y Bered.

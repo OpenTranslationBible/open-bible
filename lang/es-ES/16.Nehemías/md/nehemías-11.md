@@ -18,15 +18,15 @@ Algunos de los hijos de Judá y Benjamín residían en Jerusalén.
 
 ---
 
-De los hijos de Judá:
+ De los hijos de Judá:
 
-> Ataías hijo de Uzías, hijo de Zacarías, hijo de Amarías,
-> hijo de Sefatías, hijo de Mahalalel, de la línea de Pérez;
+>  Ataías hijo de Uzías, hijo de Zacarías, hijo de Amarías,
+>  hijo de Sefatías, hijo de Mahalalel, de la línea de Pérez;
 
 ## Nehemías 11:5
 
 > y Maaseías hijo de Baruc, hijo de Col-Hoze, hijo de Hazaías, hijo de Adaías,
-> hijo de Joiarib, hijo de Zacarías, descendiente de Sela.
+>  hijo de Joiarib, hijo de Zacarías, descendiente de Sela.
 
 ## Nehemías 11:6
 
@@ -40,7 +40,7 @@ De los hijos de Benjamín: Salú hijo de Mesulam, hijo de Joed, hijo de Pedaías
 
 ## Nehemías 11:8
 
-y con él, Gabai y Salai—928 hombres.
+y con él, Gabai y Salai —928 hombres—.
 
 ## Nehemías 11:9
 
@@ -56,15 +56,15 @@ Seraías hijo de Hilcías, hijo de Mesulam, hijo de Sadoc, hijo de Meraiot, hijo
 
 ## Nehemías 11:12
 
-y sus asociados que realizaban el trabajo del templo—822 hombres; Adaías hijo de Jeroham, hijo de Pelalías, hijo de Amzi, hijo de Zacarías, hijo de Pasur, hijo de Malquías,
+y sus asociados que realizaban el trabajo del templo —822 hombres; Adaías hijo de Jeroham, hijo de Pelalías, hijo de Amzi, hijo de Zacarías, hijo de Pasur, hijo de Malquías,—
 
 ## Nehemías 11:13
 
-y sus asociados, jefes de familias—242 hombres; Amasai hijo de Azareel, hijo de Ahzai, hijo de Mesillemot, hijo de Imer,
+y sus asociados, jefes de familias —242 hombres; Amasai hijo de Azareel, hijo de Ahzai, hijo de Mesillemot, hijo de Imer,—
 
 ## Nehemías 11:14
 
-y sus hermanos, guerreros valientes—128. Su oficial principal era Zabdiel hijo de Haggedolim.
+y sus hermanos, guerreros valientes —128. Su oficial principal era Zabdiel hijo de Haggedolim—.
 
 ## Nehemías 11:15
 
@@ -84,7 +84,7 @@ Los levitas que residían en la ciudad santa eran 284.
 
 ## Nehemías 11:19
 
-Los porteros: Acub, Talmón y sus hermanos, que vigilaban las puertas—172 hombres.
+Los porteros: Acub, Talmón y sus hermanos, que vigilaban las puertas —172 hombres—.
 
 ## Nehemías 11:20
 

@@ -3,8 +3,8 @@
 ## 1 Crónicas 9:1
 
 Así, todo Israel fue registrado en genealogías,  
-y de hecho, están documentados en el Libro de los Reyes de Israel.  
-Y Judá fue llevado al exilio a Babilonia debido a su infidelidad.
+ y de hecho, están documentados en el Libro de los Reyes de Israel.  
+ Y Judá fue llevado al exilio a Babilonia debido a su infidelidad.
 
 ---
 
@@ -12,7 +12,7 @@ Y Judá fue llevado al exilio a Babilonia debido a su infidelidad.
 
 Ahora los primeros que vivieron en sus posesiones en sus ciudades fueron:
 
-> Israelitas, sacerdotes, levitas y los sirvientes del templo.
+>  Israelitas, sacerdotes, levitas y los sirvientes del templo.
 
 ---
 
@@ -25,7 +25,7 @@ Algunos descendientes de Judá, Benjamín, Efraín y Manasés residieron en Jeru
 ## 1 Crónicas 9:4
 
 > Utai, descendiente de Amiud, Omri, Imri y Bani,  
-> del linaje de Fares, hijo de Judá.
+>  del linaje de Fares, hijo de Judá.
 
 ---
 
@@ -48,15 +48,15 @@ Algunos descendientes de Judá, Benjamín, Efraín y Manasés residieron en Jeru
 ## 1 Crónicas 9:8
 
 > junto con Ibneías, descendiente de Jerojam,  
-> y Elá, descendiente de Uzi y Micri,  
-> y Mesulam, descendiente de Sefatías, Reuel e Ibnías;
+>  y Elá, descendiente de Uzi y Micri,  
+>  y Mesulam, descendiente de Sefatías, Reuel e Ibnías;
 
 ---
 
 ## 1 Crónicas 9:9
 
 > y sus parientes según sus generaciones, 956.  
-> Todos estos eran líderes de las casas de sus padres según sus líneas familiares.
+>  Todos estos eran líderes de las casas de sus padres según sus líneas familiares.
 
 ---
 
@@ -75,7 +75,7 @@ Algunos descendientes de Judá, Benjamín, Efraín y Manasés residieron en Jeru
 ## 1 Crónicas 9:12
 
 > y Adaías, descendiente de Jerojam, Pasur y Malquías;  
-> y Maasai, descendiente de Adiel, Jazerá, Mesulam, Mesilemit y Imer;
+>  y Maasai, descendiente de Adiel, Jazerá, Mesulam, Mesilemit y Imer;
 
 ---
 
@@ -94,14 +94,14 @@ Algunos descendientes de Judá, Benjamín, Efraín y Manasés residieron en Jeru
 ## 1 Crónicas 9:15
 
 > y Bacbacar, Heres y Galal;  
-> y Matanías, descendiente de Mica, Zicri y Asaf;
+>  y Matanías, descendiente de Mica, Zicri y Asaf;
 
 ---
 
 ## 1 Crónicas 9:16
 
 > y Abdías, descendiente de Semaías, Galal y Jedutún;  
-> y Berequías, descendiente de Asa y Elcana, que vivían en los asentamientos de los Netofatitas.
+>  y Berequías, descendiente de Asa y Elcana, que vivían en los asentamientos de los Netofatitas.
 
 ---
 
@@ -109,32 +109,32 @@ Algunos descendientes de Judá, Benjamín, Efraín y Manasés residieron en Jeru
 
 Ahora los porteros eran:
 
-> Salum, Acub, Talmón, Ahimán y sus parientes.  
-> Salum era el jefe.
+>  Salum, Acub, Talmón, Ahimán y sus parientes.  
+>  Salum era el jefe.
 
 ---
 
 ## 1 Crónicas 9:18
 
 Hasta ahora había estado en la puerta del rey hacia el este.  
-Estos eran los porteros para el campamento de los hijos de Leví.
+ Estos eran los porteros para el campamento de los hijos de Leví.
 
 ---
 
 ## 1 Crónicas 9:19
 
 Salum, descendiente de Coré, Ebiasaf y Coré,  
-y sus parientes de la casa de su padre, los coreítas,  
-estaban a cargo del trabajo del servicio, guardianes de los umbrales de la tienda.
+ y sus parientes de la casa de su padre, los coreítas,  
+ estaban a cargo del trabajo del servicio, guardianes de los umbrales de la tienda.
 
-> Y sus padres habían estado a cargo del campamento del Señor, guardianes de la entrada.
+>  Y sus padres habían estado a cargo del campamento del Señor, guardianes de la entrada.
 
 ---
 
 ## 1 Crónicas 9:20
 
 Fineas, descendiente de Eleazar, había sido gobernante sobre ellos anteriormente,  
-y el Señor estaba con él.
+ y el Señor estaba con él.
 
 ---
 
@@ -147,9 +147,9 @@ Zacarías, hijo de Meselemías, servía como portero en la entrada de la tienda 
 ## 1 Crónicas 9:22
 
 Todos los que fueron elegidos para ser porteros en los umbrales eran 212.  
-Estos fueron inscritos por genealogía en sus asentamientos,
+ Estos fueron inscritos por genealogía en sus asentamientos,
 
-> aquellos a quienes David y Samuel el vidente designaron en su cargo de confianza.
+>  aquellos a quienes David y Samuel el vidente designaron en su cargo de confianza.
 
 ---
 
@@ -157,7 +157,7 @@ Estos fueron inscritos por genealogía en sus asentamientos,
 
 Así que ellos y sus hijos tenían la supervisión de las puertas de la casa del Señor,
 
-> es decir, la casa de la tienda, como guardianes.
+>  es decir, la casa de la tienda, como guardianes.
 
 ---
 
@@ -165,7 +165,7 @@ Así que ellos y sus hijos tenían la supervisión de las puertas de la casa del
 
 Los porteros estaban apostados en los cuatro lados:
 
-> al este, oeste, norte y sur.
+>  al este, oeste, norte y sur.
 
 ---
 
@@ -178,30 +178,30 @@ Sus parientes de sus asentamientos se unían a ellos cada siete días periódica
 ## 1 Crónicas 9:26
 
 porque los cuatro principales porteros, que eran levitas,  
-estaban encargados de las habitaciones y de los tesoros en la casa de Dios.
+ estaban encargados de las habitaciones y de los tesoros en la casa de Dios.
 
 ---
 
 ## 1 Crónicas 9:27
 
 Pasaban la noche alrededor de la casa de Dios,  
-porque la vigilancia les estaba encomendada;
+ porque la vigilancia les estaba encomendada;
 
-> y estaban a cargo de abrirla cada mañana.
+>  y estaban a cargo de abrirla cada mañana.
 
 ---
 
 ## 1 Crónicas 9:28
 
 Ahora algunos de ellos eran responsables de los utensilios del servicio,  
-pues los contaban cuando los traían y cuando los sacaban.
+ pues los contaban cuando los traían y cuando los sacaban.
 
 ---
 
 ## 1 Crónicas 9:29
 
 Algunos de ellos también fueron designados sobre los muebles y sobre todos los utensilios del santuario,  
-y sobre la harina fina, el vino, el aceite, el incienso y las especias.
+ y sobre la harina fina, el vino, el aceite, el incienso y las especias.
 
 ---
 
@@ -215,30 +215,29 @@ Ciertos descendientes de los sacerdotes estaban encargados de preparar la mezcla
 
 Matatías, uno de los levitas, que era el primogénito de Salum el coreíta,
 
-> tenía la responsabilidad de hornear tortas planas en sartenes.
+>  tenía la responsabilidad de hornear tortas planas en sartenes.
 
 ---
 
 ## 1 Crónicas 9:32
 
-Algunos de sus parientes de los hijos de Coat  
-estaban a cargo del pan de la proposición para prepararlo cada sábado.
+Algunos de sus parientes de los hijos de Coat estaban a cargo del pan de la proposición para prepararlo cada sábado.
 
 ---
 
 ## 1 Crónicas 9:33
 
 Ahora estos son los cantores, líderes de las casas de los padres de los levitas,  
-que vivían en las cámaras del templo exentos de otros servicios,  
-pues estaban dedicados a su trabajo día y noche.
+ que vivían en las cámaras del templo exentos de otros servicios,  
+ pues estaban dedicados a su trabajo día y noche.
 
 ---
 
 ## 1 Crónicas 9:34
 
-Estos eran líderes de las casas de los padres de los levitas  
-según sus generaciones, hombres principales,  
-que vivían en Jerusalén.
+Estos eran líderes de las casas de los padres de los levitas según sus generaciones,  
+ hombres principales,  
+ que vivían en Jerusalén.
 
 ---
 
@@ -246,7 +245,7 @@ que vivían en Jerusalén.
 
 En Gabaón, Jeiel el padre de Gabaón vivía,
 
-> y el nombre de su esposa era Maaca.
+>  y el nombre de su esposa era Maaca.
 
 ---
 
@@ -264,7 +263,7 @@ también Gedor, Ahío, Zacarías y Miclot.
 
 Miclot engendró a Simeam.
 
-> Ellos también vivían con sus parientes en Jerusalén frente a sus otros parientes.
+>  Ellos también vivían con sus parientes en Jerusalén frente a sus otros parientes.
 
 ---
 
@@ -272,7 +271,7 @@ Miclot engendró a Simeam.
 
 Ner fue padre de Quis, y Quis fue padre de Saúl;
 
-> Saúl fue padre de Jonatán, Malquisúa, Abinadab y Es-baal.
+>  Saúl fue padre de Jonatán, Malquisúa, Abinadab y Es-baal.
 
 ---
 
@@ -280,7 +279,7 @@ Ner fue padre de Quis, y Quis fue padre de Saúl;
 
 El hijo de Jonatán fue Merib-baal,
 
-> y Merib-baal fue padre de Mica.
+>  y Merib-baal fue padre de Mica.
 
 ---
 
@@ -288,7 +287,7 @@ El hijo de Jonatán fue Merib-baal,
 
 Los hijos de Mica incluían:
 
-> Pitón, Melec, Tarea y Ahaz.
+>  Pitón, Melec, Tarea y Ahaz.
 
 ---
 
@@ -296,8 +295,8 @@ Los hijos de Mica incluían:
 
 Ahaz fue padre de Jara,
 
-> y Jara fue padre de Alemet, Azmavet y Zimri;  
-> y Zimri fue padre de Moza;
+>  y Jara fue padre de Alemet, Azmavet y Zimri;  
+>  y Zimri fue padre de Moza;
 
 ---
 
@@ -305,9 +304,9 @@ Ahaz fue padre de Jara,
 
 Moza fue padre de Binea,
 
-> y su hijo fue Refaías,  
-> su hijo fue Eleasa,  
-> y su hijo fue Azel.
+>  y su hijo fue Refaías,  
+>  su hijo fue Eleasa,  
+>  y su hijo fue Azel.
 
 ---
 
@@ -315,5 +314,5 @@ Moza fue padre de Binea,
 
 Azel tuvo seis hijos llamados:
 
-> Azricam, Boqueru, Ismael, Searías, Abdías y Hanán.  
-> Estos fueron los hijos de Azel.
+>  Azricam, Boqueru, Ismael, Searías, Abdías y Hanán.  
+>  Estos fueron los hijos de Azel.

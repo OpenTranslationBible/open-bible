@@ -28,11 +28,11 @@ Dentro de la fortaleza de Susa, los judíos mataron y destruyeron a quinientos h
 
 ## Ester 9:7
 
-Parsandata, Dalfón, Aspata,
+Mataron a Parsandata, Dalfón, Aspata,
 
 ## Ester 9:8
 
-Porata, Adalía y Aridata,
+Porata, Adalía, Aridata,
 
 ## Ester 9:9
 

@@ -22,7 +22,7 @@ Pero Jesús, conociendo sus pensamientos, dijo: “¿Por qué albergan malos pen
 
 ## Mateo 9:6
 
-Pero para que sepan que el Hijo del Hombre tiene autoridad en la tierra para perdonar pecados”—dijo entonces al paralítico—: “Levántate, toma tu camilla y vete a tu casa.”
+Pero para que sepan que el Hijo del Hombre tiene autoridad en la tierra para perdonar pecados” —dijo entonces al paralítico—: “Levántate, toma tu camilla y vete a tu casa.”
 
 ## Mateo 9:7
 

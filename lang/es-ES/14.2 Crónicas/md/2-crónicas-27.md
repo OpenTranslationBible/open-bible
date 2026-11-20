@@ -3,15 +3,15 @@
 ## 2 Crónicas 27:1
 
 Jotam tenía veinticinco años cuando comenzó a reinar, y reinó dieciséis años en Jerusalén.  
-Su madre se llamaba Jerusa, hija de Sadoc.
+ Su madre se llamaba Jerusa, hija de Sadoc.
 
 ---
 
 ## 2 Crónicas 27:2
 
 Hizo lo que era recto ante los ojos del Señor, conforme a todo lo que había hecho su padre Uzías;  
-sin embargo, no entró en el templo del Señor.  
-Pero el pueblo continuó actuando corruptamente.
+ sin embargo, no entró en el templo del Señor.  
+ Pero el pueblo continuó actuando corruptamente.
 
 ---
 
@@ -24,15 +24,15 @@ Construyó la puerta superior de la casa del Señor, y fortificó significativam
 ## 2 Crónicas 27:4
 
 Además, edificó ciudades en la región montañosa de Judá,  
-y construyó fortalezas y torres en las áreas boscosas.
+ y construyó fortalezas y torres en las áreas boscosas.
 
 ---
 
 ## 2 Crónicas 27:5
 
 Luchó contra el rey de los amonitas y prevaleció sobre ellos.  
-Y los amonitas le dieron durante ese año cien talentos de plata, diez mil coros de trigo y diez mil de cebada.  
-Los amonitas también le pagaron esta cantidad en el segundo y tercer año.
+ Y los amonitas le dieron durante ese año cien talentos de plata, diez mil coros de trigo y diez mil de cebada.  
+ Los amonitas también le pagaron esta cantidad en el segundo y tercer año.
 
 ---
 
@@ -57,4 +57,4 @@ A la edad de veinticinco años, comenzó su reinado, y reinó dieciséis años e
 ## 2 Crónicas 27:9
 
 Jotam descansó con sus antepasados, y lo enterraron en la ciudad de David;  
-su hijo Acaz lo sucedió como rey.
+ su hijo Acaz lo sucedió como rey.

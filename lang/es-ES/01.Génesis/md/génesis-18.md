@@ -43,7 +43,7 @@ Entonces el Señor dijo a Abraham: “¿Por qué se rió Sara y dijo: ‘¿De ve
 ¿Hay algo demasiado difícil para el Señor? En el tiempo señalado el año próximo, volveré a ti, y Sara tendrá un hijo.”
 
 ## Génesis 18:15
-Sara tuvo miedo, así que lo negó, diciendo: “No me reí.” Pero Él dijo: “No, sino que te reíste.”
+Sara tuvo miedo, así que lo negó, diciendo: “No me reí.” Pero Él dijo: “No, sí que te reíste.”
 
 ## Génesis 18:16
 Cuando los hombres se levantaron para partir, miraron hacia Sodoma, y Abraham caminó con ellos para despedirlos.
@@ -52,7 +52,7 @@ Cuando los hombres se levantaron para partir, miraron hacia Sodoma, y Abraham ca
 El Señor consideró: “¿Ocultaré a Abraham lo que voy a hacer?
 
 ## Génesis 18:18
-Puesto que Abraham ciertamente se convertirá en una nación grande y poderosa, y en él serán bendecidas todas las naciones de la tierra.
+puesto que Abraham ciertamente se convertirá en una nación grande y poderosa, y en él serán bendecidas todas las naciones de la tierra?
 
 ## Génesis 18:19
 Porque lo he escogido, para que mande a sus hijos y a su casa después de él que guarden el camino del Señor haciendo lo que es justo y recto, para que el Señor haga venir sobre Abraham lo que ha prometido.”

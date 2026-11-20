@@ -20,66 +20,65 @@ Así, llegó a ser tan superior a los ángeles como el nombre que ha heredado es
 
 Porque, ¿a cuál de los ángeles dijo Dios jamás,
 
-> “Tú eres Mi Hijo; hoy
-> he llegado a ser Tu Padre”?
+>  “Tú eres Mi Hijo;
+>  hoy he llegado a ser Tu Padre”?
 
-O también,
+ O también,
 
-> “Yo seré Su Padre,
-> y Él será Mi Hijo”?
+>  “Yo seré Su Padre,
+>  y Él será Mi Hijo”?
 
 ## Hebreos 1:6
 
 Y una vez más, cuando Dios introduce a Su primogénito en el mundo, proclama,
 
-> “Que todos los ángeles de Dios Lo adoren.”
+>  “Que todos los ángeles de Dios Lo adoren.”
 
 ## Hebreos 1:7
 
 Hablando de los ángeles, dice,
 
-> “Él hace a Sus ángeles vientos,
-> y a Sus siervos llamas de fuego.”
+>  “Él hace a Sus ángeles vientos,
+>  y a Sus siervos llamas de fuego.”
 
 ## Hebreos 1:8
 
 Pero acerca del Hijo, dice,
 
-> “Tu trono, oh Dios, es por los siglos de los siglos;
-> un cetro de justicia será el cetro de Tu reino.
+>  “Tu trono, oh Dios, es por los siglos de los siglos;
+>  un cetro de justicia será el cetro de Tu reino.
 
 ## Hebreos 1:9
 
 > Has amado la justicia y odiado la maldad;
-> por eso Dios, Tu Dios, Te ha ungido
-> con el óleo de alegría más que a Tus compañeros.”
+>  por eso Dios, Tu Dios,
+>  Te ha ungido con el óleo de alegría más que a Tus compañeros.”
 
 ## Hebreos 1:10
 
 También declara,
 
-> “En el principio, Señor, Tú estableciste los cimientos de la tierra,
-> y los cielos son obra de Tus manos.
+>  “En el principio, Señor, Tú estableciste los cimientos de la tierra,
+>  y los cielos son obra de Tus manos.
 
 ## Hebreos 1:11
 
 > Ellos pasarán, pero Tú permaneces;
-> todos ellos envejecerán como vestidura.
+>  todos ellos envejecerán como vestidura.
 
 ## Hebreos 1:12
 
 > Los doblarás como un manto;
-> como vestidura, serán cambiados.
-> Pero Tú permaneces inmutable,
-> y Tus años no tendrán fin.”
+>  como vestidura, serán cambiados.
+>  Pero Tú permaneces inmutable,
+>  y Tus años no tendrán fin.”
 
 ## Hebreos 1:13
 
 ¿A cuál de los ángeles dijo Dios jamás,
 
-> “Siéntate a Mi derecha
-> hasta que ponga a Tus enemigos
-> por estrado de Tus pies”?
+>  “Siéntate a Mi derecha hasta que ponga a Tus enemigos por estrado de Tus pies”
+> ?
 
 ## Hebreos 1:14
 

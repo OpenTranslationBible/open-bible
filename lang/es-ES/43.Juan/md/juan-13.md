@@ -70,7 +70,7 @@ En verdad, en verdad os digo, ningún siervo es mayor que su señor, ni ningún 
 
 ## Juan 13:17
 
-Si sabéis estas cosas, seréis bendecidos cuando las hagáis.
+Si sabéis estas cosas, seréis bendecidos si las hacéis.
 
 ---
 

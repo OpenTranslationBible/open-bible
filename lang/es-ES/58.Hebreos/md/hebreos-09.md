@@ -58,7 +58,7 @@ Por eso, incluso el primer pacto no fue inaugurado sin sangre.
 Cuando Moisés proclamó cada mandamiento de la ley a todo el pueblo, tomó la sangre de becerros y machos cabríos, con agua, lana escarlata e hisopo, y roció el libro y a todo el pueblo.
 
 ## Hebreos 9:20
-Declaró: “Esto representa la sangre del pacto, que Dios os ha mandado cumplir”.
+Declaró: “Esto es la sangre del pacto, que Dios os ha mandado cumplir”.
 
 ## Hebreos 9:21
 De la misma manera, roció con la sangre tanto el tabernáculo como todos los utensilios usados en sus ceremonias.

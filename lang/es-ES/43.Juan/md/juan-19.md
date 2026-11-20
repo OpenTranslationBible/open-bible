@@ -60,7 +60,7 @@ Era el día de la Preparación para la Pascua, alrededor de la hora sexta. Dijo 
 
 ## Juan 19:15
 
-Ellos gritaron: “¡Fuera con Él! ¡Crucifícalo!” Pilato preguntó: “¿He de crucificar a vuestro Rey?” Los principales sacerdotes respondieron: “No tenemos más rey que César.”
+Ellos gritaron: “¡Fuera con Él! ¡Fuera con Él! ¡Crucifícalo!” Pilato preguntó: “¿He de crucificar a vuestro Rey?” Los principales sacerdotes respondieron: “No tenemos más rey que César.”
 
 ---
 

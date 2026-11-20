@@ -61,7 +61,7 @@ Así que se acercaron al mayordomo de José y le hablaron en la entrada de la ca
 Dijeron: “Perdónanos, señor mío, en verdad vinimos aquí la primera vez para comprar alimento.
 
 ## Génesis 43:21
-Pero cuando llegamos a nuestro campamento, abrimos nuestros sacos y encontramos el dinero de cada hombre en la boca de su saco—nuestro dinero en su totalidad. Así que lo hemos traído de vuelta con nosotros.
+Pero cuando llegamos a nuestro campamento, abrimos nuestros sacos y encontramos el dinero de cada hombre en la boca de su saco —nuestro dinero en su totalidad. Así que lo hemos traído de vuelta con nosotros—.
 
 ## Génesis 43:22
 También hemos traído dinero adicional con nosotros para comprar alimento. No sabemos quién puso nuestro dinero en nuestros sacos.”

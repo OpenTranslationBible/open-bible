@@ -8,7 +8,7 @@ La sabiduría ha construido su casa; ha labrado sus siete columnas.
 
 Ha preparado su banquete, ha mezclado su vino;
 
-> también ha dispuesto su mesa.
+>  también ha dispuesto su mesa.
 
 ## Proverbios 9:3
 
@@ -36,13 +36,13 @@ El que corrige al burlador se acarrea deshonra; el que reprende al malvado recib
 
 No reprendas al burlador, para que no te aborrezca;
 
-> reprende al sabio, y te amará.
+>  reprende al sabio, y te amará.
 
 ## Proverbios 9:9
 
 Instruye al sabio, y será más sabio aún;
 
-> enseña al justo, y aumentará su saber.
+>  enseña al justo, y aumentará su saber.
 
 ## Proverbios 9:10
 

@@ -108,10 +108,10 @@ Pero la Jerusalén de arriba, la cual es madre de todos nosotros, es libre.
 
 Porque está escrito:
 
-> “Regocíjate, oh estéril, tú que no das a luz;
-> prorrumpe en júbilo y clama, tú que no tienes dolores de parto;
-> porque más son los hijos de la desolada
-> que de la que tiene marido.”
+>  “Regocíjate, oh estéril, tú que no das a luz;
+>  prorrumpe en júbilo y clama, tú que no tienes dolores de parto;
+>  porque más son los hijos de la desolada que de la que tiene marido.
+> ”
 
 ## Gálatas 4:28
 

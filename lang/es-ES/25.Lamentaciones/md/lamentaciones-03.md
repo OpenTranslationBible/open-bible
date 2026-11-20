@@ -116,7 +116,7 @@ Que se siente solo en silencio, porque el Señor lo ha impuesto sobre él.
 
 ## Lamentaciones 3:29
 
-Que entierre su rostro en el polvo—quizás haya esperanza.
+Que entierre su rostro en el polvo —quizás haya esperanza—.
 
 ## Lamentaciones 3:30
 
@@ -144,7 +144,7 @@ A negar a una persona justicia ante el Altísimo,
 
 ## Lamentaciones 3:36
 
-A defraudar a alguien en su pleito—estas cosas el Señor no aprueba.
+A defraudar a alguien en su pleito —estas cosas el Señor no aprueba—.
 
 ## Lamentaciones 3:37
 

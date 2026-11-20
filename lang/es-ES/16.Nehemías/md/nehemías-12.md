@@ -68,7 +68,7 @@ De la de Iddo, Zacarías; de la de Ginetón, Mesulam;
 
 ## Nehemías 12:17
 
-De la de Abías, Zicri; de la de Moadías, Piltai, de la tierra de Miniamín;
+De la de Abías, Zicri; de la de Miniamín y de la de Moadías, Piltai;
 
 ## Nehemías 12:18
 
@@ -144,7 +144,7 @@ y algunos de los sacerdotes con trompetas, y también Zacarías hijo de Jonatán
 
 ## Nehemías 12:36
 
-y sus parientes—Semaías, Azarel, Milalai, Gilalai, Maai, Natanael, Judá y Hananí—con los instrumentos musicales de David, el hombre de Dios. Esdras el escriba los dirigía.
+y sus parientes —Semaías, Azarel, Milalai, Gilalai, Maai, Natanael, Judá y Hananí— con los instrumentos musicales de David, el hombre de Dios. Esdras el escriba los dirigía.
 
 ## Nehemías 12:37
 
@@ -164,7 +164,7 @@ Los dos coros que ofrecían gracias tomaron entonces sus lugares en la casa de D
 
 ## Nehemías 12:41
 
-y los sacerdotes—Eliacim, Maasías, Miniamín, Micaías, Elioenai, Zacarías y Hananías con sus trompetas—
+y los sacerdotes —Eliacim, Maasías, Miniamín, Micaías, Elioenai, Zacarías y Hananías con sus trompetas—
 
 ## Nehemías 12:42
 

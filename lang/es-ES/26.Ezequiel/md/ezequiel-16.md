@@ -6,7 +6,7 @@ Un mensaje del Señor vino a mí:
 
 ## Ezequiel 16:2
 
-“Humano, informa a Jerusalén de sus acciones detestables.
+“Hijo de hombre, informa a Jerusalén de sus acciones detestables.
 
 ## Ezequiel 16:3
 
@@ -74,7 +74,7 @@ Y tomaste tus ropas bordadas para adornarlas, y ofreciste mi aceite e incienso d
 
 ## Ezequiel 16:19
 
-También la comida que te proporcioné—la flor de harina, el aceite de oliva y la miel que te di para comer—la ofreciste como aroma suave delante de ellas. Eso es lo que pasó, declara el Señor Soberano.
+También la comida que te proporcioné —la flor de harina, el aceite de oliva y la miel que te di para comer— la ofreciste como aroma suave delante de ellas. Eso es lo que pasó, declara el Señor Soberano.
 
 ## Ezequiel 16:20
 
@@ -226,7 +226,7 @@ Ni siquiera mencionabas a tu hermana Sodoma en el tiempo de tu orgullo,
 
 ## Ezequiel 16:57
 
-antes de que se descubriera tu maldad. Así que ahora eres despreciada por las hijas de Edom y todos sus vecinos y las hijas de los filisteos—todos los que están a tu alrededor que te desprecian.
+antes de que se descubriera tu maldad. Así que ahora eres despreciada por las hijas de Edom y todos sus vecinos y las hijas de los filisteos —todos los que están a tu alrededor que te desprecian—.
 
 ## Ezequiel 16:58
 

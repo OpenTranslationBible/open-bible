@@ -20,13 +20,13 @@ En vuestra lucha contra el pecado, aún no habéis resistido hasta el punto de d
 
 Y habéis olvidado la exhortación que os dirige como a hijos:
 
-> Dice, “Hijo mío, no tomes a la ligera la disciplina del Señor,
-> ni te desanimes cuando te reprenda,
+>  Dice, “Hijo mío, no tomes a la ligera la disciplina del Señor,
+>  ni te desanimes cuando te reprenda,
 
 ## Hebreos 12:6
 
 > porque el Señor disciplina al que ama,
-> y castiga a todo hijo que acepta.”
+>  y castiga a todo hijo que acepta.”
 
 ## Hebreos 12:7
 

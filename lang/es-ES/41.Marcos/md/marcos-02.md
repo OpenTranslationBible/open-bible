@@ -38,7 +38,7 @@ Inmediatamente Jesús, consciente en su espíritu de que pensaban de esta manera
 
 ## Marcos 2:10
 
-Pero para que sepan que el Hijo del Hombre tiene autoridad en la tierra para perdonar pecados”—dijo al hombre paralítico,
+Pero para que sepan que el Hijo del Hombre tiene autoridad en la tierra para perdonar pecados” —dijo al hombre paralítico,—
 
 ## Marcos 2:11
 

@@ -1,7 +1,7 @@
 # Colosenses Capítulo 1
 
 ## Colosenses 1:1
-Pablo, mensajero de Cristo Jesús por la voluntad de Dios, junto con Timoteo nuestro hermano,
+Pablo, apóstol de Cristo Jesús por la voluntad de Dios, junto con Timoteo nuestro hermano,
 
 ## Colosenses 1:2
 A los santos y fieles hermanos y hermanas en Cristo en Colosas: Gracia y paz a vosotros de parte de Dios nuestro Padre.
@@ -40,7 +40,7 @@ dando gracias al Padre, que os ha capacitado para participar en la herencia de l
 Porque él nos ha rescatado del dominio de las tinieblas y nos ha trasladado al reino del Hijo amado,
 
 ## Colosenses 1:14
-en quien tenemos redención y perdón.
+en quien tenemos redención, el perdón de los pecados.
 
 ## Colosenses 1:15
 El Hijo refleja al Dios invisible, el primogénito de toda creación.
@@ -49,7 +49,7 @@ El Hijo refleja al Dios invisible, el primogénito de toda creación.
 Porque en él fueron creadas todas las cosas: las que están en los cielos y en la tierra, visibles e invisibles, ya sean tronos o dominios o gobernantes o autoridades; todas las cosas han sido creadas por medio de él y para él.
 
 ## Colosenses 1:17
-Él existía antes de todas las cosas, y por él todas las cosas se mantienen unidas.
+Él es antes de todas las cosas, y por él todas las cosas se mantienen unidas.
 
 ## Colosenses 1:18
 Y él es la cabeza del cuerpo, la iglesia; él es el principio y el primogénito de entre los muertos, para que tenga supremacía en todo.

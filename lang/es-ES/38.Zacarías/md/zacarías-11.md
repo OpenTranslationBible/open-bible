@@ -3,21 +3,21 @@
 ## Zacarías 11:1
 
 > Abre tus puertas, Líbano,
-> para que el fuego consuma tus cedros.
+>  para que el fuego consuma tus cedros.
 
 ## Zacarías 11:2
 
 > Gime, ciprés, porque el cedro ha caído;
-> ¡los árboles majestuosos están destruidos!
-> Gimen, robles de Basán,
-> porque el denso bosque ha sido derribado.
+>  ¡los árboles majestuosos están destruidos!
+>  Gimen, robles de Basán,
+>  porque el denso bosque ha sido derribado.
 
 ## Zacarías 11:3
 
 > Escucha el lamento de los pastores,
-> porque sus gloriosos pastizales están arruinados.
-> Escucha el rugido de los jóvenes leones,
-> porque el orgullo del Jordán está devastado.
+>  porque sus gloriosos pastizales están arruinados.
+>  Escucha el rugido de los jóvenes leones,
+>  porque el orgullo del Jordán está devastado.
 
 ## Zacarías 11:4
 
@@ -73,8 +73,8 @@ Porque estoy a punto de levantar un pastor en la tierra que no se preocupará po
 
 ## Zacarías 11:17
 
-> ¡Ay del pastor inútil
-> que abandona el rebaño!
-> ¡Que la espada hiera su brazo y su ojo derecho!
-> ¡Que su brazo se seque completamente,
-> y su ojo derecho quede completamente ciego!”
+> ¡Ay del pastor inútil que abandona el rebaño!
+>  ¡Que la espada hiera su brazo y su ojo derecho!
+>  ¡Que su brazo se seque completamente,
+>  y su ojo derecho quede completamente ciego!
+> ”

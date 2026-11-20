@@ -4,49 +4,49 @@
 
 Después de estos eventos, oí una voz como el rugido de una gran multitud en el cielo, proclamando:
 
-> “¡Aleluya! La salvación, la gloria y el poder pertenecen a nuestro Dios,
+>  “¡Aleluya! La salvación, la gloria y el poder pertenecen a nuestro Dios,
 
 ## Apocalipsis 19:2
 
 > porque sus juicios son verdaderos y justos.
-> Ha juzgado a la gran prostituta que corrompió la tierra con su inmoralidad,
-> y ha vengado la sangre de sus siervos sobre ella.”
+>  Ha juzgado a la gran prostituta que corrompió la tierra con su inmoralidad,
+>  y ha vengado la sangre de sus siervos sobre ella.”
 
 ## Apocalipsis 19:3
 
 Y una vez más dijeron:
 
-> “¡Aleluya! Su humo sube por los siglos de los siglos.”
+>  “¡Aleluya! Su humo sube por los siglos de los siglos.”
 
 ## Apocalipsis 19:4
 
 Los veinticuatro ancianos y los cuatro seres vivientes se postraron y adoraron a Dios que está sentado en el trono, diciendo,
 
-> “¡Amén, Aleluya!”
+>  “¡Amén, Aleluya!”
 
 ## Apocalipsis 19:5
 
 Entonces una voz salió del trono, diciendo:
 
-> “Alabad a nuestro Dios, todos sus siervos,
-> vosotros que le teméis, tanto pequeños como grandes.”
+>  “Alabad a nuestro Dios, todos sus siervos,
+>  vosotros que le teméis, tanto pequeños como grandes.”
 
 ## Apocalipsis 19:6
 
 Y oí lo que parecía la voz de una gran multitud, como el sonido de muchas aguas y como poderosos truenos, diciendo:
 
-> “¡Aleluya! Porque el Señor nuestro Dios, el Todopoderoso, reina.
+>  “¡Aleluya! Porque el Señor nuestro Dios, el Todopoderoso, reina.
 
 ## Apocalipsis 19:7
 
 > Regocijémonos y alegrémonos y démosle gloria,
-> porque ha llegado la boda del Cordero,
-> y su novia se ha preparado.”
+>  porque ha llegado la boda del Cordero,
+>  y su novia se ha preparado.”
 
 ## Apocalipsis 19:8
 
 > Se le ha concedido vestirse de lino fino, resplandeciente y limpio.
-> (Porque el lino fino representa los actos justos de los santos.)
+>  (Porque el lino fino representa los actos justos de los santos.)
 
 ## Apocalipsis 19:9
 

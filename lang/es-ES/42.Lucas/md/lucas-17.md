@@ -68,7 +68,7 @@ Uno de ellos, al darse cuenta de que había sido sanado, regresó, glorificando 
 
 ## Lucas 17:16
 
-Cayó a los pies de Jesús y expresó su gratitud—y era un samaritano.
+Cayó a los pies de Jesús y expresó su gratitud —y era un samaritano—.
 
 ## Lucas 17:17
 

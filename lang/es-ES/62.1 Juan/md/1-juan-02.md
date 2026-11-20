@@ -47,27 +47,26 @@ Pero el que odia a su hermano o hermana está en la oscuridad y anda en la oscur
 ## 1 Juan 2:12
 
 > Les escribo a ustedes, hijitos,  
-> porque sus pecados les han sido perdonados por su nombre.
+>  porque sus pecados les han sido perdonados por su nombre.
 
 ## 1 Juan 2:13
 
-> Les escribo a ustedes, padres,  
-> porque conocen al que ha sido desde el principio.  
-> Les escribo a ustedes, jóvenes,  
-> porque han vencido al maligno.  
-> Les he escrito a ustedes, jóvenes,  
-> porque han vencido al maligno.
+> Les escribo a ustedes,  
+>  padres, porque conocen al que ha sido desde el principio.  
+>  Les escribo a ustedes,  
+>  jóvenes,  
+>  porque han vencido al maligno.
 
 ## 1 Juan 2:14
 
 > Les he escrito a ustedes, niños,  
-> porque conocen al Padre.  
-> Les he escrito a ustedes, padres,  
-> porque conocen al que ha sido desde el principio.  
-> Les he escrito a ustedes, jóvenes,  
-> porque son fuertes,  
-> y la palabra de Dios permanece en ustedes,  
-> y han vencido al maligno.
+>  porque conocen al Padre.  
+>  Les he escrito a ustedes, padres,  
+>  porque conocen al que ha sido desde el principio.  
+>  Les he escrito a ustedes, jóvenes,  
+>  porque son fuertes,  
+>  y la palabra de Dios permanece en ustedes,  
+>  y han vencido al maligno.
 
 ## 1 Juan 2:15
 

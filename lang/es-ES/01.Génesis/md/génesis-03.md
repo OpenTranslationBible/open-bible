@@ -46,7 +46,7 @@ Y Él dijo: “¿Quién te dijo que estabas desnudo? ¿Has comido del árbol del
 
 ## Génesis 3:12
 
-El hombre dijo: “La mujer que pusiste conmigo —ella me dio del fruto del árbol, y yo comí.”
+El hombre dijo: “La mujer que pusiste conmigo —ella me dio del fruto del árbol, y yo comí—.”
 
 ## Génesis 3:13
 

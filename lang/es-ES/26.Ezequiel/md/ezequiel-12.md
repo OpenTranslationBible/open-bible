@@ -54,7 +54,7 @@ Extenderé mi red sobre él, y será atrapado en mi trampa. Lo llevaré a Babilo
 
 ## Ezequiel 12:14
 
-Dispersaré al viento a todos los que están a su alrededor—su personal y todas sus tropas—y los perseguiré con una espada desenvainada.
+Dispersaré al viento a todos los que están a su alrededor —su personal y todas sus tropas— y los perseguiré con una espada desenvainada.
 
 ## Ezequiel 12:15
 

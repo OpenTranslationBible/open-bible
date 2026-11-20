@@ -64,7 +64,7 @@ Inscribidlas en los marcos de las puertas de vuestras casas y en vuestras puerta
 para que vuestros días y los días de vuestros hijos sean numerosos en la tierra que el Señor prometió dar a vuestros antepasados, tan numerosos como los días que los cielos están sobre la tierra.
 
 ## Deuteronomio 11:22
-Si observáis cuidadosamente todo este mandamiento que os doy para seguir—amar al Señor vuestro Dios, andar en todos sus caminos y aferraros a Él—
+Si observáis cuidadosamente todo este mandamiento que os doy para seguir —amar al Señor vuestro Dios, andar en todos sus caminos y aferraros a Él—
 
 ## Deuteronomio 11:23
 entonces el Señor expulsará a todas estas naciones delante de vosotros, y tomaréis posesión de naciones más grandes y poderosas que vosotros.

@@ -59,7 +59,7 @@ Después de terminar de profetizar, subió al lugar alto.
 ## 1 Samuel 10:14
 
 El tío de Saúl le dijo a él y a su criado: “¿Dónde fuisteis?”  
-Y él dijo: “A buscar los asnos. Cuando vimos que no se encontraban, fuimos a Samuel.”
+ Y él dijo: “A buscar los asnos. Cuando vimos que no se encontraban, fuimos a Samuel.”
 
 ## 1 Samuel 10:15
 
@@ -102,7 +102,7 @@ Así que corrieron y lo sacaron de allí. Y cuando se puso de pie entre el puebl
 ## 1 Samuel 10:24
 
 Samuel dijo a todo el pueblo: “¿Veis al que el Señor ha escogido? Ciertamente no hay ninguno como él entre todo el pueblo.”  
-Así que todo el pueblo gritó: “¡Viva el rey!”
+ Así que todo el pueblo gritó: “¡Viva el rey!”
 
 ---
 
@@ -117,4 +117,4 @@ Saúl regresó a su casa en Gibeah, acompañado por los hombres valientes cuyos 
 ## 1 Samuel 10:27
 
 Pero algunos hombres despreciables dijeron: “¿Cómo puede este hombre salvarnos?” Y lo despreciaron y no le trajeron ningún regalo.  
-Pero Saúl guardó silencio.
+ Pero Saúl guardó silencio.

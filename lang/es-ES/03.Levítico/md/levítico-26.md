@@ -158,11 +158,11 @@ Aquellos que queden se consumirán en las tierras de sus enemigos por causa de s
 
 ## Levítico 26:40
 
-‘Pero si confiesan sus pecados y los pecados de sus antepasados—su infidelidad y su hostilidad hacia mí—
+‘Pero si confiesan sus pecados y los pecados de sus antepasados —su infidelidad y su hostilidad hacia mí—
 
 ## Levítico 26:41
 
-que me hicieron hostil hacia ellos de modo que los envié a la tierra de sus enemigos—entonces cuando sus corazones incircuncisos se humillen y hagan enmiendas por su maldad,
+que me hicieron hostil hacia ellos de modo que los envié a la tierra de sus enemigos —entonces cuando sus corazones incircuncisos se humillen y hagan enmiendas por su maldad,—
 
 ## Levítico 26:42
 

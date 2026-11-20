@@ -64,9 +64,9 @@ pero en caso de que me demore, te escribo para que sepas cómo debe uno comporta
 
 Sin duda, el misterio de la piedad es profundo:
 
-> Aquel que fue manifestado en la carne,  
-> Fue justificado en el Espíritu,  
-> Visto por ángeles,  
-> Proclamado entre las naciones,  
-> Y creído en todo el mundo,  
-> Recibido arriba en gloria.
+>  Aquel que fue manifestado en la carne,  
+>  Fue justificado en el Espíritu,  
+>  Visto por ángeles,  
+>  Proclamado entre las naciones,  
+>  Y creído en todo el mundo,  
+>  Recibido arriba en gloria.

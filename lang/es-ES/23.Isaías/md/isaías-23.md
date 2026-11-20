@@ -37,7 +37,7 @@ El Señor ha extendido su mano sobre el mar, ha hecho temblar a los reinos; ha d
 Él ha declarado: “Ya no te regocijarás, oh virgen hija de Sidón aplastada. Levántate, cruza a Chipre; incluso allí no encontrarás descanso.”
 
 ## Isaías 23:13
-Mira la tierra de los caldeos—este es el pueblo que no era; Asiria la destinó para criaturas del desierto—levantaron sus torres de asedio, despojaron sus palacios, y la convirtieron en ruinas.
+Mira la tierra de los caldeos —este es el pueblo que no era; Asiria la destinó para criaturas del desierto— levantaron sus torres de asedio, despojaron sus palacios, y la convirtieron en ruinas.
 
 ## Isaías 23:14
 Lamenta, tú, naves de Tarsis, porque tu fortaleza está destruida.
@@ -49,7 +49,7 @@ En ese tiempo Tiro será olvidada por setenta años, como los días de un rey. A
 “Toma un arpa, recorre la ciudad, tú, ramera olvidada; toca bien el arpa, canta muchas canciones, para que seas recordada.”
 
 ## Isaías 23:17
-Al final de setenta años, el Señor atenderá a Tiro. Ella volverá a su comercio y se dedicará al comercio con todos los reinos sobre la faz de la tierra.
+Al final de setenta años, el Señor atenderá a Tiro. Ella volverá a su paga y se prostituirá con todos los reinos sobre la faz de la tierra.
 
 ## Isaías 23:18
 Sin embargo, sus ganancias y sus salarios serán apartados para el Señor; no serán almacenados ni atesorados, sino que sus beneficios proporcionarán abundante comida y espléndida vestimenta para los que habitan en la presencia del Señor.

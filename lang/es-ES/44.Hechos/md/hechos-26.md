@@ -74,7 +74,7 @@ Te libraré de tu propio pueblo y de los gentiles. A ellos te envío
 
 ## Hechos 26:18
 
-para abrir sus ojos y convertirlos de las tinieblas a la luz, y del poder de Satanás a Dios, para que reciban perdón de pecados y un lugar entre los santificados por la fe en mí.’
+para abrir sus ojos y convertirlos de las tinieblas a la luz, y del poder de Satanás a Dios, para que reciban perdón de pecados y herencia entre los santificados por la fe en mí.’
 
 ---
 

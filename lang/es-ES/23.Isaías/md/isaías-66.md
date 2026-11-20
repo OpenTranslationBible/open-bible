@@ -58,7 +58,7 @@ Porque con fuego y con su espada el Señor traerá juicio sobre toda la gente, y
 Pondré una señal entre ellos, y enviaré supervivientes a las naciones: a Tarsis, Fut, Lud, Mesec, Tubal y Javán, a las costas distantes que no han oído de mi fama ni han visto mi gloria. Proclamarán mi gloria entre las naciones.
 
 ## Isaías 66:20
-Y traerán a todo vuestro pueblo de todas las naciones a mi monte santo en Jerusalén como una ofrenda al Señor—en caballos, en carros y carretas, en mulas y camellos,” dice el Señor, “como los israelitas traen sus ofrendas de cereal en vasijas limpias a la casa del Señor.
+Y traerán a todo vuestro pueblo de todas las naciones a mi monte santo en Jerusalén como una ofrenda al Señor —en caballos, en carros y carretas, en mulas y camellos,” dice el Señor, “como los israelitas traen sus ofrendas de cereal en vasijas limpias a la casa del Señor—.
 
 ## Isaías 66:21
 Y seleccionaré a algunos de ellos como sacerdotes y levitas,” dice el Señor.

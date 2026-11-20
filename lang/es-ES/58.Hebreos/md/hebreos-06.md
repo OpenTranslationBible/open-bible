@@ -13,7 +13,7 @@ Y esto haremos, si Dios lo permite.
 Porque es imposible que aquellos que una vez fueron iluminados, que han probado el don celestial y han sido partícipes del Espíritu Santo,
 
 ## Hebreos 6:5
-y han experimentado la riqueza de la palabra de Dios y los poderes del siglo venidero,
+y han gustado la bondad de la palabra de Dios y los poderes del siglo venidero,
 
 ## Hebreos 6:6
 y luego han caído, sean restaurados nuevamente al arrepentimiento, ya que están crucificando de nuevo al Hijo de Dios y exponiéndolo a la vergüenza pública.

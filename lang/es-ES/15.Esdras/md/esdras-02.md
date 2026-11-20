@@ -172,8 +172,8 @@ Vinieron con Zorobabel, Jesúa, Nehemías, Seraías, Reelaías, Mardoqueo, Bilsh
 
 Los porteros del templo:
 
-> la línea de Salum, Ater, Talmón,
-> Acub, Hatita y Sobai, 139.
+>  la línea de Salum, Ater, Talmón,
+>  Acub, Hatita y Sobai, 139.
 
 ---
 
@@ -181,7 +181,7 @@ Los porteros del templo:
 
 Los sirvientes del templo:
 
-> la línea de Ziha, Hasufa, Tabaot,
+>  la línea de Ziha, Hasufa, Tabaot,
 
 ## Esdras 2:44
 
@@ -233,7 +233,7 @@ Los sirvientes del templo:
 
 Los descendientes de los siervos de Salomón:
 
-los descendientes de Sotai, Hasoferet y Peruda,
+ los descendientes de Sotai, Hasoferet y Peruda,
 
 ## Esdras 2:56
 
@@ -241,7 +241,7 @@ los descendientes de Sotai, Hasoferet y Peruda,
 
 ## Esdras 2:57
 
-> Sefatías, Hatil y Poqueret-Hazebaim, y Ami.
+> Sefatías, Hatil, Poqueret-Hazebaim y Ami.
 
 ## Esdras 2:58
 
@@ -259,9 +259,8 @@ Las familias de Delaía, Tobías y Necoda, 652.
 
 Y de entre los sacerdotes:
 
-> los descendientes de Hobaias, Hacoz y Barzilai,
-> que se había casado con una hija de Barzilai el Galaadita
-> y fue llamado por su nombre.
+>  los descendientes de Hobaias, Hacoz y Barzilai,
+>  que se había casado con una hija de Barzilai el Galaadita y fue llamado por su nombre.
 
 ## Esdras 2:62
 

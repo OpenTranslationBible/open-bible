@@ -4,7 +4,7 @@
 Hijos, obedeced a vuestros padres como es debido en el Señor, porque esto es lo correcto.
 
 ## Efesios 6:2
-“Honra a tu padre y a tu madre”—este es el primer mandamiento acompañado de una promesa—
+“Honra a tu padre y a tu madre” —este es el primer mandamiento acompañado de una promesa—
 
 ## Efesios 6:3
 “para que te vaya bien y tengas una larga vida en la tierra.”
@@ -34,7 +34,7 @@ Finalmente, fortaleceos en el Señor y en el poder de su fuerza.
 Poneos toda la armadura de Dios, para que podáis estar firmes contra las artimañas del diablo.
 
 ## Efesios 6:12
-Porque nuestra lucha no es contra meros oponentes humanos, sino contra los gobernantes, contra las autoridades, contra los poderes de este mundo oscuro, y contra las fuerzas espirituales de maldad en las regiones celestiales.
+Porque nuestra lucha no es contra carne y sangre, sino contra los gobernantes, contra las autoridades, contra los poderes de este mundo oscuro, y contra las fuerzas espirituales de maldad en las regiones celestiales.
 
 ## Efesios 6:13
 Por lo tanto, tomad toda la armadura de Dios, para que podáis resistir en el día malo, y habiendo hecho todo, estar firmes.

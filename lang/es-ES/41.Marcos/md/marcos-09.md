@@ -204,14 +204,13 @@ Y si tu ojo te lleva a tropezar, sácalo. Es mejor para ti entrar en el reino de
 
 ## Marcos 9:48
 
-donde
+donde su gusano no muere,
 
-> su gusano no muere,
-> y el fuego nunca se apaga.
+>  y el fuego nunca se apaga.
 
 ## Marcos 9:49
 
-Porque todos serán refinados con fuego.
+Porque todos serán salados con fuego.
 
 ## Marcos 9:50
 

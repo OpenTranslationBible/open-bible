@@ -6,7 +6,7 @@ Sin embargo, no habrá más penumbra para los que estaban en angustia. En tiempo
 
 ## Isaías 9:2
 
-El pueblo que andaba en tinieblas ha visto una gran luz; sobre los que vivían en tierra de profunda oscuridad, una luz ha resplandecido.
+El pueblo que andaba en tinieblas ha visto una gran luz; sobre los que vivían en tierra de sombra de muerte, una luz ha resplandecido.
 
 ## Isaías 9:3
 
@@ -34,7 +34,7 @@ El Señor ha enviado una palabra contra Jacob, y caerá sobre Israel.
 
 ## Isaías 9:9
 
-Y todo el pueblo lo sabrá—Efraín y los habitantes de Samaria—que dicen con orgullo y arrogancia de corazón:
+Y todo el pueblo lo sabrá —Efraín y los habitantes de Samaria— que dicen con orgullo y arrogancia de corazón:
 
 ## Isaías 9:10
 

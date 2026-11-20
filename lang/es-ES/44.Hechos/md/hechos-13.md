@@ -138,20 +138,20 @@ y durante muchos días se apareció a los que lo habían acompañado desde Galil
 
 lo ha cumplido para nosotros, sus hijos, resucitando a Jesús. Como está escrito en el segundo Salmo:
 
-> ‘Tú eres mi Hijo;
-> hoy te he engendrado.’
+>  ‘Tú eres mi Hijo;
+>  hoy te he engendrado.’
 
 ## Hechos 13:34
 
 Dios lo resucitó de entre los muertos, asegurando que nunca estaría sujeto a corrupción. Como Dios ha dicho,
 
-> ‘Os concederé las santas y seguras bendiciones prometidas a David.’
+>  ‘Os concederé las santas y seguras bendiciones prometidas a David.’
 
 ## Hechos 13:35
 
 Así también se dice en otro lugar:
 
-> ‘No permitirás que tu Santo vea corrupción.’
+>  ‘No permitirás que tu Santo vea corrupción.’
 
 ## Hechos 13:36
 
@@ -176,10 +176,10 @@ Tened cuidado de que no os suceda lo que dijeron los profetas:
 ## Hechos 13:41
 
 > ‘Mirad, burladores,
-> mirad con asombro y desapareced,
-> porque voy a hacer algo en vuestros días
-> que nunca creeríais,
-> aunque alguien os lo contara.’”
+>  mirad con asombro y desapareced,
+>  porque voy a hacer algo en vuestros días que nunca creeríais,
+>  aunque alguien os lo contara.
+> ’”
 
 ---
 
@@ -209,8 +209,8 @@ Entonces Pablo y Bernabé hablaron con valentía: “Era necesario hablaros prim
 
 Porque el Señor nos ha instruido:
 
-> ‘Te he puesto como luz para los gentiles,
-> para que lleves la salvación hasta los confines de la tierra.’”
+>  ‘Te he puesto como luz para los gentiles,
+>  para que lleves la salvación hasta los confines de la tierra.’”
 
 ## Hechos 13:48
 

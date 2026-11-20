@@ -46,7 +46,7 @@ El que tenga oído, que oiga lo que el Espíritu dice a las iglesias.
 Conozco tus obras, que no eres ni frío ni caliente. ¡Ojalá fueras frío o caliente!
 
 ## Apocalipsis 3:16
-Por lo tanto, puesto que eres tibio, ni caliente ni frío, estoy a punto de rechazarte.
+Por lo tanto, puesto que eres tibio, ni caliente ni frío, estoy a punto de vomitarte de mi boca.
 
 ## Apocalipsis 3:17
 Dices: ‘Soy rico; he adquirido riquezas y no necesito nada’. Pero no te das cuenta de que eres desventurado, miserable, pobre, ciego y desnudo.

@@ -4,25 +4,25 @@
 
 Estos son los hijos de David que le nacieron en Hebrón:
 
-> El primogénito fue Amnón, de Ahinoam la jezreelita;  
-> el segundo fue Daniel, de Abigail la carmelita;
+>  El primogénito fue Amnón, de Ahinoam la jezreelita;  
+>  el segundo fue Daniel, de Abigail la carmelita;
 
 ## 1 Crónicas 3:2
 
 > el tercero fue Absalón, hijo de Maaca, hija de Talmai rey de Gesur;  
-> el cuarto fue Adonías, hijo de Haguit;
+>  el cuarto fue Adonías, hijo de Haguit;
 
 ## 1 Crónicas 3:3
 
 > el quinto fue Sefatías, de Abital;  
-> el sexto fue Itream, de Egla su esposa.
+>  el sexto fue Itream, de Egla su esposa.
 
 ---
 
 ## 1 Crónicas 3:4
 
 Seis hijos le nacieron en Hebrón, donde reinó siete años y seis meses.  
-En Jerusalén, reinó treinta y tres años.
+ En Jerusalén, reinó treinta y tres años.
 
 ---
 
@@ -30,19 +30,19 @@ En Jerusalén, reinó treinta y tres años.
 
 Estos fueron sus hijos nacidos en Jerusalén:
 
-> Simea, Sobab, Natán y Salomón—cuatro de Bat-súa, hija de Ammiel—
+>  Simea, Sobab, Natán y Salomón —cuatro de Bat-súa, hija de Ammiel—
 
 ## 1 Crónicas 3:6
 
-> e Ibar, Elisama y Elifelet, nacieron
+> e Ibar, Elisama y Elifelet,
 
 ## 1 Crónicas 3:7
 
-> Noga, Nefeg y Jafía, nacieron
+> Noga, Nefeg y Jafía,
 
 ## 1 Crónicas 3:8
 
-> Elisama, Eliada y Elifelet—haciendo un total de nueve.
+> Elisama, Eliada y Elifelet —haciendo un total de nueve—.
 
 ---
 
@@ -50,7 +50,7 @@ Estos fueron sus hijos nacidos en Jerusalén:
 
 Todos estos fueron los hijos de David, además de los hijos de las concubinas;
 
-> y Tamar fue su hermana.
+>  y Tamar fue su hermana.
 
 ---
 
@@ -58,32 +58,32 @@ Todos estos fueron los hijos de David, además de los hijos de las concubinas;
 
 Roboam fue el hijo de Salomón,
 
-> seguido por Abías,  
-> Asa,  
-> y Josafat,
+>  seguido por Abías,  
+>  Asa,  
+>  y Josafat,
 
 ## 1 Crónicas 3:11
 
 > Joram,  
-> Ocozías,  
-> y Joás,
+>  Ocozías,  
+>  y Joás,
 
 ## 1 Crónicas 3:12
 
 > Amasías,  
-> Azarías,  
-> y Jotam,
+>  Azarías,  
+>  y Jotam,
 
 ## 1 Crónicas 3:13
 
 > Acaz,  
-> Ezequías,  
-> y Manasés,
+>  Ezequías,  
+>  y Manasés,
 
 ## 1 Crónicas 3:14
 
 > Amón,  
-> seguido por Josías.
+>  seguido por Josías.
 
 ---
 
@@ -91,10 +91,10 @@ Roboam fue el hijo de Salomón,
 
 Los hijos de Josías fueron:
 
-> Johanán el primogénito,  
-> el segundo Joacim,  
-> el tercero Sedequías,  
-> el cuarto Salum.
+>  Johanán el primogénito,  
+>  el segundo Joacim,  
+>  el tercero Sedequías,  
+>  el cuarto Salum.
 
 ---
 
@@ -102,8 +102,8 @@ Los hijos de Josías fueron:
 
 Los hijos de Joacim fueron:
 
-> Jeconías su hijo,  
-> Sedequías su hijo.
+>  Jeconías su hijo,  
+>  Sedequías su hijo.
 
 ---
 
@@ -111,7 +111,7 @@ Los hijos de Joacim fueron:
 
 Jeconías, quien fue llevado cautivo, tuvo hijos:
 
-> Sealtiel su hijo,
+>  Sealtiel su hijo,
 
 ## 1 Crónicas 3:18
 
@@ -123,14 +123,14 @@ Jeconías, quien fue llevado cautivo, tuvo hijos:
 
 Los hijos de Pedaías incluyeron:
 
-> Zorobabel y Simei.  
-> Los hijos de Zorobabel fueron:
+>  Zorobabel y Simei.  
+>  Los hijos de Zorobabel fueron:
 
-> Mesulam y Hananías, con Selomit como su hermana;
+>  Mesulam y Hananías, con Selomit como su hermana;
 
 ## 1 Crónicas 3:20
 
-> junto con Hasuba, Ohel, Berequías, Hasadías y Jusab-hesed—cinco en total.
+> junto con Hasuba, Ohel, Berequías, Hasadías y Jusab-hesed —cinco en total—.
 
 ---
 
@@ -138,11 +138,11 @@ Los hijos de Pedaías incluyeron:
 
 Los hijos de Hananías fueron:
 
-> Pelatías y Jesaías,  
-> los hijos de Refaías,  
-> los hijos de Arnán,  
-> los hijos de Abdías,  
-> y los hijos de Secanías.
+>  Pelatías y Jesaías,  
+>  los hijos de Refaías,  
+>  los hijos de Arnán,  
+>  los hijos de Abdías,  
+>  y los hijos de Secanías.
 
 ---
 
@@ -150,8 +150,8 @@ Los hijos de Hananías fueron:
 
 Los descendientes de Secanías fueron:
 
-> Semaías,  
-> y los hijos de Semaías: Hatus, Igal, Barías, Nearías y Safat—seis en total.
+>  Semaías,  
+>  y los hijos de Semaías: Hatus, Igal, Barías, Nearías y Safat —seis en total—.
 
 ---
 
@@ -159,7 +159,7 @@ Los descendientes de Secanías fueron:
 
 Los hijos de Nearías fueron:
 
-> Elioenai, Ezequías y Azricam—tres en total.
+>  Elioenai, Ezequías y Azricam —tres en total—.
 
 ---
 
@@ -167,4 +167,4 @@ Los hijos de Nearías fueron:
 
 Los hijos de Elioenai fueron:
 
-> Hodavías, Eliasib, Pelaías, Acub, Johanán, Delaías y Anani—siete en total.
+>  Hodavías, Eliasib, Pelaías, Acub, Johanán, Delaías y Anani —siete en total—.

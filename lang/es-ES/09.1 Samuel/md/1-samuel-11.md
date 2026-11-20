@@ -35,7 +35,7 @@ Cuando los pasó revista en Bezec, los hijos de Israel eran trescientos mil, y l
 ## 1 Samuel 11:9
 
 Dijeron a los mensajeros que habían venido: “Así diréis a los hombres de Jabes de Galaad: ‘Mañana, cuando el sol caliente, tendréis liberación.’”  
-Así que los mensajeros fueron y lo comunicaron a los hombres de Jabes, y se alegraron.
+ Así que los mensajeros fueron y lo comunicaron a los hombres de Jabes, y se alegraron.
 
 ## 1 Samuel 11:10
 

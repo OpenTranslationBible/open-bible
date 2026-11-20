@@ -16,9 +16,9 @@ Estos fueron los hijos de Israel:
 
 Los hijos de Judá fueron:
 
-> Er, Onán y Sela.  
-> Estos tres le nacieron de Bat-súa la cananea.  
-> Er, el primogénito de Judá, fue malo ante los ojos del Señor, por lo que Él lo mató.
+>  Er, Onán y Sela.  
+>  Estos tres le nacieron de Bat-súa la cananea.  
+>  Er, el primogénito de Judá, fue malo ante los ojos del Señor, por lo que Él lo mató.
 
 ---
 
@@ -26,7 +26,7 @@ Los hijos de Judá fueron:
 
 Tamar, la nuera de Judá, dio a luz a Fares y Zera.
 
-> Judá tuvo cinco hijos en total.
+>  Judá tuvo cinco hijos en total.
 
 ---
 
@@ -34,7 +34,7 @@ Tamar, la nuera de Judá, dio a luz a Fares y Zera.
 
 Fares fue el padre de dos hijos:
 
-> Hezrón y Hamul.
+>  Hezrón y Hamul.
 
 ---
 
@@ -42,7 +42,7 @@ Fares fue el padre de dos hijos:
 
 Los hijos de Zera fueron:
 
-> Zimri, Etán, Hemán, Calcol y Dara—cinco en total.
+>  Zimri, Etán, Hemán, Calcol y Dara —cinco en total—.
 
 ---
 
@@ -50,7 +50,7 @@ Los hijos de Zera fueron:
 
 El hijo de Carmi fue:
 
-> Acar, quien trajo problemas a Israel al violar el anatema.
+>  Acar, quien trajo problemas a Israel al violar el anatema.
 
 ---
 
@@ -58,7 +58,7 @@ El hijo de Carmi fue:
 
 Etán tuvo un hijo llamado:
 
-> Azarías.
+>  Azarías.
 
 ---
 
@@ -66,7 +66,7 @@ Etán tuvo un hijo llamado:
 
 Hezrón tuvo hijos, que fueron:
 
-> Jerameel, Ram y Quelubai.
+>  Jerameel, Ram y Quelubai.
 
 ---
 
@@ -74,7 +74,7 @@ Hezrón tuvo hijos, que fueron:
 
 Ram engendró a Aminadab, y Aminadab engendró a Nahasón,
 
-> el líder de los hijos de Judá.
+>  el líder de los hijos de Judá.
 
 ---
 
@@ -94,18 +94,18 @@ Booz fue el padre de Obed, quien fue el padre de Isaí.
 
 Isaí engendró a Eliab su primogénito,
 
-> luego a Abinadab el segundo,  
-> Simea el tercero,
+>  luego a Abinadab el segundo,  
+>  Simea el tercero,
 
 ## 1 Crónicas 2:14
 
 > Natanael fue el cuarto,  
-> Radai fue el quinto,
+>  Radai fue el quinto,
 
 ## 1 Crónicas 2:15
 
 > Ozem fue el sexto,  
-> David fue el séptimo.
+>  David fue el séptimo.
 
 ---
 
@@ -113,10 +113,10 @@ Isaí engendró a Eliab su primogénito,
 
 Sus hermanas fueron:
 
-> Sarvia y Abigail.  
-> Sarvia tuvo tres hijos:
+>  Sarvia y Abigail.  
+>  Sarvia tuvo tres hijos:
 
-> Abisai, Joab y Asael.
+>  Abisai, Joab y Asael.
 
 ---
 
@@ -124,16 +124,16 @@ Sus hermanas fueron:
 
 Abigail fue la madre de Amasa,
 
-> y el padre de Amasa fue Jeter el ismaelita.
+>  y el padre de Amasa fue Jeter el ismaelita.
 
 ---
 
 ## 1 Crónicas 2:18
 
 Ahora Caleb, el hijo de Hezrón, engendró hijos con Azuba su esposa y con Jeriot;  
-y estos fueron sus hijos:
+ y estos fueron sus hijos:
 
-> Jeser, Sobab y Ardón.
+>  Jeser, Sobab y Ardón.
 
 ---
 
@@ -141,7 +141,7 @@ y estos fueron sus hijos:
 
 Cuando Azuba falleció, Caleb se casó con Efrata,
 
-> y ella le dio a luz a Hur.
+>  y ella le dio a luz a Hur.
 
 ---
 
@@ -155,8 +155,8 @@ Hur fue el padre de Uri, y Uri engendró a Bezalel.
 
 Más tarde, Hezrón se casó con la hija de Maquir, el padre de Galaad,
 
-> con quien se casó a la edad de sesenta años;  
-> y ella le dio a luz a Segub.
+>  con quien se casó a la edad de sesenta años;  
+>  y ella le dio a luz a Segub.
 
 ---
 
@@ -169,17 +169,17 @@ Segub fue el padre de Jair, quien poseía veintitrés ciudades en la tierra de G
 ## 1 Crónicas 2:23
 
 Pero Gesur y Aram tomaron las ciudades de Jair de ellos,  
-con Kenat y sus aldeas, sesenta asentamientos.  
-Todos estos fueron los descendientes de Maquir, el padre de Galaad.
+ con Kenat y sus aldeas, sesenta asentamientos.  
+ Todos estos fueron los descendientes de Maquir, el padre de Galaad.
 
 ---
 
 ## 1 Crónicas 2:24
 
 Después de la muerte de Hezrón en Caleb-Éfrata,  
-Abías, la esposa de Hezrón, le dio a luz a Asur,
+ Abías, la esposa de Hezrón, le dio a luz a Asur,
 
-> el padre de Tecoa.
+>  el padre de Tecoa.
 
 ---
 
@@ -187,7 +187,7 @@ Abías, la esposa de Hezrón, le dio a luz a Asur,
 
 Ahora Jerameel, el primogénito de Hezrón, tuvo hijos:
 
-> Ram el primogénito, luego Buna, Oren, Ozem y Ahías.
+>  Ram el primogénito, luego Buna, Oren, Ozem y Ahías.
 
 ---
 
@@ -195,7 +195,7 @@ Ahora Jerameel, el primogénito de Hezrón, tuvo hijos:
 
 Jerameel tuvo otra esposa, conocida como Atara;
 
-> ella fue la madre de Onam.
+>  ella fue la madre de Onam.
 
 ---
 
@@ -203,7 +203,7 @@ Jerameel tuvo otra esposa, conocida como Atara;
 
 Ram, el primogénito de Jerameel, tuvo hijos:
 
-> Maaz, Jamín y Équer.
+>  Maaz, Jamín y Équer.
 
 ---
 
@@ -211,10 +211,10 @@ Ram, el primogénito de Jerameel, tuvo hijos:
 
 Los hijos de Onam fueron:
 
-> Samai y Jada.  
-> Samai tuvo hijos:
+>  Samai y Jada.  
+>  Samai tuvo hijos:
 
-> Nadab y Abisur.
+>  Nadab y Abisur.
 
 ---
 
@@ -222,7 +222,7 @@ Los hijos de Onam fueron:
 
 La esposa de Abisur se llamaba Abihail,
 
-> y ella le dio a luz a Ajbán y Molid.
+>  y ella le dio a luz a Ajbán y Molid.
 
 ---
 
@@ -230,8 +230,8 @@ La esposa de Abisur se llamaba Abihail,
 
 Los hijos de Nadab fueron:
 
-> Seled y Apaim.  
-> Seled falleció sin hijos.
+>  Seled y Apaim.  
+>  Seled falleció sin hijos.
 
 ---
 
@@ -239,13 +239,13 @@ Los hijos de Nadab fueron:
 
 Apaim tuvo un hijo llamado:
 
-> Isí.  
-> Isí tuvo un hijo llamado:
+>  Isí.  
+>  Isí tuvo un hijo llamado:
 
-> Sesán.  
-> Sesán tuvo un hijo llamado:
+>  Sesán.  
+>  Sesán tuvo un hijo llamado:
 
-> Ahlai.
+>  Ahlai.
 
 ---
 
@@ -253,8 +253,8 @@ Apaim tuvo un hijo llamado:
 
 Jada, el hermano de Samai, tuvo hijos:
 
-> Jéter y Jonatán.  
-> Jéter murió sin hijos.
+>  Jéter y Jonatán.  
+>  Jéter murió sin hijos.
 
 ---
 
@@ -262,15 +262,15 @@ Jada, el hermano de Samai, tuvo hijos:
 
 Los hijos de Jonatán fueron:
 
-> Pelet y Zaza.  
-> Estos fueron entre los descendientes de Jerameel.
+>  Pelet y Zaza.  
+>  Estos fueron entre los descendientes de Jerameel.
 
 ---
 
 ## 1 Crónicas 2:34
 
 Sesán no tuvo hijos, solo hijas.  
-Sesán tenía un siervo egipcio llamado Jarha.
+ Sesán tenía un siervo egipcio llamado Jarha.
 
 ---
 
@@ -278,7 +278,7 @@ Sesán tenía un siervo egipcio llamado Jarha.
 
 Sesán dio a su hija en matrimonio a Jarha, su siervo,
 
-> y ella le dio a luz a Atai.
+>  y ella le dio a luz a Atai.
 
 ---
 
@@ -312,8 +312,8 @@ Salum fue el padre de Jecamías, y Jecamías engendró a Elisama.
 
 Caleb, el hermano de Jerameel, tuvo hijos:
 
-> Mesa su primogénito, quien fue el padre de Zif;  
-> y los hijos de Maresa, el padre de Hebrón.
+>  Mesa su primogénito, quien fue el padre de Zif;  
+>  y los hijos de Maresa, el padre de Hebrón.
 
 ---
 
@@ -321,14 +321,14 @@ Caleb, el hermano de Jerameel, tuvo hijos:
 
 Hebrón tuvo hijos:
 
-> Coré, Tapúa, Requem y Sema.
+>  Coré, Tapúa, Requem y Sema.
 
 ---
 
 ## 1 Crónicas 2:44
 
 Sema fue el padre de Raham, quien fue el padre de Jorqueam;  
-y Requem fue el padre de Samai.
+ y Requem fue el padre de Samai.
 
 ---
 
@@ -336,14 +336,14 @@ y Requem fue el padre de Samai.
 
 El hijo de Samai fue:
 
-> Maón, y Maón fue el padre de Bet-sur.
+>  Maón, y Maón fue el padre de Bet-sur.
 
 ---
 
 ## 1 Crónicas 2:46
 
 Efa, la concubina de Caleb, dio a luz a Harán, Moza y Gazez;  
-y Harán fue el padre de Gazez.
+ y Harán fue el padre de Gazez.
 
 ---
 
@@ -351,7 +351,7 @@ y Harán fue el padre de Gazez.
 
 Jadai tuvo hijos:
 
-> Regem, Jotam, Gesán, Pelet, Efa y Saaf.
+>  Regem, Jotam, Gesán, Pelet, Efa y Saaf.
 
 ---
 
@@ -364,22 +364,22 @@ La concubina de Caleb, Maaca, dio a luz a Seber y Tirhana.
 ## 1 Crónicas 2:49
 
 Ella también dio a luz a Saaf, el padre de Madmana,  
-Sheva, el padre de Macbena y el padre de Gibeá;  
-y la hija de Caleb fue Aksa.
+ Sheva, el padre de Macbena y el padre de Gibeá;  
+ y la hija de Caleb fue Aksa.
 
 ---
 
 ## 1 Crónicas 2:50
 
 Estos fueron los hijos de Caleb:  
-Los hijos de Hur, el primogénito de Efrata:
+ Los hijos de Hur, el primogénito de Efrata:
 
-> Sobal, el padre de Quiriat-jearim,
+>  Sobal, el padre de Quiriat-jearim,
 
 ## 1 Crónicas 2:51
 
 > Salma, quien fue el padre de Belén,  
-> y Haref, quien fue el padre de Bet-gader.
+>  y Haref, quien fue el padre de Bet-gader.
 
 ---
 
@@ -387,13 +387,13 @@ Los hijos de Hur, el primogénito de Efrata:
 
 Sobal, el padre de Quiriat-jearim, tuvo hijos:
 
-> Haroeh y la mitad de los manaítas,
+>  Haroeh y la mitad de los manaítas,
 
 ## 1 Crónicas 2:53
 
 > y las familias de Quiriat-jearim:  
-> los itritas, los putitas, los sumatitas y los misraítas.  
-> De estos se originaron los zoratitas y los estaolitas.
+>  los itritas, los putitas, los sumatitas y los misraítas.  
+>  De estos se originaron los zoratitas y los estaolitas.
 
 ---
 
@@ -401,14 +401,14 @@ Sobal, el padre de Quiriat-jearim, tuvo hijos:
 
 Los hijos de Salma fueron:
 
-> Belén y los netofatitas,  
-> Atrot-bet-joab, y la mitad de los manaítas, los zoritas.
+>  Belén y los netofatitas,  
+>  Atrot-bet-joab, y la mitad de los manaítas, los zoritas.
 
 ---
 
 ## 1 Crónicas 2:55
 
 > Las familias de escribas que vivían en Jabes fueron:
-> los tiratitas, los simatitas y los sucatitas.  
-> Estos fueron los ceneos que vinieron de Hamat,  
-> el padre de la casa de Recab.
+>  los tiratitas, los simatitas y los sucatitas.  
+>  Estos fueron los ceneos que vinieron de Hamat,  
+>  el padre de la casa de Recab.

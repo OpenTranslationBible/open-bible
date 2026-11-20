@@ -18,7 +18,7 @@ Entonces el Señor dijo a Moisés: “Extiende tu mano y agárrala por la cola.�
 
 ## Éxodo 4:5
 
-“Esto es para que crean que el Señor, el Dios de sus antepasados—el Dios de Abraham, Isaac y Jacob—se te ha aparecido.”
+“Esto es para que crean que el Señor, el Dios de sus antepasados —el Dios de Abraham, Isaac y Jacob— se te ha aparecido.”
 
 ## Éxodo 4:6
 

@@ -26,7 +26,7 @@ y sus asentamientos en el continente serán muertos a espada. Entonces sabrán q
 
 ## Ezequiel 26:7
 
-Porque esto es lo que dice el Señor Soberano: He aquí, voy a traer contra Tiro a Nabucodonosor, rey de Babilonia, rey de reyes, con caballos, carros, caballería y un gran ejército.
+Porque esto es lo que dice el Señor Soberano: He aquí, voy a traer contra Tiro desde el norte a Nabucodonosor, rey de Babilonia, rey de reyes, con caballos, carros, caballería y un gran ejército.
 
 ## Ezequiel 26:8
 
@@ -68,19 +68,18 @@ Entonces todos los príncipes del mar descenderán de sus tronos, se quitarán s
 
 Tomarán un lamento por ti y te dirán:
 
-> ‘¡Cómo has sido destruida,
-> ciudad de renombre,
-> poblada por hombres del mar!
-> Eras un poder en los mares,
-> tú y tus ciudadanos;
-> infundías terror a todos los que vivían allí.
+>  ‘¡Cómo has sido destruida,
+>  ciudad de renombre,
+>  poblada por hombres del mar!
+>  Eras un poder en los mares,
+>  tú y tus ciudadanos;
+>  infundías terror a todos los que vivían allí.
 
 ## Ezequiel 26:18
 
-> Las costas ahora tiemblan
-> en el día de tu caída;
-> las islas en el mar
-> están aterrorizadas por tu colapso.’
+> Las costas ahora tiemblan en el día de tu caída;
+>  las islas en el mar están aterrorizadas por tu colapso.
+> ’
 
 ## Ezequiel 26:19
 

@@ -8,14 +8,14 @@ El comienzo del evangelio sobre Jesucristo, el Hijo de Dios,
 
 como está escrito en el profeta Isaías:
 
-> “He aquí, enviaré mi mensajero delante de ti,
-> quien preparará tu camino;
+>  “He aquí, enviaré mi mensajero delante de ti,
+>  quien preparará tu camino;
 
 ## Marcos 1:3
 
 > Una voz de uno que clama en el desierto:
-> ‘Preparen el camino para el Señor;
-> enderecen en el desierto una calzada para nuestro Dios’”
+>  ‘Preparen el camino para el Señor;
+>  enderecen sus sendas’”
 
 ## Marcos 1:4
 
@@ -109,7 +109,7 @@ Justo entonces un hombre en su sinagoga que estaba poseído por un espíritu inm
 
 ## Marcos 1:24
 
-“¿Qué tienes que ver con nosotros, Jesús de Nazaret? ¿Has venido a destruirnos? Sé quién eres —¡el Santo de Dios!”
+“¿Qué tienes que ver con nosotros, Jesús de Nazaret? ¿Has venido a destruirnos? Sé quién eres —¡el Santo de Dios—!”
 
 ## Marcos 1:25
 
@@ -121,7 +121,7 @@ El espíritu inmundo sacudió al hombre violentamente y salió de él con un fue
 
 ## Marcos 1:27
 
-La gente estaba tan asombrada que se preguntaban unos a otros, “¿Qué es esto? ¡Una nueva enseñanza—con autoridad! Incluso manda a los espíritus inmundos, y le obedecen.”
+La gente estaba tan asombrada que se preguntaban unos a otros, “¿Qué es esto? ¡Una nueva enseñanza —con autoridad! Incluso manda a los espíritus inmundos, y le obedecen—.”
 
 ## Marcos 1:28
 
@@ -171,7 +171,7 @@ y cuando le encontraron, dijeron, “¡Todos te están buscando!”
 
 ## Marcos 1:38
 
-Jesús respondió, “Vayamos a otro lugar—a las aldeas cercanas—para que también pueda predicar allí. Para eso he venido.”
+Jesús respondió, “Vayamos a otro lugar —a las aldeas cercanas— para que también pueda predicar allí. Para eso he venido.”
 
 ## Marcos 1:39
 

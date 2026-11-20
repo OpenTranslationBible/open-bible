@@ -44,21 +44,21 @@ Por esta razón persevero en todo por el bien de los escogidos, para que tambié
 
 Este dicho es digno de confianza:
 
-> Porque si hemos muerto con Él,  
-> también viviremos con Él;
+>  Porque si hemos muerto con Él,  
+>  también viviremos con Él;
 
 ## 2 Timoteo 2:12
 
 > Si perseveramos,  
-> también reinaremos con Él;  
-> Si lo negamos,  
-> Él también nos negará;
+>  también reinaremos con Él;  
+>  Si lo negamos,  
+>  Él también nos negará;
 
 ## 2 Timoteo 2:13
 
 > Si somos infieles,  
-> Él permanece fiel,  
-> porque no puede negarse a sí mismo.
+>  Él permanece fiel,  
+>  porque no puede negarse a sí mismo.
 
 ## 2 Timoteo 2:14
 

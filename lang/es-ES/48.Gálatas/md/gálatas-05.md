@@ -26,7 +26,7 @@ En Cristo Jesús, ni la circuncisión ni la incircuncisión tienen importancia. 
 
 ## Gálatas 5:7
 
-Ibas progresando bien. ¿Quién te impidió seguir la verdad?
+Ibas corriendo bien. ¿Quién te impidió seguir la verdad?
 
 ## Gálatas 5:8
 

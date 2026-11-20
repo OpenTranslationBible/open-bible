@@ -104,7 +104,7 @@ Cuando Israel terminó de matar a todos los habitantes de Hai en los campos y en
 
 ## Josué 8:25
 
-Ese día, doce mil hombres y mujeres de Hai perecieron—toda su gente.
+Ese día, doce mil hombres y mujeres de Hai perecieron —toda su gente—.
 
 ## Josué 8:26
 
@@ -128,19 +128,19 @@ Luego Josué construyó un altar al Señor, un altar al Dios de Israel, en el mo
 
 ## Josué 8:31
 
-como Moisés, el siervo del Señor, había mandado a los israelitas, como está escrito en el Libro de la Ley de Moisés—un altar de piedras sin labrar, sobre el cual no se había usado herramienta de hierro. Ofrecieron holocaustos sobre él al Señor, y sacrificaron ofrendas de paz.
+como Moisés, el siervo del Señor, había mandado a los israelitas, como está escrito en el Libro de la Ley de Moisés —un altar de piedras sin labrar, sobre el cual no se había usado herramienta de hierro. Ofrecieron holocaustos sobre él al Señor, y sacrificaron ofrendas de paz—.
 
 ## Josué 8:32
 
-A la vista de los israelitas, Josué inscribió en piedras una copia de la ley de Moisés.
+A la vista de los israelitas, Josué inscribió en piedras una copia de la ley de Moisés, que él había escrito.
 
 ## Josué 8:33
 
-Todo Israel, con sus ancianos, oficiales y jueces, se pararon a ambos lados del arca del pacto del Señor, frente a los sacerdotes levitas que la llevaban. Tanto los extranjeros que vivían entre ellos como los nacidos en el país estaban presentes. La mitad del pueblo se paró frente al monte Gerizim y la otra mitad frente al monte Ebal, como Moisés, el siervo del Señor, había mandado cuando bendijo al pueblo de Israel.
+Todo Israel, con sus ancianos, oficiales y jueces, se pararon a ambos lados del arca del pacto del Señor, frente a los sacerdotes levitas que la llevaban. Tanto los extranjeros que vivían entre ellos como los nacidos en el país estaban presentes. La mitad del pueblo se paró frente al monte Gerizim y la otra mitad frente al monte Ebal, como Moisés, el siervo del Señor, había mandado, para bendecir al pueblo de Israel.
 
 ## Josué 8:34
 
-Después, Josué recitó todas las palabras de la ley—las bendiciones y las maldiciones—tal como están registradas en el Libro de la Ley.
+Después, Josué recitó todas las palabras de la ley —las bendiciones y las maldiciones— tal como están registradas en el Libro de la Ley.
 
 ## Josué 8:35
 

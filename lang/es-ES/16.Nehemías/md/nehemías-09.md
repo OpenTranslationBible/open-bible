@@ -18,7 +18,7 @@ De pie sobre la plataforma de los levitas estaban Jesúa, Baní, Cadmiel, Seban�
 
 ## Nehemías 9:5
 
-Entonces los levitas—Jesúa, Cadmiel, Baní, Hasabneías, Serebías, Hodías, Sebanías y Petahías—dijeron: “Levantaos, bendecid al Señor vuestro Dios, que es de eternidad a eternidad. Sea bendito y exaltado tu glorioso nombre sobre toda bendición y alabanza.
+Entonces los levitas —Jesúa, Cadmiel, Baní, Hasabneías, Serebías, Hodías, Sebanías y Petahías— dijeron: “Levantaos, bendecid al Señor vuestro Dios, que es de eternidad a eternidad. Sea bendito y exaltado tu glorioso nombre sobre toda bendición y alabanza.
 
 ## Nehemías 9:6
 

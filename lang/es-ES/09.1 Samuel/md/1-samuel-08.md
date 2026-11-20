@@ -93,4 +93,4 @@ Cuando Samuel oyó todo lo que el pueblo decía, se lo comunicó al Señor.
 ## 1 Samuel 8:22
 
 Y el Señor le dijo a Samuel: “Escúchalos y nómbrales un rey.”  
-Entonces Samuel dijo a los hombres de Israel: “Cada uno de ustedes vuelva a su propia ciudad.”
+ Entonces Samuel dijo a los hombres de Israel: “Cada uno de ustedes vuelva a su propia ciudad.”

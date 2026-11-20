@@ -26,7 +26,7 @@ Tomaron su ganado y sus posesiones, que habían adquirido en Canaán, y fueron a
 
 ## Génesis 46:7
 
-Sus hijos y nietos, sus hijas y nietas—todos sus descendientes los llevó consigo a Egipto.
+Sus hijos y nietos, sus hijas y nietas —todos sus descendientes los llevó consigo a Egipto—.
 
 ## Génesis 46:8
 
@@ -70,7 +70,7 @@ Los hijos de Aser: Imná, Isvá, Isvi y Bería, con su hermana Sera. Los hijos d
 
 ## Génesis 46:18
 
-Estos fueron los hijos nacidos a Jacob por Zilpa, a quien Labán había dado a su hija Lea—dieciséis en total.
+Estos fueron los hijos nacidos a Jacob por Zilpa, a quien Labán había dado a su hija Lea —dieciséis en total—.
 
 ## Génesis 46:19
 
@@ -86,7 +86,7 @@ Los hijos de Benjamín: Bela, Bequer, Asbel, Guerá, Naamán, Ehi, Ros, Mupim, H
 
 ## Génesis 46:22
 
-Estos fueron los hijos de Raquel que nacieron a Jacob—catorce en total.
+Estos fueron los hijos de Raquel que nacieron a Jacob —catorce en total—.
 
 ## Génesis 46:23
 
@@ -98,7 +98,7 @@ Los hijos de Neftalí se llamaban Jahzeel, Guni, Jezer y Silem.
 
 ## Génesis 46:25
 
-Estos fueron los hijos nacidos a Jacob por Bilha, a quien Labán había dado a su hija Raquel—siete en total.
+Estos fueron los hijos nacidos a Jacob por Bilha, a quien Labán había dado a su hija Raquel —siete en total—.
 
 ## Génesis 46:26
 

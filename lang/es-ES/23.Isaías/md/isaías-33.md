@@ -31,7 +31,7 @@ La tierra está de luto y languidece, el Líbano está avergonzado y se marchita
 “Ahora actuaré,” dice el Señor. “Ahora seré exaltado; ahora seré levantado.
 
 ## Isaías 33:11
-Concebid paja, daréis a luz rastrojo; mi aliento os consumirá como fuego.
+Concebís paja, daréis a luz rastrojo; vuestro aliento os consumirá como fuego.
 
 ## Isaías 33:12
 Los pueblos serán quemados hasta la cal, como zarzas cortadas encendidas.

@@ -71,4 +71,4 @@ Vosotros, por lo tanto, amados, sabiendo esto de antemano, estad en guardia para
 ## 2 Pedro 3:18
 
 sino continuad creciendo en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo.  
-A Él sea la gloria, tanto ahora como por siempre. Amén.
+ A Él sea la gloria, tanto ahora como por siempre. Amén.

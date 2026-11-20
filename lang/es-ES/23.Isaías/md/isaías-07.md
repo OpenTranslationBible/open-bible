@@ -14,7 +14,7 @@ Entonces el Señor dijo a Isaías: “Sal ahora al encuentro de Acaz, tú y tu h
 
 ## Isaías 7:4
 
-Dile, ‘Ten cuidado, mantén la calma, no temas, y no pierdas el ánimo a causa de estos dos tizones humeantes—por la furia de Rezín y Aram y del hijo de Remalías.
+Dile, ‘Ten cuidado, mantén la calma, no temas, y no pierdas el ánimo a causa de estos dos tizones humeantes —por la furia de Rezín y Aram y del hijo de Remalías—.
 
 ## Isaías 7:5
 
@@ -68,7 +68,7 @@ porque antes de que el niño sepa rechazar el mal y escoger el bien, la tierra d
 
 ## Isaías 7:17
 
-El Señor traerá sobre ti, tu pueblo, y la casa de tu padre días como no ha habido desde que Efraín se separó de Judá—traerá al rey de Asiria.”
+El Señor traerá sobre ti, tu pueblo, y la casa de tu padre días como no ha habido desde que Efraín se separó de Judá —traerá al rey de Asiria—.”
 
 ## Isaías 7:18
 
@@ -80,7 +80,7 @@ Vendrán y se posarán en los barrancos escarpados, en las hendiduras de las roc
 
 ## Isaías 7:20
 
-En ese día, el Señor usará una navaja alquilada de más allá del Éufrates—el rey de Asiria—para afeitar tu cabeza y el vello de tus piernas, y también quitar tu barba.
+En ese día, el Señor usará una navaja alquilada de más allá del Éufrates —el rey de Asiria— para afeitar tu cabeza y el vello de tus piernas, y también quitar tu barba.
 
 ## Isaías 7:21
 

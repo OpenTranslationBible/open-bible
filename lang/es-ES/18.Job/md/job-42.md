@@ -7,28 +7,28 @@ Entonces Job respondió al Señor y dijo,
 ## Job 42:2
 
 > “Sé que eres capaz de todas las cosas,
-> y que ningún plan tuyo puede ser frustrado.
+>  y que ningún plan tuyo puede ser frustrado.
 
 ## Job 42:3
 
 > ‘¿Quién es este que oscurece el consejo sin conocimiento?’
-> En verdad, hablé de cosas que no entendía,
-> cosas demasiado maravillosas para mí.
+>  En verdad, hablé de cosas que no entendía,
+>  cosas demasiado maravillosas para mí.
 
 ## Job 42:4
 
 > ‘Escucha ahora, y hablaré;
-> te cuestionaré, y tú me informarás.’
+>  te cuestionaré, y tú me informarás.’
 
 ## Job 42:5
 
 > Había oído de ti por el oído,
-> pero ahora mis ojos te han visto;
+>  pero ahora mis ojos te han visto;
 
 ## Job 42:6
 
-> Por lo tanto, retiro mis palabras
-> y me arrepiento en polvo y ceniza.”
+> Por lo tanto,
+>  retiro mis palabras y me arrepiento en polvo y ceniza.”
 
 ---
 

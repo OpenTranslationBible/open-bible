@@ -102,7 +102,7 @@ todos los reyes de Zimri, todos los reyes de Elam, y todos los reyes de Media;
 
 ## Jeremías 25:26
 
-y todos los reyes del norte, cercanos y lejanos, uno tras otro—todos los reinos sobre la faz de la tierra. Y después de todos ellos, el rey de Sesac también la beberá.
+y todos los reyes del norte, cercanos y lejanos, uno tras otro —todos los reinos sobre la faz de la tierra. Y después de todos ellos, el rey de Sesac también la beberá—.
 
 ## Jeremías 25:27
 
@@ -130,7 +130,7 @@ Esto es lo que dice el Señor Todopoderoso: ‘¡Mirad! El desastre se está ext
 
 ## Jeremías 25:33
 
-En ese momento los muertos por el Señor estarán por todas partes—de un extremo de la tierra al otro. No serán llorados, recogidos ni enterrados, sino que serán como estiércol sobre el suelo.
+En ese momento los muertos por el Señor estarán por todas partes —de un extremo de la tierra al otro. No serán llorados, recogidos ni enterrados, sino que serán como estiércol sobre el suelo—.
 
 ## Jeremías 25:34
 

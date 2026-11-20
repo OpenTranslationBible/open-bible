@@ -34,7 +34,7 @@ Por tanto, aunque tengo mucha confianza en Cristo para mandarte lo que conviene,
 
 ## Filemón 1:9
 
-sin embargo, por amor prefiero rogarte—siendo como soy Pablo, anciano y ahora también prisionero de Cristo Jesús—
+sin embargo, por amor prefiero rogarte —siendo como soy Pablo, anciano y ahora también prisionero de Cristo Jesús—
 
 ## Filemón 1:10
 
@@ -74,7 +74,7 @@ Si te ha causado algún daño o te debe algo, considéralo mi responsabilidad.
 
 ## Filemón 1:19
 
-Yo, Pablo, lo escribo con mi propia mano—lo pagaré—sin mencionar que tú me debes aún tu propia persona.
+Yo, Pablo, lo escribo con mi propia mano —lo pagaré— sin mencionar que tú me debes aún tu propia persona.
 
 ## Filemón 1:20
 

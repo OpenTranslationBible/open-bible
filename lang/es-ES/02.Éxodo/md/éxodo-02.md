@@ -26,7 +26,7 @@ Al abrirla, vio al bebé llorando y sintió compasión por él, diciendo: “Est
 
 ## Éxodo 2:7
 
-Entonces su hermana dijo a la hija del faraón: “¿Quieres que vaya y llame a una mujer hebrea que esté amamantando, para que críe al niño para ti?”
+Entonces su hermana dijo a la hija del faraón: “¿Quieres que vaya y llame a una mujer hebrea que esté amamantando, para que te amamante al niño?”
 
 ## Éxodo 2:8
 
@@ -34,7 +34,7 @@ Entonces su hermana dijo a la hija del faraón: “¿Quieres que vaya y llame a 
 
 ## Éxodo 2:9
 
-La hija del faraón le dijo: “Lleva a este niño y críamelo, y yo te pagaré.” Así que la mujer tomó al niño y lo crió.
+La hija del faraón le dijo: “Llévate a este niño y amamántalo por mí, y yo te pagaré.” Así que la mujer tomó al niño y lo amamantó.
 
 ## Éxodo 2:10
 

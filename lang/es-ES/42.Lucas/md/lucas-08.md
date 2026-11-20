@@ -44,8 +44,8 @@ Sus discípulos le preguntaron sobre el significado de esta parábola.
 
 Él respondió: “A vosotros se os ha concedido conocer los secretos del reino de Dios, pero a los demás les hablo en parábolas, para que,
 
-> ‘viendo, no vean;
-> y oyendo, no entiendan.’
+>  ‘viendo, no vean;
+>  y oyendo, no entiendan.’
 
 ## Lucas 8:11
 

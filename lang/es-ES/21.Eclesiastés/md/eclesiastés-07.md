@@ -46,10 +46,10 @@ En el día del bien goza del bien, y en el día de la adversidad considera: Dios
 En los días de mi vanidad he visto de todo: hay justo que perece en su justicia, y hay impío que prolonga sus días en su maldad.
 
 ## Eclesiastés 7:16
-No seas demasiado justo, ni seas sabio en exceso— ¿por qué habrás de destruirte?
+No seas demasiado justo, ni seas sabio en exceso —¿por qué habrás de destruirte—?
 
 ## Eclesiastés 7:17
-No seas demasiado impío, ni seas insensato— ¿por qué habrás de morir antes de tu tiempo?
+No seas demasiado impío, ni seas insensato —¿por qué habrás de morir antes de tu tiempo—?
 
 ## Eclesiastés 7:18
 Bueno es que tomes esto, y también de aquello no apartes tu mano; porque el que teme a Dios saldrá bien en todo.
@@ -67,10 +67,10 @@ Tampoco apliques tu corazón a todas las palabras que se hablan, no sea que oiga
 porque tu corazón sabe que tú también has maldecido a otros muchas veces.
 
 ## Eclesiastés 7:23
-Todo esto probé con sabiduría. Dije: “Seré sabio”— pero la sabiduría estaba lejos de mí.
+Todo esto probé con sabiduría. Dije: “Seré sabio” —pero la sabiduría estaba lejos de mí—.
 
 ## Eclesiastés 7:24
-Lo que existe es remoto y muy profundo— ¿quién lo descubrirá?
+Lo que existe es remoto y muy profundo —¿quién lo descubrirá—?
 
 ## Eclesiastés 7:25
 Me volví y dirigí mi corazón a saber, a investigar y a buscar la sabiduría y la razón de las cosas, y a conocer la maldad de la insensatez y la locura del error.

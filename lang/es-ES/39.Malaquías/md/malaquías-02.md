@@ -34,7 +34,7 @@ Pero vosotros os habéis desviado del camino y con vuestra instrucción habéis 
 Judá ha sido infiel, y se ha cometido una abominación en Israel y en Jerusalén: Judá ha profanado el santuario que el Señor ama al casarse con la hija de un dios extranjero.
 
 ## Malaquías 2:12
-En cuanto al hombre que hace esto, que el Señor lo elimine de las tiendas de Jacob—aunque traiga una ofrenda al Señor de los Ejércitos.
+En cuanto al hombre que hace esto, que el Señor lo elimine de las tiendas de Jacob —aunque traiga una ofrenda al Señor de los Ejércitos—.
 
 ## Malaquías 2:13
 Y esto es otra cosa que hacéis: inundáis el altar del Señor con lágrimas, llorando y lamentándoos porque ya no considera vuestras ofrendas ni las acepta con agrado de vuestras manos.

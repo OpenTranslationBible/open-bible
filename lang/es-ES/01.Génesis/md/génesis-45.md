@@ -28,7 +28,7 @@ Así que no fuisteis vosotros los que me enviasteis aquí, sino Dios. Él me ha 
 Volved pronto a mi padre y decidle: ‘Así dice tu hijo José: Dios me ha hecho señor de todo Egipto. Ven a mí; no te demores.
 
 ## Génesis 45:10
-Habitarás en la tierra de Gosén y estarás cerca de mí—tú, tus hijos y tus nietos, tus rebaños y tus ganados, y todo lo que tienes.
+Habitarás en la tierra de Gosén y estarás cerca de mí —tú, tus hijos y tus nietos, tus rebaños y tus ganados, y todo lo que tienes—.
 
 ## Génesis 45:11
 Yo te proveeré allí, porque aún quedan cinco años de hambre, para que no caigas en la miseria tú, tu casa y todo lo que tienes.’

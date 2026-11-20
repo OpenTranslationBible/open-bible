@@ -27,23 +27,23 @@ Y si alguien pregunta, ‘¿Qué son estas heridas en tu cuerpo?’ responderán
 ## Zacarías 13:7
 
 > “¡Despierta, oh espada, contra mi pastor,
-> contra el hombre que es mi compañero!”
-> declara el Señor de los Ejércitos.
-> “Hiere al pastor, y las ovejas se dispersarán,
-> y volveré mi mano contra los pequeños.
+>  contra el hombre que es mi compañero!”
+>  declara el Señor de los Ejércitos.
+>  “Hiere al pastor, y las ovejas se dispersarán,
+>  y volveré mi mano contra los pequeños.
 
 ## Zacarías 13:8
 
 > Y en toda la tierra,”
-> declara el Señor,
-> “dos tercios serán cortados y perecerán,
-> pero un tercio quedará en ella.
+>  declara el Señor,
+>  “dos tercios serán cortados y perecerán,
+>  pero un tercio quedará en ella.
 
 ## Zacarías 13:9
 
 > A este tercio lo pasaré por el fuego;
-> los refinaré como se refina la plata
-> y los probaré como se prueba el oro.
-> Invocarán mi nombre, y yo les responderé;
-> diré, ‘Ellos son mi pueblo,’
-> y ellos dirán, ‘El Señor es nuestro Dios.’”
+>  los refinaré como se refina la plata y los probaré como se prueba el oro.
+>  Invocarán mi nombre,
+>  y yo les responderé;
+>  diré, ‘Ellos son mi pueblo,’
+>  y ellos dirán, ‘El Señor es nuestro Dios.’”

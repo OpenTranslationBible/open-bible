@@ -34,7 +34,7 @@ No debéis consumir su carne ni tocar sus cadáveres; son considerados impuros p
 
 ## Levítico 11:9
 
-“‘De todas las criaturas que viven en el agua, podéis comer cualquiera que tenga aletas y escamas.
+“‘De todas las criaturas que viven en el agua, ya sea en los mares o en los ríos, podéis comer cualquiera que tenga aletas y escamas.
 
 ## Levítico 11:10
 

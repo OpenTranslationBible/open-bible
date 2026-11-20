@@ -62,11 +62,11 @@ Entonces Moisés se enojó mucho y dijo al Señor: “No mires su ofrenda. No he
 
 ## Números 16:16
 
-Moisés instruyó a Coré: “Tú y todos tus seguidores debéis estar delante del Señor mañana—tú, ellos y Aarón.
+Moisés instruyó a Coré: “Tú y todos tus seguidores debéis estar delante del Señor mañana —tú, ellos y Aarón—.
 
 ## Números 16:17
 
-Cada hombre debe tomar su incensario y poner incienso en él—250 incensarios en total—y llevarlo delante del Señor. Tú y Aarón debéis llevar vuestros incensarios también.”
+Cada hombre debe tomar su incensario y poner incienso en él —250 incensarios en total— y llevarlo delante del Señor. Tú y Aarón debéis llevar vuestros incensarios también.”
 
 ## Números 16:18
 
@@ -158,7 +158,7 @@ Así que Eleazar el sacerdote tomó los incensarios de bronce traídos por aquel
 
 ## Números 16:40
 
-como un recordatorio para los israelitas de que nadie excepto un descendiente de Aarón debe venir a quemar incienso delante del Señor, o se volvería como Coré y sus seguidores—tal como el Señor había hablado a él por medio de Moisés.
+como un recordatorio para los israelitas de que nadie excepto un descendiente de Aarón debe venir a quemar incienso delante del Señor, o se volvería como Coré y sus seguidores —tal como el Señor había hablado a él por medio de Moisés—.
 
 ## Números 16:41
 

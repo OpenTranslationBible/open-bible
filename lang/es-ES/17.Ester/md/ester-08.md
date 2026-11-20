@@ -20,7 +20,7 @@ El rey extendió el cetro de oro hacia Ester, y ella se levantó y se puso de pi
 
 ## Ester 8:5
 
-Ella dijo: “Si le place al rey, y si he hallado favor ante sus ojos, y si el asunto parece correcto al rey, y soy agradable a sus ojos, que se escriba un decreto para revocar las cartas ideadas por Amán, hijo de Hamedata el agagueo, que escribió para destruir a los judíos en todas las provincias del rey.
+Ella dijo: “Si le place al rey, y si he hallado favor ante sus ojos, y si al rey le parece bien el asunto, y soy agradable a sus ojos, que se escriba un decreto para revocar las cartas ideadas por Amán, hijo de Hamedata el agagueo, que escribió para destruir a los judíos en todas las provincias del rey.
 
 ## Ester 8:6
 

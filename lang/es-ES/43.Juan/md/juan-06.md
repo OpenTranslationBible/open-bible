@@ -148,7 +148,7 @@ Ellos le dijeron: “Señor, danos siempre este pan.”
 
 ## Juan 6:35
 
-Jesús declaró: “Yo soy el pan de vida. El que viene a mí y cree en mí, no tendrá hambre jamás, ni sed tendrá jamás.
+Jesús declaró: “Yo soy el pan de vida. El que viene a mí nunca tendrá hambre, y el que cree en mí nunca tendrá sed.
 
 ## Juan 6:36
 
@@ -186,7 +186,7 @@ Jesús respondió: “Dejad de murmurar entre vosotros.
 
 ## Juan 6:44
 
-Nadie puede venir a mí a menos que el Padre que me envió, primero los llame, y así yo los resucitaré en el último día.
+Nadie puede venir a mí a menos que el Padre que me envió los atraiga, y yo los resucitaré en el último día.
 
 ## Juan 6:45
 

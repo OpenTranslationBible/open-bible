@@ -14,7 +14,7 @@ Tobías el amonita, que estaba cerca de él, dijo: “Lo que están construyendo
 
 ## Nehemías 4:4
 
-Óyenos, oh Dios nuestro, porque somos despreciados. Haz que sus insultos recaigan sobre sus propias cabezas y hazlos botín en una tierra de cautiverio.
+Óyenos, oh Dios nuestro, porque somos despreciados. Haz que sus insultos recaigan sobre sus propias cabezas y que sean tomados como botín en una tierra de cautiverio.
 
 ## Nehemías 4:5
 

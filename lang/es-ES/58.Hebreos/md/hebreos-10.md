@@ -20,8 +20,8 @@ Porque la sangre de toros y machos cabríos no puede quitar los pecados.
 
 Así que, cuando Cristo entró en el mundo, declaró:
 
-> “Sacrificio y ofrenda no quisiste,
-> pero un cuerpo me preparaste;
+>  “Sacrificio y ofrenda no quisiste,
+>  pero un cuerpo me preparaste;
 
 ## Hebreos 10:6
 
@@ -29,13 +29,13 @@ con holocaustos y sacrificios por el pecado no te complaciste.
 
 ## Hebreos 10:7
 
-> Entonces dije: ‘He aquí, he venido
-> — está escrito de mí en el rollo del libro
-> — para hacer tu voluntad, oh Dios.’”
+> Entonces dije: ‘He aquí,
+>  he venido —está escrito de mí en el rollo del libro— para hacer tu voluntad,
+>  oh Dios.’”
 
 ## Hebreos 10:8
 
-Después de decir arriba: “Sacrificios y ofrendas, holocaustos y sacrificios por el pecado no quisiste, ni te complacieron”—aunque se ofrecían según la ley—
+Después de decir arriba: “Sacrificios y ofrendas, holocaustos y sacrificios por el pecado no quisiste, ni te complacieron” —aunque se ofrecían según la ley—
 
 ## Hebreos 10:9
 
@@ -67,17 +67,17 @@ El Espíritu Santo también nos da testimonio acerca de esto. Primero dice:
 
 ## Hebreos 10:16
 
-> “Este es el pacto que haré con ellos
-> después de aquellos días, declara el Señor.
-> Pondré mis leyes en sus corazones,
-> y las escribiré en sus mentes.”
+> “Este es el pacto que haré con ellos después de aquellos días,
+>  declara el Señor.
+>  Pondré mis leyes en sus corazones,
+>  y las escribiré en sus mentes.”
 
 ## Hebreos 10:17
 
 Luego continúa:
 
-> “Y nunca más me acordaré
-> de sus pecados y transgresiones.”
+>  “Y nunca más me acordaré de sus pecados y transgresiones.
+> ”
 
 ## Hebreos 10:18
 

@@ -20,15 +20,15 @@ Y nadie asume este honor por sí mismo, sino que lo recibe cuando es llamado por
 
 De igual manera, Cristo no se glorificó a Sí mismo haciéndose sumo sacerdote, sino que fue Dios quien le dijo,
 
-> “Tú eres Mi Hijo;
-> hoy te he engendrado.”
+>  “Tú eres Mi Hijo;
+>  hoy te he engendrado.”
 
 ## Hebreos 5:6
 
 También declara en otro lugar,
 
-> “Tú eres sacerdote para siempre,
-> según el orden de Melquisedec.”
+>  “Tú eres sacerdote para siempre,
+>  según el orden de Melquisedec.”
 
 ## Hebreos 5:7
 

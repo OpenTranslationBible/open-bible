@@ -76,8 +76,8 @@ Porque el mensaje de la cruz parece una necedad para los que se pierden, pero pa
 
 Porque la escritura dice:
 
-> “Destruiré la sabiduría de los sabios,  
-> Y el entendimiento de los entendidos desecharé.”
+>  “Destruiré la sabiduría de los sabios,  
+>  Y el entendimiento de los entendidos desecharé.”
 
 ## 1 Corintios 1:20
 

@@ -52,7 +52,7 @@ casa de David, así dice el Señor: Administrad justicia cada mañana; rescatad 
 
 ## Jeremías 21:13
 
-He aquí, estoy contra vosotros, los que habitáis en el valle, en la meseta rocosa, declara el Señor— vosotros que decís, “¿Quién puede descender contra nosotros? ¿Quién puede entrar en nuestras moradas?”
+He aquí, estoy contra vosotros, los que habitáis en el valle, en la meseta rocosa, declara el Señor —vosotros que decís, “¿Quién puede descender contra nosotros? ¿Quién puede entrar en nuestras moradas—?”
 
 ## Jeremías 21:14
 

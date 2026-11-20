@@ -26,91 +26,91 @@ Pero cuando Elihú observó que los tres hombres no tenían más respuestas, su 
 
 Entonces Elihú hijo de Baraquel el buzita declaró:
 
-> “Soy joven en años, y vosotros sois ancianos;
-> por eso, fui tímido y me abstuve de expresar mis pensamientos.
+>  “Soy joven en años, y vosotros sois ancianos;
+>  por eso, fui tímido y me abstuve de expresar mis pensamientos.
 
 ## Job 32:7
 
 > Pensé, ‘Que hable la edad,
-> y que muchos años impartan sabiduría.’
+>  y que muchos años impartan sabiduría.’
 
 ## Job 32:8
 
 > Pero es el espíritu en una persona,
-> el aliento del Todopoderoso, lo que otorga entendimiento.
+>  el aliento del Todopoderoso, lo que otorga entendimiento.
 
 ## Job 32:9
 
 > No son solo los ancianos los sabios,
-> ni solo los viejos comprenden la justicia.
+>  ni solo los viejos comprenden la justicia.
 
 ---
 
 ## Job 32:10
 
 > Por lo tanto, digo: ‘Escuchadme;
-> yo también compartiré lo que sé.’
+>  yo también compartiré lo que sé.’
 
 ## Job 32:11
 
 > Esperé vuestras palabras,
-> escuché vuestro discurso considerado,
-> mientras buscabais qué decir.
+>  escuché vuestro discurso considerado,
+>  mientras buscabais qué decir.
 
 ## Job 32:12
 
 > Os presté toda mi atención.
-> Sin embargo, ninguno de vosotros ha probado que Job esté equivocado;
-> ninguno ha respondido a sus argumentos.
+>  Sin embargo, ninguno de vosotros ha probado que Job esté equivocado;
+>  ninguno ha respondido a sus argumentos.
 
 ## Job 32:13
 
 > Por lo tanto, no afirméis, ‘Hemos descubierto sabiduría;
-> que Dios, no el hombre, lo derrote.’
+>  que Dios, no el hombre, lo derrote.’
 
 ## Job 32:14
 
 > Pero Job no ha dirigido sus palabras contra mí,
-> y no le responderé con vuestros argumentos.
+>  y no le responderé con vuestros argumentos.
 
 ---
 
 ## Job 32:15
 
 > Están desconcertados y han dejado de responder;
-> las palabras los han abandonado.
+>  las palabras los han abandonado.
 
 ## Job 32:16
 
 > ¿Debería esperar, ahora que están en silencio,
-> ahora que se quedan sin respuesta?
+>  ahora que se quedan sin respuesta?
 
 ## Job 32:17
 
 > Yo también tendré mi decir;
-> yo también compartiré mis pensamientos.
+>  yo también compartiré mis pensamientos.
 
 ## Job 32:18
 
 > Porque estoy lleno de palabras,
-> y el espíritu dentro de mí me urge a hablar.
+>  y el espíritu dentro de mí me urge a hablar.
 
 ## Job 32:19
 
 > Por dentro, soy como vino que no tiene escape,
-> como odres nuevos listos para estallar.
+>  como odres nuevos listos para estallar.
 
 ## Job 32:20
 
 > Debo hablar para encontrar alivio;
-> debo abrir mis labios y responder.
+>  debo abrir mis labios y responder.
 
 ## Job 32:21
 
 > No mostraré parcialidad,
-> ni adularé a ningún hombre.
+>  ni adularé a ningún hombre.
 
 ## Job 32:22
 
 > Porque no sé cómo adular;
-> si lo hiciera, mi Hacedor rápidamente me quitaría.
+>  si lo hiciera, mi Hacedor rápidamente me quitaría.

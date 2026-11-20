@@ -70,7 +70,7 @@ Entonces el Señor nombró jueces que los rescataron de aquellos que los saqueab
 
 ## Jueces 2:17
 
-Pero no escucharon a sus jueces, sino que se prostituyeron con otros dioses y los adoraron. Rápidamente se apartaron del camino en que sus antepasados habían caminado, quienes habían obedecido los mandamientos del Señor.
+Pero no escucharon a sus jueces, sino que se prostituyeron con otros dioses y los adoraron. Rápidamente se apartaron del camino en que sus antepasados habían caminado, quienes habían obedecido los mandamientos del Señor; no hicieron como sus antepasados habían hecho.
 
 ## Jueces 2:18
 

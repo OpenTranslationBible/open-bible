@@ -28,7 +28,7 @@ El macho cabrío se engrandeció sobremanera, pero cuando estaba en el apogeo de
 De uno de ellos salió un cuerno pequeño, que creció sobremanera hacia el sur, el este y la Tierra Hermosa.
 
 ## Daniel 8:10
-Creció hasta el ejército del cielo, y echó por tierra algunas de las estrellas y las pisoteó.
+Creció hasta el ejército del cielo, y echó por tierra parte del ejército y algunas de las estrellas, y las pisoteó.
 
 ## Daniel 8:11
 Se engrandeció hasta ser igual al comandante del ejército del Señor; quitó el sacrificio diario del Señor, y su santuario fue derribado.

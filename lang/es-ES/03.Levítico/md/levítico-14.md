@@ -134,7 +134,7 @@ El Señor también se dirigió a Moisés y Aarón, diciendo:
 
 ## Levítico 14:34
 
-“Cuando entren en la tierra de Canaán, que les doy como posesión, y permita que aparezca un moho extendido en una casa de esa tierra,
+“Cuando entren en la tierra de Canaán, que les doy como posesión, y yo ponga un moho extendido en una casa de esa tierra,
 
 ## Levítico 14:35
 

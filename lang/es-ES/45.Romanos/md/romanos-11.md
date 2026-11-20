@@ -32,21 +32,21 @@ Y si es por gracia, ya no es por obras; de otra manera la gracia ya no sería gr
 
 como está escrito:
 
-> “Dios les dio un espíritu de estupor,
-> ojos que no ven y oídos que no oyen,
-> hasta el día de hoy.”
+>  “Dios les dio un espíritu de estupor,
+>  ojos que no ven y oídos que no oyen,
+>  hasta el día de hoy.”
 
 ## Romanos 11:9
 
 Y David dice,
 
-> “Que su mesa se convierta en trampa y lazo,
-> en tropiezo y retribución para ellos.
+>  “Que su mesa se convierta en trampa y lazo,
+>  en tropiezo y retribución para ellos.
 
 ## Romanos 11:10
 
 > Que sus ojos se oscurezcan para que no vean,
-> y sus espaldas se doblen continuamente.”
+>  y sus espaldas se doblen continuamente.”
 
 ## Romanos 11:11
 
@@ -112,13 +112,13 @@ No quiero que ignoréis este misterio, hermanos, para que no seáis arrogantes: 
 
 y así todo Israel será salvo. Como está escrito:
 
-> “El Libertador vendrá de Sion;
-> apartará la impiedad de Jacob.
+>  “El Libertador vendrá de Sion;
+>  apartará la impiedad de Jacob.
 
 ## Romanos 11:27
 
-> Y este será mi pacto con ellos
-> cuando quite sus pecados.”
+> Y este será mi pacto con ellos cuando quite sus pecados.
+> ”
 
 ## Romanos 11:28
 
@@ -143,20 +143,20 @@ Porque Dios ha encerrado a todos en desobediencia para tener misericordia de tod
 ## Romanos 11:33
 
 > ¡Oh, la profundidad de las riquezas de la sabiduría y del conocimiento de Dios!
-> ¡Cuán insondables son sus juicios,
-> e inescrutables sus caminos!
+>  ¡Cuán insondables son sus juicios,
+>  e inescrutables sus caminos!
 
 ## Romanos 11:34
 
 > “¿Quién ha comprendido la mente del Señor?
-> ¿O quién ha sido su consejero?”
+>  ¿O quién ha sido su consejero?”
 
 ## Romanos 11:35
 
 > “¿Quién le ha dado algo a Dios,
-> para que Él se lo devuelva?”
+>  para que Él se lo devuelva?”
 
 ## Romanos 11:36
 
 > Porque de Él, por Él y para Él son todas las cosas.
-> ¡A Él sea la gloria por los siglos! Amén.
+>  ¡A Él sea la gloria por los siglos! Amén.

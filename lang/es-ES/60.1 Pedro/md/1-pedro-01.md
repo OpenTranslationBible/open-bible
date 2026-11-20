@@ -3,12 +3,12 @@
 ## 1 Pedro 1:1
 
 De parte de Pedro, apóstol de Jesucristo,  
-a los que viven como extranjeros, dispersos por el Ponto, Galacia, Capadocia, Asia y Bitinia, que han sido elegidos
+ a los que viven como extranjeros, dispersos por el Ponto, Galacia, Capadocia, Asia y Bitinia, que han sido elegidos
 
 ## 1 Pedro 1:2
 
-según el previo conocimiento de Dios Padre, mediante la obra santificadora del Espíritu, para obedecer a Jesucristo y ser limpiados por su sangre:  
-Que la gracia y la paz abunden en vosotros.
+según el previo conocimiento de Dios Padre, mediante la obra santificadora del Espíritu, para obedecer a Jesucristo y ser rociados con su sangre:  
+ Que la gracia y la paz abunden en vosotros.
 
 ## 1 Pedro 1:3
 
@@ -98,13 +98,13 @@ porque habéis nacido de nuevo no de simiente perecedera, sino imperecedera, med
 
 Porque,
 
-> “Toda la humanidad es como la hierba,  
-> Y toda su gloria como la flor de la hierba.  
-> La hierba se seca,  
-> Y la flor se cae,
+>  “Toda la humanidad es como la hierba,  
+>  Y toda su gloria como la flor de la hierba.  
+>  La hierba se seca,  
+>  Y la flor se cae,
 
 ## 1 Pedro 1:25
 
 > Pero la palabra del Señor permanece para siempre.”
 
-Y esta es la palabra que os fue proclamada.
+ Y esta es la palabra que os fue proclamada.

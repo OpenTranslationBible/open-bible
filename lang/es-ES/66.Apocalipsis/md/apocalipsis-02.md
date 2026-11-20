@@ -67,7 +67,7 @@ Le he dado tiempo para que se arrepienta de su inmoralidad, pero no quiere hacer
 He aquí, la arrojaré en un lecho de sufrimiento, y a los que cometen adulterio con ella les hará sufrir intensamente, a menos que se arrepientan de sus obras.
 
 ## Apocalipsis 2:23
-Traeré juicio sobre sus hijos. Entonces todas las iglesias sabrán que yo soy el que escudriña los corazones y las mentes, y os pagaré a cada uno según vuestras obras.
+Heriré de muerte a sus hijos. Entonces todas las iglesias sabrán que yo soy el que escudriña los corazones y las mentes, y os pagaré a cada uno según vuestras obras.
 
 ## Apocalipsis 2:24
 Ahora digo al resto de vosotros en Tiatira, a los que no se aferran a su enseñanza y no han aprendido lo que algunos llaman los profundos secretos de Satanás, no os impondré ninguna otra carga,
@@ -79,7 +79,7 @@ pero seguid aferrándoos a lo que tenéis hasta que yo venga.
 Al que salga vencedor y haga mi voluntad hasta el fin, le daré autoridad sobre las naciones—
 
 ## Apocalipsis 2:27
-“las gobernará con vara de hierro y las destrozará como vasijas de barro”—tal como yo he recibido autoridad de mi Padre.
+“las gobernará con vara de hierro y las destrozará como vasijas de barro” —tal como yo he recibido autoridad de mi Padre—.
 
 ## Apocalipsis 2:28
 También le daré la estrella de la mañana.

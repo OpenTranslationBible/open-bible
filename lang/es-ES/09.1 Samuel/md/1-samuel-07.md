@@ -25,7 +25,7 @@ Entonces Samuel dijo: “Reúnan a todo Israel en Mizpa, y yo oraré al Señor p
 ## 1 Samuel 7:6
 
 Cuando se reunieron en Mizpa, sacaron agua y la derramaron delante del Señor. Aquel día ayunaron y confesaron: “Hemos pecado contra el Señor”.  
-Y Samuel estaba sirviendo como juez sobre los israelitas en Mizpa.
+ Y Samuel estaba sirviendo como juez sobre los israelitas en Mizpa.
 
 ## 1 Samuel 7:7
 

@@ -16,8 +16,8 @@ Cuando yo era un hijo para mi padre, tierno y querido por mi madre,
 
 Él me instruyó y dijo,
 
-> “Que tu corazón agarre mis palabras;
-> guarda mis mandamientos y vivirás.
+>  “Que tu corazón agarre mis palabras;
+>  guarda mis mandamientos y vivirás.
 
 ## Proverbios 4:5
 
