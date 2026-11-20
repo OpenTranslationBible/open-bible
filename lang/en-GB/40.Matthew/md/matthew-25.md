@@ -126,63 +126,63 @@ And cast that worthless servant outside, into the darkness, where there will be 
 
 ## Matthew 25:31
 
-When the Son of Man arrives in his glory, and all the angels with him, he will sit on his majestic throne.
+When the Son of Man arrives in His glory, and all the angels with Him, He will sit on His majestic throne.
 
 ## Matthew 25:32
 
-All the nations will be gathered before him, and he will separate the people one from another as a shepherd divides the sheep from the goats.
+All the nations will be gathered before Him, and He will separate the people one from another as a shepherd divides the sheep from the goats.
 
 ## Matthew 25:33
 
-He will place the sheep on his right side and the goats on his left.
+He will place the sheep on His right side and the goats on His left.
 
 ## Matthew 25:34
 
-Then the King will say to those on his right, ‘Come, you who are blessed by my Father; inherit the kingdom prepared for you since the foundation of the world.
+Then the King will say to those on His right, ‘Come, you who are blessed by My Father; inherit the kingdom prepared for you since the foundation of the world.
 
 ## Matthew 25:35
 
-For when I was hungry and you gave me something to eat, when I was thirsty and you gave me something to drink, and when I was a stranger and you welcomed me,
+For when I was hungry and you gave Me something to eat, when I was thirsty and you gave Me something to drink, and when I was a stranger and you welcomed Me,
 
 ## Matthew 25:36
 
-I needed clothes and you provided for me, I was sick and you cared for me, I was in prison and you visited me.’
+I needed clothes and you provided for Me, I was sick and you cared for Me, I was in prison and you visited Me.’
 
 ## Matthew 25:37
 
-Yet the righteous will answer him, ‘Lord, when did we see you hungry and feed you, or thirsty and give you something to drink?
+Yet the righteous will answer Him, ‘Lord, when did we see You hungry and feed You, or thirsty and give You something to drink?
 
 ## Matthew 25:38
 
-When did we see you a stranger and welcome you, or lacking clothes and provide for you?
+When did we see You a stranger and welcome You, or lacking clothes and provide for You?
 
 ## Matthew 25:39
 
-When did we see you unwell or in prison and visit you?’
+When did we see You unwell or in prison and visit You?’
 
 ## Matthew 25:40
 
-The King will reply, ‘Truly I say to you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.’
+The King will reply, ‘Truly I say to you, whatever you did for one of the least of these brothers and sisters of Mine, you did for Me.’
 
 ## Matthew 25:41
 
-Then he will say to those on his left, ‘Depart from me, you who are accursed, and enter the everlasting fire prepared for the devil and his angels.
+Then He will say to those on His left, ‘Depart from Me, you who are accursed, and enter the everlasting fire prepared for the devil and his angels.
 
 ## Matthew 25:42
 
-For when I was hungry you gave me nothing to eat, when I was thirsty and you gave me nothing to drink,
+For when I was hungry you gave Me nothing to eat, when I was thirsty and you gave Me nothing to drink,
 
 ## Matthew 25:43
 
-When I was a stranger and you did not welcome me, when I needed clothes and you did not provide for me, when I was sick and in prison and you did not care for me.’
+when I was a stranger and you did not welcome Me, when I needed clothes and you did not provide for Me, when I was sick and in prison and you did not care for Me.’
 
 ## Matthew 25:44
 
-They also will answer, ‘Lord, when did we see you hungry or thirsty or a stranger or lacking clothes or sick or in prison, and did not help you?’
+They also will answer, ‘Lord, when did we see You hungry or thirsty or a stranger or lacking clothes or sick or in prison, and did not help You?’
 
 ## Matthew 25:45
 
-He will reply, ‘Truly I say to you, whatever you did not do for one of the least of these, you did not do for me.’
+He will reply, ‘Truly I say to you, whatever you did not do for one of the least of these, you did not do for Me.’
 
 ## Matthew 25:46
 

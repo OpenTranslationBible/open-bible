@@ -67,7 +67,7 @@ Take some of the blood from the altar and some of the anointing oil and sprinkle
 “Take from this ram the fat, the fat tail, the fat that covers the entrails, the long lobe of the liver, the two kidneys with the fat on them, and the right thigh. (This is the ram of ordination.)
 
 ## Exodus 29:23
-From the basket of unleavened bread, take one loaf, one cake of bread mixed with oil, and one wafer.
+From the basket of unleavened bread that is before the Lord, take one loaf, one cake of bread mixed with oil, and one wafer.
 
 ## Exodus 29:24
 Put all these in the hands of Aaron and his sons and wave them as a wave offering before the Lord.

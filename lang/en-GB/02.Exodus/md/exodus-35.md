@@ -16,7 +16,7 @@ Moses addressed the entire assembly of the Israelites, saying, “This is what t
 Take from what you have a contribution for the Lord. Everyone who is willing is to bring to the Lord a contribution of gold, silver, and bronze;
 
 ## Exodus 35:6
-violet, purple, and scarlet yarn, and fine linen; goats' hair;
+violet, purple, and scarlet yarn, and fine linen; goats’ hair;
 
 ## Exodus 35:7
 ram skins dyed red and another type of fine leather; acacia wood;
@@ -67,7 +67,7 @@ and everyone whose heart was stirred and whose spirit was willing came and broug
 All who were willing, both men and women, came and brought gold jewellery of all kinds: brooches, earrings, rings, and ornaments. They all presented their gold as a wave offering to the Lord.
 
 ## Exodus 35:23
-Everyone who had violet, purple, or scarlet yarn, or fine linen, or goats' hair, ram skins dyed red, or fine leather brought them.
+Everyone who had violet, purple, or scarlet yarn, or fine linen, or goats’ hair, ram skins dyed red, or fine leather brought them.
 
 ## Exodus 35:24
 Everyone who could make a contribution of silver or bronze brought it as an offering to the Lord, and everyone who had acacia wood for any part of the work brought it.
@@ -76,7 +76,7 @@ Everyone who could make a contribution of silver or bronze brought it as an offe
 Every skilled woman spun with her hands and brought what she had spun—violet, purple, or scarlet yarn, and fine linen.
 
 ## Exodus 35:26
-And all the women whose hearts were stirred with skill spun the goats' hair.
+And all the women whose hearts were stirred with skill spun the goats’ hair.
 
 ## Exodus 35:27
 The leaders brought onyx stones and other gems to be set in the ephod and breastpiece;
@@ -91,7 +91,7 @@ All the Israelite men and women whose hearts were willing brought to the Lord vo
 Then Moses said to the Israelites, “See, the Lord has called by name Bezalel son of Uri, the son of Hur, of the tribe of Judah,
 
 ## Exodus 35:31
-and he has filled him with the Spirit of God, with wisdom, understanding, knowledge, and all kinds of craftsmanship—
+and He has filled him with the Spirit of God, with wisdom, understanding, knowledge, and all kinds of craftsmanship—
 
 ## Exodus 35:32
 to create artistic designs for working in gold, silver, and bronze,

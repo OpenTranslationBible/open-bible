@@ -6,7 +6,7 @@ Now I declare to you, dear friends, the gospel I preached to you, which you acce
 
 ## 1 Corinthians 15:2
 
-Through which you are also saved, if you hold firmly to the message I preached to you, unless your belief was without purpose.
+through which you are also saved, if you hold firmly to the message I preached to you, unless your belief was without purpose.
 
 ## 1 Corinthians 15:3
 
@@ -18,7 +18,7 @@ and that He was laid to rest, and on the third day He was raised, as foretold by
 
 ## 1 Corinthians 15:5
 
-For He appeared to Cephas, and then to the Twelve.
+and that He appeared to Cephas, and then to the Twelve.
 
 ## 1 Corinthians 15:6
 
@@ -26,11 +26,11 @@ Following that, He appeared to more than five hundred believers at one time, mos
 
 ## 1 Corinthians 15:7
 
-Afterwards, He appeared to James, and then to all the apostles;
+afterwards, He appeared to James, and then to all the apostles;
 
 ## 1 Corinthians 15:8
 
-And finally, as to one born at the wrong time, He appeared to me as well.
+and finally, as to one born at the wrong time, He appeared to me as well.
 
 ## 1 Corinthians 15:9
 
@@ -54,7 +54,7 @@ But if there is no resurrection of the dead, then Christ Himself has not been ra
 
 ## 1 Corinthians 15:14
 
-And if Christ has not been raised, then our preaching is without purpose, and your faith is also without purpose.
+and if Christ has not been raised, then our preaching is without purpose, and your faith is also without purpose.
 
 ## 1 Corinthians 15:15
 
@@ -66,7 +66,7 @@ For if the dead are not brought back to life, then not even Christ has been rais
 
 ## 1 Corinthians 15:17
 
-And if Christ has not been raised, your faith is in vain; you remain in your sins.
+and if Christ has not been raised, your faith is in vain; you remain in your sins.
 
 ## 1 Corinthians 15:18
 
@@ -94,7 +94,7 @@ But each in their own order: Christ the first fruits, then those who belong to C
 
 ## 1 Corinthians 15:24
 
-Then comes the end, when He hands over the kingdom to our God and Father, after He has abolished all rule and all authority and power.
+then comes the end, when He hands over the kingdom to our God and Father, after He has abolished all rule and all authority and power.
 
 ## 1 Corinthians 15:25
 
@@ -128,8 +128,8 @@ I declare, dear friends, by the pride I have in you in Christ Jesus our Lord, th
 
 If from human motives I fought with wild beasts at Ephesus, what benefit is it to me? If the dead are not raised,
 
-> “Let’s eat and drink,  
-> for tomorrow we die.”
+>  “Let’s eat and drink,  
+>  for tomorrow we die.”
 
 ## 1 Corinthians 15:33
 
@@ -149,7 +149,7 @@ Foolish one! What you plant does not come to life unless it dies;
 
 ## 1 Corinthians 15:37
 
-And what you sow, you do not sow the body that will be, but a bare grain, perhaps of wheat or something else.
+and what you sow, you do not sow the body that will be, but a bare grain, perhaps of wheat or something else.
 
 ## 1 Corinthians 15:38
 
@@ -173,15 +173,15 @@ So it is with the resurrection of the dead. The body is planted perishable, it i
 
 ## 1 Corinthians 15:43
 
-Though it is planted without honour, it is raised in glory; though it is planted in weakness, it is raised in power;
+though it is planted without honour, it is raised in glory; though it is planted in weakness, it is raised in power;
 
 ## 1 Corinthians 15:44
 
-Though it is planted as a natural body, it is raised as a spiritual body. If there exists a natural body, there too is a spiritual body.
+though it is planted as a natural body, it is raised as a spiritual body. If there exists a natural body, there too is a spiritual body.
 
 ## 1 Corinthians 15:45
 
-As it is written: “The first man, Adam, became alive.” and the last Adam became a life-giving spirit.
+As it is written: “The first man, Adam, became a living soul”; the last Adam became a life-giving spirit.
 
 ## 1 Corinthians 15:46
 
@@ -209,7 +209,7 @@ Listen, I tell you a mystery; we will not all sleep, but we will all be transfor
 
 ## 1 Corinthians 15:52
 
-In a moment, in the twinkling of an eye, at the last trumpet; for the trumpet will sound, and the dead will be raised imperishable, and we will be transformed.
+in a moment, in the twinkling of an eye, at the last trumpet; for the trumpet will sound, and the dead will be raised imperishable, and we will be transformed.
 
 ## 1 Corinthians 15:53
 
@@ -218,12 +218,12 @@ For this perishable must be clothed with the imperishable, and this mortal with 
 ## 1 Corinthians 15:54
 
 But when this perishable is clothed with the imperishable, and this mortal with immortality, then the saying that is written will come true:  
-“Death has been swallowed up in victory.
+ “Death has been swallowed up in victory.”
 
 ## 1 Corinthians 15:55
 
-> O death, where is your triumph?  
-> O death, where is your sting?”
+> “O death, where is your victory?  
+>  O death, where is your sting?”
 
 ## 1 Corinthians 15:56
 
@@ -231,7 +231,7 @@ For the sting of death is sin, and the power of sin is the Law;
 
 ## 1 Corinthians 15:57
 
-So, thanks be to God, who grants us the victory through our Lord Jesus Christ.
+so, thanks be to God, who grants us the victory through our Lord Jesus Christ.
 
 ## 1 Corinthians 15:58
 

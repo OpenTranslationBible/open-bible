@@ -90,7 +90,7 @@ Then the Reubenites, Gadites, and the half-tribe of Manasseh replied to the head
 
 ## Joshua 22:22
 
-“The Mighty One, God, the Lord! He knows, and let Israel know. If this has been in rebellion or disobedience to the Lord, do not spare us this day.
+“The Mighty One, God, the Lord! The Mighty One, God, the Lord! He knows, and let Israel know. If this has been in rebellion or disobedience to the Lord, do not spare us this day.
 
 ## Joshua 22:23
 
@@ -110,7 +110,7 @@ That is why we said, ‘Let us prepare and build an altar—but not for burnt of
 
 ## Joshua 22:27
 
-Instead, it is to be a witness between us and you and the generations that follow, that we will worship the Lord at His sanctuary with our burnt offerings, sacrifices, and fellowship offerings. Then in the future, your descendants will not be able to say to ours, ‘You have no share in the Lord.’
+Instead, it is to be a witness between us and you and the generations that follow, that we will worship the Lord at His sanctuary with our burnt offerings, sacrifices, and fellowship offerings.’ Then in the future, your descendants will not be able to say to ours, ‘You have no share in the Lord.’
 
 ## Joshua 22:28
 

@@ -90,7 +90,7 @@ While Israel was residing in that land, Reuben went and lay with his father’s 
 
 ## Genesis 35:23
 
-Leah's sons were Reuben, Jacob’s firstborn, and Simeon, Levi, Judah, Issachar, and Zebulun.
+Leah’s sons were Reuben, Jacob’s firstborn, and Simeon, Levi, Judah, Issachar, and Zebulun.
 
 ## Genesis 35:24
 

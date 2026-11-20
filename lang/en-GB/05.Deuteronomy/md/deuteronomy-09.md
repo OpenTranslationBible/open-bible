@@ -85,5 +85,5 @@ Remember Your servants Abraham, Isaac, and Jacob. Do not look on the stubbornnes
 Otherwise, the land from which You brought us will say, “Because the Lord was not able to bring them into the land He promised, and because He hated them, He brought them out to kill them in the wilderness.”
 
 ## Deuteronomy 9:29
-Yet they are Your people—Your inheritance—whom You brought out by Your great power and outstretched arm.
+Yet they are Your people—Your inheritance—whom You brought out by Your great power and outstretched arm.’
 

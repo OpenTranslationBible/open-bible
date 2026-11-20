@@ -40,7 +40,7 @@ He also told this parable to some who were confident in their own righteousness 
 
 ## Luke 18:10
 
-“Two men went up to the temple to pray, one being a Pharisee and the other was a tax collector.
+“Two men went up to the temple to pray, one being a Pharisee and the other a tax collector.
 
 ## Luke 18:11
 

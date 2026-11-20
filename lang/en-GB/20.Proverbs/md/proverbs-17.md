@@ -22,7 +22,7 @@ Whoever mocks the poor insults their Maker; whoever rejoices at calamity will no
 
 ## Proverbs 17:6
 
-Grandchildren are the pride of their grandparents, and the honour of ones children is found in their parents.
+Grandchildren are the pride of their grandparents, and the honour of one’s children is found in their parents.
 
 ## Proverbs 17:7
 

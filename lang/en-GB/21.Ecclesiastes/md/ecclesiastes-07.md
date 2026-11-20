@@ -37,7 +37,7 @@ Wisdom, like an inheritance, is a good thing and a benefit to those who see the 
 Wisdom is a shelter, as money is a shelter, but the advantage of knowledge is that wisdom preserves the life of its possessor.
 
 ## Ecclesiastes 7:13
-Consider the work of God: Who can straighten what He has made crooked?
+Consider the work of God: who can straighten what He has made crooked?
 
 ## Ecclesiastes 7:14
 In times of prosperity be joyful, but in times of adversity consider: God has made one as well as the other, so that no one can discover what will come after them.
@@ -46,10 +46,10 @@ In times of prosperity be joyful, but in times of adversity consider: God has ma
 In my fleeting life, I have seen both: the righteous perishing in their righteousness, and the wicked living long in their wickedness.
 
 ## Ecclesiastes 7:16
-Do not be excessively righteous, nor be overly wise— why should you bring trouble upon yourself?
+Do not be excessively righteous, nor be overly wise—why should you bring trouble upon yourself?
 
 ## Ecclesiastes 7:17
-Do not be overly wicked, and do not be foolish— why should you die before your time?
+Do not be overly wicked, and do not be foolish—why should you die before your time?
 
 ## Ecclesiastes 7:18
 It is good to grasp one and not let go of the other. Whoever fears God will avoid all extremes.
@@ -67,10 +67,10 @@ Do not pay close attention to every word people say, or you might hear your serv
 for you know in your heart that you have also spoken ill of others many times.
 
 ## Ecclesiastes 7:23
-I applied all this to wisdom and said, “I will be wise”— but it was beyond me.
+I applied all this to wisdom and said, “I will be wise”—but it was beyond me.
 
 ## Ecclesiastes 7:24
-What exists is distant and deep— who can discover it?
+What exists is distant and deep—who can discover it?
 
 ## Ecclesiastes 7:25
 So I turned my mind to understand, to explore and to search out wisdom and the scheme of things, and to understand the folly of wickedness and the madness of folly.
@@ -79,10 +79,10 @@ So I turned my mind to understand, to explore and to search out wisdom and the s
 I find more bitter than death the woman who ensnares, whose heart is a trap and whose hands are chains. The man who pleases God will escape her, but the sinner she will capture.
 
 ## Ecclesiastes 7:27
-“Behold,” says the Teacher, “this is what I have discovered: Adding one thing to another to find an explanation—
+“Behold,” says the Teacher, “this is what I have discovered: adding one thing to another to find an explanation—
 
 ## Ecclesiastes 7:28
-while I was still searching but not finding— I found one upright man among a thousand, but not a single upright woman among them all.
+while I was still searching but not finding—I found one upright man among a thousand, but not a single upright woman among them all.
 
 ## Ecclesiastes 7:29
 This only have I found: God created mankind upright, but they have sought out many schemes.”

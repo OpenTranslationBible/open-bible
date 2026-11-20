@@ -150,4 +150,4 @@ These, then, are the guidelines for the burnt offering, the grain offering, the 
 
 ## Leviticus 7:38
 
-which the Lord commanded Moses on Mount Sinai on the day he instructed the Israelites to bring their offerings to the Lord in the wilderness of Sinai.
+which the Lord commanded Moses on Mount Sinai on the day He instructed the Israelites to bring their offerings to the Lord in the wilderness of Sinai.

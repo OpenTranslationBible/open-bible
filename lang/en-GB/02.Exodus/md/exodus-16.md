@@ -134,7 +134,7 @@ So Moses instructed Aaron, “Take a jar and put an omer of manna in it. Then pl
 
 ## Exodus 16:34
 
-Following the Lord's command to Moses, Aaron placed it before the Testimony, to be preserved.
+Following the Lord’s command to Moses, Aaron placed it before the Testimony, to be preserved.
 
 ## Exodus 16:35
 

@@ -1,7 +1,7 @@
 # Jeremiah Chapter 26
 
 ## Jeremiah 26:1
-At the start of Jehoiakim's reign, son of Josiah, king of Judah, this word came from the Lord:
+At the start of Jehoiakim’s reign, son of Josiah, king of Judah, this word came from the Lord:
 
 ## Jeremiah 26:2
 “This is what the Lord says: Stand in the courtyard of the Lord’s house and proclaim to all the towns of Judah who come to worship in the Lord’s house all the words I command you to speak to them. Do not leave out a single word.
@@ -10,10 +10,10 @@ At the start of Jehoiakim's reign, son of Josiah, king of Judah, this word came 
 Perhaps they will listen and each person will turn from their evil way. Then I will relent from the disaster I intend to bring upon them due to the evil of their deeds.
 
 ## Jeremiah 26:4
-Tell them, ‘This is what the Lord declares: If you do not listen to me and follow my law, which I have set before you,
+Tell them, ‘This is what the Lord declares: If you do not listen to Me and follow My law, which I have set before you,
 
 ## Jeremiah 26:5
-and if you do not heed the words of my servants the prophets, whom I have sent to you persistently, though you have not listened,
+and if you do not heed the words of My servants the prophets, whom I have sent to you persistently, though you have not listened,
 
 ## Jeremiah 26:6
 then I will make this house like Shiloh, and this city will become a curse among all the nations of the earth.’”
@@ -37,7 +37,7 @@ Then the priests and the prophets said to the officials and to all the people, �
 Then Jeremiah said to all the officials and all the people: “The Lord sent me to prophesy against this house and this city all the words you have heard.
 
 ## Jeremiah 26:13
-Now reform your ways and your deeds and obey the Lord your God. Then the Lord will relent from the disaster he has pronounced against you.
+Now reform your ways and your deeds and obey the Lord your God. Then the Lord will relent from the disaster He has pronounced against you.
 
 ## Jeremiah 26:14
 As for me, I am in your hands; do with me as you see fit and right.
@@ -52,10 +52,10 @@ Then the officials and all the people said to the priests and the prophets, “T
 Some of the elders of the land stood up and addressed the entire assembly of the people,
 
 ## Jeremiah 26:18
-“Micah of Moresheth prophesied in the days of Hezekiah king of Judah. He declared to all the people of Judah, ‘This is what the Lord of Hosts says: “‘Zion will be ploughed like a field, Jerusalem will become a heap of ruins, and the temple hill a thicket of trees.’
+“Micah of Moresheth prophesied in the days of Hezekiah king of Judah. He declared to all the people of Judah, ‘This is what the Lord of hosts says: “Zion will be ploughed like a field, Jerusalem will become a heap of ruins, and the temple hill a thicket of trees.”’
 
 ## Jeremiah 26:19
-Did Hezekiah king of Judah or anyone in Judah put him to death? Did not Hezekiah fear the Lord and seek his favour? And did not the Lord relent of the disaster he had pronounced against them? We are about to bring a great evil upon ourselves!”
+Did Hezekiah king of Judah or anyone in Judah put him to death? Did not Hezekiah fear the Lord and seek His favour? And did not the Lord relent of the disaster He had pronounced against them? We are about to bring a great evil upon ourselves!”
 
 ## Jeremiah 26:20
 Now there was also a man who prophesied in the name of the Lord, Uriah son of Shemaiah from Kiriath Jearim, and he prophesied against this city and this land in words similar to those of Jeremiah.

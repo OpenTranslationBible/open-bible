@@ -8,14 +8,14 @@ The beginning of the gospel about Jesus Christ, the Son of God,
 
 as it is written in the prophet Isaiah:
 
-> “Behold, I will send my messenger ahead of you,
-> who will prepare Your way;
+>  “Behold, I will send My messenger ahead of You,
+>  who will prepare Your way;
 
 ## Mark 1:3
 
 > A voice of one calling in the wilderness:
-> ‘Prepare the way for the Lord;
-> make straight in the desert a highway for our God’”
+>  ‘Prepare the way for the Lord;
+>  make straight paths for Him.’”
 
 ## Mark 1:4
 
@@ -35,7 +35,7 @@ And he proclaimed, “After me comes one more powerful than I, whose sandal stra
 
 ## Mark 1:8
 
-I baptise you with water, but he will immerse you in the Holy Spirit.”
+I baptise you with water, but He will immerse you in the Holy Spirit.”
 
 ---
 
@@ -45,21 +45,21 @@ During that time, Jesus came from Nazareth in Galilee and was baptised by John i
 
 ## Mark 1:10
 
-As soon as Jesus came up out of the water, he saw the heavens being opened and the Spirit descending on him like a dove.
+As soon as Jesus came up out of the water, He saw the heavens being opened and the Spirit descending on Him like a dove.
 
 ## Mark 1:11
 
-And a voice from heaven said, “You are my beloved Son; with you I am well pleased.”
+And a voice from heaven said, “You are My beloved Son; with You I am well pleased.”
 
 ---
 
 ## Mark 1:12
 
-Immediately the Spirit sent him out into the wilderness,
+Immediately the Spirit sent Him out into the wilderness,
 
 ## Mark 1:13
 
-and he was in the wilderness for forty days, facing temptations from Satan. He was with the wild animals, and angels attended him.
+and He was in the wilderness for forty days, facing temptations from Satan. He was with the wild animals, and angels attended Him.
 
 ---
 
@@ -69,29 +69,29 @@ After John was arrested, Jesus went into Galilee, proclaiming the gospel of God.
 
 ## Mark 1:15
 
-“The time is complete,” he said. “The kingdom of God is near. Turn and believe in the gospel!”
+“The time is complete,” He said. “The kingdom of God is near. Turn and believe in the gospel!”
 
 ---
 
 ## Mark 1:16
 
-As Jesus walked beside the Sea of Galilee, he saw Simon and his brother Andrew casting a net into the sea, for they were fishermen.
+As Jesus walked beside the Sea of Galilee, He saw Simon and his brother Andrew casting a net into the sea, for they were fishermen.
 
 ## Mark 1:17
 
-“Come, follow me,” Jesus said, “and I will make you fishers of people.”
+“Come, follow Me,” Jesus said, “and I will make you fishers of people.”
 
 ## Mark 1:18
 
-Without hesitation, they immediately left their nets and followed him.
+Without hesitation, they immediately left their nets and followed Him.
 
 ## Mark 1:19
 
-When he had gone a little farther, he saw James son of Zebedee and his brother John in a boat, mending their nets.
+When He had gone a little farther, He saw James son of Zebedee and his brother John in a boat, mending their nets.
 
 ## Mark 1:20
 
-He called them without delay, and they left their father Zebedee in the boat with the hired men and followed him.
+He called them without delay, and they left their father Zebedee in the boat with the hired men and followed Him.
 
 ---
 
@@ -101,7 +101,7 @@ They went to Capernaum, and immediately on the Sabbath Jesus entered the synagog
 
 ## Mark 1:22
 
-The people were amazed at his teaching, because he taught them as one who had authority, not as the scribes.
+The people were amazed at His teaching, because He taught them as one who had authority, not as the scribes.
 
 ## Mark 1:23
 
@@ -109,7 +109,7 @@ Just then a man in their synagogue who was possessed by an unclean spirit cried 
 
 ## Mark 1:24
 
-“What do you have to do with us, Jesus of Nazareth? Have you come to destroy us? I know you —you are the Holy One of God!”
+“What do You have to do with us, Jesus of Nazareth? Have You come to destroy us? I know You—You are the Holy One of God!”
 
 ## Mark 1:25
 
@@ -121,11 +121,11 @@ The unclean spirit shook the man violently and came out of him with a loud cry.
 
 ## Mark 1:27
 
-The people were all so amazed that they asked each other, “What is this? A new teaching—with authority! He even commands unclean spirits, and they obey him.”
+The people were all so amazed that they asked each other, “What is this? A new teaching—with authority! He even commands unclean spirits, and they obey Him.”
 
 ## Mark 1:28
 
-Immediately the news about him spread throughout the whole region of Galilee.
+Immediately the news about Him spread throughout the whole region of Galilee.
 
 ---
 
@@ -139,7 +139,7 @@ Simon’s mother-in-law was in bed with a fever, and they promptly informed Jesu
 
 ## Mark 1:31
 
-So he went to her, took her by the hand and helped her up. The fever left her, and she began to wait on them.
+So He went to her, took her by the hand and helped her up. The fever left her, and she began to wait on them.
 
 ---
 
@@ -153,21 +153,21 @@ A large gathering of the town assembled at the door,
 
 ## Mark 1:34
 
-and Jesus healed many who had various diseases. He also drove out many demons, but he would not let the demons speak because they recognised him.
+and Jesus healed many who had various diseases. He also drove out many demons, but He would not let the demons speak because they recognised Him.
 
 ---
 
 ## Mark 1:35
 
-Very early in the morning, while it was still dark, Jesus got up, left the house and went to a solitary place, where he prayed.
+Very early in the morning, while it was still dark, Jesus got up, left the house and went to a solitary place, where He prayed.
 
 ## Mark 1:36
 
-Simon and his companions went looking for him,
+Simon and his companions went looking for Him,
 
 ## Mark 1:37
 
-and when they found him, they said, “Everyone is searching for you!”
+and when they found Him, they said, “Everyone is searching for You!”
 
 ## Mark 1:38
 
@@ -175,17 +175,17 @@ Jesus replied, “Let us go to another place—to the nearby villages—so I can
 
 ## Mark 1:39
 
-So he journeyed throughout Galilee, preaching in their synagogues and casting out demons.
+So He journeyed throughout Galilee, preaching in their synagogues and casting out demons.
 
 ---
 
 ## Mark 1:40
 
-A man with leprosy approached him and pleaded on his knees, “If you are willing, you can make me clean.”
+A man with leprosy approached Him and pleaded on his knees, “If You are willing, You can make me clean.”
 
 ## Mark 1:41
 
-Filled with compassion, Jesus reached out his hand and touched the man. “I am willing,” he said. “Be clean!”
+Filled with compassion, Jesus reached out His hand and touched the man. “I am willing,” He said. “Be clean!”
 
 ## Mark 1:42
 
@@ -201,4 +201,4 @@ Jesus sent him away at once with a stern warning:
 
 ## Mark 1:45
 
-However, he went out and began to talk freely, spreading the news. As a result, Jesus could no longer enter a town openly but stayed outside in secluded places. Yet the people still came to him from everywhere.
+However, he went out and began to talk freely, spreading the news. As a result, Jesus could no longer enter a town openly but stayed outside in secluded places. Yet the people still came to Him from everywhere.

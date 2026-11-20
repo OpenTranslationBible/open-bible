@@ -64,7 +64,7 @@ Redeem the firstborn donkey with a lamb, but if you do not redeem it, break its 
 You shall labour for six days, but on the seventh day, you shall rest; even during the ploughing and harvest seasons, you must rest.
 
 ## Exodus 34:22
-Celebrate the Festival of Weeks with the firstfruits of the wheat harvest, and the Festival of Ingathering at the year's end.
+Celebrate the Festival of Weeks with the firstfruits of the wheat harvest, and the Festival of Ingathering at the year’s end.
 
 ## Exodus 34:23
 Three times a year, all your males must appear before the Sovereign Lord, the God of Israel.
@@ -76,7 +76,7 @@ I will drive out nations before you and expand your borders, and no one will cov
 Do not offer the blood of My sacrifice with anything leavened, nor should the sacrifice of the Passover Festival be left until morning.
 
 ## Exodus 34:26
-Bring the best of the firstfruits of your soil to the house of the Lord your God. Do not boil a young goat in its mother's milk.
+Bring the best of the firstfruits of your soil to the house of the Lord your God. Do not boil a young goat in its mother’s milk.”
 
 ## Exodus 34:27
 The Lord said to Moses, “Write down these words, for in accordance with these words I have made a covenant with you and with Israel.”

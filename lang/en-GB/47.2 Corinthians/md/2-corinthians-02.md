@@ -26,7 +26,7 @@ Adequate for such a person is this penalty which was imposed by the majority,
 
 ## 2 Corinthians 2:7
 
-So that on the contrary you should rather forgive and comfort him, otherwise such a person might be overwhelmed by excessive sorrow.
+so that on the contrary you should rather forgive and comfort him, otherwise such a person might be overwhelmed by excessive sorrow.
 
 ## 2 Corinthians 2:8
 
@@ -42,7 +42,7 @@ But anyone you forgive, I also forgive; for indeed what I have forgiven, if I ha
 
 ## 2 Corinthians 2:11
 
-So that we would not be outwitted by Satan, for we are aware of his schemes.
+so that we would not be outwitted by Satan, for we are aware of his schemes.
 
 ## 2 Corinthians 2:12
 

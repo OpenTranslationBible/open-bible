@@ -14,7 +14,7 @@ The one who eats everything should not look down on the one who does not, and th
 
 ## Romans 14:4
 
-Who are you to judge another's servant? To their own master they stand or fall. And they will stand, for the Lord is able to make them stand.
+Who are you to judge another’s servant? To their own master they stand or fall. And they will stand, for the Lord is able to make them stand.
 
 ## Romans 14:5
 
@@ -34,7 +34,7 @@ If we live, we live for the Lord; and if we die, we die for the Lord. Therefore,
 
 ## Romans 14:9
 
-For this purpose, Christ died and returned to life, so that he might be the Lord of both the dead and the living.
+For this purpose, Christ died and returned to life, so that He might be the Lord of both the dead and the living.
 
 ## Romans 14:10
 
@@ -44,9 +44,9 @@ Why do you judge your brother or sister? Or why do you look down on them? For we
 
 As it is written:
 
-> “‘As surely as I live,’ says the Lord,
-> ‘every knee will bow before me;
-> every tongue will acknowledge God.’”
+>  “‘As surely as I live,’ says the Lord,
+>  ‘every knee will bow before Me;
+>  every tongue will acknowledge God.’”
 
 ## Romans 14:12
 
@@ -66,7 +66,7 @@ If your brother or sister is distressed because of what you eat, you are no long
 
 ## Romans 14:16
 
-To, ensure that your good actions are not called out by others as wrong.
+So ensure that your good actions are not spoken of by others as evil.
 
 ## Romans 14:17
 

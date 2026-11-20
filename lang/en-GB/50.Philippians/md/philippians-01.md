@@ -2,7 +2,7 @@
 
 ## Philippians 1:1
 
-Paul and Timothy, bond-servants of Christ Jesus, To all God's holy people in Christ Jesus at Philippi, together with the overseers and deacons:
+Paul and Timothy, bond-servants of Christ Jesus, To all God’s holy people in Christ Jesus at Philippi, together with the overseers and deacons:
 
 ## Philippians 1:2
 
@@ -26,7 +26,7 @@ being confident of this, that He who began a good work in you will carry it on t
 
 ## Philippians 1:7
 
-It is right for me to feel this way about all of you, since I have you in my heart, whether I am in chains or defending and confirming the gospel, all of you share in God's grace with me.
+It is right for me to feel this way about all of you, since I have you in my heart, whether I am in chains or defending and confirming the gospel, all of you share in God’s grace with me.
 
 ## Philippians 1:8
 

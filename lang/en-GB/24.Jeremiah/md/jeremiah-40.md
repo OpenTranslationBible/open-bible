@@ -22,7 +22,7 @@ So Jeremiah went to Gedaliah son of Ahikam at Mizpah and stayed with him among t
 When all the commanders of the forces in the open country and their men heard that the king of Babylon had appointed Gedaliah son of Ahikam as governor over the land, and had put him in charge of the men, women, and children, those of the poorest in the land who had not been exiled to Babylon,
 
 ## Jeremiah 40:8
-they came to Gedaliah at Mizpah—along with Ishmael son of Nethaniah, Johanan and Jonathan the sons of Kareah, Seraiah son of Tanhumeth, the sons of Ephai the Netophathite, and Jaazaniah the son of the Maakathite, and their men.
+they came to Gedaliah at Mizpah—along with Ishmael son of Nethaniah, Johanan and Jonathan the sons of Kareah, Seraiah son of Tanhumeth, the sons of Ephai the Netophathite, and Jezaniah the son of the Maakathite, and their men.
 
 ## Jeremiah 40:9
 Gedaliah son of Ahikam, the son of Shaphan, assured them and their men, saying, “Do not be afraid to serve the Babylonians; settle down in the land and serve the king of Babylon, and it will go well with you.

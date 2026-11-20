@@ -104,7 +104,7 @@ and said, ‘Do not be afraid, Paul. You must stand trial before Caesar, and God
 
 ## Acts 27:25
 
-So take heart, men, for I have faith in God that it will happen just as he told me.
+So take heart, men, for I have faith in God that it will happen just as He told me.
 
 ## Acts 27:26
 

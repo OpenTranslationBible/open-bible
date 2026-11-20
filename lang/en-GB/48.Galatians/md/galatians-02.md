@@ -42,7 +42,7 @@ They only asked us to remember the poor, which was the very thing I was eager to
 
 ## Galatians 2:11
 
-However, when Cephas came to Antioch, I spoke to him openly, for he was clearly in the wrong.
+However, when Cephas came to Antioch, I opposed him to his face, for he was clearly in the wrong.
 
 ## Galatians 2:12
 
@@ -78,8 +78,8 @@ For by the law, I have died to the law, so that I might live for God.
 
 ## Galatians 2:20
 
-I have been crucified with Christ, and it is no longer I who live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me.
+I have been crucified with Christ, and it is no longer I who live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave Himself for me.
 
 ## Galatians 2:21
 
-I do not set aside the grace of God, for if righteousness could be gained through the law, then Christ died for no purpose.
+I do not set aside the grace of God, for if righteousness could be gained through the law, then Christ died for no purpose.”

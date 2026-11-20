@@ -96,7 +96,7 @@ The servant returned and reported this to his master. The owner of the house bec
 
 ## Luke 14:23
 
-Then the master instructed his servant, ‘Go out to the roads and country lanes and encourage them to come in, so that my house will be full.
+Then the master instructed his servant, ‘Go out to the roads and country lanes and compel them to come in, so that my house will be full.
 
 ## Luke 14:24
 

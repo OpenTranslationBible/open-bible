@@ -10,7 +10,7 @@ A prophecy concerning Egypt: Behold, the Lord rides on a swift cloud and is comi
 The spirit of the Egyptians will be demoralised within them, and I will confound their plans. They will resort to idols and the spirits of the dead, to mediums and spiritists.
 
 ## Isaiah 19:4
-I will hand the Egyptians over to the power of a cruel master, and a mighty king will rule over them,” declares the Lord, the Lord of Hosts.
+I will hand the Egyptians over to the power of a cruel master, and a mighty king will rule over them,” declares the Lord, the Lord of hosts.
 
 ## Isaiah 19:5
 The waters of the sea will dry up, and the riverbed will become parched and dry.
@@ -34,7 +34,7 @@ The workers in cloth will be disheartened, and all the hired labourers will be g
 The officials of Zoan are mere fools; the wise counsellors of Pharaoh give senseless advice. How can you say to Pharaoh, “I am one of the wise, a disciple of ancient kings”?
 
 ## Isaiah 19:12
-Where are your wise men now? Let them show you and make known what the Lord of Hosts has planned against Egypt.
+Where are your wise men now? Let them show you and make known what the Lord of hosts has planned against Egypt.
 
 ## Isaiah 19:13
 The officials of Zoan have become fools, the leaders of Memphis are deceived; the cornerstones of her tribes have led Egypt astray.
@@ -46,19 +46,19 @@ The Lord has mixed within her a spirit of dizziness; they make Egypt stagger in 
 There is nothing Egypt can do—head or tail, palm branch or bulrush.
 
 ## Isaiah 19:16
-On that day the Egyptians will become weaklings; they will tremble with fear at the uplifted hand that the Lord of Hosts raises against them.
+On that day the Egyptians will become weaklings; they will tremble with fear at the uplifted hand that the Lord of hosts raises against them.
 
 ## Isaiah 19:17
-The land of Judah will bring terror to the Egyptians; everyone to whom it is mentioned will be in great fear because of what the Lord of Hosts is planning against them.
+The land of Judah will bring terror to the Egyptians; everyone to whom it is mentioned will be in great fear because of what the Lord of hosts is planning against them.
 
 ## Isaiah 19:18
-On that day, five cities in Egypt will speak the language of Canaan and swear allegiance to the Lord of Hosts; one will be called the City of the Sun.
+On that day, five cities in Egypt will speak the language of Canaan and swear allegiance to the Lord of hosts; one will be called the City of the Sun.
 
 ## Isaiah 19:19
 On that day there will be an altar to the Lord in the heart of Egypt, and a monument to the Lord at its border.
 
 ## Isaiah 19:20
-It will be a sign and witness to the Lord of Hosts in the land of Egypt. When they cry out to the Lord because of their oppressors, He will send them a saviour and defender, and He will rescue them.
+It will be a sign and witness to the Lord of hosts in the land of Egypt. When they cry out to the Lord because of their oppressors, He will send them a saviour and defender, and He will rescue them.
 
 ## Isaiah 19:21
 So the Lord will make Himself known to the Egyptians, and on that day they will acknowledge the Lord. They will worship with sacrifices and offerings, and will make vows to the Lord and fulfil them.
@@ -73,4 +73,4 @@ On that day there will be a highway from Egypt to Assyria. The Assyrians will go
 On that day Israel will be the third, along with Egypt and Assyria, a blessing in the midst of the earth.
 
 ## Isaiah 19:25
-The Lord of Hosts will bless them, saying, “Blessed be Egypt my people, Assyria my handiwork, and Israel my inheritance.”
+The Lord of hosts will bless them, saying, “Blessed be Egypt My people, Assyria My handiwork, and Israel My inheritance.”

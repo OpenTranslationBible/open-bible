@@ -8,19 +8,19 @@ It came to pass that while Jesus was praying in a certain place, when He had con
 
 He responded, “When you pray, say:
 
-> ‘Father, hallowed be Your name.
-> Your kingdom come.
+>  ‘Father, hallowed be Your name.
+>  Your kingdom come.
 
 ## Luke 11:3
 
-> Give us today, our daily bread.
+> Give us each day our daily bread.
 
 ## Luke 11:4
 
 > And forgive us our sins,
-> for we also forgive everyone who sinned against us.
-> And lead us not into temptation,
-> but deliver us from evil.’”
+>  for we also forgive everyone who sinned against us.
+>  And lead us not into temptation,
+>  but deliver us from evil.’”
 
 ---
 
@@ -58,7 +58,7 @@ Or if he asks for an egg, will offer him a scorpion?
 
 ## Luke 11:13
 
-If you then, though you are flawed, know how to give good gifts to your children, how much more will your heavenly Father give the Holy Spirit to those who ask Him!”
+If you then, though you are evil, know how to give good gifts to your children, how much more will your heavenly Father give the Holy Spirit to those who ask Him!”
 
 ---
 
@@ -88,7 +88,7 @@ If I drive out demons by Beelzebul, by whom do your followers drive them out? Th
 
 ## Luke 11:20
 
-But if I expel demons by the power of God, then the kingdom of God has come upon you.
+But if I expel demons by the finger of God, then the kingdom of God has come upon you.
 
 ## Luke 11:21
 

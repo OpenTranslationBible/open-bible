@@ -6,7 +6,7 @@ So, I appeal to the elders among you, as a fellow elder and a witness to the suf
 
 ## 1 Peter 5:2
 
-tend to the flock of God in your care, providing oversight willingly, in accordance with God's will; and not for dishonest gain, but with enthusiasm;
+tend to the flock of God in your care, providing oversight willingly, in accordance with God’s will; and not for dishonest gain, but with enthusiasm;
 
 ## 1 Peter 5:3
 
@@ -18,10 +18,10 @@ And when the Chief Shepherd is revealed, you will be awarded the unfading crown 
 
 ## 1 Peter 5:5
 
-You younger men, likewise, be subject to your elders; and all of you, clothe yourselves with humility toward one another, because
+You younger men, likewise, be subject to your elders; and all of you, clothe yourselves with humility toward one another,
 
-> “God is opposed to the proud,  
-> But gives grace to the humble.”
+>  because “God is opposed to the proud,  
+>  but gives grace to the humble.”
 
 ## 1 Peter 5:6
 
@@ -57,5 +57,5 @@ The church in Babylon, chosen together with you, sends you greetings, and so doe
 
 ## 1 Peter 5:14
 
-Extend warm greetings to one another with a gesture of love.  
-May peace be with all of you who are in Christ.
+Extend warm greetings to one another with a kiss of love.  
+ May peace be with all of you who are in Christ.

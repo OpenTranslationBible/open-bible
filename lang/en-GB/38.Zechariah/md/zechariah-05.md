@@ -10,7 +10,7 @@ And he said to me, “What do you see?” I replied, “I see a flying scroll; i
 Then he said to me, “This is the curse that is going out over the entire land; for everyone who steals will be removed according to the writing on one side, and everyone who swears falsely will be removed according to the writing on the other side.
 
 ## Zechariah 5:4
-‘I will send it forth,’ declares the Lord of Hosts, ‘and it will enter the house of the thief and the house of the one who swears falsely by my name. It will remain in that house and destroy it with its timber and stones.’”
+‘I will send it forth,’ declares the Lord of hosts, ‘and it will enter the house of the thief and the house of the one who swears falsely by My name. It will remain in that house and destroy it with its timber and stones.’”
 
 ## Zechariah 5:5
 Then the angel who was speaking with me came forward and said, “Lift your eyes now and see what this is that is going forth.”

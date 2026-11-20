@@ -32,11 +32,11 @@ In the vicinity, there was an estate belonging to Publius, the chief official of
 
 ## Acts 28:8
 
-Publius's father was bedridden, suffering from fever and dysentery. Paul visited him, and after praying, laid his hands on him and healed him.
+Publius’s father was bedridden, suffering from fever and dysentery. Paul visited him, and after praying, laid his hands on him and healed him.
 
 ## Acts 28:9
 
-Following this event, the rest of the island's sick came and were healed.
+Following this event, the rest of the island’s sick came and were healed.
 
 ## Acts 28:10
 
@@ -114,18 +114,18 @@ They disagreed among themselves and began to leave after Paul made this final re
 
 saying,
 
-> ‘Go to this people and say,
-> “You will be ever hearing but never understanding;
-> you will be ever seeing but never perceiving.”
+>  ‘Go to this people and say,
+>  “You will be ever hearing but never understanding;
+>  you will be ever seeing but never perceiving.”
 
 ## Acts 28:27
 
 > For the hearts of this people have grown dull;
-> they scarcely hear with their ears,
-> and they have shut their eyes.
-> Otherwise, they might see with their eyes,
-> hear with their ears, understand with their hearts and turn,
-> and I would heal them.’
+>  they scarcely hear with their ears,
+>  and they have shut their eyes.
+>  Otherwise, they might see with their eyes,
+>  hear with their ears, understand with their hearts and turn,
+>  and I would heal them.’
 
 ## Acts 28:28
 

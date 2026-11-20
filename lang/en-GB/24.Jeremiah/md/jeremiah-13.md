@@ -30,7 +30,7 @@ So I went to the Euphrates and dug up the garment from the place where I had hid
 
 ## Jeremiah 13:8
 
-The word of the Lord then came to me , saying,
+The word of the Lord then came to me, saying,
 
 ## Jeremiah 13:9
 
@@ -38,11 +38,11 @@ The word of the Lord then came to me , saying,
 
 ## Jeremiah 13:10
 
-These wicked people, who refuse to heed my words, who follow the stubbornness of their hearts and pursue other gods to serve and worship them, will be like this garment—completely useless!
+These wicked people, who refuse to heed My words, who follow the stubbornness of their hearts and pursue other gods to serve and worship them, will be like this garment—completely useless!
 
 ## Jeremiah 13:11
 
-For as a garment clings to the waist of a person, so I made the whole house of Israel and the whole house of Judah cling to me,’ declares the Lord, ‘that they might be my people, for renown, for praise, and for glory; but they did not listen.’
+For as a garment clings to the waist of a person, so I made the whole house of Israel and the whole house of Judah cling to Me,’ declares the Lord, ‘that they might be My people, for renown, for praise, and for glory; but they did not listen.’
 
 ---
 
@@ -56,7 +56,7 @@ then say to them, ‘This is what the Lord says: I am going to fill all the inha
 
 ## Jeremiah 13:14
 
-I will shatter them against each other, both parents and children alike,” declares the Lord. “I will show no compassion, nor will I spare or have mercy to prevent their destruction.”
+I will shatter them against each other, both parents and children alike,’ declares the Lord. ‘I will show no compassion, nor will I spare or have mercy to prevent their destruction.’”
 
 ## Jeremiah 13:15
 
@@ -64,7 +64,7 @@ Hear and heed this, do not be proud, for the Lord has spoken.
 
 ## Jeremiah 13:16
 
-Give glory to the Lord your God before he brings darkness and before your feet stumble on the darkening hills. You hope for light, but he will turn it into deep darkness and transform it into thick gloom.
+Give glory to the Lord your God before He brings darkness and before your feet stumble on the darkening hills. You hope for light, but He will turn it into deep darkness and transform it into thick gloom.
 
 ## Jeremiah 13:17
 
@@ -88,7 +88,7 @@ What will you say when the Lord sets over you those you cultivated as your allie
 
 ## Jeremiah 13:22
 
-And if you ask yourself, “Why has this happened to me?”— it is because of the magnitude of your sins that your skirts have been torn off and your body mistreated.
+And if you ask yourself, “Why has this happened to me?”—it is because of the magnitude of your sins that your skirts have been torn off and your body mistreated.
 
 ## Jeremiah 13:23
 
@@ -100,7 +100,7 @@ Is it possible for an Ethiopian to change his skin or a leopard its spots? In th
 
 ## Jeremiah 13:25
 
-This is your lot, the portion I have decreed for you,” declares the Lord, “because you have forgotten me and trusted in falsehood.
+This is your lot, the portion I have decreed for you,” declares the Lord, “because you have forgotten Me and trusted in falsehood.
 
 ## Jeremiah 13:26
 

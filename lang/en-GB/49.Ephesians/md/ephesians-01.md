@@ -26,7 +26,7 @@ to the praise of the glory of His grace, which He has freely given us in the Bel
 
 ## Ephesians 1:7
 
-Through Him, we have redemption by His sacrifice, the forgiveness of sins, in line with the riches of His grace
+Through Him, we have redemption through His blood, the forgiveness of sins, in line with the riches of His grace
 
 ## Ephesians 1:8
 

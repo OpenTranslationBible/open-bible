@@ -6,7 +6,7 @@ However, there will be no more gloom for those who were in anguish. In former ti
 
 ## Isaiah 9:2
 
-The people who walked in darkness have seen a great light; on those living in a land of deep darkness, a light has shone.
+The people who walked in darkness have seen a great light; on those living in the land of the shadow of death, a light has shone.
 
 ## Isaiah 9:3
 
@@ -22,11 +22,11 @@ Every boot of the warrior in the tumult of battle, and every garment rolled in b
 
 ## Isaiah 9:6
 
-For unto us a child is born, unto us a son is given, and the government will be upon his shoulders. And he will be called Wonderful Counsellor, Mighty God, Everlasting Father, Prince of Peace.
+For unto us a child is born, unto us a son is given, and the government will be upon His shoulders. And He will be called Wonderful Counsellor, Mighty God, Everlasting Father, Prince of Peace.
 
 ## Isaiah 9:7
 
-Of the increase of his government and peace there will be no end. He will reign on David’s throne and over his kingdom, establishing and upholding it with justice and righteousness from that time forth and for evermore. The zeal of the Lord of hosts will accomplish this.
+Of the increase of His government and peace there will be no end. He will reign on David’s throne and over his kingdom, establishing and upholding it with justice and righteousness from that time forth and for evermore. The zeal of the Lord of hosts will accomplish this.
 
 ## Isaiah 9:8
 

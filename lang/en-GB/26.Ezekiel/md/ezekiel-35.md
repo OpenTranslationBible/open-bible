@@ -6,11 +6,11 @@ The message from the Lord was given to me:
 
 ## Ezekiel 35:2
 
-“Son of man, direct yourself towards Mount Seir and prophecy against it,
+“Son of man, direct yourself towards Mount Seir and prophesy against it,
 
 ## Ezekiel 35:3
 
-and say: ‘This is what the Lord God says: Behold, I am against you, Mount Seir, and I will stretch out my hand against you and make you a desolate waste.
+and say: ‘This is what the Lord God says: Behold, I am against you, Mount Seir, and I will stretch out My hand against you and make you a desolate waste.
 
 ## Ezekiel 35:4
 
@@ -42,7 +42,7 @@ Because you have said, “These two nations and these two lands will be ours, an
 
 ## Ezekiel 35:11
 
-therefore, as surely as I live, declares the Lord God, I will deal with you according to the anger and envy you showed in your hatred of them, and I will make myself known among them when I judge you.
+therefore, as surely as I live, declares the Lord God, I will deal with you according to the anger and envy you showed in your hatred of them, and I will make Myself known among them when I judge you.
 
 ## Ezekiel 35:12
 
@@ -50,7 +50,7 @@ Then you will know that I, the Lord, have heard all the insults you have spoken 
 
 ## Ezekiel 35:13
 
-You have spoken arrogantly against me and multiplied your words against me; I have heard it.
+You have spoken arrogantly against Me and multiplied your words against Me; I have heard it.
 
 ## Ezekiel 35:14
 

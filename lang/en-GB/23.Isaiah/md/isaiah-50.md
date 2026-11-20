@@ -1,10 +1,10 @@
 # Isaiah Chapter 50
 
 ## Isaiah 50:1
-This is what the Lord says: “Where is your mother's certificate of divorce by which I sent her away? Or to which of my creditors did I sell you? Behold, you were sold because of your sins, and due to your transgressions your mother was sent away.
+This is what the Lord says: “Where is your mother’s certificate of divorce by which I sent her away? Or to which of My creditors did I sell you? Behold, you were sold because of your sins, and due to your transgressions your mother was sent away.
 
 ## Isaiah 50:2
-Why was there no one when I came? When I called, why did no one answer? Is my arm too short to redeem? Do I lack the power to rescue? By my rebuke, I dry up the sea, turning rivers into a desert; their fish rot for lack of water and perish from thirst.
+Why was there no one when I came? When I called, why did no one answer? Is My arm too short to redeem? Do I lack the power to rescue? By My rebuke, I dry up the sea, turning rivers into a desert; their fish rot for lack of water and perish from thirst.
 
 ## Isaiah 50:3
 I cover the heavens with darkness and use sackcloth as their covering.”
@@ -28,7 +28,7 @@ He who vindicates me is near. Who will contend with me? Let us stand together. W
 Behold, the Sovereign Lord helps me. Who is he that will condemn me? They will all wear out like a garment; the moth will devour them.
 
 ## Isaiah 50:10
-Who among you fears the Lord and obeys the voice of his servant? Let the one who walks in darkness and has no light trust in the name of the Lord and rely on their God.
+Who among you fears the Lord and obeys the voice of His servant? Let the one who walks in darkness and has no light trust in the name of the Lord and rely on their God.
 
 ## Isaiah 50:11
 Behold, all you who kindle a fire and encircle yourselves with flaming torches, walk in the light of your fire and among the torches you have set ablaze. This is what you will receive from my hand: You will lie down in torment.

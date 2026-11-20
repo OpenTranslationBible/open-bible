@@ -195,11 +195,11 @@ When the captains of the chariots realised it was not the king of Israel, they t
 ## 2 Chronicles 18:33
 
 Now a man drew his bow at random and struck the king of Israel in a joint of the armour.  
-So he said to the driver of the chariot, “Turn around and take me out of the battle, for I am severely wounded.”
+ So he said to the driver of the chariot, “Turn around and take me out of the battle, for I am severely wounded.”
 
 ---
 
 ## 2 Chronicles 18:34
 
 The battle raged on that day, and the king of Israel held himself up in his chariot against the Arameans until the evening;  
-and at sunset he died.
+ and at sunset he died.

@@ -20,15 +20,15 @@ And no one assumes this honour for himself, but he receives it when called by Go
 
 Similarly, Christ did not glorify Himself by becoming a high priest, but it was God who said to Him,
 
-> “You are My Son;
-> today I have begotten You.”
+>  “You are My Son;
+>  today I have begotten You.”
 
 ## Hebrews 5:6
 
 He also declares elsewhere,
 
-> “You are a priest forever,
-> according to the order of Melchizedek.”
+>  “You are a priest forever,
+>  according to the order of Melchizedek.”
 
 ## Hebrews 5:7
 

@@ -9,7 +9,7 @@ Jehoshaphat, the king of Judah, arrived safely back at his house in Jerusalem.
 ## 2 Chronicles 19:2
 
 And Jehu the son of Hanani the seer went out to meet him and said to King Jehoshaphat,  
-“Should you help the wicked and love those who hate the Lord, and so bring wrath on yourself from the Lord?
+ “Should you help the wicked and love those who hate the Lord? Because of this, wrath has come upon you from the Lord.
 
 ---
 
@@ -22,7 +22,7 @@ But there is some good in you, for you have removed the Asherah poles from the l
 ## 2 Chronicles 19:4
 
 Jehoshaphat resided in Jerusalem, and he went out once more among the people from Beersheba to the hill country of Ephraim,  
-and guided them back to the Lord, the God of their ancestors.
+ and guided them back to the Lord, the God of their ancestors.
 
 ---
 
@@ -41,37 +41,37 @@ He addressed the judges, saying, “Be mindful of your actions, for you do not j
 ## 2 Chronicles 19:7
 
 Now then, let the fear of the Lord be upon you; be careful what you do,  
-for there is no injustice with the Lord our God, or partiality, or taking of a bribe.”
+ for there is no injustice with the Lord our God, or partiality, or taking of a bribe.”
 
 ---
 
 ## 2 Chronicles 19:8
 
 In Jerusalem also Jehoshaphat appointed some of the Levites, priests, and heads of the fathers’ households of Israel,  
-for the judgment of the Lord and to judge disputes among the inhabitants of Jerusalem.
+ for the judgment of the Lord and to judge disputes among the inhabitants of Jerusalem.
 
 ---
 
 ## 2 Chronicles 19:9
 
 He instructed them, saying,  
-“This is how you shall act in the fear of the Lord, with faithfulness and sincerity.
+ “This is how you shall act in the fear of the Lord, with faithfulness and sincerity.
 
 ---
 
 ## 2 Chronicles 19:10
 
 Whenever any dispute comes to you from your brothers who live in their cities,  
-between blood and blood, between law and commandment, statutes and judgments,  
-you are to warn them so that they do not become guilty before the Lord,  
-and wrath may not come on you and your brothers.  
-This is what you shall do, and you will not incur guilt.
+ between blood and blood, between law and commandment, statutes and judgments,  
+ you are to warn them so that they do not become guilty before the Lord,  
+ and wrath may not come on you and your brothers.  
+ This is what you shall do, and you will not incur guilt.
 
 ---
 
 ## 2 Chronicles 19:11
 
 And behold, Amariah the chief priest will be over you in all that pertains to the Lord,  
-and Zebadiah the son of Ishmael, the ruler of the house of Judah, in all that pertains to the king.  
-Also the Levites shall be officers before you.  
-Act resolutely, and may the Lord be with the upright.”
+ and Zebadiah the son of Ishmael, the ruler of the house of Judah, in all that pertains to the king.  
+ Also the Levites shall be officers before you.  
+ Act resolutely, and may the Lord be with the upright.”

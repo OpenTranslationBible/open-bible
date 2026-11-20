@@ -1,19 +1,19 @@
 # Isaiah Chapter 28
 
 ## Isaiah 28:1
-Woe to the proud crown of Ephraim's drunkards, and to the fading flower of its glorious beauty, which is set on the head of a fertile valley, of those who are overcome with wine!
+Woe to the proud crown of Ephraim’s drunkards, and to the fading flower of its glorious beauty, which is set on the head of a fertile valley, of those who are overcome with wine!
 
 ## Isaiah 28:2
 Behold, the Lord has a strong and mighty one. Like a hailstorm and a tempest of destruction, like a storm of mighty overflowing waters, he will cast it down to the earth with force.
 
 ## Isaiah 28:3
-The proud crown of Ephraim's drunkards will be trampled underfoot.
+The proud crown of Ephraim’s drunkards will be trampled underfoot.
 
 ## Isaiah 28:4
 The fading flower of its glorious beauty, which is on the head of the fertile valley, will be like the first-ripe fig before the summer; as soon as someone sees it, while it is still in their hand, they swallow it.
 
 ## Isaiah 28:5
-In that day, the Lord Almighty will be a beautiful crown and a glorious diadem for the remnant of his people.
+In that day, the Lord of hosts will be a beautiful crown and a glorious diadem for the remnant of His people.
 
 ## Isaiah 28:6
 He will be a spirit of justice to the one who sits in judgment, and a source of strength to those who turn back the battle at the gate.
@@ -25,7 +25,7 @@ These also stagger from wine and reel from intoxicating drink: the priest and th
 All the tables are covered with vomit; there is not a clean spot anywhere.
 
 ## Isaiah 28:9
-“To whom is he trying to teach knowledge, and to whom is he explaining the message? To children just weaned from milk, to those just taken from the breast?
+“To whom is He trying to teach knowledge, and to whom is He explaining the message? To children just weaned from milk, to those just taken from the breast?
 
 ## Isaiah 28:10
 For it is: Order on order, order on order, line on line, line on line, a little here, a little there.”
@@ -34,7 +34,7 @@ For it is: Order on order, order on order, line on line, line on line, a little 
 Indeed, with stammering lips and a foreign tongue, God will speak to this people,
 
 ## Isaiah 28:12
-to whom he declared, “This is the resting place; let the weary find rest,” and, “This is the place of repose,” but they would not listen.
+to whom He declared, “This is the resting place; let the weary find rest,” and, “This is the place of repose,” but they would not listen.
 
 ## Isaiah 28:13
 So the word of the Lord to them will be: Order on order, order on order, line on line, line on line, a little here, a little there, so that they may go and fall backward, be broken, snared, and captured.
@@ -55,13 +55,13 @@ I will make justice the measuring line and righteousness the plumb line; hail wi
 Your covenant with death will be annulled, and your agreement with Sheol will not stand; when the overwhelming scourge passes through, you will be trampled by it.
 
 ## Isaiah 28:19
-As often as it passes through, it will seize you; morning after morning, by day and by night, it will sweep through. The understanding of this message will bring sheer terror.
+As often as it passes through, it will seize you; morning after morning, by day and by night, it will sweep through.” The understanding of this message will bring sheer terror.
 
 ## Isaiah 28:20
 The bed is too short to stretch out on, and the blanket too narrow to wrap oneself in.
 
 ## Isaiah 28:21
-For the Lord will rise up as he did at Mount Perazim, he will be stirred as in the Valley of Gibeon, to do his work, his strange work, and to perform his task, his alien task.
+For the Lord will rise up as He did at Mount Perazim, He will be stirred as in the Valley of Gibeon, to do His work, His strange work, and to perform His task, His alien task.
 
 ## Isaiah 28:22
 Now stop your mocking, or your shackles will be made heavier; for I have heard from the Lord God of hosts of decisive destruction upon the whole land.

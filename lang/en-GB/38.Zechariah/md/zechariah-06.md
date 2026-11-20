@@ -46,11 +46,11 @@ Make a crown from the silver and gold, and place it on the head of Joshua son of
 
 ## Zechariah 6:12
 
-Say to him, ‘This is what the Lord of Hosts says: “Behold, the man whose name is the Branch, for he will branch out from his place and build the temple of the Lord.
+Say to him, ‘This is what the Lord of hosts says: “Behold, the man whose name is the Branch, and He will branch out from His place and build the temple of the Lord.
 
 ## Zechariah 6:13
 
-Indeed, he will build the temple of the Lord, and he will be clothed with majesty and sit and rule on his throne. He will be a priest on his throne, and there will be harmony between the two offices.”’
+Indeed, He will build the temple of the Lord, and He will be clothed with majesty and sit and rule on His throne. He will be a priest on His throne, and there will be harmony between the two offices.”’
 
 ## Zechariah 6:14
 
@@ -58,4 +58,4 @@ The crown will serve as a memorial in the temple of the Lord for Helem, Tobijah,
 
 ## Zechariah 6:15
 
-Those who are far off will come and build the temple of the Lord, and you will know that the Lord of Hosts has sent me to you. This will occur if you diligently obey the Lord your God.
+Those who are far off will come and build the temple of the Lord, and you will know that the Lord of hosts has sent Me to you. This will occur if you diligently obey the Lord your God.”

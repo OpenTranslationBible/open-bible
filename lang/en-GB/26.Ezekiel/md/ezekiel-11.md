@@ -14,7 +14,7 @@ They say, ‘Is it not time to build houses? This city is the pot, and we are th
 
 ## Ezekiel 11:4
 
-Thus, speak prophesies against them; prophecy, son of man.”
+Thus, prophesy against them; prophesy, son of man.”
 
 ## Ezekiel 11:5
 
@@ -46,11 +46,11 @@ This city will not be a pot for you, nor will you be the meat inside it; I will 
 
 ## Ezekiel 11:12
 
-And you will know that I am the Lord, for you have not followed my statutes or kept my laws but have conformed to the customs of the nations around you.”
+And you will know that I am the Lord, for you have not followed My statutes or kept My laws but have conformed to the customs of the nations around you.”
 
 ## Ezekiel 11:13
 
-As I was prophesying, Pelatiah son of Benaiah died. I fell facedown and cried out in a loud voice, “Alas, Sovereign Lord! Will you completely destroy the remnant of Israel?”
+As I was prophesying, Pelatiah son of Benaiah died. I fell facedown and cried out in a loud voice, “Alas, Sovereign Lord! Will You completely destroy the remnant of Israel?”
 
 ## Ezekiel 11:14
 
@@ -78,7 +78,7 @@ I will give them a unified heart and put a new spirit within them; I will remove
 
 ## Ezekiel 11:20
 
-Then they will follow my statutes and be careful to observe my ordinances. They will be my people, and I will be their God.
+Then they will follow My statutes and be careful to observe My ordinances. They will be My people, and I will be their God.
 
 ## Ezekiel 11:21
 

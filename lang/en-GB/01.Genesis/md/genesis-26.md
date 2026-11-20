@@ -13,7 +13,7 @@ Reside in this land for a time, and I will be with you and bless you. To you and
 I will make your descendants as numerous as the stars in the sky and will give them all these lands, and through your descendants, all nations on earth will be blessed,
 
 ## Genesis 26:5
-because Abraham obeyed me and kept my commandments, my statutes, and my laws.”
+because Abraham obeyed Me and kept My commandments, My statutes, and My laws.”
 
 ## Genesis 26:6
 Thus, Isaac remained in Gerar.
@@ -70,7 +70,7 @@ He moved on from there and dug another well, and they did not quarrel over it. H
 From that place, he travelled to Beersheba.
 
 ## Genesis 26:24
-That night the Lord appeared to him and said, “I am the God of your father Abraham. Do not be afraid, for I am with you; I will bless you and multiply your descendants for the sake of my servant Abraham.”
+That night the Lord appeared to him and said, “I am the God of your father Abraham. Do not be afraid, for I am with you; I will bless you and multiply your descendants for the sake of My servant Abraham.”
 
 ## Genesis 26:25
 Isaac built an altar there and called upon the name of the Lord. There he pitched his tent, and there his servants dug a well.

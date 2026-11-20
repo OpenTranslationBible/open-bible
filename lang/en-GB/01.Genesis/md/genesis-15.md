@@ -6,7 +6,7 @@ After these events, the word of the Lord came to Abram in a vision, saying, “D
 
 ## Genesis 15:2
 
-But Abram said, “Lord God, what can you give me, since I remain childless, and the heir of my household is Eliezer of Damascus?”
+But Abram said, “Lord God, what can You give me, since I remain childless, and the heir of my household is Eliezer of Damascus?”
 
 ## Genesis 15:3
 
@@ -18,7 +18,7 @@ Then the word of the Lord came to him, saying, “This man shall not be your hei
 
 ## Genesis 15:5
 
-He took him outside and said, “Look up at the heavens and count the stars, if you are able to count them.” Then he said to him, “So shall your descendants be.”
+He took him outside and said, “Look up at the heavens and count the stars, if you are able to count them.” Then He said to him, “So shall your descendants be.”
 
 ## Genesis 15:6
 
@@ -34,7 +34,7 @@ But Abram said, “Lord God, how can I know that I will possess it?”
 
 ## Genesis 15:9
 
-So the Lord said to him, “Bring me a three-year-old heifer, a three-year-old goat, a three-year-old ram, a dove, and a young pigeon.”
+So the Lord said to him, “Bring Me a three-year-old heifer, a three-year-old goat, a three-year-old ram, a dove, and a young pigeon.”
 
 ## Genesis 15:10
 

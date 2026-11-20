@@ -34,7 +34,7 @@ Their land is filled with idols; they bow down to the work of their hands, to wh
 
 ## Isaiah 2:9
 
-So humanity will be humbled, and each person brought low— do not forgive them.
+So humanity will be humbled, and each person brought low—do not forgive them.
 
 ## Isaiah 2:10
 
@@ -46,7 +46,7 @@ The haughty eyes of mankind will be humbled, and human pride will be brought low
 
 ## Isaiah 2:12
 
-For the Lord of Hosts has a day of reckoning against all that is proud and lofty, against all that is exalted, and they will be humbled,
+For the Lord of hosts has a day of reckoning against all that is proud and lofty, against all that is exalted, and they will be humbled,
 
 ## Isaiah 2:13
 

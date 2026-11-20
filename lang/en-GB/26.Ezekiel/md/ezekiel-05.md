@@ -16,10 +16,10 @@ Take some of these again and throw them into the fire and burn them; from there,
 “This is what the Sovereign Lord says: This is Jerusalem, which I have placed at the centre of the nations, with lands surrounding her.
 
 ## Ezekiel 5:6
-Yet she has rebelled against my ordinances more wickedly than the nations, and against my statutes more than the lands around her; for they have rejected my laws and not followed my decrees.
+Yet she has rebelled against My ordinances more wickedly than the nations, and against My statutes more than the lands around her; for they have rejected My laws and not followed My decrees.
 
 ## Ezekiel 5:7
-Therefore, this is what the Sovereign Lord says: Because you have been more unruly than the nations around you and have not followed my statutes or kept my laws, nor even conformed to the standards of the nations around you,
+Therefore, this is what the Sovereign Lord says: Because you have been more unruly than the nations around you and have not followed My statutes or kept My laws, nor even conformed to the standards of the nations around you,
 
 ## Ezekiel 5:8
 therefore, this is what the Sovereign Lord says: Behold, I am against you, Jerusalem, and I will execute judgements upon you in the sight of the nations.
@@ -31,13 +31,13 @@ Because of all your abominations, I will do among you what I have not done befor
 Therefore, parents will eat their children among you, and children will eat their parents. I will execute judgements on you and scatter all your survivors to every wind.
 
 ## Ezekiel 5:11
-Therefore, as surely as I live, declares the Sovereign Lord, because you have defiled my sanctuary with all your detestable idols and abominations, I will withdraw, and my eye will not spare, nor will I have pity.
+Therefore, as surely as I live, declares the Sovereign Lord, because you have defiled My sanctuary with all your detestable idols and abominations, I will withdraw, and My eye will not spare, nor will I have pity.
 
 ## Ezekiel 5:12
 A third of your people will die by plague or perish by famine within you; a third will fall by the sword around you; and a third I will scatter to every wind and pursue with an unsheathed sword.
 
 ## Ezekiel 5:13
-Then my anger will be spent, and I will satisfy my wrath upon them, and I will be appeased. They will know that I, the Lord, have spoken in my zeal when I have spent my wrath upon them.
+Then My anger will be spent, and I will satisfy My wrath upon them, and I will be appeased. They will know that I, the Lord, have spoken in My zeal when I have spent My wrath upon them.
 
 ## Ezekiel 5:14
 I will make you a ruin and a disgrace among the nations around you, in the sight of all who pass by.

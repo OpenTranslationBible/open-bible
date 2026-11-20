@@ -8,7 +8,7 @@ Abijah passed away and was laid to rest in the city of David; his son Asa succee
 
 ## 2 Chronicles 14:2
 
-Asa acted in a manner that was both pleasing and righteous before the Lord God,
+Asa did what was good and right in the sight of the Lord his God,
 
 ---
 
@@ -86,4 +86,4 @@ They destroyed all the cities around Gerar, for the terror of the Lord had falle
 
 ## 2 Chronicles 14:15
 
-They also fatally struck those who owned livestock, and they carried away large numbers of sheep and camels. Then they returned to Jerusalem.
+They also struck the tents of those who owned livestock, and they carried away large numbers of sheep and camels. Then they returned to Jerusalem.

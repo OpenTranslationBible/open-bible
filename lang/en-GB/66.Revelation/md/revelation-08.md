@@ -14,7 +14,7 @@ Another angel, holding a golden censer, came and stood at the altar. He was give
 
 ## Revelation 8:4
 
-The smoke of the incense, together with the prayers of the saints, rose up before God from the angel's hand.
+The smoke of the incense, together with the prayers of the saints, rose up before God from the angel’s hand.
 
 ## Revelation 8:5
 

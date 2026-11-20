@@ -14,11 +14,11 @@ Suddenly, Moses and Elijah appeared to them, conversing with Jesus.
 
 ## Matthew 17:4
 
-Peter said to Jesus, “Lord, it is good for us to be here. If you wish, I will set up three shelters: one for you, one for Moses, and one for Elijah.”
+Peter said to Jesus, “Lord, it is good for us to be here. If You wish, I will set up three shelters: one for You, one for Moses, and one for Elijah.”
 
 ## Matthew 17:5
 
-While he was still speaking, a bright cloud enveloped them, and a voice from the cloud said, “This is my beloved Son, with whom I am well pleased; listen to Him!”
+While he was still speaking, a bright cloud enveloped them, and a voice from the cloud said, “This is My beloved Son, with whom I am well pleased; listen to Him!”
 
 ## Matthew 17:6
 
@@ -66,7 +66,7 @@ When they reached the crowd, a man approached Jesus, kneeling before Him.
 
 ## Matthew 17:16
 
-I brought him to your disciples, but they were unable to heal him.”
+I brought him to Your disciples, but they were unable to heal him.”
 
 ## Matthew 17:17
 
@@ -116,4 +116,4 @@ Peter answered, “From others.” Jesus said to him, “Then the children are e
 
 ## Matthew 17:27
 
-But so that we may not cause offence, go to the sea and cast a line. Take the first fish you catch; open its mouth and you will find a four-drachma coin. Take it and give it to them for my tax and yours.”
+But so that we may not cause offence, go to the sea and cast a line. Take the first fish you catch; open its mouth and you will find a four-drachma coin. Take it and give it to them for My tax and yours.”

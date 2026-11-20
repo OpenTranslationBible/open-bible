@@ -56,9 +56,9 @@ But everything exposed by the light becomes visible, for everything that is illu
 
 This is why it is said:
 
-> “Wake up, you who are sleeping,  
-> And arise from the dead,  
-> for the light of Christ will shine on you.”
+>  “Wake up, you who are sleeping,  
+>  and arise from the dead,  
+>  for the light of Christ will shine on you.”
 
 ## Ephesians 5:15
 
@@ -66,7 +66,7 @@ Be very careful, then, how you live—acting wisely,
 
 ## Ephesians 5:16
 
-making the most of every opportunity, because the times are challenging.
+making the most of every opportunity, because the times are evil.
 
 ## Ephesians 5:17
 
@@ -94,7 +94,7 @@ Wives, submit yourselves to your own husbands, as to the Lord.
 
 ## Ephesians 5:23
 
-For the husband is the leader of the wife as Christ is the leader of the church, his body, of which He is the Saviour.
+For the husband is the head of the wife as Christ is the head of the church, His body, of which He is the Saviour.
 
 ## Ephesians 5:24
 

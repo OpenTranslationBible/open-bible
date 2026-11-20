@@ -10,7 +10,7 @@ I commend you for remembering me in all things and for holding firmly to the tra
 
 ## 1 Corinthians 11:3
 
-I wish for you to understand that Christ is the leader of every man, the man is the leader of a woman, and God is the leader of Christ.
+I wish for you to understand that Christ is the head of every man, the man is the head of a woman, and God is the head of Christ.
 
 ## 1 Corinthians 11:4
 
@@ -34,7 +34,7 @@ For man does not come from woman, but woman comes from man;
 
 ## 1 Corinthians 11:9
 
-For indeed man was not created for the benefit of woman, but woman for the benefit of man.
+for indeed man was not created for the benefit of woman, but woman for the benefit of man.
 
 ## 1 Corinthians 11:10
 
@@ -74,7 +74,7 @@ To begin with, when you come together as a church, I hear that there are divisio
 
 ## 1 Corinthians 11:19
 
-Indeed, there must be differences among you to show which of you have God's approval.
+Indeed, there must be differences among you to show which of you have God’s approval.
 
 ## 1 Corinthians 11:20
 
@@ -94,11 +94,11 @@ For I received from the Lord what I also passed on to you: that the Lord Jesus, 
 
 ## 1 Corinthians 11:24
 
-And after giving thanks, He broke it and said, “This is My body, which is for you; do this in remembrance of Me.”
+and after giving thanks, He broke it and said, “This is My body, which is for you; do this in remembrance of Me.”
 
 ## 1 Corinthians 11:25
 
-Similarly, after the meal, He took the cup, saying, “This cup represents the new covenant in My blood; do this, whenever you drink it, in remembrance of Me.”
+Similarly, after the meal, He took the cup, saying, “This cup is the new covenant in My blood; do this, whenever you drink it, in remembrance of Me.”
 
 ## 1 Corinthians 11:26
 

@@ -10,7 +10,7 @@ The woman conceived and bore a son; seeing that he was a fine child, she hid him
 
 ## Exodus 2:3
 
-When she could hide him no longer, she took a papyrus basket, coated it with tar and pitch, placed the child in it, and set it among the reeds by the Nile's bank.
+When she could hide him no longer, she took a papyrus basket, coated it with tar and pitch, placed the child in it, and set it among the reeds by the Nile’s bank.
 
 ## Exodus 2:4
 

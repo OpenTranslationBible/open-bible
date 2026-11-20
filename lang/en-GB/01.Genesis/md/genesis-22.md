@@ -62,7 +62,7 @@ The angel of the Lord called to Abraham from heaven once more
 
 ## Genesis 22:16
 
-and said, “I have sworn by myself, declares the Lord, because you have done this and have not withheld your son, your only son,
+and said, “I have sworn by Myself, declares the Lord, because you have done this and have not withheld your son, your only son,
 
 ## Genesis 22:17
 
@@ -70,7 +70,7 @@ I will surely bless you and greatly multiply your descendants like the stars of 
 
 ## Genesis 22:18
 
-and through your offspring all nations of the earth will be blessed, because you have obeyed my voice.”
+and through your offspring all nations of the earth will be blessed, because you have obeyed My voice.”
 
 ## Genesis 22:19
 

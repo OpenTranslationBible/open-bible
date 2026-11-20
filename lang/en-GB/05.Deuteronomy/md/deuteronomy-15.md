@@ -4,7 +4,7 @@
 At the conclusion of every seven years, you shall provide a remission of debts.
 
 ## Deuteronomy 15:2
-This is the manner of the release: every creditor shall forgive what he has lent to his neighbour; he shall not demand it from his fellow Israelite, for the Lord's time of release has been proclaimed.
+This is the manner of the release: every creditor shall forgive what he has lent to his neighbour; he shall not demand it from his fellow Israelite, for the Lord’s time of release has been proclaimed.
 
 ## Deuteronomy 15:3
 You may demand payment from a foreigner, but you must forgive whatever your brother owes you.
@@ -25,7 +25,7 @@ If there is a poor person among you, one of your fellow Israelites, in any of th
 Instead, open your hand freely to him and lend him whatever he needs.
 
 ## Deuteronomy 15:9
-Be careful not to harbour this wicked thought: 'The seventh year, the year of release, is near,' so that you show ill will towards your needy brother and give him nothing. He may then appeal to the Lord against you, and you will be guilty of sin.
+Be careful not to harbour this wicked thought: ‘The seventh year, the year of release, is near,’ so that you show ill will towards your needy brother and give him nothing. He may then appeal to the Lord against you, and you will be guilty of sin.
 
 ## Deuteronomy 15:10
 You shall give generously to him, and your heart shall not be grudging when you give to him, because for this the Lord your God will bless you in all your work and in all that you undertake.
@@ -46,7 +46,7 @@ Provide them generously from your flock, your threshing floor, and your winepres
 Remember that you were slaves in Egypt and the Lord your God redeemed you; that is why I am giving you this command today.
 
 ## Deuteronomy 15:16
-But if your servant says to you, 'I will not leave you,' because he loves you and your household and is well off with you,
+But if your servant says to you, ‘I will not leave you,’ because he loves you and your household and is well off with you,
 
 ## Deuteronomy 15:17
 then take an awl and pierce it through his ear into the door, and he shall be your servant for life. Do the same for your female servant.

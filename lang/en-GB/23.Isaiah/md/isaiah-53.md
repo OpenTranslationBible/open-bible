@@ -2,7 +2,7 @@
 
 ## Isaiah 53:1
 
-Who then has received our report? Who then has witnessed the strong arm of the Lord?
+Who then has believed our report? Who then has witnessed the strong arm of the Lord?
 
 ## Isaiah 53:2
 
@@ -26,7 +26,7 @@ We all have wandered like sheep, each of us has turned to our own path; and the 
 
 ## Isaiah 53:7
 
-He was oppressed and afflicted, yet He remained silent; He was led like a lamb to the slaughter, and as a sheep before its shearers is silent, so He remained silent.
+He was oppressed and afflicted, yet He did not open His mouth; He was led like a lamb to the slaughter, and as a sheep before its shearers is silent, so He did not open His mouth.
 
 ## Isaiah 53:8
 
@@ -42,7 +42,7 @@ Yet it was the Lord’s will to crush Him and cause Him to suffer. When He makes
 
 ## Isaiah 53:11
 
-After He has suffered, He will see the light of life and be satisfied; by His knowledge, my righteous servant will justify many, for He will bear their iniquities.
+After He has suffered, He will see the light of life and be satisfied; by His knowledge, My righteous servant will justify many, for He will bear their iniquities.
 
 ## Isaiah 53:12
 

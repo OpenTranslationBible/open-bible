@@ -10,7 +10,7 @@ Hezekiah then turned and faced the wall and prayed to the Lord,
 
 ## Isaiah 38:3
 
-saying, “Remember, Lord, how I have walked before you with wholehearted devotion and in truth, and have done what is good in your sight.” And Hezekiah wept bitterly.
+saying, “Remember, Lord, how I have walked before You with wholehearted devotion and in truth, and have done what is good in Your sight.” And Hezekiah wept bitterly.
 
 ## Isaiah 38:4
 
@@ -46,11 +46,11 @@ I said, “I will not see the Lord in the land of the living; I will no longer l
 
 ## Isaiah 38:12
 
-Like a shepherd’s tent, my dwelling is pulled up and taken from me. Like a weaver, I have rolled up my life, and he cuts me off from the loom; from day to night you bring me to an end.
+Like a shepherd’s tent, my dwelling is pulled up and taken from me. Like a weaver, I have rolled up my life, and He cuts me off from the loom; from day to night You bring me to an end.
 
 ## Isaiah 38:13
 
-I composed myself until morning, but like a lion, he breaks all my bones; from day to night you bring me to an end.
+I composed myself until morning, but like a lion, He breaks all my bones; from day to night You bring me to an end.
 
 ## Isaiah 38:14
 
@@ -66,15 +66,15 @@ Lord, by such things people live; and in all these is the life of my spirit. Res
 
 ## Isaiah 38:17
 
-Surely it was for my benefit that I suffered such bitterness. In your love, you have kept me from the pit of destruction; you have cast all my sins behind your back.
+Surely it was for my benefit that I suffered such bitterness. In Your love, You have kept me from the pit of destruction; You have cast all my sins behind Your back.
 
 ## Isaiah 38:18
 
-For the realm of the dead cannot thank you, nor can death praise you; those who descend to the grave cannot hope for your faithfulness.
+For the realm of the dead cannot thank You, nor can death praise You; those who descend to the grave cannot hope for Your faithfulness.
 
 ## Isaiah 38:19
 
-The living, the living—they give thanks to you, as I do today; parents tell their children about your faithfulness.
+The living, the living—they give thanks to You, as I do today; parents tell their children about Your faithfulness.
 
 ## Isaiah 38:20
 

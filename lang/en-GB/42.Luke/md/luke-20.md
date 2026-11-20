@@ -10,7 +10,7 @@ They spoke to Him, saying, “Tell us by what authority You are doing these thin
 
 ## Luke 20:3
 
-He responded to them, “I will also ask you something. Let me know:
+He responded to them, “I will also ask you something. Let Me know:
 
 ## Luke 20:4
 
@@ -64,14 +64,14 @@ So they cast him out of the vineyard and killed him. What, then, will the owner 
 
 ## Luke 20:16
 
-He will come and deal with those tenants and give the vineyard to others.” When the people heard this, they said, “May it never be!”
+He will come and kill those tenants and give the vineyard to others.” When the people heard this, they said, “May it never be!”
 
 ## Luke 20:17
 
 Jesus looked directly at them and said, “Then what is the meaning of that which is written:
 
-> ‘The stone which the builders rejected
-> has become the chief cornerstone’?
+>  ‘The stone which the builders rejected has become the chief cornerstone’
+> ?
 
 ## Luke 20:18
 
@@ -127,15 +127,15 @@ Now there were seven brothers. The first one married a woman and died without ch
 
 ## Luke 20:30
 
-Then the second married her, and died
+Then the second married her, and died,
 
 ## Luke 20:31
 
-and then the third married her, and died and so it was with all the other brothers, until all seven died, leaving no children.
+and then the third married her, and died; and so it was with all the other brothers, until all seven died, leaving no children.
 
 ## Luke 20:32
 
-Lastly, the woman, she also died.
+Lastly, the woman also died.
 
 ## Luke 20:33
 

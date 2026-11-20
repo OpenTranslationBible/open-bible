@@ -6,11 +6,11 @@ Therefore, since we are surrounded by such a great cloud of witnesses, let us ri
 
 ## Hebrews 12:2
 
-fixing our eyes on Jesus, the originator and perfecter of our faith. For the joy set before him, he endured the cross, despising its shame, and has sat down at the right hand of the throne of God.
+fixing our eyes on Jesus, the originator and perfecter of our faith. For the joy set before Him, He endured the cross, despising its shame, and has sat down at the right hand of the throne of God.
 
 ## Hebrews 12:3
 
-Consider him who endured such hostility from sinners, so that you will not grow weary and lose heart.
+Consider Him who endured such hostility from sinners, so that you will not grow weary and lose heart.
 
 ## Hebrews 12:4
 
@@ -20,13 +20,13 @@ In your struggle against sin, you have not yet resisted to the extent of sheddin
 
 And have you forgotten the exhortation which addresses you as sons?
 
-> It says, “My son, do not take lightly the Lord’s discipline,
-> and do not lose heart when he rebukes you,
+>  It says, “My son, do not take lightly the Lord’s discipline,
+>  and do not lose heart when He rebukes you,
 
 ## Hebrews 12:6
 
-> because the Lord disciplines the one he loves,
-> and he chastens every son he accepts.”
+> because the Lord disciplines the one He loves,
+>  and He chastens every son He accepts.”
 
 ## Hebrews 12:7
 
@@ -42,7 +42,7 @@ Moreover, we have all had earthly fathers who disciplined us and we respected th
 
 ## Hebrews 12:10
 
-They disciplined us for a short time as they thought best; but God disciplines us for our good, that we may share in his holiness.
+They disciplined us for a short time as they thought best; but God disciplines us for our good, that we may share in His holiness.
 
 ## Hebrews 12:11
 
@@ -102,11 +102,11 @@ to Jesus, the mediator of a new covenant, and to the sprinkled blood that speaks
 
 ## Hebrews 12:25
 
-See to it that you do not refuse him who speaks. For if they did not escape when they refused him who warned them on earth, how much less will we escape if we turn away from him who warns us from heaven?
+See to it that you do not refuse Him who speaks. For if they did not escape when they refused Him who warned them on earth, how much less will we escape if we turn away from Him who warns us from heaven?
 
 ## Hebrews 12:26
 
-At that time his voice caused the earth to tremble, but now he has promised, “Once more I will shake not only the earth but also the heavens.”
+At that time His voice caused the earth to tremble, but now He has promised, “Once more I will shake not only the earth but also the heavens.”
 
 ## Hebrews 12:27
 
@@ -118,4 +118,4 @@ Therefore, since we are receiving a kingdom that cannot be shaken, let us be gra
 
 ## Hebrews 12:29
 
-for our God is an all consuming fire.
+for our God is a consuming fire.

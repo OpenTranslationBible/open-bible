@@ -6,7 +6,7 @@ Dear brothers and sisters, we wish to share with you the grace of God that has b
 
 ## 2 Corinthians 8:2
 
-That during a severe trial of affliction, their abundant joy and profound poverty overflowed into a wealth of generosity.
+that during a severe trial of affliction, their abundant joy and profound poverty overflowed into a wealth of generosity.
 
 ## 2 Corinthians 8:3
 
@@ -14,11 +14,11 @@ For I can testify that according to their means, and even beyond their means, th
 
 ## 2 Corinthians 8:4
 
-Begging us with much urging for the favour of participation in the support of the saints,
+begging us with much urging for the favour of participation in the support of the saints,
 
 ## 2 Corinthians 8:5
 
-And this, beyond what we had anticipated, for they first dedicated themselves to the Lord and to us in accordance with God's will.
+and this, beyond what we had anticipated, for they first dedicated themselves to the Lord and to us in accordance with God’s will.
 
 ## 2 Corinthians 8:6
 
@@ -54,11 +54,11 @@ For this is not intended to ease others and burden you, but as a matter of fairn
 
 ## 2 Corinthians 8:14
 
-At this present time your abundance will meet their need, so that their abundance may also meet your need, leading to fairness;
+at this present time your abundance will meet their need, so that their abundance may also meet your need, leading to fairness;
 
 ## 2 Corinthians 8:15
 
-As the scripture says: “The one who collected much did not have too much, and the one who collected little did not have too little.”
+as the scripture says: “The one who collected much did not have too much, and the one who collected little did not have too little.”
 
 ## 2 Corinthians 8:16
 
@@ -74,15 +74,15 @@ We have sent along with him the brother whose reputation in the matters of the g
 
 ## 2 Corinthians 8:19
 
-And not only that, but he has also been appointed by the churches to travel with us in this gracious work, which is being managed by us for the glory of the Lord Himself, and to demonstrate our readiness,
+and not only that, but he has also been appointed by the churches to travel with us in this gracious work, which is being managed by us for the glory of the Lord Himself, and to demonstrate our readiness,
 
 ## 2 Corinthians 8:20
 
-Taking care so that no one will discredit us in our handling of this generous gift;
+taking care so that no one will discredit us in our handling of this generous gift;
 
 ## 2 Corinthians 8:21
 
-For we are concerned with what is honourable, not only in the sight of the Lord, but also in the sight of people.
+for we are concerned with what is honourable, not only in the sight of the Lord, but also in the sight of people.
 
 ## 2 Corinthians 8:22
 

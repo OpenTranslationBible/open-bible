@@ -14,31 +14,31 @@ So at the Lord’s command, Moses sent them from the wilderness of Paran, all of
 
 ## Numbers 13:4
 
-These were their names: from the tribe of Reuben, Shammua son of Zakkur;
+These were their names: from the tribe of Reuben, Shammua son of Zaccur;
 
 ## Numbers 13:5
 
-from Simeon's tribe, Shaphat, son of Hori;
+from Simeon’s tribe, Shaphat, son of Hori;
 
 ## Numbers 13:6
 
-from Judah's tribe, Caleb, son of Jephunneh;
+from Judah’s tribe, Caleb, son of Jephunneh;
 
 ## Numbers 13:7
 
-from Issachar's tribe, Igal son of Joseph;
+from Issachar’s tribe, Igal son of Joseph;
 
 ## Numbers 13:8
 
-from Ephraim's tribe, Hoshea son of Nun;
+from Ephraim’s tribe, Hoshea son of Nun;
 
 ## Numbers 13:9
 
-from Benjamin's tribe, Palti, son of Raphu;
+from Benjamin’s tribe, Palti, son of Raphu;
 
 ## Numbers 13:10
 
-from Zebulun's tribe, Gaddiel, son of Sodi;
+from Zebulun’s tribe, Gaddiel, son of Sodi;
 
 ## Numbers 13:11
 
@@ -46,19 +46,19 @@ from the tribe of Manasseh, which is part of Joseph, Gaddi son of Susi;
 
 ## Numbers 13:12
 
-from Dan's tribe, Ammiel, son of Gemalli;
+from Dan’s tribe, Ammiel, son of Gemalli;
 
 ## Numbers 13:13
 
-from Asher's tribe, Sethur, son of Michael;
+from Asher’s tribe, Sethur, son of Michael;
 
 ## Numbers 13:14
 
-from Naphtali's tribe, Nahbi, son of Vophsi;
+from Naphtali’s tribe, Nahbi, son of Vophsi;
 
 ## Numbers 13:15
 
-from Gad's tribe, Geuel, the son of Machi.
+from Gad’s tribe, Geuel, the son of Machi.
 
 ## Numbers 13:16
 

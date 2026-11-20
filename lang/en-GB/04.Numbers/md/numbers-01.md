@@ -58,7 +58,7 @@ from the tribe of Gad, Eliasaph, son of Deuel;
 
 ## Numbers 1:15
 
-from the tribe of Naphtali, Ahira, son of Enan.
+from the tribe of Naphtali, Ahira, son of Enan.”
 
 ## Numbers 1:16
 

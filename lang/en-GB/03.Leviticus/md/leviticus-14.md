@@ -126,7 +126,7 @@ He shall offer what they can afford, one as a sin offering and the other as a bu
 
 ## Leviticus 14:32
 
-This is the law for anyone who has a defiling skin disease and cannot afford the regular offerings for their cleansing.
+This is the law for anyone who has a defiling skin disease and cannot afford the regular offerings for their cleansing.”
 
 ## Leviticus 14:33
 
@@ -134,7 +134,7 @@ The Lord also addressed Moses and Aaron, saying:
 
 ## Leviticus 14:34
 
-“When you enter the land of Canaan, which I am giving you as your possession, and I allow a spreading mould in a house in that land,
+“When you enter the land of Canaan, which I am giving you as your possession, and I put a spreading mould in a house in that land,
 
 ## Leviticus 14:35
 

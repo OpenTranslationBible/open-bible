@@ -38,15 +38,15 @@ However, those who died from the plague numbered twenty-four thousand.
 
 ## Numbers 25:10
 
-Then the Lord spoke Moses and said,
+Then the Lord spoke to Moses and said,
 
 ## Numbers 25:11
 
-“Phinehas son of Eleazar, the son of Aaron the priest, has turned my wrath away from the Israelites, for he was zealous as I am among them, so I did not destroy the Israelites in my zeal.
+“Phinehas son of Eleazar, the son of Aaron the priest, has turned My wrath away from the Israelites, for he was zealous as I am among them, so I did not destroy the Israelites in My zeal.
 
 ## Numbers 25:12
 
-Therefore, tell him that I am giving him my covenant of peace.
+Therefore, tell him that I am giving him My covenant of peace.
 
 ## Numbers 25:13
 

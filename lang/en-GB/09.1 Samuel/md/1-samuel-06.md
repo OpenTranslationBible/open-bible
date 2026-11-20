@@ -2,7 +2,7 @@
 
 ## 1 Samuel 6:1
 
-The Ark of the Lord was kept in Philistine territory for seven months.
+The ark of the Lord was kept in Philistine territory for seven months.
 
 ## 1 Samuel 6:2
 
@@ -15,7 +15,7 @@ They answered, “If you return the ark of the God of Israel, do not send it bac
 ## 1 Samuel 6:4
 
 The Philistines asked, “What guilt offering should we send to Him?”  
-They replied, “Five gold tumours and five gold rats, according to the number of the Philistine rulers, because the same plague struck all of you and your rulers.
+ They replied, “Five gold tumours and five gold rats, according to the number of the Philistine rulers, because the same plague struck all of you and your rulers.
 
 ## 1 Samuel 6:5
 
@@ -52,7 +52,7 @@ They placed the ark of the Lord on the cart, along with the box containing the g
 ## 1 Samuel 6:12
 
 Then the cows went straight toward Beth-shemesh, keeping to the road and lowing as they went. They did not turn to the right or the left.  
-The rulers of the Philistines followed them as far as the border of Beth-shemesh.
+ The rulers of the Philistines followed them as far as the border of Beth-shemesh.
 
 ---
 
@@ -67,7 +67,7 @@ The cart came to the field of Joshua of Beth-shemesh and stopped beside a large 
 ## 1 Samuel 6:15
 
 The Levites took down the ark of the Lord and the box beside it containing the gold objects, and they placed them on the large stone.  
-That day the people of Beth-shemesh offered burnt offerings and made sacrifices to the Lord.
+ That day the people of Beth-shemesh offered burnt offerings and made sacrifices to the Lord.
 
 ## 1 Samuel 6:16
 

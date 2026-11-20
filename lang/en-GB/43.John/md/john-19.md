@@ -60,7 +60,7 @@ It was the day of Preparation for the Passover, about the sixth hour. He said to
 
 ## John 19:15
 
-They shouted, “Away with Him! Crucify Him!” Pilate asked, “Shall I crucify your King?” The chief priests answered, “We have no king but Caesar.”
+They shouted, “Away with Him! Away with Him! Crucify Him!” Pilate asked, “Shall I crucify your King?” The chief priests answered, “We have no king but Caesar.”
 
 ---
 
@@ -92,7 +92,7 @@ The chief priests of the Jews said to Pilate, “Do not write, ‘The King of th
 
 ## John 19:22
 
-Pilate replied, “I have written, what I have written.”
+Pilate replied, “What I have written, I have written.”
 
 ---
 

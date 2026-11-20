@@ -43,7 +43,7 @@ His mother said to him, “Your curse be on me, my son; only obey my voice and g
 So he went and got them and brought them to his mother, and she prepared a delicious meal, just the way his father loved.
 
 ## Genesis 27:15
-Then Rebekah took some of Esau's finest garments, which she had in the house, and dressed her younger son Jacob in them.
+Then Rebekah took some of Esau’s finest garments, which she had in the house, and dressed her younger son Jacob in them.
 
 ## Genesis 27:16
 She also covered his hands and the smooth part of his neck with the skins of the goats.

@@ -7,7 +7,7 @@ This is what the Lord says: “Go and purchase a clay jar from a potter, and tak
 Then proceed to the Valley of Ben-Hinnom, near the entrance of the Potsherd Gate, and there proclaim the words I instruct you,
 
 ## Jeremiah 19:3
-and say, ‘Hear the word of the Lord, you kings of Judah and inhabitants of Jerusalem. This is what the Lord of Hosts, the God of Israel, says: Behold, I am about to bring a calamity upon this place which will cause the ears of everyone who hears of it to tingle.
+and say, ‘Hear the word of the Lord, you kings of Judah and inhabitants of Jerusalem. This is what the Lord of hosts, the God of Israel, says: Behold, I am about to bring a calamity upon this place which will cause the ears of everyone who hears of it to tingle.
 
 ## Jeremiah 19:4
 For they have abandoned Me and have made this place alien, burning incense in it to gods neither they nor their ancestors nor the kings of Judah have known, and they have filled this place with the blood of the innocent.
@@ -31,7 +31,7 @@ I will make them consume the flesh of their sons and daughters, and they will ea
 Then break the jar in the presence of those who accompany you,
 
 ## Jeremiah 19:11
-and say to them, ‘This is what the Lord of Hosts says: I will shatter this people and this city just as one breaks a potter’s vessel, which cannot be repaired; and they will bury their dead in Topheth until there is no more room.
+and say to them, ‘This is what the Lord of hosts says: I will shatter this people and this city just as one breaks a potter’s vessel, which cannot be repaired; and they will bury their dead in Topheth until there is no more room.
 
 ## Jeremiah 19:12
 This is what I will do to this place and its inhabitants, declares the Lord, making this city like Topheth.
@@ -43,4 +43,4 @@ The houses in Jerusalem and the houses of the kings of Judah will be defiled lik
 Then Jeremiah returned from Topheth, where the Lord had sent him to prophesy, and he stood in the courtyard of the Lord’s house and spoke to all the people,
 
 ## Jeremiah 19:15
-“This is what the Lord of Hosts, the God of Israel, says: Behold, I am going to bring on this city and all its surrounding towns every disaster I have pronounced against them, because they have stiffened their necks and have not listened to My words.”
+“This is what the Lord of hosts, the God of Israel, says: Behold, I am going to bring on this city and all its surrounding towns every disaster I have pronounced against them, because they have stiffened their necks and have not listened to My words.”

@@ -70,33 +70,33 @@ In this way, those who are last will be first, and those who are first will be l
 
 ## Matthew 20:17
 
-As Jesus was on his way to Jerusalem, he took the twelve disciples aside and said to them,
+As Jesus was on His way to Jerusalem, He took the twelve disciples aside and said to them,
 
 ## Matthew 20:18
 
-“We are going up to Jerusalem, and the Son of Man will be handed over to the chief priests and scribes, and they will condemn him to death.
+“We are going up to Jerusalem, and the Son of Man will be handed over to the chief priests and scribes, and they will condemn Him to death.
 
 ## Matthew 20:19
 
-They will hand him over to the Gentiles to mock, flog, and crucify him, and on the third day he will be raised to life.”
+They will hand Him over to the Gentiles to mock, flog, and crucify Him, and on the third day He will be raised to life.”
 
 ---
 
 ## Matthew 20:20
 
-Then the mother of the sons of Zebedee approached Jesus with her sons, kneeling down and making a request of him.
+Then the mother of the sons of Zebedee approached Jesus with her sons, kneeling down and making a request of Him.
 
 ## Matthew 20:21
 
-He asked her, “What do you wish?” She replied, “Grant that these two sons of mine may sit, one at your right and one at your left, in your kingdom.”
+He asked her, “What do you wish?” She replied, “Grant that these two sons of mine may sit, one at Your right and one at Your left, in Your kingdom.”
 
 ## Matthew 20:22
 
-Jesus responded, “You do not know what you are asking. Are you able to drink the cup that I am about to drink?” They said to him, “We are able.”
+Jesus responded, “You do not know what you are asking. Are you able to drink the cup that I am about to drink?” They said to Him, “We are able.”
 
 ## Matthew 20:23
 
-He said to them, “You will indeed drink from my cup, but to sit at my right or left is not for me to grant. These places are for those for whom they have been prepared by my Father.”
+He said to them, “You will indeed drink from My cup, but to sit at My right or left is not for Me to grant. These places are for those for whom they have been prepared by My Father.”
 
 ## Matthew 20:24
 
@@ -116,13 +116,13 @@ and whoever wants to be first must be your servant—
 
 ## Matthew 20:28
 
-for the Son of Man came not to be served, but to serve, and to offer his life as a ransom for many.”
+just as the Son of Man came not to be served, but to serve, and to offer His life as a ransom for many.”
 
 ---
 
 ## Matthew 20:29
 
-As they departed from Jericho, a large crowd accompanied him.
+As they departed from Jericho, a large crowd accompanied Him.
 
 ## Matthew 20:30
 
@@ -134,12 +134,12 @@ The crowd rebuked them and told them to be quiet, but they shouted all the more,
 
 ## Matthew 20:32
 
-Jesus stopped and called them over. “What do you want me to do for you?” he asked.
+Jesus stopped and called them over. “What do you want Me to do for you?” He asked.
 
 ## Matthew 20:33
 
-They said to him, “Lord, we want our sight.”
+They said to Him, “Lord, we want our sight.”
 
 ## Matthew 20:34
 
-Moved with compassion, Jesus touched their eyes, and immediately they received their sight and followed him.
+Moved with compassion, Jesus touched their eyes, and immediately they received their sight and followed Him.

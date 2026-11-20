@@ -68,7 +68,7 @@ Their land will become a desolation, an object of perpetual scorn; all who pass 
 
 ## Jeremiah 18:17
 
-Like a strong east wind, I will scatter them before the enemy; I will turn away from them and not show My face in the day of their calamity.
+Like a strong east wind, I will scatter them before the enemy; I will turn away from them and not show My face in the day of their calamity.’”
 
 ## Jeremiah 18:18
 

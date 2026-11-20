@@ -1,7 +1,7 @@
 # Exodus Chapter 9
 
 ## Exodus 9:1
-Then the Lord said to Moses, “Go to Pharaoh and tell him, ‘This is what the Lord, the God of the Hebrews, declares: “Release my people, so that they may serve me.”
+Then the Lord said to Moses, “Go to Pharaoh and tell him, ‘This is what the Lord, the God of the Hebrews, declares: “Release My people, so that they may serve Me.”
 
 ## Exodus 9:2
 If you refuse to let them go and continue to restrain them,
@@ -19,7 +19,7 @@ The Lord set a specific time, saying, “Tomorrow the Lord will carry out this a
 And the following day, the Lord did so: all the livestock of the Egyptians perished, but not a single animal belonging to the Israelites died.
 
 ## Exodus 9:7
-Pharaoh sent men to investigate and discovered that not even one of the livestock of the Israelites had died. Yet Pharaoh's heart remained hardened, and he did not release the people.
+Pharaoh sent men to investigate and discovered that not even one of the livestock of the Israelites had died. Yet Pharaoh’s heart remained hardened, and he did not release the people.
 
 ## Exodus 9:8
 Then the Lord instructed Moses and Aaron, “Take handfuls of soot from a kiln, and let Moses throw it into the air in Pharaoh’s presence.
@@ -37,25 +37,25 @@ The magicians were unable to stand before Moses due to the boils, which afflicte
 But the Lord hardened Pharaoh’s heart, and he did not listen to Moses and Aaron, just as the Lord had foretold to Moses.
 
 ## Exodus 9:13
-Then the Lord said to Moses, “Rise early in the morning and stand before Pharaoh, and say to him, ‘This is what the Lord, the God of the Hebrews, declares: “Let my people go, so that they may serve me,
+Then the Lord said to Moses, “Rise early in the morning and stand before Pharaoh, and say to him, ‘This is what the Lord, the God of the Hebrews, declares: “Let My people go, so that they may serve Me,
 
 ## Exodus 9:14
-or this time I will send the full force of my plagues against you, your officials, and your people, so that you may know that there is no one like me in all the earth.
+or this time I will send the full force of My plagues against you, your officials, and your people, so that you may know that there is no one like Me in all the earth.
 
 ## Exodus 9:15
-For by now I could have stretched out my hand and struck you and your people with a plague that would have wiped you from the earth.
+For by now I could have stretched out My hand and struck you and your people with a plague that would have wiped you from the earth.
 
 ## Exodus 9:16
-But I have allowed you to remain for this purpose: to show you my power and to have my name proclaimed throughout the earth.
+But I have allowed you to remain for this purpose: to show you My power and to have My name proclaimed throughout the earth.
 
 ## Exodus 9:17
-You still exalt yourself against my people by not letting them go.
+You still exalt yourself against My people by not letting them go.
 
 ## Exodus 9:18
 Therefore, at this time tomorrow, I will send the worst hailstorm that has ever fallen on Egypt, from the day it was founded until now.
 
 ## Exodus 9:19
-Issue a command now to bring your livestock and everything you have in the field to a place of shelter, for the hail will fall on every person and animal that is found in the field and is not brought inside, and they will die.’”
+Issue a command now to bring your livestock and everything you have in the field to a place of shelter, for the hail will fall on every person and animal that is found in the field and is not brought inside, and they will die.”’”
 
 ## Exodus 9:20
 Those among Pharaoh’s officials who feared the word of the Lord hurried to bring their servants and their livestock indoors.

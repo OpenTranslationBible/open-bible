@@ -1,16 +1,16 @@
 # Exodus Chapter 10
 
 ## Exodus 10:1
-Then the Lord said to Moses, “Go to Pharaoh, for I have hardened his heart and the hearts of his servants, so that I may perform these signs of mine among them,
+Then the Lord said to Moses, “Go to Pharaoh, for I have hardened his heart and the hearts of his servants, so that I may perform these signs of Mine among them,
 
 ## Exodus 10:2
-that you may recount to your sons and grandsons how I made a mockery of the Egyptians and how I performed my signs among them, so that you may know that I am the Lord.”
+that you may recount to your sons and grandsons how I made a mockery of the Egyptians and how I performed My signs among them, so that you may know that I am the Lord.”
 
 ## Exodus 10:3
-So Moses and Aaron approached Pharaoh and conveyed the message: “This is what the Lord, the God of the Hebrews, declares: ‘How long will you refuse to humble yourself before me? Allow my people to go, so that they may serve me.
+So Moses and Aaron approached Pharaoh and conveyed the message: “This is what the Lord, the God of the Hebrews, declares: ‘How long will you refuse to humble yourself before Me? Allow My people to go, so that they may serve Me.
 
 ## Exodus 10:4
-For if you continue to refuse to let my people go, take note, tomorrow I will bring locusts into your territory.
+For if you continue to refuse to let My people go, take note, tomorrow I will bring locusts into your territory.
 
 ## Exodus 10:5
 They will cover the surface of the land so that no one will be able to see it. They will devour what is left to you after the hail, including every tree that grows in your fields.

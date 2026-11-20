@@ -6,7 +6,7 @@ And the word of Samuel was spread throughout all Israel.
 
 ---
 
-Now the Israelites went out to fight against the Philistines. They camped at Ebenezer, and the Philistines set up camp at Aphek.
+ Now the Israelites went out to fight against the Philistines. They camped at Ebenezer, and the Philistines set up camp at Aphek.
 
 ## 1 Samuel 4:2
 
@@ -27,7 +27,7 @@ When the ark of the covenant of the Lord came into the camp, all Israel raised s
 ## 1 Samuel 4:6
 
 The Philistines heard the noise of the shout and asked, “What’s this loud shouting in the Hebrew camp?”  
-When they learned that the ark of the Lord had come into the camp,
+ When they learned that the ark of the Lord had come into the camp,
 
 ## 1 Samuel 4:7
 
@@ -60,12 +60,12 @@ A man from the tribe of Benjamin ran from the battle line and came to Shiloh tha
 ## 1 Samuel 4:13
 
 When he arrived, Eli was sitting on his seat by the side of the road, watching, for his heart trembled for the ark of God.  
-When the man entered the town and reported what had happened, the whole city cried out.
+ When the man entered the town and reported what had happened, the whole city cried out.
 
 ## 1 Samuel 4:14
 
 Eli heard the outcry and asked, “What is the meaning of this commotion?”  
-The man hurried over to tell Eli.
+ The man hurried over to tell Eli.
 
 ## 1 Samuel 4:15
 
@@ -74,7 +74,7 @@ Eli was ninety-eight years old, and his eyes were so weak that he could not see.
 ## 1 Samuel 4:16
 
 The man said to Eli, “I have come from the battle line—I fled from it today.”  
-Eli asked, “What happened, my son?”
+ Eli asked, “What happened, my son?”
 
 ## 1 Samuel 4:17
 

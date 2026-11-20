@@ -30,7 +30,7 @@ If you had understood what this means: ‘I desire mercy, not sacrifice,’ you 
 
 ## Matthew 12:8
 
-For the Son of Man holds authority over the Sabbath.”
+For the Son of Man is Lord of the Sabbath.”
 
 ---
 
@@ -44,7 +44,7 @@ Inside was a man with a withered hand. They asked Jesus, “Is it lawful to heal
 
 ## Matthew 12:11
 
-He asked them, “If any of you has a sheep and it falls into a pit on the Sabbath, wouldn't you take hold of it and lift it out?
+He asked them, “If any of you has a sheep and it falls into a pit on the Sabbath, wouldn’t you take hold of it and lift it out?
 
 ## Matthew 12:12
 
@@ -75,20 +75,20 @@ This was done to accomplish what had been spoken through the prophet Isaiah:
 ## Matthew 12:18
 
 > “Behold, My Servant whom I have chosen,
-> My beloved chosen one in whom My soul delights;
-> I have put my Spirit upon him,
-> he shall bring forth justice to the nations.
+>  My beloved, in whom My soul delights;
+>  I will put My Spirit upon Him,
+>  and He shall proclaim justice to the nations.
 
 ## Matthew 12:19
 
 > He will not quarrel nor cry out;
-> no one will hear His voice in the streets.
+>  no one will hear His voice in the streets.
 
 ## Matthew 12:20
 
 > A bruised reed He will not break,
-> and a smouldering wick He will not snuff out,
-> until He leads justice to victory.
+>  and a smouldering wick He will not snuff out,
+>  until He leads justice to victory.
 
 ## Matthew 12:21
 

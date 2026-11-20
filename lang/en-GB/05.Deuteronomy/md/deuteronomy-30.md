@@ -58,4 +58,4 @@ I declare to you today that you will certainly perish. You will not prolong your
 I call heaven and earth to witness against you today that I have set before you life and death, blessings and curses. Now choose life, so that you and your descendants may live
 
 ## Deuteronomy 30:20
-by loving the Lord your God, listening to His voice, and holding fast to Him. For the Lord is your life, and He will give you many years in the land He swore to give to your fathers, Abraham, Isaac, and Jacob.
+by loving the Lord your God, listening to His voice, and holding fast to Him. For the Lord is your life, and He will give you many years in the land He swore to give to your fathers, Abraham, Isaac, and Jacob.”

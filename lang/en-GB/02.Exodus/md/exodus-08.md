@@ -1,7 +1,7 @@
 # Exodus Chapter 8
 
 ## Exodus 8:1
-Then the Lord spoke to Moses, “Go to Pharaoh and say to him, ‘This is what the Lord declares: Let my people go, so that they may serve me.
+Then the Lord spoke to Moses, “Go to Pharaoh and say to him, ‘This is what the Lord declares: Let My people go, so that they may serve Me.
 
 ## Exodus 8:2
 But if you refuse to let them go, I will bring a plague of frogs upon your entire land.
@@ -55,19 +55,19 @@ They did this, and when Aaron stretched out his hand with the staff and struck t
 The magicians tried to produce gnats by their secret arts, but they could not. There were gnats on people and animals everywhere.
 
 ## Exodus 8:19
-The magicians said to Pharaoh, “This is the work of God.” But Pharaoh’s heart was stubborn, and he would not listen, just as the Lord had said.
+The magicians said to Pharaoh, “This is the finger of God.” But Pharaoh’s heart was stubborn, and he would not listen, just as the Lord had said.
 
 ## Exodus 8:20
-Then the Lord said to Moses, “Rise early in the morning and confront Pharaoh as he goes to the river and say to him, ‘This is what the Lord says: Let my people go, so that they may serve me.
+Then the Lord said to Moses, “Rise early in the morning and confront Pharaoh as he goes to the river and say to him, ‘This is what the Lord says: Let My people go, so that they may serve Me.
 
 ## Exodus 8:21
-If you refuse to let my people go, I will send swarms of flies on you, your officials, your people, and into your houses. The houses of the Egyptians will be full of flies, and even the ground will be covered with them.
+If you refuse to let My people go, I will send swarms of flies on you, your officials, your people, and into your houses. The houses of the Egyptians will be full of flies, and even the ground will be covered with them.
 
 ## Exodus 8:22
-But on that day I will set apart the land of Goshen, where my people live, so that no swarms of flies will be there, so that you will know that I, the Lord, am in this land.
+But on that day I will set apart the land of Goshen, where My people live, so that no swarms of flies will be there, so that you will know that I, the Lord, am in this land.
 
 ## Exodus 8:23
-I will show a difference between my people and your people. This sign will happen tomorrow.’”
+I will show a difference between My people and your people. This sign will happen tomorrow.’”
 
 ## Exodus 8:24
 And the Lord did so. Dense swarms of flies came into Pharaoh’s palace and into the houses of his officials; throughout Egypt, the land was ruined by the flies.

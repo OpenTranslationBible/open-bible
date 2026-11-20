@@ -2,7 +2,7 @@
 
 ## Luke 8:1
 
-Shortly after, Jesus went around from one city and village to another, proclaiming the good news of the kingdom of God. The Twelve were with him,
+Shortly after, Jesus went around from one city and village to another, proclaiming the good news of the kingdom of God. The Twelve were with Him,
 
 ## Luke 8:2
 
@@ -16,7 +16,7 @@ Joanna, the wife of Chuza, Herod’s steward; Susanna; and many others who were 
 
 ## Luke 8:4
 
-As a large crowd was gathering and people from various towns were coming to Jesus, he spoke to them in a parable:
+As a large crowd was gathering and people from various towns were coming to Jesus, He spoke to them in a parable:
 
 ## Luke 8:5
 
@@ -32,7 +32,7 @@ Other seed fell among thorns, which grew up with it and choked it.
 
 ## Luke 8:8
 
-Still other seed fell on good soil. It grew up and produced a crop a hundred times more than was sown.” As he said this, he called out, “Whoever has ears to hear, let them hear.”
+Still other seed fell on good soil. It grew up and produced a crop a hundred times more than was sown.” As He said this, He called out, “Whoever has ears to hear, let them hear.”
 
 ---
 
@@ -44,12 +44,12 @@ His disciples inquired about the meaning of this parable.
 
 He replied, “To you it has been given to know the secrets of the kingdom of God, but to others I speak in parables, so that,
 
-> ‘though seeing, they may not see;
-> though hearing, they may not understand.’
+>  ‘though seeing, they may not see;
+>  though hearing, they may not understand.’
 
 ## Luke 8:11
 
-“The parable's meaning is this: The seed represents the word of God.
+“The parable’s meaning is this: The seed represents the word of God.
 
 ## Luke 8:12
 
@@ -85,11 +85,11 @@ Therefore, be mindful of how you listen. Whoever has will be given more; whoever
 
 ## Luke 8:19
 
-Now Jesus’ mother and brothers came to see him, but they could not get near him because of the crowd.
+Now Jesus’ mother and brothers came to see Him, but they could not get near Him because of the crowd.
 
 ## Luke 8:20
 
-Someone informed him, “Your mother and brothers are standing outside, desiring to see you.”
+Someone informed Him, “Your mother and brothers are standing outside, desiring to see You.”
 
 ## Luke 8:21
 
@@ -99,19 +99,19 @@ He replied, “My mother and brothers are those who hear God’s word and do it.
 
 ## Luke 8:22
 
-On a certain day, Jesus said to his disciples, “Let us cross to the other side of the lake.” So they got into a boat and set out.
+On a certain day, Jesus said to His disciples, “Let us cross to the other side of the lake.” So they got into a boat and set out.
 
 ## Luke 8:23
 
-As they sailed, he fell asleep. A squall came down on the lake, so that the boat was being swamped, and they were in danger.
+As they sailed, He fell asleep. A squall came down on the lake, so that the boat was being swamped, and they were in danger.
 
 ## Luke 8:24
 
-The disciples approached him and woke him, saying, “Master, Master, we’re in peril!” He arose and rebuked the wind and the turbulent waters; the storm subsided, and all was calm.
+The disciples approached Him and woke Him, saying, “Master, Master, we’re in peril!” He arose and rebuked the wind and the turbulent waters; the storm subsided, and all was calm.
 
 ## Luke 8:25
 
-“Where is your faith?” he asked his disciples. Filled with awe and wonder, they questioned one another, “Who is this? He commands even the winds and the water, and they obey him.”
+“Where is your faith?” He asked His disciples. Filled with awe and wonder, they questioned one another, “Who is this? He commands even the winds and the water, and they obey Him.”
 
 ---
 
@@ -121,11 +121,11 @@ They travelled to the region of the Gerasenes, which is across the lake from Gal
 
 ## Luke 8:27
 
-When Jesus stepped ashore, he was met by a man possessed by demons from the town. For a long time, this man had not worn clothes or lived in a house, but had lived in the tombs.
+When Jesus stepped ashore, He was met by a man possessed by demons from the town. For a long time, this man had not worn clothes or lived in a house, but had lived in the tombs.
 
 ## Luke 8:28
 
-When he saw Jesus, he cried out and fell at his feet, shouting loudly, “What do you want with me, Jesus, Son of the Most High God? I beg you, don’t torment me!”
+When he saw Jesus, he cried out and fell at His feet, shouting loudly, “What do You want with me, Jesus, Son of the Most High God? I beg You, don’t torment me!”
 
 ## Luke 8:29
 
@@ -141,7 +141,7 @@ And they pleaded with Jesus repeatedly not to send them into the Abyss.
 
 ## Luke 8:32
 
-A large herd of pigs was feeding there on the hillside. The demons begged Jesus to let them go into the pigs, and he allowed them.
+A large herd of pigs was feeding there on the hillside. The demons begged Jesus to let them go into the pigs, and He allowed them.
 
 ## Luke 8:33
 
@@ -163,11 +163,11 @@ Those who had witnessed it informed the people how the man possessed by demons h
 
 ## Luke 8:37
 
-Then all the people of the region of the Gerasenes asked Jesus to leave them, because they were overwhelmed with fear. So he got into the boat and left.
+Then all the people of the region of the Gerasenes asked Jesus to leave them, because they were overwhelmed with fear. So He got into the boat and left.
 
 ## Luke 8:38
 
-The man from whom the demons had departed pleaded to accompany him, but Jesus sent him away, saying,
+The man from whom the demons had departed pleaded to accompany Him, but Jesus sent him away, saying,
 
 ## Luke 8:39
 
@@ -177,15 +177,15 @@ The man from whom the demons had departed pleaded to accompany him, but Jesus se
 
 ## Luke 8:40
 
-Upon Jesus’ return, a crowd welcomed him, for they were all anticipating his arrival.
+Upon Jesus’ return, a crowd welcomed Him, for they were all anticipating His arrival.
 
 ## Luke 8:41
 
-Then a man named Jairus, a synagogue leader, approached and fell at Jesus’ feet, earnestly requesting him to come to his house
+Then a man named Jairus, a synagogue leader, approached and fell at Jesus’ feet, earnestly requesting Him to come to his house
 
 ## Luke 8:42
 
-because his only daughter, a girl of about twelve, was dying. As Jesus was on his way, the crowds nearly crushed him.
+because his only daughter, a girl of about twelve, was dying. As Jesus was on His way, the crowds nearly crushed Him.
 
 ## Luke 8:43
 
@@ -193,23 +193,23 @@ And a woman was there who had been suffering from bleeding for twelve years, but
 
 ## Luke 8:44
 
-She approached from behind and touched the edge of his cloak, and immediately her bleeding ceased.
+She approached from behind and touched the edge of His cloak, and immediately her bleeding ceased.
 
 ## Luke 8:45
 
-“Who touched me?” Jesus inquired. When they all denied it, Peter remarked, “Master, the people are crowding and pressing against you.”
+“Who touched Me?” Jesus inquired. When they all denied it, Peter remarked, “Master, the people are crowding and pressing against You.”
 
 ## Luke 8:46
 
-But Jesus said, “Someone has touched me; I know that power has gone out from me.”
+But Jesus said, “Someone has touched Me; I know that power has gone out from Me.”
 
 ## Luke 8:47
 
-Then the woman, realising she could not remain unnoticed, came trembling and fell at his feet. In the presence of all the people, she explained why she had touched him and how she had been instantly healed.
+Then the woman, realising she could not remain unnoticed, came trembling and fell at His feet. In the presence of all the people, she explained why she had touched Him and how she had been instantly healed.
 
 ## Luke 8:48
 
-Then he said to her, “Daughter, your faith has made you well. Go in peace.”
+Then He said to her, “Daughter, your faith has made you well. Go in peace.”
 
 ---
 
@@ -223,7 +223,7 @@ Hearing this, Jesus said to Jairus, “Do not fear; just believe, and she will b
 
 ## Luke 8:51
 
-When he arrived at the house of Jairus, he allowed only Peter, John, and James, along with the child’s father and mother, to enter with him.
+When He arrived at the house of Jairus, He allowed only Peter, John, and James, along with the child’s father and mother, to enter with Him.
 
 ## Luke 8:52
 
@@ -231,11 +231,11 @@ Meanwhile, all the people were lamenting and mourning for her. “Cease your wee
 
 ## Luke 8:53
 
-They ridiculed him, being certain that she was dead.
+They ridiculed Him, being certain that she was dead.
 
 ## Luke 8:54
 
-But he took her by the hand and said, “My child, arise!”
+But He took her by the hand and said, “My child, arise!”
 
 ## Luke 8:55
 
@@ -243,4 +243,4 @@ Her spirit returned, and she immediately stood up. Then Jesus instructed them to
 
 ## Luke 8:56
 
-Her parents were astonished, but he instructed them not to tell anyone what had happened.
+Her parents were astonished, but He instructed them not to tell anyone what had happened.

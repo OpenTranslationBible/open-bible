@@ -10,7 +10,7 @@ and when the Lord your God delivers them over to you and you defeat them, you sh
 Avoid intermarrying with them. Do not give your daughters to their sons, nor take their daughters for your sons,
 
 ## Deuteronomy 7:4
-for they will turn your children away from following me to serve other gods. Then the Lord’s anger will be kindled against you, and He will quickly destroy you.
+for they will turn your children away from following Me to serve other gods. Then the Lord’s anger will be kindled against you, and He will quickly destroy you.
 
 ## Deuteronomy 7:5
 This is what you shall do to them: Tear down their altars, smash their sacred stones, cut down their Asherah poles, and burn their carved images in the fire.

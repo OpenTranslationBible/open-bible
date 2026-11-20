@@ -3,15 +3,15 @@
 ## 2 Chronicles 27:1
 
 Jotham was twenty-five years old when he began his reign, and he ruled for sixteen years in Jerusalem.  
-His mother was named Jerushah, the daughter of Zadok.
+ His mother was named Jerushah, the daughter of Zadok.
 
 ---
 
 ## 2 Chronicles 27:2
 
 He did what was right in the sight of the Lord, in accordance with everything that his father Uzziah had done;  
-however, he did not enter the temple of the Lord.  
-But the people continued acting corruptly.
+ however, he did not enter the temple of the Lord.  
+ But the people continued acting corruptly.
 
 ---
 
@@ -24,15 +24,15 @@ He constructed the upper gate of the house of the Lord, and he significantly for
 ## 2 Chronicles 27:4
 
 Moreover, he built cities in the hill country of Judah,  
-and he built fortresses and towers in the wooded areas.
+ and he built fortresses and towers in the wooded areas.
 
 ---
 
 ## 2 Chronicles 27:5
 
 He fought with the king of the Ammonites and prevailed over them.  
-And the Ammonites gave him during that year one hundred talents of silver, ten thousand kors of wheat, and ten thousand of barley.  
-The Ammonites also paid him this amount in the second and third years.
+ And the Ammonites gave him during that year one hundred talents of silver, ten thousand kors of wheat, and ten thousand of barley.  
+ The Ammonites also paid him this amount in the second and third years.
 
 ---
 
@@ -57,4 +57,4 @@ At the age of twenty-five, he began his reign, and he ruled for sixteen years in
 ## 2 Chronicles 27:9
 
 Jotham rested with his ancestors, and they buried him in the city of David;  
-his son Ahaz succeeded him as king.
+ his son Ahaz succeeded him as king.

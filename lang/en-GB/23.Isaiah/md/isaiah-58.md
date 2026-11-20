@@ -1,7 +1,7 @@
 # Isaiah Chapter 58
 
 ## Isaiah 58:1
-“Cry out loudly, do not hold back; Raise your voice like a trumpet, and declare to My people their rebellion, and to the house of Jacob their sins.
+“Cry out loudly, do not hold back; raise your voice like a trumpet, and declare to My people their rebellion, and to the house of Jacob their sins.
 
 ## Isaiah 58:2
 For day by day they seek Me out and delight to know My ways, as if they were a nation that practises righteousness and has not abandoned the ordinance of their God. They ask Me for just decisions and delight in the nearness of God.

@@ -28,13 +28,13 @@ A king who sits on the throne of judgement winnows out all evil with his eyes.
 Who can claim, “I have purified my heart; I am free from my sin”?
 
 ## Proverbs 20:10
-Differing weights and differing measures— both are detestable to the Lord.
+Differing weights and differing measures—both are detestable to the Lord.
 
 ## Proverbs 20:11
 Even a child is known by their actions, whether their conduct is pure and right.
 
 ## Proverbs 20:12
-The ability to hear and see— both are crafted by the Lord.
+The ability to hear and see—both are crafted by the Lord.
 
 ## Proverbs 20:13
 Do not love sleep, or you will grow poor; open your eyes, and you will have food to spare.
@@ -64,7 +64,7 @@ If someone curses their father or mother, their lamp will be snuffed out in dark
 An inheritance claimed hastily will not be blessed in the end.
 
 ## Proverbs 20:22
-Do not declare, “I will repay evil”; instead, wait for the Lord, and he will deliver you.
+Do not declare, “I will repay evil”; instead, wait for the Lord, and He will deliver you.
 
 ## Proverbs 20:23
 Differing weights are an abomination to the Lord, and dishonest scales are not good.

@@ -16,13 +16,13 @@ Suddenly, the Lord said to Moses, Aaron, and Miriam, “Come out to the tent of 
 The Lord descended in a pillar of cloud and stood at the entrance of the tent. He called Aaron and Miriam, and when they both stepped forward,
 
 ## Numbers 12:6
-He said, “Hear my words: If there is a prophet among you, I, the Lord, will reveal myself to them in visions and speak to them in dreams.
+He said, “Hear My words: If there is a prophet among you, I, the Lord, will reveal Myself to them in visions and speak to them in dreams.
 
 ## Numbers 12:7
-This is not the case with my servant Moses; he is faithful in all my house.
+This is not the case with My servant Moses; he is faithful in all My house.
 
 ## Numbers 12:8
-With him, I speak face to face, clearly and not in riddles; he beholds the form of the Lord. Why then were you not afraid to speak against my servant Moses?”
+With him, I speak face to face, clearly and not in riddles; he beholds the form of the Lord. Why then were you not afraid to speak against My servant Moses?”
 
 ## Numbers 12:9
 The anger of the Lord burned against them, and He departed.

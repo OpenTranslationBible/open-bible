@@ -24,12 +24,12 @@ Or do you think that the Scripture speaks without reason when it says that He je
 
 But He gives us greater grace. This is why the Scripture says:
 
-> “God opposes the proud
-> but gives grace to the humble.”
+>  “God opposes the proud but gives grace to the humble.
+> ”
 
 ## James 4:7
 
-So, place yourselves under God's authority. Stand against the devil, and he will flee from you.
+So, place yourselves under God’s authority. Stand against the devil, and he will flee from you.
 
 ## James 4:8
 
@@ -57,7 +57,7 @@ Come now, you who say, “Today or tomorrow we will go to this or that city, spe
 
 ## James 4:14
 
-Yet you do not know what your life will be like tomorrow. You are a mist that appears for a little while and then vanishes.
+Yet you do not know what your life will be like tomorrow. What is your life? You are a mist that appears for a little while and then vanishes.
 
 ## James 4:15
 

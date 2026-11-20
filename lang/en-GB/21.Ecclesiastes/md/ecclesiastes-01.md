@@ -6,7 +6,7 @@ The sayings of the Teacher, descendant of David, ruler in Jerusalem.
 
 ## Ecclesiastes 1:2
 
-“Utter futility,” says the Teacher, “Utter futility! Everything is meaningless.”
+“Utter futility,” says the Teacher, “utter futility! Everything is meaningless.”
 
 ## Ecclesiastes 1:3
 

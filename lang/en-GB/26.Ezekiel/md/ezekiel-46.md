@@ -52,7 +52,7 @@ This is what the Sovereign Lord says: If the prince gives a gift from his inheri
 But if he gives a gift from his inheritance to one of his servants, it shall be his until the year of release; then it shall revert to the prince. His inheritance belongs to his sons only; it is theirs.
 
 ## Ezekiel 46:18
-The prince must not take any of the inheritance of the people, driving them off their property. He shall give his sons their inheritance from his own property, so that none of my people will be separated from their property.’
+The prince must not take any of the inheritance of the people, driving them off their property. He shall give his sons their inheritance from his own property, so that none of My people will be separated from their property.’”
 
 ## Ezekiel 46:19
 Then he brought me through the entrance at the side of the gate to the holy chambers facing north, which belonged to the priests, and showed me a place at the western end.

@@ -10,13 +10,13 @@ And the Lord said to Satan, “Where have you come from?”
 
 ---
 
-Satan answered the Lord, “From roaming throughout the earth and walking back and forth on it.”
+ Satan answered the Lord, “From roaming throughout the earth and walking back and forth on it.”
 
 ---
 
 ## Job 2:3
 
-Then the Lord said to Satan, “Have you considered my servant Job? There is no one like him on earth; he is blameless and upright, a man who fears God and shuns evil. And he still maintains his integrity, though you incited me against him to ruin him without cause.”
+Then the Lord said to Satan, “Have you considered My servant Job? There is no one like him on earth; he is blameless and upright, a man who fears God and shuns evil. And he still maintains his integrity, though you incited Me against him to ruin him without cause.”
 
 ## Job 2:4
 
@@ -24,7 +24,7 @@ Satan replied to the Lord, “Skin for skin! Indeed, a man will give all he has 
 
 ## Job 2:5
 
-But now, stretch out your hand and strike his bone and flesh, and he will surely curse you to your face.”
+But now, stretch out Your hand and strike his bone and flesh, and he will surely curse You to Your face.”
 
 ---
 

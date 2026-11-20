@@ -2,7 +2,7 @@
 
 ## Esther 2:1
 
-After these events, when the anger of King Xerxes had subsided, he remembered Vashti and what she had done, and what had been decreed against her.
+After these events, when the anger of King Ahasuerus had subsided, he remembered Vashti and what she had done, and what had been decreed against her.
 
 ## Esther 2:2
 
@@ -50,7 +50,7 @@ Every day Mordecai walked back and forth near the courtyard of the harem to find
 
 ## Esther 2:12
 
-Before a young woman’s turn came to go in to King Xerxes, she had to complete twelve months of beauty treatments as prescribed: six months with oil of myrrh and six months with perfumes and cosmetics.
+Before a young woman’s turn came to go in to King Ahasuerus, she had to complete twelve months of beauty treatments as prescribed: six months with oil of myrrh and six months with perfumes and cosmetics.
 
 ## Esther 2:13
 
@@ -68,7 +68,7 @@ When the turn came for Esther, the daughter of Abihail, the uncle of Mordecai wh
 
 ## Esther 2:16
 
-Esther was taken to King Xerxes in the royal palace in the tenth month, the month of Tebeth, in the seventh year of his reign.
+Esther was taken to King Ahasuerus in the royal palace in the tenth month, the month of Tebeth, in the seventh year of his reign.
 
 ## Esther 2:17
 
@@ -90,7 +90,7 @@ Esther had not revealed her family background or her people, just as Mordecai ha
 
 ## Esther 2:21
 
-While Mordecai was at the king’s gate, Bigthana and Teresh, two of the king’s officers who guarded the entrance, became angry and plotted to harm King Xerxes.
+While Mordecai was at the king’s gate, Bigthan and Teresh, two of the king’s officers who guarded the entrance, became angry and plotted to harm King Ahasuerus.
 
 ## Esther 2:22
 

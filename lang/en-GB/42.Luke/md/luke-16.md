@@ -52,7 +52,7 @@ And if you have not been trustworthy with what belongs to someone else, who will
 
 ## Luke 16:13
 
-No servant can serve two masters; for either he will hate one and love the other, or he will be devoted to one and despise the other. You cannot serve both God and money.
+No servant can serve two masters; for either he will hate one and love the other, or he will be devoted to one and despise the other. You cannot serve both God and money.”
 
 ---
 
@@ -90,7 +90,7 @@ At his gate was laid a poor man named Lazarus, covered with sores,
 
 ## Luke 16:21
 
-and desiring to eat what fell from the wealthy man's table. Even the dogs came and licked his sores.
+and desiring to eat what fell from the wealthy man’s table. Even the dogs came and licked his sores.
 
 ## Luke 16:22
 

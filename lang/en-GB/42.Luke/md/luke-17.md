@@ -64,7 +64,7 @@ When He noticed them, He instructed, “Go, show yourselves to the priests.” A
 
 ## Luke 17:15
 
-One of them, upon realizing he was healed, returned, glorifying God in a loud voice.
+One of them, upon realising he was healed, returned, glorifying God in a loud voice.
 
 ## Luke 17:16
 
@@ -100,7 +100,7 @@ Then He said to His disciples, “The days are coming when you will long to see 
 
 ## Luke 17:23
 
-People will say to you, ‘Look, there he is!’ or ‘Here he is!’ Do not go running off after them.
+People will say to you, ‘Look, there He is!’ or ‘Here He is!’ Do not go running off after them.
 
 ## Luke 17:24
 

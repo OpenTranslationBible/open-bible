@@ -49,7 +49,7 @@ A voice announces from Dan, proclaiming disaster from the hills of Ephraim.
 “Report this to the nations, proclaim concerning Jerusalem: ‘A besieging army is coming from a distant land, raising a war cry against the cities of Judah.
 
 ## Jeremiah 4:17
-They surround her like watchmen of a field, because she has rebelled against Me,’ declares the Lord.
+They surround her like watchmen of a field, because she has rebelled against Me,’” declares the Lord.
 
 ## Jeremiah 4:18
 “Your conduct and actions have brought this upon you. This is your punishment. How bitter it is! How it pierces to the heart!”

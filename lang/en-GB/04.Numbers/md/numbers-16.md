@@ -86,11 +86,11 @@ Then the Lord addressed Moses and Aaron, saying,
 
 ## Numbers 16:22
 
-But they fell on their faces and said, “O God, the God who gives breath to all living things, will you be angry with the entire assembly when only one man sins?”
+But they fell on their faces and said, “O God, the God who gives breath to all living things, will You be angry with the entire assembly when only one man sins?”
 
 ## Numbers 16:23
 
-And so the Lord spoke to Moses, saying
+And so the Lord spoke to Moses, saying,
 
 ## Numbers 16:24
 
@@ -142,7 +142,7 @@ And fire came forth from the Lord and consumed the 250 men who were offering the
 
 ## Numbers 16:36
 
-And so the Lord spoke to Moses, saying
+And so the Lord spoke to Moses, saying,
 
 ## Numbers 16:37
 
@@ -170,11 +170,11 @@ When the assembly gathered in opposition to Moses and Aaron and turned toward th
 
 ## Numbers 16:43
 
-Moses and Aaron approached the front of the tent of meeting,
+Moses and Aaron approached the front of the tent of meeting.
 
 ## Numbers 16:44
 
-And so the Lord spoke to Moses, saying
+And so the Lord spoke to Moses, saying,
 
 ## Numbers 16:45
 

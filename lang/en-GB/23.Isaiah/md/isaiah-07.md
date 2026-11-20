@@ -26,7 +26,7 @@ Aram, Ephraim, and Remaliah’s son have devised evil against you, saying,
 
 ## Isaiah 7:7
 
-Thus says the Sovereign Lord: “‘It shall not stand, nor shall it come to pass.
+Thus says the Sovereign Lord: “It shall not stand, nor shall it come to pass.
 
 ## Isaiah 7:8
 
@@ -34,7 +34,7 @@ For Damascus is the capital of Aram, and Rezin is the leader of Damascus. Within
 
 ## Isaiah 7:9
 
-The head of Ephraim is Samaria, and the head of Samaria is Remaliah’s son. If you do not stand firm in faith, you will not stand at all.’”
+The head of Ephraim is Samaria, and the head of Samaria is Remaliah’s son. If you do not stand firm in faith, you will not stand at all.”’”
 
 ## Isaiah 7:10
 
@@ -54,7 +54,7 @@ Then Isaiah said, “Hear now, O house of David! Is it not enough to try the pat
 
 ## Isaiah 7:14
 
-Therefore the Lord himself will provide you with a sign: Behold, the young virgin shall conceive and bear a son, and shall call his name Immanuel.
+Therefore the Lord Himself will provide you with a sign: Behold, the virgin shall conceive and bear a son, and shall call his name Immanuel.
 
 ## Isaiah 7:15
 
@@ -68,7 +68,7 @@ for before the boy knows to refuse evil and choose good, the land of the two kin
 
 ## Isaiah 7:17
 
-The Lord will bring upon you, your people, and your father’s house days unlike any since Ephraim separated from Judah—he will bring the king of Assyria.”
+The Lord will bring upon you, your people, and your father’s house days unlike any since Ephraim separated from Judah—He will bring the king of Assyria.”
 
 ## Isaiah 7:18
 

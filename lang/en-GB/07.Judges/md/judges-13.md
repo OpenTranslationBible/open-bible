@@ -32,7 +32,7 @@ He said to me, ‘You will conceive and give birth to a son. Now, do not drink w
 
 ## Judges 13:8
 
-Manoah prayed to the Lord, “Please, Lord, let the man of God you sent come again to teach us how to raise the boy who is to be born.”
+Manoah prayed to the Lord, “Please, Lord, let the man of God You sent come again to teach us how to raise the boy who is to be born.”
 
 ## Judges 13:9
 

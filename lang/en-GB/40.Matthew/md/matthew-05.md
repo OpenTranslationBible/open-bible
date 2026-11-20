@@ -11,42 +11,42 @@ and He began to instruct them, saying:
 ## Matthew 5:3
 
 > “Blessed are those who are poor in spirit,
-> for the kingdom of heaven belongs to them.
+>  for the kingdom of heaven belongs to them.
 
 ## Matthew 5:4
 
 > Blessed are those who mourn,
-> for they shall receive comfort.
+>  for they shall receive comfort.
 
 ## Matthew 5:5
 
 > Blessed are the meek,
-> they shall inherit the earth.
+>  for they shall inherit the earth.
 
 ## Matthew 5:6
 
-> Blessed are those who long for righteousness,
-> for they shall be fulfilled.
+> Blessed are those who hunger and thirst for righteousness,
+>  for they shall be filled.
 
 ## Matthew 5:7
 
 > Blessed are those who show mercy,
-> for they shall be shown mercy.
+>  for they shall be shown mercy.
 
 ## Matthew 5:8
 
 > Blessed are those with a pure heart,
-> for they shall see God.
+>  for they shall see God.
 
 ## Matthew 5:9
 
 > Blessed are those who are peacemakers,
-> for they shall be called the children of God.
+>  for they shall be called the children of God.
 
 ## Matthew 5:10
 
 > Blessed are those who are persecuted for the sake of righteousness,
-> for the kingdom of heaven is theirs.
+>  for the kingdom of heaven is theirs.
 
 ## Matthew 5:11
 
@@ -64,7 +64,7 @@ You are the salt of the earth. But if the salt loses its flavour, how can it be 
 
 ## Matthew 5:14
 
-You are the light of the whole world. A city stood on a hill cannot be hidden.
+You are the light of the whole world. A city on a hill cannot be hidden.
 
 ## Matthew 5:15
 
@@ -158,7 +158,7 @@ But I tell you, do not make any oaths: not by heaven, for it is God’s throne;
 
 ## Matthew 5:35
 
-nor by the earth, for it is His resting place; nor by Jerusalem, for it is the city of the great King.
+nor by the earth, for it is His footstool; nor by Jerusalem, for it is the city of the great King.
 
 ## Matthew 5:36
 
@@ -214,4 +214,4 @@ And if you greet only your own people, what are you doing more than others? Do n
 
 ## Matthew 5:48
 
-Therefore, strive to be as perfect just as your heavenly Father is perfect.
+Therefore, be perfect, just as your heavenly Father is perfect.

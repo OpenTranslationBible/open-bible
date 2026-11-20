@@ -6,7 +6,7 @@ The Lord then spoke to Moses, saying,
 
 ## Numbers 17:2
 
-“Speak to the Israelites and collect from them a staff for each ancestral tribe: twelve staffs, one from each leader of their ancestral tribes. Inscribe each man's name on his staff.
+“Speak to the Israelites and collect from them a staff for each ancestral tribe: twelve staffs, one from each leader of their ancestral tribes. Inscribe each man’s name on his staff.
 
 ## Numbers 17:3
 
@@ -30,7 +30,7 @@ Moses set the staffs before the Lord in the tent of the testimony.
 
 ## Numbers 17:8
 
-The following day, Moses entered the tent and saw that Aaron’s staff, representing the tribe of Levi, had sprouted, blossomed, and produced almonds.
+The following day, Moses entered the tent and saw that Aaron’s staff, representing the tribe of Levi, had sprouted, budded, blossomed, and produced almonds.
 
 ## Numbers 17:9
 
@@ -42,7 +42,7 @@ The Lord instructed Moses, “Return Aaron’s staff in front of the testimony, 
 
 ## Numbers 17:11
 
-Moses followed the Lord's instructions precisely.
+Moses followed the Lord’s instructions precisely.
 
 ## Numbers 17:12
 

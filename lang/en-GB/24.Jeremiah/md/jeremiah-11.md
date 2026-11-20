@@ -6,7 +6,7 @@ This is the word that came to Jeremiah from the Lord, saying:
 
 ## Jeremiah 11:2
 
-Pay attention to the terms of this covenant and convey what it says to the people of Judah and the residents of Jerusalem.
+“Pay attention to the terms of this covenant and convey what it says to the people of Judah and the residents of Jerusalem.
 
 ## Jeremiah 11:3
 
@@ -14,7 +14,7 @@ Say to them, ‘This is what the Lord, the God of Israel, says: “Cursed is the
 
 ## Jeremiah 11:4
 
-the terms which I commanded your ancestors when I brought them out of Egypt, out of the iron furnace, saying, ‘Obey me and do all that I command you, and you will be my people, and I will be your God.’
+the terms which I commanded your ancestors when I brought them out of Egypt, out of the iron furnace, saying, ‘Obey Me and do all that I command you, and you will be My people, and I will be your God.’
 
 ## Jeremiah 11:5
 
@@ -26,7 +26,7 @@ The Lord said to me, “Proclaim all these words in the cities of Judah and in t
 
 ## Jeremiah 11:7
 
-For I solemnly warned your ancestors from the time I brought them up from Egypt until today, persistently saying, ‘Obey me.’
+For I solemnly warned your ancestors from the time I brought them up from Egypt until today, persistently saying, “Obey Me.”
 
 ## Jeremiah 11:8
 
@@ -38,11 +38,11 @@ Then the Lord said to me, “There is a conspiracy among the people of Judah and
 
 ## Jeremiah 11:10
 
-They have returned to the sins of their ancestors, who refused to listen to my words. They have followed other gods to serve them. Both the house of Israel and the house of Judah have broken my covenant which I made with their ancestors.
+They have returned to the sins of their ancestors, who refused to listen to My words. They have followed other gods to serve them. Both the house of Israel and the house of Judah have broken My covenant which I made with their ancestors.
 
 ## Jeremiah 11:11
 
-Therefore this is what the Lord says: ‘I am bringing disaster upon them from which they will not be able to escape. Though they cry out to me, I will not listen to them.
+Therefore this is what the Lord says: ‘I am bringing disaster upon them from which they will not be able to escape. Though they cry out to Me, I will not listen to them.
 
 ## Jeremiah 11:12
 
@@ -50,27 +50,27 @@ The cities of Judah and the inhabitants of Jerusalem will go and cry out to the 
 
 ## Jeremiah 11:13
 
-For your gods are as numerous as your cities, Judah; and the altars you have set up to the shameful god Baal are as many as the streets of Jerusalem.
+For your gods are as numerous as your cities, Judah; and the altars you have set up to the shameful god Baal are as many as the streets of Jerusalem.’
 
 ## Jeremiah 11:14
 
-“So do not pray for this people or offer any plea or petition for them, because I will not listen when they call to me in the time of their disaster.
+“So do not pray for this people or offer any plea or petition for them, because I will not listen when they call to Me in the time of their disaster.
 
 ## Jeremiah 11:15
 
-What is my beloved doing in my house as she carries out her evil schemes with many others? Can consecrated meat avert your punishment? When you engage in your wickedness, then you rejoice.”
+What is My beloved doing in My house as she carries out her evil schemes with many others? Can consecrated meat avert your punishment? When you engage in your wickedness, then you rejoice.”
 
 ## Jeremiah 11:16
 
-The Lord called you a thriving olive tree, beautiful in fruit and form. But with the roar of a mighty storm, he will set it on fire, and its branches will be broken.
+The Lord called you a thriving olive tree, beautiful in fruit and form. But with the roar of a mighty storm, He will set it on fire, and its branches will be broken.
 
 ## Jeremiah 11:17
 
-The Lord of hosts, who planted you, has decreed disaster for you, because the house of Israel and the house of Judah have done evil and provoked me by burning incense to Baal.
+The Lord of hosts, who planted you, has decreed disaster for you, because the house of Israel and the house of Judah have done evil and provoked Me by burning incense to Baal.
 
 ## Jeremiah 11:18
 
-Because the Lord made their plot known to me, I understood it, for at that time he showed me what they were doing.
+Because the Lord made their plot known to me, I understood it, for at that time He showed me what they were doing.
 
 ## Jeremiah 11:19
 
@@ -78,7 +78,7 @@ I was like a gentle lamb led to the slaughter; I did not realise that they had p
 
 ## Jeremiah 11:20
 
-But you, Lord of hosts, who judge righteously and test the heart and mind, let me see your vengeance on them, for to you I have committed my cause.
+But You, Lord of hosts, who judge righteously and test the heart and mind, let me see Your vengeance on them, for to You I have committed my cause.
 
 ## Jeremiah 11:21
 

@@ -88,7 +88,7 @@ They also made the turban of fine linen, the decorated caps, and the undergarmen
 The sash was crafted from finely twisted linen and violet, purple, and scarlet yarn, the work of an embroiderer, as the Lord commanded Moses.
 
 ## Exodus 39:30
-They made the plate, the sacred emblem, of pure gold and engraved on it, like an inscription on a seal: "Holy to the Lord."
+They made the plate, the sacred emblem, of pure gold and engraved on it, like an inscription on a seal: “Holy to the Lord.”
 
 ## Exodus 39:31
 A violet cord was attached to it to fasten it to the turban, as the Lord commanded Moses.

@@ -78,9 +78,9 @@ storing up for themselves the treasure of a good foundation for the future, so t
 
 ## 1 Timothy 6:20
 
-Timothy, guard what has been entrusted to you, avoiding worldly, empty chatter and the opposing arguments of what is falsely called "knowledge"—
+Timothy, guard what has been entrusted to you, avoiding worldly, empty chatter and the opposing arguments of what is falsely called “knowledge”—
 
 ## 1 Timothy 6:21
 
 which some have professed and as a result have drifted away from the faith.  
-May grace be with you.
+ May grace be with you.

@@ -46,7 +46,7 @@ They passed the first and second guards and came to the iron gate leading to the
 
 ## Acts 12:11
 
-Peter came to himself and said, “Now I am certain that the Lord has sent his angel and rescued me from Herod’s grasp and from all that the Jewish people were expecting.”
+Peter came to himself and said, “Now I am certain that the Lord has sent His angel and rescued me from Herod’s grasp and from all that the Jewish people were expecting.”
 
 ## Acts 12:12
 

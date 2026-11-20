@@ -19,7 +19,7 @@ He shall slaughter the young bull before the Lord, and Aaron’s sons, the pries
 He shall skin the burnt offering and cut it into its pieces.
 
 ## Leviticus 1:7
-Aaron's sons, the priests, shall place fire on the altar and arrange wood on the fire.
+Aaron’s sons, the priests, shall place fire on the altar and arrange wood on the fire.
 
 ## Leviticus 1:8
 Then Aaron’s sons, the priests, shall arrange the pieces, including the head and the fat, on the wood that is on the fire on the altar.

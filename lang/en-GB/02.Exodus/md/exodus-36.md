@@ -2,7 +2,7 @@
 
 ## Exodus 36:1
 
-Bezalel, Oholiab, and every skilled individual to whom the Lord has imparted wisdom and understanding to execute all the work for constructing the sanctuary, shall carry out the work in accordance with all that the Lord has commanded.
+Bezalel, Oholiab, and every skilled individual to whom the Lord has imparted wisdom and understanding to execute all the work for constructing the sanctuary, shall carry out the work in accordance with all that the Lord has commanded.”
 
 ## Exodus 36:2
 
@@ -94,7 +94,7 @@ They crafted twenty frames for the southern side of the tabernacle
 
 ## Exodus 36:24
 
-and forty silver bases to support them —two bases for each frame, one under each tenon.
+and forty silver bases to support them—two bases for each frame, one under each tenon.
 
 ## Exodus 36:25
 

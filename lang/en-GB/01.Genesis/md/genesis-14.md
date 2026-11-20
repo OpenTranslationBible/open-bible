@@ -19,7 +19,7 @@ In the fourteenth year, Kedorlaomer and the kings with him went out and defeated
 and the Horites in their hill country of Seir, as far as El Paran near the wilderness.
 
 ## Genesis 14:7
-Then they turned back and came to En Mishpat (which is Kadesh), and conquered the whole territory of the Amalekites, and also the Amorites who dwelt in Hazezon Tamar.
+Then they turned back and came to En Mishpat (which is Kadesh), and conquered the whole territory of the Amalekites, and also the Amorites who dwelt in Hazazon Tamar.
 
 ## Genesis 14:8
 Then the king of Sodom, the king of Gomorrah, the king of Admah, the king of Zeboiim, and the king of Bela (that is, Zoar) came out and drew up their battle lines in the Valley of Siddim

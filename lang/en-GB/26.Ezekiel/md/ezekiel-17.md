@@ -43,7 +43,7 @@ He took a member of the royal family and made a covenant with him, putting him u
 so that the kingdom would be humbled, not exalting itself, but maintaining the covenant to survive.
 
 ## Ezekiel 17:15
-But he rebelled against him by sending his envoys to Egypt for horses and a large army. Will he succeed? Can he break the covenant and escape?
+But he rebelled against him by sending his envoys to Egypt for horses and a large army. Will he succeed? Will the one who does such things escape? Can he break the covenant and escape?
 
 ## Ezekiel 17:16
 As surely as I live, declares the Sovereign Lord, he shall die in Babylon, in the land of the king who put him on the throne, whose oath he despised and whose covenant he broke.
@@ -55,16 +55,16 @@ Pharaoh with his mighty army and great horde will not assist him in war, when ra
 He despised the oath by breaking the covenant. Despite giving his hand in pledge, he did all these things; he shall not escape.
 
 ## Ezekiel 17:19
-Therefore, this is what the Sovereign Lord declares: As surely as I live, I will repay him for disregarding my oath and breaking my covenant.
+Therefore, this is what the Sovereign Lord declares: As surely as I live, I will repay him for disregarding My oath and breaking My covenant.
 
 ## Ezekiel 17:20
-I will spread my net for him, and he will be ensnared in my trap. I will bring him to Babylon and execute judgment on him there for being unfaithful to me.
+I will spread My net for him, and he will be ensnared in My trap. I will bring him to Babylon and execute judgment on him there for being unfaithful to Me.
 
 ## Ezekiel 17:21
 All his choice troops will fall by the sword, and the survivors will be scattered to every wind. Then you will know that I, the Lord, have spoken.
 
 ## Ezekiel 17:22
-This is what the Sovereign Lord says: I myself will take a sprig from the lofty top of a cedar and plant it; I will break off a tender shoot from its topmost branches and plant it on a high and lofty mountain.
+This is what the Sovereign Lord says: I Myself will take a sprig from the lofty top of a cedar and plant it; I will break off a tender shoot from its topmost branches and plant it on a high and lofty mountain.
 
 ## Ezekiel 17:23
 On the mountain heights of Israel I will plant it, so that it may produce branches and bear fruit and become a magnificent cedar. Birds of every kind will nest under it; they will find shelter in the shade of its branches.

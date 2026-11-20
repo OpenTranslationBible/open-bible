@@ -14,7 +14,7 @@ When I arrive, those whom you approve, I will send with letters to deliver your 
 
 ## 1 Corinthians 16:4
 
-And if it seems suitable for me to go also, they will accompany me.
+and if it seems suitable for me to go also, they will accompany me.
 
 ## 1 Corinthians 16:5
 
@@ -22,7 +22,7 @@ I will come to you after passing through Macedonia, for I am travelling through 
 
 ## 1 Corinthians 16:6
 
-And it is possible that I will stay with you, or even spend the winter, so that you may assist me on my journey, wherever I go.
+and it is possible that I will stay with you, or even spend the winter, so that you may assist me on my journey, wherever I go.
 
 ## 1 Corinthians 16:7
 
@@ -34,7 +34,7 @@ However, I plan to remain in Ephesus until Pentecost;
 
 ## 1 Corinthians 16:9
 
-For a great opportunity for effective work has opened to me, and there are many opponents.
+for a great door for effective work has opened to me, and there are many opponents.
 
 ## 1 Corinthians 16:10
 
@@ -62,7 +62,7 @@ Now I urge you, brothers and sisters: you know the household of Stephanas, that 
 
 ## 1 Corinthians 16:16
 
-That you also be in subjection to such people and to everyone who helps in the work and labours.
+that you also be in subjection to such people and to everyone who helps in the work and labours.
 
 ## 1 Corinthians 16:17
 
@@ -82,7 +82,7 @@ All the believers send you greetings. Embrace one another with a holy kiss.
 
 ## 1 Corinthians 16:21
 
-See this greeting is written by me, Paul, by my own hand.
+This greeting is written by me, Paul, by my own hand.
 
 ## 1 Corinthians 16:22
 

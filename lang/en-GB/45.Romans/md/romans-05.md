@@ -34,7 +34,7 @@ But God demonstrates His love for us in this: while we were still sinners, Chris
 
 ## Romans 5:9
 
-Much more then, now that we have been justified by His blood, we shall be saved from God's wrath through Him.
+Much more then, now that we have been justified by His blood, we shall be saved from God’s wrath through Him.
 
 ## Romans 5:10
 

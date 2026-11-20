@@ -6,7 +6,7 @@ Early in the morning, the chief priests, along with the elders, scribes, and the
 
 ## Mark 15:2
 
-Pilate questioned Him, “Are you the King of the Jews?” Jesus replied, “You have said it.”
+Pilate questioned Him, “Are You the King of the Jews?” Jesus replied, “You have said it.”
 
 ## Mark 15:3
 
@@ -14,7 +14,7 @@ The chief priests began to bring numerous accusations against Him.
 
 ## Mark 15:4
 
-Pilate questioned Him again, “Do you not answer? See how many charges they bring against you.”
+Pilate questioned Him again, “Do You not answer? See how many charges they bring against You.”
 
 ## Mark 15:5
 

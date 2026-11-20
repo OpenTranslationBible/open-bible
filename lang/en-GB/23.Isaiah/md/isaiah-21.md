@@ -28,7 +28,7 @@ And the watchman called out, “Day after day, my lord, I stand on the watchtowe
 And behold, here comes a chariot of men, with a pair of horsemen. And he answered, saying, ‘Babylon has fallen, has fallen! All the images of its gods lie shattered on the ground!’”
 
 ## Isaiah 21:10
-O my crushed people, threshed on the threshing floor, what I have heard from the Lord Almighty, the God of Israel, I declare to you.
+O my crushed people, threshed on the threshing floor, what I have heard from the Lord of hosts, the God of Israel, I declare to you.
 
 ## Isaiah 21:11
 A proclamation concerning Edom: Someone calls to me from Seir, “Watchman, what is left of the night? Watchman, what is left of the night?”

@@ -26,7 +26,7 @@ In Christ Jesus, neither circumcision nor uncircumcision has any significance. W
 
 ## Galatians 5:7
 
-You were progressing well. Who hindered you from following the truth?
+You were running well. Who hindered you from following the truth?
 
 ## Galatians 5:8
 
@@ -94,7 +94,7 @@ gentleness, and self-control. Against these things, there is no law.
 
 ## Galatians 5:24
 
-Those who belong to Christ Jesus have put to death the flesh with its passions and desires.
+Those who belong to Christ Jesus have crucified the flesh with its passions and desires.
 
 ## Galatians 5:25
 

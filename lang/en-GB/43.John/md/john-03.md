@@ -6,7 +6,7 @@ Now there was a Pharisee named Nicodemus, a member of the Jewish ruling council.
 
 ## John 3:2
 
-He came to Jesus by night and said to Him, “Rabbi, we know that you are a teacher who has come from God; for no one can perform these signs you are doing unless God is with him.”
+He came to Jesus by night and said to Him, “Rabbi, we know that You are a teacher who has come from God; for no one can perform these signs You are doing unless God is with him.”
 
 ## John 3:3
 
@@ -82,11 +82,11 @@ This is the judgement: Light has come into the world, but people loved darkness 
 
 ## John 3:20
 
-Those who do evil avoid the light, fearing their deeds will be revealed.
+Those who do evil hate the light and avoid it, fearing their deeds will be revealed.
 
 ## John 3:21
 
-But whoever practices the truth comes into the light, so that it may be evident that what they have done has been done in the sight of God.
+But whoever practices the truth comes into the light, so that it may be evident that what they have done has been done in the sight of God.”
 
 ---
 
@@ -152,4 +152,4 @@ The Father loves the Son and has entrusted everything to His hands.
 
 ## John 3:36
 
-Whoever believes in the Son has eternal life, but whoever rejects the Son will not see life, for God’s displeasure remains on them.
+Whoever believes in the Son has eternal life, but whoever rejects the Son will not see life, for God’s displeasure remains on them.”

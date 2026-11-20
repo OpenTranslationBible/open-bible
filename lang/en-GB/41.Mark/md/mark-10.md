@@ -92,7 +92,7 @@ Looking at him, Jesus loved him and said, “One thing you lack: go, sell all yo
 
 ## Mark 10:22
 
-At this, the man's face fell, and he went away grieving, for he had great wealth.
+At this, the man’s face fell, and he went away grieving, for he had great wealth.
 
 ---
 

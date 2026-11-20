@@ -50,7 +50,7 @@ He said, ‘Look up and see that all the male goats mating with the flock are st
 
 ## Genesis 31:13
 
-I am the God of Bethel, where you anointed a pillar and made a vow to me. Now arise, leave this land, and return to the land of your birth.’”
+I am the God of Bethel, where you anointed a pillar and made a vow to Me. Now arise, leave this land, and return to the land of your birth.’”
 
 ## Genesis 31:14
 
@@ -166,7 +166,7 @@ For twenty years I was in your household. I laboured for you fourteen years for 
 
 ## Genesis 31:42
 
-If the God of my father, the God of Abraham and the One whom Isaac feared, had not been with me, you would surely have sent me away empty-handed. But God has seen my hardship and the toil of my hands, and last night he rebuked you.”
+If the God of my father, the God of Abraham and the One whom Isaac feared, had not been with me, you would surely have sent me away empty-handed. But God has seen my hardship and the toil of my hands, and last night He rebuked you.”
 
 ## Genesis 31:43
 

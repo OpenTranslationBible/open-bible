@@ -4,7 +4,7 @@
 Speak to your brothers, “My people,” and to your sisters, “My beloved.”
 
 ## Hosea 2:2
-“Contend with your mother, contend, for she is not my wife, and I am not her husband. Let her remove her infidelity from her face and her adultery from between her breasts.
+“Contend with your mother, contend, for she is not My wife, and I am not her husband. Let her remove her infidelity from her face and her adultery from between her breasts.
 
 ## Hosea 2:3
 Otherwise, I will strip her bare and expose her as on the day she was born. I will make her like a desert, turn her into parched land, and slay her with thirst.
@@ -25,10 +25,10 @@ She will chase after her lovers but not catch them; she will seek them but not f
 She has not acknowledged that I was the one who gave her the grain, the new wine and the oil, and lavished on her silver and gold, which they used for Baal.
 
 ## Hosea 2:9
-Therefore, I will take back my grain in its time and my new wine in its season. I will also take away my wool and my flax intended to cover her nakedness.
+Therefore, I will take back My grain in its time and My new wine in its season. I will also take away My wool and My flax intended to cover her nakedness.
 
 ## Hosea 2:10
-Now I will expose her lewdness in the sight of her lovers, and no one will rescue her from my hand.
+Now I will expose her lewdness in the sight of her lovers, and no one will rescue her from My hand.
 
 ## Hosea 2:11
 I will put an end to all her celebrations: her feasts, her New Moons, her Sabbaths—all her appointed festivals.
@@ -37,7 +37,7 @@ I will put an end to all her celebrations: her feasts, her New Moons, her Sabbat
 I will destroy her vines and fig trees, of which she said, ‘These are my wages from my lovers.’ I will turn them into a thicket, and wild animals will devour them.
 
 ## Hosea 2:13
-I will punish her for the days she burned incense to the Baals; she adorned herself with rings and jewellery, and went after her lovers, but forgot me,” declares the Lord.
+I will punish her for the days she burned incense to the Baals; she adorned herself with rings and jewellery, and went after her lovers, but forgot Me,” declares the Lord.
 
 ## Hosea 2:14
 “Therefore, I will allure her, bring her into the wilderness, and speak tenderly to her.
@@ -46,7 +46,7 @@ I will punish her for the days she burned incense to the Baals; she adorned hers
 There I will give her back her vineyards, and make the Valley of Achor a door of hope. There she will respond as in the days of her youth, as in the day she came up from the land of Egypt.
 
 ## Hosea 2:16
-“At that time,” declares the Lord, “you will call me ‘my husband’; you will no longer call me ‘my master.’
+“At that time,” declares the Lord, “you will call Me ‘my husband’; you will no longer call Me ‘my master.’
 
 ## Hosea 2:17
 I will remove the names of the Baals from her lips; they will no longer be mentioned by their names.
@@ -55,7 +55,7 @@ I will remove the names of the Baals from her lips; they will no longer be menti
 On that day I will make a covenant for them with the beasts of the field, the birds of the sky, and the creatures that move along the ground. I will abolish bow, sword, and war from the land, so that all may lie down in safety.
 
 ## Hosea 2:19
-I will pledge you to me forever; I will pledge you in righteousness and justice, in love and compassion.
+I will pledge you to Me forever; I will pledge you in righteousness and justice, in love and compassion.
 
 ## Hosea 2:20
 I will pledge you in faithfulness, and you will know the Lord.
@@ -67,4 +67,4 @@ I will pledge you in faithfulness, and you will know the Lord.
 and the earth will respond to the grain, the new wine and the oil, and they will respond to Jezreel.
 
 ## Hosea 2:23
-I will plant her for myself in the land; I will show compassion to the one I called ‘Not my loved one.’ I will say to those called ‘Not my people,’ ‘You are my people’; and they will say, ‘You are my God.’”
+I will plant her for Myself in the land; I will show compassion to the one I called ‘Not My loved one.’ I will say to those called ‘Not My people,’ ‘You are My people’; and they will say, ‘You are my God.’”

@@ -6,7 +6,7 @@ In the church at Antioch there were prophets and teachers: Barnabas, Simeon who 
 
 ## Acts 13:2
 
-As they were worshipping and fasting, serving the Lord, the Holy Spirit spoke, “Set apart Barnabas and Saul for me, they are to do the work to which I have called them.”
+As they were worshipping and fasting, serving the Lord, the Holy Spirit spoke, “Set apart Barnabas and Saul for Me, they are to do the work to which I have called them.”
 
 ## Acts 13:3
 
@@ -94,7 +94,7 @@ After removing him, He raised up David to be their king. God testified concernin
 
 ## Acts 13:23
 
-From David's descendants, God brought forth Jesus as the Saviour for Israel, just as He had promised.
+From David’s descendants, God brought forth Jesus as the Saviour for Israel, just as He had promised.
 
 ## Acts 13:24
 
@@ -124,7 +124,7 @@ When they had completed all that was written about Him, they took Him down from 
 
 ## Acts 13:30
 
-Yet God resurrected Him, from the dead
+Yet God resurrected Him from the dead,
 
 ## Acts 13:31
 
@@ -138,20 +138,20 @@ and for many days He appeared to those who had accompanied Him from Galilee to J
 
 He has fulfilled for us, their children, by raising Jesus. As it is written in the second Psalm:
 
-> ‘You are My Son;
-> today I have become Your Father.’
+>  ‘You are My Son;
+>  today I have become Your Father.’
 
 ## Acts 13:34
 
 God raised Him from the dead, ensuring He would never be subject to decay. As God has said,
 
-> ‘I will grant you the holy and sure blessings promised to David.’
+>  ‘I will grant you the holy and sure blessings promised to David.’
 
 ## Acts 13:35
 
 So it is also stated elsewhere:
 
-> ‘You will not allow Your Holy One to ever decay.’
+>  ‘You will not let Your Holy One see decay.’
 
 ## Acts 13:36
 
@@ -176,10 +176,10 @@ Be careful that what the prophets have said does not happen to you:
 ## Acts 13:41
 
 > ‘Look, you scoffers,
-> look in wonder and vanish,
-> for I am going to do something in your days
-> that you would never believe,
-> even if someone told you.’”
+>  look in wonder and vanish,
+>  for I am going to do something in your days that you would never believe,
+>  even if someone told you.
+> ’”
 
 ---
 
@@ -209,8 +209,8 @@ Then Paul and Barnabas spoke out boldly: “It was necessary to speak the word o
 
 For the Lord has instructed us:
 
-> ‘I have made you a light for the Gentiles,
-> that you may bring salvation to the ends of the earth.’”
+>  ‘I have made you a light for the Gentiles,
+>  that you may bring salvation to the ends of the earth.’”
 
 ## Acts 13:48
 

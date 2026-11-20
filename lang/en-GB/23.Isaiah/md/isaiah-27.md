@@ -1,16 +1,16 @@
 # Isaiah Chapter 27
 
 ## Isaiah 27:1
-On that day, the Lord will punish Leviathan, the swift serpent, with His fierce, great, and mighty sword— Leviathan, the coiling serpent; He will slay the dragon of the sea.
+On that day, the Lord will punish Leviathan, the swift serpent, with His fierce, great, and mighty sword—Leviathan, the coiling serpent; He will slay the dragon of the sea.
 
 ## Isaiah 27:2
-On that day— “Sing of a delightful vineyard:
+On that day—“Sing of a delightful vineyard:
 
 ## Isaiah 27:3
 I, the Lord, am its keeper; I water it continually. I guard it day and night so that no one can harm it.
 
 ## Isaiah 27:4
-I am not angry. If only there were briars and thorns to confront me! I would march against them; I would set them all ablaze.
+I am not angry. If only there were briars and thorns to confront Me! I would march against them; I would set them all ablaze.
 
 ## Isaiah 27:5
 Or let them seek My protection; let them make peace with Me, yes, let them make peace with Me.”
@@ -22,7 +22,7 @@ In the days to come, Jacob will take root, Israel will blossom and sprout, and t
 Has He struck them as He struck those who struck them? Or have they been slain as those were slain who killed them?
 
 ## Isaiah 27:8
-By warfare and exile, you contended with them— with His fierce wind He drove them away, as on the day the east wind blows.
+By warfare and exile, You contended with them—with His fierce wind He drove them away, as on the day the east wind blows.
 
 ## Isaiah 27:9
 Therefore, through this, Jacob’s guilt will be atoned for, and this will be the full measure of the removal of his sin: When he makes all the altar stones like crushed chalk, no Asherah poles or incense altars will remain standing.

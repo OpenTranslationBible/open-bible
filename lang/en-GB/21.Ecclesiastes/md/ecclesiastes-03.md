@@ -10,27 +10,27 @@ A time to be born and a time to pass away, a time to plant and a time to uproot 
 
 ## Ecclesiastes 3:3
 
-A time to take life and a time to heal, a time to dismantle and a time to construct,
+a time to take life and a time to heal, a time to dismantle and a time to construct,
 
 ## Ecclesiastes 3:4
 
-A time to shed tears and a time to laugh, a time to grieve and a time to dance,
+a time to shed tears and a time to laugh, a time to grieve and a time to dance,
 
 ## Ecclesiastes 3:5
 
-A time to disperse stones and a time to collect them, a time to embrace and a time to hold back from embracing,
+a time to disperse stones and a time to collect them, a time to embrace and a time to hold back from embracing,
 
 ## Ecclesiastes 3:6
 
-A time to search and a time to abandon the search, a time to keep and a time to discard,
+a time to search and a time to abandon the search, a time to keep and a time to discard,
 
 ## Ecclesiastes 3:7
 
-A time to rip off and a time to repair, a time to be hold your tongue and a time when you must speak,
+a time to rip off and a time to repair, a time to hold your tongue and a time when you must speak,
 
 ## Ecclesiastes 3:8
 
-A time to love and a time to dislike, a time for conflict and a time for peace.
+a time to love and a time to dislike, a time for conflict and a time for peace.
 
 ## Ecclesiastes 3:9
 
@@ -74,7 +74,7 @@ I also said to myself regarding humans, “God tests them so that they may see t
 
 ## Ecclesiastes 3:19
 
-For the fate of human beings and the fate of animals is the same: As one dies, so dies the other. They all have the same breath; humans have no advantage over animals. Everything is meaningless.
+For the fate of human beings and the fate of animals is the same: as one dies, so dies the other. They all have the same breath; humans have no advantage over animals. Everything is meaningless.
 
 ## Ecclesiastes 3:20
 

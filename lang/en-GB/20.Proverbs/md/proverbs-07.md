@@ -96,14 +96,14 @@ With her many persuasions she entices him; with her smooth lips she seduces him.
 
 Suddenly he follows her as an ox goes to the slaughter,
 
-> or as a deer stepping into a trap,
+>  or as a deer stepping into a trap,
 
 ## Proverbs 7:23
 
 until an arrow pierces his liver;
 
-> as a bird rushes into a snare,
-> not knowing it will cost him his life.
+>  as a bird rushes into a snare,
+>  not knowing it will cost him his life.
 
 ---
 

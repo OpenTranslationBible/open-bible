@@ -19,34 +19,34 @@ The Lord said to me, “Son of man, observe closely, see with your eyes and hear
 Say to the rebellious house of Israel, ‘This is what the Sovereign Lord says: Enough of all your abominations, O house of Israel!
 
 ## Ezekiel 44:7
-In addition to all your other abominations, you brought in foreigners, uncircumcised in heart and flesh, to be in my sanctuary, thus profaning it, my house, while you offered my food, the fat and the blood, and they broke my covenant.
+In addition to all your other abominations, you brought in foreigners, uncircumcised in heart and flesh, to be in My sanctuary, thus profaning it, My house, while you offered My food, the fat and the blood, and they broke My covenant.
 
 ## Ezekiel 44:8
-Instead of taking responsibility for my holy things, you appointed foreigners to take charge of my sanctuary.
+Instead of taking responsibility for My holy things, you appointed foreigners to take charge of My sanctuary.
 
 ## Ezekiel 44:9
-This is what the Sovereign Lord says: No foreigner, uncircumcised in heart and flesh, shall enter my sanctuary, not even the foreigners who live among the Israelites.
+This is what the Sovereign Lord says: No foreigner, uncircumcised in heart and flesh, shall enter My sanctuary, not even the foreigners who live among the Israelites.
 
 ## Ezekiel 44:10
-But the Levites who went far from me when Israel went astray, who went astray from me after their idols, shall bear the punishment for their wrongdoing.
+But the Levites who went far from Me when Israel went astray, who went astray from Me after their idols, shall bear the punishment for their wrongdoing.
 
 ## Ezekiel 44:11
-They may serve in my sanctuary, having oversight at the gates of the house and ministering in the house; they may slaughter the burnt offerings and sacrifices for the people and stand before them to minister to them.
+They may serve in My sanctuary, having oversight at the gates of the house and ministering in the house; they may slaughter the burnt offerings and sacrifices for the people and stand before them to minister to them.
 
 ## Ezekiel 44:12
 Because they ministered to them before their idols and caused the house of Israel to fall into sin, therefore I have sworn against them, declares the Sovereign Lord, that they shall bear the punishment for their wrongdoing.
 
 ## Ezekiel 44:13
-They shall not come near to serve me as priests, nor come near any of my holy things or my most holy offerings; they shall bear their shame and their abominations which they have committed.
+They shall not come near to serve Me as priests, nor come near any of My holy things or My most holy offerings; they shall bear their shame and their abominations which they have committed.
 
 ## Ezekiel 44:14
 Nevertheless, I will appoint them to take responsibility for the house, for all its service and for everything that is to be done in it.
 
 ## Ezekiel 44:15
-But the Levitical priests, the descendants of Zadok, who took responsibility for my sanctuary when the Israelites went astray from me, shall come near to minister before me; they shall stand before me to offer me the fat and the blood, declares the Sovereign Lord.
+But the Levitical priests, the descendants of Zadok, who took responsibility for My sanctuary when the Israelites went astray from Me, shall come near to minister before Me; they shall stand before Me to offer Me the fat and the blood, declares the Sovereign Lord.
 
 ## Ezekiel 44:16
-They alone shall enter my sanctuary; they alone shall come near my table to minister before me and serve me.
+They alone shall enter My sanctuary; they alone shall come near My table to minister before Me and serve Me.
 
 ## Ezekiel 44:17
 When they enter the gates of the inner court, they shall wear linen garments; they must not wear any woollen garment while ministering at the gates of the inner court or inside the house.
@@ -67,10 +67,10 @@ Priests are not to consume wine when they enter the inner court.
 They shall not marry a widow or a divorced woman; they may marry only virgins from the descendants of Israel or a widow who is the widow of a priest.
 
 ## Ezekiel 44:23
-They are to instruct my people on the distinction between the sacred and the ordinary, and guide them in recognizing the difference between the unclean and the clean.
+They are to instruct My people on the distinction between the sacred and the ordinary, and guide them in recognising the difference between the unclean and the clean.
 
 ## Ezekiel 44:24
-In any dispute, the priests are to serve as judges and decide it according to my ordinances. They are to keep my laws and my statutes for all my appointed festivals, and they are to keep my Sabbaths holy.
+In any dispute, the priests are to serve as judges and decide it according to My ordinances. They are to keep My laws and My statutes for all My appointed festivals, and they are to keep My Sabbaths holy.
 
 ## Ezekiel 44:25
 A priest must not defile himself by going near a dead person; however, if the dead person was his father, mother, son, daughter, brother, or unmarried sister, then he may defile himself.

@@ -58,7 +58,7 @@ On the Sabbath, we went outside the city gate to the riverside, where we expecte
 
 ## Acts 16:14
 
-A woman named Lydia, a dealer in purple cloth from the city of Thyatira and a worshiper of God, was listening. The Lord opened her heart to respond to Paul's message.
+A woman named Lydia, a dealer in purple cloth from the city of Thyatira and a worshiper of God, was listening. The Lord opened her heart to respond to Paul’s message.
 
 ## Acts 16:15
 
@@ -112,7 +112,7 @@ Around midnight, Paul and Silas were engaged in prayer and singing hymns to God,
 
 ## Acts 16:26
 
-Suddenly, there was a great earthquake, so that the foundations of the prison were shaken; immediately all the doors were opened, and everyone's chains were unfastened.
+Suddenly, there was a great earthquake, so that the foundations of the prison were shaken; immediately all the doors were opened, and everyone’s chains were unfastened.
 
 ## Acts 16:27
 

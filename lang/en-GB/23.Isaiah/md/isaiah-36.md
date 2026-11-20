@@ -1,7 +1,7 @@
 # Isaiah Chapter 36
 
 ## Isaiah 36:1
-In the fourteenth year of King Hezekiah's reign, Sennacherib, king of Assyria, advanced against all the fortified cities of Judah and took them.
+In the fourteenth year of King Hezekiah’s reign, Sennacherib, king of Assyria, advanced against all the fortified cities of Judah and took them.
 
 ## Isaiah 36:2
 The king of Assyria sent his chief officer from Lachish to Jerusalem to King Hezekiah with a substantial army. He halted by the aqueduct of the Upper Pool, on the road to the Launderer’s Field.
@@ -28,7 +28,7 @@ But if you say to me, “We trust in the Lord our God,” is it not He whose hig
 How then can you repel even one officer of the least of my master’s servants, when you rely on Egypt for chariots and horsemen?
 
 ## Isaiah 36:10
-Moreover, have I come up against this land to destroy it without the Lord’s approval? The Lord himself said to me, “Go up against this land and destroy it.”’”
+Moreover, have I come up against this land to destroy it without the Lord’s approval? The Lord Himself said to me, “Go up against this land and destroy it.”’”
 
 ## Isaiah 36:11
 Then Eliakim, Shebna, and Joah said to the chief officer, “Please speak to your servants in Aramaic, for we understand it. Do not speak to us in Judean in the hearing of the people on the wall.”

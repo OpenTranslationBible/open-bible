@@ -59,7 +59,7 @@ After finishing his prophesying, he went up to the high place.
 ## 1 Samuel 10:14
 
 Saul’s uncle said to him and to his servant, “Where did you go?”  
-And he said, “To look for the donkeys. When we saw that they were not to be found, we went to Samuel.”
+ And he said, “To look for the donkeys. When we saw that they were not to be found, we went to Samuel.”
 
 ## 1 Samuel 10:15
 
@@ -102,7 +102,7 @@ So they ran and took him from there. And when he stood among the people, he was 
 ## 1 Samuel 10:24
 
 Samuel said to all the people, “Do you see the one the Lord has chosen? Surely there is none like him among all the people.”  
-So all the people shouted, “Long live the king!”
+ So all the people shouted, “Long live the king!”
 
 ---
 
@@ -117,4 +117,4 @@ Saul returned to his home in Gibeah, accompanied by the valiant men whose hearts
 ## 1 Samuel 10:27
 
 But some worthless men said, “How can this man save us?” And they despised him and did not bring him any gift.  
-But Saul held his peace.
+ But Saul held his peace.

@@ -74,7 +74,7 @@ They entered into a covenant to seek the Lord God of their fathers with all thei
 
 ## 2 Chronicles 15:13
 
-and those who did not seek the Lord God of Israel faced severe consequences, regardless of their status or gender.
+and those who did not seek the Lord God of Israel would be put to death, whether small or great, man or woman.
 
 ---
 

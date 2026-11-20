@@ -90,7 +90,7 @@ He is permitted to partake of the food of his God, including both the most sacre
 
 ## Leviticus 21:23
 
-but because of his defect, he must not approach the veil or come near the altar, lest he profane my sanctuaries. I am the Lord, who sanctifies them.’”
+but because of his defect, he must not approach the veil or come near the altar, lest he profane My sanctuaries. I am the Lord, who sanctifies them.’”
 
 ## Leviticus 21:24
 

@@ -1,13 +1,13 @@
 # Titus Chapter 1
 
 ## Titus 1:1
-Paul, a servant of God and an apostle of Jesus Christ, for the faith of God's chosen and the knowledge of the truth that leads to godliness—
+Paul, a servant of God and an apostle of Jesus Christ, for the faith of God’s chosen and the knowledge of the truth that leads to godliness—
 
 ## Titus 1:2
 in the hope of eternal life, which God, who does not lie, promised long ages ago,
 
 ## Titus 1:3
-and now, at the appointed time, has revealed through the proclamation entrusted to me by the command of God our Saviour,
+and now, at the appointed time, has revealed His word through the proclamation entrusted to me by the command of God our Saviour,
 
 ## Titus 1:4
 To Titus, my true son in our shared faith: Grace and peace from God the Father and Christ Jesus our Saviour.

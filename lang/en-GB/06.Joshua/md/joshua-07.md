@@ -26,7 +26,7 @@ Joshua tore his clothes and fell face down to the ground before the ark of the L
 
 ## Joshua 7:7
 
-Joshua lamented, “Alas, Sovereign Lord, why did you bring this people across the Jordan, only to deliver us into the hands of the Amorites to destroy us? If only we had been content to dwell on the other side of the Jordan!
+Joshua lamented, “Alas, Sovereign Lord, why did You bring this people across the Jordan, only to deliver us into the hands of the Amorites to destroy us? If only we had been content to dwell on the other side of the Jordan!
 
 ## Joshua 7:8
 
@@ -34,7 +34,7 @@ Pardon me, Lord. What can I say now that Israel has turned its back before its e
 
 ## Joshua 7:9
 
-The Canaanites and all the inhabitants of the land will hear of this, and they will surround us and wipe out our name from the earth. What then will you do for your great name?”
+The Canaanites and all the inhabitants of the land will hear of this, and they will surround us and wipe out our name from the earth. What then will You do for Your great name?”
 
 ## Joshua 7:10
 
@@ -42,7 +42,7 @@ The Lord addressed Joshua, saying, “Rise up! Why are you lying on your face?
 
 ## Joshua 7:11
 
-Israel has sinned; they have violated my covenant, which I commanded them. They have taken some of the things set apart for destruction; they have stolen, lied, and put them among their own belongings.
+Israel has sinned; they have violated My covenant, which I commanded them. They have taken some of the things set apart for destruction; they have stolen, lied, and put them among their own belongings.
 
 ## Joshua 7:12
 
@@ -74,7 +74,7 @@ Joshua had his household come forward man by man, and Achan, son of Carmi, son o
 
 ## Joshua 7:19
 
-Then Joshua addressed Achan, “My son, give praise to the Lord, the God of Israel, and honour him. Tell me what you have done; do not hide it from me.”
+Then Joshua addressed Achan, “My son, give praise to the Lord, the God of Israel, and honour Him. Tell me what you have done; do not hide it from me.”
 
 ## Joshua 7:20
 
@@ -86,7 +86,7 @@ When I saw among the spoils a beautiful robe from Shinar, two hundred shekels of
 
 ## Joshua 7:22
 
-Joshua then dispatched his messengers, they hurried to his tent; and there they found the items, hidden in the tent, with the silver underneath.
+Joshua then dispatched his messengers, and they hurried to his tent; and there they found the items, hidden in the tent, with the silver underneath.
 
 ## Joshua 7:23
 
@@ -102,4 +102,4 @@ Joshua said, “Why have you brought trouble upon us? The Lord will bring troubl
 
 ## Joshua 7:26
 
-Over Achan they raised a large heap of stones, which remains to this day. Then the Lord turned from his fierce anger. Therefore, that place has been called the Valley of Achor to this day.
+Over Achan they raised a large heap of stones, which remains to this day. Then the Lord turned from His fierce anger. Therefore, that place has been called the Valley of Achor to this day.

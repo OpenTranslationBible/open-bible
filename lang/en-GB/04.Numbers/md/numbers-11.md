@@ -1,7 +1,7 @@
 # Numbers Chapter 11
 
 ## Numbers 11:1
-The people began to grumble about their misfortunes in the hearing of the Lord, and when the Lord heard it, his anger was kindled. The fire of the Lord burned among them and consumed some at the outskirts of the camp.
+The people began to grumble about their misfortunes in the hearing of the Lord, and when the Lord heard it, His anger was kindled. The fire of the Lord burned among them and consumed some at the outskirts of the camp.
 
 ## Numbers 11:2
 The people cried out to Moses, and when Moses prayed to the Lord, the fire abated.
@@ -31,10 +31,10 @@ When the dew fell on the camp at night, the manna would come down with it.
 Moses heard the people of every family weeping at the entrance of their tents. The Lord’s anger was greatly aroused, and Moses was troubled.
 
 ## Numbers 11:11
-Moses said to the Lord, “Why have you brought this trouble upon your servant? Why have I not found favour in your eyes, that you lay the burden of all these people on me?
+Moses said to the Lord, “Why have You brought this trouble upon Your servant? Why have I not found favour in Your eyes, that You lay the burden of all these people on me?
 
 ## Numbers 11:12
-Did I conceive all these people? Did I give birth to them, that you should say to me, ‘Carry them in your arms as a nurse carries a nursing infant, to the land you promised their ancestors’?
+Did I conceive all these people? Did I give birth to them, that You should say to me, ‘Carry them in your arms as a nurse carries a nursing infant, to the land You promised their ancestors’?
 
 ## Numbers 11:13
 Where am I to find meat to give to all these people? They keep wailing to me, ‘Give us meat to eat!’
@@ -43,10 +43,10 @@ Where am I to find meat to give to all these people? They keep wailing to me, �
 I am unable to bear the responsibility of all these people alone; it is too overwhelming for me.
 
 ## Numbers 11:15
-If this is how you are going to treat me, please kill me now—if I have found favour in your eyes—and do not let me see my own ruin.”
+If this is how You are going to treat me, please kill me now—if I have found favour in Your eyes—and do not let me see my own ruin.”
 
 ## Numbers 11:16
-The Lord said to Moses, “Gather for me seventy men of the elders of Israel, whom you know to be the elders of the people and their officers. Bring them to the tent of meeting, and have them stand there with you.
+The Lord said to Moses, “Gather for Me seventy men of the elders of Israel, whom you know to be the elders of the people and their officers. Bring them to the tent of meeting, and have them stand there with you.
 
 ## Numbers 11:17
 I will come down and speak with you there, and I will take some of the Spirit that is on you and put it on them. They will share the burden of the people with you so that you will not have to carry it alone.
@@ -58,16 +58,16 @@ Tell the people: ‘Consecrate yourselves for tomorrow, and you shall eat meat, 
 You shall eat it not just for one day, or two days, or five, ten, or twenty days,
 
 ## Numbers 11:20
-but for a whole month, until it comes out of your nostrils and becomes loathsome to you, because you have rejected the Lord who is among you, and have wailed before him, saying, “Why did we ever leave Egypt?”’”
+but for a whole month, until it comes out of your nostrils and becomes loathsome to you, because you have rejected the Lord who is among you, and have wailed before Him, saying, “Why did we ever leave Egypt?”’”
 
 ## Numbers 11:21
-Moses said, “Here I am among six hundred thousand men on foot, and you say, ‘I will give them meat to eat for a whole month!’
+Moses said, “Here I am among six hundred thousand men on foot, and You say, ‘I will give them meat to eat for a whole month!’
 
 ## Numbers 11:22
 Would there be enough if flocks and herds were slaughtered for them? Would there be enough if all the fish in the sea were caught for them?”
 
 ## Numbers 11:23
-The Lord said to Moses, “Is there any limit to the Lord’s power? Now you shall see whether my word will come true for you or not.”
+The Lord said to Moses, “Is there any limit to the Lord’s power? Now you shall see whether My word will come true for you or not.”
 
 ## Numbers 11:24
 So Moses went out and told the people what the Lord had said. He gathered seventy elders of the people and had them stand around the tent.
@@ -76,7 +76,7 @@ So Moses went out and told the people what the Lord had said. He gathered sevent
 Then the Lord came down in the cloud and spoke to him, and took some of the Spirit that was on him and placed it on the seventy elders. When the Spirit rested on them, they prophesied, but did not do so again.
 
 ## Numbers 11:26
-However, two men had remained in the camp; one was named Eldad and the other Medad. The Spirit also rested on them, and they prophesied in the camp.
+However, two men had remained in the camp; one was named Eldad and the other Medad. The Spirit also rested on them. They were among those listed, but they had not gone out to the tent, and they prophesied in the camp.
 
 ## Numbers 11:27
 A young man hurried to Moses and informed him, “Eldad and Medad are prophesying in the camp.”
@@ -85,7 +85,7 @@ A young man hurried to Moses and informed him, “Eldad and Medad are prophesyin
 Joshua son of Nun, who had been Moses’ assistant from his youth, spoke up and said, “Moses, my lord, stop them!”
 
 ## Numbers 11:29
-But Moses replied, “Are you concerned on my behalf? I wish that all the Lord’s people were prophets and that the Lord would put his Spirit on them!”
+But Moses replied, “Are you concerned on my behalf? I wish that all the Lord’s people were prophets and that the Lord would put His Spirit on them!”
 
 ## Numbers 11:30
 Afterwards, Moses and the elders of Israel returned to the camp.

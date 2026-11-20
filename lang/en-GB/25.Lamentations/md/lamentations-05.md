@@ -74,16 +74,16 @@ for Mount Zion is desolate, with wild animals roaming over it.
 
 ## Lamentations 5:19
 
-You, O Lord, reign forever; your throne endures through all generations.
+You, O Lord, reign forever; Your throne endures through all generations.
 
 ## Lamentations 5:20
 
-Why do you forget us perpetually? Why do you forsake us for so long?
+Why do You forget us perpetually? Why do You forsake us for so long?
 
 ## Lamentations 5:21
 
-Bring us back to you, O Lord, so we may return; renew our days as they once were,
+Bring us back to You, O Lord, so we may return; renew our days as they once were,
 
 ## Lamentations 5:22
 
-unless you have completely rejected us and remain in anger towards us.
+unless You have completely rejected us and remain in anger towards us.

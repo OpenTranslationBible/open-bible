@@ -78,7 +78,7 @@ Your obedience is known to all, and I rejoice over you; but I want you to be wis
 
 ## Romans 16:20
 
-The God of peace will soon bring Satan under your feet. The grace of our Lord Jesus be with you.
+The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus be with you.
 
 ## Romans 16:21
 
@@ -98,7 +98,7 @@ Gaius, who hosts me and the whole church, sends his greetings. Erastus, the city
 
 ## Romans 16:25
 
-Now to him who is able to establish you according to my gospel and the proclamation of Jesus Christ, according to the revelation of the mystery hidden for long ages past,
+Now to Him who is able to establish you according to my gospel and the proclamation of Jesus Christ, according to the revelation of the mystery hidden for long ages past,
 
 ## Romans 16:26
 
@@ -106,4 +106,4 @@ but now revealed and made known through the prophetic writings by the command of
 
 ## Romans 16:27
 
-To the one true God, wise and deserving of glory forever through Jesus Christ. Amen.
+to the only wise God be glory forever through Jesus Christ. Amen.

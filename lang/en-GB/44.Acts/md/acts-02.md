@@ -71,69 +71,66 @@ Instead, this is what was foretold through the prophet Joel:
 ## Acts 2:17
 
 > ‘In the last days,’ says God,
-> ‘I will pour out my Spirit on all people;
-> your sons and daughters will prophesy,
-> your young men will see visions,
-> and your old men will dream dreams.
+>  ‘I will pour out My Spirit on all people;
+>  your sons and daughters will prophesy,
+>  your young men will see visions,
+>  and your old men will dream dreams.
 
 ## Acts 2:18
 
-> On my servants, both men and women,
-> I will pour out my Spirit in those days,
-> and they will prophesy.
+> On My servants, both men and women,
+>  I will pour out My Spirit in those days,
+>  and they will prophesy.
 
 ## Acts 2:19
 
-> I will show wonders in the heavens above
-> and signs on the earth below,
-> blood and fire and clouds of smoke.
+> I will show wonders in the heavens above and signs on the earth below,
+>  blood and fire and clouds of smoke.
 
 ## Acts 2:20
 
-> The sun will become dark
-> and the moon will turn to blood
-> before the coming of the great and glorious day of the Lord.
+> The sun will become dark and the moon will turn to blood before the coming of the great and glorious day of the Lord.
 
 ## Acts 2:21
 
-> And everyone who calls upon the name of the Lord
-> will find salvation.’
+> And everyone who calls upon the name of the Lord will find salvation.
+> ’
 
 ---
 
 ## Acts 2:22
 
-“Men of Israel, listen to this: Jesus of Nazareth was a man accredited by God to you by miracles, wonders, and signs, which God performed among you through him, as you yourselves know.
+“Men of Israel, listen to this: Jesus of Nazareth was a man accredited by God to you by miracles, wonders, and signs, which God performed among you through Him, as you yourselves know.
 
 ## Acts 2:23
 
-This man was handed over to you by God’s deliberate plan and foreknowledge; and you, with the help of lawless men, put him to death by nailing him to the cross.
+This man was handed over to you by God’s deliberate plan and foreknowledge; and you, with the help of lawless men, put Him to death by nailing Him to the cross.
 
 ## Acts 2:24
 
-Yet God raised him from the dead, releasing him from the agony of death, because it was impossible for death to maintain its hold on him.
+Yet God raised Him from the dead, releasing Him from the agony of death, because it was impossible for death to maintain its hold on Him.
 
 ## Acts 2:25
 
-David spoke concerning him:
+David spoke concerning Him:
 
-> ‘I saw the Lord always before me.
-> Because he is at my right hand, I will not be shaken.
+>  ‘I saw the Lord always before me.
+>  Because He is at my right hand, I will not be shaken.
 
 ## Acts 2:26
 
 > Therefore my heart is joyful and my tongue exults;
-> and my body will rest in hope,
+>  and my body will rest in hope,
 
 ## Acts 2:27
 
-> because you will not abandon me to the realm of the dead,
-> nor will you let your Holy One see decay.
+> because You will not abandon me to the realm of the dead,
+>  nor will You let Your Holy One see decay.
 
 ## Acts 2:28
 
 > You have revealed to me the paths of life;
-> you will fill me with joy in your presence.’
+>  You will fill me with joy in Your presence.’
 
 ---
 
@@ -147,7 +144,7 @@ But he was a prophet and understood that God had sworn to him with an oath to pl
 
 ## Acts 2:31
 
-Foreseeing this, he spoke of the Messiah's resurrection, that he was not abandoned to the realm of the dead, nor did his body see decay.
+Foreseeing this, he spoke of the Messiah’s resurrection, that He was not abandoned to the realm of the dead, nor did His body see decay.
 
 ## Acts 2:32
 
@@ -155,19 +152,19 @@ God has brought this Jesus back to life, and we are all witnesses of this fact.
 
 ## Acts 2:33
 
-Exalted to the right hand of God, he has received from the Father the promised Holy Spirit and has poured out what you now observe and hear.
+Exalted to the right hand of God, He has received from the Father the promised Holy Spirit and has poured out what you now observe and hear.
 
 ## Acts 2:34
 
 For David did not ascend to heaven, and yet he said,
 
-> ‘The Lord declared to my Lord:
-> “Sit at my right hand
+>  ‘The Lord declared to my Lord:
+>  “Sit at My right hand
 
 ## Acts 2:35
 
-> until I place your enemies
-> under your feet.”’
+> until I make Your enemies a footstool for Your feet.
+> ”’
 
 ## Acts 2:36
 

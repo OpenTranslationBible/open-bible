@@ -6,7 +6,7 @@ A wise son listens to his father’s guidance, but a scoffer does not pay attent
 
 ## Proverbs 13:2
 
-From the fruit of one's mouth, good things are enjoyed, but the desire of the unfaithful is for violence.
+From the fruit of one’s mouth, good things are enjoyed, but the desire of the unfaithful is for violence.
 
 ## Proverbs 13:3
 
@@ -30,7 +30,7 @@ One pretends to be rich and has nothing; another pretends to be poor and has gre
 
 ## Proverbs 13:8
 
-A person's wealth may ransom their life, but the poor hear no rebuke.
+A person’s wealth may ransom their life, but the poor hear no rebuke.
 
 ## Proverbs 13:9
 
@@ -78,7 +78,7 @@ A longing fulfilled is sweet to the soul, but fools detest turning away from evi
 
 ## Proverbs 13:20
 
-Keep company with the wise and become wise, for a companion of fools suffers harm.
+Keep company with the wise and become wise, but a companion of fools suffers harm.
 
 ## Proverbs 13:21
 
@@ -98,4 +98,4 @@ Whoever spares the rod hates their child, but the one who loves their child is d
 
 ## Proverbs 13:25
 
-The righteous eat to their heart's content, but the stomach of the wicked remains hungry.
+The righteous eat to their heart’s content, but the stomach of the wicked remains hungry.

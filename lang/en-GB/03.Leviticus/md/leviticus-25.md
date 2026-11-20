@@ -70,7 +70,7 @@ Do not take advantage of one another, but fear your God; for I am the Lord your 
 
 ## Leviticus 25:18
 
-“‘Follow my decrees and be careful to obey my laws, and you will live securely in the land.
+“‘Follow My decrees and be careful to obey My laws, and you will live securely in the land.
 
 ## Leviticus 25:19
 
@@ -82,7 +82,7 @@ You may ask, “What shall we eat in the seventh year if we do not plant or harv
 
 ## Leviticus 25:21
 
-I will command my blessing for you in the sixth year so that the land will yield enough for three years.
+I will command My blessing for you in the sixth year so that the land will yield enough for three years.
 
 ## Leviticus 25:22
 
@@ -90,7 +90,7 @@ While you are sowing during the eighth year, you will eat from the old produce a
 
 ## Leviticus 25:23
 
-“‘The land must not be sold permanently, because the land is mine and you reside in my land as wanderers and guests.
+“‘The land must not be sold permanently, because the land is Mine and you reside in My land as wanderers and guests.
 
 ## Leviticus 25:24
 
@@ -166,7 +166,7 @@ Then they and their children are to be released, and they will return to their o
 
 ## Leviticus 25:42
 
-For the Israelites are my servants, whom I brought out of Egypt, they must not be sold as slaves.
+For the Israelites are My servants, whom I brought out of Egypt. They must not be sold as slaves.
 
 ## Leviticus 25:43
 
@@ -218,4 +218,4 @@ They are to be treated as workers hired from year to year; you must ensure that 
 
 ## Leviticus 25:55
 
-for the Israelites are my servants. They are my servants, whom I brought out of Egypt. I am the Lord your God.
+for the Israelites are My servants. They are My servants, whom I brought out of Egypt. I am the Lord your God.

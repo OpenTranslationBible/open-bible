@@ -58,7 +58,7 @@ The time it took for us to come from Kadesh Barnea until we crossed over the Zer
 
 ## Deuteronomy 2:15
 
-Certainly, the Lord's power was against them, leading to their destruction within the camp until they all perished.
+Certainly, the Lord’s power was against them, leading to their destruction within the camp until they all perished.
 
 ## Deuteronomy 2:16
 
@@ -90,7 +90,7 @@ The Lord had done the same for the descendants of Esau, who live in Seir, when H
 
 ## Deuteronomy 2:23
 
-Regarding the Avvites who lived in villages as far as Gaza, the Caphtorites coming out from Caphtor overcame them and settled in their place.
+Regarding the Avvites who lived in villages as far as Gaza, the Caphtorites coming out from Caphtor overcame them and settled in their place.)
 
 ## Deuteronomy 2:24
 

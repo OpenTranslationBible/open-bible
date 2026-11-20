@@ -28,7 +28,7 @@ Midian brought Israel to such poverty that the Israelites cried out to the Lord 
 
 ## Judges 6:7
 
-As the Israelites cried out to the Lord due to Midian's oppression,
+As the Israelites cried out to the Lord due to Midian’s oppression,
 
 ## Judges 6:8
 
@@ -40,7 +40,7 @@ I rescued you from the hand of the Egyptians and from all your oppressors; I dro
 
 ## Judges 6:10
 
-I said to you, “I am the Lord your God; do not fear the gods of the Amorites, in whose land you dwell.” But you have not listened to me.’”
+I said to you, “I am the Lord your God; do not fear the gods of the Amorites, in whose land you dwell.” But you have not listened to Me.’”
 
 ---
 
@@ -70,11 +70,11 @@ The Lord assured him, “I will be with you, and you will strike down all the Mi
 
 ## Judges 6:17
 
-Gideon replied, “If now I have found favour in your eyes, give me a sign that it is really you speaking to me.
+Gideon replied, “If now I have found favour in Your eyes, give me a sign that it is really You speaking to me.
 
 ## Judges 6:18
 
-Please do not depart until I return and bring my offering and set it before you.” And the Lord said, “I will wait until you return.”
+Please do not depart until I return and bring my offering and set it before You.” And the Lord said, “I will wait until you return.”
 
 ## Judges 6:19
 
@@ -130,7 +130,7 @@ But Joash replied to the hostile crowd, “Will you plead Baal’s cause? Will y
 
 ## Judges 6:32
 
-So because Gideon had broken down Baal’s altar, they gave him the name Jerub-Baal, saying, “Let Baal contend with him.”
+So because Gideon had broken down Baal’s altar, they gave him the name Jerubbaal, saying, “Let Baal contend with him.”
 
 ## Judges 6:33
 
@@ -146,11 +146,11 @@ He sent messengers throughout Manasseh, calling them to arms, and also into Ashe
 
 ## Judges 6:36
 
-Gideon said to God, “If you intend to save Israel by my hand, as you have promised—
+Gideon said to God, “If You intend to save Israel by my hand, as You have promised—
 
 ## Judges 6:37
 
-behold, I will place a wool fleece on the threshing floor. If there is dew only on the fleece and all the ground is dry, then I will know that you will save Israel by my hand, as you have said.”
+behold, I will place a wool fleece on the threshing floor. If there is dew only on the fleece and all the ground is dry, then I will know that You will save Israel by my hand, as You have said.”
 
 ## Judges 6:38
 

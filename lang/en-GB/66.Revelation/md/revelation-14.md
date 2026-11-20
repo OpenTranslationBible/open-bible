@@ -1,7 +1,7 @@
 # Revelation Chapter 14
 
 ## Revelation 14:1
-Then I looked, and behold, the Lamb was standing on Mount Zion, and with Him were 144,000 having His name and His Father's name inscribed on their foreheads.
+Then I looked, and behold, the Lamb was standing on Mount Zion, and with Him were 144,000 having His name and His Father’s name inscribed on their foreheads.
 
 ## Revelation 14:2
 And I heard a sound from heaven, like the roar of many waters and like the peal of loud thunder. The sound I heard was like harpists playing their harps.
@@ -28,7 +28,7 @@ And another angel, a second one, followed, saying, “Fallen, fallen is Babylon 
 Then another angel, a third one, followed them, saying with a loud voice, “If anyone worships the beast and its image, and receives a mark on their forehead or on their hand,
 
 ## Revelation 14:10
-they too will drink of the wine of God's wrath, which is poured full strength into the cup of His anger. They will be tormented with fire and brimstone in the presence of the holy angels and of the Lamb.
+they too will drink of the wine of God’s wrath, which is poured full strength into the cup of His anger. They will be tormented with fire and brimstone in the presence of the holy angels and of the Lamb.
 
 ## Revelation 14:11
 And the smoke of their torment ascends for ever and ever; they have no rest day or night, those who worship the beast and its image, and whoever receives the mark of its name.”
@@ -55,7 +55,7 @@ And another angel came out of the temple in heaven, and he also had a sharp sick
 Then another angel, the one with authority over fire, emerged from the altar, and he called with a loud voice to the one who had the sharp sickle, saying, “Put in your sharp sickle and gather the clusters from the vine of the earth, because her grapes are ripe.”
 
 ## Revelation 14:19
-So the angel swung his sickle to the earth and gathered the clusters from the vine of the earth, and threw them into the great winepress of God's wrath.
+So the angel swung his sickle to the earth and gathered the clusters from the vine of the earth, and threw them into the great winepress of God’s wrath.
 
 ## Revelation 14:20
 And the winepress was trodden outside the city, and blood flowed out from the winepress, up to the horses’ bridles, for a distance of 1,600 stadia.

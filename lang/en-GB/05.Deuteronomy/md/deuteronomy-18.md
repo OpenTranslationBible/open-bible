@@ -52,13 +52,13 @@ This is in accordance with what you asked of the Lord your God at Horeb on the d
 The Lord said to me, “Their words are good.
 
 ## Deuteronomy 18:18
-I will raise up for them a prophet like you from among their fellow Israelites, and I will put my words in his mouth, and he will speak to them everything I command him.
+I will raise up for them a prophet like you from among their fellow Israelites, and I will put My words in his mouth, and he will speak to them everything I command him.
 
 ## Deuteronomy 18:19
-And it shall be that whoever does not listen to my words which he speaks in my name, I myself will call to account.
+And it shall be that whoever does not listen to My words which he speaks in My name, I Myself will call to account.
 
 ## Deuteronomy 18:20
-But a prophet who presumes to speak in my name anything I have not commanded, or who speaks in the name of other gods, that prophet shall die.”
+But a prophet who presumes to speak in My name anything I have not commanded, or who speaks in the name of other gods, that prophet shall die.”
 
 ## Deuteronomy 18:21
 You may ask yourselves, “How can we recognise a message the Lord has not spoken?”

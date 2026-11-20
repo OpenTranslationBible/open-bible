@@ -54,7 +54,7 @@ All Judah then brought the tithes of grain, new wine, and olive oil into the sto
 
 ## Nehemiah 13:13
 
-I appointed Shelemiah the priest, Zadok the scribe, and a Levite named Pedaiah to be in charge of the storerooms, and made Hanan son of Zakkur, the son of Mattaniah, their assistant, because they were considered reliable. They were responsible for distributing the supplies to their fellow Levites.
+I appointed Shelemiah the priest, Zadok the scribe, and a Levite named Pedaiah to be in charge of the storerooms, and made Hanan son of Zaccur, the son of Mattaniah, their assistant, because they were considered reliable. They were responsible for distributing the supplies to their fellow Levites.
 
 ---
 

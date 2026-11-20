@@ -28,7 +28,7 @@ The Lord brought us out of Egypt with a mighty hand and an outstretched arm, wit
 He brought us to this place and bestowed upon us this land, a land flowing with milk and honey.
 
 ## Deuteronomy 26:10
-Now, I present the firstfruits of the soil which you, Lord, have given me.” You shall place the basket before the Lord your God and bow down before Him.
+Now, I present the firstfruits of the soil which You, Lord, have given me.” You shall place the basket before the Lord your God and bow down before Him.
 
 ## Deuteronomy 26:11
 Then you, along with the Levites and the foreigners residing among you, shall rejoice in all the good things the Lord your God has granted you and your household.
@@ -37,13 +37,13 @@ Then you, along with the Levites and the foreigners residing among you, shall re
 When you have completed setting aside a tenth of all your produce in the third year, the year of the tithe, you shall give it to the Levite, the foreigner, the orphan, and the widow, so they may eat in your towns and be satisfied.
 
 ## Deuteronomy 26:13
-You shall then declare before the Lord your God: “I have removed the sacred portion from my house and have given it to the Levite, the foreigner, the orphan, and the widow, in accordance with all your commands. I have not deviated from your commandments nor have I forgotten them.
+You shall then declare before the Lord your God: “I have removed the sacred portion from my house and have given it to the Levite, the foreigner, the orphan, and the widow, in accordance with all Your commands. I have not deviated from Your commandments nor have I forgotten them.
 
 ## Deuteronomy 26:14
-I have not consumed any of it while in mourning, nor have I removed any of it while unclean, nor offered any of it to the dead. I have obeyed the Lord my God and have done everything you commanded me.
+I have not consumed any of it while in mourning, nor have I removed any of it while unclean, nor offered any of it to the dead. I have obeyed the Lord my God and have done everything You commanded me.
 
 ## Deuteronomy 26:15
-Look down from your holy dwelling place in heaven, and bless your people Israel and the land you have given us, as you promised on oath to our ancestors, a land flowing with milk and honey.”
+Look down from Your holy dwelling place in heaven, and bless Your people Israel and the land You have given us, as You promised on oath to our ancestors, a land flowing with milk and honey.”
 
 ## Deuteronomy 26:16
 This day, the Lord your God commands you to observe these statutes and decrees; therefore, carefully observe them with all your heart and with all your soul.

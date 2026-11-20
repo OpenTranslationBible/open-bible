@@ -6,15 +6,15 @@ For I do not want you to be unaware, brothers and sisters, that our fathers were
 
 ## 1 Corinthians 10:2
 
-And they all were baptised into Moses in the cloud and in the sea;
+and they all were baptised into Moses in the cloud and in the sea;
 
 ## 1 Corinthians 10:3
 
-And they all partook of the same spiritual nourishment,
+and they all partook of the same spiritual nourishment,
 
 ## 1 Corinthians 10:4
 
-And all drank the same spiritual drink, for they were drinking from a spiritual rock that accompanied them; and that rock was Christ.
+and all drank the same spiritual drink, for they were drinking from a spiritual rock that accompanied them; and that rock was Christ.
 
 ## 1 Corinthians 10:5
 
@@ -86,7 +86,7 @@ You cannot share in the cup of the Lord and the cup of demons; you cannot partak
 
 ## 1 Corinthians 10:22
 
-Or will we provoke the Lord's patience? Surely, we are not stronger than Him.
+Or will we provoke the Lord to jealousy? Are we stronger than He?
 
 ## 1 Corinthians 10:23
 
@@ -102,7 +102,7 @@ Consume whatever is sold in the meat market without raising questions of conscie
 
 ## 1 Corinthians 10:26
 
-For the earth and everything in it belongs to the Lord.
+for the earth and everything in it belongs to the Lord.
 
 ## 1 Corinthians 10:27
 
@@ -130,4 +130,4 @@ Give no offence to Jews or Greeks, or to the church of God;
 
 ## 1 Corinthians 10:33
 
-Just as I try to please everyone in all things, not seeking my own advantage but that of many, so that they may be saved.
+just as I try to please everyone in all things, not seeking my own advantage but that of many, so that they may be saved.

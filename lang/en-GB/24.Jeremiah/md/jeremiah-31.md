@@ -2,7 +2,7 @@
 
 ## Jeremiah 31:1
 
-"In those days," declares the Lord, "I will be the God of all the families of Israel, and they shall be my people."
+“In those days,” declares the Lord, “I will be the God of all the families of Israel, and they shall be My people.”
 
 ## Jeremiah 31:2
 
@@ -26,7 +26,7 @@ The Lord appeared to us long ago, saying, “I have loved you with an everlastin
 
 ## Jeremiah 31:7
 
-This is what the Lord says: “Sing with joy for Jacob; shout for the foremost of the nations. Proclaim, give praise, and say, ‘Lord, save your people, the remnant of Israel.’”
+This is what the Lord says: “Sing with joy for Jacob; shout for the foremost of the nations. Proclaim, give praise, and say, ‘Lord, save Your people, the remnant of Israel.’”
 
 ## Jeremiah 31:8
 
@@ -34,11 +34,11 @@ This is what the Lord says: “Sing with joy for Jacob; shout for the foremost o
 
 ## Jeremiah 31:9
 
-“They will come with weeping; by pleading I will bring them. I will lead them beside streams of water on a straight path where they will not stumble, for I am a father to Israel, and Ephraim is my firstborn.”
+“They will come with weeping; by pleading I will bring them. I will lead them beside streams of water on a straight path where they will not stumble, for I am a father to Israel, and Ephraim is My firstborn.”
 
 ## Jeremiah 31:10
 
-"Listen to the word of the Lord, you nations; announce it in distant coastlands: ‘He who scattered Israel will gather them and will watch over his flock like a shepherd.’"
+“Listen to the word of the Lord, you nations; announce it in distant coastlands: ‘He who scattered Israel will gather them and will watch over His flock like a shepherd.’”
 
 ## Jeremiah 31:11
 
@@ -54,7 +54,7 @@ This is what the Lord says: “Sing with joy for Jacob; shout for the foremost o
 
 ## Jeremiah 31:14
 
-“I will provide the priests with plenty, and my people will be filled with my goodness,” declares the Lord.
+“I will provide the priests with plenty, and My people will be filled with My goodness,” declares the Lord.
 
 ## Jeremiah 31:15
 
@@ -70,7 +70,7 @@ This is what the Lord says: “Hold back your voice from weeping and your eyes f
 
 ## Jeremiah 31:18
 
-“I have surely heard Ephraim grieving, ‘You disciplined me like an unruly calf, and I have been corrected. Restore me, and I will return, for you are the Lord my God.’”
+“I have surely heard Ephraim grieving, ‘You disciplined me like an unruly calf, and I have been corrected. Restore me, and I will return, for You are the Lord my God.’”
 
 ## Jeremiah 31:19
 
@@ -78,7 +78,7 @@ This is what the Lord says: “Hold back your voice from weeping and your eyes f
 
 ## Jeremiah 31:20
 
-“Is not Ephraim my dear son, the child in whom I delight? Though I often speak against him, I still remember him. Therefore my heart yearns for him; I will surely have mercy on him,” declares the Lord.
+“Is not Ephraim My dear son, the child in whom I delight? Though I often speak against him, I still remember him. Therefore My heart yearns for him; I will surely have mercy on him,” declares the Lord.
 
 ## Jeremiah 31:21
 
@@ -90,7 +90,7 @@ This is what the Lord says: “Hold back your voice from weeping and your eyes f
 
 ## Jeremiah 31:23
 
-This is what the Lord Almighty, the God of Israel, says: “When I restore their fortunes, the people in the land of Judah and in its towns will once again use these words: ‘The Lord bless you, O place of righteousness, O holy hill!’”
+This is what the Lord of hosts, the God of Israel, says: “When I restore their fortunes, the people in the land of Judah and in its towns will once again use these words: ‘The Lord bless you, O place of righteousness, O holy hill!’”
 
 ## Jeremiah 31:24
 
@@ -126,23 +126,23 @@ At this point, I awoke and looked around, and my sleep had been pleasant to me.
 
 ## Jeremiah 31:32
 
-“It will not resemble the covenant I made with their ancestors when I took them by the hand to lead them out of Egypt, because they broke my covenant, though I was like a husband to them,” declares the Lord.
+“It will not resemble the covenant I made with their ancestors when I took them by the hand to lead them out of Egypt, because they broke My covenant, though I was like a husband to them,” declares the Lord.
 
 ## Jeremiah 31:33
 
-“For this is the covenant I will make with the house of Israel after those days,” declares the Lord: “I will put my law in their minds and write it on their hearts. I will be their God, and they will be my people.”
+“For this is the covenant I will make with the house of Israel after those days,” declares the Lord: “I will put My law in their minds and write it on their hearts. I will be their God, and they will be My people.”
 
 ## Jeremiah 31:34
 
-“No longer will they teach their neighbour, or say to one another, ‘Know the Lord,’ for they will all know me, from the least of them to the greatest,” declares the Lord. “For I will forgive their wickedness and will remember their sins no more.”
+“No longer will they teach their neighbour, or say to one another, ‘Know the Lord,’ for they will all know Me, from the least of them to the greatest,” declares the Lord. “For I will forgive their wickedness and will remember their sins no more.”
 
 ## Jeremiah 31:35
 
-This is what the Lord says, he who appoints the sun to shine by day, who decrees the moon and stars to shine by night, who stirs up the sea so that its waves roar—the Lord Almighty is his name:
+This is what the Lord says, He who appoints the sun to shine by day, who decrees the moon and stars to shine by night, who stirs up the sea so that its waves roar—the Lord of hosts is His name:
 
 ## Jeremiah 31:36
 
-“Only if these decrees vanish from my sight,” declares the Lord, “will the descendants of Israel ever cease to be a nation before me.”
+“Only if these decrees vanish from My sight,” declares the Lord, “will the descendants of Israel ever cease to be a nation before Me.”
 
 ## Jeremiah 31:37
 

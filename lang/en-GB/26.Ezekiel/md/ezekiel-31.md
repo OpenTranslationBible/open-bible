@@ -8,49 +8,47 @@ In the eleventh year, during the third month, on the first day, the message from
 
 “Son of man, say to Pharaoh king of Egypt and to his multitudes,
 
-> ‘Who can be likened to you in your greatness?
+>  ‘Who can be likened to you in your greatness?
 
 ## Ezekiel 31:3
 
 > Behold, Assyria was like a cedar in Lebanon,
-> with lovely branches providing shade to the forest,
-> and towering high,
-> its top among the clouds.
+>  with lovely branches providing shade to the forest,
+>  and towering high,
+>  its top among the clouds.
 
 ## Ezekiel 31:4
 
 > The waters nourished it, the deep springs made it grow tall.
-> Its streams flowed around its planting place
-> and sent channels to all the trees of the field.
+>  Its streams flowed around its planting place and sent channels to all the trees of the field.
 
 ## Ezekiel 31:5
 
 > Thus it rose higher than all the trees of the field;
-> its boughs multiplied and its branches extended long
-> due to the plentiful waters as it spread them out.
+>  its boughs multiplied and its branches extended long due to the plentiful waters as it spread them out.
 
 ## Ezekiel 31:6
 
 > All the birds of the sky nested in its boughs,
-> and under its branches all the animals of the field gave birth;
-> all the great nations dwelt under its shade.
+>  and under its branches all the animals of the field gave birth;
+>  all the great nations dwelt under its shade.
 
 ## Ezekiel 31:7
 
 > It was magnificent in its greatness, with its extensive branches;
-> for its roots reached to abundant waters.
+>  for its roots reached to abundant waters.
 
 ## Ezekiel 31:8
 
-> The cedars in God's garden could not rival it,
-> nor could the junipers match its boughs,
-> nor could the plane trees compare with its branches—
-> no tree in God's garden could equal its beauty.
+> The cedars in God’s garden could not rival it,
+>  nor could the junipers match its boughs,
+>  nor could the plane trees compare with its branches—no tree in God’
+> s garden could equal its beauty.
 
 ## Ezekiel 31:9
 
 > I made it beautiful with the multitude of its branches,
-> and all the trees of Eden in the garden of God envied it.
+>  and all the trees of Eden in the garden of God envied it.
 
 ## Ezekiel 31:10
 

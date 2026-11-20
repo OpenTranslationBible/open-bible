@@ -5,116 +5,111 @@
 ## Psalm 49:1
 
 > Hear this, all peoples;  
-> Listen, all inhabitants of the world,
+>  listen, all inhabitants of the world,
 
 ## Psalm 49:2
 
-> Whether of humble or noble birth,  
-> The wealthy and the poor together.
+> whether of humble or noble birth,  
+>  the wealthy and the poor together.
 
 ## Psalm 49:3
 
 > My mouth will speak with wisdom,  
-> And the thoughts of my heart will be insightful.
+>  and the thoughts of my heart will be insightful.
 
 ## Psalm 49:4
 
 > I will listen to a proverb;  
-> I will reveal my riddle with the harp.
+>  I will reveal my riddle with the harp.
 
 ---
 
 ## Psalm 49:5
 
 > Why should I fear in days of adversity,  
-> When the guilt of my foes surrounds me,
+>  when the guilt of my foes surrounds me,
 
 ## Psalm 49:6
 
-> Those who rely on their wealth  
-> And take pride in their abundant riches?
+> those who rely on their wealth and take pride in their abundant riches?
 
 ## Psalm 49:7
 
 > No one can ever redeem another,  
-> Or offer God a ransom for them—
+>  or offer God a ransom for them—
 
 ## Psalm 49:8
 
-> For the redemption of their soul is beyond price,  
-> And they should cease imagining it forever—
+> for the redemption of their soul is beyond price,  
+>  and they should cease imagining it forever—
 
 ## Psalm 49:9
 
-> So that they might live on eternally,  
-> That they might not undergo decay.
+> so that they might live on eternally,  
+>  that they might not undergo decay.
 
 ## Psalm 49:10
 
 > For he observes that even the wise meet their end;  
-> The foolish and the senseless perish alike  
-> And leave their wealth to others.
+>  the foolish and the senseless perish alike and leave their wealth to others.
 
 ## Psalm 49:11
 
-> They believe their houses will last forever  
-> And their dwelling places for all generations;  
-> They have named their lands after themselves.
+> They believe their houses will last forever and their dwelling places for all generations;  
+>  they have named their lands after themselves.
 
 ---
 
 ## Psalm 49:12
 
 > But man in his splendour will not endure;  
-> He is like the animals that perish.
+>  he is like the animals that perish.
 
 ---
 
 ## Psalm 49:13
 
 > Such is the path of those who are foolish,  
-> And of those who follow them and approve their sayings.
+>  and of those who follow them and approve their sayings.
 
-> Selah
+>  Selah
 
 ## Psalm 49:14
 
 > Like sheep they are destined for Sheol;  
-> Death will shepherd them;  
-> And the upright will have dominion over them in the morning,  
-> And their form shall be consumed by Sheol  
-> So that they have no exalted home.
+>  death will shepherd them;  
+>  and the upright will have dominion over them in the morning,  
+>  and their form shall be consumed by Sheol so that they have no exalted home.
 
 ## Psalm 49:15
 
 > But God will redeem my soul from the grasp of Sheol,  
-> For He will take me to Himself.
+>  for He will take me to Himself.
 
-> Selah
+>  Selah
 
 ## Psalm 49:16
 
 > Do not be afraid when someone becomes wealthy,  
-> When the splendour of their house increases;
+>  when the splendour of their house increases;
 
 ## Psalm 49:17
 
-> For when they die, they will take nothing with them;  
-> Their wealth will not follow them down.
+> for when they die, they will take nothing with them;  
+>  their wealth will not follow them down.
 
 ## Psalm 49:18
 
-> Though in life they congratulate themselves—  
-> And though others praise you when you prosper—
+> Though in life they congratulate themselves—and though others praise you when you prosper—
 
 ## Psalm 49:19
 
-> They will join the company of their ancestors;  
-> They will never again see the light.
+> they will join the company of their ancestors;  
+>  they will never again see the light.
 
 ---
 
 ## Psalm 49:20
 
 > Mankind, in its splendour, yet without understanding,  
-> Is like the animals that perish.
+>  is like the animals that perish.

@@ -7,7 +7,7 @@ In the year that the commander was sent by Sargon, king of Assyria, to Ashdod, h
 at that time the Lord spoke through Isaiah, son of Amoz, saying, “Remove the sackcloth from your body and take the sandals off your feet.” And he did so, walking around naked and barefoot.
 
 ## Isaiah 20:3
-Then the Lord said, “Just as my servant Isaiah has walked naked and barefoot for three years as a sign and symbol against Egypt and Cush,
+Then the Lord said, “Just as My servant Isaiah has walked naked and barefoot for three years as a sign and symbol against Egypt and Cush,
 
 ## Isaiah 20:4
 so the king of Assyria will lead away the captives of Egypt and the exiles of Cush, young and old, naked and barefoot, with buttocks exposed, to Egypt’s humiliation.

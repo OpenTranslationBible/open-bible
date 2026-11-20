@@ -34,7 +34,7 @@ So I have come down to deliver them from the power of the Egyptians and to bring
 
 ## Exodus 3:9
 
-And now, behold, the cry of the Israelites has reached me, and I have seen how the Egyptians are oppressing them.
+And now, behold, the cry of the Israelites has reached Me, and I have seen how the Egyptians are oppressing them.
 
 ## Exodus 3:10
 

@@ -14,11 +14,11 @@ For you have died, and your life is now hidden with Christ in God.
 
 ## Colossians 3:4
 
-When Christ, who is your life, appears, you too will appear with him in glory.
+When Christ, who is your life, appears, you too will appear with Him in glory.
 
 ## Colossians 3:5
 
-Therefore, consider the parts of your earthly nature as dead to sexual immorality, impurity, passion, evil desires, and greed, which is idolatry.
+Therefore, put to death the parts of your earthly nature: sexual immorality, impurity, passion, evil desires, and greed, which is idolatry.
 
 ## Colossians 3:6
 
@@ -66,11 +66,11 @@ Let the word of Christ dwell among you richly, with all wisdom teaching and admo
 
 ## Colossians 3:17
 
-Whatever you do, in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him.
+Whatever you do, in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through Him.
 
 ## Colossians 3:18
 
-Wives, align with your husbands, as is appropriate in the Lord.
+Wives, submit to your husbands, as is appropriate in the Lord.
 
 ## Colossians 3:19
 
@@ -78,7 +78,7 @@ Husbands, love your wives and do not be mean to them.
 
 ## Colossians 3:20
 
-Children, listen to your parents in everything, as this is pleasing to the Lord.
+Children, obey your parents in everything, as this is pleasing to the Lord.
 
 ## Colossians 3:21
 

@@ -14,11 +14,11 @@ they engaged in prostitution in Egypt. They prostituted themselves from their yo
 
 ## Ezekiel 23:4
 
-The elder was named Oholah, and her sister was Oholibah. They belonged to me and bore sons and daughters. Oholah represents Samaria, and Oholibah represents Jerusalem.
+The elder was named Oholah, and her sister was Oholibah. They belonged to Me and bore sons and daughters. Oholah represents Samaria, and Oholibah represents Jerusalem.
 
 ## Ezekiel 23:5
 
-“Oholah engaged in prostitution while she was still mine; she lusted after her lovers, the Assyrians, her neighbours,
+“Oholah engaged in prostitution while she was still Mine; she lusted after her lovers, the Assyrians, her neighbours,
 
 ## Ezekiel 23:6
 
@@ -98,7 +98,7 @@ They will come against you with weapons, chariots and wagons, and with a multitu
 
 ## Ezekiel 23:25
 
-I will direct my jealous anger against you, and they will deal with you in wrath. They will cut off your noses and your ears, and those who remain will fall by the sword. They will take away your sons and daughters, and those who remain will be consumed by fire.
+I will direct My jealous anger against you, and they will deal with you in wrath. They will cut off your noses and your ears, and those who remain will fall by the sword. They will take away your sons and daughters, and those who remain will be consumed by fire.
 
 ## Ezekiel 23:26
 
@@ -138,23 +138,23 @@ You will drink it and drain it dry; you will gnaw on its fragments and tear your
 
 ## Ezekiel 23:35
 
-Therefore, this is what the Sovereign Lord says: Because you have forgotten me and cast me behind your back, you must bear the consequences of your lewdness and obscene practices.”
+Therefore, this is what the Sovereign Lord says: Because you have forgotten Me and cast Me behind your back, you must bear the consequences of your lewdness and obscene practices.”
 
 ## Ezekiel 23:36
 
-Moreover, the Lord said to me: “Human being, will you judge Oholah and Oholibah? Then confront them with their detestable practices,
+Moreover, the Lord said to me: “Son of man, will you judge Oholah and Oholibah? Then confront them with their detestable practices,
 
 ## Ezekiel 23:37
 
-for they have committed adultery and blood is on their hands. They were unfaithful with their idols; they even sacrificed their children, whom they bore to me, as food for them.
+for they have committed adultery and blood is on their hands. They were unfaithful with their idols; they even sacrificed their children, whom they bore to Me, as food for them.
 
 ## Ezekiel 23:38
 
-They have also done this to me: At that same time, they defiled my sanctuary and violated my Sabbaths.
+They have also done this to Me: At that same time, they defiled My sanctuary and violated My Sabbaths.
 
 ## Ezekiel 23:39
 
-On the very day they sacrificed their children to their idols, they entered my sanctuary and violated it. That is what they did in my house.
+On the very day they sacrificed their children to their idols, they entered My sanctuary and violated it. That is what they did in My house.
 
 ## Ezekiel 23:40
 
@@ -162,7 +162,7 @@ Furthermore, they sent messengers for men who came from afar, and when they arri
 
 ## Ezekiel 23:41
 
-You sat on a splendid couch, with a table spread before it on which you had placed my incense and my oil.
+You sat on a splendid couch, with a table spread before it on which you had placed My incense and My oil.
 
 ## Ezekiel 23:42
 

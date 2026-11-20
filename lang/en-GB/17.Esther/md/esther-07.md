@@ -42,7 +42,7 @@ Then Harbonah, one of the eunuchs attending the king, said, “Look, a gallows f
 
 ---
 
-The king said, “Hang him on it!”
+ The king said, “Hang him on it!”
 
 ## Esther 7:10
 

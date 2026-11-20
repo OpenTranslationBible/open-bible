@@ -10,7 +10,7 @@ The chief priests and the scribes were seeking a way to put Jesus to death, for 
 
 ## Luke 22:3
 
-Then Satan influenced Judas, called Iscariot, who was one of the Twelve.
+Then Satan entered Judas, called Iscariot, who was one of the Twelve.
 
 ## Luke 22:4
 
@@ -36,7 +36,7 @@ Jesus sent Peter and John, instructing them, “Go and prepare the Passover for 
 
 ## Luke 22:9
 
-They asked Him, “Where do you wish us to prepare it?”
+They asked Him, “Where do You wish us to prepare it?”
 
 ## Luke 22:10
 
@@ -44,7 +44,7 @@ He replied, “As you enter the city, a man carrying a jar of water will meet yo
 
 ## Luke 22:11
 
-and say to the owner of the house, ‘The Teacher inquires: Where is the guest room for me to eat the Passover with my disciples?’
+and say to the owner of the house, ‘The Teacher inquires: Where is the guest room for Me to eat the Passover with My disciples?’
 
 ## Luke 22:12
 
@@ -66,7 +66,7 @@ He said to them, “I have longed to eat this Passover with you before I suffer.
 
 ## Luke 22:16
 
-For I tell you, I will not partake of it again until it finds fulfillment in the kingdom of God.”
+For I tell you, I will not partake of it again until it finds fulfilment in the kingdom of God.”
 
 ## Luke 22:17
 
@@ -78,17 +78,17 @@ For I tell you, I will not drink from the fruit of the vine again until the king
 
 ## Luke 22:19
 
-He took bread, gave thanks, broke it, and gave it to them, saying, “This is my body, given for you; do this in remembrance of me.”
+He took bread, gave thanks, broke it, and gave it to them, saying, “This is My body, given for you; do this in remembrance of Me.”
 
 ## Luke 22:20
 
-In the same way, after supper, He took the cup, saying, “This cup is the new covenant in my blood, which is poured out for you.
+In the same way, after supper, He took the cup, saying, “This cup is the new covenant in My blood, which is poured out for you.
 
 ---
 
 ## Luke 22:21
 
-But see, the hand of the one betraying me is with mine on the table.
+But see, the hand of the one betraying Me is with Mine on the table.
 
 ## Luke 22:22
 
@@ -118,15 +118,15 @@ For who is greater, the one who reclines at the table or the one who serves? Is 
 
 ## Luke 22:28
 
-You are the ones who have remained with me in my trials.
+You are the ones who have remained with Me in My trials.
 
 ## Luke 22:29
 
-And I confer upon you a kingdom, just as my Father has conferred one upon me,
+And I confer upon you a kingdom, just as My Father has conferred one upon Me,
 
 ## Luke 22:30
 
-so that you may dine at my table in my kingdom and take your places on thrones, overseeing the twelve tribes of Israel.
+so that you may dine at My table in My kingdom and take your places on thrones, overseeing the twelve tribes of Israel.
 
 ---
 
@@ -140,11 +140,11 @@ But I have prayed for you, Simon, that your faith may not fail. And when you hav
 
 ## Luke 22:33
 
-But he replied, “Lord, I am ready to accompany you to prison and to death.”
+But he replied, “Lord, I am ready to accompany You to prison and to death.”
 
 ## Luke 22:34
 
-Jesus replied, “I tell you, Peter, before the rooster crows today, you will deny three times that you know me.”
+Jesus replied, “I tell you, Peter, before the rooster crows today, you will deny three times that you know Me.”
 
 ---
 
@@ -158,7 +158,7 @@ He said to them, “But now, if you have a purse, take it, and also a bag; and i
 
 ## Luke 22:37
 
-For I tell you, this Scripture must be fulfilled in me: ‘And He was numbered with the transgressors’; for what is written about me is reaching its fulfilment.”
+For I tell you, this Scripture must be fulfilled in Me: ‘And He was numbered with the transgressors’; for what is written about Me is reaching its fulfilment.”
 
 ## Luke 22:38
 
@@ -180,7 +180,7 @@ He withdrew a short distance beyond them, knelt down, and prayed,
 
 ## Luke 22:42
 
-“Father, if it is your will, take this cup from me; yet not my will, but yours be done.”
+“Father, if it is Your will, take this cup from Me; yet not My will, but Yours be done.”
 
 ## Luke 22:43
 
@@ -226,7 +226,7 @@ Then Jesus said to the chief priests, the officers of the temple guard, and the 
 
 ## Luke 22:53
 
-Every day I was with you in the temple courts, and you did not lay a hand on me. But this is your hour —when darkness has its way.”
+Every day I was with you in the temple courts, and you did not lay a hand on Me. But this is your hour—when darkness has its way.”
 
 ---
 
@@ -260,7 +260,7 @@ Peter replied, “Sir, I do not know what you are talking about!” Just as he w
 
 ## Luke 22:61
 
-The Lord turned and looked straight at Peter. Then Peter remembered the word the Lord had spoken to him: “Before the rooster crows today, you will deny me three times.”
+The Lord turned and looked straight at Peter. Then Peter remembered the word the Lord had spoken to him: “Before the rooster crows today, you will deny Me three times.”
 
 ## Luke 22:62
 
@@ -272,7 +272,7 @@ The men who were guarding Jesus began to mock and beat Him.
 
 ## Luke 22:64
 
-They blindfolded Him and demanded, “Prophesy! Who struck you?”
+They blindfolded Him and demanded, “Prophesy! Who struck You?”
 
 ## Luke 22:65
 
@@ -286,7 +286,7 @@ At daybreak, the council of the elders of the people, both the chief priests and
 
 ## Luke 22:67
 
-“If you are the Messiah,” they said, “tell us.” Jesus answered, “If I tell you, you will not believe;
+“If You are the Messiah,” they said, “tell us.” Jesus answered, “If I tell you, you will not believe;
 
 ## Luke 22:68
 
@@ -298,7 +298,7 @@ However, from this time forward, the Son of Man will be seated at the right hand
 
 ## Luke 22:70
 
-They all asked, “Are you then the Son of God?” He replied, “You say so.”
+They all asked, “Are You then the Son of God?” He replied, “You say so.”
 
 ## Luke 22:71
 

@@ -14,11 +14,11 @@ As he travelled and approached Damascus, suddenly a light from heaven shone arou
 
 ## Acts 9:4
 
-He fell to the ground and heard a voice calling to him, “Saul, Saul, why are you persecuting me?”
+He fell to the ground and heard a voice calling to him, “Saul, Saul, why are you persecuting Me?”
 
 ## Acts 9:5
 
-He inquired, “Who are you, Lord?” and He replied, “I am Jesus, whom you are persecuting.
+He inquired, “Who are You, Lord?” and He replied, “I am Jesus, whom you are persecuting.
 
 ## Acts 9:6
 
@@ -52,19 +52,19 @@ He has seen in a vision a man named Ananias come in and lay hands on him to rest
 
 ## Acts 9:13
 
-Ananias replied, “Lord, I have heard from many about this man, how much harm he has done to your saints in Jerusalem.
+Ananias replied, “Lord, I have heard from many about this man, how much harm he has done to Your saints in Jerusalem.
 
 ## Acts 9:14
 
-And he has come here with the authority from the chief priests to capture all who call upon your name.”
+And he has come here with the authority from the chief priests to capture all who call upon Your name.”
 
 ## Acts 9:15
 
-But the Lord said to him, “Go, for he is a chosen instrument of mine to bring my name to the Gentiles, to kings, and to the people of Israel;
+But the Lord said to him, “Go, for he is a chosen instrument of Mine to bring My name to the Gentiles, to kings, and to the people of Israel;
 
 ## Acts 9:16
 
-I will reveal to him how much he is to endure for my name.”
+I will reveal to him how much he is to endure for My name.”
 
 ---
 

@@ -32,21 +32,21 @@ What then? What Israel sought so earnestly it did not obtain, but the elect did.
 
 as it is written:
 
-> “God gave them a spirit of stupor,
-> eyes that do not see and ears that do not hear,
-> down to this very day.”
+>  “God gave them a spirit of stupor,
+>  eyes that do not see and ears that do not hear,
+>  down to this very day.”
 
 ## Romans 11:9
 
 And David says,
 
-> “May their table become a trap and a snare,
-> a stumbling block and a recompense for them.
+>  “May their table become a trap and a snare,
+>  a stumbling block and a recompense for them.
 
 ## Romans 11:10
 
 > May their eyes be darkened so they cannot see,
-> and their backs be bent continually.”
+>  and their backs be bent continually.”
 
 ## Romans 11:11
 
@@ -112,13 +112,13 @@ I do not want you to be unaware of this mystery, brothers and sisters, so that y
 
 and in this way all Israel will be saved. As it is written:
 
-> “The Deliverer will come from Zion;
-> He will turn ungodliness away from Jacob.
+>  “The Deliverer will come from Zion;
+>  He will turn ungodliness away from Jacob.
 
 ## Romans 11:27
 
-> And this is My covenant with them
-> when I remove their sins.”
+> And this is My covenant with them when I remove their sins.
+> ”
 
 ## Romans 11:28
 
@@ -138,25 +138,25 @@ so they too have now become disobedient so that they too may now receive mercy a
 
 ## Romans 11:32
 
-For God has allowed everyone to be disobedient so that He may have mercy on them all.
+For God has shut everyone up in disobedience so that He may have mercy on them all.
 
 ## Romans 11:33
 
 > Oh, the depth of the riches of God’s wisdom and knowledge!
-> How unfathomable His judgments,
-> and His paths beyond understanding!
+>  How unfathomable His judgments,
+>  and His paths beyond understanding!
 
 ## Romans 11:34
 
 > “Who has comprehended the mind of the Lord?
-> Or who has been His advisor?”
+>  Or who has been His advisor?”
 
 ## Romans 11:35
 
 > “Who has ever offered anything to God,
-> that God should return it to them?”
+>  that God should return it to them?”
 
 ## Romans 11:36
 
 > For all things are from Him, through Him, and for Him.
-> To Him be the glory forever! Amen.
+>  To Him be the glory forever! Amen.

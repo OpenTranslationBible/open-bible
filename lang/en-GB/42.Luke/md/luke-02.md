@@ -26,7 +26,7 @@ While they were there, the time arrived for her to deliver her child.
 
 ## Luke 2:7
 
-And she gave birth to her firstborn son, wrapped him in cloths, and laid him in a manger, because there was no room for them in the inn.
+And she gave birth to her firstborn son, wrapped Him in cloths, and laid Him in a manger, because there was no room for them in the inn.
 
 ---
 
@@ -44,7 +44,7 @@ But the angel reassured them, “Fear not, for I bring you good news of great jo
 
 ## Luke 2:11
 
-For today, in the city of David, a Saviour has been born to you; he is Christ the Lord.
+For today, in the city of David, a Saviour has been born to you; He is Christ the Lord.
 
 ## Luke 2:12
 
@@ -57,7 +57,7 @@ And suddenly, along with the angel, there was a multitude of the heavenly host p
 ## Luke 2:14
 
 > “Glory to God in the highest heaven,
-> and on earth peace among those with whom he is pleased.”
+>  and on earth peace among those with whom He is pleased.”
 
 ---
 
@@ -71,7 +71,7 @@ So they hurried and found Mary and Joseph, and the baby lying in the manger.
 
 ## Luke 2:17
 
-When they had seen him, they spread the word about what had been told them concerning this child.
+When they had seen Him, they spread the word about what had been told them concerning this child.
 
 ## Luke 2:18
 
@@ -89,13 +89,13 @@ The shepherds returned, glorifying and praising God for all they had heard and s
 
 ## Luke 2:21
 
-When eight days were completed for the circumcision of the child, he was named Jesus, the name given by the angel before he was conceived.
+When eight days were completed for the circumcision of the child, He was named Jesus, the name given by the angel before He was conceived.
 
 ---
 
 ## Luke 2:22
 
-When the days for their purification according to the Law of Moses were completed, they brought him to Jerusalem to present him to the Lord
+When the days for their purification according to the Law of Moses were completed, they brought Him to Jerusalem to present Him to the Lord
 
 ## Luke 2:23
 
@@ -117,39 +117,39 @@ It had been revealed to him by the Holy Spirit that he would not die before he h
 
 ## Luke 2:27
 
-Guided by the Spirit, he went into the temple courts. When the parents brought in the child Jesus to do for him what the custom of the Law required,
+Guided by the Spirit, he went into the temple courts. When the parents brought in the child Jesus to do for Him what the custom of the Law required,
 
 ## Luke 2:28
 
-Simeon embraced him and praised God, saying,
+Simeon embraced Him and praised God, saying,
 
 ## Luke 2:29
 
-> “Lord, now you allow your servant to depart in peace,
-> in accordance with your promise;
+> “Lord, now You allow Your servant to depart in peace,
+>  in accordance with Your promise;
 
 ## Luke 2:30
 
-> for my own eyes have seen your salvation,
+> for my own eyes have seen Your salvation,
 
 ## Luke 2:31
 
-> which you have prepared in the sight of all peoples:
+> which You have prepared in the sight of all peoples:
 
 ## Luke 2:32
 
-> a light to reveal your truth to the nations,
-> and the glory of your people Israel.”
+> a light to reveal Your truth to the nations,
+>  and the glory of Your people Israel.”
 
 ---
 
 ## Luke 2:33
 
-The child's parents were in awe of what was spoken about him.
+The child’s parents were in awe of what was spoken about Him.
 
 ## Luke 2:34
 
-Then Simeon blessed them and said to Mary, his mother, “This child is destined to cause the fall and rise of many in Israel, and to be a sign that will be opposed,
+Then Simeon blessed them and said to Mary, His mother, “This child is destined to cause the fall and rise of many in Israel, and to be a sign that will be opposed,
 
 ## Luke 2:35
 
@@ -177,53 +177,53 @@ When they had completed everything required by the Law of the Lord, they returne
 
 ## Luke 2:40
 
-And the child grew and became strong, filled with wisdom, and the grace of God was upon him.
+And the child grew and became strong, filled with wisdom, and the grace of God was upon Him.
 
 ---
 
 ## Luke 2:41
 
-Every year, his parents went to Jerusalem for the Feast of the Passover.
+Every year, His parents went to Jerusalem for the Feast of the Passover.
 
 ## Luke 2:42
 
-When he was twelve years old, they went up to the festival as was their custom.
+When He was twelve years old, they went up to the festival as was their custom.
 
 ## Luke 2:43
 
-After the festival concluded, while his parents were returning home, the boy Jesus stayed behind in Jerusalem, but they were unaware of it.
+After the festival concluded, while His parents were returning home, the boy Jesus stayed behind in Jerusalem, but they were unaware of it.
 
 ## Luke 2:44
 
-Thinking he was in their company, they travelled for a day and then began looking for him among their relatives and friends.
+Thinking He was in their company, they travelled for a day and then began looking for Him among their relatives and friends.
 
 ## Luke 2:45
 
-When they did not find him, they returned to Jerusalem to look for him.
+When they did not find Him, they returned to Jerusalem to look for Him.
 
 ## Luke 2:46
 
-After three days, they discovered him in the temple courts, sitting among the teachers, listening to them and asking them questions.
+After three days, they discovered Him in the temple courts, sitting among the teachers, listening to them and asking them questions.
 
 ## Luke 2:47
 
-All who heard him were impressed by his understanding and his answers.
+All who heard Him were impressed by His understanding and His answers.
 
 ## Luke 2:48
 
-When his parents saw him, they were amazed. His mother said to him, “Son, why have you treated us like this? Your father and I have been anxiously searching for you.”
+When His parents saw Him, they were amazed. His mother said to Him, “Son, why have You treated us like this? Your father and I have been anxiously searching for You.”
 
 ## Luke 2:49
 
-He replied, “Why were you searching for me? Did you not know that I must be in my Father’s house?”
+He replied, “Why were you searching for Me? Did you not know that I must be in My Father’s house?”
 
 ## Luke 2:50
 
-Yet they did not comprehend what he was saying to them.
+Yet they did not comprehend what He was saying to them.
 
 ## Luke 2:51
 
-Then he went down to Nazareth with them and was obedient to them. Meanwhile, his mother kept all these things in her heart.
+Then He went down to Nazareth with them and was obedient to them. Meanwhile, His mother kept all these things in her heart.
 
 ## Luke 2:52
 

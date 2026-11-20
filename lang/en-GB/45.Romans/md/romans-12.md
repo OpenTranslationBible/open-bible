@@ -6,7 +6,7 @@ Therefore, I urge you, brothers and sisters, by the mercies of God, to offer you
 
 ## Romans 12:2
 
-Do not be conformed to the pattern of this world, but be transformed by the renewing of your mind. This way, you will be able to discern what God’s will is—his good, acceptable, and perfect will.
+Do not be conformed to the pattern of this world, but be transformed by the renewing of your mind. This way, you will be able to discern what God’s will is—His good, acceptable, and perfect will.
 
 ## Romans 12:3
 
@@ -74,15 +74,15 @@ As much as it is within your power, strive to live at peace with everyone.
 
 ## Romans 12:19
 
-Do not take revenge, my dear friends, but leave room for God’s wrath, for it is written: “Vengeance is mine; I will repay,” says the Lord.
+Do not take revenge, my dear friends, but leave room for God’s wrath, for it is written: “Vengeance is Mine; I will repay,” says the Lord.
 
 ## Romans 12:20
 
 Instead,
 
-> if your enemy is hungry, provide him with food;
-> if he is thirsty, offer him something to drink.
-> By doing this, you will heap burning coals on his head.
+>  if your enemy is hungry, provide him with food;
+>  if he is thirsty, offer him something to drink.
+>  By doing this, you will heap burning coals on his head.
 
 ## Romans 12:21
 

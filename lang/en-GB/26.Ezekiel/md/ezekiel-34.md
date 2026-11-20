@@ -30,7 +30,7 @@ Thus, you shepherds, listen to the word of the Lord:
 
 ## Ezekiel 34:8
 
-As surely as I live, declares the Sovereign Lord, because my flock has become plunder and food for all the wild animals, and because my shepherds did not search for my flock but cared for themselves rather than my flock,
+As surely as I live, declares the Sovereign Lord, because My flock has become plunder and food for all the wild animals, and because My shepherds did not search for My flock but cared for themselves rather than My flock,
 
 ## Ezekiel 34:9
 
@@ -38,15 +38,15 @@ So, you shepherds, pay attention to the word of the Lord:
 
 ## Ezekiel 34:10
 
-This is what the Sovereign Lord says: Behold, I am against the shepherds and will hold them accountable for my flock. I will remove them from tending the flock so that they can no longer feed themselves. I will rescue my flock from their mouths, and it will no longer be food for them.
+This is what the Sovereign Lord says: Behold, I am against the shepherds and will hold them accountable for My flock. I will remove them from tending the flock so that they can no longer feed themselves. I will rescue My flock from their mouths, and it will no longer be food for them.
 
 ## Ezekiel 34:11
 
-For this is what the Sovereign Lord says: Behold, I will personally search for my sheep and care for them.
+For this is what the Sovereign Lord says: Behold, I will personally search for My sheep and care for them.
 
 ## Ezekiel 34:12
 
-As a shepherd looks after his scattered flock when he is with them, so I will care for my sheep and rescue them from all the places where they were scattered on a day of clouds and darkness.
+As a shepherd looks after his scattered flock when he is with them, so I will care for My sheep and rescue them from all the places where they were scattered on a day of clouds and darkness.
 
 ## Ezekiel 34:13
 
@@ -58,15 +58,15 @@ I will tend them in a good pasture, and their grazing land will be on the mounta
 
 ## Ezekiel 34:15
 
-I will personally care for my sheep and have them lie down, says the Sovereign Lord.
+I will personally care for My sheep and have them lie down, says the Sovereign Lord.
 
 ## Ezekiel 34:16
 
-I will seek out the lost and bring back the strays. I will bind up the injured and strengthen the weak, but I will deal with the sleek and the strong. I will shepherd the flock with fairness.
+I will seek out the lost and bring back the strays. I will bind up the injured and strengthen the weak, but I will destroy the sleek and the strong. I will shepherd the flock with fairness.
 
 ## Ezekiel 34:17
 
-As for you, my flock, this is what the Sovereign Lord says: I will make distinctions between one sheep and another, and between rams and goats.
+As for you, My flock, this is what the Sovereign Lord says: I will make distinctions between one sheep and another, and between rams and goats.
 
 ## Ezekiel 34:18
 
@@ -74,11 +74,11 @@ Is it not enough for you to feed on the good pasture? Must you trample the rest 
 
 ## Ezekiel 34:19
 
-Must my flock eat what you have trampled with your feet and drink what you have muddied with your feet?
+Must My flock eat what you have trampled with your feet and drink what you have muddied with your feet?
 
 ## Ezekiel 34:20
 
-Therefore, this is what the Sovereign Lord says to them: Behold, I myself will judge between the fat sheep and the lean sheep.
+Therefore, this is what the Sovereign Lord says to them: Behold, I Myself will judge between the fat sheep and the lean sheep.
 
 ## Ezekiel 34:21
 
@@ -86,15 +86,15 @@ Because you shove with flank and shoulder, butting all the weak sheep with your 
 
 ## Ezekiel 34:22
 
-I will rescue my flock, and they will no longer be plundered. I will make distinctions between one sheep and another.
+I will rescue My flock, and they will no longer be plundered. I will make distinctions between one sheep and another.
 
 ## Ezekiel 34:23
 
-I will appoint over them one shepherd, my servant David, and he will tend them; he will tend them and be their shepherd.
+I will appoint over them one shepherd, My servant David, and he will tend them; he will tend them and be their shepherd.
 
 ## Ezekiel 34:24
 
-I, the Lord, will be their God, and my servant David will be a leader among them. I, the Lord, have spoken.
+I, the Lord, will be their God, and My servant David will be a leader among them. I, the Lord, have spoken.
 
 ## Ezekiel 34:25
 
@@ -102,11 +102,11 @@ I will make a covenant of peace with them and rid the land of savage beasts so t
 
 ## Ezekiel 34:26
 
-I will make them and the places surrounding my hill a source of blessing. I will send down showers in season; there will be abundant showers of blessing.
+I will make them and the places surrounding My hill a source of blessing. I will send down showers in season; there will be abundant showers of blessing.
 
 ## Ezekiel 34:27
 
-The trees will yield their fruit and the ground will yield its crops; the people will be secure in their land. They will Recognise that I am the Lord, when I break the bars of their yoke and rescue them from the hands of those who enslaved them.
+The trees will yield their fruit and the ground will yield its crops; the people will be secure in their land. They will recognise that I am the Lord, when I break the bars of their yoke and rescue them from the hands of those who enslaved them.
 
 ## Ezekiel 34:28
 
@@ -118,8 +118,8 @@ I will provide for them a land renowned for its crops, and they will no longer s
 
 ## Ezekiel 34:30
 
-Then they will know that I, the Lord their God, am with them and that they, the house of Israel, are my people, declares the Sovereign Lord.
+Then they will know that I, the Lord their God, am with them and that they, the house of Israel, are My people, declares the Sovereign Lord.
 
 ## Ezekiel 34:31
 
-You are my sheep, the sheep of my pasture, and I am your God, says the Sovereign Lord.’”
+You are My sheep, the sheep of My pasture, and I am your God, says the Sovereign Lord.’”

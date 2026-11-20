@@ -50,11 +50,11 @@ Therefore prophesy and say to them: ‘This is what the Sovereign Lord says: My 
 
 ## Ezekiel 37:13
 
-Then you will Recognise that I am the Lord, when I open your graves and bring you up from them.
+Then you, My people, will recognise that I am the Lord, when I open your graves and bring you up from them.
 
 ## Ezekiel 37:14
 
-I will put my Spirit within you, and you shall live, and I will settle you in your own land. Then you will know that I, the Lord, have spoken and have done it,’ declares the Lord.”
+I will put My Spirit within you, and you shall live, and I will settle you in your own land. Then you will know that I, the Lord, have spoken and have done it,’ declares the Lord.”
 
 ## Ezekiel 37:15
 

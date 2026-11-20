@@ -86,21 +86,21 @@ Prepare a place to slaughter his children for the sins of their forefathers; the
 
 ## Isaiah 14:22
 
-“I will rise up against them,” declares the Lord Almighty, “and cut off from Babylon name and survivors, offspring and descendants,” declares the Lord.
+“I will rise up against them,” declares the Lord of hosts, “and cut off from Babylon name and survivors, offspring and descendants,” declares the Lord.
 
 ## Isaiah 14:23
 
-“I will turn her into a place for owls and into swamps; I will sweep her with the broom of destruction,” declares the Lord Almighty.
+“I will turn her into a place for owls and into swamps; I will sweep her with the broom of destruction,” declares the Lord of hosts.
 
 ---
 
 ## Isaiah 14:24
 
-The Lord Almighty has sworn: “Surely, as I have planned, so it will be, and as I have purposed, so it will stand.
+The Lord of hosts has sworn: “Surely, as I have planned, so it will be, and as I have purposed, so it will stand.
 
 ## Isaiah 14:25
 
-I will crush the Assyrian in my land; on my mountains I will trample him down. His yoke will be removed from my people, and his burden from their shoulders.”
+I will crush the Assyrian in My land; on My mountains I will trample him down. His yoke will be removed from My people, and his burden from their shoulders.”
 
 ## Isaiah 14:26
 
@@ -108,7 +108,7 @@ This is the plan devised against the whole earth; this is the hand stretched out
 
 ## Isaiah 14:27
 
-For the Lord Almighty has purposed, and who can thwart it? His hand is stretched out, and who can turn it back?
+For the Lord of hosts has purposed, and who can thwart it? His hand is stretched out, and who can turn it back?
 
 ---
 
@@ -130,4 +130,4 @@ Wail, you gate! Cry out, you city! Melt away, all you Philistines! A cloud of sm
 
 ## Isaiah 14:32
 
-What answer will be given to the envoys of that nation? “The Lord has established Zion, and in her the afflicted of his people will find refuge.”
+What answer will be given to the envoys of that nation? “The Lord has established Zion, and in her the afflicted of His people will find refuge.”

@@ -6,7 +6,7 @@ When Rachel observed that she was not bearing children for Jacob, she became env
 
 ## Genesis 30:2
 
-Jacob was became angry with Rachel and said, “Am I in the place of God, who has withheld from you the blessing of children?”
+Jacob became angry with Rachel and said, “Am I in the place of God, who has withheld from you the blessing of children?”
 
 ## Genesis 30:3
 

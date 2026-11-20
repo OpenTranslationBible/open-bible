@@ -46,7 +46,7 @@ When the builders laid the foundation of the temple of the Lord, the priests sto
 
 ## Ezra 3:11
 
-With praise and thanksgiving, they sang to the Lord: “He is good; his love towards Israel endures forever.” And all the people gave a great shout of joy to the Lord, because the foundation of the house of the Lord was laid.
+With praise and thanksgiving, they sang to the Lord: “He is good; His love towards Israel endures forever.” And all the people gave a great shout of joy to the Lord, because the foundation of the house of the Lord was laid.
 
 ## Ezra 3:12
 

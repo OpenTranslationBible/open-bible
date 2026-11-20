@@ -58,7 +58,7 @@ and if you say, ‘No, we will go to Egypt, where we will not see war, hear the 
 
 ## Jeremiah 42:15
 
-then listen to the word of the Lord, you remnant of Judah. This is what the Lord of Hosts, the God of Israel, says: ‘If you are determined to go to Egypt and settle there,
+then listen to the word of the Lord, you remnant of Judah. This is what the Lord of hosts, the God of Israel, says: ‘If you are determined to go to Egypt and settle there,
 
 ## Jeremiah 42:16
 
@@ -70,7 +70,7 @@ Indeed, all who are resolved to go to Egypt to reside there will die by the swor
 
 ## Jeremiah 42:18
 
-This is what the Lord of Hosts, the God of Israel, says: ‘As my anger and wrath have been poured out on the inhabitants of Jerusalem, so my wrath will be poured out on you when you enter Egypt. You will become a curse, an object of horror, an imprecation, and a disgrace; you will never see this place again.’
+This is what the Lord of hosts, the God of Israel, says: ‘As My anger and wrath have been poured out on the inhabitants of Jerusalem, so My wrath will be poured out on you when you enter Egypt. You will become a curse, an object of horror, an imprecation, and a disgrace; you will never see this place again.’
 
 ## Jeremiah 42:19
 
@@ -82,8 +82,8 @@ You have deceived yourselves, for you sent me to the Lord your God, saying, ‘P
 
 ## Jeremiah 42:21
 
-I have told you today, but you have not obeyed the Lord your God in all that he sent me to tell you.
+I have told you today, but you have not obeyed the Lord your God in all that He sent me to tell you.
 
 ## Jeremiah 42:22
 
-So now, be assured of this: You will die by the sword, famine, and plague in the place where you desire to go and settle.”
+So now, be assured of this: you will die by the sword, famine, and plague in the place where you desire to go and settle.”

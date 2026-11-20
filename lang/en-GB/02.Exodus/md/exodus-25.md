@@ -4,7 +4,7 @@
 The Lord spoke to Moses, saying,
 
 ## Exodus 25:2
-“Speak to the Israelites and have them bring me an offering. Accept the offering from everyone whose heart moves them to give.
+“Speak to the Israelites and have them bring Me an offering. Accept the offering from everyone whose heart moves them to give.
 
 ## Exodus 25:3
 These are the offerings you are to take from them: gold, silver, and bronze;
@@ -22,7 +22,7 @@ oil from olives for the light; aromatic spices for the anointing oil and the fra
 onyx stones and other gems to be set in the ephod and breastpiece.
 
 ## Exodus 25:8
-“Let them construct a sanctuary for me, so that I may reside among them.
+“Let them construct a sanctuary for Me, so that I may reside among them.
 
 ## Exodus 25:9
 Make the tabernacle and all its furnishings exactly like the pattern I will show you.
@@ -64,7 +64,7 @@ The cherubim are to have their wings extended upwards, casting a shadow over the
 Set the cover on top of the ark and place inside the ark the tablets of the covenant law that I will provide to you.
 
 ## Exodus 25:22
-In that place, above the cover and between the two cherubim that are positioned over the ark of the covenant law, I will meet with you and impart all my instructions for the Israelites.
+In that place, above the cover and between the two cherubim that are positioned over the ark of the covenant law, I will meet with you and impart all My instructions for the Israelites.
 
 ## Exodus 25:23
 “Construct a table of acacia wood—two cubits long, a cubit wide, and a cubit and a half high.
@@ -88,7 +88,7 @@ Fashion the poles of acacia wood, overlay them with gold, and use them to carry 
 Make its plates, dishes, pitchers, and bowls for pouring out offerings, all of pure gold.
 
 ## Exodus 25:30
-Place the bread of the Presence on this table to be before me at all times.
+Place the bread of the Presence on this table to be before Me at all times.
 
 ## Exodus 25:31
 “Create a lampstand of pure gold. The lampstand, its base and its shaft, are to be made of hammered work; its flowerlike cups, buds, and blossoms shall be of one piece with it.

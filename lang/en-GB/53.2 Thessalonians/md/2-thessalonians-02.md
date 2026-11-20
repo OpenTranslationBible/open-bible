@@ -42,7 +42,7 @@ and with all the deceit of wickedness for those who are perishing, because they 
 
 ## 2 Thessalonians 2:11
 
-Because of this, God will allow them to be influenced by a strong delusion, so that they will believe what is false,
+Because of this, God will send them a strong delusion, so that they will believe what is false,
 
 ## 2 Thessalonians 2:12
 

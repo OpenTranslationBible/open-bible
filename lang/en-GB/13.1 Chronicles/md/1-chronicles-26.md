@@ -3,7 +3,7 @@
 ## 1 Chronicles 26:1
 
 Regarding the divisions of the gatekeepers:  
-Among the Korahites, Meshelemiah, son of Kore, from the descendants of Asaph.
+ Among the Korahites, Meshelemiah, son of Kore, from the descendants of Asaph.
 
 ---
 
@@ -11,7 +11,7 @@ Among the Korahites, Meshelemiah, son of Kore, from the descendants of Asaph.
 
 The sons of Meshelemiah were:
 
-> Zechariah the firstborn, Jediael the second, Zebadiah the third, Jathniel the fourth,
+>  Zechariah the firstborn, Jediael the second, Zebadiah the third, Jathniel the fourth,
 
 ---
 
@@ -25,14 +25,14 @@ The sons of Meshelemiah were:
 
 The sons of Obed-edom were:
 
-> Shemaiah the firstborn, Jehozabad the second, Joah the third, Sacar the fourth, Nethanel the fifth,
+>  Shemaiah the firstborn, Jehozabad the second, Joah the third, Sacar the fourth, Nethanel the fifth,
 
 ---
 
 ## 1 Chronicles 26:5
 
 > Ammiel the sixth, Issachar the seventh, Peullethai the eighth;  
-> for the Lord had blessed him.
+>  for the Lord had blessed him.
 
 ---
 
@@ -40,7 +40,7 @@ The sons of Obed-edom were:
 
 Also to his son Shemaiah sons were born,
 
-> who ruled over the house of their father, for they were valiant men.
+>  who ruled over the house of their father, for they were valiant men.
 
 ---
 
@@ -48,8 +48,8 @@ Also to his son Shemaiah sons were born,
 
 The sons of Shemaiah were:
 
-> Othni, Rephael, Obed, Elzabad,  
-> whose brothers, Elihu and Semachiah, were valiant men.
+>  Othni, Rephael, Obed, Elzabad,  
+>  whose brothers, Elihu and Semachiah, were valiant men.
 
 ---
 
@@ -57,7 +57,7 @@ The sons of Shemaiah were:
 
 All these were of the sons of Obed-edom; they and their sons and their relatives were able men with strength for the work:
 
-> sixty-two from Obed-edom.
+>  sixty-two from Obed-edom.
 
 ---
 
@@ -65,7 +65,7 @@ All these were of the sons of Obed-edom; they and their sons and their relatives
 
 Meshelemiah had sons and relatives, able men:
 
-> eighteen in all.
+>  eighteen in all.
 
 ---
 
@@ -73,14 +73,14 @@ Meshelemiah had sons and relatives, able men:
 
 Also Hosah, one of the sons of Merari, had sons:
 
-> Shimri the first (though he was not the firstborn, his father made him first),
+>  Shimri the first (though he was not the firstborn, his father made him first),
 
 ---
 
 ## 1 Chronicles 26:11
 
 > Hilkiah the second, Tebaliah the third, Zechariah the fourth.  
-> Altogether, the sons and relatives of Hosah were thirteen.
+>  Altogether, the sons and relatives of Hosah were thirteen.
 
 ---
 
@@ -88,23 +88,23 @@ Also Hosah, one of the sons of Merari, had sons:
 
 To these divisions of the gatekeepers, the leading men, were assigned duties similar to their relatives,
 
-> to serve in the house of the Lord.
+>  to serve in the house of the Lord.
 
 ---
 
 ## 1 Chronicles 26:13
 
 They cast lots, both small and great alike,  
-according to their fathers’ households, for each gate.
+ according to their fathers’ households, for each gate.
 
 ---
 
 ## 1 Chronicles 26:14
 
 The lot to the east fell to Shelemiah.  
-Then for his son Zechariah, a counsellor with insight, they cast lots,
+ Then for his son Zechariah, a counsellor with insight, they cast lots,
 
-> and his lot came out to the north.
+>  and his lot came out to the north.
 
 ---
 
@@ -112,7 +112,7 @@ Then for his son Zechariah, a counsellor with insight, they cast lots,
 
 For Obed-edom it was to the south,
 
-> and for his sons, the storehouse.
+>  and for his sons, the storehouse.
 
 ---
 
@@ -120,8 +120,8 @@ For Obed-edom it was to the south,
 
 For Shuppim and Hosah it was to the west,
 
-> by the gate of Shallecheth on the ascending road.  
-> Guard corresponded to guard.
+>  by the gate of Shallecheth on the ascending road.  
+>  Guard corresponded to guard.
 
 ---
 
@@ -129,17 +129,15 @@ For Shuppim and Hosah it was to the west,
 
 On the east there were six Levites assigned,
 
-> on the north four each day,  
-> on the south four each day,  
-> and at the storehouse two at a time.
+>  on the north four each day,  
+>  on the south four each day,  
+>  and at the storehouse two at a time.
 
 ---
 
 ## 1 Chronicles 26:18
 
-At the Parbar on the west there were four at the road
-
-> and two at the Parbar.
+At the Parbar on the west there were four at the road and two at the Parbar.
 
 ---
 
@@ -151,9 +149,9 @@ These were the divisions of the gatekeepers of the sons of the Korahites and of 
 
 ## 1 Chronicles 26:20
 
-Of the Levites, Ahijah was over the treasures of the house of God
+Of the Levites,
 
-> and over the treasures of the dedicated gifts.
+>  Ahijah was over the treasures of the house of God and over the treasures of the dedicated gifts.
 
 ---
 
@@ -161,7 +159,7 @@ Of the Levites, Ahijah was over the treasures of the house of God
 
 The sons of Ladan, the sons of the Gershonites belonging to Ladan, the heads of the fathers’ households belonging to Ladan the Gershonite, were:
 
-> Jehieli.
+>  Jehieli.
 
 ---
 
@@ -169,8 +167,8 @@ The sons of Ladan, the sons of the Gershonites belonging to Ladan, the heads of 
 
 The sons of Jehieli were:
 
-> Zetham and Joel his brother,  
-> who were over the treasures of the house of the Lord.
+>  Zetham and Joel his brother,  
+>  who were over the treasures of the house of the Lord.
 
 ---
 
@@ -190,11 +188,11 @@ Shebuel, a descendant of Gershom and Moses, was in charge of the treasures.
 
 His relatives by Eliezer were:
 
-> Rehabiah his son,  
-> and Jeshaiah his son,  
-> and Joram his son,  
-> and Zichri his son,  
-> and Shelomoth his son.
+>  Rehabiah his son,  
+>  and Jeshaiah his son,  
+>  and Joram his son,  
+>  and Zichri his son,  
+>  and Shelomoth his son.
 
 ---
 
@@ -202,9 +200,9 @@ His relatives by Eliezer were:
 
 This Shelomoth and his relatives were over all the treasures of the dedicated gifts,
 
-> which King David and the heads of the fathers’ households,  
-> the commanders of thousands and hundreds,  
-> and the commanders of the army had dedicated.
+>  which King David and the heads of the fathers’ households,  
+>  the commanders of thousands and hundreds,  
+>  and the commanders of the army had dedicated.
 
 ---
 
@@ -218,11 +216,11 @@ They dedicated part of the spoils won in battle to repair the house of the Lord.
 
 And all that Samuel the seer had dedicated,
 
-> and Saul the son of Kish,  
-> and Abner the son of Ner,  
-> and Joab the son of Zeruiah,  
-> everything that anyone had dedicated,  
-> was in the care of Shelomoth and his relatives.
+>  and Saul the son of Kish,  
+>  and Abner the son of Ner,  
+>  and Joab the son of Zeruiah,  
+>  everything that anyone had dedicated,  
+>  was in the care of Shelomoth and his relatives.
 
 ---
 
@@ -230,7 +228,7 @@ And all that Samuel the seer had dedicated,
 
 Of the Izharites, Chenaniah and his sons were assigned to outside duties for Israel,
 
-> as officers and judges.
+>  as officers and judges.
 
 ---
 
@@ -238,18 +236,18 @@ Of the Izharites, Chenaniah and his sons were assigned to outside duties for Isr
 
 Of the Hebronites, Hashabiah and his relatives, 1,700 able men,
 
-> had charge of the affairs of Israel west of the Jordan,  
-> for all the work of the Lord and the service of the king.
+>  had charge of the affairs of Israel west of the Jordan,  
+>  for all the work of the Lord and the service of the king.
 
 ---
 
 ## 1 Chronicles 26:31
 
 Of the Hebronites, Jerijah was the chief of the Hebronites.  
-According to their genealogies by fathers’ households,
+ According to their genealogies by fathers’ households,
 
-> in the fortieth year of David’s reign they were examined,  
-> and capable men were found among them at Jazer of Gilead.
+>  in the fortieth year of David’s reign they were examined,  
+>  and capable men were found among them at Jazer of Gilead.
 
 ---
 
@@ -257,5 +255,5 @@ According to their genealogies by fathers’ households,
 
 And his relatives, capable men, were 2,700 heads of fathers’ households.
 
-> And King David appointed them over the Reubenites, the Gadites, and the half-tribe of the Manassites,  
-> for all the affairs of God and of the king.
+>  And King David appointed them over the Reubenites, the Gadites, and the half-tribe of the Manassites,  
+>  for all the affairs of God and of the king.

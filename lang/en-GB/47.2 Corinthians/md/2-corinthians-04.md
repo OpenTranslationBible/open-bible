@@ -6,7 +6,7 @@ Thus, since we have this ministry, through the mercy we have received, we do not
 
 ## 2 Corinthians 4:2
 
-But we have renounced the hidden things of shame, not walking in deceit nor altering the word of God, but by openly declaring the truth, we commend ourselves to every person’s conscience in the sight of God.
+but we have renounced the hidden things of shame, not walking in deceit nor altering the word of God, but by openly declaring the truth, we commend ourselves to every person’s conscience in the sight of God.
 
 ## 2 Corinthians 4:3
 
@@ -14,11 +14,11 @@ And even if our gospel is veiled, it is veiled only to those who are lost,
 
 ## 2 Corinthians 4:4
 
-In whose case the god of this age has blinded the minds of the unbelieving, so they cannot see the light of the gospel of the glory of Christ, who is the image of God.
+in whose case the god of this age has blinded the minds of the unbelieving, so they cannot see the light of the gospel of the glory of Christ, who is the image of God.
 
 ## 2 Corinthians 4:5
 
-For we do not proclaim ourselves, but Christ Jesus as Lord, and ourselves as your servants for Jesus' sake.
+For we do not proclaim ourselves, but Christ Jesus as Lord, and ourselves as your servants for Jesus’ sake.
 
 ## 2 Corinthians 4:6
 
@@ -30,19 +30,19 @@ But we have this treasure in earthen vessels, so that the surpassing greatness o
 
 ## 2 Corinthians 4:8
 
-We face troubles on every side, but are not crushed; we are sometimes confused, but do not despair;
+we face troubles on every side, but are not crushed; we are sometimes confused, but do not despair;
 
 ## 2 Corinthians 4:9
 
-Persecuted, but not forsaken; knocked down, but not destroyed;
+persecuted, but not forsaken; knocked down, but not destroyed;
 
 ## 2 Corinthians 4:10
 
-Always carrying in the body the death of Jesus, so that the life of Jesus may also be revealed in our body.
+always carrying in the body the death of Jesus, so that the life of Jesus may also be revealed in our body.
 
 ## 2 Corinthians 4:11
 
-For we who live are continually being delivered to death for Jesus' sake, so that the life of Jesus may also be revealed in our mortal flesh.
+For we who live are continually being delivered to death for Jesus’ sake, so that the life of Jesus may also be revealed in our mortal flesh.
 
 ## 2 Corinthians 4:12
 
@@ -54,7 +54,7 @@ Yet having the same spirit of faith, according to what is written: “I believed
 
 ## 2 Corinthians 4:14
 
-Aware that the One who raised the Lord Jesus will also raise us with Jesus and will present us together with you.
+aware that the One who raised the Lord Jesus will also raise us with Jesus and will present us together with you.
 
 ## 2 Corinthians 4:15
 
@@ -62,12 +62,12 @@ For all things are for your benefit, so that grace, having spread to more and mo
 
 ## 2 Corinthians 4:16
 
-Therefore we do not lose heart, for though our outer self is wasting away, so our inner self is renewed day by day.
+Therefore we do not lose heart, for though our outer self is wasting away, yet our inner self is renewed day by day.
 
 ## 2 Corinthians 4:17
 
-For our momentary light affliction, is producing for us an eternal weight of glory beyond comparison,
+For our momentary light affliction is producing for us an eternal weight of glory beyond comparison,
 
 ## 2 Corinthians 4:18
 
-While we look not on the things which are seen, but on the things which are unseen; for the things which are seen are temporary, but the things which are unseen are eternal.
+while we look not on the things which are seen, but on the things which are unseen; for the things which are seen are temporary, but the things which are unseen are eternal.

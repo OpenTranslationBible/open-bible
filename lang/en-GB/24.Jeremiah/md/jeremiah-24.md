@@ -26,7 +26,7 @@ I will watch over them for their good, and I will bring them back to this land. 
 
 ## Jeremiah 24:7
 
-I will grant them an understanding heart to Recognise Me as the Lord. They will be My people, and I will be their God, for they will return to Me wholeheartedly.
+I will grant them an understanding heart to recognise Me as the Lord. They will be My people, and I will be their God, for they will return to Me wholeheartedly.
 
 ## Jeremiah 24:8
 

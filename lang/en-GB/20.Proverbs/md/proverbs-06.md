@@ -10,9 +10,9 @@ you have been ensnared by the words of your mouth, caught by what you have spoke
 
 ## Proverbs 6:3
 
-So do this, my son, to save yourself, since you have fallen into your neighbour's hands:
+So do this, my son, to save yourself, since you have fallen into your neighbour’s hands:
 
-> Go, humble yourself, and be urgent with your neighbour to free yourself.
+>  Go, humble yourself, and be urgent with your neighbour to free yourself.
 
 ## Proverbs 6:4
 
@@ -20,9 +20,9 @@ Do not allow sleep to your eyes, nor slumber to your eyelids;
 
 ## Proverbs 6:5
 
-Save yourself like a gazelle from the hunter's hand,
+save yourself like a gazelle from the hunter’s hand,
 
-> and like a bird from the snare of the fowler.
+>  and like a bird from the snare of the fowler.
 
 ---
 
@@ -46,7 +46,7 @@ How long will you lie there, you lazy one? When will you arise from your sleep?
 
 A brief sleep, a little slumber,
 
-> a slight folding of the hands to rest—
+>  a slight folding of the hands to rest—
 
 ## Proverbs 6:11
 
@@ -81,23 +81,23 @@ There are six things the Lord hates, seven that are an abomination to Him:
 ## Proverbs 6:17
 
 > proud eyes, a deceitful tongue,
-> and hands that spill innocent blood,
+>  and hands that spill innocent blood,
 
 ## Proverbs 6:18
 
 > a heart that plans wicked schemes,
-> feet that are swift to rush into evil,
+>  feet that are swift to rush into evil,
 
 ## Proverbs 6:19
 
 > a false witness who pours out lies,
-> and one who spreads strife among brothers.
+>  and one who spreads strife among brothers.
 
 ---
 
 ## Proverbs 6:20
 
-My son, keep your father's commandment, and do not forsake your mother's teaching.
+My son, keep your father’s commandment, and do not forsake your mother’s teaching.
 
 ## Proverbs 6:21
 
@@ -107,7 +107,7 @@ Bind them continually on your heart; fasten them around your neck.
 
 When you walk, they will guide you; when you sleep, they will watch over you;
 
-> and when you awake, they will speak to you.
+>  and when you awake, they will speak to you.
 
 ## Proverbs 6:23
 
@@ -137,7 +137,7 @@ Or can one walk on hot coals without his feet being scorched?
 
 ## Proverbs 6:29
 
-So is the one who goes in to his neighbour's wife; whoever touches her will not go unpunished.
+So is the one who goes in to his neighbour’s wife; whoever touches her will not go unpunished.
 
 ---
 

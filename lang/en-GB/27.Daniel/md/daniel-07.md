@@ -82,4 +82,4 @@ But the court will sit in judgement, and his dominion will be taken away, annihi
 Then the sovereignty, dominion, and greatness of all the kingdoms under heaven will be given to the people of the holy ones of the Most High. His kingdom will be an everlasting kingdom, and all rulers will serve and obey Him.’
 
 ## Daniel 7:28
-This is the conclusion of the matter. I, Daniel, was greatly troubled by my thoughts, and my face turned pale, but I kept the matter to myself.
+This is the conclusion of the matter. I, Daniel, was greatly troubled by my thoughts, and my face turned pale, but I kept the matter to myself.”

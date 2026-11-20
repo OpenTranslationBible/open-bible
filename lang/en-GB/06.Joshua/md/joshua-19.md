@@ -18,7 +18,7 @@ Eltolad, Bethul, and the settlement of Hormah,
 
 ## Joshua 19:5
 
-Ziklag, Beth Markaboth, and the settlement of Hazar Susah,
+Ziklag, Beth Marcaboth, and the settlement of Hazar Susah,
 
 ## Joshua 19:6
 
@@ -102,7 +102,7 @@ The fifth lot came out for the tribe of Asher according to their families.
 
 ## Joshua 19:25
 
-Their territory included Helkath, Hali, Beten, and Akshaph,
+Their territory included Helkath, Hali, Beten, and Achshaph,
 
 ## Joshua 19:26
 
@@ -110,7 +110,7 @@ Allammelech, Amad, and Mishal; on the west the boundary touched Carmel and Shiho
 
 ## Joshua 19:27
 
-It turned eastward toward Beth Dagon, touched Zebulun and the Valley of Iphtah El, and went north to Beth Emek and Neiel, passing Kabul on the left.
+It turned eastward toward Beth Dagon, touched Zebulun and the Valley of Iphtah El, and went north to Beth Emek and Neiel, passing Cabul on the left.
 
 ## Joshua 19:28
 
@@ -142,7 +142,7 @@ The boundary turned westward to Aznoth Tabor and came out at Hukkok. It touched 
 
 ## Joshua 19:35
 
-The fortified towns were Ziddim, Zer, Hammath, Rakkath, and Kinnereth,
+The fortified towns were Ziddim, Zer, Hammath, Rakkath, and Chinnereth,
 
 ## Joshua 19:36
 

@@ -2,15 +2,15 @@
 
 ## Judges 9:1
 
-Abimelech, the son of Jerubbaal, went to Shechem to his mother's kin and spoke to them and to the whole family of his mother's father, saying,
+Abimelech, the son of Jerubbaal, went to Shechem to his mother’s kin and spoke to them and to the whole family of his mother’s father, saying,
 
 ## Judges 9:2
 
-"Speak to all the leaders of Shechem, 'Which is better for you: to have seventy men, all the sons of Jerubbaal, rule over you, or just one man?' Remember, I am your own flesh and blood."
+“Speak to all the leaders of Shechem, ‘Which is better for you: to have seventy men, all the sons of Jerubbaal, rule over you, or just one man?’ Remember, I am your own flesh and blood.”
 
 ## Judges 9:3
 
-His mother's relatives spoke all these words on his behalf to the leaders of Shechem, and they were inclined to follow Abimelech, for they said, "He is our relative."
+His mother’s relatives spoke all these words on his behalf to the leaders of Shechem, and they were inclined to follow Abimelech, for they said, “He is our relative.”
 
 ## Judges 9:4
 
@@ -18,7 +18,7 @@ They gave him seventy pieces of silver from the temple of Baal-Berith, and with 
 
 ## Judges 9:5
 
-He went to his father's house in Ophrah and killed his brothers, the sons of Jerubbaal, seventy men, on one stone. But Jotham, the youngest son of Jerubbaal, survived because he hid himself.
+He went to his father’s house in Ophrah and killed his brothers, the sons of Jerubbaal, seventy men, on one stone. But Jotham, the youngest son of Jerubbaal, survived because he hid himself.
 
 ## Judges 9:6
 
@@ -28,43 +28,43 @@ Then all the leaders of Shechem and Beth-Millo gathered together and made Abimel
 
 ## Judges 9:7
 
-When Jotham was informed, he went and stood on the top of Mount Gerizim and shouted to them, "Listen to me, leaders of Shechem, that God may listen to you.
+When Jotham was informed, he went and stood on the top of Mount Gerizim and shouted to them, “Listen to me, leaders of Shechem, that God may listen to you.
 
 ## Judges 9:8
 
-The trees once set out to appoint a king over themselves, and they said to the olive tree, 'Rule over us!'
+The trees once set out to appoint a king over themselves, and they said to the olive tree, ‘Rule over us!’
 
 ## Judges 9:9
 
-But the olive tree replied, 'Should I give up my oil, by which both gods and humans are honoured, to wave over the trees?'
+But the olive tree replied, ‘Should I give up my oil, by which both gods and humans are honoured, to wave over the trees?’
 
 ## Judges 9:10
 
-Then the trees addressed the fig tree, 'You, come and reign over us!'
+Then the trees addressed the fig tree, ‘You, come and reign over us!’
 
 ## Judges 9:11
 
-But the fig tree replied, 'Should I give up my sweetness and my good fruit to wave over the trees?'
+But the fig tree replied, ‘Should I give up my sweetness and my good fruit to wave over the trees?’
 
 ## Judges 9:12
 
-The trees then spoke to the vine, saying, 'You, come and reign over us!'
+The trees then spoke to the vine, saying, ‘You, come and reign over us!’
 
 ## Judges 9:13
 
-But the vine replied, 'Should I give up my wine, which cheers both gods and humans, to wave over the trees?'
+But the vine replied, ‘Should I give up my wine, which cheers both gods and humans, to wave over the trees?’
 
 ## Judges 9:14
 
-Finally, all the trees said to the bramble, 'You, come and reign over us!'
+Finally, all the trees said to the bramble, ‘You, come and reign over us!’
 
 ## Judges 9:15
 
-The bramble said to the trees, 'If you are truly anointing me as king over you, come and take refuge in my shade; but if not, let fire come out of the bramble and consume the cedars of Lebanon.'
+The bramble said to the trees, ‘If you are truly anointing me as king over you, come and take refuge in my shade; but if not, let fire come out of the bramble and consume the cedars of Lebanon.’
 
 ## Judges 9:16
 
-"So now, if you have acted with honesty and integrity in making Abimelech king, and if you have dealt well with Jerubbaal and his house, and have treated him as he deserved—
+“So now, if you have acted with honesty and integrity in making Abimelech king, and if you have dealt well with Jerubbaal and his house, and have treated him as he deserved—
 
 ## Judges 9:17
 
@@ -72,7 +72,7 @@ for my father fought for you and risked his life to rescue you from the hand of 
 
 ## Judges 9:18
 
-but today you have risen against my father's house, killed his sons, seventy men, on one stone, and made Abimelech, the son of his female slave, king over the leaders of Shechem because he is your relative—
+but today you have risen against my father’s house, killed his sons, seventy men, on one stone, and made Abimelech, the son of his female slave, king over the leaders of Shechem because he is your relative—
 
 ## Judges 9:19
 
@@ -80,7 +80,7 @@ if you have acted with honesty and integrity towards Jerubbaal and his house tod
 
 ## Judges 9:20
 
-But if not, let fire come out from Abimelech and consume the leaders of Shechem and Beth-Millo; and let fire come out from the leaders of Shechem and Beth-Millo and consume Abimelech."
+But if not, let fire come out from Abimelech and consume the leaders of Shechem and Beth-Millo; and let fire come out from the leaders of Shechem and Beth-Millo and consume Abimelech.”
 
 ## Judges 9:21
 
@@ -112,11 +112,11 @@ They went out into the fields, gathered the grapes of their vineyards, trod them
 
 ## Judges 9:28
 
-Then Gaal, the son of Ebed, said, "Who is Abimelech, and who is Shechem, that we should serve him? Is he not the son of Jerubbaal, and is Zebul not his deputy? Serve the men of Hamor, Shechem's father! Why should we serve him?
+Then Gaal, the son of Ebed, said, “Who is Abimelech, and who is Shechem, that we should serve him? Is he not the son of Jerubbaal, and is Zebul not his deputy? Serve the men of Hamor, Shechem’s father! Why should we serve him?
 
 ## Judges 9:29
 
-If only this people were under my command! Then I would get rid of him." And he said to Abimelech, "Enlarge your army and come out!"
+If only this people were under my command! Then I would get rid of him.” And he said to Abimelech, “Enlarge your army and come out!”
 
 ## Judges 9:30
 
@@ -124,7 +124,7 @@ When Zebul, the leader of the city, heard what Gaal, the son of Ebed, said, he w
 
 ## Judges 9:31
 
-Under cover, he sent messengers to Abimelech, saying, "Gaal, the son of Ebed, and his relatives have come to Shechem and are stirring up the city against you.
+Under cover, he sent messengers to Abimelech, saying, “Gaal, the son of Ebed, and his relatives have come to Shechem and are stirring up the city against you.
 
 ## Judges 9:32
 
@@ -132,7 +132,7 @@ Now then, arise by night, you and the people who are with you, and lie in wait i
 
 ## Judges 9:33
 
-In the morning, at sunrise, advance against the city. When he and the people who are with him come out against you, do to them whatever you can."
+In the morning, at sunrise, advance against the city. When he and the people who are with him come out against you, do to them whatever you can.”
 
 ## Judges 9:34
 
@@ -144,15 +144,15 @@ Now Gaal, the son of Ebed, went out and stood at the entrance of the city gate, 
 
 ## Judges 9:36
 
-When Gaal saw them, he said to Zebul, "Look, people are coming down from the tops of the mountains!" Zebul replied, "You are mistaking the shadows of the mountains for men."
+When Gaal saw them, he said to Zebul, “Look, people are coming down from the tops of the mountains!” Zebul replied, “You are mistaking the shadows of the mountains for men.”
 
 ## Judges 9:37
 
-But Gaal spoke again, "Look, people are coming down from the highest part of the land, and one company is coming from the direction of the diviners' tree."
+But Gaal spoke again, “Look, people are coming down from the highest part of the land, and one company is coming from the direction of the diviners’ tree.”
 
 ## Judges 9:38
 
-Then Zebul said to him, "Where is your boasting now, you who said, 'Who is Abimelech that we should serve him?' Are these not the people you ridiculed? Go out and fight them!"
+Then Zebul said to him, “Where is your boasting now, you who said, ‘Who is Abimelech that we should serve him?’ Are these not the people you ridiculed? Go out and fight them!”
 
 ## Judges 9:39
 
@@ -192,7 +192,7 @@ It was reported to Abimelech that all the leaders of the tower of Shechem had ga
 
 ## Judges 9:48
 
-So Abimelech went up to Mount Zalmon, he and all the people with him. Abimelech took an axe in his hand, cut down a branch from the trees, lifted it to his shoulder, and said to the people with him, "What you have seen me do, hurry and do likewise."
+So Abimelech went up to Mount Zalmon, he and all the people with him. Abimelech took an axe in his hand, cut down a branch from the trees, lifted it to his shoulder, and said to the people with him, “What you have seen me do, hurry and do likewise.”
 
 ## Judges 9:49
 
@@ -212,11 +212,11 @@ Abimelech went to the tower and attacked it, approaching the entrance to set it 
 
 ## Judges 9:53
 
-But a woman dropped an upper millstone on Abimelech's head, cracking his skull.
+But a woman dropped an upper millstone on Abimelech’s head, cracking his skull.
 
 ## Judges 9:54
 
-Hurriedly, he called to his young armour-bearer and said, "Draw your sword and kill me, so that they can't say, 'A woman killed him.'" So the young man ran him through, and he died.
+Hurriedly, he called to his young armour-bearer and said, “Draw your sword and kill me, so that they can’t say, ‘A woman killed him.’” So the young man ran him through, and he died.
 
 ## Judges 9:55
 

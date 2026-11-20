@@ -4,15 +4,15 @@
 
 The descendants of Levi included:
 
-> Gershon, Kohath, and Merari.
+>  Gershon, Kohath, and Merari.
 
 ---
 
 ## 1 Chronicles 6:2
 
-Kohath's lineage comprised:
+Kohath’s lineage comprised:
 
-> Amram, Izhar, Hebron, and Uzziel.
+>  Amram, Izhar, Hebron, and Uzziel.
 
 ---
 
@@ -20,9 +20,9 @@ Kohath's lineage comprised:
 
 The offspring of Amram were:
 
-> Aaron, Moses, and Miriam.  
-> And the sons of Aaron were:  
-> Nadab, Abihu, Eleazar, and Ithamar.
+>  Aaron, Moses, and Miriam.  
+>  And the sons of Aaron were:  
+>  Nadab, Abihu, Eleazar, and Ithamar.
 
 ---
 
@@ -82,7 +82,7 @@ And Jehozadak went along when the Lord took Judah and Jerusalem into exile by th
 
 The descendants of Levi included:
 
-> Gershom, Kohath, and Merari.
+>  Gershom, Kohath, and Merari.
 
 ---
 
@@ -90,15 +90,15 @@ The descendants of Levi included:
 
 These are the sons of Gershom:
 
-> Libni and Shimei.
+>  Libni and Shimei.
 
 ---
 
 ## 1 Chronicles 6:18
 
-Kohath's lineage comprised:
+Kohath’s lineage comprised:
 
-> Amram, Izhar, Hebron, and Uzziel.
+>  Amram, Izhar, Hebron, and Uzziel.
 
 ---
 
@@ -106,8 +106,8 @@ Kohath's lineage comprised:
 
 The sons of Merari were:
 
-> Mahli and Mushi.  
-> These are the families of the Levites according to their fathers’ households.
+>  Mahli and Mushi.  
+>  These are the families of the Levites according to their fathers’ households.
 
 ---
 
@@ -115,23 +115,23 @@ The sons of Merari were:
 
 Of Gershom:
 
-> Libni who fathered, Jahath who fathered, Zimmah
+>  Libni who fathered, Jahath who fathered, Zimmah who fathered,
 
 ## 1 Chronicles 6:21
 
-> Joah who fathered, Iddo who fathered, Zerah who fathered, Jeatherai
+> Joah who fathered, Iddo who fathered, Zerah who fathered, Jeatherai.
 
 ---
 
 ## 1 Chronicles 6:22
 
-Kohath's lineage comprised:
+Kohath’s lineage comprised:
 
-> Amminadab who fathered, Korah who fathered, Assir,
+>  Amminadab who fathered, Korah who fathered, Assir who fathered,
 
 ## 1 Chronicles 6:23
 
-> Elkanah who fathered, Ebiasaph who fathered, Assir,
+> Elkanah who fathered, Ebiasaph who fathered, Assir who fathered,
 
 ## 1 Chronicles 6:24
 
@@ -143,7 +143,7 @@ Kohath's lineage comprised:
 
 The offspring of Elkanah were:
 
-> Amasai and Ahimoth.
+>  Amasai and Ahimoth.
 
 ---
 
@@ -151,7 +151,7 @@ The offspring of Elkanah were:
 
 Elkanah:
 
-> Elkanah who fathered, Zophai who fathered, Nahath,
+>  Elkanah who fathered, Zophai who fathered, Nahath who fathered,
 
 ## 1 Chronicles 6:27
 
@@ -163,15 +163,15 @@ Elkanah:
 
 The offspring of Samuel were:
 
-> Joel the firstborn, and Abijah the second.
+>  Joel the firstborn, and Abijah the second.
 
 ---
 
 ## 1 Chronicles 6:29
 
-The sons of Merari were:
+The sons of Merari were: Mahli,
 
-> Mahli, Libni who fathered, Shimei who fathered, Uzzah,
+>  Libni who fathered, Shimei who fathered, Uzzah who fathered,
 
 ## 1 Chronicles 6:30
 
@@ -182,24 +182,24 @@ The sons of Merari were:
 ## 1 Chronicles 6:31
 
 These are the ones whom David appointed over the service of song in the house of the Lord,  
-after the ark came to rest there.
+ after the ark came to rest there.
 
 ---
 
 ## 1 Chronicles 6:32
 
 They ministered with song before the tabernacle of the tent of meeting,  
-until Solomon had built the house of the Lord in Jerusalem;  
-and they carried out their duties according to the order given them.
+ until Solomon had built the house of the Lord in Jerusalem;  
+ and they carried out their duties according to the order given them.
 
 ---
 
 ## 1 Chronicles 6:33
 
 These are those who served with their sons:  
-From the sons of the Kohathites:
+ From the sons of the Kohathites:
 
-> Heman the singer, whose father was Joel, whose father was Samuel,
+>  Heman the singer, whose father was Joel, whose father was Samuel,
 
 ## 1 Chronicles 6:34
 
@@ -227,15 +227,15 @@ From the sons of the Kohathites:
 
 Heman’s relative Asaph stood at his right hand,
 
-> Asaph whose father was Berechiah, whose father was Shimea,
+>  Asaph whose father was Berechiah, whose father was Shimea,
 
 ## 1 Chronicles 6:40
 
-> whose father was Michael, who was the father of Baaseiah, whose father was Malchijah,
+> whose father was Michael, whose father was Baaseiah, whose father was Malchijah,
 
 ## 1 Chronicles 6:41
 
-> whose father was Ethni, who was the father of Zerah, whose father was Adaiah,
+> whose father was Ethni, whose father was Zerah, whose father was Adaiah,
 
 ## 1 Chronicles 6:42
 
@@ -243,7 +243,7 @@ Heman’s relative Asaph stood at his right hand,
 
 ## 1 Chronicles 6:43
 
-> whose father was Jahath, who was the father of Gershom, whose father was Levi.
+> whose father was Jahath, whose father was Gershom, whose father was Levi.
 
 ---
 
@@ -251,34 +251,33 @@ Heman’s relative Asaph stood at his right hand,
 
 On the left hand were their relatives,
 
-> the sons of Merari: Ethan whose father was Kishi, who was the father of Abdi, whose father was Malluch,
+>  the sons of Merari: Ethan whose father was Kishi, whose father was Abdi, whose father was Malluch,
 
 ## 1 Chronicles 6:45
 
-> whose father was Hashabiah, who was the father of Amaziah, whose father was Hilkiah,
+> whose father was Hashabiah, whose father was Amaziah, whose father was Hilkiah,
 
 ## 1 Chronicles 6:46
 
-> whose father was Amzi, who was the father of Bani, whose father was Shemer,
+> whose father was Amzi, whose father was Bani, whose father was Shemer,
 
 ## 1 Chronicles 6:47
 
-> whose father was Mahli, who was the father of Mushi, whose father was Merari, whose father was Levi.
+> whose father was Mahli, whose father was Mushi, whose father was Merari, whose father was Levi.
 
 ---
 
 ## 1 Chronicles 6:48
 
-Their relatives the Levites were appointed for all the service of the tabernacle  
-of the house of God.
+Their relatives the Levites were appointed for all the service of the tabernacle of the house of God.
 
 ---
 
 ## 1 Chronicles 6:49
 
-However, Aaron and his sons made offerings on the altar of burnt offering  
-and on the altar of incense, for all the work of the Most Holy Place,  
-and to make atonement for Israel, according to all that Moses the servant of God had commanded.
+However, Aaron and his sons made offerings on the altar of burnt offering and on the altar of incense,  
+ for all the work of the Most Holy Place,  
+ and to make atonement for Israel, according to all that Moses the servant of God had commanded.
 
 ---
 
@@ -286,7 +285,7 @@ and to make atonement for Israel, according to all that Moses the servant of God
 
 These are the sons of Aaron:
 
-> Eleazar who fathered, Phinehas who fathered, Abishua who fathered,
+>  Eleazar who fathered, Phinehas who fathered, Abishua who fathered,
 
 ## 1 Chronicles 6:51
 
@@ -305,9 +304,9 @@ These are the sons of Aaron:
 ## 1 Chronicles 6:54
 
 Now these are their settlements according to their camps within their borders:  
-To the sons of Aaron, of the families of the Kohathites,
+ To the sons of Aaron, of the families of the Kohathites,
 
-> for the lot fell to them first.
+>  for the lot fell to them first.
 
 ---
 
@@ -325,7 +324,7 @@ but they gave the fields of the city and its villages to Caleb, son of Jephunneh
 
 To the sons of Aaron they provided the following cities of refuge:
 
-> Hebron, Libnah with its pasture lands, Jattir, Eshtemoa with its pasture lands,
+>  Hebron, Libnah with its pasture lands, Jattir, Eshtemoa with its pasture lands,
 
 ## 1 Chronicles 6:58
 
@@ -341,30 +340,30 @@ To the sons of Aaron they provided the following cities of refuge:
 
 From the tribe of Benjamin they gave:
 
-> Geba, Alemeth, and Anathoth with their pasture lands.  
-> All their cities for the families of the sons of Aaron were thirteen cities in all.
+>  Geba, Alemeth, and Anathoth with their pasture lands.  
+>  All their cities for the families of the sons of Aaron were thirteen cities in all.
 
 ---
 
 ## 1 Chronicles 6:61
 
 To the rest of the sons of Kohath, from the families of the tribe,  
-they gave ten cities by lot from the half-tribe, the half of Manasseh.
+ they gave ten cities by lot from the half-tribe, the half of Manasseh.
 
 ---
 
 ## 1 Chronicles 6:62
 
 To the sons of Gershom, according to their families,  
-they gave thirteen cities from the tribes of Issachar, Asher, Naphtali,  
-and Manasseh in Bashan.
+ they gave thirteen cities from the tribes of Issachar, Asher, Naphtali,  
+ and Manasseh in Bashan.
 
 ---
 
 ## 1 Chronicles 6:63
 
 To the sons of Merari, according to their families,  
-they gave twelve cities from the tribes of Reuben, Gad, and Zebulun.
+ they gave twelve cities from the tribes of Reuben, Gad, and Zebulun.
 
 ---
 
@@ -377,15 +376,14 @@ Thus, the Israelites provided the Levites with the cities and their pasture land
 ## 1 Chronicles 6:65
 
 They allocated by lot from the tribe of the sons of Judah, the tribe of the sons of Simeon,  
-and the tribe of the sons of Benjamin,  
-these cities which are mentioned by name.
+ and the tribe of the sons of Benjamin,  
+ these cities which are mentioned by name.
 
 ---
 
 ## 1 Chronicles 6:66
 
-Now some of the families of the sons of Kohath had cities of their inheritance  
-from the tribe of Ephraim.
+Now some of the families of the sons of Kohath had cities of their inheritance from the tribe of Ephraim.
 
 ---
 
@@ -393,8 +391,8 @@ from the tribe of Ephraim.
 
 They gave them the cities of refuge:
 
-> Shechem in the hill country of Ephraim with its pasture lands,  
-> Gezer with its pasture lands,
+>  Shechem in the hill country of Ephraim with its pasture lands,  
+>  Gezer with its pasture lands,
 
 ## 1 Chronicles 6:68
 
@@ -410,8 +408,8 @@ They gave them the cities of refuge:
 
 and from the half-tribe of Manasseh:
 
-> Aner with its pasture lands, and Bileam with its pasture lands,  
-> for the rest of the families of the sons of Kohath.
+>  Aner with its pasture lands, and Bileam with its pasture lands,  
+>  for the rest of the families of the sons of Kohath.
 
 ---
 
@@ -419,7 +417,7 @@ and from the half-tribe of Manasseh:
 
 To the sons of Gershom they gave:
 
-> From the family of the half-tribe of Manasseh: Golan in Bashan with its pasture lands, and Ashtaroth with its pasture lands;
+>  From the family of the half-tribe of Manasseh: Golan in Bashan with its pasture lands, and Ashtaroth with its pasture lands;
 
 ---
 
@@ -427,7 +425,7 @@ To the sons of Gershom they gave:
 
 From the tribe of Issachar:
 
-> Kedesh with its pasture lands, Daberath with its pasture lands,
+>  Kedesh with its pasture lands, Daberath with its pasture lands,
 
 ## 1 Chronicles 6:73
 
@@ -439,7 +437,7 @@ From the tribe of Issachar:
 
 From the tribe of Asher:
 
-> Mashal with its pasture lands, Abdon with its pasture lands,
+>  Mashal with its pasture lands, Abdon with its pasture lands,
 
 ## 1 Chronicles 6:75
 
@@ -451,8 +449,8 @@ From the tribe of Asher:
 
 From the tribe of Naphtali:
 
-> Kedesh in Galilee with its pasture lands,  
-> Hammon with its pasture lands, and Kiriathaim with its pasture lands.
+>  Kedesh in Galilee with its pasture lands,  
+>  Hammon with its pasture lands, and Kiriathaim with its pasture lands.
 
 ---
 
@@ -460,7 +458,7 @@ From the tribe of Naphtali:
 
 To the rest of the Levites, the sons of Merari:
 
-> From the tribe of Zebulun: Rimmono with its pasture lands, Tabor with its pasture lands;
+>  From the tribe of Zebulun: Rimmono with its pasture lands, Tabor with its pasture lands;
 
 ---
 
@@ -468,7 +466,7 @@ To the rest of the Levites, the sons of Merari:
 
 And beyond the Jordan at Jericho, on the east side of the Jordan:
 
-> From the tribe of Reuben: Bezer in the wilderness with its pasture lands, Jahzah with its pasture lands,
+>  From the tribe of Reuben: Bezer in the wilderness with its pasture lands, Jahzah with its pasture lands,
 
 ## 1 Chronicles 6:79
 
@@ -480,8 +478,8 @@ And beyond the Jordan at Jericho, on the east side of the Jordan:
 
 From the tribe of Gad:
 
-> Ramoth in Gilead with its pasture lands,  
-> Mahanaim with its pasture lands,
+>  Ramoth in Gilead with its pasture lands,  
+>  Mahanaim with its pasture lands,
 
 ## 1 Chronicles 6:81
 

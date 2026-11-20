@@ -20,7 +20,7 @@ The woman was arrayed in purple and scarlet, and adorned with gold, precious sto
 
 On her forehead a name was written, a mystery:
 
-“BABYLON THE GREAT, THE MOTHER OF PROSTITUTES AND OF THE ABOMINATIONS OF THE EARTH.”
+ “BABYLON THE GREAT, THE MOTHER OF PROSTITUTES AND OF THE ABOMINATIONS OF THE EARTH.”
 
 ## Revelation 17:6
 
@@ -56,7 +56,7 @@ These have one purpose and will give their power and authority to the beast.
 
 ## Revelation 17:14
 
-They will wage war against the Lamb, but the Lamb will overcome them because he is Lord of lords and King of kings; and with him will be his called, chosen, and faithful followers.”
+They will wage war against the Lamb, but the Lamb will overcome them because He is Lord of lords and King of kings; and with Him will be His called, chosen, and faithful followers.”
 
 ## Revelation 17:15
 
@@ -68,7 +68,7 @@ The ten horns you saw, and the beast, will hate the prostitute. They will make h
 
 ## Revelation 17:17
 
-For God has put it into their hearts to carry out his purpose by having a common purpose and by giving their kingdom to the beast, until the words of God are fulfilled.
+For God has put it into their hearts to carry out His purpose by having a common purpose and by giving their kingdom to the beast, until the words of God are fulfilled.
 
 ## Revelation 17:18
 

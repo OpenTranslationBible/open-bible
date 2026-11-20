@@ -2,11 +2,11 @@
 
 ## Matthew 9:1
 
-Jesus entered a boat, crossed over the Sea of Galilee, and came to his own city.
+Jesus entered a boat, crossed over the Sea of Galilee, and came to His own city.
 
 ## Matthew 9:2
 
-Some men brought to him a paralysed man on a stretcher. Seeing their faith, Jesus said to the paralysed man, “Take heart, son; your sins are forgiven.”
+Some men brought to Him a paralysed man on a stretcher. Seeing their faith, Jesus said to the paralysed man, “Take heart, son; your sins are forgiven.”
 
 ## Matthew 9:3
 
@@ -18,11 +18,11 @@ But Jesus, knowing their thoughts, said, “Why do you harbour evil thoughts in 
 
 ## Matthew 9:5
 
-What is simpler: to declare, ‘Your sins are forgiven,’ or to say, Get up and walk’?
+What is simpler: to declare, ‘Your sins are forgiven,’ or to say, ‘Get up and walk’?
 
 ## Matthew 9:6
 
-But so that you may know that the Son of Man has authority on earth to forgive sins”—he then said to the paralysed man, “Get up, take your stretcher and go home.”
+But so that you may know that the Son of Man has authority on earth to forgive sins”—He then said to the paralysed man, “Get up, take your stretcher and go home.”
 
 ## Matthew 9:7
 
@@ -36,15 +36,15 @@ When the crowds saw this, they were filled with awe and glorified God, who had g
 
 ## Matthew 9:9
 
-As Jesus moved on from there, he saw a man named Matthew sitting at the tax collector’s booth. He said to him, “Follow me,” and Matthew got up and followed him.
+As Jesus moved on from there, He saw a man named Matthew sitting at the tax collector’s booth. He said to him, “Follow Me,” and Matthew got up and followed Him.
 
 ## Matthew 9:10
 
-Later, as Jesus was reclining at the table in the house, many tax collectors and sinners came and dined with him and his disciples.
+Later, as Jesus was reclining at the table in the house, many tax collectors and sinners came and dined with Him and His disciples.
 
 ## Matthew 9:11
 
-Observing this, the Pharisees questioned his disciples, “Why does your teacher share meals with tax collectors and sinners?”
+Observing this, the Pharisees questioned His disciples, “Why does your teacher share meals with tax collectors and sinners?”
 
 ## Matthew 9:12
 
@@ -58,11 +58,11 @@ Now go and learn what this means: ‘I desire mercy, not sacrifice.’ For I hav
 
 ## Matthew 9:14
 
-Then John’s disciples came to him and asked, “Why do we and the Pharisees fast often, but your disciples do not fast?”
+Then John’s disciples came to Him and asked, “Why do we and the Pharisees fast often, but Your disciples do not fast?”
 
 ## Matthew 9:15
 
-Jesus replied, “Can the guests of the bridegroom mourn while he is with them? The time will come when the bridegroom will be taken from them, and then they will fast.
+Jesus replied, “Can the guests of the bridegroom mourn while He is with them? The time will come when the bridegroom will be taken from them, and then they will fast.
 
 ## Matthew 9:16
 
@@ -76,19 +76,19 @@ Nor do people pour new wine into old wineskins. If they do, the skins will burst
 
 ## Matthew 9:18
 
-While he was speaking, a synagogue leader approached and knelt before him, saying, “My daughter has just died. But come and lay your hand on her, and she will live.”
+While He was speaking, a synagogue leader approached and knelt before Him, saying, “My daughter has just died. But come and lay Your hand on her, and she will live.”
 
 ## Matthew 9:19
 
-Jesus got up and went with him, along with his disciples.
+Jesus got up and went with him, along with His disciples.
 
 ## Matthew 9:20
 
-Just then, a woman who had suffered from bleeding for twelve years came up behind him and touched the edge of his cloak.
+Just then, a woman who had suffered from bleeding for twelve years came up behind Him and touched the edge of His cloak.
 
 ## Matthew 9:21
 
-She thought to herself, “If I only touch his cloak, I will be healed.”
+She thought to herself, “If I only touch His cloak, I will be healed.”
 
 ## Matthew 9:22
 
@@ -100,11 +100,11 @@ When Jesus arrived at the synagogue leader’s house and saw the flute players a
 
 ## Matthew 9:24
 
-he said, “Go away; the girl is not dead but asleep.” And they laughed at him.
+He said, “Go away; the girl is not dead but asleep.” And they laughed at Him.
 
 ## Matthew 9:25
 
-Once the crowd had been sent outside, he went in, took the girl by the hand, and she arose.
+Once the crowd had been sent outside, He went in, took the girl by the hand, and she arose.
 
 ## Matthew 9:26
 
@@ -114,15 +114,15 @@ News of this spread throughout that region.
 
 ## Matthew 9:27
 
-As Jesus left that place, two blind men followed him, shouting, “Have mercy on us, Son of David!”
+As Jesus left that place, two blind men followed Him, shouting, “Have mercy on us, Son of David!”
 
 ## Matthew 9:28
 
-When he had gone indoors, the blind men came to him, and he asked them, “Do you believe that I am able to do this?” They replied, “Yes, Lord.”
+When He had gone indoors, the blind men came to Him, and He asked them, “Do you believe that I am able to do this?” They replied, “Yes, Lord.”
 
 ## Matthew 9:29
 
-So he touched their eyes and said, “Let it be done for you, in accordance with your faith”;
+So He touched their eyes and said, “Let it be done for you, in accordance with your faith”;
 
 ## Matthew 9:30
 
@@ -130,7 +130,7 @@ and their sight was restored. Jesus sternly warned them, “See that no one know
 
 ## Matthew 9:31
 
-However, they went out and spread the news about him throughout that region.
+However, they went out and spread the news about Him throughout that region.
 
 ---
 
@@ -154,12 +154,12 @@ Jesus travelled through all the towns and villages, teaching in their synagogues
 
 ## Matthew 9:36
 
-When he saw the crowds, he was moved with compassion for them, because they were troubled and helpless, like sheep without a shepherd.
+When He saw the crowds, He was moved with compassion for them, because they were troubled and helpless, like sheep without a shepherd.
 
 ## Matthew 9:37
 
-Then he told his disciples, “The harvest is plentiful, but the workers are few.
+Then He told His disciples, “The harvest is plentiful, but the workers are few.
 
 ## Matthew 9:38
 
-Therefore, ask the Lord of the harvest to send out workers into his harvest field.”
+Therefore, ask the Lord of the harvest to send out workers into His harvest field.”

@@ -70,7 +70,7 @@ Whenever the cloud lifted from above the tent, the Israelites would set out; and
 
 ## Numbers 9:18
 
-At the Lord’s command, the Israelites would set out, and at his command, they would camp. As long as the cloud stayed over the tabernacle, they remained encamped.
+At the Lord’s command, the Israelites would set out, and at His command, they would camp. As long as the cloud stayed over the tabernacle, they remained encamped.
 
 ## Numbers 9:19
 
@@ -78,7 +78,7 @@ Even when the cloud lingered over the tabernacle for many days, the Israelites o
 
 ## Numbers 9:20
 
-If sometimes the cloud was over the tabernacle for only a few days, at the Lord’s command they would camp, and then at his command, they would set out.
+If sometimes the cloud was over the tabernacle for only a few days, at the Lord’s command they would camp, and then at His command, they would set out.
 
 ## Numbers 9:21
 
@@ -90,4 +90,4 @@ Whether it was two days, a month, or a year that the cloud stayed over the taber
 
 ## Numbers 9:23
 
-At the Lord’s command, they camped, and at the Lord’s command, they set out. They obeyed the Lord’s instructions, in accordance with his command through Moses.
+At the Lord’s command, they camped, and at the Lord’s command, they set out. They obeyed the Lord’s instructions, in accordance with His command through Moses.

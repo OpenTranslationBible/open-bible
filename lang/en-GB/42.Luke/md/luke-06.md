@@ -88,22 +88,22 @@ and everyone was trying to touch Him, because power was coming from Him and heal
 
 Turning to His disciples, He said:
 
-> “Blessed are you who are in poor,
-> because yours is the kingdom of God.
+>  “Blessed are you who are poor,
+>  because yours is the kingdom of God.
 
 ## Luke 6:21
 
-> Fortunate are you who are hungry now,
-> for you will be filled.
-> Fortunate are you who weep now,
-> for you will find joy.
+> Blessed are you who are hungry now,
+>  for you will be filled.
+>  Blessed are you who weep now,
+>  for you will laugh.
 
 ## Luke 6:22
 
 > Blessed are you when people hate you,
-> exclude you, insult you,
-> and scorn your name as evil,
-> on account of the Son of Man.
+>  exclude you, insult you,
+>  and scorn your name as evil,
+>  on account of the Son of Man.
 
 ## Luke 6:23
 
@@ -114,19 +114,19 @@ Rejoice on that day and leap for joy, for behold, your reward is great in heaven
 ## Luke 6:24
 
 > But woe to you who have wealth,
-> for you have already received your comfort.
+>  for you have already received your comfort.
 
 ## Luke 6:25
 
 > Woe to you who are well-fed now,
-> for you will go hungry.
-> Woe to you who laugh now,
-> for you will mourn and weep.
+>  for you will go hungry.
+>  Woe to you who laugh now,
+>  for you will mourn and weep.
 
 ## Luke 6:26
 
 > Woe to you when everyone speaks highly of you,
-> for that is how their ancestors treated the false prophets.
+>  for that is how their ancestors treated the false prophets.
 
 ---
 
@@ -218,11 +218,11 @@ A good person brings good things out of the good stored up in their heart, and a
 
 ## Luke 6:46
 
-“Why do you address me as ‘Lord, Lord,’ and yet do not follow my instructions?
+“Why do you address Me as ‘Lord, Lord,’ and yet do not follow My instructions?
 
 ## Luke 6:47
 
-Everyone who comes to me and hears my words and puts them into practice, I will show you what they are like:
+Everyone who comes to Me and hears My words and puts them into practice, I will show you what they are like:
 
 ## Luke 6:48
 
@@ -230,4 +230,4 @@ They are like a person building a house, who dug deep and laid the foundation on
 
 ## Luke 6:49
 
-But the one who hears my words and does not put them into practice is like a person who built a house on the ground without a foundation. The moment the torrent struck that house, it collapsed and its destruction was complete.”
+But the one who hears My words and does not put them into practice is like a person who built a house on the ground without a foundation. The moment the torrent struck that house, it collapsed and its destruction was complete.”

@@ -18,7 +18,7 @@ You belong to God, dear children, and have overcome them; because greater is He 
 
 ## 1 John 4:5
 
-They originate from the world; therefore they speak from the world's perspective, and the world listens to them.
+They originate from the world; therefore they speak from the world’s perspective, and the world listens to them.
 
 ## 1 John 4:6
 

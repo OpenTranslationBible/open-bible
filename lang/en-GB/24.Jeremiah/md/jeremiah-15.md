@@ -49,7 +49,7 @@ You know, Lord; remember me and take notice of me. Avenge me on my persecutors. 
 Your words were found, and I ate them; they were my joy and my heart’s delight, for I bear Your name, Lord God of hosts.
 
 ## Jeremiah 15:17
-I did not sit in the company of revelers and celebrate. Because Your hand was upon me, I sat alone, for You filled me with indignation.
+I did not sit in the company of revellers and celebrate. Because Your hand was upon me, I sat alone, for You filled me with indignation.
 
 ## Jeremiah 15:18
 Why is my pain unending and my wound incurable, refusing to be healed? Will You be to me like a deceptive stream, with waters that are unreliable?

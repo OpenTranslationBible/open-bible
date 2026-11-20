@@ -7,13 +7,13 @@ These are the heads of the families and the genealogical records of those who we
 from the lineage of Phinehas, Gershom; from the lineage of Ithamar, Daniel; from the lineage of David, Hattush;
 
 ## Ezra 8:3
-of the descendants of Shekaniah, who was of the descendants of Parosh, Zechariah, and with him were listed 150 males;
+of the descendants of Shecaniah, who was of the descendants of Parosh, Zechariah, and with him were listed 150 males;
 
 ## Ezra 8:4
 of the descendants of Pahath-Moab, Eliehoenai son of Zerahiah, and with him 200 males;
 
 ## Ezra 8:5
-of the descendants of Zattu, Shekaniah son of Jahaziel, and with him 300 males;
+of the descendants of Zattu, Shecaniah son of Jahaziel, and with him 300 males;
 
 ## Ezra 8:6
 of the descendants of Adin, Ebed son of Jonathan, and with him 50 males;
@@ -40,7 +40,7 @@ of the descendants of Azgad, Johanan son of Hakkatan, and with him 110 males;
 of the descendants of Adonikam, the last ones, whose names were Eliphelet, Jeuel, and Shemaiah, and with them 60 males;
 
 ## Ezra 8:14
-of the descendants of Bigvai, Uthai and Zakkur, and with them 70 males.
+of the descendants of Bigvai, Uthai and Zaccur, and with them 70 males.
 
 ## Ezra 8:15
 I assembled them at the river that flows towards Ahava, and we camped there for three days. When I reviewed the people and the priests, I found no Levites there.
@@ -49,7 +49,7 @@ I assembled them at the river that flows towards Ahava, and we camped there for 
 So I summoned Eliezer, Ariel, Shemaiah, Elnathan, Jarib, Elnathan, Nathan, Zechariah, and Meshullam, who were leading men, and Joiarib and Elnathan, who were teachers.
 
 ## Ezra 8:17
-I sent them to Iddo, the leader in Casiphia, instructing them what to say to Iddo and his fellow Levites, the temple servants in Casiphia, to bring us ministers for the house of our God.
+I sent them to Iddo, the leader in Casiphia, instructing them what to say to Iddo and his kinsmen, the temple servants in Casiphia, to bring us ministers for the house of our God.
 
 ## Ezra 8:18
 Because the good hand of our God was upon us, they brought us Sherebiah, a man of insight, from the descendants of Mahli, son of Levi, son of Israel, and Sherebiah’s sons and brothers, 18 in total;

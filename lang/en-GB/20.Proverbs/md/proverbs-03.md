@@ -26,7 +26,7 @@ In all your ways acknowledge Him, and He shall make your paths straight.
 
 ## Proverbs 3:7
 
-Do not consider yourself wise; fear the Lord and turn from from evil.
+Do not consider yourself wise; fear the Lord and turn from evil.
 
 ## Proverbs 3:8
 
@@ -50,7 +50,7 @@ My son, do not reject the Lord’s discipline, or loathe His rebuke,
 
 for the Lord disciplines those He loves,
 
-> just as a father disciplines the son in whom he delights.
+>  just as a father disciplines the son in whom he delights.
 
 ---
 
@@ -124,7 +124,7 @@ Do not hold back good from those who deserve it, when it is within your power to
 
 Do not say to your neighbour, “Go, and come back,
 
-> and tomorrow I will give it to you,” when you have it with you.
+>  and tomorrow I will give it to you,” when you have it with you.
 
 ## Proverbs 3:29
 

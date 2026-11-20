@@ -102,7 +102,7 @@ Since the Amalekites and the Canaanites are living in the valleys, turn back tom
 
 ## Numbers 14:26
 
-The Lord spoke Moses and Aaron, saying:
+The Lord spoke to Moses and Aaron, saying:
 
 ## Numbers 14:27
 

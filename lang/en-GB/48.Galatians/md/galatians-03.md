@@ -106,7 +106,7 @@ For you are all children of God through faith in Jesus Christ.
 
 ## Galatians 3:27
 
-For all of you who were baptised into Christ have embraced Christ.
+For all of you who were baptised into Christ have clothed yourselves with Christ.
 
 ## Galatians 3:28
 

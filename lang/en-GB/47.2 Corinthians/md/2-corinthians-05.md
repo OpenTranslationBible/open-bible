@@ -10,7 +10,7 @@ For truly, in this dwelling we groan, yearning to be clothed with our heavenly a
 
 ## 2 Corinthians 5:3
 
-Since indeed, once clothed, we will not be found without covering.
+since indeed, once clothed, we will not be found without covering.
 
 ## 2 Corinthians 5:4
 
@@ -26,11 +26,11 @@ Therefore, always being of good courage, and recognising that while we are at ho
 
 ## 2 Corinthians 5:7
 
-For we walk guided by faith, not by what we see—
+for we walk guided by faith, not by what we see—
 
 ## 2 Corinthians 5:8
 
-Yet we are of good courage and would prefer to be away from the body and at home with the Lord.
+yet we are of good courage and would prefer to be away from the body and at home with the Lord.
 
 ## 2 Corinthians 5:9
 
@@ -58,7 +58,7 @@ For the love of Christ compels us, having concluded this: that one died for all,
 
 ## 2 Corinthians 5:15
 
-And He died for all, so that those who live might no longer live for themselves, but for Him who died and rose again on their behalf.
+and He died for all, so that those who live might no longer live for themselves, but for Him who died and rose again on their behalf.
 
 ## 2 Corinthians 5:16
 
@@ -74,7 +74,7 @@ Now all these things are from God, who reconciled us to Himself through Christ a
 
 ## 2 Corinthians 5:19
 
-That is, God was in Christ reconciling the world to Himself, not counting their wrongdoings against them, and He has entrusted to us the message of reconciliation.
+that is, God was in Christ reconciling the world to Himself, not counting their wrongdoings against them, and He has entrusted to us the message of reconciliation.
 
 ## 2 Corinthians 5:20
 

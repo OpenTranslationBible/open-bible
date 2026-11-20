@@ -134,11 +134,11 @@ So they set out from the mountain of the Lord and travelled for three days. The 
 
 ## Numbers 10:34
 
-The Lord's cloud was above them by day as they set out from the camp.
+The Lord’s cloud was above them by day as they set out from the camp.
 
 ## Numbers 10:35
 
-Whenever the ark set out, Moses said, “Rise up, Lord! May your enemies be scattered and your foes flee before you.”
+Whenever the ark set out, Moses said, “Rise up, Lord! May Your enemies be scattered and Your foes flee before You.”
 
 ## Numbers 10:36
 

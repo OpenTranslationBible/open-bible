@@ -27,10 +27,10 @@ and has made us a kingdom, priests to His God and Father—to Him be glory and d
 ## Revelation 1:7
 
 > Behold, He is coming with the clouds,
-> and every eye will see Him,
-> even those who pierced Him;
-> and all the tribes of the earth will mourn because of Him.
-> So shall it be! Amen.
+>  and every eye will see Him,
+>  even those who pierced Him;
+>  and all the tribes of the earth will mourn because of Him.
+>  So shall it be! Amen.
 
 ## Revelation 1:8
 
@@ -74,7 +74,7 @@ Upon seeing Him, I fell at His feet as if lifeless. Then He placed His right han
 
 ## Revelation 1:18
 
-and the Living One; I was dead, and behold, I am alive for evermore, and I hold the keys of death and Hades.
+and the Living One; I was dead, and behold, I am alive for evermore, and I hold the keys of Death and Hades.
 
 ## Revelation 1:19
 

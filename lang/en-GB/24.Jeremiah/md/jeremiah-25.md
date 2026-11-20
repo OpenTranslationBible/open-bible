@@ -14,7 +14,7 @@ The word that Jeremiah the prophet spoke to all the people of Judah and all the 
 
 ## Jeremiah 25:4
 
-And the Lord has sent to you all his servants the prophets persistently, but you have not listened or inclined your ear to hear,
+And the Lord has sent to you all His servants the prophets persistently, but you have not listened or inclined your ear to hear,
 
 ## Jeremiah 25:5
 
@@ -22,19 +22,19 @@ saying, ‘Turn now, each of you, from your evil ways and from the evil of your 
 
 ## Jeremiah 25:6
 
-and do not follow other gods to serve and worship them, and do not provoke me to anger with the work of your hands, then I will do you no harm.’
+and do not follow other gods to serve and worship them, and do not provoke Me to anger with the work of your hands, then I will do you no harm.’
 
 ## Jeremiah 25:7
 
-However, you have not heeded me,” declares the Lord, “and have provoked me to anger with the work of your hands, bringing harm upon yourselves.
+However, you have not heeded Me,” declares the Lord, “and have provoked Me to anger with the work of your hands, bringing harm upon yourselves.
 
 ## Jeremiah 25:8
 
-Therefore this is what the Lord Almighty says: ‘Because you have not obeyed my words,
+Therefore this is what the Lord of hosts says: ‘Because you have not obeyed My words,
 
 ## Jeremiah 25:9
 
-behold, I will summon all the peoples of the north,’ declares the Lord, ‘and I will send for Nebuchadnezzar king of Babylon, my servant, and bring them against this land and its inhabitants and against all these surrounding nations. I will utterly destroy them and make them an object of horror and scorn, and an everlasting desolation.
+behold, I will summon all the peoples of the north,’ declares the Lord, ‘and I will send for Nebuchadnezzar king of Babylon, My servant, and bring them against this land and its inhabitants and against all these surrounding nations. I will utterly destroy them and make them an object of horror and scorn, and an everlasting desolation.
 
 ## Jeremiah 25:10
 
@@ -58,7 +58,7 @@ They will be subjugated by many nations and great kings; I will repay them accor
 
 ## Jeremiah 25:15
 
-For this is what the Lord, the God of Israel, said to me: “Take this cup of the wine of my wrath from my hand and make all the nations to whom I send you drink it.
+For this is what the Lord, the God of Israel, said to me: “Take this cup of the wine of My wrath from My hand and make all the nations to whom I send you drink it.
 
 ## Jeremiah 25:16
 
@@ -66,7 +66,7 @@ When they drink it, they will stagger and go mad because of the sword I am sendi
 
 ## Jeremiah 25:17
 
-So I took the cup from the Lord’s hand and gave it to all the nations to whom he sent me:
+So I took the cup from the Lord’s hand and gave it to all the nations to whom He sent me:
 
 ## Jeremiah 25:18
 
@@ -74,7 +74,7 @@ Jerusalem and the towns of Judah, its kings and officials, to make them a ruin a
 
 ## Jeremiah 25:19
 
-The ruler of Egypt, along with his servants, officials, and all his people;
+the ruler of Egypt, along with his servants, officials, and all his people;
 
 ## Jeremiah 25:20
 
@@ -82,7 +82,7 @@ and all the foreign people there; all the kings of the land of Uz; all the kings
 
 ## Jeremiah 25:21
 
-The people of Edom, Moab, and the descendants of Ammon;
+the people of Edom, Moab, and the descendants of Ammon;
 
 ## Jeremiah 25:22
 
@@ -98,35 +98,35 @@ all the kings of Arabia and all the kings of the foreign people who live in the 
 
 ## Jeremiah 25:25
 
-all of Zimri's kings, all of Elam's kings, and all of Media's kings;
+all of Zimri’s kings, all of Elam’s kings, and all of Media’s kings;
 
 ## Jeremiah 25:26
 
-and all the kings of the north, near and far, one after another—all the kingdoms on the face of the earth. And after all of them, the king of Sheshak will drink it too.
+and all the kings of the north, near and far, one after another—all the kingdoms on the face of the earth. And after all of them, the king of Sheshach will drink it too.
 
 ## Jeremiah 25:27
 
-“Then you shall say to them, ‘This is what the Lord Almighty, the God of Israel, says: Drink, be drunk, vomit, and fall to rise no more because of the sword I am sending among you.’
+“Then you shall say to them, ‘This is what the Lord of hosts, the God of Israel, says: Drink, be drunk, vomit, and fall to rise no more because of the sword I am sending among you.’
 
 ## Jeremiah 25:28
 
-But if they refuse to take the cup from your hand and drink, say to them, ‘This is what the Lord Almighty says: You must certainly drink it!
+But if they refuse to take the cup from your hand and drink, say to them, ‘This is what the Lord of hosts says: You must certainly drink it!
 
 ## Jeremiah 25:29
 
-See, I am beginning to bring disaster on the city that bears my Name, and will you indeed go unpunished? You will not go unpunished, for I am summoning a sword against all who live on the earth,’ declares the Lord Almighty.
+See, I am beginning to bring disaster on the city that bears My Name, and will you indeed go unpunished? You will not go unpunished, for I am summoning a sword against all who live on the earth,’ declares the Lord of hosts.
 
 ## Jeremiah 25:30
 
-“Therefore you shall prophesy against them all these words, and say to them: ‘The Lord will roar from on high; he will thunder from his holy dwelling and roar mightily against his land. He will shout like those who tread the grapes, against all who live on the earth.
+“Therefore you shall prophesy against them all these words, and say to them: ‘The Lord will roar from on high; He will thunder from His holy dwelling and roar mightily against His land. He will shout like those who tread the grapes, against all who live on the earth.
 
 ## Jeremiah 25:31
 
-The noise will resound to the ends of the earth, for the Lord has a controversy with the nations; he will bring judgment on all humanity and put the wicked to the sword,’ declares the Lord.
+The noise will resound to the ends of the earth, for the Lord has a controversy with the nations; He will bring judgment on all humanity and put the wicked to the sword,’ declares the Lord.
 
 ## Jeremiah 25:32
 
-This is what the Lord Almighty says: ‘Look! Disaster is spreading from nation to nation; a mighty storm is rising from the farthest parts of the earth.’
+This is what the Lord of hosts says: ‘Look! Disaster is spreading from nation to nation; a mighty storm is rising from the farthest parts of the earth.’
 
 ## Jeremiah 25:33
 
@@ -150,4 +150,4 @@ The tranquil pastures will be laid waste because of the fierce anger of the Lord
 
 ## Jeremiah 25:38
 
-Like a lion he has left his lair; for their land has become desolate because of the oppressing sword and because of the Lord’s fierce anger.
+Like a lion He has left His lair; for their land has become desolate because of the oppressing sword and because of the Lord’s fierce anger.

@@ -2,7 +2,7 @@
 
 ## 2 Chronicles 17:1
 
-Jehoshaphat his son then became king in his place, and he proved himself strong over Israel.
+Jehoshaphat his son then became king in his place, and he strengthened himself against Israel.
 
 ---
 
@@ -63,7 +63,7 @@ Now the dread of the Lord was on all the kingdoms of the lands that were around 
 ## 2 Chronicles 17:11
 
 And some of the Philistines brought gifts and silver as tribute to Jehoshaphat.  
-The Arabs also brought him flocks, seven thousand seven hundred rams and seven thousand seven hundred male goats.
+ The Arabs also brought him flocks, seven thousand seven hundred rams and seven thousand seven hundred male goats.
 
 ---
 
@@ -83,13 +83,13 @@ He had abundant supplies in the cities of Judah, and warriors, valiant men of st
 
 This was their muster according to their fathers’ households:
 
-> of Judah, commanders of thousands: Adnah the commander, and with him 300,000 valiant warriors;
+>  of Judah, commanders of thousands: Adnah the commander, and with him 300,000 valiant warriors;
 
 ---
 
 ## 2 Chronicles 17:15
 
-> and next to him, Johanan the commander, and with him 280,000;
+> and next to him, Jehohanan the commander, and with him 280,000;
 
 ---
 

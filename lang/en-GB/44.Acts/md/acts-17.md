@@ -104,19 +104,19 @@ The God who made the world and everything in it, being Lord of heaven and earth,
 
 ## Acts 17:25
 
-Nor is he served by human hands, as if he needed anything, since he himself provides everyone with life and breath and all things.
+Nor is He served by human hands, as if He needed anything, since He Himself provides everyone with life and breath and all things.
 
 ## Acts 17:26
 
-From one man he made every nation of mankind to inhabit the whole earth, having determined their appointed times and the boundaries of their dwelling places,
+From one man He made every nation of mankind to inhabit the whole earth, having determined their appointed times and the boundaries of their dwelling places,
 
 ## Acts 17:27
 
-so that they would seek God, if perhaps they might feel their way towards him and find him, though he is not far from any one of us.
+so that they would seek God, if perhaps they might feel their way towards Him and find Him, though He is not far from any one of us.
 
 ## Acts 17:28
 
-For through him we live, move, and have our being, as even some of your own poets have said, ‘For we are indeed his offspring.’
+For in Him we live, move, and have our being, as even some of your own poets have said, ‘For we are indeed His offspring.’
 
 ## Acts 17:29
 
@@ -124,11 +124,11 @@ Therefore, since we are God’s offspring, we ought not to think that the divine
 
 ## Acts 17:30
 
-In the past, God overlooked such ignorance, but now he calls all people everywhere to repent,
+In the past, God overlooked such ignorance, but now He calls all people everywhere to repent,
 
 ## Acts 17:31
 
-because he has set a day when he will judge the world with justice by the man he has appointed. He has given proof of this to everyone by raising him from the dead.”
+because He has set a day when He will judge the world with justice by the man He has appointed. He has given proof of this to everyone by raising Him from the dead.”
 
 ---
 

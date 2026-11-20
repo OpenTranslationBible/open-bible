@@ -2,7 +2,7 @@
 
 ## 1 Timothy 4:1
 
-Yet the Spirit clearly indicates that in later times some will depart from the faith, giving heed to misleading spirits and doctrines of evil,
+Yet the Spirit clearly indicates that in later times some will depart from the faith, giving heed to misleading spirits and doctrines of demons,
 
 ## 1 Timothy 4:2
 
@@ -18,7 +18,7 @@ For everything God has created is good, and nothing is to be refused if it is re
 
 ## 1 Timothy 4:5
 
-for it is sanctified by God's word and prayer.
+for it is sanctified by God’s word and prayer.
 
 ## 1 Timothy 4:6
 
@@ -34,7 +34,7 @@ for physical training has some value, but godliness is valuable in every way, as
 
 ## 1 Timothy 4:9
 
-This is a statement worthy of full acceptance.
+This is a trustworthy statement, worthy of full acceptance.
 
 ## 1 Timothy 4:10
 

@@ -10,7 +10,7 @@ Each of us should please our neighbour for their good, to build them up.
 
 ## Romans 15:3
 
-For even Christ did not seek His own pleasure, but as it is written: “The insults of those who insult you have fallen on me.”
+For even Christ did not seek His own pleasure, but as it is written: “The insults of those who insult You have fallen on Me.”
 
 ## Romans 15:4
 
@@ -36,28 +36,28 @@ For I say that Christ has become a servant of the Jews on behalf of God’s trut
 
 and so that the Gentiles might glorify God for His mercy. As it is written:
 
-> “Therefore I will praise you among the Gentiles;
-> I will sing praises to your name.”
+>  “Therefore I will praise You among the Gentiles;
+>  I will sing praises to Your name.”
 
 ## Romans 15:10
 
 Furthermore, it is stated,
 
-> “Rejoice, you Gentiles, along with His people.”
+>  “Rejoice, you Gentiles, along with His people.”
 
 ## Romans 15:11
 
 And it is also declared,
 
-> “Praise the Lord, all you Gentiles; let all the peoples extol Him.”
+>  “Praise the Lord, all you Gentiles; let all the peoples extol Him.”
 
 ## Romans 15:12
 
 Moreover, Isaiah proclaims,
 
-> “The Root of Jesse will spring up,
-> one who will arise to rule over the nations;
-> in Him the Gentiles will hope.”
+>  “The Root of Jesse will spring up,
+>  one who will arise to rule over the nations;
+>  in Him the Gentiles will hope.”
 
 ## Romans 15:13
 
@@ -95,8 +95,8 @@ And in this way I aspired to preach the gospel, not where Christ was already rec
 
 but as Scripture says:
 
-> “Those who were not informed about Him will see,
-> and those who have not heard will understand.”
+>  “Those who were not informed about Him will see,
+>  and those who have not heard will understand.”
 
 ## Romans 15:22
 

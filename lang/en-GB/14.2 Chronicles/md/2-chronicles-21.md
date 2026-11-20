@@ -69,8 +69,8 @@ Moreover, he made high places in the mountains of Judah, and caused the inhabita
 ## 2 Chronicles 21:12
 
 Afterwards, a message came to him from Elijah the prophet, declaring,  
-“This is what the Lord, the God of your ancestor David, proclaims:  
-‘Because you have not followed the ways of your father Jehoshaphat and the ways of Asa king of Judah,
+ “This is what the Lord, the God of your ancestor David, proclaims:  
+ ‘Because you have not followed the ways of your father Jehoshaphat and the ways of Asa king of Judah,
 
 ---
 
@@ -119,4 +119,4 @@ Now it came about in the course of time, at the end of two years, that his intes
 ## 2 Chronicles 21:20
 
 He was thirty-two years old when he began his reign, and he ruled in Jerusalem for eight years; and he departed with no one’s regret.  
-And they buried him in the city of David, but not in the tombs of the kings.
+ And they buried him in the city of David, but not in the tombs of the kings.

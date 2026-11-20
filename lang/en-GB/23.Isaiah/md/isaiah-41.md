@@ -2,7 +2,7 @@
 
 ## Isaiah 41:1
 
-“Remain silent before me, you coastlands, and let the nations renew their strength. Let them come forward and speak; let us meet together for judgment.
+“Remain silent before Me, you coastlands, and let the nations renew their strength. Let them come forward and speak; let us meet together for judgment.
 
 ## Isaiah 41:2
 
@@ -22,7 +22,7 @@ The coastlands have seen it and are afraid; the ends of the earth tremble. They 
 
 ## Isaiah 41:6
 
-Each helps the other and says to his companion, “Be strong!”
+each helps the other and says to his companion, “Be strong!”
 
 ## Isaiah 41:7
 
@@ -30,15 +30,15 @@ The craftsman encourages the goldsmith, and he who smooths with the hammer encou
 
 ## Isaiah 41:8
 
-“But you, Israel, my servant, Jacob whom I have chosen, descendants of Abraham my friend,
+“But you, Israel, My servant, Jacob whom I have chosen, descendants of Abraham My friend,
 
 ## Isaiah 41:9
 
-I took you from the ends of the earth and called you from its remotest parts. I said, ‘You are my servant; I have chosen you and have not rejected you.
+I took you from the ends of the earth and called you from its remotest parts. I said, ‘You are My servant; I have chosen you and have not rejected you.’
 
 ## Isaiah 41:10
 
-Do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.
+Do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with My righteous right hand.
 
 ## Isaiah 41:11
 
@@ -54,7 +54,7 @@ For I am the Lord your God, holding your right hand, and I say to you, ‘Do not
 
 ## Isaiah 41:14
 
-Do not be afraid, you worm Jacob, little Israel, for I myself will help you,” declares the Lord, your Redeemer, the Holy One of Israel.
+Do not be afraid, you worm Jacob, little Israel, for I Myself will help you,” declares the Lord, your Redeemer, the Holy One of Israel.
 
 ## Isaiah 41:15
 
@@ -78,7 +78,7 @@ I will place the cedar in the wilderness, the acacia, the myrtle, and the olive 
 
 ## Isaiah 41:20
 
-so that people may observe and Recognise, may ponder and comprehend, that the hand of the Lord has done this, that the Holy One of Israel has created it.
+so that people may observe and recognise, may ponder and comprehend, that the hand of the Lord has done this, that the Holy One of Israel has created it.”
 
 ## Isaiah 41:21
 
@@ -98,7 +98,7 @@ But you are less than nothing, and your works are utterly worthless; whoever cho
 
 ## Isaiah 41:25
 
-“I have stirred up one from the north, and he comes; from the rising of the sun he will call on my name. He will trample on rulers as if they were mortar, as the potter treads clay.
+“I have stirred up one from the north, and he comes; from the rising of the sun he will call on My name. He will trample on rulers as if they were mortar, as the potter treads clay.
 
 ## Isaiah 41:26
 

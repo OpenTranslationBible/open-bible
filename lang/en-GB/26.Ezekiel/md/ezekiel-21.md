@@ -7,13 +7,13 @@ The message from the Lord came to me:
 “Son of man, turn your face towards Jerusalem and prophesy against the sanctuaries; prophesy against the land of Israel,
 
 ## Ezekiel 21:3
-and say to the land of Israel: ‘This is what the Lord declares: Behold, I am against you, and I will draw my sword from its sheath and cut off both the righteous and the wicked from you.
+and say to the land of Israel: ‘This is what the Lord declares: Behold, I am against you, and I will draw My sword from its sheath and cut off both the righteous and the wicked from you.
 
 ## Ezekiel 21:4
-Since I am going to cut off both the righteous and the wicked, my sword will be drawn against everyone from south to north.
+Since I am going to cut off both the righteous and the wicked, My sword will be drawn against everyone from south to north.
 
 ## Ezekiel 21:5
-Then all flesh will know that I, the Lord, have drawn my sword from its sheath; it will not return again.’
+Then all flesh will know that I, the Lord, have drawn My sword from its sheath; it will not return again.’
 
 ## Ezekiel 21:6
 Therefore, son of man, groan with a broken heart and bitter grief; groan in their presence.
@@ -28,13 +28,13 @@ The message from the Lord came to me:
 “Son of man, prophesy and declare, ‘This is what the Lord declares: A sword, a sword, sharpened and polished—
 
 ## Ezekiel 21:10
-sharpened for slaughter, polished to flash like lightning! Shall we rejoice in the sceptre of my son? The sword despises every such rod.
+sharpened for slaughter, polished to flash like lightning! Shall we rejoice in the sceptre of My son? The sword despises every such rod.
 
 ## Ezekiel 21:11
 The sword is appointed to be polished, to be grasped with the hand; it is sharpened and polished, ready for the hand of the slayer.
 
 ## Ezekiel 21:12
-Cry out and wail, son of man, for it is against my people; it is against all the princes of Israel. They are delivered to the sword with my people. Therefore, strike your thigh.
+Cry out and wail, son of man, for it is against My people; it is against all the princes of Israel. They are delivered to the sword with My people. Therefore, strike your thigh.
 
 ## Ezekiel 21:13
 For there is a testing; and what if even the sceptre which the sword despises does not continue? declares the Sovereign Lord.
@@ -49,7 +49,7 @@ So that hearts may waver and many fall at all their gates, I have stationed the 
 Turn to the right, you sword; then turn to the left, wherever your blade is directed.
 
 ## Ezekiel 21:17
-I too will clap my hands, and I will satisfy my wrath. I, the Lord, have spoken.”
+I too will clap My hands, and I will satisfy My wrath. I, the Lord, have spoken.”
 
 ## Ezekiel 21:18
 The message from the Lord came to me:
@@ -79,7 +79,7 @@ And you, profane and wicked prince of Israel, whose day has come, at the time of
 this is what the Sovereign Lord says: Remove the turban and take off the crown. It will not be as it was: the lowly will be exalted and the exalted will be brought low.
 
 ## Ezekiel 21:27
-A ruin, a ruin, a ruin I will make it! This will not be restored until he comes to whom it rightfully belongs; to him I will give it.’
+A ruin, a ruin, a ruin I will make it! This will not be restored until He comes to whom it rightfully belongs; to Him I will give it.’
 
 ## Ezekiel 21:28
 “And you, son of man, prophesy and declare, ‘This is what the Sovereign Lord says concerning the Ammonites and their insults: A sword, a sword, drawn for slaughter, polished to consume and flash like lightning—
@@ -91,7 +91,7 @@ while they see false visions for you, while they divine lies for you—to place 
 Return the sword to its sheath. In the place where you were created, in the land of your origin, I will judge you.
 
 ## Ezekiel 21:31
-I will pour out my wrath on you and breathe my fiery anger against you; I will deliver you into the hands of brutal men, skilled in destruction.
+I will pour out My wrath on you and breathe My fiery anger against you; I will deliver you into the hands of brutal men, skilled in destruction.
 
 ## Ezekiel 21:32
 You will be fuel for the fire; your blood will be shed in your land, you will not be remembered, for I, the Lord, have spoken.’”

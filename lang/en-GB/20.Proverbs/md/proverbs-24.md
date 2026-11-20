@@ -48,7 +48,7 @@ Rescue those being led to death; hold back those staggering towards slaughter.
 
 ## Proverbs 24:12
 
-If you claim, “We did not know this,” does not he who weighs the heart perceive it? Does not he who guards your life know it? Will he not repay everyone according to their deeds?
+If you claim, “We did not know this,” does not He who weighs the heart perceive it? Does not He who guards your life know it? Will He not repay everyone according to their deeds?
 
 ## Proverbs 24:13
 
@@ -72,7 +72,7 @@ Do not rejoice when your enemy falls, and do not let your heart be glad when the
 
 ## Proverbs 24:18
 
-lest the Lord take notice and turn his attention away from them.
+lest the Lord take notice and disapprove, and turn His wrath away from them.
 
 ## Proverbs 24:19
 

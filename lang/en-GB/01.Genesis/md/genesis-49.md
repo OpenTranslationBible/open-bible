@@ -70,7 +70,7 @@ Dan shall be a serpent by the roadside, a viper along the path, that bites the h
 
 ## Genesis 49:18
 
-“For your deliverance I wait, O Lord.
+“For Your deliverance I wait, O Lord.
 
 ## Genesis 49:19
 

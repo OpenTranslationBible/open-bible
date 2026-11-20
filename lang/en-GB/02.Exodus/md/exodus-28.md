@@ -10,7 +10,7 @@ Create sacred garments for your brother Aaron, for glory and beauty.
 
 ## Exodus 28:3
 
-Speak to all the skilled artisans whom I have endowed with wisdom, that they are to make Aaron's garments to consecrate him, so he may serve as priest to Me.
+Speak to all the skilled artisans whom I have endowed with wisdom, that they are to make Aaron’s garments to consecrate him, so he may serve as priest to Me.
 
 ## Exodus 28:4
 

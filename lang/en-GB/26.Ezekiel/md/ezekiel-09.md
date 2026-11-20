@@ -22,7 +22,7 @@ To the others He said in my hearing, “Follow him through the city and strike; 
 
 ## Ezekiel 9:6
 
-Slaughter the old men, the young men, the maidens, the children, and the women, but do not touch anyone who has the mark. Begin at my sanctuary.” So they began with the elders who were before the temple.
+Slaughter the old men, the young men, the maidens, the children, and the women, but do not touch anyone who has the mark. Begin at My sanctuary.” So they began with the elders who were before the temple.
 
 ## Ezekiel 9:7
 

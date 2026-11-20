@@ -10,11 +10,11 @@ In the eighth month of the second year of Darius, the word of the Lord came to t
 
 ## Zechariah 1:3
 
-Therefore, say to them: This is what the Lord of Hosts says: ‘Return to Me,’ declares the Lord of Hosts, ‘and I will return to you,’ says the Lord of Hosts.
+Therefore, say to them: This is what the Lord of hosts says: ‘Return to Me,’ declares the Lord of hosts, ‘and I will return to you,’ says the Lord of hosts.
 
 ## Zechariah 1:4
 
-Do not be like your forefathers, to whom the former prophets proclaimed: This is what the Lord of Hosts says: ‘Turn from your evil ways and your evil deeds.’ But they did not listen or heed Me,” declares the Lord.
+Do not be like your forefathers, to whom the former prophets proclaimed: This is what the Lord of hosts says: ‘Turn from your evil ways and your evil deeds.’ But they did not listen or heed Me,” declares the Lord.
 
 ## Zechariah 1:5
 
@@ -22,7 +22,7 @@ Do not be like your forefathers, to whom the former prophets proclaimed: This is
 
 ## Zechariah 1:6
 
-But did not My words and My statutes, which I commanded My servants the prophets, overtake your forefathers? Then they repented and said, ‘As the Lord of Hosts has determined to do to us according to our ways and deeds, so He has dealt with us.’”
+But did not My words and My statutes, which I commanded My servants the prophets, overtake your forefathers? Then they repented and said, ‘As the Lord of hosts has determined to do to us according to our ways and deeds, so He has dealt with us.’”
 
 ## Zechariah 1:7
 
@@ -46,7 +46,7 @@ And they reported to the angel of the Lord who was standing among the myrtle tre
 
 ## Zechariah 1:12
 
-Then the angel of the Lord said, “Lord of Hosts, how long will You withhold mercy from Jerusalem and the cities of Judah, with which You have been angry these seventy years?”
+Then the angel of the Lord said, “Lord of hosts, how long will You withhold mercy from Jerusalem and the cities of Judah, with which You have been angry these seventy years?”
 
 ## Zechariah 1:13
 
@@ -54,7 +54,7 @@ And the Lord responded to the angel who was speaking with me with gracious and c
 
 ## Zechariah 1:14
 
-So the angel who was speaking with me said, “Proclaim, saying: This is what the Lord of Hosts says: ‘I am very jealous for Jerusalem and Zion,
+So the angel who was speaking with me said, “Proclaim, saying: This is what the Lord of hosts says: ‘I am very jealous for Jerusalem and Zion,
 
 ## Zechariah 1:15
 
@@ -62,11 +62,11 @@ and I am exceedingly angry with the nations that are at ease; for while I was on
 
 ## Zechariah 1:16
 
-Therefore, this is what the Lord says: ‘I will return to Jerusalem with compassion; My house will be rebuilt in it,’ declares the Lord of Hosts, ‘and a measuring line will be stretched over Jerusalem.’
+Therefore, this is what the Lord says: ‘I will return to Jerusalem with compassion; My house will be rebuilt in it,’ declares the Lord of hosts, ‘and a measuring line will be stretched over Jerusalem.’
 
 ## Zechariah 1:17
 
-Proclaim further, saying: This is what the Lord of Hosts says: ‘My cities will again overflow with prosperity, and the Lord will again comfort Zion and choose Jerusalem.’”
+Proclaim further, saying: This is what the Lord of hosts says: ‘My cities will again overflow with prosperity, and the Lord will again comfort Zion and choose Jerusalem.’”
 
 ## Zechariah 1:18
 

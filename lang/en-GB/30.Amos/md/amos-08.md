@@ -19,68 +19,58 @@ And He asked, “What do you see, Amos?” I replied, “A basket of summer frui
 ## Amos 8:5
 
 > “When will the New Moon be over so that we may sell grain,
-> and the Sabbath be ended so we may market wheat?”
-> — reducing the measure, inflating the price,
-> and cheating with dishonest scales,
+>  and the Sabbath be ended so we may market wheat?”
+> —reducing the measure, inflating the price,
+>  and cheating with dishonest scales,
 
 ## Amos 8:6
 
-> buying the poor for silver
-> and the needy for a pair of sandals,
-> and selling even the refuse of the wheat.
+> buying the poor for silver and the needy for a pair of sandals,
+>  and selling even the refuse of the wheat.
 
 ## Amos 8:7
 
 The Lord has sworn by the pride of Jacob:
-“I will never forget any of their deeds.
+ “I will never forget any of their deeds.
 
 ## Amos 8:8
 
 > Will not the land tremble because of this,
-> and all who dwell in it mourn?
-> The whole land will rise like the Nile;
-> it will be stirred up
-> and then subside like the river of Egypt.
+>  and all who dwell in it mourn?
+>  The whole land will rise like the Nile;
+>  it will be stirred up and then subside like the river of Egypt.
 
 ## Amos 8:9
 
 “And it shall come to pass on that day,” declares the Lord God,
 
-> “that I will make the sun set at noon
-> and darken the earth in broad daylight.
+>  “that I will make the sun set at noon and darken the earth in broad daylight.
 
 ## Amos 8:10
 
-> I will turn your festivals into mourning
-> and all your singing into lamentation.
-> I will make everyone wear sackcloth and shave their heads.
-> I will make it like mourning for an only son
-> and its end like a bitter day.
+> I will turn your festivals into mourning and all your singing into lamentation.
+>  I will make everyone wear sackcloth and shave their heads.
+>  I will make it like mourning for an only son and its end like a bitter day.
 
 ## Amos 8:11
 
 > “Behold, the days are coming,” declares the Lord God,
-> “when I will send a famine through the land
-> —not a famine of bread or a thirst for water,
-> but a famine of hearing the words of the Lord.
+>  “when I will send a famine through the land—not a famine of bread or a thirst for water,
+>  but a famine of hearing the words of the Lord.
 
 ## Amos 8:12
 
-> People will roam from sea to sea
-> and journey from north to east,
-> seeking the word of the Lord,
-> but they will not find it.
+> People will roam from sea to sea and journey from north to east,
+>  seeking the word of the Lord,
+>  but they will not find it.
 
 ## Amos 8:13
 
-On that day
-
-> the beautiful young women
-> and strong young men will faint from thirst.
+On that day the beautiful young women and strong young men will faint from thirst.
 
 ## Amos 8:14
 
 > Those who swear by the guilt of Samaria,
-> who say, ‘As surely as your god lives, Dan,’
-> or, ‘As the way of Beersheba lives,’
-> they will fall, never to rise again.”
+>  who say, ‘As surely as your god lives, Dan,’
+>  or, ‘As the way of Beersheba lives,’
+>  they will fall, never to rise again.”

@@ -2,7 +2,7 @@
 
 ## Judges 10:1
 
-Following the death of Abimelek, Tola, son of Puah, son of Dodo, a man from the tribe of Issachar, rose to deliver Israel. He resided in Shamir, situated in the hill country of Ephraim.
+Following the death of Abimelech, Tola, son of Puah, son of Dodo, a man from the tribe of Issachar, rose to deliver Israel. He resided in Shamir, situated in the hill country of Ephraim.
 
 ## Judges 10:2
 
@@ -18,7 +18,7 @@ Jair had thirty sons who rode on thirty donkeys, and they possessed thirty towns
 
 ## Judges 10:5
 
-Upon Jair's passing, he was interred in Kamon.
+Upon Jair’s passing, he was interred in Kamon.
 
 ---
 
@@ -28,7 +28,7 @@ Once again, the Israelites did evil in the sight of the Lord. They worshipped th
 
 ## Judges 10:7
 
-The Lord's anger burned against Israel, and He handed them over to the Philistines and the Ammonites.
+The Lord’s anger burned against Israel, and He handed them over to the Philistines and the Ammonites.
 
 ## Judges 10:8
 

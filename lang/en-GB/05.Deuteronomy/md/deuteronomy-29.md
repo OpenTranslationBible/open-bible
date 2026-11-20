@@ -4,7 +4,7 @@
 These are the terms of the covenant which the Lord commanded Moses to establish with the Israelites in the land of Moab, in addition to the covenant He had made with them at Horeb.
 
 ## Deuteronomy 29:2
-Moses gathered all of Israel and said to them: "You have witnessed all that the Lord did in Egypt to Pharaoh, to all his officials, and to all his land.
+Moses gathered all of Israel and said to them: “You have witnessed all that the Lord did in Egypt to Pharaoh, to all his officials, and to all his land.
 
 ## Deuteronomy 29:3
 Your eyes have seen those great trials, those signs and wonders.

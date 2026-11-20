@@ -34,11 +34,11 @@ The Lord asked Satan, “Where have you come from?”
 
 ---
 
-Satan answered the Lord, “From roaming through the earth and walking back and forth on it.”
+ Satan answered the Lord, “From roaming through the earth and walking back and forth on it.”
 
 ## Job 1:8
 
-Then the Lord said to Satan, “Have you considered my servant Job? There is no one like him on earth; he is blameless and upright, a man who fears God and shuns evil.”
+Then the Lord said to Satan, “Have you considered My servant Job? There is no one like him on earth; he is blameless and upright, a man who fears God and shuns evil.”
 
 ---
 
@@ -48,11 +48,11 @@ Satan replied to the Lord, “Does Job fear God for nothing?”
 
 ## Job 1:10
 
-“Have you not placed a hedge around him and his household and all that he owns? You have blessed the work of his hands, and his livestock have spread throughout the land.
+“Have You not placed a hedge around him and his household and all that he owns? You have blessed the work of his hands, and his livestock have spread throughout the land.
 
 ## Job 1:11
 
-But stretch out your hand now and touch all that he has, and he will surely curse you to your face.”
+But stretch out Your hand now and touch all that he has, and he will surely curse You to Your face.”
 
 ---
 
@@ -60,7 +60,7 @@ But stretch out your hand now and touch all that he has, and he will surely curs
 
 The Lord said to Satan, “Very well, all that he has is in your power, but do not lay a hand on the man himself.”
 
-So Satan departed from the presence of the Lord.
+ So Satan departed from the presence of the Lord.
 
 ---
 
@@ -102,10 +102,10 @@ At this, Job arose, tore his robe, and shaved his head. Then he fell to the grou
 
 He declared,
 
-> “Naked I came from my mother’s womb,
-> and naked I shall return there.
-> The Lord gave, and the Lord has taken away;
-> blessed be the name of the Lord.”
+>  “Naked I came from my mother’s womb,
+>  and naked I shall return there.
+>  The Lord gave, and the Lord has taken away;
+>  blessed be the name of the Lord.”
 
 ## Job 1:22
 

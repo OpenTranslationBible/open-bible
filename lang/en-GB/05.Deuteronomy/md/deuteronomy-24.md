@@ -4,7 +4,7 @@
 When a man marries a woman, and she does not find favour in his eyes because he has discovered some indecency in her, he may write her a certificate of divorce, place it in her hand, and send her away from his house.
 
 ## Deuteronomy 24:2
-If she departs from his house and becomes another man's wife,
+If she departs from his house and becomes another man’s wife,
 
 ## Deuteronomy 24:3
 and if her second husband dislikes her and writes her a certificate of divorce, places it in her hand, and sends her away from his house, or if he dies,
@@ -16,7 +16,7 @@ then her first husband, who sent her away, is not permitted to take her again as
 When a man takes a new wife, he shall not go out with the army or be assigned any duty. He shall be free to remain at home for one year and bring happiness to the wife he has married.
 
 ## Deuteronomy 24:6
-Do not take a handmill or even the upper millstone as security for a debt, for that would be taking someone's livelihood as a pledge.
+Do not take a handmill or even the upper millstone as security for a debt, for that would be taking someone’s livelihood as a pledge.
 
 ## Deuteronomy 24:7
 If anyone is found kidnapping a fellow Israelite and treating them as merchandise or selling them, that kidnapper shall die. You must purge the evil from among you.
@@ -25,7 +25,7 @@ If anyone is found kidnapping a fellow Israelite and treating them as merchandis
 Be very careful in cases of defiling skin diseases to do exactly as the Levitical priests instruct you. Follow carefully what I have commanded them.
 
 ## Deuteronomy 24:9
-Recall what happened to Miriam by the Lord your God during your journey out of Egypt.
+Recall what the Lord your God did to Miriam during your journey out of Egypt.
 
 ## Deuteronomy 24:10
 When you make a loan of any kind to your neighbour, do not enter their house to collect the pledge.
@@ -49,7 +49,7 @@ Pay them their wages each day before sunset, for they are poor and depend on it.
 Parents shall not be put to death for their children, nor children for their parents; each shall die for their own sin.
 
 ## Deuteronomy 24:17
-Do not pervert the justice due to the foreigner or the fatherless, nor take a widow's cloak as a pledge.
+Do not pervert the justice due to the foreigner or the fatherless, nor take a widow’s cloak as a pledge.
 
 ## Deuteronomy 24:18
 Remember that you were slaves in Egypt and that the Lord your God redeemed you from there; that is why I command you to do this.

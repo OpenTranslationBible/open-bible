@@ -102,7 +102,7 @@ Dear friends, pray for us.
 
 ## 1 Thessalonians 5:26
 
-Extend a warm greeting to all the brothers and sisters.
+Greet all the brothers and sisters with a holy kiss.
 
 ## 1 Thessalonians 5:27
 

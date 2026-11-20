@@ -2,7 +2,7 @@
 
 ## Isaiah 25:1
 
-Lord, you are my God; I will exalt you and give thanks to your name, for you have accomplished wonderful deeds, plans formed long ago with perfect faithfulness.
+Lord, You are my God; I will exalt You and give thanks to Your name, for You have accomplished wonderful deeds, plans formed long ago with perfect faithfulness.
 
 ## Isaiah 25:2
 
@@ -10,15 +10,15 @@ You have turned the city into a heap, the fortified city into a ruin; the palace
 
 ## Isaiah 25:3
 
-As a result, strong peoples will honour you; cities of ruthless nations will hold you in awe.
+As a result, strong peoples will honour You; cities of ruthless nations will hold You in awe.
 
 ## Isaiah 25:4
 
-For you have been a stronghold for the poor, a refuge for the needy in their distress, a shelter from the storm and a shade from the heat; for the breath of the ruthless is like a storm against a wall.
+For You have been a stronghold for the poor, a refuge for the needy in their distress, a shelter from the storm and a shade from the heat; for the breath of the ruthless is like a storm against a wall.
 
 ## Isaiah 25:5
 
-Like heat in a dry land, you subdue the uproar of foreigners; as heat is reduced by the shadow of a cloud, so the song of the ruthless is silenced.
+Like heat in a dry land, You subdue the uproar of foreigners; as heat is reduced by the shadow of a cloud, so the song of the ruthless is silenced.
 
 ## Isaiah 25:6
 
@@ -26,15 +26,15 @@ On this mountain, the Lord of hosts will prepare a lavish feast for all peoples,
 
 ## Isaiah 25:7
 
-And on this mountain, he will destroy the shroud that enfolds all peoples, the veil that is spread over all nations.
+And on this mountain, He will destroy the shroud that enfolds all peoples, the veil that is spread over all nations.
 
 ## Isaiah 25:8
 
-He will swallow up death forever, and the Sovereign Lord will wipe away the tears from all faces; he will remove the disgrace of his people from all the earth. The Lord has spoken.
+He will swallow up death forever, and the Sovereign Lord will wipe away the tears from all faces; He will remove the disgrace of His people from all the earth. The Lord has spoken.
 
 ## Isaiah 25:9
 
-And on that day, it will be said, “Surely this is our God; we have waited for him, and he has saved us. This is the Lord for whom we have waited; let us rejoice and be glad in his salvation.”
+And on that day, it will be said, “Surely this is our God; we have waited for Him, and He has saved us. This is the Lord for whom we have waited; let us rejoice and be glad in His salvation.”
 
 ## Isaiah 25:10
 
@@ -46,4 +46,4 @@ They will spread out their hands in it, as swimmers spread out their hands to sw
 
 ## Isaiah 25:12
 
-The high fortified walls he will bring down, lay low, and throw to the ground, to the dust.
+The high fortified walls He will bring down, lay low, and throw to the ground, to the dust.

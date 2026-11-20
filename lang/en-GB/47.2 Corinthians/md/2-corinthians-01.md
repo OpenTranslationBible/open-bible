@@ -2,8 +2,8 @@
 
 ## 2 Corinthians 1:1
 
-From Paul, an apostle of Christ Jesus by God's will, and Timothy our brother,  
-To the church of God in Corinth, together with all the saints throughout Achaia:
+From Paul, an apostle of Christ Jesus by God’s will, and Timothy our brother,  
+ To the church of God in Corinth, together with all the saints throughout Achaia:
 
 ## 2 Corinthians 1:2
 
@@ -15,7 +15,7 @@ Praise be to the God and Father of our Lord Jesus Christ, the merciful Father an
 
 ## 2 Corinthians 1:4
 
-Who comforts us in all our troubles, enabling us to comfort those in trouble with the comfort we ourselves receive from God.
+who comforts us in all our troubles, enabling us to comfort those in trouble with the comfort we ourselves receive from God.
 
 ## 2 Corinthians 1:5
 
@@ -27,7 +27,7 @@ But if we face troubles, it is for your comfort and salvation; or if we are comf
 
 ## 2 Corinthians 1:7
 
-And our hope for you is unwavering, knowing that as you partake in our sufferings, so also you partake in our comfort.
+and our hope for you is unwavering, knowing that as you partake in our sufferings, so also you partake in our comfort.
 
 ## 2 Corinthians 1:8
 
@@ -39,11 +39,11 @@ Indeed, we felt we had received the sentence of death, so that we might not rely
 
 ## 2 Corinthians 1:10
 
-Who delivered us from such a perilous danger of death, and will continue to deliver us. On Him we have set our hope, and He will yet deliver us,
+who delivered us from such a perilous danger of death, and will continue to deliver us. On Him we have set our hope, and He will yet deliver us,
 
 ## 2 Corinthians 1:11
 
-If you also join in helping us through your prayers, so that thanks may be given by many persons on our behalf for the favour bestowed on us through the prayers of many.
+if you also join in helping us through your prayers, so that thanks may be given by many persons on our behalf for the favour bestowed on us through the prayers of many.
 
 ## 2 Corinthians 1:12
 
@@ -55,7 +55,7 @@ For we write nothing else to you than what you read and understand, and I hope y
 
 ## 2 Corinthians 1:14
 
-Just as you also partially did understand us, that we are your reason for pride as you also are ours, in the day of our Lord Jesus.
+just as you also partially did understand us, that we are your reason for pride as you also are ours, in the day of our Lord Jesus.
 
 ## 2 Corinthians 1:15
 
@@ -63,7 +63,7 @@ In this confidence I initially intended to visit you, so that you might be bless
 
 ## 2 Corinthians 1:16
 
-That is, to pass your way into Macedonia, and again from Macedonia to come to you, and by you to be helped on my way to Judea.
+that is, to pass your way into Macedonia, and again from Macedonia to come to you, and by you to be helped on my way to Judea.
 
 ## 2 Corinthians 1:17
 
@@ -87,7 +87,7 @@ It is God who establishes both us and you in Christ. He has anointed us,
 
 ## 2 Corinthians 1:22
 
-Who also set His seal of ownership on us and put His Spirit in our hearts as a guarantee.
+who also set His seal of ownership on us and put His Spirit in our hearts as a guarantee.
 
 ## 2 Corinthians 1:23
 

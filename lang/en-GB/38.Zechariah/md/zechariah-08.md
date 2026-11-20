@@ -16,13 +16,13 @@ This is what the Lord of hosts says: “Once again, old men and women will sit i
 And the city squares will be filled with boys and girls playing there.”
 
 ## Zechariah 8:6
-This is what the Lord of hosts says: “If it seems marvellous to the remnant of this people in those days, will it also seem marvellous to me?” declares the Lord of hosts.
+This is what the Lord of hosts says: “If it seems marvellous to the remnant of this people in those days, will it also seem marvellous to Me?” declares the Lord of hosts.
 
 ## Zechariah 8:7
-This is what the Lord of hosts says: “I will save my people from the lands of the east and the west.
+This is what the Lord of hosts says: “I will save My people from the lands of the east and the west.
 
 ## Zechariah 8:8
-I will bring them back to live in Jerusalem; they will be my people, and I will be their God in truth and righteousness.”
+I will bring them back to live in Jerusalem; they will be My people, and I will be their God in truth and righteousness.”
 
 ## Zechariah 8:9
 This is what the Lord of hosts says: “Let your hands be strong, you who hear these words spoken by the prophets who were present when the foundation of the house of the Lord of hosts was laid, so that the temple might be built.
@@ -40,7 +40,7 @@ However, I will now treat the remnant of this people differently than in the pas
 Just as you have been a curse among the nations, house of Judah and house of Israel, so I will save you, and you will be a blessing. Do not fear, but let your hands be strong.”
 
 ## Zechariah 8:14
-This is what the Lord of hosts says: “Just as I had determined to bring disaster upon you when your ancestors provoked me to anger,” says the Lord of hosts,
+This is what the Lord of hosts says: “Just as I had determined to bring disaster upon you when your ancestors provoked Me to anger, and I did not relent,” says the Lord of hosts,
 
 ## Zechariah 8:15
 “so I have determined to do good again to Jerusalem and to the house of Judah. Do not fear.
@@ -64,7 +64,7 @@ This is what the Lord of hosts says: “Many peoples and the inhabitants of many
 and the inhabitants of one city will go to another, saying, ‘Let us go at once to entreat the favour of the Lord and to seek the Lord of hosts. I myself am going.’
 
 ## Zechariah 8:22
-So many peoples and mighty nations will come to Jerusalem to seek the Lord of hosts and to entreat his favour.”
+So many peoples and mighty nations will come to Jerusalem to seek the Lord of hosts and to entreat His favour.”
 
 ## Zechariah 8:23
 This is what the Lord of hosts says: “In those days, ten people from all languages and nations will take firm hold of one Jew by the hem of his garment and say, ‘Let us go with you, because we have heard that God is with you.’”

@@ -64,7 +64,7 @@ if the injured party rises again and walks outside with a staff, then the assail
 However, if the slave survives for a day or two, no vengeance shall be taken, for the slave is their property.
 
 ## Exodus 21:22
-“If men struggle and strike a pregnant woman so that she gives birth prematurely, but there is no serious injury, the offender shall be fined whatever the woman's husband demands and the judges allow.
+“If men struggle and strike a pregnant woman so that she gives birth prematurely, but there is no serious injury, the offender shall be fined whatever the woman’s husband demands and the judges allow.
 
 ## Exodus 21:23
 But if there is serious injury, you shall give life for life,

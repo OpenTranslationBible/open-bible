@@ -106,13 +106,13 @@ So be vigilant; I have forewarned you of everything.
 
 “But in those days, following that tribulation,
 
-> the sun will be darkened,
-> and the moon will not shed its light;
+>  the sun will be darkened,
+>  and the moon will not shed its light;
 
 ## Mark 13:25
 
 > the stars will fall from the sky,
-> and the celestial powers will be shaken.
+>  and the celestial powers will be shaken.
 
 ## Mark 13:26
 

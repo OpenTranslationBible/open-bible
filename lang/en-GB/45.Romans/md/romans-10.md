@@ -10,11 +10,11 @@ For I can testify that they have a zeal for God, but it is not according to know
 
 ## Romans 10:3
 
-For, lacking awareness of God's righteousness and attempting to establish their own, they did not submit to God's righteousness.
+For, lacking awareness of God’s righteousness and attempting to establish their own, they did not submit to God’s righteousness.
 
 ## Romans 10:4
 
-For Christ is the fulfillment of the law so that righteousness may be available to everyone who believes.
+For Christ is the fulfilment of the law so that righteousness may be available to everyone who believes.
 
 ## Romans 10:5
 
@@ -34,7 +34,7 @@ But what does it say? “The word is near you; it is in your mouth and in your h
 
 ## Romans 10:9
 
-If you acknowledge with your mouth, “Jesus is Lord,” and have faith in your heart that God raised him from the dead, you will be saved.
+If you acknowledge with your mouth, “Jesus is Lord,” and have faith in your heart that God raised Him from the dead, you will be saved.
 
 ## Romans 10:10
 
@@ -42,11 +42,11 @@ For with the heart one believes and is justified, and with the mouth one declare
 
 ## Romans 10:11
 
-For Scripture says, “Whoever believes in him will never be put to shame.”
+For Scripture says, “Whoever believes in Him will never be put to shame.”
 
 ## Romans 10:12
 
-For there is no distinction between Jew and Greek; the same Lord is Lord of all, richly blessing all who call on him,
+For there is no distinction between Jew and Greek; the same Lord is Lord of all, richly blessing all who call on Him,
 
 ## Romans 10:13
 
@@ -72,26 +72,26 @@ So faith comes from hearing, and hearing through the message of Christ.
 
 But I ask: Did they not hear? Indeed they did:
 
-> “Their voice has gone out into all the earth,
-> and their words to the ends of the world.”
+>  “Their voice has gone out into all the earth,
+>  and their words to the ends of the world.”
 
 ## Romans 10:19
 
 Again I ask: Did Israel not understand? First, Moses says,
 
-> “I will make you envious by those who are not a nation;
-> I will make you angry by a nation that lacks understanding.”
+>  “I will make you envious by those who are not a nation;
+>  I will make you angry by a nation that lacks understanding.”
 
 ## Romans 10:20
 
 And Isaiah confidently declares,
 
-> “I was found by those who did not seek me;
-> I revealed myself to those who did not ask for me.”
+>  “I was found by those who did not seek Me;
+>  I revealed Myself to those who did not ask for Me.”
 
 ## Romans 10:21
 
 But regarding Israel, he states,
 
-> “All day long I have extended my hands
-> to a disobedient and obstinate people.”
+>  “All day long I have extended My hands to a disobedient and obstinate people.
+> ”

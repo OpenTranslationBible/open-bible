@@ -10,7 +10,7 @@ And Balaam lifted his eyes and saw Israel camped tribe by tribe, and the Spirit 
 He began his oracle and said, “The utterance of Balaam son of Beor, the utterance of the man whose eye is open;
 
 ## Numbers 24:4
-The utterance of one who hears the words of God, who sees the vision of the Almighty, who falls down, with eyes uncovered:
+the utterance of one who hears the words of God, who sees the vision of the Almighty, who falls down, with eyes uncovered:
 
 ## Numbers 24:5
 How lovely are your tents, Jacob, your dwelling places, Israel!
@@ -46,7 +46,7 @@ Now, behold, I am going back to my people; come, let me inform you of what this 
 Then he began his oracle and said, “The utterance of Balaam son of Beor, the utterance of the man whose eye is open,
 
 ## Numbers 24:16
-The utterance of one who hears the words of God, and has knowledge from the Most High, who sees the vision of the Almighty, who falls down, with eyes uncovered:
+the utterance of one who hears the words of God, and has knowledge from the Most High, who sees the vision of the Almighty, who falls down, with eyes uncovered:
 
 ## Numbers 24:17
 I see him, but not now; I behold him, but not near; a star shall come out of Jacob, a sceptre shall rise out of Israel, and shall crush the foreheads of Moab, and destroy all the sons of Sheth.
@@ -64,7 +64,7 @@ Then he looked at Amalek and began his oracle and said, “Amalek was the first 
 And he looked at the Kenites and began his oracle and said, “Your dwelling place is secure, and your nest is set in the rock;
 
 ## Numbers 24:22
-Nevertheless, the Kenites will be destroyed when Asshur takes you captive.”
+nevertheless, the Kenites will be destroyed when Asshur takes you captive.”
 
 ## Numbers 24:23
 Then he began his oracle and said, “Alas! Who can survive unless God has willed it?

@@ -66,11 +66,11 @@ Shadrach, Meshach, and Abednego replied to the king, “O Nebuchadnezzar, we do 
 
 ## Daniel 3:17
 
-If we are thrown into the blazing furnace, the God we serve is able to deliver us from it, and he will deliver us from your hand, O king.
+If we are thrown into the blazing furnace, the God we serve is able to deliver us from it, and He will deliver us from your hand, O king.
 
 ## Daniel 3:18
 
-But even if he does not, let it be known to you, O king, that we will not serve your gods or worship the golden image you have set up.”
+But even if He does not, let it be known to you, O king, that we will not serve your gods or worship the golden image you have set up.”
 
 ## Daniel 3:19
 
@@ -110,7 +110,7 @@ The satraps, prefects, governors, and king’s counsellors gathered around and s
 
 ## Daniel 3:28
 
-Nebuchadnezzar declared, “Blessed be the God of Shadrach, Meshach, and Abednego, who has sent his angel and delivered his servants who trusted in him. They defied the king’s command and were willing to give up their lives rather than serve or worship any god except their own God.
+Nebuchadnezzar declared, “Blessed be the God of Shadrach, Meshach, and Abednego, who has sent His angel and delivered His servants who trusted in Him. They defied the king’s command and were willing to give up their lives rather than serve or worship any god except their own God.
 
 ## Daniel 3:29
 

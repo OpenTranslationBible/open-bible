@@ -19,26 +19,26 @@ And I heard the number of those who were sealed: 144,000, sealed from all the tr
 ## Revelation 7:5
 
 > Sealed from the tribe of Judah, 12,000,
-> from the tribe of Reuben, 12,000,
-> from the tribe of Gad, 12,000,
+>  from the tribe of Reuben, 12,000,
+>  from the tribe of Gad, 12,000,
 
 ## Revelation 7:6
 
 > sealed from the tribe of Asher, 12,000,
-> from the tribe of Naphtali, 12,000,
-> from the tribe of Manasseh, 12,000,
+>  from the tribe of Naphtali, 12,000,
+>  from the tribe of Manasseh, 12,000,
 
 ## Revelation 7:7
 
 > sealed from the tribe of Simeon, 12,000,
-> from the tribe of Levi, 12,000,
-> from the tribe of Issachar, 12,000,
+>  from the tribe of Levi, 12,000,
+>  from the tribe of Issachar, 12,000,
 
 ## Revelation 7:8
 
 > from the tribe of Zebulun, 12,000,
-> from the tribe of Joseph, 12,000,
-> and from the tribe of Benjamin, 12,000 were sealed.
+>  from the tribe of Joseph, 12,000,
+>  and from the tribe of Benjamin, 12,000 were sealed.
 
 ## Revelation 7:9
 
@@ -48,9 +48,9 @@ After these events, I looked, and there was a vast multitude that no one could c
 
 And they proclaimed with a loud voice,
 
-> “Salvation is belongs to our God
-> who sits on the throne,
-> and to the Lamb.”
+>  “Salvation belongs to our God who sits on the throne,
+>  and to the Lamb.
+> ”
 
 ## Revelation 7:11
 
@@ -60,12 +60,12 @@ All the angels were standing around the throne, the elders, and the four living 
 
 saying,
 
-> “Amen!
-> Blessing, glory,
-> wisdom, thanksgiving, honour,
-> power, and might
-> be to our God forever and ever.
-> Amen.”
+>  “Amen!
+>  Blessing, glory,
+>  wisdom, thanksgiving, honour,
+>  power,
+>  and might be to our God forever and ever.
+>  Amen.”
 
 ## Revelation 7:13
 
@@ -77,17 +77,17 @@ I replied, “Sir, you know.” And he said to me, “These are the ones who hav
 
 ## Revelation 7:15
 
-> For this reason, they are before the throne of God
-> and serve Him day and night in His temple;
-> and He who sits on the throne will shelter them with His presence.
+> For this reason,
+>  they are before the throne of God and serve Him day and night in His temple;
+>  and He who sits on the throne will shelter them with His presence.
 
 ## Revelation 7:16
 
 > They will no longer hunger or thirst,
-> nor will the sun beat down on them, nor any scorching heat;
+>  nor will the sun beat down on them, nor any scorching heat;
 
 ## Revelation 7:17
 
 > for the Lamb in the midst of the throne will be their shepherd,
-> and He will lead them to springs of the water of life;
-> and God will wipe away every tear from their eyes.”
+>  and He will lead them to springs of the water of life;
+>  and God will wipe away every tear from their eyes.”

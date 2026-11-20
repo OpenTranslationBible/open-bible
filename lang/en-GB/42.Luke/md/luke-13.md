@@ -108,7 +108,7 @@ Someone inquired of Him, “Lord, will only a few be saved?” He responded to t
 
 ## Luke 13:25
 
-Once the owner of the house gets up and shuts the door, you will stand outside knocking and pleading, ‘Sir, open the door for us.’ But He will answer, ‘I do not know you or where you come from.’
+Once the owner of the house gets up and shuts the door, you will stand outside knocking and pleading, ‘Sir, open the door for us.’ But he will answer, ‘I do not know you or where you come from.’
 
 ## Luke 13:26
 
@@ -116,7 +116,7 @@ Then you will say, ‘We shared meals with you, and you taught among us.’
 
 ## Luke 13:27
 
-But He will reply, ‘I do not know where you come from. Depart from me, all you evildoers!’
+But he will reply, ‘I do not know where you come from. Depart from me, all you evildoers!’
 
 ## Luke 13:28
 
@@ -134,22 +134,22 @@ Indeed, there are those who are last who will be first, and those who are first 
 
 ## Luke 13:31
 
-At that time some Pharisees came to Jesus and said, “Leave this place and go elsewhere. Herod wants to kill you.”
+At that time some Pharisees came to Jesus and said, “Leave this place and go elsewhere. Herod wants to kill You.”
 
 ## Luke 13:32
 
-He replied, “Go tell that fox, ‘I will keep on casting out demons and performing healings today and tomorrow, and on the third day I will reach my goal.’
+He replied, “Go tell that fox, ‘I will keep on casting out demons and performing healings today and tomorrow, and on the third day I will reach My goal.’
 
 ## Luke 13:33
 
-Nevertheless, I must continue my journey today, tomorrow, and the next day—for it is not possible for a prophet to perish outside of Jerusalem.
+Nevertheless, I must continue My journey today, tomorrow, and the next day—for it is not possible for a prophet to perish outside of Jerusalem.
 
 ---
 
 ## Luke 13:34
 
-O Jerusalem, Jerusalem, you who harm the prophets and stone those sent to you, how often I have desired to gather your children together, as a hen gathers her chicks under her wings, but you were not willing.
+O Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you, how often I have desired to gather your children together, as a hen gathers her chicks under her wings, but you were not willing.
 
 ## Luke 13:35
 
-Behold, your house is left to you desolate. I tell you, you will not see me again until you declare, ‘Blessed is he who comes in the name of the Lord.’”
+Behold, your house is left to you desolate. I tell you, you will not see Me again until you declare, ‘Blessed is He who comes in the name of the Lord.’”

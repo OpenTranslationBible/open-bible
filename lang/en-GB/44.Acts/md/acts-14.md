@@ -10,7 +10,7 @@ However, the Jews who were not persuaded stirred up the Gentiles and poisoned th
 
 ## Acts 14:3
 
-Consequently, Paul and Barnabas spent a significant amount of time there, speaking boldly with reliance on the Lord, who confirmed the message of his grace by allowing signs and wonders to be performed through them.
+Consequently, Paul and Barnabas spent a significant amount of time there, speaking boldly with reliance on the Lord, who confirmed the message of His grace by allowing signs and wonders to be performed through them.
 
 ## Acts 14:4
 
@@ -66,11 +66,11 @@ Upon hearing this, the apostles Barnabas and Paul tore their clothes and rushed 
 
 ## Acts 14:16
 
-In past generations, he allowed all nations to go their own ways.
+In past generations, He allowed all nations to go their own ways.
 
 ## Acts 14:17
 
-Yet he did not leave himself without witness, in that he did good and gave you rain from heaven and fruitful seasons, filling your hearts with food and gladness.”
+Yet He did not leave Himself without witness, in that He did good and gave you rain from heaven and fruitful seasons, filling your hearts with food and gladness.”
 
 ## Acts 14:18
 
@@ -116,7 +116,7 @@ From there, they returned by sea to Antioch, where they had been entrusted to th
 
 ## Acts 14:27
 
-Upon their arrival, they gathered the church together and reported all that God had done through them and how he had opened a door of faith to the Gentiles.
+Upon their arrival, they gathered the church together and reported all that God had done through them and how He had opened a door of faith to the Gentiles.
 
 ## Acts 14:28
 

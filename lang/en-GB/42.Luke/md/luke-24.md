@@ -72,7 +72,7 @@ He asked them, “What are these matters you are discussing as you walk along?�
 
 ## Luke 24:18
 
-One of them, named Cleopas, answered, “Are you the only one visiting Jerusalem who does not know the things that have happened there in these days?”
+One of them, named Cleopas, answered, “Are You the only one visiting Jerusalem who does not know the things that have happened there in these days?”
 
 ## Luke 24:19
 

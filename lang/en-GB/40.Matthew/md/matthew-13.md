@@ -6,7 +6,7 @@ On that same day, Jesus left the house and sat by the sea.
 
 ## Matthew 13:2
 
-Large crowds gathered around him, so he got into a boat and sat down, while the crowd stood on the shore.
+Large crowds gathered around Him, so He got into a boat and sat down, while the crowd stood on the shore.
 
 ## Matthew 13:3
 
@@ -34,13 +34,13 @@ But others fell on good soil and yielded a crop, some a hundred, some sixty, and
 
 ## Matthew 13:9
 
-To he who has ears: let him listen.”
+He who has ears, let him listen.”
 
 ---
 
 ## Matthew 13:10
 
-The disciples approached him and inquired, “Why do you use parables when speaking to the people?”
+The disciples approached Him and inquired, “Why do You use parables when speaking to the people?”
 
 ## Matthew 13:11
 
@@ -52,28 +52,28 @@ For whoever has, more will be given, and they will have an abundance. Whoever do
 
 ## Matthew 13:13
 
-The reason I speak to them in parables is that
+The reason I speak to them in parables is that although they look,
 
-> although they look, they do not see;
-> although they hear, they do not listen;
-> nor do they understand.
+>  they do not see;
+>  although they hear, they do not listen;
+>  nor do they understand.
 
 ## Matthew 13:14
 
 In them is fulfilled the prophecy of Isaiah:
 
-> ‘You will keep on hearing, but never understand;
-> you will keep on seeing, but never perceive.
+>  ‘You will keep on hearing, but never understand;
+>  you will keep on seeing, but never perceive.
 
 ## Matthew 13:15
 
 > For this people’s heart has grown dull;
-> with their ears they scarcely hear,
-> and they have closed their eyes.
-> Otherwise they might see with their eyes,
-> hear with their ears,
-> understand with their hearts and turn,
-> and I would heal them.’
+>  with their ears they scarcely hear,
+>  and they have closed their eyes.
+>  Otherwise they might see with their eyes,
+>  hear with their ears,
+>  understand with their hearts and turn,
+>  and I would heal them.’
 
 ## Matthew 13:16
 
@@ -159,17 +159,17 @@ He told them another parable: “The kingdom of heaven is like leaven, which a w
 
 ## Matthew 13:34
 
-Jesus spoke all these things to the crowds in parables; he did not speak to them without using a parable.
+Jesus spoke all these things to the crowds in parables; He did not speak to them without using a parable.
 
 ## Matthew 13:35
 
-This was to fulfil what was spoken through the prophet: “I will open my mouth in parables; I will utter things hidden since the foundation of the world.”
+This was to fulfil what was spoken through the prophet: “I will open My mouth in parables; I will utter things hidden since the foundation of the world.”
 
 ---
 
 ## Matthew 13:36
 
-Then he left the crowds and went into the house. His disciples came to him and said, “Explain to us the parable of the weeds of the field.”
+Then He left the crowds and went into the house. His disciples came to Him and said, “Explain to us the parable of the weeds of the field.”
 
 ## Matthew 13:37
 
@@ -189,11 +189,11 @@ As the weeds are gathered and burned in the fire, so it will be at the end of th
 
 ## Matthew 13:41
 
-The Son of Man will send out his angels, and they will gather out of his kingdom all that causes sin and all who do evil.
+The Son of Man will send out His angels, and they will gather out of His kingdom all that causes sin and all who do evil.
 
 ## Matthew 13:42
 
-They will cast them into the blazing furnace, where there will be sorrow and grinding of teeth.
+They will cast them into the blazing furnace, where there will be weeping and gnashing of teeth.
 
 ## Matthew 13:43
 
@@ -225,40 +225,40 @@ This is what will occur at the end of the age. The angels will come and separate
 
 ## Matthew 13:50
 
-and cast them into the furnace of fire, where there will be sorrow and grinding of teeth.
+and cast them into the furnace of fire, where there will be weeping and gnashing of teeth.
 
 ---
 
 ## Matthew 13:51
 
-“Have you understood all these things?” Jesus asked. They said to him, “Yes.”
+“Have you understood all these things?” Jesus asked. They said to Him, “Yes.”
 
 ## Matthew 13:52
 
-And he said to them, “Therefore every scribe who has become a disciple in the kingdom of heaven is like the owner of a house who brings out of his storeroom new treasures as well as old.”
+And He said to them, “Therefore every scribe who has become a disciple in the kingdom of heaven is like the owner of a house who brings out of his storeroom new treasures as well as old.”
 
 ---
 
 ## Matthew 13:53
 
-After Jesus had finished these parables, he moved on from there.
+After Jesus had finished these parables, He moved on from there.
 
 ## Matthew 13:54
 
-Coming to his hometown, he began teaching the people in their synagogue, and they were astonished, saying, “Where did this man get this wisdom and these miraculous powers?”
+Coming to His hometown, He began teaching the people in their synagogue, and they were astonished, saying, “Where did this man get this wisdom and these miraculous powers?”
 
 ## Matthew 13:55
 
-“Is this not the carpenter’s son? Is not his mother called Mary, and his brothers James, Joseph, Simon, and Judas?
+“Is this not the carpenter’s son? Is not His mother called Mary, and His brothers James, Joseph, Simon, and Judas?
 
 ## Matthew 13:56
 
-And are not all his sisters among us? So where did this man acquire all these things?”
+And are not all His sisters among us? So where did this man acquire all these things?”
 
 ## Matthew 13:57
 
-And they took offence at him. But Jesus said to them, “A prophet is not without honour except in his hometown and in his own household.”
+And they took offence at Him. But Jesus said to them, “A prophet is not without honour except in his hometown and in his own household.”
 
 ## Matthew 13:58
 
-And he did not perform many miracles there due to their lack of faith.
+And He did not perform many miracles there due to their lack of faith.

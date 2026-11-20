@@ -2,7 +2,7 @@
 
 ## 1 Samuel 18:1
 
-After he had finished speaking to Saul, Jonathan became deeply connected to David, so that Jonathan was devoted to him; as if to his own soul.
+After he had finished speaking to Saul, Jonathan became deeply connected to David, so that Jonathan was devoted to him, as if to his own soul.
 
 ## 1 Samuel 18:2
 
@@ -10,7 +10,7 @@ Saul took him that day and did not allow him to return to his father’s house.
 
 ## 1 Samuel 18:3
 
-Then Jonathan made a covenant with David and he was devoted to him; as if to his own soul.
+Then Jonathan made a covenant with David because he was devoted to him, as if to his own soul.
 
 ## 1 Samuel 18:4
 
@@ -30,8 +30,8 @@ Now it happened as they were coming home, when David returned from striking down
 
 The women sang as they celebrated and said,
 
-> “Saul has slain his thousands,  
-> And David his tens of thousands.”
+>  “Saul has slain his thousands,  
+>  and David his tens of thousands.”
 
 ## 1 Samuel 18:8
 
@@ -94,7 +94,7 @@ Now Michal, Saul’s daughter, loved David. When they told Saul, the matter was 
 ## 1 Samuel 18:21
 
 Saul thought, “I will give her to him, so that she may become a snare to him, and so that the hand of the Philistines may be against him.”  
-Therefore Saul said to David, “For a second time you may become my son-in-law today.”
+ Therefore Saul said to David, “For a second time you may become my son-in-law today.”
 
 ## 1 Samuel 18:22
 
@@ -111,7 +111,7 @@ The servants of Saul reported to him according to what David had said.
 ## 1 Samuel 18:25
 
 Then Saul said, “This is what you shall say to David: ‘The king desires no dowry except a hundred foreskins of the Philistines, to take vengeance on the king’s enemies.’”  
-But Saul intended for David to fall by the hand of the Philistines.
+ But Saul intended for David to fall by the hand of the Philistines.
 
 ---
 
@@ -129,8 +129,8 @@ When Saul observed and understood that the Lord was with David, and that Michal,
 
 ## 1 Samuel 18:29
 
-Saul's fear of David increased. Thus, Saul remained David's adversary continually.
+Saul’s fear of David increased. Thus, Saul remained David’s adversary continually.
 
 ## 1 Samuel 18:30
 
-Then the commanders of the Philistines went out to battle, and it came about, as often as they went out, that David was more successful than all the servants of Saul.
+Then the commanders of the Philistines went out to battle, and it came about, as often as they went out, that David was more successful than all the servants of Saul, so that his name was highly esteemed.

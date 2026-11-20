@@ -10,7 +10,7 @@ The Lord then spoke to Moses, saying,
 
 ## Leviticus 20:3
 
-I will set my face against that man and cut him off from his people, because he has given his children to Molek, defiling my sanctuary and profaning my holy name.
+I will set My face against that man and cut him off from his people, because he has given his children to Molek, defiling My sanctuary and profaning My holy name.
 
 ## Leviticus 20:4
 
@@ -18,11 +18,11 @@ If the people of the land turn a blind eye when that man gives his children to M
 
 ## Leviticus 20:5
 
-I will set my face against that man and his family and cut them off from their people, along with all who follow him in prostituting themselves to Molek.
+I will set My face against that man and his family and cut them off from their people, along with all who follow him in prostituting themselves to Molek.
 
 ## Leviticus 20:6
 
-‘If anyone turns to mediums and spiritists to prostitute themselves with them, I will set my face against that person and cut them off from their people.
+‘If anyone turns to mediums and spiritists to prostitute themselves with them, I will set My face against that person and cut them off from their people.
 
 ## Leviticus 20:7
 
@@ -30,7 +30,7 @@ Dedicate yourselves and be set apart, for I am the Lord your God.
 
 ## Leviticus 20:8
 
-Keep my statutes and practise them. I am the Lord, who sanctifies you.
+Keep My statutes and practise them. I am the Lord, who sanctifies you.
 
 ## Leviticus 20:9
 
@@ -86,7 +86,7 @@ Keep my statutes and practise them. I am the Lord, who sanctifies you.
 
 ## Leviticus 20:22
 
-‘Keep all my statutes and laws and follow them, so that the land where I am bringing you to live may not vomit you out.
+‘Keep all My statutes and laws and follow them, so that the land where I am bringing you to live may not vomit you out.
 
 ## Leviticus 20:23
 
@@ -102,7 +102,7 @@ But I have said to you, “You shall inherit their land; I will give it to you a
 
 ## Leviticus 20:26
 
-You shall be holy to me because I, the Lord, am holy, and I have set you apart from the nations to be my own.
+You shall be holy to Me because I, the Lord, am holy, and I have set you apart from the nations to be My own.
 
 ## Leviticus 20:27
 

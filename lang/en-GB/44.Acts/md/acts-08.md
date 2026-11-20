@@ -72,11 +72,11 @@ For the Holy Spirit had not yet fallen upon any of them; they had only been bapt
 
 ## Acts 8:17
 
-So Peter and John lay their hands upon them, and they received the Holy Spirit.
+So Peter and John laid their hands upon them, and they received the Holy Spirit.
 
 ## Acts 8:18
 
-When Simon observed that the Spirit was given through the apostles' laying on of hands, he offered them money,
+When Simon observed that the Spirit was given through the apostles’ laying on of hands, he offered them money,
 
 ## Acts 8:19
 
@@ -138,15 +138,15 @@ He replied, “How can I, unless someone guides me?” And he invited Philip to 
 
 Now the passage of Scripture he was reading was this:
 
-> “He was led as a sheep to the slaughter,
-> and as a lamb before its shearer is silent,
-> so he does not open his mouth.
+>  “He was led as a sheep to the slaughter,
+>  and as a lamb before its shearer is silent,
+>  so He does not open His mouth.
 
 ## Acts 8:33
 
-> In his humiliation, justice was denied him.
-> Who can speak of his descendants?
-> For his life was taken from the earth.”
+> In His humiliation, justice was denied Him.
+>  Who can speak of His descendants?
+>  For His life was taken from the earth.”
 
 ## Acts 8:34
 

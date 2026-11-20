@@ -13,7 +13,7 @@ For your hands are tainted with blood, and your fingers with wrongdoing. Your li
 No one calls for justice, nor does anyone plead honestly. They rely on empty arguments and speak falsehoods; they conceive trouble and give birth to disaster.
 
 ## Isaiah 59:5
-They hatch viper eggs and weave a spider's web. Whoever eats their eggs dies, and from one that is crushed, a snake breaks out.
+They hatch viper eggs and weave a spider’s web. Whoever eats their eggs dies, and from one that is crushed, a snake breaks out.
 
 ## Isaiah 59:6
 Their webs cannot become clothing, nor can they cover themselves with what they make. Their deeds are acts of wrongdoing, and violence is in their hands.

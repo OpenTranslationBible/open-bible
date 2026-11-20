@@ -86,8 +86,8 @@ Moreover, Uzziah equipped the entire army with shields, spears, helmets, body ar
 
 ## 2 Chronicles 26:15
 
-He made skillfully designed devices in Jerusalem to be on the towers and on the corners, for the purpose of shooting arrows and great stones.  
-And his fame spread far, for he was marvellously helped until he was strong.
+He made skilfully designed devices in Jerusalem to be on the towers and on the corners, for the purpose of shooting arrows and great stones.  
+ And his fame spread far, for he was marvellously helped until he was strong.
 
 ---
 
@@ -124,7 +124,7 @@ Azariah the chief priest and all the priests looked at him, and behold, he was l
 ## 2 Chronicles 26:21
 
 King Uzziah was a leper until the day of his death; and he lived in a separate house, being a leper, for he was cut off from the house of the Lord.  
-And his son Jotham was in charge of the king’s house, judging the people of the land.
+ And his son Jotham was in charge of the king’s house, judging the people of the land.
 
 ---
 
@@ -137,4 +137,4 @@ Now the rest of the acts of Uzziah, from the beginning to the end, were recorded
 ## 2 Chronicles 26:23
 
 So Uzziah was laid to rest with his ancestors, and they buried him with his fathers in the field of the grave which belonged to the kings, for they said, “He is a leper.”  
-And his son Jotham became king in his place.
+ And his son Jotham became king in his place.

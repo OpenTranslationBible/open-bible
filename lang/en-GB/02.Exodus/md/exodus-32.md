@@ -46,7 +46,7 @@ So the Lord relented from the harm He had threatened to do to His people.
 Moses turned and went down the mountain with the two tablets of the testimony in his hands. They were inscribed on both sides, front and back.
 
 ## Exodus 32:16
-The tablets were crafted by God; the writing was God's own writing, engraved on the tablets.
+The tablets were crafted by God; the writing was God’s own writing, engraved on the tablets.
 
 ## Exodus 32:17
 When Joshua heard the sound of the people shouting, he said to Moses, “There is the sound of war in the camp.”

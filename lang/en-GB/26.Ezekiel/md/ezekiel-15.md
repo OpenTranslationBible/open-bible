@@ -19,7 +19,7 @@ While it was whole, it was not made into anything. How much less can it be used 
 Therefore, this is what the Sovereign Lord says: Just as the wood of the vine among the trees of the forest is given to the fire for fuel, so will I treat the inhabitants of Jerusalem.
 
 ## Ezekiel 15:7
-I will set my face against them. Though they have come out of the fire, the fire will still consume them. And you will know that I am the Lord when I set my face against them.
+I will set My face against them. Though they have come out of the fire, the fire will still consume them. And you will know that I am the Lord when I set My face against them.
 
 ## Ezekiel 15:8
 I will make the land desolate because they have acted unfaithfully, declares the Sovereign Lord.”

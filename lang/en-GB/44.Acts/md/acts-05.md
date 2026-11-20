@@ -130,11 +130,11 @@ The God of our ancestors raised Jesus from the dead, whom you killed by hanging 
 
 ## Acts 5:31
 
-God exalted him to his own right hand as Prince and Saviour, to give repentance to Israel and forgiveness of sins.
+God exalted Him to His own right hand as Prince and Saviour, to give repentance to Israel and forgiveness of sins.
 
 ## Acts 5:32
 
-We testify to these matters, as does the Holy Spirit, whom God has given to those who obey him.”
+We testify to these matters, as does the Holy Spirit, whom God has given to those who obey Him.”
 
 ---
 

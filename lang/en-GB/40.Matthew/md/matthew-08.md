@@ -72,8 +72,8 @@ As evening approached, they brought to Him many who were troubled by demons, and
 
 This was to fulfil the words spoken by the prophet Isaiah:
 
-> “He took up our infirmities
-> and bore our diseases.”
+>  “He took up our infirmities and bore our diseases.
+> ”
 
 ---
 

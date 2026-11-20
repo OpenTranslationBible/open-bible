@@ -46,7 +46,7 @@ The son of the Israelite woman blasphemed the Name and cursed. So they brought h
 
 ## Leviticus 24:12
 
-They held him in custody until they could discern the Lord's will regarding him.
+They held him in custody until they could discern the Lord’s will regarding him.
 
 ## Leviticus 24:13
 

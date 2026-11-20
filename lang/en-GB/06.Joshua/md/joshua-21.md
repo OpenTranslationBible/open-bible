@@ -54,7 +54,7 @@ However, the fields and villages around the city had been given to Caleb son of 
 
 ## Joshua 21:13
 
-So they gave the city of Hebron to Aaron’s descendants. (a city of refuge for one who killed someone unintentionally), they also gave Aaron’s descendants the towns of Libnah,
+So they gave the city of Hebron to Aaron’s descendants (a city of refuge for one who killed someone unintentionally); they also gave Aaron’s descendants the towns of Libnah,
 
 ## Joshua 21:14
 

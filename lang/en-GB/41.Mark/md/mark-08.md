@@ -96,7 +96,7 @@ They came to Bethsaida, and some people brought a blind man to Jesus and begged 
 
 ## Mark 8:23
 
-He took the blind man by the hand and led him outside the village. After spitting on the man's eyes and laying His hands on him, He asked, “Do you see anything?”
+He took the blind man by the hand and led him outside the village. After spitting on the man’s eyes and laying His hands on him, He asked, “Do you see anything?”
 
 ## Mark 8:24
 
@@ -104,7 +104,7 @@ He looked up and said, “I see people; they appear like trees walking around.�
 
 ## Mark 8:25
 
-Jesus placed His hands on the man's eyes again. Then his eyes were opened, his sight was restored, and he saw everything clearly.
+Jesus placed His hands on the man’s eyes again. Then his eyes were opened, his sight was restored, and he saw everything clearly.
 
 ## Mark 8:26
 

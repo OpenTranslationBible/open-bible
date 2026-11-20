@@ -10,7 +10,7 @@ Fools take no pleasure in understanding, but only in expressing their own though
 When wickedness arrives, so does contempt, and with dishonour comes reproach.
 
 ## Proverbs 18:4
-The words from a person's mouth are deep waters; the wellspring of wisdom is a flowing brook.
+The words from a person’s mouth are deep waters; the wellspring of wisdom is a flowing brook.
 
 ## Proverbs 18:5
 It is not good to show favouritism to the wicked or to deny justice to the righteous.
@@ -19,7 +19,7 @@ It is not good to show favouritism to the wicked or to deny justice to the right
 The lips of a fool bring them into conflict, and their mouth invites a beating.
 
 ## Proverbs 18:7
-A fool's mouth is their ruin, and their lips are a trap for their soul.
+A fool’s mouth is their ruin, and their lips are a trap for their soul.
 
 ## Proverbs 18:8
 The words of a gossip are like choice morsels; they go down to the innermost parts.
@@ -34,7 +34,7 @@ The name of the Lord is a strong tower; the righteous run to it and find safety.
 The wealth of the rich is their fortified city; they perceive it as an unscalable wall.
 
 ## Proverbs 18:12
-Before destruction, a person's heart is proud, but humility precedes honour.
+Before destruction, a person’s heart is proud, but humility precedes honour.
 
 ## Proverbs 18:13
 To respond before listening is foolishness and brings shame.
@@ -58,7 +58,7 @@ Casting lots ends disputes and separates powerful opponents.
 An offended brother is more unyielding than a fortified city, and disputes are like the barred gates of a citadel.
 
 ## Proverbs 18:20
-From the fruit of their mouth a person's stomach is filled; with the yield of their lips they are satisfied.
+From the fruit of their mouth a person’s stomach is filled; with the yield of their lips they are satisfied.
 
 ## Proverbs 18:21
 The tongue holds the power of life and death, and those who love it will eat its fruit.

@@ -6,7 +6,7 @@ As they neared Jerusalem and arrived at Bethphage on the Mount of Olives, Jesus 
 
 ## Matthew 21:2
 
-instructing them, “Go into the village in front of you, and immediately you will find a donkey tied, with a colt beside her. Untie them and bring them to me.
+instructing them, “Go into the village in front of you, and immediately you will find a donkey tied, with a colt beside her. Untie them and bring them to Me.
 
 ## Matthew 21:3
 
@@ -34,7 +34,7 @@ A large crowd spread their cloaks on the road, while others cut branches from th
 
 ## Matthew 21:9
 
-The crowds that went ahead of him and those that followed were shouting, “Hosanna to the Son of David! Blessed is he who comes in the name of the Lord! Hosanna in the highest!”
+The crowds that went ahead of Him and those that followed were shouting, “Hosanna to the Son of David! Blessed is He who comes in the name of the Lord! Hosanna in the highest!”
 
 ## Matthew 21:10
 
@@ -52,33 +52,33 @@ Jesus entered the temple courts and drove out all who were buying and selling th
 
 ## Matthew 21:13
 
-And he told them, “It is written: ‘My house will be called a house of prayer,’ but you have made it a ‘den of robbers.’”
+And He told them, “It is written: ‘My house will be called a house of prayer,’ but you have made it a ‘den of robbers.’”
 
 ## Matthew 21:14
 
-Those who were blind and those who were lame approached him in the temple, and he healed them.
+Those who were blind and those who were lame approached Him in the temple, and He healed them.
 
 ## Matthew 21:15
 
-But when the chief priests and the scribes saw the wonderful things he did, and the children shouting in the temple courts, “Hosanna to the Son of David,” they became indignant.
+But when the chief priests and the scribes saw the wonderful things He did, and the children shouting in the temple courts, “Hosanna to the Son of David,” they became indignant.
 
 ## Matthew 21:16
 
-“Do you hear what these children are saying?” they asked him. “Yes,” replied Jesus, “have you never read, ‘From the mouths of infants and nursing babies you have prepared praise for yourself’?”
+“Do You hear what these children are saying?” they asked Him. “Yes,” replied Jesus, “have you never read, ‘From the mouths of infants and nursing babies You have prepared praise for Yourself’?”
 
 ## Matthew 21:17
 
-Afterwards, he departed from them and went out of the city to Bethany, where he stayed overnight.
+Afterwards, He departed from them and went out of the city to Bethany, where He stayed overnight.
 
 ---
 
 ## Matthew 21:18
 
-Early in the morning, as Jesus was returning to the city, he became hungry.
+Early in the morning, as Jesus was returning to the city, He became hungry.
 
 ## Matthew 21:19
 
-Seeing a fig tree by the road, he approached it but found nothing on it except leaves. He said to it, “May you never bear fruit again!” Immediately the tree withered.
+Seeing a fig tree by the road, He approached it but found nothing on it except leaves. He said to it, “May you never bear fruit again!” Immediately the tree withered.
 
 ## Matthew 21:20
 
@@ -96,15 +96,15 @@ And whatever you ask in prayer, believing, you will receive.”
 
 ## Matthew 21:23
 
-When Jesus entered the temple courts, the chief priests and the elders of the people came to him as he was teaching and asked, “By what authority are you doing these things, and who gave you this authority?”
+When Jesus entered the temple courts, the chief priests and the elders of the people came to Him as He was teaching and asked, “By what authority are You doing these things, and who gave You this authority?”
 
 ## Matthew 21:24
 
-Jesus replied, “I will also ask you one question. If you answer me, I will tell you by what authority I do these things.
+Jesus replied, “I will also ask you one question. If you answer Me, I will tell you by what authority I do these things.
 
 ## Matthew 21:25
 
-The baptism of John, where was it from? From heaven or from men?” They discussed it among themselves, saying, “If we say, ‘From heaven,’ he will ask, ‘Then why did you not believe him?’
+The baptism of John, where was it from? From heaven or from men?” They discussed it among themselves, saying, “If we say, ‘From heaven,’ He will ask, ‘Then why did you not believe him?’
 
 ## Matthew 21:26
 
@@ -112,7 +112,7 @@ But if we say, ‘From men,’ we fear the people, for they all consider John a 
 
 ## Matthew 21:27
 
-So they answered Jesus, “We do not know.” Then he said, “Neither will I tell you by what authority I do these things.
+So they answered Jesus, “We do not know.” Then He said, “Neither will I tell you by what authority I do these things.
 
 ---
 
@@ -188,8 +188,8 @@ Anyone who stumbles over this stone will be broken, and anyone it falls upon wil
 
 ## Matthew 21:45
 
-When the chief priests and the Pharisees heard Jesus’ parables, they realised he was speaking about them.
+When the chief priests and the Pharisees heard Jesus’ parables, they realised He was speaking about them.
 
 ## Matthew 21:46
 
-They looked for a way to arrest him, but they were afraid of the crowds, because the people regarded him as a prophet.
+They looked for a way to arrest Him, but they were afraid of the crowds, because the people regarded Him as a prophet.

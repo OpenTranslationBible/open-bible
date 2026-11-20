@@ -14,7 +14,7 @@ if you have experienced the goodness of the Lord.
 
 ## 1 Peter 2:4
 
-And as you come to Him, a living stone rejected by people but chosen and precious in God's sight,
+And as you come to Him, a living stone rejected by people but chosen and precious in God’s sight,
 
 ## 1 Peter 2:5
 
@@ -24,24 +24,24 @@ you also, like living stones, are being constructed into a spiritual house to be
 
 For it is stated in Scripture:
 
-> “See, I am placing in Zion a chosen stone,  
-> a precious cornerstone,  
-> And whoever believes in Him  
-> will not be put to shame.”
+>  “See, I am placing in Zion a chosen stone,  
+>  a precious cornerstone,  
+>  and whoever believes in Him will not be put to shame.  
+> ”
 
 ## 1 Peter 2:7
 
 This precious value, then, is for you who believe; but for those who do not believe,
 
-> “A stone which the builders rejected,  
-> This became the chief cornerstone,”
+>  “A stone which the builders rejected,  
+>  this became the chief cornerstone,”
 
 ## 1 Peter 2:8
 
 and,
 
-> “A stone of stumbling and a rock of offence”;  
-> for they stumble because they are disobedient to the word, and to this they were also appointed.
+>  “A stone of stumbling and a rock of offence”;  
+>  for they stumble because they are disobedient to the word, and to this they were also appointed.
 
 ## 1 Peter 2:9
 
@@ -98,7 +98,7 @@ For to this you were called, because Christ also suffered for you, leaving you a
 ## 1 Peter 2:22
 
 > He who did no wrong,  
-> nor was any falsehood found in His mouth;
+>  nor was any falsehood found in His mouth;
 
 ## 1 Peter 2:23
 

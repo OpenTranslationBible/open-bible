@@ -58,11 +58,11 @@ At midday, O king, I saw a light from heaven, brighter than the sun, shining aro
 
 ## Acts 26:14
 
-We all fell to the ground, and I heard a voice speaking to me in Hebrew, ‘Saul, Saul, why are you persecuting me? It is hard for you to resist the prods.’
+We all fell to the ground, and I heard a voice speaking to me in Hebrew, ‘Saul, Saul, why are you persecuting Me? It is hard for you to kick against the goads.’
 
 ## Acts 26:15
 
-I asked, ‘Who are you, Lord?’ And the Lord replied, ‘I am Jesus, whom you are persecuting.
+I asked, ‘Who are You, Lord?’ And the Lord replied, ‘I am Jesus, whom you are persecuting.
 
 ## Acts 26:16
 
@@ -74,7 +74,7 @@ I will deliver you from your own people and from the Gentiles. I am sending you 
 
 ## Acts 26:18
 
-to open their eyes and turn them from darkness to light, and from the power of Satan to God, so that they may receive forgiveness of sins and a place among those sanctified by faith in me.’
+to open their eyes and turn them from darkness to light, and from the power of Satan to God, so that they may receive forgiveness of sins and an inheritance among those sanctified by faith in Me.’
 
 ---
 
@@ -96,7 +96,7 @@ But God has helped me to this day, and so I stand here testifying to both small 
 
 ## Acts 26:23
 
-that the Messiah would suffer and, being the first to rise from the dead, would proclaim light to both his own people and the Gentiles.”
+that the Messiah would suffer and, being the first to rise from the dead, would proclaim light to both His own people and the Gentiles.”
 
 ---
 

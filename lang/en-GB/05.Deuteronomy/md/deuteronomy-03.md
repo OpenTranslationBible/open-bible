@@ -31,7 +31,7 @@ At that time we took the land from the two kings of the Amorites who were beyond
 We took all the cities of the plateau, all Gilead, and all Bashan as far as Salekah and Edrei, cities of the kingdom of Og in Bashan.
 
 ## Deuteronomy 3:11
-(Og king of Bashan was the last of the Rephaim. His bed was made of iron and was more than nine cubits long and four cubits wide. It is still in Rabbah of the Ammonites.)
+(Og king of Bashan was the last of the Rephaim. His bed was made of iron and was nine cubits long and four cubits wide. It is still in Rabbah of the Ammonites.)
 
 ## Deuteronomy 3:12
 Of the land we took over at that time, I gave the Reubenites and the Gadites the territory north of Aroer by the Valley of Arnon, including half the hill country of Gilead, along with its cities.
@@ -58,7 +58,7 @@ I commanded you at that time, saying, “The Lord your God has given you this la
 However, your wives, your children, and your livestock (I know you have much livestock) may stay in the cities I have given you,
 
 ## Deuteronomy 3:20
-until the Lord gives rest to your fellow Israelites as he has to you, and they too have taken possession of the land the Lord your God is giving them beyond the Jordan. Then each of you may return to the possession I have given you.”
+until the Lord gives rest to your fellow Israelites as He has to you, and they too have taken possession of the land the Lord your God is giving them beyond the Jordan. Then each of you may return to the possession I have given you.”
 
 ## Deuteronomy 3:21
 At that time I commanded Joshua, “Your eyes have seen all that the Lord your God has done to these two kings. The Lord will do the same to all the kingdoms into which you are going.
@@ -70,13 +70,13 @@ Do not fear them; the Lord your God will fight on your behalf.”
 At that time I earnestly sought the Lord:
 
 ## Deuteronomy 3:24
-“Lord God, you have begun to reveal to your servant your greatness and your mighty hand. For what god is there in heaven or on earth who can perform the deeds and mighty works you do?
+“Lord God, You have begun to reveal to Your servant Your greatness and Your mighty hand. For what god is there in heaven or on earth who can perform the deeds and mighty works You do?
 
 ## Deuteronomy 3:25
 Please let me cross over and see the good land beyond the Jordan—that fine hill country and Lebanon.”
 
 ## Deuteronomy 3:26
-But the Lord was angry with me on account of you and would not listen to me. “That is enough,” the Lord said. “Do not speak to me anymore about this matter.
+But the Lord was angry with me on account of you and would not listen to me. “That is enough,” the Lord said. “Do not speak to Me anymore about this matter.
 
 ## Deuteronomy 3:27
 Go up to the top of Pisgah and look west, north, south, and east. Look at the land with your own eyes, since you are not going to cross this Jordan.

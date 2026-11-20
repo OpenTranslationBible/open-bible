@@ -16,7 +16,7 @@ I inquired of the angel who was speaking with me, “What are these, my lord?”
 The angel who was speaking with me responded, “Do you not know what these are?” I said, “No, my lord.”
 
 ## Zechariah 4:6
-So he said to me, “This is the word of the Lord to Zerubbabel: ‘Not by might nor by power, but by My Spirit,’ declares the Lord of Hosts.
+So he said to me, “This is the word of the Lord to Zerubbabel: ‘Not by might nor by power, but by My Spirit,’ declares the Lord of hosts.
 
 ## Zechariah 4:7
 ‘What are you, mighty mountain? Before Zerubbabel you will become level ground. He will bring forth the capstone with shouts of “Grace, grace to it!”’”
@@ -25,7 +25,7 @@ So he said to me, “This is the word of the Lord to Zerubbabel: ‘Not by might
 The message from the Lord came to me, saying,
 
 ## Zechariah 4:9
-“The hands of Zerubbabel have laid the foundation of this house; his hands will also complete it. Then you will know that the Lord of Hosts has sent me to you.
+“The hands of Zerubbabel have laid the foundation of this house; his hands will also complete it. Then you will know that the Lord of hosts has sent me to you.
 
 ## Zechariah 4:10
 For who has despised the day of small things? These seven will rejoice when they see the plumb line in the hand of Zerubbabel—they are the eyes of the Lord which range throughout the earth.”

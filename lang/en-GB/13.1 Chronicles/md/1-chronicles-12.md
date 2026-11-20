@@ -3,9 +3,9 @@
 ## 1 Chronicles 12:1
 
 Now these are the ones who came to David at Ziklag,  
-while he was still restricted because of Saul the son of Kish;
+ while he was still restricted because of Saul the son of Kish;
 
-> and they were among the mighty men who helped him in battle.
+>  and they were among the mighty men who helped him in battle.
 
 ---
 
@@ -13,8 +13,8 @@ while he was still restricted because of Saul the son of Kish;
 
 They were skilled with bows,
 
-> adept with both the right hand and the left to sling stones and to shoot arrows;  
-> they were Saul’s relatives from Benjamin.
+>  adept with both the right hand and the left to sling stones and to shoot arrows;  
+>  they were Saul’s relatives from Benjamin.
 
 ---
 
@@ -22,16 +22,16 @@ They were skilled with bows,
 
 The leader was Ahiezer, followed by Joash,
 
-> the sons of Shemaah the Gibeathite;  
-> and Jeziel and Pelet, the sons of Azmaveth,  
-> and Beracah, and Jehu the Anathothite,
+>  the sons of Shemaah the Gibeathite;  
+>  and Jeziel and Pelet, the sons of Azmaveth,  
+>  and Beracah, and Jehu the Anathothite,
 
 ---
 
 ## 1 Chronicles 12:4
 
 > and Ishmaiah the Gibeonite, a valiant leader among the thirty, and over them.  
-> Then came Jeremiah, Jahaziel, Johanan, Jozabad the Gederathite,
+>  Then came Jeremiah, Jahaziel, Johanan, Jozabad the Gederathite,
 
 ---
 
@@ -56,11 +56,11 @@ The leader was Ahiezer, followed by Joash,
 ## 1 Chronicles 12:8
 
 From the Gadites valiant men came over to David in the stronghold in the wilderness,  
-mighty men of valour, men trained for war,
+ mighty men of valour, men trained for war,
 
-> who could handle shield and spear,  
-> and whose faces were like the faces of lions,  
-> and they were as swift as gazelles on the mountains.
+>  who could handle shield and spear,  
+>  and whose faces were like the faces of lions,  
+>  and they were as swift as gazelles on the mountains.
 
 ---
 
@@ -98,7 +98,7 @@ mighty men of valour, men trained for war,
 
 These sons of Gad were leaders in the army;
 
-> the least among them was as strong as a hundred, and the greatest as a thousand.
+>  the least among them was as strong as a hundred, and the greatest as a thousand.
 
 ---
 
@@ -106,7 +106,7 @@ These sons of Gad were leaders in the army;
 
 These are the ones who crossed the Jordan in the first month when it was overflowing all its banks,
 
-> and they drove away all those in the valleys, to the east and to the west.
+>  and they drove away all those in the valleys, to the east and to the west.
 
 ---
 
@@ -120,9 +120,9 @@ Then some from the tribes of Benjamin and Judah joined David at the stronghold.
 
 David went out to meet them and said to them,
 
-> “If you come peacefully to me to help me, my heart shall be united with you;  
-> but if to betray me to my enemies, though there is no violence in my hands,  
-> may the God of our fathers see and judge.”
+>  “If you come peacefully to me to help me, my heart shall be united with you;  
+>  but if to betray me to my enemies, though there is no violence in my hands,  
+>  may the God of our fathers see and judge.”
 
 ---
 
@@ -130,22 +130,22 @@ David went out to meet them and said to them,
 
 Then the Spirit came upon Amasai, who was the chief of the thirty, and he said,
 
-> “We are yours, David,  
-> and with you, son of Jesse!  
-> Peace, peace to you,  
-> and peace to him who helps you;  
-> for your God helps you.”  
-> So David received them and made them captains of the band.
+>  “We are yours, David,  
+>  and with you, son of Jesse!  
+>  Peace, peace to you,  
+>  and peace to him who helps you;  
+>  for your God helps you.”  
+>  So David received them and made them captains of the band.
 
 ---
 
 ## 1 Chronicles 12:19
 
 From Manasseh some defected to David when he was about to go to battle with the Philistines against Saul.  
-However, they did not help them,
+ However, they did not help them,
 
-> for the Philistine lords sent him away after consultation, saying,  
-> “He may desert to his master Saul at the cost of our heads.”
+>  for the Philistine lords sent him away after consultation, saying,  
+>  “He may desert to his master Saul at the cost of our heads.”
 
 ---
 
@@ -153,8 +153,8 @@ However, they did not help them,
 
 When he went to Ziklag, those from Manasseh who came to him were:
 
-> Adnah, Jozabad, Jediael, Michael, Jozabad, Elihu, and Zillethai,  
-> captains of thousands who belonged to Manasseh.
+>  Adnah, Jozabad, Jediael, Michael, Jozabad, Elihu, and Zillethai,  
+>  captains of thousands who belonged to Manasseh.
 
 ---
 
@@ -162,23 +162,23 @@ When he went to Ziklag, those from Manasseh who came to him were:
 
 They helped David against the band of raiders,
 
-> for they were all mighty men of valour and were captains in the army.
+>  for they were all mighty men of valour and were captains in the army.
 
 ---
 
 ## 1 Chronicles 12:22
 
 For day by day men came to David to support him,  
-until there was a great army, comparable to the army of God.
+ until there was a great army, comparable to the army of God.
 
 ---
 
 ## 1 Chronicles 12:23
 
 Now these are the numbers of the divisions prepared for war,  
-who came to David at Hebron to transfer the kingdom of Saul to him,
+ who came to David at Hebron to transfer the kingdom of Saul to him,
 
-> as the word of the Lord had declared.
+>  as the word of the Lord had declared.
 
 ---
 
@@ -186,7 +186,7 @@ who came to David at Hebron to transfer the kingdom of Saul to him,
 
 The sons of Judah who carried shield and spear were:
 
-> 6,800, equipped for war.
+>  6,800, equipped for war.
 
 ---
 
@@ -194,7 +194,7 @@ The sons of Judah who carried shield and spear were:
 
 From the sons of Simeon, mighty men of valour for war:
 
-> 7,100.
+>  7,100.
 
 ---
 
@@ -202,15 +202,15 @@ From the sons of Simeon, mighty men of valour for war:
 
 From the sons of Levi:
 
-> numbering 4,600.
+>  numbering 4,600.
 
 ---
 
 ## 1 Chronicles 12:27
 
-Jehoiada was the leader of Aaron's house,
+Jehoiada was the leader of Aaron’s house,
 
-> and with him were 3,700.
+>  and with him were 3,700.
 
 ---
 
@@ -218,7 +218,7 @@ Jehoiada was the leader of Aaron's house,
 
 Also Zadok, a young man mighty in valour,
 
-> and from his father’s house twenty-two captains.
+>  and from his father’s house twenty-two captains.
 
 ---
 
@@ -226,8 +226,8 @@ Also Zadok, a young man mighty in valour,
 
 From the sons of Benjamin, Saul’s kinsmen:
 
-> 3,000;  
-> for until that time the majority of them had kept their allegiance to the house of Saul.
+>  3,000;  
+>  for until that time the majority of them had kept their allegiance to the house of Saul.
 
 ---
 
@@ -235,7 +235,7 @@ From the sons of Benjamin, Saul’s kinsmen:
 
 From the sons of Ephraim, mighty men of valour, famous men in their fathers’ households:
 
-> 20,800.
+>  20,800.
 
 ---
 
@@ -243,7 +243,7 @@ From the sons of Ephraim, mighty men of valour, famous men in their fathers’ h
 
 From the half-tribe of Manasseh:
 
-> 18,000, who were designated by name to come and make David king.
+>  18,000, who were designated by name to come and make David king.
 
 ---
 
@@ -251,8 +251,8 @@ From the half-tribe of Manasseh:
 
 From the sons of Issachar, men who understood the times, with knowledge of what Israel should do:
 
-> their chiefs were 200,  
-> and all their relatives were at their command.
+>  their chiefs were 200,  
+>  and all their relatives were at their command.
 
 ---
 
@@ -260,7 +260,7 @@ From the sons of Issachar, men who understood the times, with knowledge of what 
 
 From Zebulun, those who went out to battle with all kinds of weapons of war, prepared for battle:
 
-> 50,000, who could draw up in battle formation with no double heart.
+>  50,000, who could draw up in battle formation with no double heart.
 
 ---
 
@@ -268,8 +268,8 @@ From Zebulun, those who went out to battle with all kinds of weapons of war, pre
 
 From Naphtali:
 
-> 1,000 captains,  
-> and with them 37,000 with shield and spear.
+>  1,000 captains,  
+>  and with them 37,000 with shield and spear.
 
 ---
 
@@ -277,7 +277,7 @@ From Naphtali:
 
 From the Danites, who could draw up in battle formation:
 
-> 28,600.
+>  28,600.
 
 ---
 
@@ -285,7 +285,7 @@ From the Danites, who could draw up in battle formation:
 
 From Asher, those who went out for war, who could draw up in battle formation:
 
-> 40,000.
+>  40,000.
 
 ---
 
@@ -293,15 +293,15 @@ From Asher, those who went out for war, who could draw up in battle formation:
 
 From the other side of the Jordan, from the Reubenites, the Gadites, and the half-tribe of Manasseh, with all kinds of weapons for war:
 
-> 120,000.
+>  120,000.
 
 ---
 
 ## 1 Chronicles 12:38
 
 All these, being men of war who could draw up in battle formation,  
-came to Hebron with a perfect heart to make David king over all Israel;  
-and all the rest of Israel were of one mind to make David king.
+ came to Hebron with a perfect heart to make David king over all Israel;  
+ and all the rest of Israel were of one mind to make David king.
 
 ---
 
@@ -309,13 +309,13 @@ and all the rest of Israel were of one mind to make David king.
 
 They were there with David three days, eating and drinking,
 
-> for their relatives had provided for them.
+>  for their relatives had provided for them.
 
 ---
 
 ## 1 Chronicles 12:40
 
 Moreover, those who were near to them, even as far as Issachar, Zebulun, and Naphtali,  
-brought food on donkeys, camels, mules, and oxen—great quantities of flour, fig cakes, raisin cakes, wine, oil, oxen, and sheep.
+ brought food on donkeys, camels, mules, and oxen—great quantities of flour, fig cakes, raisin cakes, wine, oil, oxen, and sheep.
 
-> There was joy indeed in Israel.
+>  There was joy indeed in Israel.

@@ -14,7 +14,7 @@ Abraham named his son Isaac, the son whom Sarah had borne to him.
 
 ## Genesis 21:4
 
-Abraham circumcised his son Isaac when he was eight days old, following God's command.
+Abraham circumcised his son Isaac when he was eight days old, following God’s command.
 
 ## Genesis 21:5
 
@@ -66,7 +66,7 @@ She went and sat down opposite him, about a bowshot away, saying, “I cannot wa
 
 ## Genesis 21:17
 
-God heard the boy's cries, and the angel of God called to Hagar from heaven, “What troubles you, Hagar? Do not fear, for God has heard the boy's voice where he is.
+God heard the boy’s cries, and the angel of God called to Hagar from heaven, “What troubles you, Hagar? Do not fear, for God has heard the boy’s voice where he is.
 
 ## Genesis 21:18
 

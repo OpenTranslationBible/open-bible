@@ -6,63 +6,63 @@ This is the account of the genealogy of Jesus the Messiah, the son of David, the
 
 ## Matthew 1:2
 
-Abraham begat Isaac, Isaac begat Jacob, and Jacob begat Judah and his brothers,
+Abraham became the father of Isaac, Isaac became the father of Jacob, and Jacob became the father of Judah and his brothers,
 
 ## Matthew 1:3
 
-Judah begat Perez and Zerah, whose mother was Tamar; Perez begat Hezron, and Hezron begat Ram,
+Judah became the father of Perez and Zerah, whose mother was Tamar; Perez became the father of Hezron, and Hezron became the father of Ram,
 
 ## Matthew 1:4
 
-Ram begat Amminadab, Amminadab begat Nahshon, and Nahshon begat Salmon,
+Ram became the father of Amminadab, Amminadab became the father of Nahshon, and Nahshon became the father of Salmon,
 
 ## Matthew 1:5
 
-Salmon begat Boaz, whose mother was Rahab; Boaz begat Obed, whose mother was Ruth; and Obed begat Jesse,
+Salmon became the father of Boaz, whose mother was Rahab; Boaz became the father of Obed, whose mother was Ruth; and Obed became the father of Jesse,
 
 ## Matthew 1:6
 
-and Jesse begat King David. David begat Solomon, whose mother had been the wife of Uriah,
+and Jesse became the father of King David. David became the father of Solomon, whose mother had been the wife of Uriah,
 
 ## Matthew 1:7
 
-Solomon begat Rehoboam, Rehoboam begat Abijah, and Abijah begat Asa,
+Solomon became the father of Rehoboam, Rehoboam became the father of Abijah, and Abijah became the father of Asa,
 
 ## Matthew 1:8
 
-Asa begat Jehoshaphat, Jehoshaphat begat Joram, and Joram begat Uzziah,
+Asa became the father of Jehoshaphat, Jehoshaphat became the father of Joram, and Joram became the father of Uzziah,
 
 ## Matthew 1:9
 
-Uzziah begat Jotham, Jotham begat Ahaz, and Ahaz begat Hezekiah,
+Uzziah became the father of Jotham, Jotham became the father of Ahaz, and Ahaz became the father of Hezekiah,
 
 ## Matthew 1:10
 
-Hezekiah begat Manasseh, Manasseh begat Amon, and Amon begat Josiah,
+Hezekiah became the father of Manasseh, Manasseh became the father of Amon, and Amon became the father of Josiah,
 
 ## Matthew 1:11
 
-and Josiah begat Jeconiah and his brothers at the time of the exile to Babylon.
+and Josiah became the father of Jeconiah and his brothers at the time of the exile to Babylon.
 
 ## Matthew 1:12
 
-After the exile to Babylon: Jeconiah begat Shealtiel, and Shealtiel begat Zerubbabel,
+After the exile to Babylon: Jeconiah became the father of Shealtiel, and Shealtiel became the father of Zerubbabel,
 
 ## Matthew 1:13
 
-Zerubbabel begat Abihud, Abihud begat Eliakim, and Eliakim begat Azor,
+Zerubbabel became the father of Abihud, Abihud became the father of Eliakim, and Eliakim became the father of Azor,
 
 ## Matthew 1:14
 
-Azor begat Zadok, Zadok begat Achim, and Achim begat Eliud,
+Azor became the father of Zadok, Zadok became the father of Achim, and Achim became the father of Eliud,
 
 ## Matthew 1:15
 
-Eliud begat Eleazar, Eleazar begat Matthan, and Matthan begat Jacob,
+Eliud became the father of Eleazar, Eleazar became the father of Matthan, and Matthan became the father of Jacob,
 
 ## Matthew 1:16
 
-and Jacob begat Joseph, the husband of Mary, of whom Jesus was born, who is called the Messiah.
+and Jacob became the father of Joseph, the husband of Mary, of whom Jesus was born, who is called the Messiah.
 
 ## Matthew 1:17
 
@@ -90,7 +90,7 @@ All this happened to fulfil what the Lord had spoken through the prophet:
 
 ## Matthew 1:23
 
-“Behold, the young virgin shall conceive and bear a son, and they shall call his name Immanuel,” which means “God with us.”
+“Behold, the virgin shall conceive and bear a son, and they shall call His name Immanuel,” which means “God with us.”
 
 ## Matthew 1:24
 

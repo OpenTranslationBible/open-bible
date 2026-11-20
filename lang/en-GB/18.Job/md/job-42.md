@@ -6,39 +6,39 @@ Then Job responded to the Lord and said,
 
 ## Job 42:2
 
-> “I am aware that you are capable of all things,
-> and that no plan of yours can be thwarted.
+> “I am aware that You are capable of all things,
+>  and that no plan of Yours can be thwarted.
 
 ## Job 42:3
 
 > ‘Who is this that obscures counsel without knowledge?’
-> Indeed, I spoke of things I did not understand,
-> things too marvellous for me to know.
+>  Indeed, I spoke of things I did not understand,
+>  things too marvellous for me to know.
 
 ## Job 42:4
 
 > ‘Listen now, and I will speak;
-> I will question you, and you will inform me.’
+>  I will question you, and you will inform Me.’
 
 ## Job 42:5
 
-> I had heard of you by the hearing of the ear,
-> but now my eyes have witnessed you;
+> I had heard of You by the hearing of the ear,
+>  but now my eyes have witnessed You;
 
 ## Job 42:6
 
-> Therefore I retract my words
-> and repent in dust and ashes.”
+> Therefore I retract my words and repent in dust and ashes.
+> ”
 
 ---
 
 ## Job 42:7
 
-After the Lord had spoken these words to Job, he said to Eliphaz the Temanite, “My anger burns against you and your two friends, because you have not spoken what is right about me, as my servant Job has.
+After the Lord had spoken these words to Job, He said to Eliphaz the Temanite, “My anger burns against you and your two friends, because you have not spoken what is right about Me, as My servant Job has.
 
 ## Job 42:8
 
-Now take seven bulls and seven rams and go to my servant Job and offer a burnt offering for yourselves. My servant Job will pray for you, and I will accept his prayer and not deal with you according to your folly, because you have not spoken what is right about me, as my servant Job has.”
+Now take seven bulls and seven rams and go to My servant Job and offer a burnt offering for yourselves. My servant Job will pray for you, and I will accept his prayer and not deal with you according to your folly, because you have not spoken what is right about Me, as My servant Job has.”
 
 ## Job 42:9
 

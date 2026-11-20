@@ -10,19 +10,19 @@ May my teaching fall as the rain, my words distil as the dew, like gentle rain u
 
 ## Deuteronomy 32:3
 
-For I will declare the name of the Lord; ascribing greatness to our God!
+For I will declare the name of the Lord; ascribe greatness to our God!
 
 ## Deuteronomy 32:4
 
-The Rock, his work is perfect, for all his ways are just. A God of faithfulness and without iniquity, righteous and upright is he.
+The Rock, His work is perfect, for all His ways are just. A God of faithfulness and without iniquity, righteous and upright is He.
 
 ## Deuteronomy 32:5
 
-They have dealt corruptly with him; they are not his children because of their blemish; they are a crooked and perverse generation.
+They have dealt corruptly with Him; they are not His children because of their blemish; they are a crooked and perverse generation.
 
 ## Deuteronomy 32:6
 
-Is this how you repay the Lord, you foolish and unwise people? Is he not your Father, who bought you? He made you and established you.
+Is this how you repay the Lord, you foolish and unwise people? Is He not your Father, who bought you? He made you and established you.
 
 ## Deuteronomy 32:7
 
@@ -30,15 +30,15 @@ Remember the days of old, reflect on the years seen by many generations. Ask you
 
 ## Deuteronomy 32:8
 
-When the Most High gave to the nations their inheritance, when he divided mankind, he fixed the borders of the peoples according to the number of the children of Israel.
+When the Most High gave to the nations their inheritance, when He divided mankind, He fixed the borders of the peoples according to the number of the children of Israel.
 
 ## Deuteronomy 32:9
 
-For the Lord’s treasure is his people, Jacob is his chosen heritage.
+For the Lord’s treasure is His people, Jacob is His chosen heritage.
 
 ## Deuteronomy 32:10
 
-He found him in a desert land, in the howling waste of the wilderness; he encircled him, he cared for him, he kept him as the apple of his eye.
+He found him in a desert land, in the howling waste of the wilderness; He encircled him, He cared for him, He kept him as the apple of His eye.
 
 ## Deuteronomy 32:11
 
@@ -62,11 +62,11 @@ But Jeshurun became prosperous and self-satisfied; you grew fat, stout, and slee
 
 ## Deuteronomy 32:16
 
-They provoked him to jealousy with foreign gods; with detestable acts they angered him.
+They provoked Him to jealousy with foreign gods; with detestable acts they angered Him.
 
 ## Deuteronomy 32:17
 
-They offered sacrifices to spirits that were not gods, to gods they had not known, to new gods that had recently appeared, whom your ancestors did not fear.
+They offered sacrifices to demons that were not gods, to gods they had not known, to new gods that had recently appeared, whom your ancestors did not fear.
 
 ## Deuteronomy 32:18
 
@@ -74,23 +74,23 @@ You neglected the Rock who fathered you, and you forgot the God who gave you lif
 
 ## Deuteronomy 32:19
 
-The Lord saw it and rejected them, because of the provocation of his sons and his daughters.
+The Lord saw it and rejected them, because of the provocation of His sons and His daughters.
 
 ## Deuteronomy 32:20
 
-And he said, ‘and so I will conceal my face from them, I see what their end will be; for they are a perverse generation, children in whom there is no faithfulness.
+And He said, “I will conceal My face from them, I see what their end will be; for they are a perverse generation, children in whom there is no faithfulness.
 
 ## Deuteronomy 32:21
 
-They have made me jealous with what is not a god; they have angered me with their idols. So I will make them envious with those who are not a people; I will provoke them with a senseless nation.
+They have made Me jealous with what is not a god; they have angered Me with their idols. So I will make them envious with those who are not a people; I will provoke them with a senseless nation.
 
 ## Deuteronomy 32:22
 
-For a fire is ignited by my anger, and it burns to the depths of the grave, consuming the earth and its yield, and setting ablaze the foundations of the mountains.
+For a fire is ignited by My anger, and it burns to the depths of the grave, consuming the earth and its yield, and setting ablaze the foundations of the mountains.
 
 ## Deuteronomy 32:23
 
-And I will bring disasters upon them; I will exhaust my arrows on them.
+And I will bring disasters upon them; I will exhaust My arrows on them.
 
 ## Deuteronomy 32:24
 
@@ -102,11 +102,11 @@ Outside the sword shall bereave, and inside terror, for young man and virgin ali
 
 ## Deuteronomy 32:26
 
-I would have said, “I will scatter them afar, I will make the memory of them vanish from among men,”
+I would have said, ‘I will scatter them afar, I will make the memory of them vanish from among men,’
 
 ## Deuteronomy 32:27
 
-had I not feared the taunt of the enemy, lest their adversaries should misunderstand, lest they should say, “Our hand is triumphant, it was not the Lord who did all this.”’
+had I not feared the taunt of the enemy, lest their adversaries should misunderstand, lest they should say, ‘Our hand is triumphant, it was not the Lord who did all this.’”
 
 ## Deuteronomy 32:28
 
@@ -134,43 +134,43 @@ Their wine is like the poison of serpents and the cruel venom of asps.
 
 ## Deuteronomy 32:34
 
-‘Is this not stored up with me, sealed up in my treasuries?
+“Is this not stored up with Me, sealed up in My treasuries?
 
 ## Deuteronomy 32:35
 
-Vengeance belongs to me, and repayment, for the time when their foot shall slip; for the day of their calamity is near, and their doom approaches swiftly.’
+Vengeance belongs to Me, and repayment, for the time when their foot shall slip; for the day of their calamity is near, and their doom approaches swiftly.”
 
 ## Deuteronomy 32:36
 
-For the Lord will vindicate his people and show compassion on his servants, when he sees that their strength is gone, and there is none remaining, bond or free.
+For the Lord will vindicate His people and show compassion on His servants, when He sees that their strength is gone, and there is none remaining, bond or free.
 
 ## Deuteronomy 32:37
 
-Then he will say of them, ‘Where are their gods, their rock in which they sought refuge,
+Then He will say of them, “Where are their gods, their rock in which they sought refuge,
 
 ## Deuteronomy 32:38
 
-who then, consumed the fat of the sacrifices and drank the wine of the drink offering? Let them rise up and help you, let them be your protection!
+who consumed the fat of the sacrifices and drank the wine of the drink offering? Let them rise up and help you, let them be your protection!
 
 ## Deuteronomy 32:39
 
-Observe now that I, even I, am he, and there is no god beside me; I bring death and give life; I wound and I heal; and there is none that can deliver out of my hand.
+Observe now that I, even I, am He, and there is no god beside Me; I bring death and give life; I wound and I heal; and there is none that can deliver out of My hand.
 
 ## Deuteronomy 32:40
 
-For I lift up my hand to heaven and declare: As I live forever,
+For I lift up My hand to heaven and declare: As I live forever,
 
 ## Deuteronomy 32:41
 
-if I sharpen my gleaming sword and my hand takes hold on judgement, I will take vengeance on my adversaries and will repay those who hate me.
+if I sharpen My gleaming sword and My hand takes hold on judgement, I will take vengeance on My adversaries and will repay those who hate Me.
 
 ## Deuteronomy 32:42
 
-I will make my arrows soaked with blood, and my sword shall consume flesh— with the blood of the slain and the captives, from the long-haired heads of the enemy.’
+I will make My arrows soaked with blood, and My sword shall consume flesh—with the blood of the slain and the captives, from the long-haired heads of the enemy.”
 
 ## Deuteronomy 32:43
 
-Rejoice, O nations, with his people; for he will avenge the blood of his servants, and will take vengeance on his adversaries, and will make atonement for his land and people.
+Rejoice, O nations, with His people; for He will avenge the blood of His servants, and will take vengeance on His adversaries, and will make atonement for His land and people.
 
 ## Deuteronomy 32:44
 
@@ -202,7 +202,7 @@ And you shall pass away on the mountain you ascend and be gathered to your peopl
 
 ## Deuteronomy 32:51
 
-because you broke faith with me in the midst of the people of Israel at the waters of Meribah-Kadesh, in the wilderness of Zin, because you did not uphold me as holy in the midst of the people of Israel.
+because you broke faith with Me in the midst of the people of Israel at the waters of Meribah-Kadesh, in the wilderness of Zin, because you did not uphold Me as holy in the midst of the people of Israel.
 
 ## Deuteronomy 32:52
 

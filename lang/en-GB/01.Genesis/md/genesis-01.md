@@ -106,13 +106,13 @@ God made the wild animals according to their kinds, the livestock according to t
 
 ## Genesis 1:26
 
-Then God said, “Let us make mankind in our image, in our likeness, so that they may have dominion over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground.”
+Then God said, “Let Us make mankind in Our image, in Our likeness, so that they may have dominion over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground.”
 
 ## Genesis 1:27
 
 > So God fashioned mankind in His own image,
-> in the image of God He created them;
-> male and female He created them.
+>  in the image of God He created them;
+>  male and female He created them.
 
 ## Genesis 1:28
 

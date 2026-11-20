@@ -3,9 +3,9 @@
 ## 1 Chronicles 15:1
 
 David constructed houses for himself in the city of David;  
-and he made ready a place for the ark of God,
+ and he made ready a place for the ark of God,
 
-> and set up a tent for it.
+>  and set up a tent for it.
 
 ---
 
@@ -13,16 +13,15 @@ and he made ready a place for the ark of God,
 
 Then David declared,
 
-> “No one is to transport the ark of God except the Levites,  
-> for the Lord has chosen them to bear the ark of the Lord  
-> and to serve Him perpetually.”
+>  “No one is to transport the ark of God except the Levites,  
+>  for the Lord has chosen them to bear the ark of the Lord and to serve Him perpetually.  
+> ”
 
 ---
 
 ## 1 Chronicles 15:3
 
-David gathered all Israel at Jerusalem  
-to bring up the ark of the Lord to the location he had prepared for it.
+David gathered all Israel at Jerusalem to bring up the ark of the Lord to the location he had prepared for it.
 
 ---
 
@@ -71,9 +70,9 @@ David summoned the sons of Aaron and the Levites:
 ## 1 Chronicles 15:11
 
 Then David called for the priests Zadok and Abiathar,  
-and for the Levites:
+ and for the Levites:
 
-> Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab,
+>  Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab,
 
 ---
 
@@ -81,25 +80,24 @@ and for the Levites:
 
 and said to them,
 
-> “You are the heads of the fathers’ households of the Levites;  
-> consecrate yourselves, you and your relatives,  
-> so that you may bring up the ark of the Lord God of Israel  
-> to the place that I have prepared for it.
+>  “You are the heads of the fathers’ households of the Levites;  
+>  consecrate yourselves, you and your relatives,  
+>  so that you may bring up the ark of the Lord God of Israel to the place that I have prepared for it.
 
 ---
 
 ## 1 Chronicles 15:13
 
 > Because you did not carry it at first,  
-> the Lord our God made an outburst on us,  
-> for we did not seek Him according to the ordinance.”
+>  the Lord our God made an outburst on us,  
+>  for we did not seek Him according to the ordinance.”
 
 ---
 
 ## 1 Chronicles 15:14
 
-Thus, the priests and the Levites set themselves apart  
-to bring up the ark of the Lord God of Israel.
+Thus,  
+ the priests and the Levites set themselves apart to bring up the ark of the Lord God of Israel.
 
 ---
 
@@ -107,17 +105,17 @@ to bring up the ark of the Lord God of Israel.
 
 And the sons of the Levites carried the ark of God on their shoulders with the poles on it,
 
-> just as Moses had commanded according to the word of the Lord.
+>  just as Moses had commanded according to the word of the Lord.
 
 ---
 
 ## 1 Chronicles 15:16
 
-Then David spoke to the chiefs of the Levites
+Then David spoke to the chiefs of the Levites to appoint their relatives the singers,
 
-> to appoint their relatives the singers,  
-> with instruments of music, harps, lyres, and cymbals,  
-> to raise their voices with joy.
+>  with instruments of music,  
+>  harps, lyres, and cymbals,  
+>  to raise their voices with joy.
 
 ---
 
@@ -125,9 +123,9 @@ Then David spoke to the chiefs of the Levites
 
 So the Levites selected:
 
-> Heman the son of Joel,  
-> and from his relatives Asaph the son of Berechiah,  
-> and from the sons of Merari their relatives, Ethan the son of Kushaiah;
+>  Heman the son of Joel,  
+>  and from his relatives Asaph the son of Berechiah,  
+>  and from the sons of Merari their relatives, Ethan the son of Kushaiah;
 
 ---
 
@@ -135,31 +133,31 @@ So the Levites selected:
 
 and with them their relatives of the second rank:
 
-> Zechariah, Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah, Mattithiah, Eliphelehu, Mikneiah, Obed-edom, and Jeiel, the gatekeepers.
+>  Zechariah, Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah, Mattithiah, Eliphelehu, Mikneiah, Obed-edom, and Jeiel, the gatekeepers.
 
 ---
 
 ## 1 Chronicles 15:19
 
-Thus, the singers, Heman, Asaph, and Ethan were appointed
+Thus, the singers, Heman, Asaph,
 
-> to sound aloud cymbals of bronze;
+>  and Ethan were appointed to sound aloud cymbals of bronze;
 
 ---
 
 ## 1 Chronicles 15:20
 
-and Zechariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah, and Benaiah
+and Zechariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah,
 
-> with harps set to the alamoth tuning;
+>  and Benaiah with harps set to the alamoth tuning;
 
 ---
 
 ## 1 Chronicles 15:21
 
-and Mattithiah, Eliphelehu, Mikneiah, Obed-edom, Jeiel, and Azaziah
+and Mattithiah, Eliphelehu, Mikneiah, Obed-edom, Jeiel,
 
-> with lyres tuned to the sheminith, to direct the singing.
+>  and Azaziah with lyres tuned to the sheminith, to direct the singing.
 
 ---
 
@@ -167,7 +165,7 @@ and Mattithiah, Eliphelehu, Mikneiah, Obed-edom, Jeiel, and Azaziah
 
 Chenaniah, chief of the Levites, was responsible for the singing;
 
-> he provided instruction in singing because he was skillful.
+>  he provided instruction in singing because he was skilful.
 
 ---
 
@@ -179,19 +177,17 @@ And Berechiah and Elkanah served as gatekeepers for the ark.
 
 ## 1 Chronicles 15:24
 
-And the priests Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer
+And the priests Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah,
 
-> blew the trumpets before the ark of God.  
-> And Obed-edom and Jehiah also were gatekeepers for the ark.
+>  and Eliezer blew the trumpets before the ark of God.  
+>  And Obed-edom and Jehiah also were gatekeepers for the ark.
 
 ---
 
 ## 1 Chronicles 15:25
 
 Thus, David, with the elders of Israel and the captains over thousands,  
-went to bring up the ark of the covenant of the Lord
-
-> from the house of Obed-edom with joy.
+ went to bring up the ark of the covenant of the Lord from the house of Obed-edom with joy.
 
 ---
 
@@ -199,16 +195,16 @@ went to bring up the ark of the covenant of the Lord
 
 And because God was aiding the Levites who were carrying the ark of the covenant of the Lord,
 
-> they offered seven bulls and seven rams.
+>  they offered seven bulls and seven rams.
 
 ---
 
 ## 1 Chronicles 15:27
 
-Now David was dressed in a robe of fine linen along with all the Levites  
-who were carrying the ark, and the singers and Chenaniah the leader of the singing with the singers.
+Now David was dressed in a robe of fine linen along with all the Levites who were carrying the ark,  
+ and the singers and Chenaniah the leader of the singing with the singers.
 
-> David also wore a linen ephod.
+>  David also wore a linen ephod.
 
 ---
 
@@ -216,14 +212,14 @@ who were carrying the ark, and the singers and Chenaniah the leader of the singi
 
 So all Israel brought up the ark of the covenant of the Lord with shouting,
 
-> and with sound of the horn, with trumpets, with loud-sounding cymbals,  
-> with harps and lyres.
+>  and with sound of the horn, with trumpets, with loud-sounding cymbals,  
+>  with harps and lyres.
 
 ---
 
 ## 1 Chronicles 15:29
 
 And as the ark of the covenant of the Lord came to the city of David,  
-Michal the daughter of Saul looked out of the window and saw King David leaping and celebrating;
+ Michal the daughter of Saul looked out of the window and saw King David leaping and celebrating;
 
-> and she despised him in her heart.
+>  and she despised him in her heart.

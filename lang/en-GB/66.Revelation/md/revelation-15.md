@@ -12,17 +12,17 @@ And I saw something resembling a sea of glass mingled with fire, and those who h
 
 And they sang the song of Moses, the servant of God, and the song of the Lamb, saying,
 
-> “Great and marvellous are your deeds,
-> Lord God Almighty;
-> just and true are your ways,
-> King of the nations.
+>  “Great and marvellous are Your deeds,
+>  Lord God Almighty;
+>  just and true are Your ways,
+>  King of the nations.
 
 ## Revelation 15:4
 
-> Who will not fear you, Lord, and glorify your name?
-> For you alone are holy.
-> All nations will come and worship before you,
-> for your righteous acts have been revealed.”
+> Who will not fear You, Lord, and glorify Your name?
+>  For You alone are holy.
+>  All nations will come and worship before You,
+>  for Your righteous acts have been revealed.”
 
 ## Revelation 15:5
 
@@ -38,4 +38,4 @@ One of the four living creatures gave the seven angels seven golden bowls filled
 
 ## Revelation 15:8
 
-The temple was filled with smoke from the glory of God and from his power, and no one could enter the temple until the seven plagues of the seven angels were completed.
+The temple was filled with smoke from the glory of God and from His power, and no one could enter the temple until the seven plagues of the seven angels were completed.

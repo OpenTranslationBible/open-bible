@@ -16,7 +16,7 @@ The mind of the hasty will comprehend knowledge, and the tongue of the stammerer
 No longer will the fool be called noble, nor the rogue be regarded as generous.
 
 ## Isaiah 32:6
-For fools utter folly, and their hearts are inclined towards wickedness: They engage in ungodliness and spread falsehoods about the Lord; they leave the hungry unsatisfied and withhold drink from the thirsty.
+For fools utter folly, and their hearts are inclined towards wickedness: they engage in ungodliness and spread falsehoods about the Lord; they leave the hungry unsatisfied and withhold drink from the thirsty.
 
 ## Isaiah 32:7
 The rogue uses wicked devices; he devises evil plans to ruin the poor with falsehoods, even when the needy speak what is right.
@@ -37,7 +37,7 @@ Tremble, you complacent women; be troubled, you daughters who feel at ease! Remo
 Mourn for the pleasant fields, for the fruitful vines,
 
 ## Isaiah 32:13
-and for the land of my people, overgrown with thorns and briars— yes, mourn for all the joyous houses and the jubilant city.
+and for the land of my people, overgrown with thorns and briars—yes, mourn for all the joyous houses and the jubilant city.
 
 ## Isaiah 32:14
 For the palace will be forsaken, the bustling city deserted; hill and watchtower will become caves forever, a delight for wild donkeys, a pasture for flocks,

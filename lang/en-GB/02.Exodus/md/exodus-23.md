@@ -40,10 +40,10 @@ but in the seventh year, let it rest and lie fallow, so that the poor among your
 “Be careful to do everything I have told you. Do not mention the names of other gods; let them not be heard on your lips.
 
 ## Exodus 23:14
-“Three times a year you shall hold a festival to me.
+“Three times a year you shall hold a festival to Me.
 
 ## Exodus 23:15
-You shall keep the Festival of Unleavened Bread; for seven days you shall eat unleavened bread, as I commanded you, at the appointed time in the month of Aviv, for in that month you came out of Egypt. No one is to appear before me empty-handed.
+You shall keep the Festival of Unleavened Bread; for seven days you shall eat unleavened bread, as I commanded you, at the appointed time in the month of Aviv, for in that month you came out of Egypt. No one is to appear before Me empty-handed.
 
 ## Exodus 23:16
 “Keep the Festival of Harvest with the firstfruits of your labours from what you sow in the field, and the Festival of Ingathering at the end of the year, when you gather in your crops from the field.
@@ -52,7 +52,7 @@ You shall keep the Festival of Unleavened Bread; for seven days you shall eat un
 “Three times a year all your males shall appear before the Sovereign Lord.
 
 ## Exodus 23:18
-“You shall not offer the blood of my sacrifice with anything containing yeast, nor shall the fat of my festival offerings be left until morning.
+“You shall not offer the blood of My sacrifice with anything containing yeast, nor shall the fat of My festival offerings be left until morning.
 
 ## Exodus 23:19
 “Bring the best of the firstfruits of your soil to the house of the Lord your God. “Do not boil a young goat in its mother’s milk.
@@ -61,7 +61,7 @@ You shall keep the Festival of Unleavened Bread; for seven days you shall eat un
 “Behold, I am sending an angel ahead of you to guard you on the way and to bring you to the place I have prepared.
 
 ## Exodus 23:21
-Be attentive to him and listen to his voice; do not be rebellious towards him, for he will not pardon your transgressions, since my Name is in him.
+Be attentive to him and listen to his voice; do not be rebellious towards him, for he will not pardon your transgressions, since My Name is in him.
 
 ## Exodus 23:22
 If you truly obey his voice and do all that I say, I will be an enemy to your enemies and oppose those who oppose you.
@@ -73,13 +73,13 @@ My angel will go before you and bring you into the land of the Amorites, Hittite
 You shall not bow down to their gods or serve them or follow their practices. You must demolish them and break their sacred stones to pieces.
 
 ## Exodus 23:25
-Serve the Lord your God, and his blessing will be upon your food and water. I will remove sickness from among you,
+Serve the Lord your God, and His blessing will be upon your food and water. I will remove sickness from among you,
 
 ## Exodus 23:26
 and none will miscarry or be barren in your land. I will give you a full lifespan.
 
 ## Exodus 23:27
-“I will send my terror ahead of you and throw into confusion every nation you encounter. I will make all your enemies turn their backs and flee.
+“I will send My terror ahead of you and throw into confusion every nation you encounter. I will make all your enemies turn their backs and flee.
 
 ## Exodus 23:28
 I will send hornets ahead of you to drive the Hivites, Canaanites, and Hittites out of your way.
@@ -97,4 +97,4 @@ Gradually, I will drive them out before you, until you have increased enough to 
 You must not make agreements with them or with their gods.
 
 ## Exodus 23:33
-They must not dwell in your land, or they will cause you to sin against me, for the worship of their gods will surely be a snare to you.”
+They must not dwell in your land, or they will cause you to sin against Me, for the worship of their gods will surely be a snare to you.”

@@ -13,13 +13,13 @@ Therefore behold, the days are coming,” declares the Lord, “when I will soun
 Why do you boast of your valleys, your valley so fruitful? Backsliding Daughter Ammon, you trust in your treasures and say, ‘Who will attack me?’
 
 ## Jeremiah 49:5
-Behold, I am going to bring terror upon you,” declares the Lord, the God of armies, “from all those around you; every one of you will be driven away, and no one will gather the fugitives.
+Behold, I am going to bring terror upon you,” declares the Lord, the God of hosts, “from all those around you; every one of you will be driven away, and no one will gather the fugitives.
 
 ## Jeremiah 49:6
 “Yet afterward, I will bring back the prosperity of the Ammonites,” declares the Lord.
 
 ## Jeremiah 49:7
-Concerning Edom: This is what the Lord of armies says: “Is there no longer wisdom in Teman? Has counsel perished from the prudent? Has their wisdom decayed?
+Concerning Edom: This is what the Lord of hosts says: “Is there no longer wisdom in Teman? Has counsel perished from the prudent? Has their wisdom decayed?
 
 ## Jeremiah 49:8
 Flee, turn back, dwell in the depths, you inhabitants of Dedan, for I will bring disaster on Esau at the time when I punish him.
@@ -28,16 +28,16 @@ Flee, turn back, dwell in the depths, you inhabitants of Dedan, for I will bring
 If grape pickers came to you, would they not leave some gleanings? If thieves came by night, would they not steal only as much as they wanted?
 
 ## Jeremiah 49:10
-But I will strip Esau bare; I will uncover his hiding places, so that he cannot conceal himself. His offspring and his brothers are destroyed, and he is no more.
+But I will strip Esau bare; I will uncover his hiding places, so that he cannot conceal himself. His offspring, his brothers, and his neighbours are destroyed, and he is no more.
 
 ## Jeremiah 49:11
-Leave your orphans; I will keep them alive. Your widows too can trust in me.”
+Leave your orphans; I will keep them alive. Your widows too can trust in Me.”
 
 ## Jeremiah 49:12
 For this is what the Lord says: “If those who were not sentenced to drink the cup must drink it, why should you go unpunished? You will not go unpunished, but must drink it.
 
 ## Jeremiah 49:13
-I have sworn by myself,” declares the Lord, “that Bozrah will become a ruin, a disgrace, a wasteland, and a curse; and all its towns will be in ruins forever.”
+I have sworn by Myself,” declares the Lord, “that Bozrah will become a ruin, a disgrace, a wasteland, and a curse; and all its towns will be in ruins forever.”
 
 ## Jeremiah 49:14
 I have heard a message from the Lord; an envoy was sent to the nations to say, “Assemble yourselves and come against her! Rise up for battle!”
@@ -55,10 +55,10 @@ The terror you inspire and the arrogance of your heart have deceived you, you wh
 As Sodom and Gomorrah and their neighbouring towns were overthrown,” says the Lord, “so no one will reside there; no people will settle in it.
 
 ## Jeremiah 49:19
-“Like a lion coming up from the thickets of the Jordan to a rich pastureland, I will chase Edom from its land in an instant. Who is the chosen one I will appoint for this? Who is like me and who can summon me into court? And what shepherd can stand against me?”
+“Like a lion coming up from the thickets of the Jordan to a rich pastureland, I will chase Edom from its land in an instant. Who is the chosen one I will appoint for this? Who is like Me and who can summon Me into court? And what shepherd can stand against Me?”
 
 ## Jeremiah 49:20
-Therefore, hear what the Lord has planned against Edom, what he has purposed against those who live in Teman: the young of the flock will be dragged away; their pasture will be shocked at their fate.
+Therefore, hear what the Lord has planned against Edom, what He has purposed against those who live in Teman: the young of the flock will be dragged away; their pasture will be shocked at their fate.
 
 ## Jeremiah 49:21
 At the sound of their fall the earth will tremble; their cry will echo to the Red Sea.
@@ -76,7 +76,7 @@ Damascus has become feeble; she has turned to flee and panic has gripped her; an
 How has the city of renown not been abandoned, the town in which I delight?
 
 ## Jeremiah 49:26
-Surely, her young men will fall in her streets; all her soldiers will be silenced in that day,” declares the Lord of armies.
+Surely, her young men will fall in her streets; all her soldiers will be silenced in that day,” declares the Lord of hosts.
 
 ## Jeremiah 49:27
 “I will set fire to the walls of Damascus; it will consume the strongholds of Ben-Hadad.”
@@ -103,16 +103,16 @@ Their camels will become plunder, and their large herds will be spoils of war. I
 The word of the Lord that came to Jeremiah the prophet concerning Elam, at the beginning of the reign of Zedekiah king of Judah:
 
 ## Jeremiah 49:35
-This is what the Lord of armies says: “See, I will break the bow of Elam, the mainstay of their might.
+This is what the Lord of hosts says: “See, I will break the bow of Elam, the mainstay of their might.
 
 ## Jeremiah 49:36
 I will bring against Elam the four winds from every direction; I will scatter them to the winds, and there will not be a nation where Elam’s exiles do not go.
 
 ## Jeremiah 49:37
-I will shatter Elam before their foes, before those who seek their lives; I will bring disaster on them, even my fierce anger,” declares the Lord. “I will pursue them with the sword until I have made an end of them.
+I will shatter Elam before their foes, before those who seek their lives; I will bring disaster on them, even My fierce anger,” declares the Lord. “I will pursue them with the sword until I have made an end of them.
 
 ## Jeremiah 49:38
-I will establish my throne in Elam and destroy her king and officials,” declares the Lord.
+I will establish My throne in Elam and destroy her king and officials,” declares the Lord.
 
 ## Jeremiah 49:39
 “Yet I will bring back the prosperity of Elam in the last days,” declares the Lord.

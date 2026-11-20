@@ -4,7 +4,7 @@
 
 Upon the sealed document were the names of:
 
-Nehemiah the governor, son of Hacaliah, and Zedekiah,
+ Nehemiah the governor, son of Hacaliah, and Zedekiah,
 
 ## Nehemiah 10:2
 
@@ -60,7 +60,7 @@ Nehemiah the governor, son of Hacaliah, and Zedekiah,
 
 The leaders of the people:
 
-> Parosh, Pahath-moab, Elam, Zattu, and Bani,
+>  Parosh, Pahath-moab, Elam, Zattu, and Bani,
 
 ## Nehemiah 10:15
 
@@ -164,4 +164,4 @@ And the priest, a descendant of Aaron, shall be with the Levites when the Levite
 
 For the people of Israel and the sons of Levi shall bring the contribution of grain, new wine, and oil to the storerooms, where the articles for the sanctuary, the ministering priests, the gatekeepers, and the singers are kept.
 
-Thus, we will not neglect the house of our God.
+ Thus, we will not neglect the house of our God.

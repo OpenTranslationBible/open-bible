@@ -10,7 +10,7 @@ Saul was staying in the outskirts of Gibeah under the pomegranate tree in Migron
 
 ## 1 Samuel 14:3
 
-And Ahijah the son of Ahitub, Ichabod’s brother, son of Phinehas, son of Eli, the priest of the Lord in Shiloh, was wearing the ephod. But the people did not know that Jonathan had gone.
+and Ahijah the son of Ahitub, Ichabod’s brother, son of Phinehas, son of Eli, the priest of the Lord in Shiloh, was wearing the ephod. But the people did not know that Jonathan had gone.
 
 ## 1 Samuel 14:4
 
@@ -49,7 +49,7 @@ When both of them revealed themselves to the garrison of the Philistines, the Ph
 ## 1 Samuel 14:12
 
 And the men of the garrison hailed Jonathan and his armour-bearer and said, “Come up to us, and we will show you something.”  
-Jonathan said to his armour-bearer, “Come up after me, for the Lord has given them into the hand of Israel.”
+ Jonathan said to his armour-bearer, “Come up after me, for the Lord has given them into the hand of Israel.”
 
 ## 1 Samuel 14:13
 
@@ -140,7 +140,7 @@ The people rushed greedily upon the spoil and took sheep, oxen, and calves, and 
 ## 1 Samuel 14:33
 
 Then it was told Saul, saying, “Behold, the people are sinning against the Lord by eating meat with the blood.”  
-And he said, “You have dealt treacherously; roll a large stone to me here.”
+ And he said, “You have dealt treacherously; roll a large stone to me here.”
 
 ## 1 Samuel 14:34
 
@@ -183,7 +183,7 @@ Then Saul said, “Cast the lot between me and Jonathan my son.” And Jonathan 
 ## 1 Samuel 14:43
 
 Then Saul said to Jonathan, “Tell me what you have done.”  
-And Jonathan told him, “I indeed tasted a little honey with the end of the staff that was in my hand. Here I am; I must die.”
+ And Jonathan told him, “I indeed tasted a little honey with the end of the staff that was in my hand. Here I am; I must die.”
 
 ## 1 Samuel 14:44
 
@@ -209,7 +209,7 @@ He acted valiantly and struck the Amalekites, and delivered Israel from the hand
 
 ## 1 Samuel 14:49
 
-Saul's sons were Jonathan, Ishvi, and Malchi-shua. His two daughters were named Merab, the firstborn, and Michal, the younger.
+Saul’s sons were Jonathan, Ishvi, and Malchi-shua. His two daughters were named Merab, the firstborn, and Michal, the younger.
 
 ## 1 Samuel 14:50
 

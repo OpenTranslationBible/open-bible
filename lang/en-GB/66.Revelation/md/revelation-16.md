@@ -2,7 +2,7 @@
 
 ## Revelation 16:1
 
-Then I heard a loud voice from the temple, instructing the seven angels, “Go, pour out the seven bowls of God's wrath upon the earth.”
+Then I heard a loud voice from the temple, instructing the seven angels, “Go, pour out the seven bowls of God’s wrath upon the earth.”
 
 ## Revelation 16:2
 
@@ -20,21 +20,21 @@ The third angel poured out his bowl into the rivers and springs of water, and th
 
 Then I heard the angel of the waters declare,
 
-> “Righteous are you, O Holy One, who is and who was,
-> for you have passed these judgements;
+>  “Righteous are You, O Holy One, who is and who was,
+>  for You have passed these judgements;
 
 ## Revelation 16:6
 
 > because they shed the blood of saints and prophets,
-> and you have given them blood to drink,
-> as they deserve.”
+>  and You have given them blood to drink,
+>  as they deserve.”
 
 ## Revelation 16:7
 
 And I heard the altar affirm,
 
-> “Yes, Lord God Almighty,
-> true and righteous are your judgements.”
+>  “Yes, Lord God Almighty,
+>  true and righteous are Your judgements.”
 
 ## Revelation 16:8
 
@@ -42,7 +42,7 @@ The fourth angel poured out his bowl upon the sun, and it was granted the power 
 
 ## Revelation 16:9
 
-They were scorched by the fierce heat, and they blasphemed the name of God, who holds power over these plagues, yet they did not repent to give him glory.
+They were scorched by the fierce heat, and they blasphemed the name of God, who holds power over these plagues, yet they did not repent to give Him glory.
 
 ## Revelation 16:10
 
@@ -82,7 +82,7 @@ There came flashes of lightning, rumblings, peals of thunder, and a severe earth
 
 ## Revelation 16:19
 
-The great city split into three parts, and the cities of the nations collapsed. Babylon the Great was remembered by God, who gave her the cup filled with the wine of his fierce wrath.
+The great city split into three parts, and the cities of the nations collapsed. Babylon the Great was remembered by God, who gave her the cup filled with the wine of His fierce wrath.
 
 ## Revelation 16:20
 

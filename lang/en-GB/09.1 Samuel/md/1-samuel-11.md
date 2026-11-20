@@ -35,7 +35,7 @@ When he mustered them at Bezek, the sons of Israel were three hundred thousand, 
 ## 1 Samuel 11:9
 
 They said to the messengers who had come, “Thus shall you say to the men of Jabesh-gilead, ‘Tomorrow, by the time the sun is hot, you shall have deliverance.’”  
-So the messengers went and told the men of Jabesh, and they were glad.
+ So the messengers went and told the men of Jabesh, and they were glad.
 
 ## 1 Samuel 11:10
 

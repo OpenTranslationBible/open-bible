@@ -4,7 +4,7 @@
 These are the sayings of Solomon: A wise son brings joy to his father, but a foolish son causes sorrow to his mother.
 
 ## Proverbs 10:2
-Ill-gotten gains do not endure, but righteousness delivers from death.
+Ill-got gains do not endure, but righteousness delivers from death.
 
 ## Proverbs 10:3
 The Lord will not let the righteous go hungry, but He frustrates the desires of the wicked.

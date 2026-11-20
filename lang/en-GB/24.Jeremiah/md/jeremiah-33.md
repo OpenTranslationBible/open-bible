@@ -31,16 +31,16 @@ Then this city will bring Me joy, praise, and honour before all nations on earth
 “This is what the Lord says: ‘In this place, of which you say, “It is a desolate waste, without people or animals,” in the towns of Judah and the streets of Jerusalem that are deserted, without people or animals, there will again be heard
 
 ## Jeremiah 33:11
-the sounds of joy and gladness, the voices of the bride and bridegroom, and the voices of those who bring thank offerings to the house of the Lord, saying, “Give thanks to the Lord Almighty, for the Lord is good; His love endures forever.” For I will restore the fortunes of the land as they were before,’ says the Lord.
+the sounds of joy and gladness, the voices of the bride and bridegroom, and the voices of those who bring thank offerings to the house of the Lord, saying, “Give thanks to the Lord of hosts, for the Lord is good; His love endures forever.” For I will restore the fortunes of the land as they were before,’ says the Lord.
 
 ## Jeremiah 33:12
-“This is what the Lord Almighty says: ‘In this place, which is desolate and without people or animals, in all its towns there will again be pastures for shepherds to rest their flocks.
+“This is what the Lord of hosts says: ‘In this place, which is desolate and without people or animals, in all its towns there will again be pastures for shepherds to rest their flocks.
 
 ## Jeremiah 33:13
 In the towns of the hill country, the western foothills, and the Negev, in the territory of Benjamin, in the villages around Jerusalem and in the towns of Judah, flocks will once more pass under the care of the one who counts them,’ says the Lord.
 
 ## Jeremiah 33:14
-‘The time is coming,’ declares the Lord, ‘when I will fulfill the good promise I made to the people of Israel and Judah.
+‘The time is coming,’ declares the Lord, ‘when I will fulfil the good promise I made to the people of Israel and Judah.
 
 ## Jeremiah 33:15
 During those days and at that time, I will cause a righteous Branch to emerge from David’s line; He will execute justice and righteousness in the land.
@@ -55,7 +55,7 @@ For this is what the Lord says: ‘David will never lack a man to sit on the thr
 nor will the Levitical priests ever lack a man to stand before Me to offer burnt offerings, to burn grain offerings, and to present sacrifices continually.’”
 
 ## Jeremiah 33:19
-The Lord's message came to Jeremiah, saying,
+The Lord’s message came to Jeremiah, saying,
 
 ## Jeremiah 33:20
 “This is what the Lord says: ‘If you can break My covenant with the day and My covenant with the night, so that day and night do not occur at their appointed times,

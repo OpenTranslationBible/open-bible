@@ -22,15 +22,15 @@ You will stumble by day, and the prophet will also stumble with you by night; an
 
 ## Hosea 4:6
 
-My people are destroyed for lack of knowledge. Because you have rejected knowledge, I will also reject you from being my priests; because you have forgotten the law of your God, I will also forget your children.
+My people are destroyed for lack of knowledge. Because you have rejected knowledge, I will also reject you from being My priests; because you have forgotten the law of your God, I will also forget your children.
 
 ## Hosea 4:7
 
-The more they increased, the more they sinned against me; I will turn their glory into shame.
+The more they increased, the more they sinned against Me; I will turn their glory into shame.
 
 ## Hosea 4:8
 
-They feed on the sin of my people and desire their iniquity.
+They feed on the sin of My people and desire their iniquity.
 
 ## Hosea 4:9
 

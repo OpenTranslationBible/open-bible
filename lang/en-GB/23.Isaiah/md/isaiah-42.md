@@ -2,7 +2,7 @@
 
 ## Isaiah 42:1
 
-“Behold, my servant, whom I have chosen; my beloved chosen one in whom my soul delights. I have put my Spirit upon him; he shall bring forth justice to the nations.
+“Behold, My servant, whom I have chosen; My beloved chosen one in whom My soul delights. I have put My Spirit upon him; he shall bring forth justice to the nations.
 
 ## Isaiah 42:2
 
@@ -30,7 +30,7 @@ to give sight to the blind, to free captives from confinement, and those who res
 
 ## Isaiah 42:8
 
-I am the Lord; this is my name! I will not share my glory with another, nor my praise with idols.
+I am the Lord; this is My name! I will not share My glory with another, nor My praise with idols.
 
 ## Isaiah 42:9
 
@@ -38,7 +38,7 @@ Behold, the former things have come to pass, and new things I declare; before th
 
 ## Isaiah 42:10
 
-Sing to the Lord a new song, his praise from the ends of the earth, you who go down to the sea and all that is in it, you islands and those who live on them.
+Sing to the Lord a new song, His praise from the ends of the earth, you who go down to the sea and all that is in it, you islands and those who live on them.
 
 ## Isaiah 42:11
 
@@ -46,15 +46,15 @@ Let the wilderness and its towns raise their voices, the settlements where Kedar
 
 ## Isaiah 42:12
 
-Let them give honour and glory to the Lord and proclaim his praise in the coastlands.
+Let them give honour and glory to the Lord and proclaim His praise in the coastlands.
 
 ## Isaiah 42:13
 
-The Lord will go out like a warrior; he will stir up his zeal like a man of war. With a shout he will raise the battle cry and will triumph over his enemies.
+The Lord will go out like a warrior; He will stir up His zeal like a man of war. With a shout He will raise the battle cry and will triumph over His enemies.
 
 ## Isaiah 42:14
 
-“I have kept silent for a long time; I have been quiet and restrained myself. Now, like a woman in labour, I will groan, I will both gasp and pant.
+“I have kept silent for a long time; I have been quiet and restrained Myself. Now, like a woman in labour, I will groan, I will both gasp and pant.
 
 ## Isaiah 42:15
 
@@ -74,15 +74,15 @@ Listen, you deaf; look, you blind, and see!
 
 ## Isaiah 42:19
 
-Who is blind but my servant, or so deaf as my messenger whom I send? Who is so blind as the one in covenant with me, or so blind as the servant of the Lord?
+Who is blind but My servant, or so deaf as My messenger whom I send? Who is so blind as the one in covenant with Me, or so blind as the servant of the Lord?
 
 ## Isaiah 42:20
 
-You have seen many things, but you do not remember them; your ears are open, but no one listens.
+You have seen many things, but you do not remember them; your ears are open, but no one listens.”
 
 ## Isaiah 42:21
 
-The Lord was pleased, for his righteousness’ sake, to make his law great and glorious.
+The Lord was pleased, for His righteousness’ sake, to make His law great and glorious.
 
 ## Isaiah 42:22
 
@@ -94,8 +94,8 @@ Who among you will heed this? Who will pay attention and listen for the future?
 
 ## Isaiah 42:24
 
-Who gave Jacob up for spoil, and Israel to the plunderers? Was it not the Lord, against whom we have sinned? For they would not follow his ways, nor did they obey his law.
+Who gave Jacob up for spoil, and Israel to the plunderers? Was it not the Lord, against whom we have sinned? For they would not follow His ways, nor did they obey His law.
 
 ## Isaiah 42:25
 
-So he poured out on them the heat of his anger and the violence of war; it enveloped them in flames, yet they did not understand; it consumed them, but they paid no attention.
+So He poured out on them the heat of His anger and the violence of war; it enveloped them in flames, yet they did not understand; it consumed them, but they paid no attention.

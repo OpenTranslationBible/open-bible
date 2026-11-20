@@ -50,7 +50,7 @@ Blessed be the Lord your God who delighted in you, to put you on His throne as k
 
 ## 2 Chronicles 9:9
 
-Then she gave the king a hundred and twenty talents of gold, and a very large amount of spices and precious stones. Never again did such spices come in, as those that the queen of Sheba gave to King Solomon.
+Then she gave the king a hundred and twenty talents of gold, and a very large amount of spices and precious stones. Never before had there been such spices as those that the queen of Sheba gave to King Solomon.
 
 ---
 
@@ -176,7 +176,7 @@ Now the rest of the acts of Solomon, from the beginning to the end, are they not
 
 ## 2 Chronicles 9:30
 
-Solomon's reign in Jerusalem over all Israel lasted for forty years.
+Solomon’s reign in Jerusalem over all Israel lasted for forty years.
 
 ---
 

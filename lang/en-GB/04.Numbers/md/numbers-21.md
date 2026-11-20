@@ -4,7 +4,7 @@
 When the Canaanite king of Arad, who resided in the Negev, heard that Israel was approaching by the route of Atharim, he engaged in battle against Israel and took some of them captive.
 
 ## Numbers 21:2
-Then Israel vowed to the Lord, saying, “If you will indeed deliver this people into our hands, we will utterly destroy their cities.”
+Then Israel vowed to the Lord, saying, “If You will indeed deliver this people into our hands, we will utterly destroy their cities.”
 
 ## Numbers 21:3
 The Lord heeded Israel’s plea and handed the Canaanites over to them. They completely destroyed them and their towns, and the place was named Hormah.

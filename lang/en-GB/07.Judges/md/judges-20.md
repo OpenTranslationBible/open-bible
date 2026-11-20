@@ -6,7 +6,7 @@ Then all the Israelites from Dan to Beersheba, including the land of Gilead, gat
 
 ## Judges 20:2
 
-The leaders of all the tribes of Israel took their places in the assembly of God's people, comprising four hundred thousand foot soldiers armed with swords.
+The leaders of all the tribes of Israel took their places in the assembly of God’s people, comprising four hundred thousand foot soldiers armed with swords.
 
 ## Judges 20:3
 
@@ -22,7 +22,7 @@ The men of Gibeah rose against me and surrounded the house by night, intending t
 
 ## Judges 20:6
 
-I took my concubine, cut her into pieces, and sent them throughout Israel's territory, for they committed a disgraceful and vile act in Israel.
+I took my concubine, cut her into pieces, and sent them throughout Israel’s territory, for they committed a disgraceful and vile act in Israel.
 
 ## Judges 20:7
 
@@ -136,7 +136,7 @@ All the men of Israel moved from their positions and took up positions at Baal T
 
 ## Judges 20:34
 
-Ten thousand of Israel's chosen men launched a frontal attack on Gibeah. The battle was intense, and the Benjamites did not realise disaster was near.
+Ten thousand of Israel’s chosen men launched a frontal attack on Gibeah. The battle was intense, and the Benjamites did not realise disaster was near.
 
 ## Judges 20:35
 
@@ -156,7 +156,7 @@ The Israelites had arranged with the ambush that they would send up a great clou
 
 ## Judges 20:39
 
-At that moment, the Israelites would launch their counterattack. The Benjamites had begun to inflict casualties on the Israelites (about thirty), and they said, “We are defeating them as in the first battle.”
+at that moment, the Israelites would launch their counterattack. The Benjamites had begun to inflict casualties on the Israelites (about thirty), and they said, “We are defeating them as in the first battle.”
 
 ## Judges 20:40
 

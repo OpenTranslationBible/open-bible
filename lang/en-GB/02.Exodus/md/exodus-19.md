@@ -34,7 +34,7 @@ The people all responded together, “We will do everything the Lord has spoken.
 
 ## Exodus 19:9
 
-The Lord said to Moses, “I will come to you in a thick cloud, so that the people may hear when I speak with you and may always trust in you.” Then Moses relayed the people's words to the Lord.
+The Lord said to Moses, “I will come to you in a thick cloud, so that the people may hear when I speak with you and may always trust in you.” Then Moses relayed the people’s words to the Lord.
 
 ## Exodus 19:10
 
@@ -50,7 +50,7 @@ Set boundaries for the people all around, warning them, ‘Be careful not to go 
 
 ## Exodus 19:13
 
-No hand shall touch them, but they shall be stoned or shot with arrows; whether animal or human, they shall not live. Only when the ram’s horn sounds a long blast may they approach the mountain.”
+No hand shall touch them, but they shall be stoned or shot with arrows; whether animal or human, they shall not live.’ Only when the ram’s horn sounds a long blast may they approach the mountain.”
 
 ## Exodus 19:14
 
@@ -90,7 +90,7 @@ Even the priests, who come near to the Lord, must purify themselves, or the Lord
 
 ## Exodus 19:23
 
-Moses said to the Lord, “The people cannot come up Mount Sinai, because you yourself warned us, ‘Set boundaries around the mountain and consecrate it.’”
+Moses said to the Lord, “The people cannot come up Mount Sinai, because You Yourself warned us, ‘Set boundaries around the mountain and consecrate it.’”
 
 ## Exodus 19:24
 

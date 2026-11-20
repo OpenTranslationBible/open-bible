@@ -66,15 +66,15 @@ The message of the prophets aligns with this, as it is written:
 
 ## Acts 15:16
 
-> ‘After this, I will return
-> and restore the fallen house of David.
-> I will rebuild its ruins,
-> and I will set it up again,
+> ‘After this,
+>  I will return and restore the fallen shelter of David.
+>  I will rebuild its ruins,
+>  and I will set it up again,
 
 ## Acts 15:17
 
 > so that the rest of mankind may seek the Lord,
-> including all the Gentiles who bear my name,’
+>  including all the Gentiles who bear My name,’
 
 ## Acts 15:18
 
@@ -126,7 +126,7 @@ It seemed good to the Holy Spirit and to us not to burden you with anything beyo
 
 ## Acts 15:29
 
-You are to abstain from food sacrificed to idols, from blood, from the meat of strangled animals, and from sexual immorality. If you keep yourselves from these things, you will do well. Farewell.
+You are to abstain from food sacrificed to idols, from blood, from the meat of strangled animals, and from sexual immorality. If you keep yourselves from these things, you will do well. Farewell.”
 
 ---
 

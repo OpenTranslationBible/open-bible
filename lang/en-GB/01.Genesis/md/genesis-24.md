@@ -19,7 +19,7 @@ The servant asked him, “What if the woman is not willing to return with me to 
 “Be careful not to take my son back there,” Abraham replied.
 
 ## Genesis 24:7
-“The Lord, the God of heaven, who brought me from my father's house and from my native land, and who spoke to me and swore to me, saying, ‘To your descendants I will give this land’—He will send His angel before you, and you shall take a wife for my son from there.
+“The Lord, the God of heaven, who brought me from my father’s house and from my native land, and who spoke to me and swore to me, saying, ‘To your descendants I will give this land’—He will send His angel before you, and you shall take a wife for my son from there.
 
 ## Genesis 24:8
 But if the woman is not willing to follow you, then you will be released from this oath of mine; only do not take my son back there.”

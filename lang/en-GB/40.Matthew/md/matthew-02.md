@@ -78,7 +78,7 @@ Then what was spoken through the prophet Jeremiah was fulfilled:
 
 ## Matthew 2:19
 
-Following Herod's death, an angel of the Lord came to Joseph in a dream while he was in Egypt,
+Following Herod’s death, an angel of the Lord came to Joseph in a dream while he was in Egypt,
 
 ## Matthew 2:20
 

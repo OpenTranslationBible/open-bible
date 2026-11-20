@@ -26,7 +26,7 @@ For the mind governed by the flesh is death, but the mind governed by the Spirit
 
 ## Romans 8:7
 
-Because the mind set on the flesh is hostile to God; it does not submit to God's law, nor can it do so.
+Because the mind set on the flesh is hostile to God; it does not submit to God’s law, nor can it do so.
 
 ## Romans 8:8
 
@@ -50,7 +50,7 @@ Therefore, brothers and sisters, we have an obligation, but it is not to the fle
 
 ## Romans 8:13
 
-for if you live by the flesh, you will face death; but if by the Spirit you put to death the deeds of the flesh, you will have life.
+for if you live by the flesh, you will face death; but if by the Spirit you put to death the deeds of the body, you will have life.
 
 ## Romans 8:14
 
@@ -62,7 +62,7 @@ For you did not receive a spirit of slavery leading to fear again, but you recei
 
 ## Romans 8:16
 
-The Spirit Himself bears witness with our spirit that we are God's children.
+The Spirit Himself bears witness with our spirit that we are God’s children.
 
 ## Romans 8:17
 
@@ -106,7 +106,7 @@ In the same way, the Spirit helps us in our weakness. We do not know what we oug
 
 ## Romans 8:27
 
-And He who searches our hearts knows the mind of the Spirit, because the Spirit intercedes for God's people in accordance with God's will.
+And He who searches our hearts knows the mind of the Spirit, because the Spirit intercedes for God’s people in accordance with God’s will.
 
 ## Romans 8:28
 
@@ -134,7 +134,7 @@ Who will bring any accusation against those whom God has chosen? It is God who j
 
 ## Romans 8:34
 
-Who then is the one who condemns? No one. Christ Jesus who died—and more than that, who was raised to life—is at the right hand of God and is also interceding for us.
+Who then is the one who condemns? Christ Jesus who died—and more than that, who was raised to life—is at the right hand of God and is also interceding for us.
 
 ## Romans 8:35
 
@@ -144,8 +144,8 @@ Who shall separate us from the love of Christ? Shall tribulation, or trouble, or
 
 As the scripture says:
 
-> “For your sake we face death all day long;
-> we are considered as sheep to be slaughtered.”
+>  “For Your sake we face death all day long;
+>  we are considered as sheep to be slaughtered.”
 
 ## Romans 8:37
 

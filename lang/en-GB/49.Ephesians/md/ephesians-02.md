@@ -2,7 +2,7 @@
 
 ## Ephesians 2:1
 
-And you were spiritually lifeless in your transgressions and sins,
+And you were dead in your transgressions and sins,
 
 ## Ephesians 2:2
 
@@ -18,7 +18,7 @@ Yet God, who is abundant in mercy, due to His great love for us,
 
 ## Ephesians 2:5
 
-even when we were spiritually lifeless in our transgressions, brought us to life with Christ—by grace you have been saved—
+even when we were dead in our transgressions, brought us to life with Christ—by grace you have been saved—
 
 ## Ephesians 2:6
 
@@ -74,7 +74,7 @@ For through Him we know we both have access to the Father by one Spirit.
 
 ## Ephesians 2:19
 
-Consequently, you are no longer outsiders and aliens, but are fellow citizens with the saints and members of God's household,
+Consequently, you are no longer outsiders and aliens, but are fellow citizens with the saints and members of God’s household,
 
 ## Ephesians 2:20
 

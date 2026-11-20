@@ -44,10 +44,10 @@ let it be known to all of you and to all the people of Israel, that by the name 
 
 ## Acts 4:11
 
-He is
+He is ‘the stone you builders rejected,
 
-> ‘the stone you builders rejected,
-> which has become the chief cornerstone.’
+>  which has become the chief cornerstone.
+> ’
 
 ## Acts 4:12
 
@@ -103,36 +103,34 @@ Upon their release, Peter and John returned to their own people and reported all
 
 ## Acts 4:24
 
-When they heard this, they raised their voices together to God and said, “Sovereign Lord, you made the heavens and the earth and the sea, and everything in them.
+When they heard this, they raised their voices together to God and said, “Sovereign Lord, You made the heavens and the earth and the sea, and everything in them.
 
 ## Acts 4:25
 
-You spoke through the Holy Spirit by the mouth of your servant, our father David:
+You spoke through the Holy Spirit by the mouth of Your servant, our father David:
 
-> ‘Why do the nations rage
-> and the peoples plot in vain?
+>  ‘Why do the nations rage and the peoples plot in vain?
 
 ## Acts 4:26
 
-> The kings of the earth rise up and the rulers gather together
-> against the Lord and
-> against his Anointed One.’
+> The kings of the earth rise up and the rulers gather together against the Lord and against His Anointed One.
+> ’
 
 ## Acts 4:27
 
-Truly, Herod and Pontius Pilate, along with the Gentiles and the people of Israel, gathered in this city to act against your holy servant Jesus, whom you anointed.
+Truly, Herod and Pontius Pilate, along with the Gentiles and the people of Israel, gathered in this city to act against Your holy servant Jesus, whom You anointed.
 
 ## Acts 4:28
 
-They carried out what your power and will had decided beforehand should happen.
+They carried out what Your power and will had decided beforehand should happen.
 
 ## Acts 4:29
 
-And now, Lord, take note of their threats and grant your servants the ability to speak your word with great boldness,
+And now, Lord, take note of their threats and grant Your servants the ability to speak Your word with great boldness,
 
 ## Acts 4:30
 
-while you stretch out your hand to heal and perform signs and wonders through the name of your holy servant Jesus.”
+while You stretch out Your hand to heal and perform signs and wonders through the name of Your holy servant Jesus.”
 
 ## Acts 4:31
 

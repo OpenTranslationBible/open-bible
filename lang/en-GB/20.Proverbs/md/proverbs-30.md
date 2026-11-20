@@ -14,21 +14,21 @@ I have not acquired wisdom, nor do I possess the knowledge of the Holy One.
 
 ## Proverbs 30:4
 
-Who has ascended to heaven and descended? Who has gathered the wind in his hands? Who has wrapped the waters in a garment? Who has established all the ends of the earth? What is his name, and what is his son’s name? Surely you know!
+Who has ascended to heaven and descended? Who has gathered the wind in His hands? Who has wrapped the waters in a garment? Who has established all the ends of the earth? What is His name, and what is His son’s name? Surely you know!
 
 ## Proverbs 30:5
 
-Every word of God is flawless; he is a shield to those who seek refuge in him.
+Every word of God is flawless; He is a shield to those who seek refuge in Him.
 
 ## Proverbs 30:6
 
-Do not add to his words, or he will rebuke you and you will be found a liar.
+Do not add to His words, or He will rebuke you and you will be found a liar.
 
 ---
 
 ## Proverbs 30:7
 
-Two things I ask of you, Lord; do not deny me before I die:
+Two things I ask of You, Lord; do not deny me before I die:
 
 ## Proverbs 30:8
 
@@ -36,7 +36,7 @@ Keep falsehood and deceit far from me; give me neither poverty nor wealth, but p
 
 ## Proverbs 30:9
 
-Otherwise, I may have too much and deny you and say, ‘Who is the Lord?’ Or I may become impoverished and steal, and so dishonour the name of my God.
+Otherwise, I may have too much and deny You and say, ‘Who is the Lord?’ Or I may become impoverished and steal, and so dishonour the name of my God.
 
 ## Proverbs 30:10
 
@@ -112,15 +112,15 @@ Ants, though small and weak, store up their food in the summer;
 
 ## Proverbs 30:26
 
-Hyraxes, though not powerful, make their home in the crags;
+hyraxes, though not powerful, make their home in the crags;
 
 ## Proverbs 30:27
 
-Locusts, having no king, advance together in ranks;
+locusts, having no king, advance together in ranks;
 
 ## Proverbs 30:28
 
-A lizard, easily caught by hand, yet found in kings’ palaces.
+a lizard, easily caught by hand, yet found in kings’ palaces.
 
 ---
 
@@ -134,7 +134,7 @@ A lion, majestic among creatures, who retreats from nothing;
 
 ## Proverbs 30:31
 
-A proud rooster, a he-goat, and a king secure against revolt.
+a proud rooster, a he-goat, and a king secure against revolt.
 
 ---
 
@@ -144,4 +144,4 @@ If you have been foolish in exalting yourself, or if you have devised evil, put 
 
 ## Proverbs 30:33
 
-For as the churning of milk produces butter, and as twisting the nose produces blood, so stirring up anger produces strife.
+For as the churning of milk produces butter, and as twisting the nose produces blood, so stirring up anger produces strife.”

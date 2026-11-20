@@ -18,7 +18,7 @@ and Zedekiah king of Judah will not escape from the Babylonians but will certain
 
 ## Jeremiah 32:5
 
-He will lead Zedekiah to Babylon, where he will stay until I attend to him, declares the Lord. If you fight against the Babylonians, you will not succeed.’”
+He will lead Zedekiah to Babylon, where he will stay until I attend to him, declares the Lord. If you fight against the Babylonians, you will not succeed’?”
 
 ## Jeremiah 32:6
 
@@ -86,7 +86,7 @@ You delivered Your people Israel from Egypt with miraculous signs and wonders, b
 
 ## Jeremiah 32:22
 
-You gave them this land You had promised to their ancestors, a land rich and abundant.
+You gave them this land You had promised to their ancestors, a land flowing with milk and honey.
 
 ## Jeremiah 32:23
 
@@ -98,7 +98,7 @@ See how the siege ramps are built up to take the city. Because of the sword, fam
 
 ## Jeremiah 32:25
 
-Yet You have said to me, Sovereign Lord, ‘Buy the field with silver and have the transaction witnessed,’ although the city has been handed over to the Babylonians.”
+Yet You have said to me, Sovereign Lord, “Buy the field with silver and have the transaction witnessed,” although the city has been handed over to the Babylonians.’”
 
 ## Jeremiah 32:26
 

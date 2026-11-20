@@ -31,7 +31,7 @@ In the ninth month of the fifth year of Jehoiakim son of Josiah, king of Judah, 
 Then Baruch read from the scroll the words of Jeremiah to all the people in the house of the Lord, in the chamber of Gemariah son of Shaphan the scribe, in the upper courtyard, at the entrance of the New Gate of the Lord’s house.
 
 ## Jeremiah 36:11
-When Micaiah son of Gemariah, the son of Shaphan, heard all the words from the scroll,
+When Micaiah son of Gemariah, the son of Shaphan, heard all the words of the Lord from the scroll,
 
 ## Jeremiah 36:12
 he went down to the scribe’s chamber in the royal palace, where all the officials were sitting: Elishama the scribe, Delaiah son of Shemaiah, Elnathan son of Akbor, Gemariah son of Shaphan, Zedekiah son of Hananiah, and all the other officials.

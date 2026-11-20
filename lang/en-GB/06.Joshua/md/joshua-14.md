@@ -34,7 +34,7 @@ And now, behold, the Lord has kept me alive, just as He promised, these forty-fi
 I am still as strong today as I was on the day Moses sent me out; my strength now is as it was then, for battle and for going out and coming in.
 
 ## Joshua 14:12
-Now give me this hill country that the Lord promised me that day. You heard then that the Anakites were there, with large fortified cities, but with the Lord’s help, I will drive them out as He said.”
+Now give me this hill country that the Lord promised me that day. You heard then that the Anakites were there, with large fortified cities, but perhaps with the Lord’s help I will drive them out as He said.”
 
 ## Joshua 14:13
 Joshua then blessed Caleb son of Jephunneh and granted him Hebron as his inheritance.

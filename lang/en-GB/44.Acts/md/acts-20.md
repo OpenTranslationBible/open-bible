@@ -112,7 +112,7 @@ However, I consider my life worth nothing to me; my only aim is to finish the ra
 
 ## Acts 20:26
 
-Therefore, I declare to you today that I am free from the responsibility for any of you.
+Therefore, I declare to you today that I am innocent of the blood of all men.
 
 ## Acts 20:27
 

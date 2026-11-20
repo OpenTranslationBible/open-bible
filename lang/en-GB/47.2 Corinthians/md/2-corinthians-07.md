@@ -26,7 +26,7 @@ But God, who encourages the downcast, encouraged us by the coming of Titus;
 
 ## 2 Corinthians 7:7
 
-And not only by his coming, but also by the encouragement he received from you, as he told us about your longing, your mourning, your enthusiasm for me; so that I was even more joyful.
+and not only by his coming, but also by the encouragement he received from you, as he told us about your longing, your mourning, your enthusiasm for me; so that I was even more joyful.
 
 ## 2 Corinthians 7:8
 
@@ -34,11 +34,11 @@ For though I caused you sorrow by my letter, I do not regret it; though I did re
 
 ## 2 Corinthians 7:9
 
-I now rejoice, not because you were made sorrowful, but because your sorrow led to repentance; for you were made sorrowful in a way that aligns with God's will, so that you suffered no loss from us.
+I now rejoice, not because you were made sorrowful, but because your sorrow led to repentance; for you were made sorrowful in a way that aligns with God’s will, so that you suffered no loss from us.
 
 ## 2 Corinthians 7:10
 
-For the sorrow that aligns with God's will brings a repentance that leads to salvation and leaves no regret, but worldly sorrow brings death.
+For the sorrow that aligns with God’s will brings a repentance that leads to salvation and leaves no regret, but worldly sorrow brings death.
 
 ## 2 Corinthians 7:11
 

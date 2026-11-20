@@ -47,7 +47,7 @@ Then a message from the Lord came to Samuel, saying,
 ## 1 Samuel 15:11
 
 “I regret that I have made Saul king, for he has turned away from following Me and has not carried out My commands.”  
-And Samuel was distressed and cried out to the Lord all night.
+ And Samuel was distressed and cried out to the Lord all night.
 
 ## 1 Samuel 15:12
 
@@ -55,7 +55,7 @@ Samuel rose early in the morning to meet Saul; and it was reported to Samuel, sa
 
 ## 1 Samuel 15:13
 
-When Samuel reached Saul, Saul greeted him, saying, “May you be blessed by the Lord! I have fulfilled the Lord's command.”
+When Samuel reached Saul, Saul greeted him, saying, “May you be blessed by the Lord! I have fulfilled the Lord’s command.”
 
 ## 1 Samuel 15:14
 
@@ -70,7 +70,7 @@ Saul replied, “They were brought from the Amalekites, for the people spared th
 ## 1 Samuel 15:16
 
 Then Samuel said to Saul, “Stop! I will tell you what the Lord said to me last night.”  
-And he said to him, “Speak.”
+ And he said to him, “Speak.”
 
 ## 1 Samuel 15:17
 
@@ -98,17 +98,17 @@ But the people took some of the spoil, sheep and oxen, the best of the things de
 
 Samuel said,
 
-> “Has the Lord as much delight in burnt offerings and sacrifices  
-> As in obeying the voice of the Lord?  
-> Behold, to obey is better than sacrifice,  
-> And to listen than the fat of rams.
+>  “Has the Lord as much delight in burnt offerings and sacrifices as in obeying the voice of the Lord?  
+>  Behold,  
+>  to obey is better than sacrifice,  
+>  and to listen than the fat of rams.
 
 ## 1 Samuel 15:23
 
 > For rebellion is like the sin of divination,  
-> And stubbornness is like iniquity and idolatry.  
-> Because you have rejected the word of the Lord,  
-> He has also rejected you from being king.”
+>  and stubbornness is like iniquity and idolatry.  
+>  Because you have rejected the word of the Lord,  
+>  He has also rejected you from being king.”
 
 ---
 
@@ -149,15 +149,15 @@ So Samuel returned after Saul, and Saul worshipped the Lord.
 ## 1 Samuel 15:32
 
 Then Samuel said, “Bring Agag, the king of the Amalekites, to me.”  
-And Agag approached him cheerfully, saying, “Surely the bitterness of death has passed.”
+ And Agag approached him cheerfully, saying, “Surely the bitterness of death has passed.”
 
 ## 1 Samuel 15:33
 
 But Samuel said,
 
-> “As your sword has made women childless,  
-> So shall your mother be childless among women.”  
-> And Samuel executed Agag before the Lord at Gilgal.
+>  “As your sword has made women childless,  
+>  so shall your mother be childless among women.”  
+>  And Samuel executed Agag before the Lord at Gilgal.
 
 ## 1 Samuel 15:34
 
@@ -166,4 +166,4 @@ Then Samuel went to Ramah, while Saul went up to his house at Gibeah of Saul.
 ## 1 Samuel 15:35
 
 Samuel did not see Saul again until the day of his death;  
-for Samuel grieved over Saul, and the Lord lamented that He had made Saul king over Israel.
+ for Samuel grieved over Saul, and the Lord lamented that He had made Saul king over Israel.

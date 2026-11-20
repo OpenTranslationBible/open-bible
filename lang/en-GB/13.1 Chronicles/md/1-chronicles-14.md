@@ -3,9 +3,9 @@
 ## 1 Chronicles 14:1
 
 Now Hiram king of Tyre sent messengers to David with cedar timber,  
-masons, and carpenters,
+ masons, and carpenters,
 
-> to build a house for him.
+>  to build a house for him.
 
 ---
 
@@ -13,8 +13,8 @@ masons, and carpenters,
 
 And David realised that the Lord had established him as king over Israel,
 
-> and that his kingdom was highly exalted,  
-> for the sake of His people Israel.
+>  and that his kingdom was highly exalted,  
+>  for the sake of His people Israel.
 
 ---
 
@@ -22,7 +22,7 @@ And David realised that the Lord had established him as king over Israel,
 
 In Jerusalem, David took additional wives,
 
-> and he became the father of more sons and daughters.
+>  and he became the father of more sons and daughters.
 
 ---
 
@@ -30,28 +30,28 @@ In Jerusalem, David took additional wives,
 
 These were the names of the children born to him in Jerusalem:
 
-> Shammua, Shobab, Nathan, Solomon,
+>  Shammua, Shobab, Nathan, Solomon,
 
 ## 1 Chronicles 14:5
 
-> Ibhar, and Elishua, Elpelet,
+> Ibhar, Elishua, Elpelet,
 
 ## 1 Chronicles 14:6
 
-> Nogah, and Nepheg, Japhia,
+> Nogah, Nepheg, Japhia,
 
 ## 1 Chronicles 14:7
 
-> Elishama, and Beeliada, Eliphelet.
+> Elishama, Beeliada, and Eliphelet.
 
 ---
 
 ## 1 Chronicles 14:8
 
 Upon hearing that David had been anointed king over all Israel,  
-the Philistines gathered to seek him;
+ the Philistines gathered to seek him;
 
-> and when David learned of this, he went out to meet them.
+>  and when David learned of this, he went out to meet them.
 
 ---
 
@@ -65,20 +65,20 @@ At that time, the Philistines came and launched a raid in the Valley of Rephaim.
 
 Then David inquired of God, saying,
 
-> “Shall I go up against the Philistines,  
-> and will You hand them over to me?”  
-> And the Lord said to him,  
-> “Go up, for I will hand them over to you.”
+>  “Shall I go up against the Philistines,  
+>  and will You hand them over to me?”  
+>  And the Lord said to him,  
+>  “Go up, for I will hand them over to you.”
 
 ---
 
 ## 1 Chronicles 14:11
 
 So they came up to Baal-perazim, where David achieved victory over them.  
-And David said,
+ And David said,
 
-> “God has broken through my enemies by my hand, like the breakthrough of waters.”  
-> Therefore they named that place Baal-perazim.
+>  “God has broken through my enemies by my hand, like the breakthrough of waters.”  
+>  Therefore they named that place Baal-perazim.
 
 ---
 
@@ -86,7 +86,7 @@ And David said,
 
 They left the idols of their gods there;
 
-> so David commanded that they be burned with fire.
+>  so David commanded that they be burned with fire.
 
 ---
 
@@ -100,8 +100,8 @@ Then the Philistines carried out another raid in the valley.
 
 David again inquired of God, and God said to him,
 
-> “You shall not go directly up after them;  
-> circle around behind them and come at them in front of the baka-shrubs.
+>  “You shall not go directly up after them;  
+>  circle around behind them and come at them in front of the baka-shrubs.
 
 ---
 
@@ -109,8 +109,8 @@ David again inquired of God, and God said to him,
 
 And it shall be, when you hear the sound of marching in the tops of the baka-shrubs,
 
-> then you shall go out to battle,  
-> for God will have gone out before you to strike the army of the Philistines.”
+>  then you shall go out to battle,  
+>  for God will have gone out before you to strike the army of the Philistines.”
 
 ---
 
@@ -118,12 +118,12 @@ And it shall be, when you hear the sound of marching in the tops of the baka-shr
 
 David did just as God had commanded him,
 
-> and they struck the army of the Philistines from Gibeon even as far as Gezer.
+>  and they struck the army of the Philistines from Gibeon even as far as Gezer.
 
 ---
 
 ## 1 Chronicles 14:17
 
-David's renown spread throughout all the lands;
+David’s renown spread throughout all the lands;
 
-> and the Lord instilled a reverence for him among all the nations.
+>  and the Lord instilled a reverence for him among all the nations.

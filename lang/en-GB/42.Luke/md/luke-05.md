@@ -2,7 +2,7 @@
 
 ## Luke 5:1
 
-On one occasion, as Jesus stood by the Lake of Gennesaret, the crowd was pressing around him, eager to hear the word of God.
+On one occasion, as Jesus stood by the Lake of Gennesaret, the crowd was pressing around Him, eager to hear the word of God.
 
 ## Luke 5:2
 
@@ -14,11 +14,11 @@ Jesus entered one of the boats, which belonged to Simon, and asked him to move i
 
 ## Luke 5:4
 
-After he had finished speaking, he said to Simon, “Launch out into the deep and let down your nets for a catch.”
+After He had finished speaking, He said to Simon, “Launch out into the deep and let down your nets for a catch.”
 
 ## Luke 5:5
 
-Simon replied, “Master, we have toiled all night and caught nothing, but at your word, I will let down the nets.”
+Simon replied, “Master, we have toiled all night and caught nothing, but at Your word, I will let down the nets.”
 
 ## Luke 5:6
 
@@ -42,17 +42,17 @@ and so were James and John, the sons of Zebedee, who were partners with Simon. T
 
 ## Luke 5:11
 
-So they brought their boats to land, left everything behind, and followed him.
+So they brought their boats to land, left everything behind, and followed Him.
 
 ---
 
 ## Luke 5:12
 
-While Jesus was in one of the towns, a man covered with leprosy approached him. Seeing Jesus, he fell on his face and implored, “Lord, if you are willing, you can make me clean.”
+While Jesus was in one of the towns, a man covered with leprosy approached Him. Seeing Jesus, he fell on his face and implored, “Lord, if You are willing, You can make me clean.”
 
 ## Luke 5:13
 
-Jesus reached out his hand, touched the man, and said, “I am willing; be clean.” Immediately the leprosy left him.
+Jesus reached out His hand, touched the man, and said, “I am willing; be clean.” Immediately the leprosy left him.
 
 ## Luke 5:14
 
@@ -60,7 +60,7 @@ Jesus instructed him, “Tell no one, but go, show yourself to the priest and of
 
 ## Luke 5:15
 
-Yet the news about him spread even more, and large crowds gathered to hear him and to be healed of their ailments.
+Yet the news about Him spread even more, and large crowds gathered to hear Him and to be healed of their ailments.
 
 ## Luke 5:16
 
@@ -70,7 +70,7 @@ But Jesus often withdrew to solitary places to pray.
 
 ## Luke 5:17
 
-One day, as he was teaching, Pharisees and teachers of the law were sitting there. They had come from every village of Galilee, Judea, and Jerusalem, and the power of the Lord was present for him to heal the sick.
+One day, as He was teaching, Pharisees and teachers of the law were sitting there. They had come from every village of Galilee, Judea, and Jerusalem, and the power of the Lord was present for Him to heal the sick.
 
 ## Luke 5:18
 
@@ -98,7 +98,7 @@ Which do you think is simpler: to say, ‘Your sins are forgiven,’ or to say, 
 
 ## Luke 5:24
 
-But so that you may know that the Son of Man has authority on earth to forgive sins,” he said to the paralysed man, “I tell you, get up, take your mat and go home.”
+But so that you may know that the Son of Man has authority on earth to forgive sins,” He said to the paralysed man, “I tell you, get up, take your mat and go home.”
 
 ## Luke 5:25
 
@@ -112,11 +112,11 @@ Everyone was amazed and gave praise to God. They were filled with awe and said, 
 
 ## Luke 5:27
 
-After this, Jesus went out and saw a tax collector named Levi sitting at his tax booth. “Follow me,” Jesus said to him,
+After this, Jesus went out and saw a tax collector named Levi sitting at his tax booth. “Follow Me,” Jesus said to him,
 
 ## Luke 5:28
 
-and Levi arose, left everything behind, and followed him.
+and Levi arose, left everything behind, and followed Him.
 
 ## Luke 5:29
 
@@ -124,7 +124,7 @@ Levi held a great banquet for Jesus at his house, and a large crowd of tax colle
 
 ## Luke 5:30
 
-The Pharisees and their scribes grumbled to his disciples, “Why do you eat and drink with tax collectors and sinners?”
+The Pharisees and their scribes grumbled to His disciples, “Why do you eat and drink with tax collectors and sinners?”
 
 ## Luke 5:31
 
@@ -138,11 +138,11 @@ I have come, not to call the righteous, but to call sinners to repent.”
 
 ## Luke 5:33
 
-They said to him, “John’s disciples often fast and pray, and so do the disciples of the Pharisees, but yours eat and drink.”
+They said to Him, “John’s disciples often fast and pray, and so do the disciples of the Pharisees, but Yours eat and drink.”
 
 ## Luke 5:34
 
-Jesus replied, “Can you make the friends of the bridegroom fast while he is with them?
+Jesus replied, “Can you make the friends of the bridegroom fast while He is with them?
 
 ## Luke 5:35
 

@@ -6,7 +6,7 @@ Boaz went up to the town gate and sat down there, and just then, the redeemer Bo
 
 ## Ruth 4:2
 
-Boaz then took ten of the town's elders and said, “Sit here.” And they sat down.
+Boaz then took ten of the town’s elders and said, “Sit here.” And they sat down.
 
 ## Ruth 4:3
 
@@ -36,11 +36,11 @@ The redeemer then told Boaz, “Purchase it yourself.” And he took off his san
 
 ## Ruth 4:9
 
-Then Boaz declared to the elders and all the people, “Today you are witnesses that I have bought from Naomi all that belonged to Elimelech, Kilion, and Mahlon.
+Then Boaz declared to the elders and all the people, “Today you are witnesses that I have bought from Naomi all that belonged to Elimelech, Chilion, and Mahlon.
 
 ## Ruth 4:10
 
-I have also acquired Ruth the Moabitess, Mahlon's widow, to be my wife, to maintain the name of the deceased with his property, so that his name will not disappear from among his family or from his hometown. You are witnesses today.”
+I have also acquired Ruth the Moabitess, Mahlon’s widow, to be my wife, to maintain the name of the deceased with his property, so that his name will not disappear from among his family or from his hometown. You are witnesses today.”
 
 ## Ruth 4:11
 

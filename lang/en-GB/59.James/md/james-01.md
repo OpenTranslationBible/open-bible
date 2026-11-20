@@ -66,7 +66,7 @@ Do not be led astray, my dear brothers and sisters.
 
 ## James 1:17
 
-Every good and perfect gift is from above, descending from the Father of the heavenly lights, who remains constant and unchanging.
+Every good and perfect gift is from above, descending from the Father of the heavenly lights, with whom there is no change or shifting shadow.
 
 ## James 1:18
 

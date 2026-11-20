@@ -6,7 +6,7 @@ For it is unnecessary for me to write to you about this service to the saints;
 
 ## 2 Corinthians 9:2
 
-For I am aware of your eagerness, which I have mentioned to the Macedonians, saying that Achaia has been ready since last year, and your enthusiasm has inspired most of them.
+for I am aware of your eagerness, which I have mentioned to the Macedonians, saying that Achaia has been ready since last year, and your enthusiasm has inspired most of them.
 
 ## 2 Corinthians 9:3
 
@@ -14,7 +14,7 @@ But I have sent the brothers, so that our boasting about you may not be made emp
 
 ## 2 Corinthians 9:4
 
-Otherwise, if any Macedonians come with me and find you unprepared, we—not to mention you—would be put to shame in this confidence.
+otherwise, if any Macedonians come with me and find you unprepared, we—not to mention you—would be put to shame in this confidence.
 
 ## 2 Corinthians 9:5
 
@@ -34,10 +34,10 @@ And God is able to make all grace abound to you, so that, always having all suff
 
 ## 2 Corinthians 9:9
 
-As the scripture says:
+as the scripture says:
 
-> “He scattered abroad, he gave to the poor,  
-> His righteousness endures forever.”
+>  “He scattered abroad, he gave to the poor,  
+>  his righteousness endures forever.”
 
 ## 2 Corinthians 9:10
 
@@ -45,7 +45,7 @@ Now He who provides seed to the sower and bread for food will provide and multip
 
 ## 2 Corinthians 9:11
 
-You will be enriched in every way for all generosity, which through us results in thanksgiving to God.
+you will be enriched in every way for all generosity, which through us results in thanksgiving to God.
 
 ## 2 Corinthians 9:12
 
@@ -57,7 +57,7 @@ Because of the proof given by this ministry, they will glorify God for your obed
 
 ## 2 Corinthians 9:14
 
-While they also, through prayer for you, long for you because of the extraordinary grace of God in you.
+while they also, through prayer for you, long for you because of the extraordinary grace of God in you.
 
 ## 2 Corinthians 9:15
 

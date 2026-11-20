@@ -34,7 +34,7 @@ Finally, be strong in the Lord and in the strength of His mighty power.
 Put on the full armour of God, so that you can stand firm against the devil’s schemes.
 
 ## Ephesians 6:12
-For our struggle is not against mere human opponents, but against the rulers, against the authorities, against the powers of this dark world, and against the spiritual forces of evil in the heavenly realms.
+For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world, and against the spiritual forces of evil in the heavenly realms.
 
 ## Ephesians 6:13
 Therefore, take up the full armour of God, so that you may be able to resist on the evil day, and having done everything, to stand firm.

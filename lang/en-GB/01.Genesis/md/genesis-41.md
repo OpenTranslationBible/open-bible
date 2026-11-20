@@ -66,7 +66,7 @@ Joseph replied to Pharaoh, “It is not in me; God will give Pharaoh an answer o
 
 ## Genesis 41:17
 
-Pharaoh recounted to Joseph, “In my dream, I was stood on the bank of the Nile,
+Pharaoh recounted to Joseph, “In my dream, I was standing on the bank of the Nile,
 
 ## Genesis 41:18
 
@@ -98,7 +98,7 @@ The thin ears swallowed up the seven good ears. I told this to the magicians, bu
 
 ## Genesis 41:25
 
-Then Joseph said to Pharaoh, “Pharaoh's dreams are one and the same. God has revealed to Pharaoh what He intends to do.
+Then Joseph said to Pharaoh, “Pharaoh’s dreams are one and the same. God has revealed to Pharaoh what He intends to do.
 
 ## Genesis 41:26
 

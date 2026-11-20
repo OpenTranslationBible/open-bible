@@ -1,7 +1,7 @@
 # Jeremiah Chapter 48
 
 ## Jeremiah 48:1
-Concerning Moab. This is what the Lord of Hosts, the God of Israel, says: “Woe to Nebo, for it will be destroyed; Kiriathaim will be put to shame and captured; the stronghold will be disgraced and shattered.
+Concerning Moab. This is what the Lord of hosts, the God of Israel, says: “Woe to Nebo, for it will be destroyed; Kiriathaim will be put to shame and captured; the stronghold will be disgraced and shattered.
 
 ## Jeremiah 48:2
 Moab will no longer be praised; in Heshbon they plot her downfall: ‘Come, let us cut her off from being a nation.’ You too, people of Madmen, will be silenced; the sword will pursue you.
@@ -31,7 +31,7 @@ Give wings to Moab, for she will be laid waste; her towns will become desolate, 
 Cursed is anyone who does the Lord’s work negligently! Cursed is anyone who holds back their sword from bloodshed!
 
 ## Jeremiah 48:11
-“Moab has been at ease from youth, like wine settled on its dregs, not poured from vessel to vessel— she has not gone into exile. So she retains her flavour, and her aroma is unchanged.
+“Moab has been at ease from youth, like wine settled on its dregs, not poured from vessel to vessel—she has not gone into exile. So she retains her flavour, and her aroma is unchanged.
 
 ## Jeremiah 48:12
 But days are coming,” declares the Lord, “when I will send those who tip vessels, and they will tip her over; they will empty her jars and smash them.
@@ -43,7 +43,7 @@ Then Moab will be ashamed of Chemosh, as the house of Israel was ashamed when th
 How can you claim, ‘We are warriors, men valiant in battle’?
 
 ## Jeremiah 48:15
-Moab will be destroyed and her towns invaded; her finest young men will go down in the slaughter,” declares the King, whose name is the Lord of Hosts.
+Moab will be destroyed and her towns invaded; her finest young men will go down in the slaughter,” declares the King, whose name is the Lord of hosts.
 
 ## Jeremiah 48:16
 “The disaster of Moab is near at hand; her calamity will come quickly.
@@ -61,7 +61,7 @@ Stand by the road and watch, you who live in Aroer. Ask the man fleeing and the 
 Moab is disgraced, for she is shattered. Wail and cry out! Proclaim by the Arnon that Moab is destroyed.
 
 ## Jeremiah 48:21
-Judgement has come to the plateau— to Holon, Jahzah and Mephaath,
+Judgement has come to the plateau—to Holon, Jahzah and Mephaath,
 
 ## Jeremiah 48:22
 to the cities of Dibon, Nebo and Beth Diblathaim,
@@ -70,7 +70,7 @@ to the cities of Dibon, Nebo and Beth Diblathaim,
 to the towns of Kiriathaim, Beth Gamul and Beth Meon,
 
 ## Jeremiah 48:24
-to Kerioth and Bozrah— to all the towns of Moab, both near and far.
+to Kerioth and Bozrah—to all the towns of Moab, both near and far.
 
 ## Jeremiah 48:25
 Moab’s strength is cut off; her power is broken,” declares the Lord.
@@ -85,13 +85,13 @@ Was not Israel a laughingstock to you? Was she caught among thieves, that you sh
 Leave the towns and dwell among the rocks, you who live in Moab. Be like a dove that nests at the mouth of a cave.
 
 ## Jeremiah 48:29
-We have heard of Moab’s pride—how great is her arrogance!— of her insolence, her pride, her conceit and the haughtiness of her heart.
+We have heard of Moab’s pride—how great is her arrogance!—of her insolence, her pride, her conceit and the haughtiness of her heart.
 
 ## Jeremiah 48:30
 I know her insolence,” declares the Lord, “but it is futile; her boasts accomplish nothing.
 
 ## Jeremiah 48:31
-Therefore I lament over Moab, for all Moab I cry out, I moan for the people of Kir Hareseth.
+Therefore I lament over Moab, for all Moab I cry out, I moan for the people of Kir Heres.
 
 ## Jeremiah 48:32
 I weep for you, as Jazer weeps, you vines of Sibmah. Your branches spread across the sea; they reached as far as Jazer. The destroyer has fallen on your ripened fruit and grapes.
@@ -106,7 +106,7 @@ The lamentation echoes from Heshbon to Elealeh and Jahaz, from Zoar as far as Ho
 In Moab I will bring an end to those who make offerings on the high places and burn incense to their gods,” declares the Lord.
 
 ## Jeremiah 48:36
-“So my heart laments for Moab like the music of flutes; it laments like a pipe for the people of Kir Hareseth. The wealth they acquired is gone.
+“So My heart laments for Moab like the music of flutes; it laments like a pipe for the people of Kir Heres. The wealth they acquired is gone.
 
 ## Jeremiah 48:37
 Every head is shaved and every beard cut off; there are gashes on all the hands and sackcloth around the waists.

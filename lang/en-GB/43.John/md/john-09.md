@@ -160,7 +160,7 @@ Jesus said, “You have now seen Him; indeed, He is the one speaking with you.�
 
 ## John 9:38
 
-The man responded, “Lord, I believe,” and he honoured Him.
+The man responded, “Lord, I believe,” and he worshipped Him.
 
 ---
 
@@ -174,4 +174,4 @@ Some Pharisees who were with Him heard Him say this and asked, “What? Are we a
 
 ## John 9:41
 
-Jesus said, “If you were blind, you would not be guilty of sin; but now that you assert you can see, your guilt remains.
+Jesus said, “If you were blind, you would not be guilty of sin; but now that you assert you can see, your guilt remains.”

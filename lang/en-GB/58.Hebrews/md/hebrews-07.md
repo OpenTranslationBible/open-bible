@@ -38,7 +38,7 @@ So to speak, through Abraham even Levi, who receives tithes, has paid tithes,
 
 ## Hebrews 7:10
 
-for he was not yet born, not yet produced of his ancestors when Melchizedek met him.
+for he was still in the body of his ancestor when Melchizedek met him.
 
 ## Hebrews 7:11
 
@@ -62,14 +62,14 @@ And this becomes even more evident if another priest arises according to the lik
 
 ## Hebrews 7:16
 
-who has become a priest not on the basis of a regulation as to his ancestry, but according to the power of an indestructible life.
+who has become a priest not on the basis of a regulation as to His ancestry, but according to the power of an indestructible life.
 
 ## Hebrews 7:17
 
 For it is declared about Him:
 
-> “You are a priest forever,
-> of the order of Melchizedek.”
+>  “You are a priest forever,
+>  of the order of Melchizedek.”
 
 ## Hebrews 7:18
 
@@ -87,9 +87,9 @@ And it was indeed accompanied by an oath!
 
 For others became priests without any oath, but He became a priest with an oath when God said to Him:
 
-> “The Lord has sworn
-> and will not change His mind:
-> ‘You are a priest forever.’”
+>  “The Lord has sworn and will not change His mind:
+>  ‘You are a priest forever.
+> ’”
 
 ## Hebrews 7:22
 

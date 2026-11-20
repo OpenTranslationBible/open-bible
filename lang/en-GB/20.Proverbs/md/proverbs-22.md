@@ -92,7 +92,7 @@ Do not exploit the poor because they are poor, nor crush the needy in the gate,
 
 ## Proverbs 22:23
 
-for the Lord will take up their cause and will bring about justice.
+for the Lord will take up their cause and will plunder those who rob them.
 
 ---
 

@@ -37,7 +37,7 @@ as well as the anointing oil and the fragrant incense for the Holy Place. They a
 The Lord then said to Moses,
 
 ## Exodus 31:13
-“Speak to the Israelites, saying, ‘You must observe my Sabbaths. This is a sign between me and you for all generations, so that you may know that I am the Lord who makes you holy.
+“Speak to the Israelites, saying, ‘You must observe My Sabbaths. This is a sign between Me and you for all generations, so that you may know that I am the Lord who makes you holy.
 
 ## Exodus 31:14
 Therefore, you must keep the Sabbath, for it is holy to you. Anyone who desecrates it must be put to death; whoever does any work on that day must be cut off from their people.
@@ -49,7 +49,7 @@ For six days work may be done, but the seventh day is a Sabbath of complete rest
 The Israelites shall observe the Sabbath, celebrating it throughout their generations as a lasting covenant.
 
 ## Exodus 31:17
-It is a sign between me and the Israelites forever, for in six days the Lord made the heavens and the earth, and on the seventh day he ceased from labour and was refreshed.’”
+It is a sign between Me and the Israelites forever, for in six days the Lord made the heavens and the earth, and on the seventh day He ceased from labour and was refreshed.’”
 
 ## Exodus 31:18
-When the Lord finished speaking with Moses on Mount Sinai, he gave him the two tablets of the covenant law, tablets of stone inscribed by the finger of God.
+When the Lord finished speaking with Moses on Mount Sinai, He gave him the two tablets of the covenant law, tablets of stone inscribed by the finger of God.

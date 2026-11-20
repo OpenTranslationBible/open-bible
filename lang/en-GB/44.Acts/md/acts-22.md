@@ -14,7 +14,7 @@ When they heard him speaking to them in the Hebrew dialect, they became even mor
 
 ## Acts 22:4
 
-I pursued this Way relentlessly, binding and putting both men and women into prisons,
+I persecuted this Way to the death, binding and putting both men and women into prisons,
 
 ## Acts 22:5
 
@@ -28,11 +28,11 @@ as the high priest and all the Council of the elders can testify. I also receive
 
 ## Acts 22:7
 
-then I fell to the ground and heard a voice that said, ‘Saul, Saul, why are you persecuting me?’
+then I fell to the ground and heard a voice that said, ‘Saul, Saul, why are you persecuting Me?’
 
 ## Acts 22:8
 
-I inquired, ‘Who are you, Lord?’ The reply came, ‘I am Jesus of Nazareth, whom you are persecuting.’
+I inquired, ‘Who are You, Lord?’ The reply came, ‘I am Jesus of Nazareth, whom you are persecuting.’
 
 ## Acts 22:9
 
@@ -50,7 +50,7 @@ Since I could not see because of the brightness of that light, I was led by the 
 
 ## Acts 22:12
 
-“Now a certain Ananias, a man who was devout by the law's standards and well spoken of by all the Jews who lived there,
+“Now a certain Ananias, a man who was devout by the law’s standards and well spoken of by all the Jews who lived there,
 
 ## Acts 22:13
 
@@ -58,15 +58,15 @@ came to me, and standing nearby he said to me, ‘Brother Saul, receive your sig
 
 ## Acts 22:14
 
-And he said, ‘The God of our ancestors has appointed you to know his will and to see the Righteous One and to hear a message from his mouth.
+And he said, ‘The God of our ancestors has appointed you to know His will and to see the Righteous One and to hear a message from His mouth.
 
 ## Acts 22:15
 
-For you will testify for him to all people about what you have seen and heard.
+For you will testify for Him to all people about what you have seen and heard.
 
 ## Acts 22:16
 
-Now why do you delay? Get up, be baptised, and wash away your sins by calling on his name.’
+Now why do you delay? Get up, be baptised, and wash away your sins by calling on His name.’
 
 ---
 
@@ -76,19 +76,19 @@ Now why do you delay? Get up, be baptised, and wash away your sins by calling on
 
 ## Acts 22:18
 
-and I saw him saying to me, ‘Hurry and leave Jerusalem quickly, because they will not accept your testimony about me.’
+and I saw Him saying to me, ‘Hurry and leave Jerusalem quickly, because they will not accept your testimony about Me.’
 
 ## Acts 22:19
 
-And I said, ‘Lord, they themselves know that in one synagogue after another I used to imprison and beat those who believed in you.
+And I said, ‘Lord, they themselves know that in one synagogue after another I used to imprison and beat those who believed in You.
 
 ## Acts 22:20
 
-And when the blood of your martyr Stephen was being shed, I was there, giving my approval and watching over the garments of those who were executing him.’
+And when the blood of Your martyr Stephen was being shed, I was there, giving my approval and watching over the garments of those who were executing him.’
 
 ## Acts 22:21
 
-Then he said to me, ‘Go! For I am sending you far away to the Gentiles.’
+Then He said to me, ‘Go! For I am sending you far away to the Gentiles.’”
 
 ---
 

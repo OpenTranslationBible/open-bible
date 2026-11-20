@@ -34,11 +34,11 @@ For to one is given the word of wisdom through the Spirit, and to another the wo
 
 ## 1 Corinthians 12:9
 
-To another, faith through the same Spirit; and to another, gifts of healing through the one Spirit,
+to another, faith through the same Spirit; and to another, gifts of healing through the one Spirit,
 
 ## 1 Corinthians 12:10
 
-And to another the working of miracles, and to another prophecy, and to another the discernment of spirits, to another various kinds of languages, and to another the interpretation of languages.
+and to another the working of miracles, and to another prophecy, and to another the discernment of spirits, to another various kinds of languages, and to another the interpretation of languages.
 
 ## 1 Corinthians 12:11
 
@@ -90,15 +90,15 @@ On the contrary, it is much more the case that the parts of the body which seem 
 
 ## 1 Corinthians 12:23
 
-And those parts of the body which we consider less honourable, on these we bestow greater honour, and our less presentable parts are treated with greater decorum,
+and those parts of the body which we consider less honourable, on these we bestow greater honour, and our less presentable parts are treated with greater decorum,
 
 ## 1 Corinthians 12:24
 
-Whereas our more presentable parts have no need of it. But God has so composed the body, giving more abundant honour to that part which lacked,
+whereas our more presentable parts have no need of it. But God has so composed the body, giving more abundant honour to that part which lacked,
 
 ## 1 Corinthians 12:25
 
-So that there may be no division in the body, but that the parts may have equal concern for one another.
+so that there may be no division in the body, but that the parts may have equal concern for one another.
 
 ## 1 Corinthians 12:26
 

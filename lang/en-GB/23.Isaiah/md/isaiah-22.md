@@ -50,7 +50,7 @@ On that day, the Lord, the God of hosts, called you to weeping, wailing, shaving
 
 ## Isaiah 22:13
 
-But instead, there is joy and revelry, slaughtering of cattle and killing of sheep, eating of meat and drinking of wine: “Let us eat and drink, for tomorrow we may die.”
+But instead, there is joy and revelry, slaughtering of cattle and killing of sheep, eating of meat and drinking of wine: “Let us eat and drink, for tomorrow we die.”
 
 ## Isaiah 22:14
 
@@ -78,7 +78,7 @@ I will remove you from your office, and you will be pulled down from your positi
 
 ## Isaiah 22:20
 
-And on that day, I will call upon my servant, Eliakim son of Hilkiah.
+And on that day, I will call upon My servant, Eliakim son of Hilkiah.
 
 ## Isaiah 22:21
 

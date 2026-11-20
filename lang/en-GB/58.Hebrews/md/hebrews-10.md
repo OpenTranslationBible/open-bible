@@ -18,28 +18,28 @@ For the blood of bulls and goats cannot remove sins.
 
 ## Hebrews 10:5
 
-Thus, when Christ entered the world, he declared:
+Thus, when Christ entered the world, He declared:
 
-> “Sacrifice and offering you did not desire,
-> but a body you prepared for me;
+>  “Sacrifice and offering You did not desire,
+>  but a body You prepared for Me;
 
 ## Hebrews 10:6
 
-with burnt offerings and sin offerings you found no delight.
+with burnt offerings and sin offerings You found no delight.
 
 ## Hebrews 10:7
 
-> Then I said, ‘Behold, I have come
-> — it is written about me in the scroll of the book
-> — to do your will, O God.’”
+> Then I said, ‘Behold,
+>  I have come—it is written about Me in the scroll of the book—to do Your will,
+>  O God.’”
 
 ## Hebrews 10:8
 
-After saying above, “Sacrifices and offerings, burnt offerings and sin offerings you did not desire, nor were you pleased with them”—though they were offered according to the law—
+After saying above, “Sacrifices and offerings, burnt offerings and sin offerings You did not desire, nor were You pleased with them”—though they were offered according to the law—
 
 ## Hebrews 10:9
 
-then he said, “Behold, I have come to do your will.” He takes away the first to establish the second.
+then He said, “Behold, I have come to do Your will.” He takes away the first to establish the second.
 
 ## Hebrews 10:10
 
@@ -55,29 +55,29 @@ But this priest, having offered one sacrifice for sins for all time, sat down at
 
 ## Hebrews 10:13
 
-awaiting the time when his enemies are made a footstool for his feet.
+awaiting the time when His enemies are made a footstool for His feet.
 
 ## Hebrews 10:14
 
-For with one offering he has perfected forever those who are being sanctified.
+For with one offering He has perfected forever those who are being sanctified.
 
 ## Hebrews 10:15
 
-The Holy Spirit also bears witness to us regarding this. First he says:
+The Holy Spirit also bears witness to us regarding this. First He says:
 
 ## Hebrews 10:16
 
-> “This is the covenant I will make with them
-> after those days, declares the Lord.
-> I will put my laws in their hearts,
-> and I will write them on their minds.”
+> “This is the covenant I will make with them after those days,
+>  declares the Lord.
+>  I will put My laws in their hearts,
+>  and I will write them on their minds.”
 
 ## Hebrews 10:17
 
 He then continues:
 
-> “Their sins and lawless acts
-> I will remember no more.”
+>  “Their sins and lawless acts I will remember no more.
+> ”
 
 ## Hebrews 10:18
 
@@ -89,7 +89,7 @@ Therefore, dear friends, since we have confidence to enter the Most Holy Place b
 
 ## Hebrews 10:20
 
-by a new and living way opened for us through the veil, that is, his flesh,
+by a new and living way opened for us through the veil, that is, His flesh,
 
 ## Hebrews 10:21
 
@@ -101,7 +101,7 @@ let us draw near to God with a sincere heart and with the full assurance of fait
 
 ## Hebrews 10:23
 
-Let us hold firmly to the confession of our hope without wavering, for he who promised is faithful.
+Let us hold firmly to the confession of our hope without wavering, for He who promised is faithful.
 
 ## Hebrews 10:24
 
@@ -129,7 +129,7 @@ How much more severely do you think someone deserves to be punished who has tram
 
 ## Hebrews 10:30
 
-For we are aware of the one who said, “Vengeance belongs to me; I will repay,” and also, “The Lord will judge his people.”
+For we are aware of the one who said, “Vengeance belongs to Me; I will repay,” and also, “The Lord will judge His people.”
 
 ## Hebrews 10:31
 
@@ -153,15 +153,15 @@ Therefore, do not throw away your confidence, which will be richly rewarded.
 
 ## Hebrews 10:36
 
-For you need to persevere so that when you have done the will of God, you may receive what he has promised.
+For you need to persevere so that when you have done the will of God, you may receive what He has promised.
 
 ## Hebrews 10:37
 
-For in a very short time, the one who is coming will arrive and will not delay.
+For, “In a very short time, the one who is coming will arrive and will not delay.
 
 ## Hebrews 10:38
 
-But my righteous one will live by faith. And I take no pleasure in the one who shrinks back.
+But My righteous one will live by faith. And I take no pleasure in the one who shrinks back.”
 
 ## Hebrews 10:39
 

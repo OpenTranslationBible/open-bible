@@ -26,7 +26,7 @@ and her settlements on the mainland will be slain by the sword. Then they will k
 
 ## Ezekiel 26:7
 
-For this is what the Sovereign Lord says: Behold, I am going to bring against Tyre Nebuchadnezzar king of Babylon, king of kings, with horses, chariots, cavalry, and a great army.
+For this is what the Sovereign Lord says: Behold, I am going to bring against Tyre from the north Nebuchadnezzar king of Babylon, king of kings, with horses, chariots, cavalry, and a great army.
 
 ## Ezekiel 26:8
 
@@ -68,19 +68,18 @@ Then all the princes of the sea will descend from their thrones, remove their ro
 
 They will take up a lament concerning you and say to you:
 
-> ‘How you are destroyed,
-> city of renown,
-> peopled by men of the sea!
-> You were a power on the seas,
-> you and your citizens;
-> you put your terror on all who lived there.
+>  ‘How you are destroyed,
+>  city of renown,
+>  peopled by men of the sea!
+>  You were a power on the seas,
+>  you and your citizens;
+>  you put your terror on all who lived there.
 
 ## Ezekiel 26:18
 
-> The coastlands now shudder
-> on the day of your downfall;
-> the islands in the sea
-> are in terror at your collapse.’
+> The coastlands now shudder on the day of your downfall;
+>  the islands in the sea are in terror at your collapse.
+> ’
 
 ## Ezekiel 26:19
 

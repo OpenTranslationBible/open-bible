@@ -10,7 +10,7 @@ If anyone believes he possesses knowledge, he does not yet know as he should;
 
 ## 1 Corinthians 8:3
 
-But whoever loves God, is known by Him.
+but whoever loves God is known by Him.
 
 ## 1 Corinthians 8:4
 
@@ -18,11 +18,11 @@ Therefore, regarding the eating of food offered to idols, we understand that an 
 
 ## 1 Corinthians 8:5
 
-For even if there are those called ‘gods’, whether in heaven or on earth, as indeed there are many ‘gods’ and many ‘lords’,
+For even if there are those called “gods”, whether in heaven or on earth, as indeed there are many “gods” and many “lords”,
 
 ## 1 Corinthians 8:6
 
-Yet for us there is only one God, the Father, from whom are all things, and we exist for Him; and one Lord, Jesus Christ, through whom are all things, and we exist through Him.
+yet for us there is only one God, the Father, from whom are all things, and we exist for Him; and one Lord, Jesus Christ, through whom are all things, and we exist through Him.
 
 ## 1 Corinthians 8:7
 

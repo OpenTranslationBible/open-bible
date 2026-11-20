@@ -10,7 +10,7 @@ For you are aware of the instruction we provided you through the authority of th
 
 ## 1 Thessalonians 4:3
 
-For this is God's desire for you, your sanctification: that you refrain from sexual immorality;
+For this is God’s desire for you, your sanctification: that you refrain from sexual immorality;
 
 ## 1 Thessalonians 4:4
 

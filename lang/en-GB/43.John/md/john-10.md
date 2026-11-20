@@ -10,7 +10,7 @@ But the one who enters by the gate is the shepherd of the sheep.
 
 ## John 10:3
 
-The gatekeeper allows him to enter, and the sheep come then they hear his voice. He calls his own sheep by name and they follow him.
+The gatekeeper allows him to enter, and the sheep listen to his voice. He calls his own sheep by name and leads them out.
 
 ## John 10:4
 
@@ -22,7 +22,7 @@ They will not follow a stranger; instead, they will flee from him because they d
 
 ## John 10:6
 
-Jesus used this figure of speech, but they did not understand what he was saying to them.
+Jesus used this figure of speech, but they did not understand what He was saying to them.
 
 ---
 
@@ -32,11 +32,11 @@ So Jesus said again, “Truly, truly I say to you, I am the gate for the sheep.
 
 ## John 10:8
 
-All who came before me were like thieves and robbers, but the sheep did not listen to them.
+All who came before Me were thieves and robbers, but the sheep did not listen to them.
 
 ## John 10:9
 
-I am the gate; whoever enters through me will be saved and will go in and out and find pasture.
+I am the gate; whoever enters through Me will be saved and will go in and out and find pasture.
 
 ## John 10:10
 
@@ -46,7 +46,7 @@ The thief comes only to steal, kill, and destroy; I have come so that they may h
 
 ## John 10:11
 
-“I am the good shepherd. The good shepherd is willing to give his life for the sheep.
+“I am the good shepherd. The good shepherd lays down His life for the sheep.
 
 ## John 10:12
 
@@ -58,23 +58,23 @@ He runs away because he is a hired hand and has no concern for the sheep.
 
 ## John 10:14
 
-“I am the good shepherd; I recognise my own sheep, and my own sheep recognise me—
+“I am the good shepherd; I recognise My own sheep, and My own sheep recognise Me—
 
 ## John 10:15
 
-just as the Father knows me and I know the Father; and I am willing to give my life for the sheep.
+just as the Father knows Me and I know the Father; and I lay down My life for the sheep.
 
 ## John 10:16
 
-I have other sheep that are not of this fold. I must bring them also, and they will listen to my voice, and there will be one flock, one shepherd.
+I have other sheep that are not of this fold. I must bring them also, and they will listen to My voice, and there will be one flock, one shepherd.
 
 ## John 10:17
 
-This is why the Father loves me, because I lay down my life so that I may take it back.
+This is why the Father loves Me, because I lay down My life so that I may take it back.
 
 ## John 10:18
 
-No one takes it from me, but I lay it down of my own accord. I have the authority to lay it down and the authority to take it back. This command I received from my Father.”
+No one takes it from Me, but I lay it down of My own accord. I have the authority to lay it down and the authority to take it back. This command I received from My Father.”
 
 ---
 
@@ -84,7 +84,7 @@ A division arose again among the Jews because of these words.
 
 ## John 10:20
 
-Many of them said, “He has a demon and is mad. Why listen to him?”
+Many of them said, “He has a demon and is mad. Why listen to Him?”
 
 ## John 10:21
 
@@ -102,27 +102,27 @@ and Jesus was walking in the temple courts in Solomon’s Colonnade.
 
 ## John 10:24
 
-The Jews gathered around him, saying, “How long will you keep us in suspense? If you are the Messiah, tell us plainly.”
+The Jews gathered around Him, saying, “How long will You keep us in suspense? If You are the Messiah, tell us plainly.”
 
 ## John 10:25
 
-Jesus answered, “I told you, and you do not believe. The works I do in my Father’s name testify about me,
+Jesus answered, “I told you, and you do not believe. The works I do in My Father’s name testify about Me,
 
 ## John 10:26
 
-but you do not believe because you do not belong to my flock.
+but you do not believe because you do not belong to My flock.
 
 ## John 10:27
 
-For my sheep hear my voice; I know them, and they follow me.
+For My sheep hear My voice; I know them, and they follow Me.
 
 ## John 10:28
 
-I give them eternal life, and they shall never perish; no one will take them from my hand.
+I give them eternal life, and they shall never perish; no one will take them from My hand.
 
 ## John 10:29
 
-My Father, who has given them to me, is greater than all; no one can take them from the Father’s hand.
+My Father, who has given them to Me, is greater than all; no one can take them from the Father’s hand.
 
 ## John 10:30
 
@@ -132,15 +132,15 @@ The Father and I are one.”
 
 ## John 10:31
 
-At this, the crowd picked up stones again to stone him.
+At this, the crowd picked up stones again to stone Him.
 
 ## John 10:32
 
-Jesus said to them, “I have shown you many good works from the Father. For which of these are you stoning me?”
+Jesus said to them, “I have shown you many good works from the Father. For which of these are you stoning Me?”
 
 ## John 10:33
 
-The Jews answered, “We are not stoning you for any good work, but for blasphemy, because you, a mere man, claim to be God.”
+The Jews answered, “We are not stoning You for any good work, but for blasphemy, because You, a mere man, claim to be God.”
 
 ## John 10:34
 
@@ -152,29 +152,29 @@ If he called them ‘gods,’ to whom the word of God came—and Scripture canno
 
 ## John 10:36
 
-what about the one whom the Father set apart and sent into the world? Why then do you accuse me of blasphemy because I said, ‘I am God’s Son’?
+what about the one whom the Father set apart and sent into the world? Why then do you accuse Me of blasphemy because I said, ‘I am God’s Son’?
 
 ## John 10:37
 
-If I cannot do the works of my Father, do not believe me.
+If I do not do the works of My Father, do not believe Me.
 
 ## John 10:38
 
-But if I do do them, even if you don't believe me, believe in the works, so that you may know and understand that the Father is in me, and I in the Father.”
+But if I do them, even if you don’t believe Me, believe in the works, so that you may know and understand that the Father is in Me, and I in the Father.”
 
 ## John 10:39
 
-Once more they tried to seize him, but he slipped away from their grasp.
+Once more they tried to seize Him, but He slipped away from their grasp.
 
 ---
 
 ## John 10:40
 
-He went back across the Jordan to the place where John had been baptising earlier, and he stayed there.
+He went back across the Jordan to the place where John had been baptising earlier, and He stayed there.
 
 ## John 10:41
 
-Many people came to him and said, “Though John performed no sign, everything John said about this man was true.”
+Many people came to Him and said, “Though John performed no sign, everything John said about this man was true.”
 
 ## John 10:42
 

@@ -16,7 +16,7 @@ Consider ships as well: despite their size and being driven by strong winds, the
 Similarly, the tongue is a small part of the body, yet it boasts of great things. See how a large forest can be set ablaze by a small spark!
 
 ## James 3:6
-The tongue is also a fire, a world of iniquity among the parts of the body. It corrupts the whole body, sets the course of one's life on fire, and is itself set on fire by hell.
+The tongue is also a fire, a world of iniquity among the parts of the body. It corrupts the whole body, sets the course of one’s life on fire, and is itself set on fire by hell.
 
 ## James 3:7
 All kinds of animals, birds, reptiles, and sea creatures are tamed and have been tamed by humanity,
@@ -25,7 +25,7 @@ All kinds of animals, birds, reptiles, and sea creatures are tamed and have been
 but no human can tame the tongue. It is a restless evil, full of deadly poison.
 
 ## James 3:9
-With it we bless our Lord and Father, and with it we curse people, who are made in God's likeness.
+With it we bless our Lord and Father, and with it we curse people, who are made in God’s likeness.
 
 ## James 3:10
 Out of the same mouth come blessing and cursing. My brothers and sisters, this ought not to be so.

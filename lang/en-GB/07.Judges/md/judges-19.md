@@ -64,7 +64,7 @@ They stopped to spend the night in Gibeah. They sat in the city square, but no o
 
 ## Judges 19:16
 
-That evening, an old man came in from his work in the fields. He was from the hill country of Ephraim and was living in Gibeah, though the people there were Benjaminites.
+That evening, an old man came in from his work in the fields. He was from the hill country of Ephraim and was living in Gibeah, though the people there were Benjamites.
 
 ## Judges 19:17
 

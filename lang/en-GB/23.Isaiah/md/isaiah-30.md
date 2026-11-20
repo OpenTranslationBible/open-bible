@@ -1,10 +1,10 @@
 # Isaiah Chapter 30
 
 ## Isaiah 30:1
-“Woe to the stubborn children,” declares the Lord, “who execute plans that are not mine, and forge alliances not of my Spirit, adding sin upon sin;
+“Woe to the stubborn children,” declares the Lord, “who execute plans that are not Mine, and forge alliances not of My Spirit, adding sin upon sin;
 
 ## Isaiah 30:2
-who go down to Egypt without consulting me, seeking refuge in Pharaoh’s protection and shelter in Egypt’s shadow.
+who go down to Egypt without consulting Me, seeking refuge in Pharaoh’s protection and shelter in Egypt’s shadow.
 
 ## Isaiah 30:3
 But Pharaoh’s protection will be your shame, and the shelter in Egypt’s shadow your disgrace.
@@ -52,13 +52,13 @@ You said, ‘No, we will flee on horses.’ Therefore you will flee! You said, �
 A thousand will flee at the threat of one; at the threat of five you will all flee away, until you are left like a flagstaff on a mountaintop, like a banner on a hill.”
 
 ## Isaiah 30:18
-Yet the Lord longs to be gracious to you; therefore he will rise to show you compassion. For the Lord is a God of justice. Blessed are all who wait for him!
+Yet the Lord longs to be gracious to you; therefore He will rise to show you compassion. For the Lord is a God of justice. Blessed are all who wait for Him!
 
 ## Isaiah 30:19
-People of Zion, who dwell in Jerusalem, you will weep no more. How gracious he will be when you cry for help! As soon as he hears, he will answer you.
+People of Zion, who dwell in Jerusalem, you will weep no more. How gracious He will be when you cry for help! As soon as He hears, He will answer you.
 
 ## Isaiah 30:20
-Although the Lord gives you the bread of adversity and the water of affliction, your Teacher will no longer hide himself; your eyes will see your Teacher.
+Although the Lord gives you the bread of adversity and the water of affliction, your Teacher will no longer hide Himself; your eyes will see your Teacher.
 
 ## Isaiah 30:21
 Wherever you turn, your ears will hear a voice behind you, saying, “This is the way; walk in it.”
@@ -76,10 +76,10 @@ The oxen and donkeys that work the soil will eat seasoned feed, spread out with 
 On every high mountain and lofty hill there will be streams of water on the day of the great slaughter, when the towers fall.
 
 ## Isaiah 30:26
-The light of the moon will be like the light of the sun, and the light of the sun will be seven times brighter, like the light of seven days, when the Lord binds up the bruises of his people and heals the wounds he inflicted.
+The light of the moon will be like the light of the sun, and the light of the sun will be seven times brighter, like the light of seven days, when the Lord binds up the bruises of His people and heals the wounds He inflicted.
 
 ## Isaiah 30:27
-Behold, the name of the Lord comes from afar, with burning anger and dense clouds of smoke; his lips are full of wrath, and his tongue is like a consuming fire.
+Behold, the name of the Lord comes from afar, with burning anger and dense clouds of smoke; His lips are full of wrath, and His tongue is like a consuming fire.
 
 ## Isaiah 30:28
 His breath is like an overflowing river, reaching up to the neck, to shake the nations in the sieve of destruction, and to place in the jaws of the peoples a bridle that leads them astray.
@@ -88,13 +88,13 @@ His breath is like an overflowing river, reaching up to the neck, to shake the n
 You will have songs as in the night when you celebrate a holy festival; your hearts will rejoice as when people playing pipes go up to the mountain of the Lord, to the Rock of Israel.
 
 ## Isaiah 30:30
-The Lord will cause his majestic voice to be heard and will make them see his arm coming down with furious anger and consuming fire, with cloudburst, thunderstorm, and hailstones.
+The Lord will cause His majestic voice to be heard and will make them see His arm coming down with furious anger and consuming fire, with cloudburst, thunderstorm, and hailstones.
 
 ## Isaiah 30:31
-At the voice of the Lord, Assyria will be shattered; he will strike them with his rod.
+At the voice of the Lord, Assyria will be shattered; He will strike them with His rod.
 
 ## Isaiah 30:32
-Every blow the Lord lays on them with his punishing club will be to the music of tambourines and lyres, as he fights them in battle with the blows of his arm.
+Every blow the Lord lays on them with His punishing club will be to the music of tambourines and lyres, as He fights them in battle with the blows of His arm.
 
 ## Isaiah 30:33
 For Topheth has long been prepared; it has been made ready for the king. Its pyre is deep and wide, with an abundance of fire and wood; the breath of the Lord, like a stream of burning sulphur, sets it ablaze.

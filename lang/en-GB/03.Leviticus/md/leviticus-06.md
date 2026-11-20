@@ -16,7 +16,7 @@ when they sin in any of these ways and realise their guilt, they must restore wh
 or whatever it was they swore falsely about. They must make restitution in full, adding a fifth of the value to it, and give it to the rightful owner on the day they present their guilt offering.
 
 ## Leviticus 6:6
-As a penalty, they must bring to the priest, their guilt offering to the Lord, a ram without defect from the flock, of the proper value.
+As a penalty, they must bring to the priest their guilt offering to the Lord, a ram without defect from the flock, of the proper value.
 
 ## Leviticus 6:7
 In this way, the priest shall make atonement for them before the Lord, and they will be forgiven for any of the things they did that made them guilty.”
@@ -49,7 +49,7 @@ The priest shall take a handful of the finest flour of the grain offering, with 
 Aaron and his sons shall eat the rest of it. It shall be eaten as unleavened bread in a holy place; they are to eat it in the courtyard of the tent of meeting.
 
 ## Leviticus 6:17
-It must be prepared without yeast. I have given it as their share of the food offerings presented to me. Like the sin offering and the guilt offering, it is most holy.
+It must be prepared without yeast. I have given it as their share of the food offerings presented to Me. Like the sin offering and the guilt offering, it is most holy.
 
 ## Leviticus 6:18
 Every male among Aaron’s descendants may eat it. It is a perpetual share of the food offerings presented to the Lord for all generations. Whoever touches them will become holy.’”

@@ -3,8 +3,8 @@
 ## 1 Chronicles 9:1
 
 Thus, all Israel was recorded in genealogies,  
-and indeed, they are documented in the Book of the Kings of Israel.  
-And Judah was taken into exile to Babylon due to their unfaithfulness.
+ and indeed, they are documented in the Book of the Kings of Israel.  
+ And Judah was taken into exile to Babylon due to their unfaithfulness.
 
 ---
 
@@ -12,7 +12,7 @@ And Judah was taken into exile to Babylon due to their unfaithfulness.
 
 Now the first who lived in their possessions in their cities were:
 
-> Israelites, priests, Levites, and the temple servants.
+>  Israelites, priests, Levites, and the temple servants.
 
 ---
 
@@ -25,7 +25,7 @@ Some descendants of Judah, Benjamin, Ephraim, and Manasseh resided in Jerusalem:
 ## 1 Chronicles 9:4
 
 > Uthai, descendant of Ammihud, Omri, Imri, and Bani,  
-> from the lineage of Perez, son of Judah.
+>  from the lineage of Perez, son of Judah.
 
 ---
 
@@ -48,15 +48,15 @@ Some descendants of Judah, Benjamin, Ephraim, and Manasseh resided in Jerusalem:
 ## 1 Chronicles 9:8
 
 > along with Ibneiah, descendant of Jeroham,  
-> and Elah, descendant of Uzzi and Michri,  
-> and Meshullam, descendant of Shephatiah, Reuel, and Ibnijah;
+>  and Elah, descendant of Uzzi and Michri,  
+>  and Meshullam, descendant of Shephatiah, Reuel, and Ibnijah;
 
 ---
 
 ## 1 Chronicles 9:9
 
 > and their relatives according to their generations, 956.  
-> All these were leaders of their fathers’ households according to their family lines.
+>  All these were leaders of their fathers’ households according to their family lines.
 
 ---
 
@@ -75,7 +75,7 @@ Some descendants of Judah, Benjamin, Ephraim, and Manasseh resided in Jerusalem:
 ## 1 Chronicles 9:12
 
 > and Adaiah, descendant of Jeroham, Pashhur, and Malchijah;  
-> and Maasai, descendant of Adiel, Jahzerah, Meshullam, Meshillemith, and Immer;
+>  and Maasai, descendant of Adiel, Jahzerah, Meshullam, Meshillemith, and Immer;
 
 ---
 
@@ -94,14 +94,14 @@ Some descendants of Judah, Benjamin, Ephraim, and Manasseh resided in Jerusalem:
 ## 1 Chronicles 9:15
 
 > and Bakbakkar, Heresh, and Galal;  
-> and Mattaniah, descendant of Mica, Zichri, and Asaph;
+>  and Mattaniah, descendant of Mica, Zichri, and Asaph;
 
 ---
 
 ## 1 Chronicles 9:16
 
 > and Obadiah, descendant of Shemaiah, Galal, and Jeduthun;  
-> and Berechiah, descendant of Asa and Elkanah, who lived in the settlements of the Netophathites.
+>  and Berechiah, descendant of Asa and Elkanah, who lived in the settlements of the Netophathites.
 
 ---
 
@@ -109,32 +109,32 @@ Some descendants of Judah, Benjamin, Ephraim, and Manasseh resided in Jerusalem:
 
 Now the gatekeepers were:
 
-> Shallum, Akkub, Talmon, Ahiman, and their relatives.  
-> Shallum was the chief.
+>  Shallum, Akkub, Talmon, Ahiman, and their relatives.  
+>  Shallum was the chief.
 
 ---
 
 ## 1 Chronicles 9:18
 
 Until now he had been at the king’s gate to the east.  
-These were the gatekeepers for the camp of the sons of Levi.
+ These were the gatekeepers for the camp of the sons of Levi.
 
 ---
 
 ## 1 Chronicles 9:19
 
 Shallum, descendant of Kore, Ebiasaph, and Korah,  
-and his relatives of his father’s household, the Korahites,  
-were over the work of the service, keepers of the thresholds of the tent.
+ and his relatives of his father’s household, the Korahites,  
+ were over the work of the service, keepers of the thresholds of the tent.
 
-> And their fathers had been over the camp of the Lord, keepers of the entrance.
+>  And their fathers had been over the camp of the Lord, keepers of the entrance.
 
 ---
 
 ## 1 Chronicles 9:20
 
 Phinehas, descendant of Eleazar, had been ruler over them previously,  
-and the Lord was with him.
+ and the Lord was with him.
 
 ---
 
@@ -147,9 +147,9 @@ Zechariah, son of Meshelemiah, served as gatekeeper at the entrance of the tent 
 ## 1 Chronicles 9:22
 
 All of those chosen to be gatekeepers at the thresholds were 212.  
-These were enrolled by genealogy in their settlements,
+ These were enrolled by genealogy in their settlements,
 
-> those whom David and Samuel the seer appointed in their office of trust.
+>  those whom David and Samuel the seer appointed in their office of trust.
 
 ---
 
@@ -157,7 +157,7 @@ These were enrolled by genealogy in their settlements,
 
 So they and their sons had oversight of the gates of the house of the Lord,
 
-> namely, the house of the tent, as guards.
+>  namely, the house of the tent, as guards.
 
 ---
 
@@ -165,7 +165,7 @@ So they and their sons had oversight of the gates of the house of the Lord,
 
 The gatekeepers were stationed on all four sides:
 
-> to the east, west, north, and south.
+>  to the east, west, north, and south.
 
 ---
 
@@ -178,30 +178,30 @@ Their relatives from their settlements would join them every seven days periodic
 ## 1 Chronicles 9:26
 
 for the four chief gatekeepers, who were Levites,  
-were entrusted with the rooms and with the treasuries in the house of God.
+ were entrusted with the rooms and with the treasuries in the house of God.
 
 ---
 
 ## 1 Chronicles 9:27
 
 They spent the night around the house of God,  
-because the watch was entrusted to them;
+ because the watch was entrusted to them;
 
-> and they were in charge of opening it morning by morning.
+>  and they were in charge of opening it morning by morning.
 
 ---
 
 ## 1 Chronicles 9:28
 
 Now some of them were responsible for the utensils of service,  
-for they counted them when they brought them in and when they took them out.
+ for they counted them when they brought them in and when they took them out.
 
 ---
 
 ## 1 Chronicles 9:29
 
 Some of them also were appointed over the furniture and over all the utensils of the sanctuary,  
-and over the fine flour, the wine, the oil, the frankincense, and the spices.
+ and over the fine flour, the wine, the oil, the frankincense, and the spices.
 
 ---
 
@@ -215,30 +215,29 @@ Certain descendants of the priests were tasked with preparing the mixture of the
 
 Mattithiah, one of the Levites, who was the firstborn of Shallum the Korahite,
 
-> had the responsibility for the baking of flat cakes in pans.
+>  had the responsibility for the baking of flat cakes in pans.
 
 ---
 
 ## 1 Chronicles 9:32
 
-Some of their relatives from the sons of the Kohathites  
-were in charge of the showbread to prepare it every Sabbath.
+Some of their relatives from the sons of the Kohathites were in charge of the showbread to prepare it every Sabbath.
 
 ---
 
 ## 1 Chronicles 9:33
 
 Now these are the singers, leaders of the fathers’ households of the Levites,  
-who lived in the chambers of the temple exempt from other service,  
-for they were engaged in their work day and night.
+ who lived in the chambers of the temple exempt from other service,  
+ for they were engaged in their work day and night.
 
 ---
 
 ## 1 Chronicles 9:34
 
-These were leaders of the fathers’ households of the Levites  
-according to their generations, chief men,  
-who lived in Jerusalem.
+These were leaders of the fathers’  
+ households of the Levites according to their generations, chief men,  
+ who lived in Jerusalem.
 
 ---
 
@@ -246,7 +245,7 @@ who lived in Jerusalem.
 
 In Gibeon, Jeiel the father of Gibeon lived,
 
-> and the name of his wife was Maacah.
+>  and the name of his wife was Maacah.
 
 ---
 
@@ -264,7 +263,7 @@ also Gedor, Ahio, Zechariah, and Mikloth.
 
 Mikloth fathered Shimeam.
 
-> They also lived with their relatives in Jerusalem opposite their other relatives.
+>  They also lived with their relatives in Jerusalem opposite their other relatives.
 
 ---
 
@@ -272,23 +271,23 @@ Mikloth fathered Shimeam.
 
 Ner was father to Kish, and Kish was father to Saul;
 
-> Saul was father to Jonathan, Malchi-shua, Abinadab, and Eshbaal.
+>  Saul was father to Jonathan, Malchi-shua, Abinadab, and Eshbaal.
 
 ---
 
 ## 1 Chronicles 9:40
 
-Jonathan's son was Merib-baal,
+Jonathan’s son was Merib-baal,
 
-> and Merib-baal was father to Micah.
+>  and Merib-baal was father to Micah.
 
 ---
 
 ## 1 Chronicles 9:41
 
-Micah's sons included:
+Micah’s sons included:
 
-> Pithon, Melech, Tahrea, and Ahaz.
+>  Pithon, Melech, Tahrea, and Ahaz.
 
 ---
 
@@ -296,8 +295,8 @@ Micah's sons included:
 
 Ahaz was father to Jarah,
 
-> and Jarah was father to Alemeth, Azmaveth, and Zimri;  
-> and Zimri was father to Moza;
+>  and Jarah was father to Alemeth, Azmaveth, and Zimri;  
+>  and Zimri was father to Moza;
 
 ---
 
@@ -305,9 +304,9 @@ Ahaz was father to Jarah,
 
 Moza was father to Binea,
 
-> and his son was Rephaiah,  
-> his son was Eleasah,  
-> and his son was Azel.
+>  and his son was Rephaiah,  
+>  his son was Eleasah,  
+>  and his son was Azel.
 
 ---
 
@@ -315,5 +314,5 @@ Moza was father to Binea,
 
 Azel had six sons named:
 
-> Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan.  
-> These were the sons of Azel.
+>  Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan.  
+>  These were the sons of Azel.

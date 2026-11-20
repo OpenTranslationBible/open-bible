@@ -18,7 +18,7 @@ These are the Lord’s appointed times, holy assemblies, which you shall proclai
 
 ## Leviticus 23:5
 
-On the fourteenth day of the first month at twilight, the Lord's Passover is observed.
+On the fourteenth day of the first month at twilight, the Lord’s Passover is observed.
 
 ## Leviticus 23:6
 

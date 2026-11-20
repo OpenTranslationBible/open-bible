@@ -14,7 +14,7 @@ The letter was given to Elasah son of Shaphan and Gemariah son of Hilkiah, whom 
 
 ## Jeremiah 29:4
 
-This is what the Lord of Hosts, the God of Israel, says to all the exiles whom I have sent from Jerusalem to Babylon:
+This is what the Lord of hosts, the God of Israel, says to all the exiles whom I have sent from Jerusalem to Babylon:
 
 ## Jeremiah 29:5
 
@@ -30,7 +30,7 @@ Seek the welfare of the city where I have sent you into exile, and pray to the L
 
 ## Jeremiah 29:8
 
-For thus says the Lord of Hosts, the God of Israel: “Do not be deceived by the prophets and diviners who are among you, and do not heed the dreams you cause them to dream.
+For thus says the Lord of hosts, the God of Israel: “Do not be deceived by the prophets and diviners who are among you, and do not heed the dreams you cause them to dream.
 
 ## Jeremiah 29:9
 
@@ -46,7 +46,7 @@ For I know the plans I have for you,” declares the Lord, “plans to prosper y
 
 ## Jeremiah 29:12
 
-Then you will call upon Me, come to me and pray, and I will listen to you.
+Then you will call upon Me, come to Me and pray, and I will listen to you.
 
 ## Jeremiah 29:13
 
@@ -66,7 +66,7 @@ this is what the Lord says concerning the king who sits on David’s throne and 
 
 ## Jeremiah 29:17
 
-this is what the Lord of Hosts says: “Behold, I am sending the sword, famine, and plague against them, and I will make them like figs that are so bad they cannot be eaten.
+this is what the Lord of hosts says: “Behold, I am sending the sword, famine, and plague against them, and I will make them like figs that are so bad they cannot be eaten.
 
 ## Jeremiah 29:18
 
@@ -82,7 +82,7 @@ So, listen to the word of the Lord, all you exiles whom I have sent away from Je
 
 ## Jeremiah 29:21
 
-This is what the Lord of Hosts, the God of Israel, says concerning Ahab son of Kolaiah and Zedekiah son of Maaseiah, who are prophesying falsehoods to you in My name: “Behold, I will deliver them into the hand of Nebuchadnezzar king of Babylon, and he will slay them before your eyes.
+This is what the Lord of hosts, the God of Israel, says concerning Ahab son of Kolaiah and Zedekiah son of Maaseiah, who are prophesying falsehoods to you in My name: “Behold, I will deliver them into the hand of Nebuchadnezzar king of Babylon, and he will slay them before your eyes.
 
 ## Jeremiah 29:22
 
@@ -98,7 +98,7 @@ Speak to Shemaiah the Nehelamite, saying,
 
 ## Jeremiah 29:25
 
-This is what the Lord of Hosts, the God of Israel, says: “Because you have sent letters in your own name to all the people in Jerusalem, to the priest Zephaniah son of Maaseiah, and to all the priests, saying,
+This is what the Lord of hosts, the God of Israel, says: “Because you have sent letters in your own name to all the people in Jerusalem, to the priest Zephaniah son of Maaseiah, and to all the priests, saying,
 
 ## Jeremiah 29:26
 

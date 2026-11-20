@@ -10,7 +10,7 @@ They will be spread out before the sun, the moon, and all the stars of the heave
 
 ## Jeremiah 8:3
 
-And death will be chosen over life by all the remnant that remains of this wicked nation, wherever I have driven them,” declares the Lord of Hosts.
+And death will be chosen over life by all the remnant that remains of this wicked nation, wherever I have driven them,” declares the Lord of hosts.
 
 ---
 
@@ -28,7 +28,7 @@ I have listened carefully, but they do not speak what is right. No one repents o
 
 ## Jeremiah 8:7
 
-Even the stork in the sky knows her appointed times, and the turtledove, the swift, and the crane observe the time of their migration. But my people do not know the requirements of the Lord.
+Even the stork in the sky knows her appointed times, and the turtledove, the swift, and the crane observe the time of their migration. But My people do not know the requirements of the Lord.
 
 ## Jeremiah 8:8
 
@@ -44,7 +44,7 @@ Therefore I will give their wives to others, and their fields to new owners. Fro
 
 ## Jeremiah 8:11
 
-They have treated the wound of my people superficially, saying, ‘Peace, peace,’ when there is no peace.
+They have treated the wound of My people superficially, saying, ‘Peace, peace,’ when there is no peace.
 
 ## Jeremiah 8:12
 
@@ -76,11 +76,11 @@ My grief is beyond healing, my heart is faint within me.
 
 ## Jeremiah 8:19
 
-Listen to the cry of my people from a distant land: “Is the Lord not in Zion? Is her King not within her?” “Why have they provoked me with their carved images, with foreign idols?”
+Listen to the cry of my people from a distant land: “Is the Lord not in Zion? Is her King not within her?” “Why have they provoked Me with their carved images, with foreign idols?”
 
 ## Jeremiah 8:20
 
-“The harvest season has passed, the summer is not over, and yet we have not been saved.”
+“The harvest season has passed, the summer has ended, and yet we have not been saved.”
 
 ## Jeremiah 8:21
 

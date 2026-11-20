@@ -60,9 +60,9 @@ The second woe is past; behold, the third woe is coming swiftly.
 
 The seventh angel sounded his trumpet, and there were loud voices in heaven, declaring,
 
-> “The kingdom of the world has become
-> the kingdom of our Lord and of His Messiah,
-> and He shall reign forever and ever.”
+>  “The kingdom of the world has become the kingdom of our Lord and of His Messiah,
+>  and He shall reign forever and ever.
+> ”
 
 ## Revelation 11:16
 
@@ -70,22 +70,21 @@ And the twenty-four elders, seated on their thrones before God, fell on their fa
 
 ## Revelation 11:17
 
-They proclaimed,
+they proclaimed,
 
-> “We give thanks to You, Lord God Almighty,
-> the One who is and who was,
-> because You have taken Your great power
-> and have begun to reign.
+>  “We give thanks to You, Lord God Almighty,
+>  the One who is and who was,
+>  because You have taken Your great power and have begun to reign.
 
 ## Revelation 11:18
 
 > The nations were enraged,
-> and Your wrath has come.
-> The time has arrived for judging the dead,
-> and for rewarding Your servants the prophets
-> and the saints, and those who fear Your name,
-> both small and great,
-> and for destroying those who destroy the earth.”
+>  and Your wrath has come.
+>  The time has arrived for judging the dead,
+>  and for rewarding Your servants the prophets and the saints,
+>  and those who fear Your name,
+>  both small and great,
+>  and for destroying those who destroy the earth.”
 
 ## Revelation 11:19
 

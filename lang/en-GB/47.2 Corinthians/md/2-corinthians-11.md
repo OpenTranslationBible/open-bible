@@ -30,11 +30,11 @@ Or did I commit a wrong by lowering myself so that you might be elevated, becaus
 
 ## 2 Corinthians 11:8
 
-I took support from other churches, accepting their aid to serve you;
+I robbed other churches, accepting their aid to serve you;
 
 ## 2 Corinthians 11:9
 
-And when I was with you and in need, I did not burden anyone; for when the brothers came from Macedonia, they fully supplied my need, and in everything I kept myself from being a burden to you, and will continue to do so.
+and when I was with you and in need, I did not burden anyone; for when the brothers came from Macedonia, they fully supplied my need, and in everything I kept myself from being a burden to you, and will continue to do so.
 
 ## 2 Corinthians 11:10
 

@@ -19,7 +19,7 @@ Though it has not seen the sun or known anything, it finds more rest than that m
 Even if he lives two thousand years but does not enjoy his prosperity—do not all go to the same place?
 
 ## Ecclesiastes 6:7
-All one's labour is for the mouth, yet the appetite is never satisfied.
+All one’s labour is for the mouth, yet the appetite is never satisfied.
 
 ## Ecclesiastes 6:8
 What advantage does the wise have over the fool? What benefit does the poor have in knowing how to conduct themselves among the living?

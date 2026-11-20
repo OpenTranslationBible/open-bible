@@ -11,15 +11,15 @@
 
 ## Psalm 67:2
 
-> So that Your ways may be recognised across the earth,  
-> Your deliverance among all nations.
+> so that Your ways may be recognised across the earth,  
+>  Your deliverance among all nations.
 
 ---
 
 ## Psalm 67:3
 
 > Let the peoples give You praise, God;  
-> Let all the peoples give You praise.
+>  let all the peoples give You praise.
 
 ## Psalm 67:4
 
@@ -32,16 +32,16 @@
 ## Psalm 67:5
 
 > Let the peoples give You praise, God;  
-> Let all the peoples give You praise.
+>  let all the peoples give You praise.
 
 ---
 
 ## Psalm 67:6
 
 > The earth has brought forth its harvest;  
-> God, our God, bestows His blessings upon us.
+>  God, our God, bestows His blessings upon us.
 
 ## Psalm 67:7
 
 > God bestows His blessings upon us,  
-> So that all the ends of the earth may hold Him in reverence.
+>  so that all the ends of the earth may hold Him in reverence.

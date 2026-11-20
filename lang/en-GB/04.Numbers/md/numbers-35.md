@@ -22,7 +22,7 @@ Measure two thousand cubits outside the town on the east, south, west, and north
 In total, you must allocate forty-eight towns to the Levites, along with their pasturelands.
 
 ## Numbers 35:8
-The towns you allocate to the Levites from the Israelites' land should be proportional to the inheritance of each tribe: take more towns from a tribe with a larger inheritance, and fewer from one with a smaller inheritance.”
+The towns you allocate to the Levites from the Israelites’ land should be proportional to the inheritance of each tribe: take more towns from a tribe with a larger inheritance, and fewer from one with a smaller inheritance.”
 
 ## Numbers 35:9
 The Lord then spoke to Moses, saying,
@@ -61,7 +61,7 @@ The avenger of blood is to execute the murderer; when the avenger encounters the
 If someone pushes another out of hatred, or throws something at them with malicious intent, resulting in death,
 
 ## Numbers 35:21
-or if someone strikes another with hostility, causing death, the perpetrator is a murderer and must be put to death. The avenger of blood shall execute the murderer when they meet.
+or if someone strikes another with his hand in hostility, causing death, the perpetrator is a murderer and must be put to death. The avenger of blood shall execute the murderer when they meet.
 
 ## Numbers 35:22
 “‘However, if someone pushes another suddenly without hostility, or throws any object at them without malicious intent,

@@ -12,7 +12,7 @@ The Lord said to Gideon, “You have too many people with you for Me to deliver 
 
 Now, therefore, proclaim in the hearing of the people, ‘Whoever is afraid and trembling, let him return and depart from Mount Gilead.’”
 
-So twenty-two thousand of the people returned, but ten thousand remained.
+ So twenty-two thousand of the people returned, but ten thousand remained.
 
 ## Judges 7:4
 

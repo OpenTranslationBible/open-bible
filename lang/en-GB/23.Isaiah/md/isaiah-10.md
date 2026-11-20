@@ -6,7 +6,7 @@ Woe to those who craft unjust laws and to those who continually record harmful d
 
 ## Isaiah 10:2
 
-to deny justice to the needy and rob the poor of my people of their rights, making widows their spoil and plundering the fatherless.
+to deny justice to the needy and rob the poor of My people of their rights, making widows their spoil and plundering the fatherless.
 
 ## Isaiah 10:3
 
@@ -14,17 +14,17 @@ What will you do on the day of judgement, when devastation comes from afar? To w
 
 ## Isaiah 10:4
 
-All that remains is to crouch among the captives or fall among the slain. Yet despite all this, his anger does not turn away, and his hand remains outstretched.
+All that remains is to crouch among the captives or fall among the slain. Yet despite all this, His anger does not turn away, and His hand remains outstretched.
 
 ---
 
 ## Isaiah 10:5
 
-Woe to Assyria, the rod of my anger, in whose hand is the staff of my indignation.
+Woe to Assyria, the rod of My anger, in whose hand is the staff of My indignation.
 
 ## Isaiah 10:6
 
-I send him against a godless nation, and I commission him against the people of my wrath, to capture spoils and seize plunder, and to trample them down like mud in the streets.
+I send him against a godless nation, and I commission him against the people of My wrath, to capture spoils and seize plunder, and to trample them down like mud in the streets.
 
 ## Isaiah 10:7
 
@@ -48,7 +48,7 @@ shall I not do to Jerusalem and her images what I have done to Samaria and her i
 
 ## Isaiah 10:12
 
-When the Lord has completed all his work against Mount Zion and Jerusalem, he will say, “I will punish the fruit of the arrogant heart of the king of Assyria and the proud look in his eyes.”
+When the Lord has completed all His work against Mount Zion and Jerusalem, He will say, “I will punish the fruit of the arrogant heart of the king of Assyria and the proud look in his eyes.”
 
 ## Isaiah 10:13
 
@@ -102,11 +102,11 @@ Therefore, this is what the Lord, the Lord of hosts, says: “My people who dwel
 
 ## Isaiah 10:25
 
-For in a very little while, my indignation against you will end, and my wrath will be directed towards their destruction.”
+For in a very little while, My indignation against you will end, and My wrath will be directed towards their destruction.”
 
 ## Isaiah 10:26
 
-The Lord of hosts will wield a whip against them, as he did when he struck down Midian at the rock of Oreb; and he will raise his staff over the sea, as he did in Egypt.
+The Lord of hosts will wield a whip against them, as He did when He struck down Midian at the rock of Oreb; and he will raise His staff over the sea, as He did in Egypt.
 
 ## Isaiah 10:27
 

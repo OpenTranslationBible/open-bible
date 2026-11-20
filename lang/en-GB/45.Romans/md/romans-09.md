@@ -50,7 +50,7 @@ not by works but by Him who calls, she was told, “The older will serve the you
 
 ## Romans 9:13
 
-As it is expressed in the Scriptures: “Jacob I loved, but Esau I did not favour.”
+As it is expressed in the Scriptures: “Jacob I loved, but Esau I hated.”
 
 ## Romans 9:14
 
@@ -60,8 +60,8 @@ What are we to conclude? Is there any injustice with God? Absolutely not!
 
 For He declared to Moses,
 
-> “I will show mercy to whom I choose to show mercy,
-> and I will show compassion to whom I choose to show compassion.”
+>  “I will show mercy to whom I choose to show mercy,
+>  and I will show compassion to whom I choose to show compassion.”
 
 ## Romans 9:16
 
@@ -69,7 +69,7 @@ So it does not depend on human desire or effort, but on God’s mercy.
 
 ## Romans 9:17
 
-For the Scripture says to Pharaoh, “I raised you up for this very purpose, that I might show my power in you and that my name might be proclaimed in all the earth.”
+For the Scripture says to Pharaoh, “I raised you up for this very purpose, that I might show My power in you and that My name might be proclaimed in all the earth.”
 
 ## Romans 9:18
 
@@ -81,7 +81,7 @@ You might then ask, “Why does He still find fault? For who can oppose His will
 
 ## Romans 9:20
 
-But who are you, a mere human, to talk back to God? Shall what is formed say to the one who formed it, “Why did you make me like this?”
+But who are you, a mere human, to talk back to God? Shall what is formed say to the one who formed it, “Why did You make me like this?”
 
 ## Romans 9:21
 
@@ -103,35 +103,35 @@ including us, whom He also called, not only from the Jews but also from the Gent
 
 As He says in Hosea:
 
-> “I will call them ‘my people’ who were not my people,
-> and I will call her ‘my loved one’ who was not my loved one,”
+>  “I will call them ‘My people’ who were not My people,
+>  and I will call her ‘My loved one’ who was not My loved one,”
 
 ## Romans 9:26
 
 > and, “It shall be that in the place where it was said to them,
-> ‘You are not my people,’
-> there they will be called ‘children of the living God.’”
+>  ‘You are not My people,’
+>  there they will be called ‘children of the living God.’”
 
 ## Romans 9:27
 
 Isaiah declares regarding Israel:
 
-> “Though the number of the Israelites be like the sand by the sea,
-> only the remnant will be saved.
+>  “Though the number of the Israelites be like the sand by the sea,
+>  only the remnant will be saved.
 
 ## Romans 9:28
 
 > For the Lord will carry out His word on the earth,
-> thoroughly and quickly.”
+>  thoroughly and quickly.”
 
 ## Romans 9:29
 
 And just as Isaiah said previously:
 
-> “Unless the Lord Almighty
-> had left us descendants,
-> we would have become like Sodom,
-> and would have been like Gomorrah.”
+>  “Unless the Lord of hosts had left us descendants,
+>  we would have become like Sodom,
+>  and would have been like Gomorrah.
+> ”
 
 ## Romans 9:30
 
@@ -149,6 +149,6 @@ Why not? Because they pursued it not by faith, but as though it were by works. T
 
 as Scripture says:
 
-> “See, I lay in Zion a stone that causes people to stumble
-> and a rock that makes them fall,
-> and the one who believes in Him will never be put to shame.”
+>  “See, I lay in Zion a stone that causes people to stumble and a rock that makes them fall,
+>  and the one who believes in Him will never be put to shame.
+> ”

@@ -93,4 +93,4 @@ When Samuel heard all that the people said, he conveyed it to the Lord.
 ## 1 Samuel 8:22
 
 And the Lord said to Samuel, “Listen to them and appoint a king for them.”  
-Then Samuel said to the men of Israel, “Each of you go back to your own town.”
+ Then Samuel said to the men of Israel, “Each of you go back to your own town.”

@@ -49,10 +49,10 @@ Sarah was afraid, so she denied it, saying, “I did not laugh.” But He said, 
 When the men rose up to leave, they looked down towards Sodom, and Abraham walked with them to see them on their way.
 
 ## Genesis 18:17
-The Lord considered, “Shall I keep from Abraham what I am going to do?
+The Lord considered, “Shall I keep from Abraham what I am going to do,
 
 ## Genesis 18:18
-Since Abraham will surely become a great and powerful nation, and all nations on earth will be blessed through him.
+since Abraham will surely become a great and powerful nation, and all nations on earth will be blessed through him?
 
 ## Genesis 18:19
 For I have chosen him, so that he may command his children and his household after him to keep the way of the Lord by doing what is right and just, so that the Lord may bring about for Abraham what He has promised him.”
@@ -61,19 +61,19 @@ For I have chosen him, so that he may command his children and his household aft
 Then the Lord said, “The outcry against Sodom and Gomorrah is indeed great, and their sin is exceedingly grave.
 
 ## Genesis 18:21
-I will go down now and see if what they have done is as bad as the outcry that has reached me. If not, I will know.”
+I will go down now and see if what they have done is as bad as the outcry that has reached Me. If not, I will know.”
 
 ## Genesis 18:22
 The men turned and headed towards Sodom, while Abraham remained in the presence of the Lord.
 
 ## Genesis 18:23
-Abraham approached Him and said, “Will you indeed sweep away the righteous with the wicked?
+Abraham approached Him and said, “Will You indeed sweep away the righteous with the wicked?
 
 ## Genesis 18:24
-Suppose there are fifty righteous people in the city; will you really sweep it away and not spare the place for the sake of the fifty righteous who are in it?
+Suppose there are fifty righteous people in the city; will You really sweep it away and not spare the place for the sake of the fifty righteous who are in it?
 
 ## Genesis 18:25
-Far be it from you to do such a thing—to kill the righteous with the wicked, treating the righteous and the wicked alike. Far be it from you! Shall not the Judge of all the earth do what is just?”
+Far be it from You to do such a thing—to kill the righteous with the wicked, treating the righteous and the wicked alike. Far be it from You! Shall not the Judge of all the earth do what is just?”
 
 ## Genesis 18:26
 The Lord said, “If I find fifty righteous people in the city of Sodom, I will spare the entire place for their sake.”
@@ -82,7 +82,7 @@ The Lord said, “If I find fifty righteous people in the city of Sodom, I will 
 Then Abraham spoke up again: “Now that I have been so bold as to speak to the Lord, although I am nothing but dust and ashes,
 
 ## Genesis 18:28
-suppose the fifty righteous are lacking five, will you destroy the entire city for lack of five?” He said, “I will not destroy it if I find forty-five there.”
+suppose the fifty righteous are lacking five, will You destroy the entire city for lack of five?” He said, “I will not destroy it if I find forty-five there.”
 
 ## Genesis 18:29
 He spoke to Him again, “Suppose forty are found there?” He said, “For the sake of forty, I will not do it.”

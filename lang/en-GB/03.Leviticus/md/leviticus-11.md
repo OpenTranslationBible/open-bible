@@ -34,7 +34,7 @@ You are not to consume their meat or handle their carcasses; they are considered
 
 ## Leviticus 11:9
 
-“‘Of all the creatures living in the water, you may eat any that have fins and scales.
+“‘Of all the creatures living in the water, whether in the seas or in the streams, you may eat any that have fins and scales.
 
 ## Leviticus 11:10
 

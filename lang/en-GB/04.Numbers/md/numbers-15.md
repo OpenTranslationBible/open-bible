@@ -162,4 +162,4 @@ Then you will remember to obey all My commands and will be dedicated to your God
 
 ## Numbers 15:41
 
-I am the Lord your God, who delivered you from Egypt to be your God.”
+I am the Lord your God, who delivered you from Egypt to be your God. I am the Lord your God.”

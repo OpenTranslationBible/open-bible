@@ -19,7 +19,7 @@ When the Lamb opened the third seal, I heard the third living creature say, “C
 Then I heard what seemed to be a voice among the four living creatures, saying, “A quart of wheat for a denarius, and three quarts of barley for a denarius; and do not harm the oil and the wine.”
 
 ## Revelation 6:7
-As the Lamb opened the fourth seal, I heard the fourth living creature's voice say, “Come!”
+As the Lamb opened the fourth seal, I heard the fourth living creature’s voice say, “Come!”
 
 ## Revelation 6:8
 I looked, and there was a pale horse! Its rider was named Death, and Hades followed closely behind him. They were given authority over a fourth of the earth, to kill with sword, famine, plague, and by the wild beasts of the earth.
@@ -28,13 +28,13 @@ I looked, and there was a pale horse! Its rider was named Death, and Hades follo
 When the Lamb opened the fifth seal, I saw beneath the altar the souls of those who had been slain for the word of God and for the testimony they had maintained.
 
 ## Revelation 6:10
-They cried out in a loud voice, “How long, Sovereign Lord, holy and true, until you judge the inhabitants of the earth and avenge our blood?”
+They cried out in a loud voice, “How long, Sovereign Lord, holy and true, until You judge the inhabitants of the earth and avenge our blood?”
 
 ## Revelation 6:11
 Then each of them was given a white robe, and they were told to rest a little while longer, until the number of their fellow servants and their brothers and sisters, who were to be killed as they had been, was completed.
 
 ## Revelation 6:12
-I watched as he opened the sixth seal. There was a great earthquake; the sun became black like sackcloth made of hair, and the whole moon turned blood red,
+I watched as He opened the sixth seal. There was a great earthquake; the sun became black like sackcloth made of hair, and the whole moon turned blood red,
 
 ## Revelation 6:13
 and the stars of the sky fell to the earth, as a fig tree sheds its unripe figs when shaken by a strong wind.

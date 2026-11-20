@@ -86,7 +86,7 @@ Now according to the ordinance of his father David, he appointed the divisions o
 
 ## 2 Chronicles 8:15
 
-And they adhered faithfully to the king's command to the priests and Levites in every matter, including the storehouses.
+And they adhered faithfully to the king’s command to the priests and Levites in every matter, including the storehouses.
 
 ---
 

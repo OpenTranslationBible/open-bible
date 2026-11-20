@@ -19,13 +19,13 @@ An area 25,000 cubits in length and 10,000 cubits in width shall belong to the L
 “‘You shall allocate the city an area 5,000 cubits wide and 25,000 cubits long, adjoining the holy portion; it will belong to all the house of Israel.
 
 ## Ezekiel 45:7
-“‘The prince shall have land on either side of the holy district and the city's property, extending westward and eastward, parallel to one of the tribal portions, from the western to the eastern border.
+“‘The prince shall have land on either side of the holy district and the city’s property, extending westward and eastward, parallel to one of the tribal portions, from the western to the eastern border.
 
 ## Ezekiel 45:8
-This land shall be his possession in Israel, and my princes shall no longer oppress my people, but they shall allow the house of Israel to possess the land according to their tribes.
+This land shall be his possession in Israel, and My princes shall no longer oppress My people, but they shall allow the house of Israel to possess the land according to their tribes.
 
 ## Ezekiel 45:9
-“‘This is what the Sovereign Lord says: Enough, you princes of Israel! Put away violence and oppression and practise justice and righteousness. Stop evicting my people, declares the Sovereign Lord.
+“‘This is what the Sovereign Lord says: Enough, you princes of Israel! Put away violence and oppression and practise justice and righteousness. Stop evicting My people, declares the Sovereign Lord.
 
 ## Ezekiel 45:10
 You shall have accurate scales, an accurate ephah, and an accurate bath.

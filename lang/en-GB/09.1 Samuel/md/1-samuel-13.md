@@ -45,7 +45,7 @@ As soon as he had finished offering the burnt offering, behold, Samuel came. Sau
 ## 1 Samuel 13:11
 
 But Samuel said, “What have you done?”  
-And Saul replied, “When I saw that the people were scattering from me, and that you did not come within the appointed days, and that the Philistines were assembling at Michmash,
+ And Saul replied, “When I saw that the people were scattering from me, and that you did not come within the appointed days, and that the Philistines were assembling at Michmash,
 
 ## 1 Samuel 13:12
 
