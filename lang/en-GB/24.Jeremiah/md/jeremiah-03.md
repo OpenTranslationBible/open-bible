@@ -2,7 +2,7 @@
 
 ## Jeremiah 3:1
 
-The Lord says, “If a man divorces his wife and she departs from him to become another man's wife, should he return to her again? Would not the land be thoroughly defiled? Yet you have acted as a harlot with numerous lovers; would you return to me?” declares the Lord.
+The Lord says, “If a man divorces his wife and she departs from him to become another man’s wife, should he return to her again? Would not the land be thoroughly defiled? Yet you have acted as a harlot with numerous lovers; would you return to Me?” declares the Lord.
 
 ## Jeremiah 3:2
 
@@ -14,11 +14,11 @@ As a result, the showers have been withheld, and there has been no spring rain. 
 
 ## Jeremiah 3:4
 
-Have you not just called out to me: ‘My Father, you are the companion of my youth,
+Have you not just called out to Me: ‘My Father, You are the companion of my youth,
 
 ## Jeremiah 3:5
 
-will you be angry forever? Will your wrath persist to the end?’ This is what you say, but you continue to do all the evil you can.”
+will You be angry forever? Will Your wrath persist to the end?’ This is what you say, but you continue to do all the evil you can.”
 
 ## Jeremiah 3:6
 
@@ -26,7 +26,7 @@ During the days of King Josiah, the Lord said to me, “Have you seen what faith
 
 ## Jeremiah 3:7
 
-I thought, ‘After she has done all this, she will return to me,’ but she did not return, and her unfaithful sister Judah saw it.
+I thought, ‘After she has done all this, she will return to Me,’ but she did not return, and her unfaithful sister Judah saw it.
 
 ## Jeremiah 3:8
 
@@ -38,7 +38,7 @@ Because of her casual immorality, she defiled the land and committed adultery wi
 
 ## Jeremiah 3:10
 
-Despite all this, her unfaithful sister Judah did not return to me with all her heart, but only in pretence,” declares the Lord.
+Despite all this, her unfaithful sister Judah did not return to Me with all her heart, but only in pretence,” declares the Lord.
 
 ## Jeremiah 3:11
 
@@ -50,7 +50,7 @@ Go and proclaim this message toward the north: ‘Return, faithless Israel,’ d
 
 ## Jeremiah 3:13
 
-Only acknowledge your guilt— that you have rebelled against the Lord your God, scattered your favours to foreign gods under every spreading tree, and have not obeyed my voice,’ declares the Lord.
+Only acknowledge your guilt—that you have rebelled against the Lord your God, scattered your favours to foreign gods under every spreading tree, and have not obeyed My voice,’” declares the Lord.
 
 ## Jeremiah 3:14
 
@@ -58,7 +58,7 @@ Only acknowledge your guilt— that you have rebelled against the Lord your God,
 
 ## Jeremiah 3:15
 
-Then I will give you shepherds after my own heart, who will guide you with knowledge and understanding.
+Then I will give you shepherds after My own heart, who will guide you with knowledge and understanding.
 
 ## Jeremiah 3:16
 
@@ -74,11 +74,11 @@ In those days the house of Judah will walk with the house of Israel, and togethe
 
 ## Jeremiah 3:19
 
-“I said, ‘How gladly would I treat you as sons and give you a pleasant land, the most beautiful inheritance of any nation.’ I thought you would call me ‘Father’ and not turn away from following me.
+“I said, ‘How gladly would I treat you as sons and give you a pleasant land, the most beautiful inheritance of any nation.’ I thought you would call Me ‘Father’ and not turn away from following Me.
 
 ## Jeremiah 3:20
 
-But just as a woman is unfaithful to her husband, so you, Israel, have been unfaithful to me,” declares the Lord.
+But just as a woman is unfaithful to her husband, so you, Israel, have been unfaithful to Me,” declares the Lord.
 
 ## Jeremiah 3:21
 
@@ -86,7 +86,7 @@ A voice is heard on the barren heights, the weeping and pleading of the people o
 
 ## Jeremiah 3:22
 
-“Return, faithless people; I will heal your backsliding.” “Yes, we will come to you, for you are the Lord our God.
+“Return, faithless people; I will heal your backsliding.” “Yes, we will come to You, for You are the Lord our God.
 
 ## Jeremiah 3:23
 

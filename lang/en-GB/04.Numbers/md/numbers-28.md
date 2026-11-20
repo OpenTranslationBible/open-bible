@@ -6,7 +6,7 @@ The Lord then spoke to Moses, saying these words,
 
 ## Numbers 28:2
 
-“Command the Israelites and say to them: ‘Be careful to present to me my offerings, my food offerings by fire, as a pleasing aroma to me, at their appointed times.’
+“Command the Israelites and say to them: ‘Be careful to present to Me My offerings, My food offerings by fire, as a pleasing aroma to Me, at their appointed times.’
 
 ## Numbers 28:3
 
@@ -70,7 +70,7 @@ On the fifteenth day of this month there is to be a festival; for seven days eat
 
 ## Numbers 28:18
 
-On the first day hold a sacred assembly and do no labourious work.
+On the first day hold a sacred assembly and do no laborious work.
 
 ## Numbers 28:19
 
@@ -98,11 +98,11 @@ In this manner present the food offering every day for seven days as a pleasing 
 
 ## Numbers 28:25
 
-On the seventh day hold a sacred assembly and do no labourious work.
+On the seventh day hold a sacred assembly and do no laborious work.
 
 ## Numbers 28:26
 
-“‘On the day of firstfruits, when you present to the Lord an offering of new grain during the Feast of Weeks, hold a sacred assembly and do no labourious work.
+“‘On the day of firstfruits, when you present to the Lord an offering of new grain during the Feast of Weeks, hold a sacred assembly and do no laborious work.
 
 ## Numbers 28:27
 

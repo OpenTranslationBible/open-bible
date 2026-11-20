@@ -79,4 +79,4 @@ Know and understand this: From the issuing of the decree to restore and rebuild 
 After the sixty-two ‘sevens,’ the Anointed One will be cut off and will have nothing. The people of the ruler who is to come will destroy the city and the sanctuary. The end will come with a flood; war will continue until the end, and desolations have been decreed.
 
 ## Daniel 9:27
-He will make a firm agreement with many for one ‘seven.’ In the middle of the ‘seven,’ he will bring an end to sacrifice and offering. And at the temple, he will establish an abomination that causes desolation, until the end that is decreed is poured out on him.
+He will make a firm agreement with many for one ‘seven.’ In the middle of the ‘seven,’ he will bring an end to sacrifice and offering. And at the temple, he will establish an abomination that causes desolation, until the end that is decreed is poured out on him.”

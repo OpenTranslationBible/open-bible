@@ -70,7 +70,7 @@ He took the elders of the town and disciplined the men of Succoth with desert th
 
 ## Judges 8:17
 
-He also brought down the tower of Penuel and dealt with the men of the city.
+He also brought down the tower of Penuel and killed the men of the city.
 
 ## Judges 8:18
 
@@ -120,7 +120,7 @@ Thus Midian was subdued before the Israelites and did not rise again. During Gid
 
 ## Judges 8:29
 
-Jerub-Baal son of Joash went back to live in his own house.
+Jerubbaal son of Joash went back to live in his own house.
 
 ## Judges 8:30
 
@@ -144,4 +144,4 @@ They did not remember the Lord their God, who had rescued them from the hands of
 
 ## Judges 8:35
 
-They also failed to show kindness to the family of Jerub-Baal (that is, Gideon) despite all the good things he had done for Israel.
+They also failed to show kindness to the family of Jerubbaal (that is, Gideon) despite all the good things he had done for Israel.

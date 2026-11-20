@@ -46,7 +46,7 @@ and they used them to buy the potter’s field, as the Lord directed me.”
 
 ## Matthew 27:11
 
-Jesus stood before the governor, who asked Him, “Are you the King of the Jews?” Jesus replied, “You say so.”
+Jesus stood before the governor, who asked Him, “Are You the King of the Jews?” Jesus replied, “You say so.”
 
 ## Matthew 27:12
 
@@ -54,7 +54,7 @@ When accused by the chief priests and elders, He gave no answer.
 
 ## Matthew 27:13
 
-Then Pilate said to Him, “Do you not hear the many charges they bring against you?”
+Then Pilate said to Him, “Do You not hear the many charges they bring against You?”
 
 ## Matthew 27:14
 
@@ -84,7 +84,7 @@ While Pilate was sitting on the judgement seat, his wife sent him a message: “
 
 ## Matthew 27:20
 
-However, the chief priests and the elders convinced the crowd to ask for Barabbas and to demand Jesus' execution.
+However, the chief priests and the elders convinced the crowd to ask for Barabbas and to demand Jesus’ execution.
 
 ## Matthew 27:21
 
@@ -140,7 +140,7 @@ As they were going out, they found a man from Cyrene named Simon, whom they forc
 
 ## Matthew 27:33
 
-They arrived at a place called Golgotha, which is translated as "The Place of the Skull."
+They arrived at a place called Golgotha, which is translated as “The Place of the Skull.”
 
 ## Matthew 27:34
 
@@ -196,7 +196,7 @@ From noon until three in the afternoon, darkness covered all the land.
 
 ## Matthew 27:46
 
-Around three in the afternoon, Jesus cried out in a loud voice, “Eli, Eli, lema sabachthani?” which means, “My God, my God, why have you forsaken me?”
+Around three in the afternoon, Jesus cried out in a loud voice, “Eli, Eli, lema sabachthani?” which means, “My God, My God, why have You forsaken Me?”
 
 ## Matthew 27:47
 

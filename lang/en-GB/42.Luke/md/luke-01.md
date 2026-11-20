@@ -104,7 +104,7 @@ After these days his wife Elizabeth conceived, and she kept herself in seclusion
 
 ## Luke 1:25
 
-“The Lord has done this for me. In these days he has shown his favour and taken away my disgrace among the people.”
+“The Lord has done this for me. In these days He has shown His favour and taken away my disgrace among the people.”
 
 ---
 
@@ -114,7 +114,7 @@ In the sixth month, God sent the angel Gabriel to a city in Galilee named Nazare
 
 ## Luke 1:27
 
-to a young woman engaged to a man named Joseph, of the house of David. The young woman’s name was Mary.
+to a virgin engaged to a man named Joseph, of the house of David. The virgin’s name was Mary.
 
 ## Luke 1:28
 
@@ -130,15 +130,15 @@ The angel said to her, “Do not be afraid, Mary; you have found favour with God
 
 ## Luke 1:31
 
-You will conceive and give birth to a son, and you shall call him Jesus.
+You will conceive and give birth to a son, and you shall call Him Jesus.
 
 ## Luke 1:32
 
-He will be great and will be called the Son of the Most High. The Lord God will give him the throne of his ancestor David,
+He will be great and will be called the Son of the Most High. The Lord God will give Him the throne of His ancestor David,
 
 ## Luke 1:33
 
-and he will reign over Jacob’s descendants forever; his kingdom will have no end.”
+and He will reign over Jacob’s descendants forever; His kingdom will have no end.”
 
 ## Luke 1:34
 
@@ -172,11 +172,11 @@ where she entered the home of Zechariah and greeted Elizabeth.
 
 ## Luke 1:41
 
-Upon hearing Mary’s greeting, the baby moved within her, and Elizabeth was filled with the Holy Spirit.
+Upon hearing Mary’s greeting, the baby leaped within her, and Elizabeth was filled with the Holy Spirit.
 
 ## Luke 1:42
 
-With a loud voice she exclaimed, “You are blessed among women, and blessed is the child you will bear!
+With a loud voice she exclaimed, “You are blessed among women, and blessed is the fruit of your womb!
 
 ## Luke 1:43
 
@@ -188,7 +188,7 @@ For as soon as your greeting reached my ears, the baby in my womb leaped for joy
 
 ## Luke 1:45
 
-Blessed is she who believed that the Lord would fulfil his promises to her!”
+Blessed is she who believed that the Lord would fulfil His promises to her!”
 
 ---
 
@@ -202,19 +202,19 @@ and my spirit is glad in God my Saviour,
 
 ## Luke 1:48
 
-for he has noticed the humble state of his servant. From now on all generations will call me blessed,
+for He has noticed the humble state of His servant. From now on all generations will call me blessed,
 
 ## Luke 1:49
 
-for the Mighty One has done great things for me—holy is his name.
+for the Mighty One has done great things for me—holy is His name.
 
 ## Luke 1:50
 
-His mercy is upon those who fear him, from generation to generation.
+His mercy is upon those who fear Him, from generation to generation.
 
 ## Luke 1:51
 
-He has shown strength with his arm; he has scattered those who are proud in their inmost thoughts.
+He has shown strength with His arm; He has scattered those who are proud in their inmost thoughts.
 
 ## Luke 1:52
 
@@ -226,11 +226,11 @@ He has satisfied the hungry with good things and sent the rich away empty-handed
 
 ## Luke 1:54
 
-He has come to the aid of his servant Israel, and remembered his mercy
+He has come to the aid of His servant Israel, and remembered His mercy
 
 ## Luke 1:55
 
-to Abraham and his descendants forever, just as he promised our forefathers.”
+to Abraham and his descendants forever, just as He promised our forefathers.”
 
 ---
 
@@ -289,59 +289,55 @@ Zechariah, his father, was filled with the Holy Spirit and began to prophesy:
 ## Luke 1:68
 
 > “Praise be to the Lord, the God of Israel,
-> for he has come to his people and brought them redemption.
+>  for He has come to His people and brought them redemption.
 
 ## Luke 1:69
 
-> He has raised a mighty saviour for us
-> in the house of his servant David,
+> He has raised up a horn of salvation for us in the house of His servant David,
 
 ## Luke 1:70
 
-> just as he spoke through his holy prophets of long ago,
+> just as He spoke through His holy prophets of long ago,
 
 ## Luke 1:71
 
-> to save us from our enemies
-> from the hand of all who detest us—
+> to save us from our enemies and from the hand of all who detest us—
 
 ## Luke 1:72
 
-> to show kindness to our ancestors
-> and to remember his sacred covenant,
+> to show kindness to our ancestors and to remember His sacred covenant,
 
 ## Luke 1:73
 
-> the promise he made to our father Abraham:
+> the promise He made to our father Abraham:
 
 ## Luke 1:74
 
 > to save us from the hand of our enemies,
-> so we may serve him without fear
+>  so we may serve Him without fear
 
 ## Luke 1:75
 
-> in holiness and righteousness before him, throughout all the days of our lives.
+> in holiness and righteousness before Him, throughout all the days of our lives.
 
 ## Luke 1:76
 
 > And you, my child, will be called a prophet of the Most High;
-> for you will go on ahead of the Lord to prepare his way,
+>  for you will go on ahead of the Lord to prepare His way,
 
 ## Luke 1:77
 
-> to give his people the understanding of salvation
-> through the forgiveness of their sins,
+> to give His people the understanding of salvation through the forgiveness of their sins,
 
 ## Luke 1:78
 
 > because of the tender mercy of our God,
-> by which the dawn from heaven will visit us
+>  by which the dawn from heaven will visit us
 
 ## Luke 1:79
 
 > to shine on those dwelling in darkness and in the shadow of death,
-> to guide our feet into the way of peace.”
+>  to guide our feet into the way of peace.”
 
 ---
 

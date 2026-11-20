@@ -15,7 +15,7 @@ The king of Israel said to his servants, “Don’t you know that Ramoth-gilead 
 ## 1 Kings 22:4
 
 So he asked Jehoshaphat, “Will you go with me to fight at Ramoth-gilead?”  
-Jehoshaphat answered the king of Israel, “I am as you are; my people as your people, my horses as your horses.”
+ Jehoshaphat answered the king of Israel, “I am as you are; my people as your people, my horses as your horses.”
 
 ---
 
@@ -26,7 +26,7 @@ But Jehoshaphat said to the king of Israel, “First, seek the word of the Lord.
 ## 1 Kings 22:6
 
 So the king of Israel brought together the prophets—about four hundred men—and asked them, “Shall I go to war against Ramoth-gilead, or shall I refrain?”  
-They answered, “Go, for the Lord will give it into the hand of the king.”
+ They answered, “Go, for the Lord will give it into the hand of the king.”
 
 ## 1 Kings 22:7
 
@@ -35,7 +35,7 @@ But Jehoshaphat asked, “Is there not still a prophet of the Lord here whom we 
 ## 1 Kings 22:8
 
 The king of Israel said to Jehoshaphat, “There is still one man through whom we can inquire of the Lord, but I hate him because he never prophesies anything good about me—only disaster. He is Micaiah son of Imlah.”  
-Jehoshaphat replied, “The king should not speak like that.”
+ Jehoshaphat replied, “The king should not speak like that.”
 
 ## 1 Kings 22:9
 
@@ -49,7 +49,7 @@ Now the king of Israel and Jehoshaphat king of Judah were sitting on their thron
 
 ## 1 Kings 22:11
 
-Zedekiah son of Kenaanah had made iron horns, and he said, “This is what the Lord says: With these you will gore the Arameans until they are destroyed.”
+Zedekiah son of Chenaanah had made iron horns, and he said, “This is what the Lord says: With these you will gore the Arameans until they are destroyed.”
 
 ## 1 Kings 22:12
 
@@ -70,7 +70,7 @@ But Micaiah said, “As surely as the Lord lives, I will say only what the Lord 
 ## 1 Kings 22:15
 
 When he arrived before the king, the king asked him, “Micaiah, shall we go to war against Ramoth-gilead, or not?”  
-He answered, “Go and triumph, for the Lord will give it into the hand of the king.”
+ He answered, “Go and triumph, for the Lord will give it into the hand of the king.”
 
 ## 1 Kings 22:16
 
@@ -79,9 +79,9 @@ The king then asked him, “How many times must I insist that you speak nothing 
 ## 1 Kings 22:17
 
 Then Micaiah said,  
-“I saw all Israel scattered on the hills, like sheep without a shepherd,
+ “I saw all Israel scattered on the hills, like sheep without a shepherd,
 
-> and the Lord said, ‘These people have no master; let each of them return to his home in peace.’”
+>  and the Lord said, ‘These people have no master; let each of them return to his home in peace.’”
 
 ---
 
@@ -92,12 +92,12 @@ The king of Israel said to Jehoshaphat, “Did I not tell you that he would prop
 ## 1 Kings 22:19
 
 Micaiah said, “Therefore hear the word of the Lord:  
-I saw the Lord sitting on His throne, with all the host of heaven standing by Him, on His right and on His left.
+ I saw the Lord sitting on His throne, with all the host of heaven standing by Him, on His right and on His left.
 
 ## 1 Kings 22:20
 
 And the Lord said, ‘Who will entice Ahab to go and fall at Ramoth-gilead?’  
-One suggested this, and another that.
+ One suggested this, and another that.
 
 ## 1 Kings 22:21
 
@@ -106,20 +106,20 @@ Then a spirit approached the Lord and said, ‘I will entice him.’
 ## 1 Kings 22:22
 
 ‘How?’ the Lord asked.  
-‘By being a lying spirit in the mouths of all his prophets,’ he said.  
-The Lord said, ‘You shall succeed in enticing him. Go and do it.’
+ ‘By being a lying spirit in the mouths of all his prophets,’ he said.  
+ The Lord said, ‘You shall succeed in enticing him. Go and do it.’
 
 ## 1 Kings 22:23
 
 So now the Lord has put a lying spirit in the mouths of all these prophets of yours.  
-The Lord has decreed disaster for you.”
+ The Lord has decreed disaster for you.”
 
 ---
 
 ## 1 Kings 22:24
 
-Then Zedekiah son of Kenaanah approached Micaiah and struck him on the cheek.  
-He said, “Which way did the spirit of the Lord go from me to speak to you?”
+Then Zedekiah son of Chenaanah approached Micaiah and struck him on the cheek.  
+ He said, “Which way did the spirit of the Lord go from me to speak to you?”
 
 ## 1 Kings 22:25
 
@@ -136,7 +136,7 @@ and say, ‘This is what the king says: Put this man in prison and give him noth
 ## 1 Kings 22:28
 
 But Micaiah declared, “If you ever return safely, then the Lord has not spoken through me.”  
-And he added, “Take note, all you people!”
+ And he added, “Take note, all you people!”
 
 ---
 
@@ -147,7 +147,7 @@ Therefore, the king of Israel and Jehoshaphat, king of Judah, proceeded to Ramot
 ## 1 Kings 22:30
 
 The king of Israel said to Jehoshaphat, “I will disguise myself when I go into battle, but you wear your royal robes.”  
-So the king of Israel disguised himself and went into battle.
+ So the king of Israel disguised himself and went into battle.
 
 ## 1 Kings 22:31
 
@@ -166,12 +166,12 @@ When the chariot commanders saw that he was not the king of Israel, they turned 
 ## 1 Kings 22:34
 
 But someone drew his bow at random and struck the king of Israel between the joints of his armour.  
-He said to the driver of his chariot, “Turn around and get me out of the battle, for I am wounded.”
+ He said to the driver of his chariot, “Turn around and get me out of the battle, for I am wounded.”
 
 ## 1 Kings 22:35
 
 The battle raged that day, and the king was propped up in his chariot facing the Arameans.  
-But the blood from his wound flowed onto the floor of the chariot, and that evening he died.
+ But the blood from his wound flowed onto the floor of the chariot, and that evening he died.
 
 ## 1 Kings 22:36
 

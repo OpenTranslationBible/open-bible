@@ -22,11 +22,11 @@ They are like a scarecrow in a cucumber field, unable to speak; they must be car
 
 ## Jeremiah 10:6
 
-There is none like you, Lord; you are great, and your name is mighty in power.
+There is none like You, Lord; You are great, and Your name is mighty in power.
 
 ## Jeremiah 10:7
 
-Who should not revere you, O King of the nations? This is your rightful due. Among all the wise men of the nations and in all their kingdoms, there is none like you.
+Who should not revere You, O King of the nations? This is Your rightful due. Among all the wise men of the nations and in all their kingdoms, there is none like You.
 
 ## Jeremiah 10:8
 
@@ -38,7 +38,7 @@ Hammered silver is brought from Tarshish, and gold from Uphaz, the work of a cra
 
 ## Jeremiah 10:10
 
-But the Lord is the true God; he is the living God, the eternal King. The earth trembles at his wrath, and the nations cannot endure his indignation.
+But the Lord is the true God; He is the living God, the eternal King. The earth trembles at His wrath, and the nations cannot endure His indignation.
 
 ## Jeremiah 10:11
 
@@ -46,11 +46,11 @@ This is what you shall say to them: “The gods that did not create the heavens 
 
 ## Jeremiah 10:12
 
-He is the one who, by his power, made the earth. He established the world with his wisdom, and by his understanding spread out the heavens.
+He is the one who, by His power, made the earth. He established the world with His wisdom, and by His understanding spread out the heavens.
 
 ## Jeremiah 10:13
 
-When he speaks, there is a tumult of waters in the heavens, and he makes the clouds rise from the ends of the earth. He sends lightning with the rain and brings out the wind from his storehouses.
+When He speaks, there is a tumult of waters in the heavens, and He makes the clouds rise from the ends of the earth. He sends lightning with the rain and brings out the wind from His storehouses.
 
 ## Jeremiah 10:14
 
@@ -62,7 +62,7 @@ They are worthless, objects of ridicule; at the time of their punishment, they w
 
 ## Jeremiah 10:16
 
-The Portion of Jacob is not like these; for he is the Maker of all things, and Israel is the tribe of his inheritance; the Lord of Hosts is his name.
+The Portion of Jacob is not like these; for He is the Maker of all things, and Israel is the tribe of His inheritance; the Lord of hosts is His name.
 
 ## Jeremiah 10:17
 
@@ -86,16 +86,16 @@ The shepherds are senseless and have not sought the Lord; therefore they do not 
 
 ## Jeremiah 10:22
 
-Listen! A report is coming— a great commotion from the land of the north! It will make the towns of Judah desolate, a haunt of jackals.
+Listen! A report is coming—a great commotion from the land of the north! It will make the towns of Judah desolate, a haunt of jackals.
 
 ## Jeremiah 10:23
 
-I understand, Lord, that a person's path is not within their own control, nor is it for them to determine their steps.
+I understand, Lord, that a person’s path is not within their own control, nor is it for them to determine their steps.
 
 ## Jeremiah 10:24
 
-Discipline me, Lord, but with fairness; not in your anger, or I will be diminished.
+Discipline me, Lord, but with fairness; not in Your anger, or I will be diminished.
 
 ## Jeremiah 10:25
 
-Pour out your wrath on the nations that do not acknowledge you, and on the families that do not call upon your name; for they have devoured Jacob, they have devoured him completely and laid waste his homeland.
+Pour out Your wrath on the nations that do not acknowledge You, and on the families that do not call upon Your name; for they have devoured Jacob, they have devoured him completely and laid waste his homeland.

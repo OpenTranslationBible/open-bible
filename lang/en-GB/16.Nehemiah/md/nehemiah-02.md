@@ -18,7 +18,7 @@ The king said to me, “What is it you would request?” So I prayed to the God 
 
 ## Nehemiah 2:5
 
-And I said to the king, “If it pleases the king, and if your servant has found favour in your sight, send me to Judah, to the city of my ancestors' tombs, that I may rebuild it.”
+And I said to the king, “If it pleases the king, and if your servant has found favour in your sight, send me to Judah, to the city of my ancestors’ tombs, that I may rebuild it.”
 
 ## Nehemiah 2:6
 
@@ -78,4 +78,4 @@ But when Sanballat the Horonite, Tobiah the Ammonite official, and Geshem the Ar
 
 ## Nehemiah 2:20
 
-I answered them, saying, “The God of heaven will give us success. We, his servants, will start rebuilding, but as for you, you have no share, right, or historic claim in Jerusalem.”
+I answered them, saying, “The God of heaven will give us success. We, His servants, will start rebuilding, but as for you, you have no share, right, or historic claim in Jerusalem.”

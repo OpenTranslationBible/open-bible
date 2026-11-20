@@ -94,12 +94,12 @@ So the king did not listen to the people, because it was a turn of events from G
 
 When all Israel saw that the king had not listened to them, the people answered the king, saying,
 
-> “What share do we have in David?  
-> We have no inheritance in the son of Jesse.  
-> Every man to your tents, Israel!  
-> Now look after your own house, David!”
+>  “What share do we have in David?  
+>  We have no inheritance in the son of Jesse.  
+>  Every man to your tents, Israel!  
+>  Now look after your own house, David!”
 
-So all Israel departed to their tents.
+ So all Israel departed to their tents.
 
 ---
 

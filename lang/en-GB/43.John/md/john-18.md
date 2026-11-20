@@ -142,7 +142,7 @@ This happened to fulfil the word Jesus had spoken, indicating the kind of death 
 
 ## John 18:33
 
-Pilate then went back inside the Praetorium, summoned Jesus, and asked Him, “Are you the King of the Jews?”
+Pilate then went back inside the Praetorium, summoned Jesus, and asked Him, “Are You the King of the Jews?”
 
 ## John 18:34
 

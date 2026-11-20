@@ -40,14 +40,14 @@ Do not imitate them: your Father is aware of your needs even before you ask Him.
 
 “Pray in this way:
 
-> ‘Our Father in heaven,
-> hallowed be Your name,
+>  ‘Our Father in heaven,
+>  hallowed be Your name,
 
 ## Matthew 6:10
 
 > Let Your kingdom come,
-> Your will be done,
-> on earth as it is in heaven.
+>  Your will be done,
+>  on earth as it is in heaven.
 
 ## Matthew 6:11
 
@@ -56,15 +56,15 @@ Do not imitate them: your Father is aware of your needs even before you ask Him.
 ## Matthew 6:12
 
 > And forgive us our sins,
-> as we forgive those who sin against us.
+>  as we forgive those who sin against us.
 
 ## Matthew 6:13
 
 > And lead us not into temptation,
-> but deliver us from evil.’
+>  but deliver us from evil.’
 
-> For Yours is the kingdom, the power, the glory,
-> for ever. Amen
+>  For Yours is the kingdom, the power, the glory,
+>  for ever. Amen.
 
 ---
 

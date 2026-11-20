@@ -10,7 +10,7 @@ I concluded that the dead who have already passed are more fortunate than the li
 Yet better than both is the one who has never been born, who has not witnessed the evil deeds done under the sun.
 
 ## Ecclesiastes 4:4
-I noticed that all labour and all achievement stem from one person's rivalry with another. This too is vanity, a pursuit of the wind.
+I noticed that all labour and all achievement stem from one person’s rivalry with another. This too is vanity, a pursuit of the wind.
 
 ## Ecclesiastes 4:5
 The fool sits idly and brings ruin upon himself.
@@ -22,7 +22,7 @@ Better is one handful with tranquillity than two handfuls with toil and chasing 
 Again, I observed something futile under the sun:
 
 ## Ecclesiastes 4:8
-There was a man who was alone, without a son or brother. There was no end to his toil, yet his eyes were not satisfied with wealth. "For whom am I toiling," he asked, "and depriving myself of enjoyment?" This too is vanity, and a miserable task.
+There was a man who was alone, without a son or brother. There was no end to his toil, yet his eyes were not satisfied with wealth. “For whom am I toiling,” he asked, “and depriving myself of enjoyment?” This too is vanity, and a miserable task.
 
 ## Ecclesiastes 4:9
 Two are more effective than one, as they have a good return for their efforts:

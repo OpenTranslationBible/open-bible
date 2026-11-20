@@ -16,16 +16,16 @@ He went into all the region around the Jordan, preaching a baptism of repentance
 
 As it is written in the book of the words of Isaiah the prophet:
 
-> “A voice of one calling out in the wilderness:
-> ‘Prepare the way for the Lord;
-> make straight in the desert a highway for our God.
+>  “A voice of one calling out in the wilderness:
+>  ‘Prepare the way for the Lord;
+>  make straight paths for Him.
 
 ## Luke 3:5
 
-> Every valley shall be lifted up,
-> and every mountain and hill made low.
-> the uneven ground shall become level,
-> and the rugged terrain a plain.
+> Every valley shall be filled in,
+>  and every mountain and hill made low.
+>  The crooked ways shall be made straight,
+>  and the rough ways smooth.
 
 ## Luke 3:6
 
@@ -111,94 +111,94 @@ and the Holy Spirit descended upon Him in a bodily form resembling a dove. A voi
 
 Now Jesus Himself was about thirty years old when He began His ministry. He was, as was supposed, the son of Joseph,
 
-> whose father was Heli,
+>  whose father was Heli,
 
 ## Luke 3:24
 
 > the son of Matthat,
-> whose father was Levi, the son of Melchi,
-> whose father was Jannai, whose father was Joseph,
+>  whose father was Levi, the son of Melchi,
+>  whose father was Jannai, whose father was Joseph,
 
 ## Luke 3:25
 
 > whose father was Mattathias, whose father was Amos,
-> whose father was Nahum, whose father was Esli,
-> whose father was Naggai,
+>  whose father was Nahum, whose father was Esli,
+>  whose father was Naggai,
 
 ## Luke 3:26
 
 > whose father was Maath,
-> whose father was Mattathias, whose father was Semein,
-> whose father was Josech, whose father was Joda,
+>  whose father was Mattathias, whose father was Semein,
+>  whose father was Josech, whose father was Joda,
 
 ## Luke 3:27
 
 > whose father was Joanan, whose father was Rhesa,
-> whose father was Zerubbabel, whose father was Shealtiel,
-> whose father was Neri,
+>  whose father was Zerubbabel, whose father was Shealtiel,
+>  whose father was Neri,
 
 ## Luke 3:28
 
 > whose father was Melchi,
-> whose father was Addi, whose father was Cosam,
-> whose father was Elmadam, whose father was Er,
+>  whose father was Addi, whose father was Cosam,
+>  whose father was Elmadam, whose father was Er,
 
 ## Luke 3:29
 
 > whose father was Joshua, whose father was Eliezer,
-> whose father was Jorim, whose father was Matthat,
-> whose father was Levi,
+>  whose father was Jorim, whose father was Matthat,
+>  whose father was Levi,
 
 ## Luke 3:30
 
 > whose father was Simeon,
-> whose father was Judah, whose father was Joseph,
-> whose father was Jonam, whose father was Eliakim,
+>  whose father was Judah, whose father was Joseph,
+>  whose father was Jonam, whose father was Eliakim,
 
 ## Luke 3:31
 
 > whose father was Melea, whose father was Menna,
-> whose father was Mattatha, whose father was Nathan,
-> whose father was David,
+>  whose father was Mattatha, whose father was Nathan,
+>  whose father was David,
 
 ## Luke 3:32
 
 > whose father was Jesse,
-> whose father was Obed, whose father was Boaz,
-> whose father was Salmon, whose father was Nahshon,
+>  whose father was Obed, whose father was Boaz,
+>  whose father was Salmon, whose father was Nahshon,
 
 ## Luke 3:33
 
 > whose father was Amminadab, whose father was Admin, whose father was Ram,
-> whose father was Hezron, whose father was Perez,
-> whose father was Judah,
+>  whose father was Hezron, whose father was Perez,
+>  whose father was Judah,
 
 ## Luke 3:34
 
 > whose father was Jacob,
-> whose father was Isaac, whose father was Abraham,
-> whose father was Terah, whose father was Nahor,
+>  whose father was Isaac, whose father was Abraham,
+>  whose father was Terah, whose father was Nahor,
 
 ## Luke 3:35
 
 > whose father was Serug, whose father was Reu,
-> whose father was Peleg, whose father was Eber,
-> whose father was Shelah,
+>  whose father was Peleg, whose father was Eber,
+>  whose father was Shelah,
 
 ## Luke 3:36
 
 > whose father was Cainan,
-> whose father was Arphaxad, whose father was Shem,
-> whose father was Noah, whose father was Lamech,
+>  whose father was Arphaxad, whose father was Shem,
+>  whose father was Noah, whose father was Lamech,
 
 ## Luke 3:37
 
 > whose father was Methuselah, whose father was Enoch,
-> whose father was Jared, whose father was Mahalaleel,
-> whose father was Kenan,
+>  whose father was Jared, whose father was Mahalaleel,
+>  whose father was Kenan,
 
 ## Luke 3:38
 
 > whose father was Enosh,
-> whose father was Seth, whose father was Adam,
-> whose father was God.
+>  whose father was Seth, whose father was Adam,
+>  whose father was God.

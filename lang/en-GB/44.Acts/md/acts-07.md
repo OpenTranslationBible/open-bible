@@ -14,7 +14,7 @@ And He instructed him, ‘Depart from your country and your kin, and proceed to 
 
 ## Acts 7:4
 
-So Abraham departed from the land of the Chaldeans and settled in Haran. After his father's death, God moved him to this land where you now live.
+So Abraham departed from the land of the Chaldeans and settled in Haran. After his father’s death, God moved him to this land where you now live.
 
 ## Acts 7:5
 
@@ -74,7 +74,7 @@ Their bodies were brought back to Shechem and laid in the tomb that Abraham had 
 
 ## Acts 7:18
 
-Until a new king arose over Egypt who did not know Joseph.
+Then a new king arose over Egypt who did not know Joseph.
 
 ## Acts 7:19
 
@@ -82,7 +82,7 @@ This king exploited our people and oppressed our ancestors, forcing them to aban
 
 ## Acts 7:20
 
-“At that time Moses was born, and he was no ordinary child. He was cared for in his father's house for three months.
+“At that time Moses was born, and he was no ordinary child. He was cared for in his father’s house for three months.
 
 ## Acts 7:21
 
@@ -176,15 +176,15 @@ At that time they made an idol in the form of a calf. They brought sacrifices to
 
 But God turned away from them and gave them over to the worship of the sun, moon, and stars. As it is written in the book of the prophets:
 
-> ‘Did you offer Me sacrifices and offerings
-> for forty years in the wilderness, O house of Israel?
+>  ‘Did you offer Me sacrifices and offerings for forty years in the wilderness,
+>  O house of Israel?
 
 ## Acts 7:43
 
-> You have taken up the tabernacle of Moloch
-> and the star of your god Rephan,
-> the idols you made to worship.
-> Therefore, I will send you into exile beyond Babylon.’
+> You have taken up the tabernacle of Moloch and the star of your god Rephan,
+>  the idols you made to worship.
+>  Therefore,
+>  I will send you into exile beyond Babylon.’
 
 ---
 
@@ -211,9 +211,9 @@ Nevertheless, the Most High does not reside in structures made by human hands. A
 ## Acts 7:49
 
 > ‘Heaven is My throne,
-> and the earth is My footstool.
-> What kind of house will you raise for Me?’ says the Lord.
-> ‘Or where will My resting place be?
+>  and the earth is My footstool.
+>  What kind of house will you raise for Me?’ says the Lord.
+>  ‘Or where will My resting place be?
 
 ## Acts 7:50
 

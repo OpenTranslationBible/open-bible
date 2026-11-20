@@ -2,15 +2,15 @@
 
 ## Isaiah 44:1
 
-“But now hear, Jacob, my servant, and Israel, whom I have chosen:
+“But now hear, Jacob, My servant, and Israel, whom I have chosen:
 
 ## Isaiah 44:2
 
-This is what the Lord says— he who made you and formed you in the womb, who will help you: Do not fear, Jacob my servant, and Jeshurun, whom I have chosen.
+This is what the Lord says—He who made you and formed you in the womb, who will help you: Do not fear, Jacob My servant, and Jeshurun, whom I have chosen.
 
 ## Isaiah 44:3
 
-For I will pour water upon the parched land, and streams upon the dry ground; I will pour out my Spirit on your offspring, and my blessing on your descendants.
+For I will pour water upon the parched land, and streams upon the dry ground; I will pour out My Spirit on your offspring, and My blessing on your descendants.
 
 ## Isaiah 44:4
 
@@ -24,15 +24,15 @@ One will say, ‘I am the Lord’s’; another will call himself by the name of 
 
 ## Isaiah 44:6
 
-This is what the Lord says— the King of Israel and his Redeemer, the Lord of Hosts: I am the first and I am the last; apart from me, there is no God.
+This is what the Lord says—the King of Israel and his Redeemer, the Lord of hosts: I am the first and I am the last; apart from Me, there is no God.
 
 ## Isaiah 44:7
 
-Who is like me? Let him proclaim it. Let him declare and set it forth before me, what has happened since I established my ancient people, and what is yet to come— let them foretell what is to come.
+Who is like Me? Let him proclaim it. Let him declare and set it forth before Me, what has happened since I established My ancient people, and what is yet to come—let them foretell what is to come.
 
 ## Isaiah 44:8
 
-Do not tremble, do not be afraid. Have I not long since announced it and declared it? You are my witnesses. Is there any God besides me? No, there is no other Rock; I know not one.
+Do not tremble, do not be afraid. Have I not long since announced it and declared it? You are My witnesses. Is there any God besides Me? No, there is no other Rock; I know not one.”
 
 ## Isaiah 44:9
 
@@ -84,19 +84,19 @@ He feeds on ashes; a deceived heart has misled him. He cannot save himself, nor 
 
 ## Isaiah 44:21
 
-“Remember these things, Jacob, for you, Israel, are my servant. I have formed you, you are my servant; Israel, I will not forget you.
+“Remember these things, Jacob, for you, Israel, are My servant. I have formed you, you are My servant; Israel, I will not forget you.
 
 ## Isaiah 44:22
 
-I have wiped away your transgressions like a cloud, and your sins like a mist. Return to me, for I have redeemed you.”
+I have wiped away your transgressions like a cloud, and your sins like a mist. Return to Me, for I have redeemed you.”
 
 ## Isaiah 44:23
 
-Sing for joy, you heavens, for the Lord has done it; shout aloud, you lower parts of the earth. Burst into song, you mountains, you forests and all your trees, for the Lord has redeemed Jacob, and he displays his glory in Israel.
+Sing for joy, you heavens, for the Lord has done it; shout aloud, you lower parts of the earth. Burst into song, you mountains, you forests and all your trees, for the Lord has redeemed Jacob, and He displays His glory in Israel.
 
 ## Isaiah 44:24
 
-This is what the Lord says— your Redeemer, who formed you from the womb: I am the Lord, the Maker of all things, who stretches out the heavens by myself, who spreads out the earth alone,
+This is what the Lord says—your Redeemer, who formed you from the womb: “I am the Lord, the Maker of all things, who stretches out the heavens by Myself, who spreads out the earth alone,
 
 ## Isaiah 44:25
 
@@ -104,7 +104,7 @@ who frustrates the signs of false prophets and makes fools of diviners, who over
 
 ## Isaiah 44:26
 
-who confirms the word of his servant and carries out the purpose of his messengers, who says of Jerusalem, ‘It shall be inhabited,’ and of the towns of Judah, ‘They shall be rebuilt,’ and of their ruins, ‘I will restore them,’
+who confirms the word of His servant and carries out the purpose of His messengers, who says of Jerusalem, ‘It shall be inhabited,’ and of the towns of Judah, ‘They shall be rebuilt,’ and of their ruins, ‘I will restore them,’
 
 ## Isaiah 44:27
 
@@ -112,4 +112,4 @@ who commands the watery deep, ‘Be dry, and I will dry up your streams,’
 
 ## Isaiah 44:28
 
-who speaks of Cyrus, ‘He is my shepherd and will accomplish all that I desire; he will say of Jerusalem, “Let it be rebuilt,” and of the temple, “Let its foundations be laid.”’
+who speaks of Cyrus, ‘He is My shepherd and will accomplish all that I desire; he will say of Jerusalem, “Let it be rebuilt,” and of the temple, “Let its foundations be laid.”’”

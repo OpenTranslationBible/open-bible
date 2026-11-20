@@ -46,7 +46,7 @@ The boundary shall go down from Shepham to Riblah on the east side of Ain, and c
 
 ## Numbers 34:12
 
-Then the boundary shall go down along the Jordan and end at the Salt Sea. “‘This shall be your land, with its boundaries on every side.’”
+Then the boundary shall go down along the Jordan and end at the Salt Sea. This shall be your land, with its boundaries on every side.’”
 
 ## Numbers 34:13
 
@@ -62,7 +62,7 @@ These two and a half tribes have received their inheritance east of the Jordan o
 
 ## Numbers 34:16
 
-The Lord then spoke to Moses, saying these word,
+The Lord then spoke to Moses, saying these words,
 
 ## Numbers 34:17
 
@@ -78,11 +78,11 @@ The names are as follows: from the tribe of Judah, Caleb son of Jephunneh;
 
 ## Numbers 34:20
 
-from Simeon's tribe, Shemuel son of Ammihud;
+from Simeon’s tribe, Shemuel son of Ammihud;
 
 ## Numbers 34:21
 
-from Benjamin's tribe, Elidad son of Kislon;
+from Benjamin’s tribe, Elidad son of Kislon;
 
 ## Numbers 34:22
 

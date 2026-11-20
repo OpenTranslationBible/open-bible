@@ -28,7 +28,7 @@ And you, Pashhur, along with all who dwell in your house, will go into exile to 
 
 ## Jeremiah 20:7
 
-Lord, you deceived me, and I was deceived; you overpowered me and prevailed. I have become a laughingstock all day long; everyone mocks me.
+Lord, You deceived me, and I was deceived; You overpowered me and prevailed. I have become a laughingstock all day long; everyone mocks me.
 
 ## Jeremiah 20:8
 
@@ -36,7 +36,7 @@ Whenever I speak, I cry out, proclaiming violence and destruction. The word of t
 
 ## Jeremiah 20:9
 
-But if I say, “I will not mention him or speak any more in his name,” his word is like a burning fire in my heart, shut up in my bones. I am weary of holding it in; indeed, I cannot.
+But if I say, “I will not mention Him or speak any more in His name,” His word is like a burning fire in my heart, shut up in my bones. I am weary of holding it in; indeed, I cannot.
 
 ## Jeremiah 20:10
 
@@ -44,19 +44,19 @@ I hear many whispering, “Terror on every side! Denounce him! Let us denounce h
 
 ## Jeremiah 20:11
 
-But the Lord is with me like a mighty warrior; therefore my persecutors will stumble and not prevail. They will be put to great shame, their disgrace will never be forgotten.
+But the Lord is with me like a mighty warrior; therefore my persecutors will stumble and not prevail. They will be put to great shame, for they have not succeeded; their disgrace will never be forgotten.
 
 ## Jeremiah 20:12
 
-Lord of hosts, you who test the righteous and see the heart and mind, let me see your vengeance on them, for to you I have committed my cause.
+Lord of hosts, You who test the righteous and see the heart and mind, let me see Your vengeance on them, for to You I have committed my cause.
 
 ## Jeremiah 20:13
 
-Sing to the Lord, praise the Lord! For he rescues the life of the needy from the hands of the wicked.
+Sing to the Lord, praise the Lord! For He rescues the life of the needy from the hands of the wicked.
 
 ## Jeremiah 20:14
 
-May the day of my birth be forgotten! May the day my mother gave birth to me not be celebrated!
+Cursed be the day of my birth! May the day my mother gave birth to me not be celebrated!
 
 ## Jeremiah 20:15
 

@@ -10,7 +10,7 @@ He had two wives. The name of one was Hannah, and the other was Peninnah. Peninn
 
 ## 1 Samuel 1:3
 
-Every year this man went up from his town to worship and to offer sacrifices to the Lord of hosts at Shiloh, where the two sons of Eli — Hophni and Phinehas — served as priests of the Lord.
+Every year this man went up from his town to worship and to offer sacrifices to the Lord of hosts at Shiloh, where the two sons of Eli—Hophni and Phinehas—served as priests of the Lord.
 
 ## 1 Samuel 1:4
 
@@ -73,7 +73,7 @@ Then Eli answered, “Go in peace, and may the God of Israel grant you what you 
 ## 1 Samuel 1:18
 
 She said, “Let your servant find favour in your eyes.”  
-Then she went her way and ate something, and her face was no longer downcast.
+ Then she went her way and ate something, and her face was no longer downcast.
 
 ---
 
@@ -96,7 +96,7 @@ Hannah did not go. She said to her husband, “After the boy is weaned, I will t
 ## 1 Samuel 1:23
 
 Elkanah her husband said to her, “Do what seems best to you. Stay until you have weaned him; only may the Lord establish His word.”  
-So she stayed at home and nursed her son until she had weaned him.
+ So she stayed at home and nursed her son until she had weaned him.
 
 ---
 
@@ -119,4 +119,4 @@ I prayed for this child, and the Lord has granted my request.
 ## 1 Samuel 1:28
 
 So now I am dedicating him to the Lord. As long as he lives, he is given to the Lord.”  
-And he worshipped the Lord there.
+ And he worshipped the Lord there.

@@ -25,7 +25,7 @@ Then Samuel said, “Assemble all Israel at Mizpah, and I will pray to the Lord 
 ## 1 Samuel 7:6
 
 When they had gathered at Mizpah, they drew water and poured it out before the Lord. On that day they fasted, and they confessed, “We have sinned against the Lord.”  
-And Samuel was serving as judge over the Israelites at Mizpah.
+ And Samuel was serving as judge over the Israelites at Mizpah.
 
 ## 1 Samuel 7:7
 

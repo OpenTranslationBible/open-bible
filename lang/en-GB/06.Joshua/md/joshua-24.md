@@ -82,7 +82,7 @@ The Lord drove out before us all the nations, including the Amorites, who lived 
 
 ## Joshua 24:19
 
-Joshua said to the people, “You may find it difficult to serve the Lord. He is a holy God; He is a zealous God. He will not overlook your rebellion and your sins.
+Joshua said to the people, “You are not able to serve the Lord. He is a holy God; He is a zealous God. He will not overlook your rebellion and your sins.
 
 ## Joshua 24:20
 

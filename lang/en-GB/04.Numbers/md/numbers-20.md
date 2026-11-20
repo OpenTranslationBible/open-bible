@@ -46,11 +46,11 @@ Then Moses raised his hand and struck the rock twice with his staff. Water gushe
 
 ## Numbers 20:12
 
-But the Lord said to Moses and Aaron, “Because you did not trust in me to honour me as holy in the sight of the Israelites, you shall not bring this assembly into the land I have given them.”
+But the Lord said to Moses and Aaron, “Because you did not trust in Me to honour Me as holy in the sight of the Israelites, you shall not bring this assembly into the land I have given them.”
 
 ## Numbers 20:13
 
-These were the waters of Meribah, where the Israelites contended with the Lord, and he proved himself holy among them.
+These were the waters of Meribah, where the Israelites contended with the Lord, and He proved Himself holy among them.
 
 ## Numbers 20:14
 
@@ -62,7 +62,7 @@ Our ancestors went down to Egypt, and we lived there for many years. The Egyptia
 
 ## Numbers 20:16
 
-but when we cried out to the Lord, he heard our voice and sent an angel and brought us out of Egypt. Now we are at Kadesh, a town on the edge of your territory.
+but when we cried out to the Lord, He heard our voice and sent an angel and brought us out of Egypt. Now we are at Kadesh, a town on the edge of your territory.
 
 ## Numbers 20:17
 
@@ -94,7 +94,7 @@ At Mount Hor, near the border of Edom, the Lord spoke to Moses and Aaron,
 
 ## Numbers 20:24
 
-“Aaron will be gathered to his people, for he shall not enter the land I have given to the Israelites, because you rebelled against my command at the waters of Meribah.
+“Aaron will be gathered to his people, for he shall not enter the land I have given to the Israelites, because you rebelled against My command at the waters of Meribah.
 
 ## Numbers 20:25
 
@@ -106,7 +106,7 @@ Remove Aaron’s garments and put them on his son Eleazar, for Aaron will be gat
 
 ## Numbers 20:27
 
-Moses followed the Lord's instructions: they ascended Mount Hor in the sight of the whole community.
+Moses followed the Lord’s instructions: they ascended Mount Hor in the sight of the whole community.
 
 ## Numbers 20:28
 

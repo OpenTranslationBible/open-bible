@@ -6,7 +6,7 @@ Jesus began to speak to them in parables: “A man planted a vineyard. He put a 
 
 ## Mark 12:2
 
-When the time came for the harvest, he sent a servant to the tenants to gather some of the vineyard's fruit from them.
+When the time came for the harvest, he sent a servant to the tenants to gather some of the vineyard’s fruit from them.
 
 ## Mark 12:3
 
@@ -46,35 +46,35 @@ the Lord has done this, and it is wonderful in our eyes’?”
 
 ## Mark 12:12
 
-Then the chief priests, the teachers of the law, and the elders looked for a way to arrest him, because they knew he had spoken the parable against them. But they feared the people, so they left him and went away.
+Then the chief priests, the teachers of the law, and the elders looked for a way to arrest Him, because they knew He had spoken the parable against them. But they feared the people, so they left Him and went away.
 
 ---
 
 ## Mark 12:13
 
-Later they sent some of the Pharisees and Herodians to Jesus to try to trap him in his words.
+Later they sent some of the Pharisees and Herodians to Jesus to try to trap Him in His words.
 
 ## Mark 12:14
 
-They came and said to him, “Teacher, we know that you are a man of integrity and are not swayed by others, because you do not show partiality, but teach the way of God in accordance with the truth. Is it right to pay the imperial tax to Caesar or not?
+They came and said to Him, “Teacher, we know that You are a man of integrity and are not swayed by others, because You do not show partiality, but teach the way of God in accordance with the truth. Is it right to pay the imperial tax to Caesar or not?
 
 ## Mark 12:15
 
-Should we pay or shouldn’t we?” But Jesus, knowing their hypocrisy, said, “Why are you trying to trap me? Bring me a denarius to look at.”
+Should we pay or shouldn’t we?” But Jesus, knowing their hypocrisy, said, “Why are you trying to trap Me? Bring Me a denarius to look at.”
 
 ## Mark 12:16
 
-They presented the coin, and he asked them, “Whose likeness is this? And whose inscription?” “Caesar’s,” they replied.
+They presented the coin, and He asked them, “Whose likeness is this? And whose inscription?” “Caesar’s,” they replied.
 
 ## Mark 12:17
 
-Then Jesus said to them, “Give back to Caesar what belongs to Caesar and to God what belongs to God.” And they were amazed at him.
+Then Jesus said to them, “Give back to Caesar what belongs to Caesar and to God what belongs to God.” And they were amazed at Him.
 
 ---
 
 ## Mark 12:18
 
-Then some Sadducees, who say there is no resurrection, came to him with a question.
+Then some Sadducees, who say there is no resurrection, came to Him with a question.
 
 ## Mark 12:19
 
@@ -116,7 +116,7 @@ He is the God of the living, not of the dead. You are indeed mistaken!”
 
 ## Mark 12:28
 
-One of the teachers of the law came and heard them debating. Noticing that Jesus had given them a wise answer, he asked him, “Of all the commandments, which is the most important?”
+One of the teachers of the law came and heard them debating. Noticing that Jesus had given them a wise answer, he asked Him, “Of all the commandments, which is the most important?”
 
 ## Mark 12:29
 
@@ -132,38 +132,38 @@ The second is: ‘Love your neighbour as yourself.’ No other commandments are 
 
 ## Mark 12:32
 
-“Well said, teacher,” the man agreed. “For you are indeed right to say that God is one and there is no other but him.
+“Well said, teacher,” the man agreed. “For You are indeed right to say that God is one and there is no other but Him.
 
 ## Mark 12:33
 
-You are right to say love him with all your heart, with all your understanding, and with all your strength, and you are right to say loving your neighbour as yourself is more important than all burnt offerings and sacrifices.”
+You are right to say love Him with all your heart, with all your understanding, and with all your strength, and You are right to say loving your neighbour as yourself is more important than all burnt offerings and sacrifices.”
 
 ## Mark 12:34
 
-When Jesus saw that he had answered wisely, he said to him, “You are not far from the kingdom of God.” And from that time on, no one dared ask him any more questions.
+When Jesus saw that he had answered wisely, He said to him, “You are not far from the kingdom of God.” And from that time on, no one dared ask Him any more questions.
 
 ---
 
 ## Mark 12:35
 
-While he was teaching in the temple courts, Jesus asked, “Why is it the teachers of the law say that the Messiah is the son of David?
+While He was teaching in the temple courts, Jesus asked, “Why is it the teachers of the law say that the Messiah is the son of David?
 
 ## Mark 12:36
 
 David, speaking by the Holy Spirit, said:
 
-> ‘The Lord said to my Lord:
-> “Sit at my right hand
-> until I put your enemies
-> under your feet.”’
+>  ‘The Lord said to my Lord:
+>  “Sit at My right hand until I put Your enemies under Your feet.
+> ”
+> ’
 
 ## Mark 12:37
 
-If David himself calls him ‘Lord.’ How then can he be his son?” The large crowd listened to him delighted.
+David himself calls Him ‘Lord.’ How then can He be his son?” The large crowd listened to Him delighted.
 
 ## Mark 12:38
 
-As he taught, Jesus said, “Watch out for the teachers of the law. They like to walk around in long robes and be greeted with respect in the marketplaces,
+As He taught, Jesus said, “Watch out for the teachers of the law. They like to walk around in long robes and be greeted with respect in the marketplaces,
 
 ## Mark 12:39
 
@@ -183,7 +183,7 @@ But a poor widow came and placed in two very small copper coins, worth only a fe
 
 ## Mark 12:43
 
-Calling his disciples to him, Jesus said, “Truly I tell you, this poor widow has contributed more to the treasury than all the others.
+Calling His disciples to Him, Jesus said, “Truly I tell you, this poor widow has contributed more to the treasury than all the others.
 
 ## Mark 12:44
 

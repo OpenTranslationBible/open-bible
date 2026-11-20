@@ -4,7 +4,7 @@
 So Isaac summoned Jacob and blessed him, instructing him: “You must not take a wife from the daughters of Canaan.
 
 ## Genesis 28:2
-Arise, go to Paddan Aram, to the house of Bethuel, your mother's father. From there, choose a wife from the daughters of Laban, your mother's brother.
+Arise, go to Paddan Aram, to the house of Bethuel, your mother’s father. From there, choose a wife from the daughters of Laban, your mother’s brother.
 
 ## Genesis 28:3
 May God Almighty bless you and make you fruitful and multiply your numbers, so that you become a multitude of peoples.
@@ -25,7 +25,7 @@ and that Jacob had listened to his father and mother and had gone to Paddan Aram
 Esau then understood how displeasing the Canaanite women were to his father Isaac;
 
 ## Genesis 28:9
-so he went to Ishmael and married Mahalath, the sister of Nebaioth and daughter of Ishmael, Abraham's son, in addition to the wives he already had.
+so he went to Ishmael and married Mahalath, the sister of Nebaioth and daughter of Ishmael, Abraham’s son, in addition to the wives he already had.
 
 ## Genesis 28:10
 Jacob departed from Beersheba and set out towards Haran.
@@ -61,7 +61,7 @@ He named that place Bethel, though previously the city was called Luz.
 Then Jacob made a vow, saying, “If God will be with me and watch over me on this journey I am taking, and provide me with food to eat and clothes to wear,
 
 ## Genesis 28:21
-so that I return safely to my father's home, then the Lord will be my God.
+so that I return safely to my father’s home, then the Lord will be my God.
 
 ## Genesis 28:22
-And this stone that I have set up as a pillar will be a house for God, and of all that you give me, I will give you a tenth.”
+And this stone that I have set up as a pillar will be a house for God, and of all that You give me, I will give You a tenth.”

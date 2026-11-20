@@ -118,7 +118,7 @@ accompanying Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai,
 
 ## Nehemiah 7:29
 
-> the people of Kiriath Jearim, Kephirah, and Beeroth, numbered 743;
+> the people of Kiriath Jearim, Chephirah, and Beeroth, numbered 743;
 
 ## Nehemiah 7:30
 
@@ -162,7 +162,7 @@ accompanying Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai,
 
 The priests:
 
-> the line of Jedaiah, of the house of Jeshua, numbered 973;
+>  the line of Jedaiah, of the house of Jeshua, numbered 973;
 
 ## Nehemiah 7:40
 
@@ -182,21 +182,21 @@ The priests:
 
 The Levites:
 
-> the line of Jeshua, through Kadmiel, through the line of Hodevah, numbered 74.
+>  the line of Jeshua, through Kadmiel, through the line of Hodevah, numbered 74.
 
 ## Nehemiah 7:44
 
 The singers:
 
-> the line of Asaph, numbered 148.
+>  the line of Asaph, numbered 148.
 
 ## Nehemiah 7:45
 
 The gatekeepers:
 
-> the line of
-> Shallum, Ater, Talmon, Akkub,
-> Hatita, and Shobai, numbered 138.
+>  the line of Shallum,
+>  Ater, Talmon, Akkub,
+>  Hatita, and Shobai, numbered 138.
 
 ---
 
@@ -204,7 +204,7 @@ The gatekeepers:
 
 The temple servants:
 
-the line of Ziha, Hasupha, Tabbaoth,
+ the line of Ziha, Hasupha, Tabbaoth,
 
 ## Nehemiah 7:47
 
@@ -228,7 +228,7 @@ the line of Ziha, Hasupha, Tabbaoth,
 
 ## Nehemiah 7:52
 
-> the line of Besai, Meunim, and the temple servant Nephushesim,
+> the line of Besai, Meunim, and Nephushesim,
 
 ## Nehemiah 7:53
 
@@ -236,7 +236,7 @@ the line of Ziha, Hasupha, Tabbaoth,
 
 ## Nehemiah 7:54
 
-> the line of Bazluth, Mehida, and Harsha,
+> the line of Bazlith, Mehida, and Harsha,
 
 ## Nehemiah 7:55
 
@@ -250,7 +250,7 @@ the line of Ziha, Hasupha, Tabbaoth,
 
 The descendants of Solomon’s servants:
 
-the descendants of Sotai, Sophereth, and Perida,
+ the descendants of Sotai, Sophereth, and Perida,
 
 ## Nehemiah 7:58
 
@@ -258,7 +258,7 @@ the descendants of Jaala, Darkon, and Giddel,
 
 ## Nehemiah 7:59
 
-the descendants of Shephatiah, Hattil, Pochereth-Hazzebaim, and the temple servant Amon.
+the descendants of Shephatiah, Hattil, Pochereth-Hazzebaim, and Amon.
 
 ## Nehemiah 7:60
 

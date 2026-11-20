@@ -88,8 +88,8 @@ For it would be preferable for them not to have known the way of righteousness, 
 
 This is shown by the true proverb:
 
-> “A dog returns to its own vomit,”
+>  “A dog returns to its own vomit,”
 
-and,
+ and,
 
-> “A sow, after washing, returns to wallowing in the mire.”
+>  “A sow, after washing, returns to wallowing in the mire.”

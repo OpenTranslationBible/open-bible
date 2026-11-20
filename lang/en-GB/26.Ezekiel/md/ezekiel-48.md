@@ -42,7 +42,7 @@
 
 ## Ezekiel 48:11
 
-“It shall be for the consecrated priests, the sons of Zadok, who kept my charge and did not go astray as the Levites did when the Israelites went astray.
+“It shall be for the consecrated priests, the sons of Zadok, who kept My charge and did not go astray as the Levites did when the Israelites went astray.
 
 ## Ezekiel 48:12
 

@@ -4,7 +4,7 @@
 In the thirtieth year, on the fifth day of the fourth month, while I was among the exiles by the River Kebar, the heavens were opened, and I saw visions of God.
 
 ## Ezekiel 1:2
-On the fifth day of the month, during the fifth year of King Jehoiachin's exile,
+On the fifth day of the month, during the fifth year of King Jehoiachin’s exile,
 
 ## Ezekiel 1:3
 the word of the Lord came to Ezekiel the priest, son of Buzi, by the River Kebar in the land of the Chaldeans. There the hand of the Lord was upon him.
@@ -28,7 +28,7 @@ Under their wings on their four sides were human hands. All four had faces and w
 Their wings touched one another; they did not turn as they moved, each went straight forward.
 
 ## Ezekiel 1:10
-Their faces were like this: each had a human face, a lion's face on the right, an ox's face on the left, and an eagle's face.
+Their faces were like this: each had a human face, a lion’s face on the right, an ox’s face on the left, and an eagle’s face.
 
 ## Ezekiel 1:11
 Such were their faces. Their wings were spread out above; each had two wings touching another creature and two covering their bodies.
@@ -79,7 +79,7 @@ Then there came a voice from above the expanse over their heads as they stood wi
 Above the expanse over their heads was something like a throne, resembling lapis lazuli, and on the throne high above was a figure like that of a man.
 
 ## Ezekiel 1:27
-I saw that from what appeared to be his waist up he looked like glowing metal, as if full of fire, and from there down he looked like fire, and brilliant light surrounded him.
+I saw that from what appeared to be His waist up He looked like glowing metal, as if full of fire, and from there down He looked like fire, and brilliant light surrounded Him.
 
 ## Ezekiel 1:28
-The radiance around him was like the appearance of a rainbow in the clouds on a rainy day. This was the appearance of the likeness of the glory of the Lord. When I saw it, I fell facedown, and I heard the voice of one speaking.
+The radiance around Him was like the appearance of a rainbow in the clouds on a rainy day. This was the appearance of the likeness of the glory of the Lord. When I saw it, I fell facedown, and I heard the voice of one speaking.

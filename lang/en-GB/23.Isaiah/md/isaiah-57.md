@@ -22,7 +22,7 @@ Among the smooth stones of the ravines is your portion; they are your lot. Yes, 
 You have set up your resting place on a high and elevated hill; there you ascended to present your sacrifices.
 
 ## Isaiah 57:8
-Behind your doors and doorposts you have placed your pagan symbols. Forsaking me, you uncovered your bed, you climbed into it and opened it wide; you made a pact with those whose beds you love, and you gazed upon their nakedness.
+Behind your doors and doorposts you have placed your pagan symbols. Forsaking Me, you uncovered your bed, you climbed into it and opened it wide; you made a pact with those whose beds you love, and you gazed upon their nakedness.
 
 ## Isaiah 57:9
 You journeyed to the king with olive oil and increased your perfumes; you sent your ambassadors far away and descended to Sheol.
@@ -31,25 +31,25 @@ You journeyed to the king with olive oil and increased your perfumes; you sent y
 You wearied yourself with your many journeys, yet you did not say, ‘It is hopeless.’ You found renewal of your strength, so you did not faint.
 
 ## Isaiah 57:11
-“Whom did you dread and fear so much that you have been unfaithful to me, and have neither remembered me nor taken it to heart? Is it not because I have been silent for a long time that you do not fear me?
+“Whom did you dread and fear so much that you have been unfaithful to Me, and have neither remembered Me nor taken it to heart? Is it not because I have been silent for a long time that you do not fear Me?
 
 ## Isaiah 57:12
 I will expose your righteousness and your deeds, and they will not profit you.
 
 ## Isaiah 57:13
-When you cry out for help, let your collection of idols save you! The wind will carry them all off, a mere breath will blow them away. But whoever takes refuge in me will inherit the land and possess my holy mountain.”
+When you cry out for help, let your collection of idols save you! The wind will carry them all off, a mere breath will blow them away. But whoever takes refuge in Me will inherit the land and possess My holy mountain.”
 
 ## Isaiah 57:14
-And it will be said: “Build up, build up, prepare the way! Remove the obstacles out of the way of my people.”
+And it will be said: “Build up, build up, prepare the way! Remove the obstacles out of the way of My people.”
 
 ## Isaiah 57:15
-For this is what the high and exalted One says— he who lives forever, whose name is holy: “I dwell in a high and holy place, but also with the contrite and lowly in spirit, to revive the spirit of the lowly and to revive the heart of the contrite.
+For this is what the high and exalted One says—He who lives forever, whose name is holy: “I dwell in a high and holy place, but also with the contrite and lowly in spirit, to revive the spirit of the lowly and to revive the heart of the contrite.
 
 ## Isaiah 57:16
-For I will not accuse forever, nor will I always be angry, for then the spirit would grow faint before me— the very breath of those I have made.
+For I will not accuse forever, nor will I always be angry, for then the spirit would grow faint before Me—the very breath of those I have made.
 
 ## Isaiah 57:17
-Because of the iniquity of his unjust gain I was angry and struck him; I hid my face in anger, yet he continued turning away, in the way of his heart.
+Because of the iniquity of his unjust gain I was angry and struck him; I hid My face in anger, yet he continued turning away, in the way of his heart.
 
 ## Isaiah 57:18
 I have seen his ways, but I will heal him; I will guide him and restore comfort to him and to his mourners,

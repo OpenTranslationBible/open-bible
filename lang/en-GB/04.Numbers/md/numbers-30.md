@@ -37,13 +37,13 @@ and her husband hears it and remains silent, then all her vows will be valid.
 But if her husband nullifies them when he hears them, then they are not binding. The Lord will release her.
 
 ## Numbers 30:13
-Her husband may confirm or cancel any vow or oath she makes.
+Her husband may confirm or cancel any vow or oath she makes to deny herself.
 
 ## Numbers 30:14
-If he remains silent day after day, he confirms all her vows and pledges.
+If he remains silent day after day, he confirms all her vows and pledges. He has confirmed them, because he said nothing to her on the day he heard about them.
 
 ## Numbers 30:15
-But if he cancels them later, he bears responsibility for her guilt.
+But if he cancels them later, he bears responsibility for her guilt.”
 
 ## Numbers 30:16
 These are the regulations the Lord gave Moses concerning a man and his wife, and between a father and his daughter while she is still living in his home.

@@ -1,7 +1,7 @@
 # Genesis Chapter 50
 
 ## Genesis 50:1
-Joseph fell upon his father's face, weeping over him and kissing him.
+Joseph fell upon his father’s face, weeping over him and kissing him.
 
 ## Genesis 50:2
 Joseph instructed the physicians in his service to embalm his father Israel. So the physicians embalmed him.

@@ -10,19 +10,19 @@ Certainly not! We who have died to sin, how can we live in it any longer?
 
 ## Romans 6:3
 
-Or do you not know that all of us who were baptised into Christ Jesus were baptised into his death?
+Or do you not know that all of us who were baptised into Christ Jesus were baptised into His death?
 
 ## Romans 6:4
 
-We were therefore buried with him through baptism into death, so that just as Christ was raised from the dead through the glory of the Father, we too might walk in newness of life.
+We were therefore buried with Him through baptism into death, so that just as Christ was raised from the dead through the glory of the Father, we too might walk in newness of life.
 
 ## Romans 6:5
 
-For if we have been united with him in the likeness of his death, we shall certainly also be united with him in the likeness of his resurrection.
+For if we have been united with Him in the likeness of His death, we shall certainly also be united with Him in the likeness of His resurrection.
 
 ## Romans 6:6
 
-Knowing this, that our old self was crucified with him, so that the body of sin might be rendered powerless, that we should no longer be slaves to sin.
+Knowing this, that our old self was crucified with Him, so that the body of sin might be rendered powerless, that we should no longer be slaves to sin.
 
 ## Romans 6:7
 
@@ -30,15 +30,15 @@ For anyone who has died has been freed from sin.
 
 ## Romans 6:8
 
-If we have shared in Christ's death, we believe that we will also share in his life.
+If we have shared in Christ’s death, we believe that we will also share in His life.
 
 ## Romans 6:9
 
-Knowing that Christ, having been raised from the dead, is never to die again; death no longer has dominion over him.
+Knowing that Christ, having been raised from the dead, is never to die again; death no longer has dominion over Him.
 
 ## Romans 6:10
 
-He died to sin once for all; but now he lives, and he lives to God.
+He died to sin once for all; but now He lives, and He lives to God.
 
 ## Romans 6:11
 
@@ -50,7 +50,7 @@ Therefore, do not allow sin to rule in your mortal body, making you obey its des
 
 ## Romans 6:13
 
-Do not offer any part of yourself to sin as an instrument of unrighteousness, but rather offer yourselves to God as those who have been brought from death to life, and offer every part of yourself to him as an instrument of righteousness.
+Do not offer any part of yourself to sin as an instrument of unrighteousness, but rather offer yourselves to God as those who have been brought from death to life, and offer every part of yourself to Him as an instrument of righteousness.
 
 ## Romans 6:14
 
@@ -90,4 +90,4 @@ But now that you have been set free from sin and have become servants of God, th
 
 ## Romans 6:23
 
-For the wages of sin is death, but that gracious gift of God is eternal life in Christ Jesus our Lord.
+For the wages of sin is death, but the gracious gift of God is eternal life in Christ Jesus our Lord.

@@ -8,7 +8,7 @@ And Jesus said to them, “Truly I tell you, there are some standing here who wi
 
 ## Mark 9:2
 
-Six days later, Jesus took Peter, James, and John with him and led them up a high mountain by themselves. There he was transformed before them.
+Six days later, Jesus took Peter, James, and John with Him and led them up a high mountain by themselves. There He was transformed before them.
 
 ## Mark 9:3
 
@@ -20,7 +20,7 @@ Elijah and Moses appeared before them, conversing with Jesus.
 
 ## Mark 9:5
 
-Peter spoke to Jesus, “Rabbi, it is good for us to be here. Let us construct three shelters: one for you, one for Moses, and one for Elijah.”
+Peter spoke to Jesus, “Rabbi, it is good for us to be here. Let us construct three shelters: one for You, one for Moses, and one for Elijah.”
 
 ## Mark 9:6
 
@@ -28,7 +28,7 @@ Peter was at a loss for words, for they were filled with fear.
 
 ## Mark 9:7
 
-A cloud formed, overshadowing them, and a voice came from the cloud: “This is my beloved Son; listen to him!”
+A cloud formed, overshadowing them, and a voice came from the cloud: “This is My beloved Son; listen to Him!”
 
 ## Mark 9:8
 
@@ -46,7 +46,7 @@ They kept this matter to themselves, discussing what “rising from the dead” 
 
 ## Mark 9:11
 
-They questioned him, “Why do the scribes say that Elijah must come first?”
+They questioned Him, “Why do the scribes say that Elijah must come first?”
 
 ## Mark 9:12
 
@@ -64,7 +64,7 @@ When they returned to the other disciples, they saw a large crowd surrounding th
 
 ## Mark 9:15
 
-As soon as the crowd saw Jesus, they were filled with wonder and ran to greet him.
+As soon as the crowd saw Jesus, they were filled with wonder and ran to greet Him.
 
 ## Mark 9:16
 
@@ -72,19 +72,19 @@ He inquired of them, “What is the dispute you are having with them?”
 
 ## Mark 9:17
 
-One man from the crowd answered, “Teacher, I brought you my son, who is possessed by a spirit that renders him mute.
+One man from the crowd answered, “Teacher, I brought You my son, who is possessed by a spirit that renders him mute.
 
 ## Mark 9:18
 
-Whenever it seizes him, it throws him to the ground. He foams at the mouth, grinds his teeth, and becomes rigid. I asked your disciples to drive out the spirit, but they could not.”
+Whenever it seizes him, it throws him to the ground. He foams at the mouth, grinds his teeth, and becomes rigid. I asked Your disciples to drive out the spirit, but they could not.”
 
 ## Mark 9:19
 
-Jesus responded, “O unbelieving generation, how long shall I remain with you? How long shall I endure you? Bring the boy to me.”
+Jesus responded, “O unbelieving generation, how long shall I remain with you? How long shall I endure you? Bring the boy to Me.”
 
 ## Mark 9:20
 
-They brought the boy to Jesus. When the spirit saw him, it immediately threw the boy into convulsions. He fell to the ground, rolling and foaming at the mouth.
+They brought the boy to Jesus. When the spirit saw Him, it immediately threw the boy into convulsions. He fell to the ground, rolling and foaming at the mouth.
 
 ## Mark 9:21
 
@@ -92,11 +92,11 @@ Jesus asked the boy’s father, “How long has he been like this?” He replied
 
 ## Mark 9:22
 
-It has often thrown him into fire or water to destroy him. But if you can do anything, have compassion on us and help us.”
+It has often thrown him into fire or water to destroy him. But if You can do anything, have compassion on us and help us.”
 
 ## Mark 9:23
 
-Jesus said to him, “‘If you can’? Everything is possible for one who believes.”
+Jesus said to him, “‘If You can’? Everything is possible for one who believes.”
 
 ## Mark 9:24
 
@@ -104,7 +104,7 @@ Immediately, the boy’s father cried out, “I do believe; help my unbelief!”
 
 ## Mark 9:25
 
-When Jesus saw a crowd rapidly gathering, he rebuked the impure spirit, saying, “You mute and deaf spirit, I command you, come out of him and never enter him again.”
+When Jesus saw a crowd rapidly gathering, He rebuked the impure spirit, saying, “You mute and deaf spirit, I command you, come out of him and never enter him again.”
 
 ## Mark 9:26
 
@@ -116,7 +116,7 @@ But Jesus, taking him by the hand, helped him to his feet, and he stood up.
 
 ## Mark 9:28
 
-After Jesus had gone indoors, his disciples asked him privately, “Why were we unable to drive it out?”
+After Jesus had gone indoors, His disciples asked Him privately, “Why were we unable to drive it out?”
 
 ## Mark 9:29
 
@@ -130,17 +130,17 @@ They departed from there and passed through Galilee, and Jesus did not want anyo
 
 ## Mark 9:31
 
-For he was instructing his disciples, saying, “The Son of Man is to be delivered into the hands of men. They will kill him, and after three days he will rise.”
+For He was instructing His disciples, saying, “The Son of Man is to be delivered into the hands of men. They will kill Him, and after three days He will rise.”
 
 ## Mark 9:32
 
-But they did not comprehend this statement and were afraid to ask him.
+But they did not comprehend this statement and were afraid to ask Him.
 
 ---
 
 ## Mark 9:33
 
-They arrived at Capernaum. When he was in the house, he asked them, “What were you discussing on the way?”
+They arrived at Capernaum. When He was in the house, He asked them, “What were you discussing on the way?”
 
 ## Mark 9:34
 
@@ -152,35 +152,35 @@ Sitting down, Jesus called the Twelve and said, “If anyone desires to be first
 
 ## Mark 9:36
 
-He took a child, placed him among them, and taking him in his arms, he said to them,
+He took a child, placed him among them, and taking him in His arms, He said to them,
 
 ## Mark 9:37
 
-“Whoever receives one of these little children in my name receives me; and whoever receives me does not receive me but the one who sent me.”
+“Whoever receives one of these little children in My name receives Me; and whoever receives Me does not receive Me but the one who sent Me.”
 
 ---
 
 ## Mark 9:38
 
-John said to him, “Teacher, we saw someone driving out demons in your name, and we tried to stop him because he was not one of us.”
+John said to Him, “Teacher, we saw someone driving out demons in Your name, and we tried to stop him because he was not one of us.”
 
 ## Mark 9:39
 
-But Jesus said, “Do not stop him, for no one who does a miracle in my name can soon afterwards speak evil of me.
+But Jesus said, “Do not stop him, for no one who does a miracle in My name can soon afterwards speak evil of Me.
 
 ## Mark 9:40
 
-For anyone who is not against us, is for us.
+For anyone who is not against us is for us.
 
 ## Mark 9:41
 
-Truly I tell you, anyone who gives you a cup of water in my name because you belong to Christ will certainly not lose their reward.
+Truly I tell you, anyone who gives you a cup of water in My name because you belong to Christ will certainly not lose their reward.
 
 ---
 
 ## Mark 9:42
 
-“If anyone causes one of these little ones who believe in me to stumble, it would be better for them if a large millstone were hung around their neck and they were thrown into the sea.
+“If anyone causes one of these little ones who believe in Me to stumble, it would be better for them if a large millstone were hung around their neck and they were thrown into the sea.
 
 ## Mark 9:43
 
@@ -204,14 +204,13 @@ And if your eye leads you to stumble, pluck it out. It is better for you to ente
 
 ## Mark 9:48
 
-where
+where their worm does not die,
 
-> their worm does not die,
-> and the fire is never put out.
+>  and the fire is never put out.
 
 ## Mark 9:49
 
-For everyone will be refined with fire.
+For everyone will be salted with fire.
 
 ## Mark 9:50
 

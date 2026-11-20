@@ -74,7 +74,7 @@ I am grateful to God that I speak in tongues more than all of you;
 
 ## 1 Corinthians 14:19
 
-Yet, in the church, I would rather speak five words with understanding, to instruct others as well, than ten thousand words in a tongue.
+yet, in the church, I would rather speak five words with understanding, to instruct others as well, than ten thousand words in a tongue.
 
 ## 1 Corinthians 14:20
 
@@ -84,11 +84,10 @@ Brothers and sisters, do not be children in your thinking; in regard to evil be 
 
 In the Law it is written:
 
-> “By people of strange tongues
-> and by the lips of foreigners
-> I will speak to this people,
-> and not even then will they listen to Me,”
-> says the Lord.
+>  “By people of strange tongues and by the lips of foreigners I will speak to this people,
+>  and not even then will they listen to Me,
+> ”
+>  says the Lord.
 
 ## 1 Corinthians 14:22
 
@@ -104,7 +103,7 @@ But if everyone prophesies, and an unbeliever or outsider enters, they are convi
 
 ## 1 Corinthians 14:25
 
-The secrets of their heart are revealed; and so they will fall on their face and worship God, declaring that God is truly among you.
+the secrets of their heart are revealed; and so they will fall on their face and worship God, declaring that God is truly among you.
 
 ## 1 Corinthians 14:26
 
@@ -116,7 +115,7 @@ If anyone speaks in a tongue, it should be by two or at most three, and each in 
 
 ## 1 Corinthians 14:28
 
-But if there is no interpreter, they should remain silent in the church, and speak to themselves and to God.
+but if there is no interpreter, they should remain silent in the church, and speak to themselves and to God.
 
 ## 1 Corinthians 14:29
 
@@ -132,15 +131,15 @@ For you can all prophesy one by one, so that all may learn and all may be encour
 
 ## 1 Corinthians 14:32
 
-And the spirits of prophets are under the control of prophets;
+and the spirits of prophets are under the control of prophets;
 
 ## 1 Corinthians 14:33
 
-For God is a God of peace, not disorder. As in all the churches of the saints,
+for God is a God of peace, not disorder. As in all the churches of the saints,
 
 ## 1 Corinthians 14:34
 
-The women should remain silent in the churches; for they are not permitted to speak, but should be in submission, as the Law also says.
+the women should remain silent in the churches; for they are not permitted to speak, but should be in submission, as the Law also says.
 
 ## 1 Corinthians 14:35
 

@@ -38,7 +38,7 @@ But if they do not believe even these two signs or listen to you, take some wate
 
 ## Exodus 4:10
 
-Moses said to the Lord, “Please, my Lord, I have never been eloquent, neither in the past nor since you have spoken to your servant. I am slow of speech and tongue.”
+Moses said to the Lord, “Please, my Lord, I have never been eloquent, neither in the past nor since You have spoken to Your servant. I am slow of speech and tongue.”
 
 ## Exodus 4:11
 
@@ -86,11 +86,11 @@ The Lord instructed Moses, “When you return to Egypt, perform before Pharaoh a
 
 ## Exodus 4:22
 
-Then you shall say to Pharaoh, ‘This is what the Lord says: Israel is my firstborn son,
+Then you shall say to Pharaoh, ‘This is what the Lord says: Israel is My firstborn son,
 
 ## Exodus 4:23
 
-and I have said to you, “Release my son, so he may worship me.” But you refused to let him go; therefore, I will take the life of your firstborn son.’”
+and I have said to you, “Release My son, so he may worship Me.” But you refused to let him go; therefore, I will take the life of your firstborn son.’”
 
 ## Exodus 4:24
 

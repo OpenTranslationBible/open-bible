@@ -2,7 +2,7 @@
 
 ## Proverbs 4:1
 
-Hear, my sons, a father's instruction; pay heed to gain understanding.
+Hear, my sons, a father’s instruction; pay heed to gain understanding.
 
 ## Proverbs 4:2
 
@@ -14,10 +14,10 @@ When I was a son to my father, tender and cherished by my mother,
 
 ## Proverbs 4:4
 
-He instructed me and said,
+he instructed me and said,
 
-> “Let your heart grasp my words;
-> keep my commandments and live.
+>  “Let your heart grasp my words;
+>  keep my commandments and live.
 
 ## Proverbs 4:5
 

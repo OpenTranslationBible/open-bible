@@ -2,7 +2,7 @@
 
 ## Mark 11:1
 
-As they approached Jerusalem, at Bethphage and Bethany near the Mount of Olives, Jesus sent two of his disciples,
+As they approached Jerusalem, at Bethphage and Bethany near the Mount of Olives, Jesus sent two of His disciples,
 
 ## Mark 11:2
 
@@ -26,7 +26,7 @@ They answered them just as Jesus had instructed, and the people allowed them to 
 
 ## Mark 11:7
 
-They brought the colt to Jesus and placed their cloaks on it, and he sat on it.
+They brought the colt to Jesus and placed their cloaks on it, and He sat on it.
 
 ## Mark 11:8
 
@@ -36,17 +36,17 @@ Many spread their cloaks on the road, while others spread leafy branches they ha
 
 Those who went ahead and those who followed were shouting,
 
-> “Hosanna!
-> Blessed is he who comes in the name of the Lord!”
+>  “Hosanna!
+>  Blessed is He who comes in the name of the Lord!”
 
 ## Mark 11:10
 
-> “Blessed is the coming of the kingdom of David!
-> Hosanna in the highest!”
+> “Blessed is the coming of the kingdom of our father David!
+>  Hosanna in the highest!”
 
 ## Mark 11:11
 
-Jesus entered Jerusalem and went into the temple courts. After looking around at everything, he went out to Bethany with the Twelve, as it was already late.
+Jesus entered Jerusalem and went into the temple courts. After looking around at everything, He went out to Bethany with the Twelve, as it was already late.
 
 ---
 
@@ -56,11 +56,11 @@ The following day, as they were leaving Bethany, Jesus felt hungry.
 
 ## Mark 11:13
 
-Seeing in the distance a fig tree in leaf, he went to see if he might find anything on it. When he reached it, he found nothing but leaves, as it was not the season for figs.
+Seeing in the distance a fig tree in leaf, He went to see if He might find anything on it. When He reached it, He found nothing but leaves, as it was not the season for figs.
 
 ## Mark 11:14
 
-He said to the tree, “May no one ever eat fruit from you again.” And his disciples heard him say it.
+He said to the tree, “May no one ever eat fruit from you again.” And His disciples heard Him say it.
 
 ---
 
@@ -70,15 +70,15 @@ Upon arriving in Jerusalem, Jesus entered the temple courts and began to drive o
 
 ## Mark 11:16
 
-and he did not allow anyone to carry goods through the temple courts.
+and He did not allow anyone to carry goods through the temple courts.
 
 ## Mark 11:17
 
-As he taught them, he said, “Is it not written: ‘My house will be called a house of prayer for all nations’? But you have made it a den of robbers.”
+As He taught them, He said, “Is it not written: ‘My house will be called a house of prayer for all nations’? But you have made it a den of robbers.”
 
 ## Mark 11:18
 
-The chief priests and the teachers of the law heard this and began seeking a way to eliminate him, for they feared him, because the whole crowd was amazed at his teaching.
+The chief priests and the teachers of the law heard this and began seeking a way to eliminate Him, for they feared Him, because the whole crowd was amazed at His teaching.
 
 ## Mark 11:19
 
@@ -92,7 +92,7 @@ In the morning, as they went along, they saw the fig tree withered from the root
 
 ## Mark 11:21
 
-Peter remembered and said to Jesus, “Rabbi, look! The fig tree you spoke against has withered!”
+Peter remembered and said to Jesus, “Rabbi, look! The fig tree You cursed has withered!”
 
 ## Mark 11:22
 
@@ -118,23 +118,23 @@ And when you stand praying, if you hold anything against anyone, forgive them, s
 
 ## Mark 11:27
 
-They came again to Jerusalem, and as Jesus was walking in the temple courts, the chief priests, the teachers of the law and the elders came to him,
+They came again to Jerusalem, and as Jesus was walking in the temple courts, the chief priests, the teachers of the law and the elders came to Him,
 
 ## Mark 11:28
 
-and asked, “By what authority are you doing these things, and who gave you this authority?”
+and asked, “By what authority are You doing these things, and who gave You this authority?”
 
 ## Mark 11:29
 
-Jesus responded, “I will pose one question to you. Answer me, and I will tell you by what authority I am doing these things.
+Jesus responded, “I will pose one question to you. Answer Me, and I will tell you by what authority I am doing these things.
 
 ## Mark 11:30
 
-Was John's baptism from heaven, or of human origin? Tell me!”
+Was John’s baptism from heaven, or of human origin? Tell Me!”
 
 ## Mark 11:31
 
-They conferred among themselves, saying, “If we say, ‘From heaven,’ he will ask, ‘Then why didn’t you believe him?’
+They conferred among themselves, saying, “If we say, ‘From heaven,’ He will ask, ‘Then why didn’t you believe him?’
 
 ## Mark 11:32
 

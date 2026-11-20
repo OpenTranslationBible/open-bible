@@ -7,7 +7,7 @@
 I know your deeds, your labour, and your perseverance, and that you cannot tolerate evil people. You have tested those who claim to be apostles but are not, and have found them false.
 
 ## Revelation 2:3
-You have endured and persevered for my name, and have not grown weary.
+You have endured and persevered for My name, and have not grown weary.
 
 ## Revelation 2:4
 Yet I have this against you: You have abandoned the love you had at first.
@@ -37,7 +37,7 @@ Let those who have ears listen to what the Spirit says to the churches. The one 
 “To the angel of the church in Pergamum write: These are the words of Him who possesses the sharp, double-edged sword.
 
 ## Revelation 2:13
-I know where you live—where Satan's throne is. Yet you hold firmly to my name and did not deny your faith in me, even in the days of Antipas, my faithful witness, who was killed among you, where Satan dwells.
+I know where you live—where Satan’s throne is. Yet you hold firmly to My name and did not deny your faith in Me, even in the days of Antipas, My faithful witness, who was killed among you, where Satan dwells.
 
 ## Revelation 2:14
 But I have a few things against you: There are some among you who hold to the teaching of Balaam, who taught Balak to put a stumbling block before the Israelites, to eat food sacrificed to idols and to commit sexual immorality.
@@ -46,7 +46,7 @@ But I have a few things against you: There are some among you who hold to the te
 Similarly, you also have those who adhere to the teaching of the Nicolaitans.
 
 ## Revelation 2:16
-Repent therefore! Otherwise, I will come to you quickly and fight against them with the sword of my mouth.
+Repent therefore! Otherwise, I will come to you quickly and fight against them with the sword of My mouth.
 
 ## Revelation 2:17
 Let those who have ears listen to what the Spirit says to the churches. To the one who overcomes, I will give some of the hidden manna. I will also provide that person with a white stone with a new name written on it, known only to the one who receives it.
@@ -58,7 +58,7 @@ Let those who have ears listen to what the Spirit says to the churches. To the o
 I know your deeds, your love and faith, your service and perseverance, and that your deeds of late are greater than at first.
 
 ## Revelation 2:20
-Nevertheless, I have this against you: You tolerate that woman Jezebel, who calls herself a prophetess. By her teaching she misleads my servants into sexual immorality and the eating of food sacrificed to idols.
+Nevertheless, I have this against you: You tolerate that woman Jezebel, who calls herself a prophetess. By her teaching she misleads My servants into sexual immorality and the eating of food sacrificed to idols.
 
 ## Revelation 2:21
 I have given her time to turn away from her immorality, but she is unwilling.
@@ -67,7 +67,7 @@ I have given her time to turn away from her immorality, but she is unwilling.
 Behold, I will cast her on a bed of suffering, and those who commit adultery with her will suffer intensely, unless they repent of her ways.
 
 ## Revelation 2:23
-I will bring judgment upon her children. Then all the churches will know that I am He who searches hearts and minds, and I will repay each of you according to your deeds.
+I will strike her children dead. Then all the churches will know that I am He who searches hearts and minds, and I will repay each of you according to your deeds.
 
 ## Revelation 2:24
 Now I say to the rest of you in Thyatira, to you who do not hold to her teaching and have not learned what some call Satan’s deep secrets, I will not impose any other burden on you,
@@ -76,10 +76,10 @@ Now I say to the rest of you in Thyatira, to you who do not hold to her teaching
 but continue to hold on to what you have until I come.
 
 ## Revelation 2:26
-To the one who overcomes and does my will to the end, I will give authority over the nations—
+To the one who overcomes and does My will to the end, I will give authority over the nations—
 
 ## Revelation 2:27
-that one ‘will rule them with a rod of iron and will dash them to pieces like pottery’—just as I have received authority from my Father.
+that one ‘will rule them with a rod of iron and will dash them to pieces like pottery’—just as I have received authority from My Father.
 
 ## Revelation 2:28
 I will also bestow upon that person the morning star.

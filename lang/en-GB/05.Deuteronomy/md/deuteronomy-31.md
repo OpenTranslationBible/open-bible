@@ -37,7 +37,7 @@ when all Israel comes to appear before the Lord your God at the place He will ch
 Gather the people—men, women, children, and the foreigners residing in your towns—so they may listen and learn to fear the Lord your God and carefully follow all the words of this law.
 
 ## Deuteronomy 31:13
-Their children, who are not familiar with this law, should hear it and learn to revere the Lord your God as long as you live in the land you are crossing the Jordan to possess.
+Their children, who are not familiar with this law, should hear it and learn to revere the Lord your God as long as you live in the land you are crossing the Jordan to possess.”
 
 ## Deuteronomy 31:14
 The Lord said to Moses, “The time of your death is near. Call Joshua and present yourselves at the tent of meeting, where I will commission him.” So Moses and Joshua went and presented themselves at the tent of meeting.

@@ -16,7 +16,7 @@ Upon hearing this, I tore my garment and cloak, pulled hair from my head and bea
 
 ## Ezra 9:4
 
-Then all who trembled at the words of the God of Israel, on account of the exiles' unfaithfulness, gathered around me, and I remained appalled until the evening sacrifice.
+Then all who trembled at the words of the God of Israel, on account of the exiles’ unfaithfulness, gathered around me, and I remained appalled until the evening sacrifice.
 
 ## Ezra 9:5
 

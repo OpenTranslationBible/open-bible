@@ -29,9 +29,9 @@ Here is a copy of the letter that Tattenai, the governor of the region beyond th
 ## Ezra 5:7
 
 The report they dispatched to him was written as follows:
-“To King Darius:
+ “To King Darius:
 
-All peace.
+ All peace.
 
 ## Ezra 5:8
 

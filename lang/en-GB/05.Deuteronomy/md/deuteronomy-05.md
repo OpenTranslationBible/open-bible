@@ -34,7 +34,7 @@ while I stood between the Lord and you at that time, to declare to you the word 
 
 ## Deuteronomy 5:9
 
-You shall not bow down to them or serve them; for I, the Lord your God, am a zealous God, bringing the consequences of the fathers' sins upon the children to the third and fourth generation of those who reject Me,
+You shall not bow down to them or serve them; for I, the Lord your God, am a zealous God, bringing the consequences of the fathers’ sins upon the children to the third and fourth generation of those who reject Me,
 
 ## Deuteronomy 5:10
 
@@ -130,4 +130,4 @@ So be careful to do just as the Lord your God has commanded you; do not turn asi
 
 ## Deuteronomy 5:33
 
-Follow all that the Lord your God has commanded you, so that you may live and prosper and prolong your days in the land that you will possess.
+Follow all that the Lord your God has commanded you, so that you may live and prosper and prolong your days in the land that you will possess.”

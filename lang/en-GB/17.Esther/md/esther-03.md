@@ -2,7 +2,7 @@
 
 ## Esther 3:1
 
-After these events, King Xerxes honoured Haman, son of Hammedatha the Agagite, elevating him and establishing his authority over all the other officials.
+After these events, King Ahasuerus honoured Haman, son of Hammedatha the Agagite, elevating him and establishing his authority over all the other officials.
 
 ## Esther 3:2
 
@@ -26,15 +26,15 @@ When Haman saw that Mordecai neither bowed down nor paid him homage, he was fill
 
 ## Esther 3:6
 
-Having learned who Mordecai’s people were, he deemed it beneath him to kill only Mordecai. Instead, Haman sought to destroy all the Jews, the people of Mordecai, throughout the kingdom of Xerxes.
+Having learned who Mordecai’s people were, he deemed it beneath him to kill only Mordecai. Instead, Haman sought to destroy all the Jews, the people of Mordecai, throughout the kingdom of Ahasuerus.
 
 ## Esther 3:7
 
-In the twelfth year of King Xerxes, in the first month, the month of Nisan, the pur (that is, the lot) was cast in Haman’s presence to determine the day and month, and the lot fell on the twelfth month, the month of Adar.
+In the twelfth year of King Ahasuerus, in the first month, the month of Nisan, the pur (that is, the lot) was cast in Haman’s presence to determine the day and month, and the lot fell on the twelfth month, the month of Adar.
 
 ## Esther 3:8
 
-Then Haman said to King Xerxes, “There is a certain people scattered and dispersed among the peoples in all the provinces of your kingdom. Their customs are different from all other people, and they do not obey the king’s laws; it is not in the king’s interest to tolerate them.
+Then Haman said to King Ahasuerus, “There is a certain people scattered and dispersed among the peoples in all the provinces of your kingdom. Their customs are different from all other people, and they do not obey the king’s laws; it is not in the king’s interest to tolerate them.
 
 ## Esther 3:9
 
@@ -52,7 +52,7 @@ The king said to Haman, “Keep the silver, and do with the people as you please
 
 ## Esther 3:12
 
-On the thirteenth day of the first month, the king’s scribes were summoned, and they wrote out all of Haman’s orders to the king’s satraps, the governors of each province, and the officials of every people, each province in its own script and each people in their own language. These were written in the name of King Xerxes and sealed with his ring.
+On the thirteenth day of the first month, the king’s scribes were summoned, and they wrote out all of Haman’s orders to the king’s satraps, the governors of each province, and the officials of every people, each province in its own script and each people in their own language. These were written in the name of King Ahasuerus and sealed with his ring.
 
 ## Esther 3:13
 

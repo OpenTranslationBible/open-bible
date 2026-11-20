@@ -2,7 +2,7 @@
 
 ## 2 Chronicles 11:1
 
-Upon Rehoboam's arrival in Jerusalem, he gathered the house of Judah and Benjamin, 180,000 chosen warriors, to wage war against Israel with the aim of restoring the kingdom to himself.
+Upon Rehoboam’s arrival in Jerusalem, he gathered the house of Judah and Benjamin, 180,000 chosen warriors, to wage war against Israel with the aim of restoring the kingdom to himself.
 
 ---
 

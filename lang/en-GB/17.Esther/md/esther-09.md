@@ -2,19 +2,19 @@
 
 ## Esther 9:1
 
-In the twelfth month, the month of Adar, on the thirteenth day, when the king's command and edict were to be enacted, the day when the enemies of the Jews hoped to overpower them, it was reversed, and the Jews gained mastery over those who hated them.
+In the twelfth month, the month of Adar, on the thirteenth day, when the king’s command and edict were to be enacted, the day when the enemies of the Jews hoped to overpower them, it was reversed, and the Jews gained mastery over those who hated them.
 
 ## Esther 9:2
 
-The Jews gathered in their cities throughout the provinces of King Xerxes to attack those who sought their harm, and no one could stand against them, for the fear of them had fallen upon all peoples.
+The Jews gathered in their cities throughout the provinces of King Ahasuerus to attack those who sought their harm, and no one could stand against them, for the fear of them had fallen upon all peoples.
 
 ## Esther 9:3
 
-All the officials of the provinces, the satraps, the governors, and those who conducted the king's business supported the Jews, because the fear of Mordecai had overtaken them.
+All the officials of the provinces, the satraps, the governors, and those who conducted the king’s business supported the Jews, because the fear of Mordecai had overtaken them.
 
 ## Esther 9:4
 
-Mordecai was prominent in the king's palace, and his fame spread throughout the provinces, for he became more and more powerful.
+Mordecai was prominent in the king’s palace, and his fame spread throughout the provinces, for he became more and more powerful.
 
 ---
 
@@ -28,15 +28,15 @@ Within the fortress of Susa, the Jews killed and destroyed five hundred men.
 
 ## Esther 9:7
 
-Parshandatha, Dalphon, Aspatha,
+They killed Parshandatha, Dalphon, Aspatha,
 
 ## Esther 9:8
 
-Poratha, Adalia, and Aridatha,
+Poratha, Adalia, Aridatha,
 
 ## Esther 9:9
 
-Parmashta, and Arisai, Aridai, and Vaizatha,
+Parmashta, Arisai, Aridai, and Vaizatha,
 
 ## Esther 9:10
 
@@ -50,11 +50,11 @@ On that day, the number of those killed in the citadel of Susa was reported to t
 
 ## Esther 9:12
 
-The king said to Queen Esther, “In the citadel of Susa, the Jews have killed and destroyed five hundred men and the ten sons of Haman. What have they done in the rest of the king's provinces? Now, what is your petition? It shall be granted to you. And what further request do you have? It shall be done.”
+The king said to Queen Esther, “In the citadel of Susa, the Jews have killed and destroyed five hundred men and the ten sons of Haman. What have they done in the rest of the king’s provinces? Now, what is your petition? It shall be granted to you. And what further request do you have? It shall be done.”
 
 ## Esther 9:13
 
-Esther replied, “If it pleases the king, let the Jews in Susa be allowed to carry out today's edict tomorrow also, and let the ten sons of Haman be hanged on gallows.”
+Esther replied, “If it pleases the king, let the Jews in Susa be allowed to carry out today’s edict tomorrow also, and let the ten sons of Haman be hanged on gallows.”
 
 ## Esther 9:14
 
@@ -68,7 +68,7 @@ The Jews in Susa gathered again on the fourteenth day of the month of Adar and k
 
 ## Esther 9:16
 
-Meanwhile, the rest of the Jews in the king's provinces assembled to defend themselves and rid themselves of their enemies, killing seventy-five thousand of those who hated them, but they did not lay their hands on the plunder.
+Meanwhile, the rest of the Jews in the king’s provinces assembled to defend themselves and rid themselves of their enemies, killing seventy-five thousand of those who hated them, but they did not lay their hands on the plunder.
 
 ## Esther 9:17
 
@@ -86,7 +86,7 @@ Therefore, the Jews of the rural areas, who live in villages, observe the fourte
 
 ## Esther 9:20
 
-Mordecai recorded these events and sent letters to all the Jews throughout the provinces of King Xerxes, both near and far,
+Mordecai recorded these events and sent letters to all the Jews throughout the provinces of King Ahasuerus, both near and far,
 
 ## Esther 9:21
 
@@ -106,7 +106,7 @@ For Haman, son of Hammedatha, the Agagite, the adversary of all the Jews, had pl
 
 ## Esther 9:25
 
-But when the matter came to the king's attention, he issued written orders that the wicked scheme Haman had devised against the Jews should return on his own head, and that he and his sons should be hanged on gallows.
+But when the matter came to the king’s attention, he issued written orders that the wicked scheme Haman had devised against the Jews should return on his own head, and that he and his sons should be hanged on gallows.
 
 ## Esther 9:26
 
@@ -128,7 +128,7 @@ Then Queen Esther, daughter of Abihail, along with Mordecai the Jew, wrote with 
 
 ## Esther 9:30
 
-And Mordecai sent letters to all the Jews in the 127 provinces of the kingdom of Xerxes, containing words of peace and truth,
+And Mordecai sent letters to all the Jews in the 127 provinces of the kingdom of Ahasuerus, containing words of peace and truth,
 
 ## Esther 9:31
 

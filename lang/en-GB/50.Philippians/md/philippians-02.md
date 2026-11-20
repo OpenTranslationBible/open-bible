@@ -2,7 +2,7 @@
 
 ## Philippians 2:1
 
-Therefore if there is any encouragement from being united with Christ, if any comfort from his love, if any fellowship in the Spirit, if any affection and compassion,
+Therefore if there is any encouragement from being united with Christ, if any comfort from His love, if any fellowship in the Spirit, if any affection and compassion,
 
 ## Philippians 2:2
 
@@ -23,34 +23,33 @@ Have the same mindset among yourselves as was in Christ Jesus:
 ## Philippians 2:6
 
 > Who, existing in the form of God,
-> did not consider equality with God something to be grasped for his own advantage;
+>  did not consider equality with God something to be grasped for His own advantage;
 
 ## Philippians 2:7
 
-> but emptied himself
-> by taking the form of a servant,
-> being made in human likeness.
+> but emptied Himself by taking the form of a servant,
+>  being made in human likeness.
 
 ## Philippians 2:8
 
 > And being found in appearance as a man,
-> he humbled himself by becoming obedient to the point of death,
-> even death on a cross.
+>  He humbled Himself by becoming obedient to the point of death,
+>  even death on a cross.
 
 ## Philippians 2:9
 
-> Therefore God highly exalted him,
-> and bestowed on him the name that is above every name,
+> Therefore God highly exalted Him,
+>  and bestowed on Him the name that is above every name,
 
 ## Philippians 2:10
 
 > so that at the name of Jesus every knee should bend,
-> in the heavenly realms, on earth, and beneath the earth,
+>  in the heavenly realms, on earth, and beneath the earth,
 
 ## Philippians 2:11
 
 > and every tongue should declare that Jesus Christ is Lord,
-> bringing glory to God the Father.
+>  bringing glory to God the Father.
 
 ## Philippians 2:12
 
@@ -58,7 +57,7 @@ So then, my beloved, just as you have always obeyed, not only in my presence but
 
 ## Philippians 2:13
 
-for it is God who is at work in you, both to will and to act in order to fulfil his good purpose.
+for it is God who is at work in you, both to will and to act in order to fulfil His good purpose.
 
 ## Philippians 2:14
 
@@ -66,7 +65,7 @@ Do everything without complaining or grumbling,
 
 ## Philippians 2:15
 
-so that you may become blameless and pure, as God's children without fault in a distorted and perverse generation. Then you will shine among them like stars in the sky,
+so that you may become blameless and pure, as God’s children without fault in a distorted and perverse generation. Then you will shine among them like stars in the sky,
 
 ## Philippians 2:16
 

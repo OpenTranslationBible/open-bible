@@ -2,7 +2,7 @@
 
 ## Isaiah 40:1
 
-“Console and console my people,” says your God.
+“Console and console My people,” says your God.
 
 ## Isaiah 40:2
 
@@ -50,7 +50,7 @@ Who has gauged the waters in the hollow of His hand, or with the span of His han
 
 ## Isaiah 40:13
 
-Who can comprehend the Spirit of the Lord, or serve as the Lord's advisor?
+Who can comprehend the Spirit of the Lord, or serve as the Lord’s advisor?
 
 ## Isaiah 40:14
 

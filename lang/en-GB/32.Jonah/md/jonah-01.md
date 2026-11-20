@@ -7,7 +7,7 @@ The word of the Lord came to Jonah son of Amittai, saying,
 ## Jonah 1:2
 
 > “Arise, go to the great city of Nineveh and proclaim against it,
-> for their wickedness has come up before me.”
+>  for their wickedness has come up before Me.”
 
 ## Jonah 1:3
 
@@ -24,7 +24,7 @@ The sailors were afraid and each cried out to his own god. They threw the cargo 
 ## Jonah 1:6
 
 The captain went to him and said,
-“How can you sleep? Get up, call on your god! Perhaps your god will notice us so that we will not perish.”
+ “How can you sleep? Get up, call on your god! Perhaps your god will notice us so that we will not perish.”
 
 ## Jonah 1:7
 
@@ -56,7 +56,7 @@ Nevertheless, the men rowed hard to return to land, but they could not, for the 
 
 ## Jonah 1:14
 
-Then they cried out to the Lord, “We beseech you, O Lord, do not let us perish for this man’s life, and do not hold us accountable for innocent blood; for you, Lord, have done as you pleased.”
+Then they cried out to the Lord, “We beseech You, O Lord, do not let us perish for this man’s life, and do not hold us accountable for innocent blood; for You, Lord, have done as You pleased.”
 
 ## Jonah 1:15
 

@@ -22,7 +22,7 @@ The Egyptians will know that I am the Lord when I stretch out My hand over Egypt
 
 ## Exodus 7:6
 
-Moses and Aaron carried out the Lord's instructions exactly as commanded.
+Moses and Aaron carried out the Lord’s instructions exactly as commanded.
 
 ## Exodus 7:7
 

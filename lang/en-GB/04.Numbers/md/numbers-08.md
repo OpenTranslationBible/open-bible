@@ -54,7 +54,7 @@ Have the Levites stand before Aaron and his sons and present them as a wave offe
 
 ## Numbers 8:14
 
-In this manner, you shall set the Levites apart from the other Israelites, and the Levites shall be mine.
+In this manner, you shall set the Levites apart from the other Israelites, and the Levites shall be Mine.
 
 ## Numbers 8:15
 
@@ -62,11 +62,11 @@ After you have purified the Levites and presented them as a wave offering, they 
 
 ## Numbers 8:16
 
-They are given entirely to me from among the Israelites. I have taken them for myself instead of the firstborn of every womb, the firstborn of all the Israelites.
+They are given entirely to Me from among the Israelites. I have taken them for Myself instead of the firstborn of every womb, the firstborn of all the Israelites.
 
 ## Numbers 8:17
 
-For every firstborn in Israel, both human and animal, is mine. On the day I struck down all the firstborn in Egypt, I set them apart for myself.
+For every firstborn in Israel, both human and animal, is Mine. On the day I struck down all the firstborn in Egypt, I set them apart for Myself.
 
 ## Numbers 8:18
 

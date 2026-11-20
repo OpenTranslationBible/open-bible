@@ -52,7 +52,7 @@ house of David, this is what the Lord says: Administer justice every morning; re
 
 ## Jeremiah 21:13
 
-Behold, I am against you, you who dwell in the valley, on the rocky plateau, declares the Lord— you who say, “Who can come down against us? Who can enter our dwellings?”
+Behold, I am against you, you who dwell in the valley, on the rocky plateau, declares the Lord—you who say, “Who can come down against us? Who can enter our dwellings?”
 
 ## Jeremiah 21:14
 

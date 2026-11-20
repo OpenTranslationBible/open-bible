@@ -7,7 +7,7 @@ Be cautious as you enter the house of God, and approach to listen rather than to
 Do not be rash with your mouth, nor hasty in your heart to bring up a matter before God. For God is in heaven and you are on earth, so let your words be few.
 
 ## Ecclesiastes 5:3
-For dreams come with much busyness, and a fool's voice with many words.
+For dreams come with much busyness, and a fool’s voice with many words.
 
 ## Ecclesiastes 5:4
 When you make a vow to God, do not delay in fulfilling it. He takes no pleasure in fools; fulfil what you vow.
@@ -43,7 +43,7 @@ There is a grievous evil I have seen under the sun: wealth hoarded to the detrim
 or wealth lost through unfortunate circumstances, leaving nothing for their children to inherit.
 
 ## Ecclesiastes 5:15
-As one comes naked from their mother's womb, so they will depart as they came. They will take nothing from their toil that they can carry in their hands.
+As one comes naked from their mother’s womb, so they will depart as they came. They will take nothing from their toil that they can carry in their hands.
 
 ## Ecclesiastes 5:16
 This too is a grievous evil: exactly as one comes, so they will depart. What gain is there for those who toil for the wind?
@@ -52,7 +52,7 @@ This too is a grievous evil: exactly as one comes, so they will depart. What gai
 All their days they eat in darkness, with great frustration, sickness, and anger.
 
 ## Ecclesiastes 5:18
-This is what I have observed to be good and fitting: to eat, to drink, and to find satisfaction in all one's labour under the sun during the few days of life God has given them—for this is their reward.
+This is what I have observed to be good and fitting: to eat, to drink, and to find satisfaction in all one’s labour under the sun during the few days of life God has given them—for this is their reward.
 
 ## Ecclesiastes 5:19
 Moreover, when God gives someone wealth and possessions, and the ability to enjoy them, to accept their lot and find joy in their toil—this is a gift from God.

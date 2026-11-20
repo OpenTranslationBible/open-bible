@@ -2,11 +2,11 @@
 
 ## Luke 10:1
 
-After this, the Lord appointed seventy-two others and sent them in pairs ahead of him to every city and place where he himself was about to go.
+After this, the Lord appointed seventy-two others and sent them in pairs ahead of Him to every city and place where He Himself was about to go.
 
 ## Luke 10:2
 
-He said to them, “The harvest is plentiful, but the workers are few. Therefore, ask the Lord of the harvest to send out workers into his harvest field.
+He said to them, “The harvest is plentiful, but the workers are few. Therefore, ask the Lord of the harvest to send out workers into His harvest field.
 
 ## Luke 10:3
 
@@ -64,13 +64,13 @@ And you, Capernaum, will you be lifted to the heavens? No, you will be brought d
 
 ## Luke 10:16
 
-“Those who listen to you are listening to me; those who reject you are rejecting me; and those who reject me are rejecting the one who sent me.”
+“Those who listen to you are listening to Me; those who reject you are rejecting Me; and those who reject Me are rejecting the one who sent Me.”
 
 ---
 
 ## Luke 10:17
 
-The seventy-two returned with joy, saying, “Lord, even the demons obey us in your name.”
+The seventy-two returned with joy, saying, “Lord, even the demons obey us in Your name.”
 
 ## Luke 10:18
 
@@ -88,15 +88,15 @@ Nevertheless, do not rejoice that the spirits submit to you, but rejoice that yo
 
 ## Luke 10:21
 
-At that time, Jesus, full of joy through the Holy Spirit, said, “I praise you, Father, Lord of heaven and earth, because you have hidden these things from the wise and learned, and revealed them to little children. Yes, Father, for this was your good pleasure.
+At that time, Jesus, full of joy through the Holy Spirit, said, “I praise You, Father, Lord of heaven and earth, because You have hidden these things from the wise and learned, and revealed them to little children. Yes, Father, for this was Your good pleasure.
 
 ## Luke 10:22
 
-“All things have been handed over to me by my Father. No one knows who the Son is except the Father, and no one knows who the Father is except the Son and those to whom the Son chooses to reveal him.”
+“All things have been handed over to Me by My Father. No one knows who the Son is except the Father, and no one knows who the Father is except the Son and those to whom the Son chooses to reveal Him.”
 
 ## Luke 10:23
 
-Then he turned to his disciples and said privately, “Blessed are the eyes that witness what you see.
+Then He turned to His disciples and said privately, “Blessed are the eyes that witness what you see.
 
 ## Luke 10:24
 
@@ -110,7 +110,7 @@ On one occasion, an expert in the law stood up to challenge Jesus. “Teacher,�
 
 ## Luke 10:26
 
-“What is written in the Law?” he replied. “How do you interpret it?”
+“What is written in the Law?” He replied. “How do you interpret it?”
 
 ## Luke 10:27
 
@@ -162,15 +162,15 @@ The expert in the law replied, “The one who showed mercy on him.” Jesus told
 
 ## Luke 10:38
 
-As Jesus and his disciples were on their way, he came to a village where a woman named Martha welcomed him into her home.
+As Jesus and His disciples were on their way, He came to a village where a woman named Martha welcomed Him into her home.
 
 ## Luke 10:39
 
-She had a sister called Mary, who sat at the Lord’s feet listening to his word.
+She had a sister called Mary, who sat at the Lord’s feet listening to His word.
 
 ## Luke 10:40
 
-But Martha was preoccupied with all the preparations that needed to be made. She came to him and asked, “Lord, don’t you care that my sister has left me to do the work by myself? Tell her to help me!”
+But Martha was preoccupied with all the preparations that needed to be made. She came to Him and asked, “Lord, don’t You care that my sister has left me to do the work by myself? Tell her to help me!”
 
 ## Luke 10:41
 

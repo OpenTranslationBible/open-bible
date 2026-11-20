@@ -2,7 +2,7 @@
 
 ## Matthew 10:1
 
-Jesus called together his twelve disciples and granted them authority over unclean spirits, to cast them out, and to heal every disease and sickness.
+Jesus called together His twelve disciples and granted them authority over unclean spirits, to cast them out, and to heal every disease and sickness.
 
 ## Matthew 10:2
 
@@ -14,7 +14,7 @@ Philip and Bartholomew; Thomas and Matthew, who was a tax collector; James, son 
 
 ## Matthew 10:4
 
-Simon the Zealot, and Judas Iscariot, who later betrayed him.
+Simon the Zealot, and Judas Iscariot, who later betrayed Him.
 
 ---
 
@@ -76,7 +76,7 @@ Be on your guard against people; they will hand you over to the local councils a
 
 ## Matthew 10:18
 
-You will be brought before governors and kings because of me, as a testimony to them and to the Gentiles.
+You will be brought before governors and kings because of Me, as a testimony to them and to the Gentiles.
 
 ## Matthew 10:19
 
@@ -94,7 +94,7 @@ For it will not be you speaking, but the Spirit of your Father will speak throug
 
 ## Matthew 10:22
 
-You will be hated by everyone because of my name, but the one who stands firm to the end will be saved.
+You will be hated by everyone because of My name, but the one who stands firm to the end will be saved.
 
 ## Matthew 10:23
 
@@ -140,11 +140,11 @@ So do not be afraid; you are more valuable than many sparrows.
 
 ## Matthew 10:32
 
-“Whoever acknowledges me before others, I will acknowledge before my Father in heaven.
+“Whoever acknowledges Me before others, I will acknowledge before My Father in heaven.
 
 ## Matthew 10:33
 
-But whoever denies me before others, I will deny before my Father in heaven.
+But whoever denies Me before others, I will deny before My Father in heaven.
 
 ---
 
@@ -154,35 +154,34 @@ But whoever denies me before others, I will deny before my Father in heaven.
 
 ## Matthew 10:35
 
-For I have come to
+For I have come to set a son against his father,
 
-> set a son against his father,
-> a daughter against her mother,
-> and a daughter-in-law against her mother-in-law;
+>  a daughter against her mother,
+>  and a daughter-in-law against her mother-in-law;
 
 ## Matthew 10:36
 
-> and a person's enemies will be the members of his own household.
+> and a person’s enemies will be the members of his own household.
 
 ---
 
 ## Matthew 10:37
 
-“If anyone loves their father or mother more than me, they are not deserving of me; if anyone loves their son or daughter more than me, they are not deserving of me.
+“If anyone loves their father or mother more than Me, they are not deserving of Me; if anyone loves their son or daughter more than Me, they are not deserving of Me.
 
 ## Matthew 10:38
 
-Whoever does not take up their cross and follow me is not fit for me.
+Whoever does not take up their cross and follow Me is not fit for Me.
 
 ## Matthew 10:39
 
-Whoever seeks to preserve their life will lose it, and whoever loses their life for my sake will find it.
+Whoever seeks to preserve their life will lose it, and whoever loses their life for My sake will find it.
 
 ---
 
 ## Matthew 10:40
 
-“Anyone who receives you receives me, and anyone who receives me receives the one who sent me.
+“Anyone who receives you receives Me, and anyone who receives Me receives the one who sent Me.
 
 ## Matthew 10:41
 
@@ -190,4 +189,4 @@ Whoever receives a prophet because they are a prophet will receive a prophet’s
 
 ## Matthew 10:42
 
-And if anyone offers even a cup of cold water to one of these little ones who is my disciple, truly I tell you, that person will certainly not miss their reward.”
+And if anyone offers even a cup of cold water to one of these little ones who is My disciple, truly I tell you, that person will certainly not miss their reward.”

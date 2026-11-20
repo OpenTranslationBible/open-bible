@@ -42,7 +42,7 @@ The Philistine said, “I defy the battle lines of Israel this day. Give me a ma
 
 ## 1 Samuel 17:11
 
-When Saul and all Israel heard the Philistine's words, they were filled with dismay and great fear.
+When Saul and all Israel heard the Philistine’s words, they were filled with dismay and great fear.
 
 ---
 
@@ -83,7 +83,7 @@ Now Saul and all the men of Israel were in the Valley of Elah, fighting with the
 ## 1 Samuel 17:20
 
 So David rose early in the morning, left the flock with a keeper, took the supplies and went as Jesse had commanded him.  
-He came to the encampment as the army was going out to the battle line shouting the war cry.
+ He came to the encampment as the army was going out to the battle line shouting the war cry.
 
 ## 1 Samuel 17:21
 
@@ -156,7 +156,7 @@ Your servant has overcome both the lion and the bear; and this uncircumcised Phi
 ## 1 Samuel 17:37
 
 And David said, “The Lord, who rescued me from the paw of the lion and the paw of the bear, will rescue me from the hand of this Philistine.”  
-And Saul said to David, “Go, and may the Lord be with you.”
+ And Saul said to David, “Go, and may the Lord be with you.”
 
 ---
 
@@ -167,14 +167,14 @@ Then Saul clothed David with his garments and put a bronze helmet on his head, a
 ## 1 Samuel 17:39
 
 David strapped his sword over his armour and tried to walk, but he was not used to them.  
-So David said to Saul, “I cannot go with these, for I am not used to them.”  
-And David took them off.
+ So David said to Saul, “I cannot go with these, for I am not used to them.”  
+ And David took them off.
 
 ## 1 Samuel 17:40
 
 Then he took his staff in his hand, and chose for himself five smooth stones from the brook,  
-and put them in the shepherd’s bag which he had, that is, in his pouch, and his sling was in his hand.  
-And he approached the Philistine.
+ and put them in the shepherd’s bag which he had, that is, in his pouch, and his sling was in his hand.  
+ And he approached the Philistine.
 
 ## 1 Samuel 17:41
 
@@ -187,7 +187,7 @@ When the Philistine looked and saw David, he disdained him, for he was only a yo
 ## 1 Samuel 17:43
 
 The Philistine said to David, “Am I a dog, that you come to me with sticks?”  
-And he cursed David by his gods.
+ And he cursed David by his gods.
 
 ## 1 Samuel 17:44
 
@@ -199,55 +199,54 @@ The Philistine also said to David, “Come to me, and I will give your flesh to 
 
 Then David said to the Philistine,
 
-> “You come to me with a sword, a spear, and a javelin,  
-> but I come to you in the name of the Lord of hosts,  
-> the God of the armies of Israel, whom you have defied.
+>  “You come to me with a sword, a spear, and a javelin,  
+>  but I come to you in the name of the Lord of hosts,  
+>  the God of the armies of Israel, whom you have defied.
 
 ## 1 Samuel 17:46
 
 > This day the Lord will deliver you into my hand,  
-> and I will strike you down and remove your head from you.  
-> And I will give the dead bodies of the army of the Philistines this day  
-> to the birds of the sky and the wild animals of the earth,  
-> so that all the earth may know that there is a God in Israel,
+>  and I will strike you down and remove your head from you.  
+>  And I will give the dead bodies of the army of the Philistines this day to the birds of the sky and the wild animals of the earth,  
+>  so that all the earth may know that there is a God in Israel,
 
 ## 1 Samuel 17:47
 
-> and that all this assembly may know  
-> that the Lord does not save by sword or by spear;  
-> for the battle is the Lord’s,  
-> and He will hand you over to us!”
+> and that all this assembly may know that the Lord does not save by sword or by spear;  
+>  for the battle is the Lord’  
+> s,  
+>  and He will hand you over to us!”
 
 ---
 
 ## 1 Samuel 17:48
 
 Then it happened, when the Philistine rose and came forward to meet David,  
-that David ran quickly toward the battle line to meet the Philistine.
+ that David ran quickly toward the battle line to meet the Philistine.
 
 ## 1 Samuel 17:49
 
 And David put his hand into his bag and took from it a stone and slung it,  
-and struck the Philistine on his forehead.  
-The stone sank into his forehead, and he fell on his face to the ground.
+ and struck the Philistine on his forehead.  
+ The stone sank into his forehead, and he fell on his face to the ground.
 
 ## 1 Samuel 17:50
 
 So David prevailed over the Philistine with a sling and a stone,  
-and he struck the Philistine and killed him;  
-but there was no sword in David’s hand.
+ and he struck the Philistine and killed him;  
+ but there was no sword in David’s hand.
 
 ## 1 Samuel 17:51
 
 Then David ran and stood over the Philistine, took his sword and drew it from its sheath,  
-and killed him and cut off his head with it.  
-When the Philistines saw that their champion was dead, they fled.
+ and killed him and cut off his head with it.  
+ When the Philistines saw that their champion was dead, they fled.
 
 ## 1 Samuel 17:52
 
 Then the men of Israel and Judah rose up and shouted and pursued the Philistines as far as the valley,  
-and to the gates of Ekron.  
-And the slain Philistines lay along the way to Shaaraim, even to Gath and Ekron.
+ and to the gates of Ekron.  
+ And the slain Philistines lay along the way to Shaaraim, even to Gath and Ekron.
 
 ## 1 Samuel 17:53
 
@@ -256,15 +255,15 @@ Then the sons of Israel returned from their pursuit of the Philistines and plund
 ## 1 Samuel 17:54
 
 David took the Philistine’s head and brought it to Jerusalem,  
-but he put his weapons in his own tent.
+ but he put his weapons in his own tent.
 
 ---
 
 ## 1 Samuel 17:55
 
 Now when Saul saw David going out against the Philistine,  
-he said to Abner the commander of the army, “Abner, whose son is this young man?”  
-And Abner said, “As your soul lives, O king, I do not know.”
+ he said to Abner the commander of the army, “Abner, whose son is this young man?”  
+ And Abner said, “As your soul lives, O king, I do not know.”
 
 ## 1 Samuel 17:56
 
@@ -277,4 +276,4 @@ So when David returned from defeating the Philistine, Abner took him and brought
 ## 1 Samuel 17:58
 
 Saul said to him, “Whose son are you, young man?”  
-And David said, “I am the son of your servant Jesse the Bethlehemite.”
+ And David said, “I am the son of your servant Jesse the Bethlehemite.”

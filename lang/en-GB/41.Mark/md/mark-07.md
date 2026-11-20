@@ -24,13 +24,13 @@ So the Pharisees and the scribes asked Him, “Why do Your disciples not follow 
 
 He responded, “Isaiah was right when he prophesied about you hypocrites, as it is written:
 
-> ‘These people honour Me with their lips,
-> but their hearts are far from Me.
+>  ‘These people honour Me with their lips,
+>  but their hearts are far from Me.
 
 ## Mark 7:7
 
 > They worship Me in vain;
-> their teachings are merely human commandments.’
+>  their teachings are merely human commandments.’
 
 ## Mark 7:8
 
@@ -68,7 +68,7 @@ Nothing external to a person can defile them by entering them. Rather, it is wha
 
 ## Mark 7:16
 
-[Rhose who have ears to hear, let them hear.]
+[Those who have ears to hear, let them hear.]
 
 ---
 

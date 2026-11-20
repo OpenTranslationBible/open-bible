@@ -25,10 +25,10 @@ Yet, whatever advantages I had, I now regard as loss for the sake of Christ.
 Indeed, I consider everything a loss because of the surpassing worth of knowing Christ Jesus my Lord, for whose sake I have lost all things. I consider them rubbish, that I may gain Christ
 
 ## Philippians 3:9
-and be found in him, not having a righteousness of my own derived from the law, but that which is through faith in Christ—the righteousness that comes from God based on faith.
+and be found in Him, not having a righteousness of my own derived from the law, but that which is through faith in Christ—the righteousness that comes from God based on faith.
 
 ## Philippians 3:10
-I want to know Christ and the power of his resurrection and the fellowship of his sufferings, becoming like him in his death,
+I want to know Christ and the power of His resurrection and the fellowship of His sufferings, becoming like Him in His death,
 
 ## Philippians 3:11
 and so, in some way, attaining to the resurrection from the dead.
@@ -61,4 +61,4 @@ Their end is destruction, their god is their stomach, and their glory is in thei
 However, our true home is in heaven, and we eagerly anticipate the coming of a Saviour from there, the Lord Jesus Christ,
 
 ## Philippians 3:21
-who, by the power that enables him to bring everything under his control, will transform our lowly bodies to be like his glorious body.
+who, by the power that enables Him to bring everything under His control, will transform our lowly bodies to be like His glorious body.

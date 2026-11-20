@@ -2,7 +2,7 @@
 
 ## Mark 4:1
 
-Once more, Jesus began to teach by the sea. A very large crowd gathered around Him, so He got into a boat on the sea and sat down, while the entire crowd was on the shore by the water's edge.
+Once more, Jesus began to teach by the sea. A very large crowd gathered around Him, so He got into a boat on the sea and sat down, while the entire crowd was on the shore by the water’s edge.
 
 ## Mark 4:2
 
@@ -50,9 +50,9 @@ He said to them, “The mystery of the kingdom of God has been given to you, but
 
 so that,
 
-> ‘they may see but not perceive,
-> and hear but not understand;
-> otherwise they might turn and be forgiven.’”
+>  ‘they may see but not perceive,
+>  and hear but not understand;
+>  otherwise they might turn and be forgiven.’”
 
 ---
 
@@ -66,7 +66,7 @@ The sower spreads the word.
 
 ## Mark 4:15
 
-Some are like seed along the path where the word is sown. As soon as they hear it, the adversary comes and takes away the word that was sown in them.
+Some are like seed along the path where the word is sown. As soon as they hear it, Satan comes and takes away the word that was sown in them.
 
 ## Mark 4:16
 

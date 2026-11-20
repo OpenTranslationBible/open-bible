@@ -4,7 +4,7 @@
 Brothers and sisters, if anyone is caught in any wrongdoing, you who are guided by the Spirit should restore that person with a spirit of gentleness. But be careful, lest you too be tempted.
 
 ## Galatians 6:2
-Help carry each other’s burdens, and in doing so, you will fulfill the law of Christ.
+Help carry each other’s burdens, and in doing so, you will fulfil the law of Christ.
 
 ## Galatians 6:3
 If anyone thinks they are something when they are nothing, they are deceiving themselves.

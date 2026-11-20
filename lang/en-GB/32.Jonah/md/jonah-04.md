@@ -4,7 +4,7 @@
 But Jonah found this very displeasing, and he became angry.
 
 ## Jonah 4:2
-He prayed to the Lord, “Is this not what I said, Lord, when I was still in my own country? That is why I tried to prevent it by fleeing to Tarshish. I knew that you are a gracious and compassionate God, slow to anger and rich in love, a God who relents from sending disaster.
+He prayed to the Lord, “Is this not what I said, Lord, when I was still in my own country? That is why I tried to prevent it by fleeing to Tarshish. I knew that You are a gracious and compassionate God, slow to anger and rich in love, a God who relents from sending disaster.
 
 ## Jonah 4:3
 Now, Lord, please take my life from me, for I would rather die than live.”

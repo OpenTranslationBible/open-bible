@@ -102,7 +102,7 @@ Avvim, and Parah, and the settlement of Ophrah,
 
 ## Joshua 18:24
 
-Kephar Ammoni, and Ophni, and Geba —twelve towns with their villages.
+Kephar Ammoni, and Ophni, and Geba—twelve towns with their villages.
 
 ## Joshua 18:25
 
@@ -110,7 +110,7 @@ Gibeon, and Ramah, and the settlement of Beeroth,
 
 ## Joshua 18:26
 
-Mizpah, and Kephirah, and the settlement of Mozah,
+Mizpeh, and Chephirah, and the settlement of Mozah,
 
 ## Joshua 18:27
 
@@ -118,4 +118,4 @@ Rekem, and Irpeel, and the settlement of Taralah,
 
 ## Joshua 18:28
 
-Zelah, Haeleph, the Jebusite city (that is, Jerusalem), Gibeah, and Kiriath —fourteen towns with their villages. This was the inheritance of the tribe of Benjamin according to their clans.
+Zelah, Haeleph, the Jebusite city (that is, Jerusalem), Gibeah, and Kiriath—fourteen towns with their villages. This was the inheritance of the tribe of Benjamin according to their clans.

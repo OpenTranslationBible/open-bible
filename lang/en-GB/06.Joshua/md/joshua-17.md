@@ -3,7 +3,7 @@
 ## Joshua 17:1
 
 This was the allotment for the tribe of Manasseh, the firstborn of Joseph:  
-To Makir, the firstborn of Manasseh and the father of Gilead—who was a man of war—were given Gilead and Bashan.
+ To Machir, the firstborn of Manasseh and the father of Gilead—who was a man of war—were given Gilead and Bashan.
 
 ## Joshua 17:2
 
@@ -11,7 +11,7 @@ So the allotment was made for the rest of the tribe of Manasseh, according to th
 
 ## Joshua 17:3
 
-Now Zelophehad son of Hepher, the son of Gilead, the son of Makir, the son of Manasseh, had no sons but only daughters. Their names were Mahlah, Noah, Hoglah, Milkah, and Tirzah.
+Now Zelophehad son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, had no sons but only daughters. Their names were Mahlah, Noah, Hoglah, Milcah, and Tirzah.
 
 ## Joshua 17:4
 
@@ -29,7 +29,7 @@ because the daughters of the tribe of Manasseh received an inheritance along wit
 
 ## Joshua 17:7
 
-The boundary of Manasseh went from Asher to Mikmethath, east of Shechem. The boundary then ran southward to include the people living at En Tappuah.
+The boundary of Manasseh went from Asher to Michmethath, east of Shechem. The boundary then ran southward to include the people living at En Tappuah.
 
 ## Joshua 17:8
 
@@ -45,7 +45,7 @@ The land on the south belonged to Ephraim and that on the north to Manasseh. The
 
 ## Joshua 17:11
 
-Within Issachar and Asher, Manasseh also had Beth Shan, Ibleam, and the people of Dor, Endor, Taanach, and Megiddo—each with their surrounding settlements.
+Within Issachar and Asher, Manasseh also had Beth-shean, Ibleam, and the people of Dor, Endor, Taanach, and Megiddo—each with their surrounding settlements.
 
 ## Joshua 17:12
 
@@ -67,7 +67,7 @@ Joshua replied, “If you are so numerous, and the hill country of Ephraim is to
 
 ## Joshua 17:16
 
-The descendants of Joseph said, “The hill country is not enough for us, and all the Canaanites who live in the plain have chariots fitted with iron—both those in Beth Shan and its settlements and those in the Valley of Jezreel.”
+The descendants of Joseph said, “The hill country is not enough for us, and all the Canaanites who live in the plain have chariots fitted with iron—both those in Beth-shean and its settlements and those in the Valley of Jezreel.”
 
 ---
 

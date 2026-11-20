@@ -4,10 +4,10 @@
 This is the blessing that Moses, the man of God, gave to the Israelites before he passed away.
 
 ## Deuteronomy 33:2
-He said: “The Lord came from Sinai and dawned upon them from Seir; he shone forth from Mount Paran. He came with myriads of holy ones; at his right hand there was flashing lightning for them.
+He said: “The Lord came from Sinai and dawned upon them from Seir; He shone forth from Mount Paran. He came with myriads of holy ones; at His right hand there was flashing lightning for them.
 
 ## Deuteronomy 33:3
-Indeed, it is he who loves the people; all the holy ones are in his hand. They follow in his steps and take of his words.
+Indeed, it is He who loves the people; all the holy ones are in His hand. They follow in His steps and take of His words.
 
 ## Deuteronomy 33:4
 Moses gave us the law, a possession for the assembly of Jacob.
@@ -19,22 +19,22 @@ He was king in Jeshurun when the leaders of the people gathered, the tribes of I
 “Let Reuben live and not die, nor may his people be few.”
 
 ## Deuteronomy 33:7
-And this is what he said about Judah: “Hear, O Lord, the voice of Judah, and bring him to his people. With his own hands he contends for them, and may you be a help against his adversaries.”
+And this is what he said about Judah: “Hear, O Lord, the voice of Judah, and bring him to his people. With his own hands he contends for them, and may You be a help against his adversaries.”
 
 ## Deuteronomy 33:8
-Of Levi he said: “Let your Thummim and Urim belong to your faithful servant, whom you tested at Massah and with whom you contended at the waters of Meribah.
+Of Levi he said: “Let Your Thummim and Urim belong to Your faithful servant, whom You tested at Massah and with whom You contended at the waters of Meribah.
 
 ## Deuteronomy 33:9
-He said of his father and mother, ‘I have no regard for them.’ He did not acknowledge his brothers or regard his own children, for they kept your word and guarded your covenant.
+He said of his father and mother, ‘I have no regard for them.’ He did not acknowledge his brothers or regard his own children, for they kept Your word and guarded Your covenant.
 
 ## Deuteronomy 33:10
-They teach your ordinances to Jacob and your law to Israel. They offer incense before you and whole burnt offerings on your altar.
+They teach Your ordinances to Jacob and Your law to Israel. They offer incense before You and whole burnt offerings on Your altar.
 
 ## Deuteronomy 33:11
 Bless his strength, O Lord, and be pleased with the work of his hands. Strike down those who rise against him, his foes till they rise no more.”
 
 ## Deuteronomy 33:12
-Of Benjamin he said: “Let the beloved of the Lord dwell in safety by him, who shields him all day long, and between his shoulders he rests.”
+Of Benjamin he said: “Let the beloved of the Lord dwell in safety by Him, who shields him all day long, and between His shoulders he rests.”
 
 ## Deuteronomy 33:13
 Of Joseph he said: “May the Lord bless his land with the precious dew from heaven above and from the deep waters that lie below;
@@ -46,7 +46,7 @@ with the best yield of the sun and the finest produce of the months;
 with the choicest gifts of the ancient mountains and the bounty of the everlasting hills;
 
 ## Deuteronomy 33:16
-with the best gifts of the earth and its fullness, and the favour of him who dwelt in the burning bush. Let these rest on the head of Joseph, on the brow of the prince among his brothers.
+with the best gifts of the earth and its fullness, and the favour of Him who dwelt in the burning bush. Let these rest on the head of Joseph, on the brow of the prince among his brothers.
 
 ## Deuteronomy 33:17
 In majesty he is like a firstborn bull; his horns are the horns of a wild ox. With them he will gore the nations, even to the ends of the earth. Such are the ten thousands of Ephraim, such are the thousands of Manasseh.”
@@ -61,13 +61,13 @@ They will call peoples to the mountain; there they will offer righteous sacrific
 Of Gad he said: “Blessed is he who enlarges Gad’s domain! Gad lives there like a lion, tearing at arm and head.
 
 ## Deuteronomy 33:21
-He chose the best land for himself; the leader’s portion was kept for him. He came with the heads of the people; he executed the Lord’s justice and his ordinances with Israel.”
+He chose the best land for himself; the leader’s portion was kept for him. He came with the heads of the people; he executed the Lord’s justice and His ordinances with Israel.”
 
 ## Deuteronomy 33:22
 Of Dan he said: “Dan is a lion’s cub, leaping out from Bashan.”
 
 ## Deuteronomy 33:23
-Of Naphtali he said: “Naphtali is abounding with the favour of the Lord and is full of his blessing; he will take possession of the sea and the south.”
+Of Naphtali he said: “Naphtali is abounding with the favour of the Lord and is full of His blessing; he will take possession of the sea and the south.”
 
 ## Deuteronomy 33:24
 Of Asher he said: “Most blessed of sons is Asher; let him be favoured by his brothers, and let him dip his foot in oil.
@@ -76,10 +76,10 @@ Of Asher he said: “Most blessed of sons is Asher; let him be favoured by his b
 The bars of your gates will be iron and bronze, and your strength will equal your days.
 
 ## Deuteronomy 33:26
-“There is no one like the God of Jeshurun, who rides across the heavens to your help and on the clouds in his majesty.
+“There is no one like the God of Jeshurun, who rides across the heavens to your help and on the clouds in His majesty.
 
 ## Deuteronomy 33:27
-The everlasting God is your shelter, and beneath you are his eternal arms. He will drive out your enemies before you, declaring, ‘Overcome them!’
+The everlasting God is your shelter, and beneath you are His eternal arms. He will drive out your enemies before you, declaring, ‘Overcome them!’
 
 ## Deuteronomy 33:28
 So Israel will dwell in safety; Jacob will dwell secure in a land of grain and new wine, where the heavens drop dew.

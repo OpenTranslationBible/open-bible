@@ -28,7 +28,7 @@ When he saw Jesus from afar, he ran and bowed down before Him.
 
 ## Mark 5:7
 
-He shouted with a loud voice, “What do you want with me, Jesus, Son of the Most High God? I implore you by God, do not torment me!”
+He shouted with a loud voice, “What do You want with me, Jesus, Son of the Most High God? I implore You by God, do not torment me!”
 
 ## Mark 5:8
 

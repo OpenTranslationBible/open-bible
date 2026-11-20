@@ -46,11 +46,11 @@ Up to this present moment we are both hungry and thirsty, and are poorly clothed
 
 ## 1 Corinthians 4:12
 
-And we labour, working with our own hands; when we are verbally abused, we bless; when we are persecuted, we endure it;
+and we labour, working with our own hands; when we are verbally abused, we bless; when we are persecuted, we endure it;
 
 ## 1 Corinthians 4:13
 
-When we are slandered, we respond as friends; we have become like the refuse of the world, the dregs of all things, even until now.
+when we are slandered, we respond as friends; we have become like the refuse of the world, the dregs of all things, even until now.
 
 ## 1 Corinthians 4:14
 

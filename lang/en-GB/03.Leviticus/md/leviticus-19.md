@@ -10,7 +10,7 @@ The Lord then spoke to Moses, saying,
 
 ## Leviticus 19:3
 
-Each of you shall respect his mother and father, and you shall observe my Sabbaths. I am the Lord your God.
+Each of you shall respect his mother and father, and you shall observe My Sabbaths. I am the Lord your God.
 
 ## Leviticus 19:4
 
@@ -46,7 +46,7 @@ You shall not steal, nor lie, nor deceive one another.
 
 ## Leviticus 19:12
 
-You shall not swear falsely by my name, thereby profaning the name of your God. I am the Lord.
+You shall not swear falsely by My name, thereby profaning the name of your God. I am the Lord.
 
 ## Leviticus 19:13
 
@@ -74,7 +74,7 @@ Do not seek revenge or hold a grudge against anyone among your people, but love 
 
 ## Leviticus 19:19
 
-Keep my decrees. Do not breed different kinds of animals. Do not plant your field with two kinds of seed. Do not wear clothing woven of two kinds of material.
+Keep My decrees. Do not breed different kinds of animals. Do not plant your field with two kinds of seed. Do not wear clothing woven of two kinds of material.
 
 ## Leviticus 19:20
 
@@ -118,7 +118,7 @@ Do not dishonour your daughter by making her a prostitute, or the land will turn
 
 ## Leviticus 19:30
 
-Observe my Sabbaths and show reverence for my sanctuary. I am the Lord.
+Observe My Sabbaths and show reverence for My sanctuary. I am the Lord.
 
 ## Leviticus 19:31
 
@@ -146,4 +146,4 @@ Use accurate scales and honest weights, an honest ephah and an honest hin. I am 
 
 ## Leviticus 19:37
 
-Observe all my decrees and all my laws and follow them. I am the Lord.’”
+Observe all My decrees and all My laws and follow them. I am the Lord.’”

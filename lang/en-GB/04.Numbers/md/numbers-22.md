@@ -25,7 +25,7 @@ The elders of Moab and Midian departed, taking with them the fee for divination.
 Balaam said to them, “Spend the night here, and I will bring you back the answer the Lord gives me.” So the Moabite leaders stayed with him.
 
 ## Numbers 22:9
-The Lord approached Balaam and inquired, “Who are these men with you?”
+God approached Balaam and inquired, “Who are these men with you?”
 
 ## Numbers 22:10
 Balaam replied to God, “Balak, son of Zippor, king of Moab, sent me this message:
@@ -97,7 +97,7 @@ Then the Lord allowed Balaam to see clearly, and he perceived the angel of the L
 The angel of the Lord asked him, “Why have you struck your donkey these three times? I have come here to oppose you because your path is a reckless one before me.
 
 ## Numbers 22:33
-The donkey saw me and turned aside from me these three times. If it had not turned aside, I would certainly have taken your life by now, but I would have spared it.”
+The donkey saw me and turned aside from me these three times. If it had not turned aside, I would certainly have taken your life by now, but I would have spared the donkey.”
 
 ## Numbers 22:34
 Balaam said to the angel of the Lord, “I have sinned. I did not realise you were standing in the road to oppose me. If you are displeased, I will go back.”
@@ -106,7 +106,7 @@ Balaam said to the angel of the Lord, “I have sinned. I did not realise you we
 The angel of the Lord said to Balaam, “Go with the men, but speak only what I tell you.” So Balaam continued with Balak’s officials.
 
 ## Numbers 22:36
-Upon hearing of Balaam's approach, Balak went out to meet him at the Moabite town on the Arnon border, at the edge of his territory.
+Upon hearing of Balaam’s approach, Balak went out to meet him at the Moabite town on the Arnon border, at the edge of his territory.
 
 ## Numbers 22:37
 Balak said to Balaam, “Did I not send you an urgent summons? Why did you not come to me? Am I really unable to reward you?”

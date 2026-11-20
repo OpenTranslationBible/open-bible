@@ -6,7 +6,7 @@ These are the records of the family of Aaron and Moses at the time when the Lord
 
 ## Numbers 3:2
 
-Aaron's sons were Nadab, the firstborn, Abihu, Eleazar, and Ithamar.
+Aaron’s sons were Nadab, the firstborn, Abihu, Eleazar, and Ithamar.
 
 ## Numbers 3:3
 
@@ -114,7 +114,7 @@ In the counting of every male from a month old and upward, there were 8,600, res
 
 ## Numbers 3:29
 
-The families of Kohath's descendants were to camp on the southern side of the tabernacle.
+The families of Kohath’s descendants were to camp on the southern side of the tabernacle.
 
 ## Numbers 3:30
 

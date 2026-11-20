@@ -54,7 +54,7 @@ The poor and the tyrant share this: the Lord lights up the eyes of both.
 
 ## Proverbs 29:14
 
-When a king judges the poor with fairness, his reign will be firmly established.
+When a king judges the poor with fairness, his reign will be firmly established forever.
 
 ---
 

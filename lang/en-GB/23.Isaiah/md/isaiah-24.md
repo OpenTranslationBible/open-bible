@@ -30,7 +30,7 @@ The new wine mourns, the vine withers, all the merry-hearted sigh.
 
 ## Isaiah 24:8
 
-The joy of the tambourines ceases, the noise of the revelers ends, the joy of the harp is silenced.
+The joy of the tambourines ceases, the noise of the revellers ends, the joy of the harp is silenced.
 
 ## Isaiah 24:9
 
@@ -90,4 +90,4 @@ They will be gathered together like prisoners in a pit; they will be shut up in 
 
 ## Isaiah 24:23
 
-Then the moon will be abashed, and the sun ashamed; for the Lord Almighty will reign on Mount Zion and in Jerusalem, and His glory will be before His elders.
+Then the moon will be abashed, and the sun ashamed; for the Lord of hosts will reign on Mount Zion and in Jerusalem, and His glory will be before His elders.

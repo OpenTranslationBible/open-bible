@@ -2,7 +2,7 @@
 
 ## Matthew 23:1
 
-Then Jesus addressed the crowds and his disciples,
+Then Jesus addressed the crowds and His disciples,
 
 ## Matthew 23:2
 
@@ -84,11 +84,11 @@ Therefore, anyone who swears by the altar is swearing by it and by everything on
 
 ## Matthew 23:21
 
-And anyone who swears by the temple swears by it and by him who dwells in it.
+And anyone who swears by the temple swears by it and by Him who dwells in it.
 
 ## Matthew 23:22
 
-And anyone who swears by heaven swears by the throne of God and by him who sits upon it.
+And anyone who swears by heaven swears by the throne of God and by Him who sits upon it.
 
 ---
 
@@ -130,7 +130,7 @@ In saying this, you acknowledge that you are descendants of those who murdered t
 
 ## Matthew 23:32
 
-So then, fulfill what your ancestors began!
+So then, fulfil what your ancestors began!
 
 ## Matthew 23:33
 
@@ -160,4 +160,4 @@ Behold, your house is left to you desolate.
 
 ## Matthew 23:39
 
-For I tell you, you will only see me again when you proclaim, ‘Blessed is he who comes in the name of the Lord.’”
+For I tell you, you will only see Me again when you proclaim, ‘Blessed is He who comes in the name of the Lord.’”

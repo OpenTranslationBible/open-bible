@@ -82,7 +82,7 @@ To the Jews I became as a Jew, so that I might gain Jews; to those who are under
 
 ## 1 Corinthians 9:21
 
-To those who are without the Law, as without the Law, though not being without the law of God but under the law of Christ, so that I might gain those who are without the Law.
+to those who are without the Law, as without the Law, though not being without the law of God but under the law of Christ, so that I might gain those who are without the Law.
 
 ## 1 Corinthians 9:22
 
@@ -102,8 +102,8 @@ Everyone who competes in the games exercises self-control in all things. So they
 
 ## 1 Corinthians 9:26
 
-Therefore I do not run aimlessly; Nor do I flail my arms like a boxer beating nothing but air.
+Therefore I do not run aimlessly; nor do I flail my arms like a boxer beating nothing but air.
 
 ## 1 Corinthians 9:27
 
-Instead I strictly discipline my body and make it my slave, so that after I have preached to others, I don't become disqualified.
+Instead I strictly discipline my body and make it my slave, so that after I have preached to others, I don’t become disqualified.

@@ -2,7 +2,7 @@
 
 ## Luke 19:1
 
-Jesus came into Jericho and continued on his way through the city.
+Jesus came into Jericho and continued on His way through the city.
 
 ## Luke 19:2
 
@@ -14,15 +14,15 @@ He was trying to see who Jesus was, but he could not because of the crowd, for h
 
 ## Luke 19:4
 
-So he ran ahead and climbed a sycamore-fig tree to see him, as Jesus was about to pass that way.
+So he ran ahead and climbed a sycamore-fig tree to see Him, as Jesus was about to pass that way.
 
 ## Luke 19:5
 
-When Jesus reached the spot, he looked up and said, “Zacchaeus, hurry and come down, for today I must stay at your house.”
+When Jesus reached the spot, He looked up and said, “Zacchaeus, hurry and come down, for today I must stay at your house.”
 
 ## Luke 19:6
 
-So he hurried down and received him joyfully.
+So he hurried down and received Him joyfully.
 
 ## Luke 19:7
 
@@ -44,7 +44,7 @@ For the Son of Man came to seek and save the lost.”
 
 ## Luke 19:11
 
-As they were listening to this, he went on to tell them a parable, because he was near Jerusalem and they thought the kingdom of God was going to appear immediately.
+As they were listening to this, He went on to tell them a parable, because He was near Jerusalem and they thought the kingdom of God was going to appear immediately.
 
 ## Luke 19:12
 
@@ -118,7 +118,7 @@ After saying this, Jesus went on ahead, going up to Jerusalem.
 
 ## Luke 19:29
 
-As he approached Bethphage and Bethany, near the Mount of Olives, he sent two of his disciples,
+As He approached Bethphage and Bethany, near the Mount of Olives, He sent two of His disciples,
 
 ## Luke 19:30
 
@@ -130,7 +130,7 @@ If anyone asks you, ‘Why are you untying it?’ respond, ‘The Lord needs it.
 
 ## Luke 19:32
 
-Those who were sent went and found it just as he had described to them.
+Those who were sent went and found it just as He had described to them.
 
 ## Luke 19:33
 
@@ -146,11 +146,11 @@ They brought the colt to Jesus, placed their cloaks on it, and set Jesus on it.
 
 ## Luke 19:36
 
-As he proceeded, people spread their cloaks on the road.
+As He proceeded, people spread their cloaks on the road.
 
 ## Luke 19:37
 
-When he came near the place where the road goes down the Mount of Olives, the whole crowd of disciples began to praise God joyfully in loud voices for all the miracles they had seen,
+When He came near the place where the road goes down the Mount of Olives, the whole crowd of disciples began to praise God joyfully in loud voices for all the miracles they had seen,
 
 ## Luke 19:38
 
@@ -158,7 +158,7 @@ they proclaimed, “Blessed is the King who comes in the name of the Lord! Peace
 
 ## Luke 19:39
 
-Some of the Pharisees in the crowd said to Jesus, “Teacher, instruct your disciples to be silent!”
+Some of the Pharisees in the crowd said to Jesus, “Teacher, instruct Your disciples to be silent!”
 
 ## Luke 19:40
 
@@ -168,7 +168,7 @@ He replied, “I tell you, if they keep quiet, the stones will cry out.”
 
 ## Luke 19:41
 
-As he drew near to Jerusalem and saw the city, he wept over it
+As He drew near to Jerusalem and saw the city, He wept over it
 
 ## Luke 19:42
 
@@ -194,8 +194,8 @@ saying to them, “It is written, ‘My house will be a house of prayer’; but 
 
 ## Luke 19:47
 
-Each day he was teaching at the temple. But the chief priests, the teachers of the law, and the leaders among the people were seeking to kill him.
+Each day He was teaching at the temple. But the chief priests, the teachers of the law, and the leaders among the people were seeking to kill Him.
 
 ## Luke 19:48
 
-Yet they could not find any way to do it, because all the people were hanging on his words.
+Yet they could not find any way to do it, because all the people were hanging on His words.

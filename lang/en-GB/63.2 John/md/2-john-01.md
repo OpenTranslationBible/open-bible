@@ -3,7 +3,7 @@
 ## 2 John 1:1
 
 From the elder,  
-To the chosen lady and her children, whom I truly love; and not only I, but also all who have come to know the truth,
+ To the chosen lady and her children, whom I truly love; and not only I, but also all who have come to know the truth,
 
 ## 2 John 1:2
 

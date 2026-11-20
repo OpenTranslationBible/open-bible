@@ -2,7 +2,7 @@
 
 ## Leviticus 13:1
 
-The Lord then spoke to Moses, saying,
+The Lord then spoke to Moses and Aaron, saying,
 
 ## Leviticus 13:2
 

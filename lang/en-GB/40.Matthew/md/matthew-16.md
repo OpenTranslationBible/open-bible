@@ -24,7 +24,7 @@ As the disciples went across to the other side of the sea, they realised they ha
 
 ## Matthew 16:6
 
-Jesus cautioned them, “Be careful and stay alert against the influence of the Pharisees and Sadducees.”
+Jesus cautioned them, “Be careful and stay alert against the leaven of the Pharisees and Sadducees.”
 
 ## Matthew 16:7
 
@@ -78,7 +78,7 @@ And I tell you that you are Peter, and on this rock I will build My church, and 
 
 ## Matthew 16:19
 
-I will entrust you with the authority of the kingdom of heaven; what you bind on earth will be bound in heaven, and what you loose on earth will be loosed in heaven.”
+I will entrust you with the keys of the kingdom of heaven; what you bind on earth will be bound in heaven, and what you loose on earth will be loosed in heaven.”
 
 ## Matthew 16:20
 

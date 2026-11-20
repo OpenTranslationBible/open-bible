@@ -49,7 +49,7 @@ Extend my greetings to the brothers and sisters at Laodicea, and to Nympha and t
 After this letter has been read among you, ensure it is also read in the church of the Laodiceans and that you in turn read the letter from Laodicea.
 
 ## Colossians 4:17
-Encourage Archippus to fulfill the ministry he has received in the Lord.
+Encourage Archippus to fulfil the ministry he has received in the Lord.
 
 ## Colossians 4:18
 I, Paul, write this greeting in my own hand. Remember my imprisonment. Grace be with you.

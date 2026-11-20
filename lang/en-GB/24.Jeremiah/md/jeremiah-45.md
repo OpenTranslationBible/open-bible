@@ -14,7 +14,7 @@ This is the message that Jeremiah the prophet delivered to Baruch son of Neriah,
 
 ## Jeremiah 45:4
 
-This is what you are to say to him: ‘This is what the Lord says: “See, what I have built I will demolish, and what I have planted I will uproot, concerning the whole land.”
+This is what you are to say to him: ‘This is what the Lord says: See, what I have built I will demolish, and what I have planted I will uproot, concerning the whole land.
 
 ## Jeremiah 45:5
 

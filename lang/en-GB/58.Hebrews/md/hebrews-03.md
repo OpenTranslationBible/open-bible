@@ -6,7 +6,7 @@ Therefore, holy brothers and sisters, participants in the heavenly calling, focu
 
 ## Hebrews 3:2
 
-He was faithful to the one who appointed him, just as Moses was faithful in all his house.
+He was faithful to the one who appointed Him, just as Moses was faithful in all his house.
 
 ## Hebrews 3:3
 
@@ -18,37 +18,37 @@ For every house is built by someone, but God is the creator of all things.
 
 ## Hebrews 3:5
 
-Moses was faithful as a servant in all God's house, bearing witness to what would be spoken later.
+Moses was faithful as a servant in all God’s house, bearing witness to what would be spoken later.
 
 ## Hebrews 3:6
 
-But Christ is faithful as a Son over God's house. And we are his house, if indeed we hold firmly to our confidence and the hope in which we boast.
+But Christ is faithful as a Son over God’s house. And we are His house, if indeed we hold firmly to our confidence and the hope in which we boast.
 
 ## Hebrews 3:7
 
 Therefore, as the Holy Spirit expresses:
 
-> “Today, if you hear his voice,
+>  “Today, if you hear His voice,
 
 ## Hebrews 3:8
 
 > do not harden your hearts as during the rebellion,
-> in the time of testing in the wilderness,
+>  in the time of testing in the wilderness,
 
 ## Hebrews 3:9
 
-where your ancestors tested and tried me, and saw my works for forty years.
+where your ancestors tested and tried Me, and saw My works for forty years.
 
 ## Hebrews 3:10
 
 > Therefore I was angry with that generation,
-> and said, ‘Their hearts always go astray,
-> and they have not known my ways.’
+>  and said, ‘Their hearts always go astray,
+>  and they have not known My ways.’
 
 ## Hebrews 3:11
 
-> So I swore in my anger,
-> ‘They shall never enter my rest.’”
+> So I swore in My anger,
+>  ‘They shall never enter My rest.’”
 
 ## Hebrews 3:12
 
@@ -66,8 +66,8 @@ For we have become partakers of Christ, if we hold our original conviction firml
 
 As it has been said:
 
-> “Today, if you hear his voice,
-> do not harden your hearts as during the rebellion.”
+>  “Today, if you hear His voice,
+>  do not harden your hearts as during the rebellion.”
 
 ## Hebrews 3:16
 
@@ -79,7 +79,7 @@ And with whom was God displeased for forty years? Was it not with those who sinn
 
 ## Hebrews 3:18
 
-And to whom did he declare that they would not enter his rest, if not to those who were disobedient?
+And to whom did He swear that they would not enter His rest, if not to those who were disobedient?
 
 ## Hebrews 3:19
 

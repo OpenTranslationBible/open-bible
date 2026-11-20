@@ -10,13 +10,13 @@ And Abraham said of his wife Sarah, “She is my sister.” So Abimelech, the ki
 But God came to Abimelech in a dream during the night and said to him, “Behold, you are as good as dead because of the woman you have taken; she is a married woman.”
 
 ## Genesis 20:4
-Now Abimelech had not approached her, and he said, “Lord, will you destroy a nation, even if it is innocent?
+Now Abimelech had not approached her, and he said, “Lord, will You destroy a nation, even if it is innocent?
 
 ## Genesis 20:5
 Did he not himself say to me, ‘She is my sister’? And she herself said, ‘He is my brother.’ I have done this with a clear conscience and innocent hands.”
 
 ## Genesis 20:6
-Then God said to him in the dream, “Yes, I know that you did this with a clear conscience, and I have kept you from sinning against me. That is why I did not let you touch her.
+Then God said to him in the dream, “Yes, I know that you did this with a clear conscience, and I have kept you from sinning against Me. That is why I did not let you touch her.
 
 ## Genesis 20:7
 Now return the man’s wife, for he is a prophet, and he will pray for you and you will live. But if you do not return her, be assured that you and all who belong to you will surely die.”

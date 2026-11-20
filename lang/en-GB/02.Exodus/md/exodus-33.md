@@ -38,7 +38,7 @@ As Moses entered the tent, the pillar of cloud would descend and remain at the e
 
 ## Exodus 33:10
 
-When the people observed the pillar of cloud standing at the tent's entrance, they would all stand and worship, each at the entrance of their tent.
+When the people observed the pillar of cloud standing at the tent’s entrance, they would all stand and worship, each at the entrance of their tent.
 
 ## Exodus 33:11
 
@@ -46,7 +46,7 @@ The Lord would speak to Moses face to face, as one speaks to a friend. Then Mose
 
 ## Exodus 33:12
 
-Moses said to the Lord, “You have been instructing me, ‘Lead these people,’ but You have not revealed whom You will send with me. You have said, ‘I know you by name and you have found favour with me.’
+Moses said to the Lord, “You have been instructing me, ‘Lead these people,’ but You have not revealed whom You will send with me. You have said, ‘I know you by name and you have found favour with Me.’
 
 ## Exodus 33:13
 

@@ -148,7 +148,7 @@ They said to Him, “Lord, always give us this bread.”
 
 ## John 6:35
 
-Jesus declared, “I am the bread of life. Whoever comes to me and believes in Me, shall not ever hunger, nor shall they thirst again.
+Jesus declared, “I am the bread of life. Whoever comes to Me will never hunger, and whoever believes in Me will never thirst.
 
 ## John 6:36
 
@@ -186,7 +186,7 @@ Jesus answered, “Cease your murmuring among yourselves.
 
 ## John 6:44
 
-No one can come to Me unless the Father who sent Me, first calls them, and so I will raise them up at the last day.
+No one can come to Me unless the Father who sent Me draws them, and I will raise them up at the last day.
 
 ## John 6:45
 

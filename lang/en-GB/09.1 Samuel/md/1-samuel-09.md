@@ -39,7 +39,7 @@ The servant answered Saul again and said, “Behold, I have with me a quarter of
 ## 1 Samuel 9:10
 
 Then Saul said to his servant, “Your advice is good; come, let us go.”  
-So they went to the city where the man of God was.
+ So they went to the city where the man of God was.
 
 ---
 
@@ -104,7 +104,7 @@ And Samuel said to the cook, “Bring the portion I gave you, of which I said to
 ## 1 Samuel 9:24
 
 So the cook took up the thigh and what was on it and set it before Saul. And Samuel said, “See, what has been reserved is set before you. Eat, for it was kept for you until the appointed time, since I said, ‘I have invited the people.’”  
-So Saul ate with Samuel that day.
+ So Saul ate with Samuel that day.
 
 ---
 
@@ -115,7 +115,7 @@ After they descended from the high place into the city, Samuel conversed with Sa
 ## 1 Samuel 9:26
 
 They arose early, and at daybreak Samuel called to Saul on the rooftop, saying, “Get up, that I may send you on your way.”  
-So Saul got up, and both he and Samuel went out into the street.
+ So Saul got up, and both he and Samuel went out into the street.
 
 ## 1 Samuel 9:27
 

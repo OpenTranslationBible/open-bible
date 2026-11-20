@@ -6,7 +6,7 @@ On the day that Moses completed setting up the tabernacle, he anointed and conse
 
 ## Numbers 7:2
 
-Then the leaders of Israel, the heads of their fathers' households, who were the tribal leaders supervising those who were counted, made offerings.
+Then the leaders of Israel, the heads of their fathers’ households, who were the tribal leaders supervising those who were counted, made offerings.
 
 ## Numbers 7:3
 
@@ -14,11 +14,11 @@ They brought their offerings before the Lord: six covered carts and twelve oxen�
 
 ## Numbers 7:4
 
-Then the Lord spoke to with Moses, saying,
+Then the Lord spoke to Moses, saying,
 
 ## Numbers 7:5
 
-“Accept these from them, that they may be used in the service of the tent of meeting. Distribute them to the Levites according to each man's service.”
+“Accept these from them, that they may be used in the service of the tent of meeting. Distribute them to the Levites according to each man’s service.”
 
 ## Numbers 7:6
 

@@ -3,21 +3,21 @@
 ## Zechariah 11:1
 
 > Open your doors, Lebanon,
-> so that fire may consume your cedars.
+>  so that fire may consume your cedars.
 
 ## Zechariah 11:2
 
 > Wail, juniper, for the cedar has fallen;
-> the majestic trees are destroyed!
-> Wail, oaks of Bashan,
-> for the dense forest has been brought down!
+>  the majestic trees are destroyed!
+>  Wail, oaks of Bashan,
+>  for the dense forest has been brought down!
 
 ## Zechariah 11:3
 
 > Hear the wailing of the shepherds,
-> for their glorious pastures are ruined!
-> Listen to the roaring of the young lions,
-> for the pride of the Jordan is devastated!
+>  for their glorious pastures are ruined!
+>  Listen to the roaring of the young lions,
+>  for the pride of the Jordan is devastated!
 
 ## Zechariah 11:4
 
@@ -41,7 +41,7 @@ In one month I removed the three shepherds. My soul grew weary of them, and they
 
 ## Zechariah 11:9
 
-So I said, “I will not tend you any longer. Let those who are dying die, and those who are perishing perish. Let those who remain devour each other's flesh.”
+So I said, “I will not tend you any longer. Let those who are dying die, and those who are perishing perish. Let those who remain devour each other’s flesh.”
 
 ## Zechariah 11:10
 
@@ -57,7 +57,7 @@ I said to them, “If you see fit, give me my wages; if not, keep them.” So th
 
 ## Zechariah 11:13
 
-And the Lord said to me, “Throw it to the potter—the splendid price at which they valued me!” So I took the thirty pieces of silver and threw them to the potter in the house of the Lord.
+And the Lord said to me, “Throw it to the potter—the splendid price at which they valued Me!” So I took the thirty pieces of silver and threw them to the potter in the house of the Lord.
 
 ## Zechariah 11:14
 
@@ -73,8 +73,8 @@ For I am about to raise up a shepherd in the land who will not care for those wh
 
 ## Zechariah 11:17
 
-> Woe to the worthless shepherd
-> who abandons the flock!
-> May the sword strike his arm and his right eye!
-> May his arm be completely withered,
-> and his right eye utterly blinded!”
+> Woe to the worthless shepherd who abandons the flock!
+>  May the sword strike his arm and his right eye!
+>  May his arm be completely withered,
+>  and his right eye utterly blinded!
+> ”

@@ -6,7 +6,7 @@ Following the death of Moses, the servant of the Lord, the Lord spoke to Joshua 
 
 ## Joshua 1:2
 
-“Moses, my servant, is dead. Now, therefore, arise, you and all these people, and cross the Jordan River into the land I am about to give to the Israelites.
+“Moses, My servant, is dead. Now, therefore, arise, you and all these people, and cross the Jordan River into the land I am about to give to the Israelites.
 
 ## Joshua 1:3
 
@@ -26,7 +26,7 @@ Be strong and courageous, for you shall lead these people to inherit the land I 
 
 ## Joshua 1:7
 
-Only be strong and very courageous; be careful to act according to all the law that my servant Moses commanded you; do not turn from it to the right or to the left, so that you may succeed wherever you go.
+Only be strong and very courageous; be careful to act according to all the law that My servant Moses commanded you; do not turn from it to the right or to the left, so that you may succeed wherever you go.
 
 ## Joshua 1:8
 
@@ -38,7 +38,7 @@ Have I not commanded you? Be strong and courageous. Do not be frightened or dism
 
 ## Joshua 1:10
 
-So Joshua commanded the officers of the people, saying
+So Joshua commanded the officers of the people, saying,
 
 ## Joshua 1:11
 

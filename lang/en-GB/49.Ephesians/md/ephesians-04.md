@@ -32,25 +32,25 @@ But to each one of us grace has been given according to the measure of Christ’
 
 Therefore it says:
 
-> “When he ascended on high,
-> he led captives in his train
-> and gave gifts to people.”
+>  “When He ascended on high,
+>  He led captives in His train and gave gifts to people.
+> ”
 
 ## Ephesians 4:9
 
-(Now this, “he ascended,” what does it mean but that he also descended to the lower, earthly regions?
+(Now this, “He ascended,” what does it mean but that He also descended to the lower, earthly regions?
 
 ## Ephesians 4:10
 
-He who descended is the very one who ascended far above all the heavens, so that he might fill all things.)
+He who descended is the very one who ascended far above all the heavens, so that He might fill all things.)
 
 ## Ephesians 4:11
 
-And he gave some to be apostles, some prophets, some evangelists, and some pastors and teachers,
+And He gave some to be apostles, some prophets, some evangelists, and some pastors and teachers,
 
 ## Ephesians 4:12
 
-to prepare God's people for service, for the strengthening of the body of Christ,
+to prepare God’s people for service, for the strengthening of the body of Christ,
 
 ## Ephesians 4:13
 
@@ -62,11 +62,11 @@ Then we will no longer be children, tossed to and fro by waves and carried about
 
 ## Ephesians 4:15
 
-Instead, speaking the truth in love, we will in all things grow up into him who is the head, that is, Christ.
+Instead, speaking the truth in love, we will in all things grow up into Him who is the head, that is, Christ.
 
 ## Ephesians 4:16
 
-From him the entire body, joined and held together by every supporting ligament, grows and builds itself up in love, as each part fulfills its role.
+From Him the entire body, joined and held together by every supporting ligament, grows and builds itself up in love, as each part fulfils its role.
 
 ## Ephesians 4:17
 
@@ -86,7 +86,7 @@ But this is not the way you came to know Christ,
 
 ## Ephesians 4:21
 
-if indeed you heard him and were taught in him, as the truth is in Jesus.
+if indeed you heard Him and were taught in Him, as the truth is in Jesus.
 
 ## Ephesians 4:22
 
@@ -98,7 +98,7 @@ to be renewed in the attitude of your minds;
 
 ## Ephesians 4:24
 
-and to embrace the new self, fashioned to reflect God's true righteousness and holiness.
+and to embrace the new self, fashioned to reflect God’s true righteousness and holiness.
 
 ## Ephesians 4:25
 
@@ -106,7 +106,7 @@ Therefore, putting away falsehood, let each of you speak truthfully with his nei
 
 ## Ephesians 4:26
 
-“In your anger, do not sin”: Do not let the sun set while you are still angry,
+“In your anger, do not sin”: do not let the sun set while you are still angry,
 
 ## Ephesians 4:27
 

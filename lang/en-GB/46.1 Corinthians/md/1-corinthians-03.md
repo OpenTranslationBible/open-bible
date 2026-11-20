@@ -10,7 +10,7 @@ I provided you with milk, not solid food, because you were not yet ready for it.
 
 ## 1 Corinthians 3:3
 
-For you are still worldly. Since there is jealousy and strife among you, are you not worldly, behaving like ordinary people?
+for you are still worldly. Since there is jealousy and strife among you, are you not worldly, behaving like ordinary people?
 
 ## 1 Corinthians 3:4
 
@@ -50,7 +50,7 @@ If anyone builds on this foundation using gold, silver, precious stones, wood, h
 
 ## 1 Corinthians 3:13
 
-Their work will be revealed for what it truly is, because the Day will bring it to light. It will be disclosed with fire, and the fire will assess the quality of each person’s work.
+their work will be revealed for what it truly is, because the Day will bring it to light. It will be disclosed with fire, and the fire will assess the quality of each person’s work.
 
 ## 1 Corinthians 3:14
 
@@ -78,7 +78,7 @@ For the wisdom of this world is seen as foolishness in God’s sight. As it is w
 
 ## 1 Corinthians 3:20
 
-Moreover, it is said, “The Lord is aware that the thoughts of the wise are in vain.”
+moreover, it is said, “The Lord is aware that the thoughts of the wise are in vain.”
 
 ## 1 Corinthians 3:21
 
@@ -86,8 +86,8 @@ So then, let there be no more boasting about human leaders! All things are yours
 
 ## 1 Corinthians 3:22
 
-Whether it be Paul, Apollos, Cephas, the world, life, death, the present, or the future—all are yours,
+whether it be Paul, Apollos, Cephas, the world, life, death, the present, or the future—all are yours,
 
 ## 1 Corinthians 3:23
 
-And you belong to Christ, just as Christ belongs to God.
+and you belong to Christ, just as Christ belongs to God.

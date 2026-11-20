@@ -115,7 +115,7 @@ With the bull, the ram, and the lambs, present their grain offerings and drink o
 Include one male goat as a sin offering, in addition to the continual burnt offering with its grain offering and drink offering.
 
 ## Numbers 29:39
-‘In addition to your vowed offerings and freewill offerings, present these to the Lord at your appointed festivals: your burnt offerings, grain offerings, drink offerings, and peace offerings.’
+‘In addition to your vowed offerings and freewill offerings, present these to the Lord at your appointed festivals: your burnt offerings, grain offerings, drink offerings, and peace offerings.’”
 
 ## Numbers 29:40
 Moses relayed to the Israelites all that the Lord had commanded him.

@@ -34,7 +34,7 @@ The daughter of Zion is left like a shelter in a vineyard, like a hut in a cucum
 
 ## Isaiah 1:9
 
-If the Lord of Hosts had not left us a few survivors, we would have become like Sodom, we would have been like Gomorrah.
+If the Lord of hosts had not left us a few survivors, we would have become like Sodom, we would have been like Gomorrah.
 
 ## Isaiah 1:10
 
@@ -66,7 +66,7 @@ Cleanse yourselves, purify your actions. Remove the evil of your deeds from My s
 
 ## Isaiah 1:17
 
-Learn to do good; seek justice, correct the oppressor; defend the fatherless, plead for the widow.
+learn to do good; seek justice, correct the oppressor; defend the fatherless, plead for the widow.
 
 ## Isaiah 1:18
 
@@ -82,7 +82,7 @@ but if you refuse and rebel, you shall fall by the sword.” For the Lord has de
 
 ## Isaiah 1:21
 
-How the faithful city has become unfaithful! She who was full of justice! Righteousness once lodged in her, but now murderers.
+How the faithful city has become a harlot! She who was full of justice! Righteousness once lodged in her, but now murderers.
 
 ## Isaiah 1:22
 
@@ -94,7 +94,7 @@ Your rulers are rebels and companions of thieves; everyone loves bribes and purs
 
 ## Isaiah 1:24
 
-Therefore the Lord, the Lord of Hosts, the Mighty One of Israel, declares: “Ah, I will get relief from My adversaries and avenge Myself on My enemies.
+Therefore the Lord, the Lord of hosts, the Mighty One of Israel, declares: “Ah, I will get relief from My adversaries and avenge Myself on My enemies.
 
 ## Isaiah 1:25
 

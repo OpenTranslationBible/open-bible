@@ -39,11 +39,11 @@ If anyone has an ear, let them hear.
 ## Revelation 13:10
 
 > “If anyone is destined for captivity,
-> into captivity they will go;
-> if anyone kills with the sword,
-> with the sword they must be killed.”
+>  into captivity they will go;
+>  if anyone kills with the sword,
+>  with the sword they must be killed.”
 
-This calls for the perseverance and faith of the saints.
+ This calls for the perseverance and faith of the saints.
 
 ## Revelation 13:11
 

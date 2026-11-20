@@ -6,7 +6,7 @@ Then some Pharisees and scribes came to Jesus from Jerusalem and asked,
 
 ## Matthew 15:2
 
-“Why do your disciples disregard the tradition of the elders? They do not wash their hands before they eat.”
+“Why do Your disciples disregard the tradition of the elders? They do not wash their hands before they eat.”
 
 ## Matthew 15:3
 
@@ -22,7 +22,7 @@ But you say that if anyone declares to their father or mother, ‘Whatever help 
 
 ## Matthew 15:6
 
-they are not to fulfill their duty to their father or mother with it. Thus you nullify the word of God for the sake of your tradition.
+they are not to fulfil their duty to their father or mother with it. Thus you nullify the word of God for the sake of your tradition.
 
 ## Matthew 15:7
 
@@ -30,13 +30,13 @@ You pretenders! Isaiah was correct when he prophesied about you:
 
 ## Matthew 15:8
 
-> ‘These people honour me with their lips,
-> but their hearts are distant from me.
+> ‘These people honour Me with their lips,
+>  but their hearts are distant from Me.
 
 ## Matthew 15:9
 
 > Their worship is in vain;
-> their teachings are nothing more than a man's instructions.’
+>  their teachings are nothing more than a man’s instructions.’”
 
 ---
 
@@ -52,11 +52,11 @@ It is not what enters the mouth that defiles a person, but what comes out of the
 
 ## Matthew 15:12
 
-Then the disciples came to him and said, “Do you know that the Pharisees were offended when they heard this?”
+Then the disciples came to Him and said, “Do You know that the Pharisees were offended when they heard this?”
 
 ## Matthew 15:13
 
-He replied, “Every plant that my heavenly Father has not planted will be uprooted.
+He replied, “Every plant that My heavenly Father has not planted will be uprooted.
 
 ## Matthew 15:14
 
@@ -96,11 +96,11 @@ Jesus left that place and withdrew to the region of Tyre and Sidon.
 
 ## Matthew 15:22
 
-A Canaanite woman from that region came to him, crying out, “Lord, Son of David, have mercy on me! My daughter is severely demon-possessed.”
+A Canaanite woman from that region came to Him, crying out, “Lord, Son of David, have mercy on me! My daughter is severely demon-possessed.”
 
 ## Matthew 15:23
 
-But Jesus did not answer her a word. So his disciples came to him and urged him, “Send her away, for she keeps crying out after us.”
+But Jesus did not answer her a word. So His disciples came to Him and urged Him, “Send her away, for she keeps crying out after us.”
 
 ## Matthew 15:24
 
@@ -108,7 +108,7 @@ He responded, “I was sent only to the lost sheep of Israel.”
 
 ## Matthew 15:25
 
-The woman came and bowed before him. “Lord, help me!” she said.
+The woman came and bowed before Him. “Lord, help me!” she said.
 
 ## Matthew 15:26
 
@@ -126,11 +126,11 @@ Then Jesus said to her, “Woman, your faith is great! Your request is granted.�
 
 ## Matthew 15:29
 
-Jesus departed from there and travelled along the Sea of Galilee. Then he went up on a mountainside and sat down.
+Jesus departed from there and travelled along the Sea of Galilee. Then He went up on a mountainside and sat down.
 
 ## Matthew 15:30
 
-Large crowds came to him, bringing the lame, the blind, the crippled, the mute, and many others, and laid them at his feet; and he healed them.
+Large crowds came to Him, bringing the lame, the blind, the crippled, the mute, and many others, and laid them at His feet; and He healed them.
 
 ## Matthew 15:31
 
@@ -140,7 +140,7 @@ The people were amazed when they saw the mute speaking, the crippled made well, 
 
 ## Matthew 15:32
 
-Jesus called his disciples to him and said, “I have compassion for these people; they have already been with me three days and have nothing to eat. I do not want to send them away hungry, or they may faint on the way.”
+Jesus called His disciples to Him and said, “I have compassion for these people; they have already been with Me three days and have nothing to eat. I do not want to send them away hungry, or they may faint on the way.”
 
 ## Matthew 15:33
 
@@ -156,7 +156,7 @@ He directed the crowd to be seated on the ground.
 
 ## Matthew 15:36
 
-Then he took the seven loaves and the fish, and after giving thanks, he broke them and gave them to the disciples, and they in turn to the people.
+Then He took the seven loaves and the fish, and after giving thanks, He broke them and gave them to the disciples, and they in turn to the people.
 
 ## Matthew 15:37
 

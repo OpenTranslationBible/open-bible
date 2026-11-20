@@ -26,7 +26,7 @@ The message from the Lord then came to Jeremiah the prophet:
 
 ## Jeremiah 37:7
 
-“This is what the Lord, the God of Israel, says: Tell the king of Judah, who sent you to inquire of me, ‘Behold, Pharaoh’s army, which set out to assist you, will return to its own land, Egypt.
+“This is what the Lord, the God of Israel, says: Tell the king of Judah, who sent you to inquire of Me, ‘Behold, Pharaoh’s army, which set out to assist you, will return to its own land, Egypt.
 
 ## Jeremiah 37:8
 

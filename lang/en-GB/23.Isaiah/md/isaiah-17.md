@@ -7,10 +7,10 @@ A proclamation concerning Damascus: “Behold, Damascus will cease to be a city 
 The cities of Aroer will be forsaken; they will be left for flocks to lie down in, with no one to disturb them.
 
 ## Isaiah 17:3
-The fortified city will vanish from Ephraim, and sovereignty from Damascus; the remnant of Aram will be like the glory of the children of Israel,” declares the Lord of Hosts.
+The fortified city will vanish from Ephraim, and sovereignty from Damascus; the remnant of Aram will be like the glory of the children of Israel,” declares the Lord of hosts.
 
 ## Isaiah 17:4
-In that day, the glory of Jacob will diminish, and the fatness of his flesh will become lean.
+“In that day, the glory of Jacob will diminish, and the fatness of his flesh will become lean.
 
 ## Isaiah 17:5
 It will be as when the reaper gathers the standing grain, and his arm harvests the ears, or as when one gleans ears of grain in the Valley of Rephaim.

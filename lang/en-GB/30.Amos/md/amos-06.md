@@ -3,53 +3,48 @@
 ## Amos 6:1
 
 > Woe to those who are at ease in Zion,
-> and to those who feel secure on the mountain of Samaria,
-> the prominent men of the foremost nation,
-> to whom the house of Israel comes.
+>  and to those who feel secure on the mountain of Samaria,
+>  the prominent men of the foremost nation,
+>  to whom the house of Israel comes.
 
 ## Amos 6:2
 
 > Cross over to Calneh and see,
-> and go from there to great Hamath,
-> then go down to Gath of the Philistines.
-> Are they better than your kingdoms,
-> or is their territory greater than yours?
+>  and go from there to great Hamath,
+>  then go down to Gath of the Philistines.
+>  Are they better than your kingdoms,
+>  or is their territory greater than yours?
 
 ## Amos 6:3
 
-> You who delay the day of calamity
-> and bring near the seat of violence.
+> You who delay the day of calamity and bring near the seat of violence.
 
 ## Amos 6:4
 
-> Those who lie on beds inlaid with ivory
-> and sprawl on their couches,
-> who eat lambs from the flock
-> and calves from the midst of the stall,
+> Those who lie on beds inlaid with ivory and sprawl on their couches,
+>  who eat lambs from the flock and calves from the midst of the stall,
 
 ## Amos 6:5
 
-> who strum on the harp
-> like David and invent for themselves instruments of music,
+> who strum on the harp like David and invent for themselves instruments of music,
 
 ## Amos 6:6
 
-> who drink wine from bowls
-> and anoint themselves with the finest oils,
-> but have not grieved over the downfall of Joseph.
+> who drink wine from bowls and anoint themselves with the finest oils,
+>  but have not grieved over the downfall of Joseph.
 
 ## Amos 6:7
 
 > Therefore, they will be the first to go into exile,
-> and the revelry of those who sprawl will cease.
+>  and the revelry of those who sprawl will cease.
 
 ## Amos 6:8
 
 The Lord God has sworn by Himself, declares the Lord God of hosts:
 
-> “I abhor the pride of Jacob
-> and detest his strongholds;
-> therefore I will deliver up the city and all that is in it.”
+>  “I abhor the pride of Jacob and detest his strongholds;
+>  therefore I will deliver up the city and all that is in it.
+> ”
 
 ## Amos 6:9
 
@@ -62,24 +57,22 @@ And when a relative or undertaker comes to carry the bones out of the house, and
 ## Amos 6:11
 
 > For behold, the Lord has given the command,
-> and He will smash the great house to pieces
-> and the small house to rubble.
+>  and He will smash the great house to pieces and the small house to rubble.
 
 ## Amos 6:12
 
 > Do horses run on rocky crags?
-> Does one plough the sea with oxen?
-> Yet you have turned justice into poison
-> and the fruit of righteousness into bitterness—
+>  Does one plough the sea with oxen?
+>  Yet you have turned justice into poison and the fruit of righteousness into bitterness—
 
 ## Amos 6:13
 
-> you who rejoice in Lo Debar
-> and say, “Did we not capture Karnaim by our own strength?”
+> you who rejoice in Lo Debar and say,
+>  “Did we not capture Karnaim by our own strength?”
 
 ## Amos 6:14
 
 > “For behold, I will raise up a nation against you, O house of Israel,”
-> declares the Lord God of hosts,
-> “and they will oppress you from the entrance of Hamath
-> to the brook of the Arabah.”
+>  declares the Lord God of hosts,
+>  “and they will oppress you from the entrance of Hamath to the brook of the Arabah.
+> ”

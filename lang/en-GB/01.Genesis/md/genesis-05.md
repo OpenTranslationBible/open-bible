@@ -90,7 +90,7 @@ After he became the father of Methuselah, Enoch walked closely with God for 300 
 
 ## Genesis 5:23
 
-Thus, Enoch's total lifespan was 365 years.
+Thus, Enoch’s total lifespan was 365 years.
 
 ## Genesis 5:24
 

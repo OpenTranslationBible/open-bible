@@ -10,7 +10,7 @@ The message from the Lord reached me:
 
 ## Ezekiel 25:3
 
-say to them: ‘Hear the word of the Lord God. This is what the Lord God says: Because you said “Aha!” over my sanctuary when it was desecrated, and over the land of Israel when it was laid waste, and over the people of Judah when they went into exile,
+say to them: ‘Hear the word of the Lord God. This is what the Lord God says: Because you said “Aha!” over My sanctuary when it was desecrated, and over the land of Israel when it was laid waste, and over the people of Judah when they went into exile,
 
 ## Ezekiel 25:4
 
@@ -26,7 +26,7 @@ For this is what the Lord God says: Because you have clapped your hands and stam
 
 ## Ezekiel 25:7
 
-therefore, behold, I will stretch out my hand against you and give you as plunder to the nations. I will cut you off from the peoples and eliminate you from the lands. I will destroy you, and you will know that I am the Lord.’”
+therefore, behold, I will stretch out My hand against you and give you as plunder to the nations. I will cut you off from the peoples and eliminate you from the lands. I will destroy you, and you will know that I am the Lord.’”
 
 ---
 
@@ -54,11 +54,11 @@ and I will execute judgments on Moab. Then they will know that I am the Lord.’
 
 ## Ezekiel 25:13
 
-therefore this is what the Lord God says: I will stretch out my hand against Edom and eliminate both man and beast. I will lay it waste, and from Teman to Dedan they will fall by the sword.
+therefore this is what the Lord God says: I will stretch out My hand against Edom and eliminate both man and beast. I will lay it waste, and from Teman to Dedan they will fall by the sword.
 
 ## Ezekiel 25:14
 
-I will take my vengeance on Edom by the hand of my people Israel, and they will deal with Edom according to my anger and my wrath; they will know my vengeance, declares the Lord God.’”
+I will take My vengeance on Edom by the hand of My people Israel, and they will deal with Edom according to My anger and My wrath; they will know My vengeance, declares the Lord God.’”
 
 ## Ezekiel 25:15
 
@@ -66,8 +66,8 @@ I will take my vengeance on Edom by the hand of my people Israel, and they will 
 
 ## Ezekiel 25:16
 
-therefore this is what the Lord God says: Behold, I am about to stretch out my hand against the Philistines and eliminate the Cherethites; and I will destroy the remnant along the coast.
+therefore this is what the Lord God says: Behold, I am about to stretch out My hand against the Philistines and eliminate the Cherethites; and I will destroy the remnant along the coast.
 
 ## Ezekiel 25:17
 
-I will carry out great vengeance on them with furious rebukes; and they will know that I am the Lord, when I bring my vengeance upon them.’”
+I will carry out great vengeance on them with furious rebukes; and they will know that I am the Lord, when I bring My vengeance upon them.’”

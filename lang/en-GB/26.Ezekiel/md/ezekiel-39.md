@@ -2,7 +2,7 @@
 
 ## Ezekiel 39:1
 
-“And you, son of man, prophesy against Gog and say: ‘This is what the Sovereign Lord says: Behold, I am against you, Gog, chief prince of Meshek and Tubal.
+“And you, son of man, prophesy against Gog and say: ‘This is what the Sovereign Lord says: Behold, I am against you, Gog, chief prince of Meshech and Tubal.
 
 ## Ezekiel 39:2
 
@@ -26,7 +26,7 @@ I will send fire on Magog and on those dwelling securely in the coastlands, and 
 
 ## Ezekiel 39:7
 
-I will make my holy name known among my people Israel and will no longer allow my holy name to be profaned. The nations will know that I am the Lord, the Holy One in Israel.
+I will make My holy name known among My people Israel and will no longer allow My holy name to be profaned. The nations will know that I am the Lord, the Holy One in Israel.
 
 ## Ezekiel 39:8
 
@@ -50,7 +50,7 @@ For a period of seven months, the house of Israel will bury them to purify the l
 
 ## Ezekiel 39:13
 
-All the people of the land will bury them, and the day I display my glory will be a memorable day for them, says the Sovereign Lord.
+All the people of the land will bury them, and the day I display My glory will be a memorable day for them, says the Sovereign Lord.
 
 ## Ezekiel 39:14
 
@@ -78,11 +78,11 @@ At the sacrifice I am preparing for you, you will eat fat until you are full and
 
 ## Ezekiel 39:20
 
-At my table you will eat your fill of horses and riders, mighty men and soldiers of every kind,’ says the Sovereign Lord.
+At My table you will eat your fill of horses and riders, mighty men and soldiers of every kind,’ says the Sovereign Lord.
 
 ## Ezekiel 39:21
 
-I will display my glory among the nations, and all the nations will see the judgement I execute and the hand I lay on them.
+I will display My glory among the nations, and all the nations will see the judgement I execute and the hand I lay on them.
 
 ## Ezekiel 39:22
 
@@ -90,19 +90,19 @@ From that day forward, the house of Israel will recognise that I am the Lord, th
 
 ## Ezekiel 39:23
 
-And the nations will understand that the house of Israel went into exile for their wrongdoing, because they were unfaithful to me. So I hid my face from them and handed them over to their enemies, and they all fell by the sword.
+And the nations will understand that the house of Israel went into exile for their wrongdoing, because they were unfaithful to Me. So I hid My face from them and handed them over to their enemies, and they all fell by the sword.
 
 ## Ezekiel 39:24
 
-I dealt with them according to their uncleanness and their offences, and I turned my face away from them.
+I dealt with them according to their uncleanness and their offences, and I turned My face away from them.
 
 ## Ezekiel 39:25
 
-Therefore this is what the Sovereign Lord says: I will now restore the fortunes of Jacob and have compassion on all the house of Israel, and I will be zealous for my holy name.
+Therefore this is what the Sovereign Lord says: I will now restore the fortunes of Jacob and have compassion on all the house of Israel, and I will be zealous for My holy name.
 
 ## Ezekiel 39:26
 
-They will no longer recall their disgrace and all the unfaithfulness they showed towards me when they lived securely in their land with no one to cause them fear.
+They will no longer recall their disgrace and all the unfaithfulness they showed towards Me when they lived securely in their land with no one to cause them fear.
 
 ## Ezekiel 39:27
 
@@ -114,4 +114,4 @@ Then they will realise that I am the Lord their God, for although I sent them in
 
 ## Ezekiel 39:29
 
-I will no longer hide my face from them, for I will pour out my Spirit on the house of Israel, declares the Sovereign Lord.”
+I will no longer hide My face from them, for I will pour out My Spirit on the house of Israel, declares the Sovereign Lord.”

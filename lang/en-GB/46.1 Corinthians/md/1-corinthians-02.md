@@ -14,11 +14,11 @@ I also was with you in weakness, and fear, and in much trembling,
 
 ## 1 Corinthians 2:4
 
-And my message and my preaching were not with persuasive words of wisdom, but with a demonstration of the Spirit and of power,
+and my message and my preaching were not with persuasive words of wisdom, but with a demonstration of the Spirit and of power,
 
 ## 1 Corinthians 2:5
 
-So that your faith would not rely on human wisdom, but on the power of God.
+so that your faith would not rely on human wisdom, but on the power of God.
 
 ## 1 Corinthians 2:6
 
@@ -26,19 +26,19 @@ Yet we do speak wisdom among those who are mature—a wisdom, however, not of th
 
 ## 1 Corinthians 2:7
 
-But we speak of God’s wisdom in a mystery, the hidden wisdom which God determined before the ages for our glory;
+but we speak of God’s wisdom in a mystery, the hidden wisdom which God determined before the ages for our glory;
 
 ## 1 Corinthians 2:8
 
-This wisdom was not understood by any of the rulers of this age; for if they had comprehended it, they would not have crucified the Lord of glory.
+this wisdom was not understood by any of the rulers of this age; for if they had comprehended it, they would not have crucified the Lord of glory.
 
 ## 1 Corinthians 2:9
 
 But just as it is written:
 
-> “The eye has not seen, the ear has not heard,  
-> and the mind has not conceived,  
-> all that God has prepared for those who love Him.”
+>  “The eye has not seen, the ear has not heard,  
+>  and the mind has not conceived,  
+>  all that God has prepared for those who love Him.”
 
 ## 1 Corinthians 2:10
 
@@ -66,8 +66,8 @@ But the one who is spiritual evaluates all things, yet he himself is evaluated b
 
 ## 1 Corinthians 2:16
 
-For
+For who can know the mind of the Lord,
 
-> who can know the mind of the Lord, so as to instruct Him?
+>  so as to instruct Him?
 
-Yet we possess the mind of Christ.
+ Yet we possess the mind of Christ.

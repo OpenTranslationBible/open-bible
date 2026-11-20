@@ -56,47 +56,47 @@ Then the king told the attendants, ‘Bind him hand and foot, and throw him into
 
 ## Matthew 22:14
 
-For many receive the call, but few are chosen.
+For many receive the call, but few are chosen.”
 
 ---
 
 ## Matthew 22:15
 
-Then the Pharisees went out and plotted how they might trap him in his words.
+Then the Pharisees went out and plotted how they might trap Him in His words.
 
 ## Matthew 22:16
 
-They sent their disciples to him along with the Herodians, saying, “Teacher, we know that you are truthful and teach the way of God in truth, and you do not care about anyone’s opinion, for you are not swayed by appearances.
+They sent their disciples to Him along with the Herodians, saying, “Teacher, we know that You are truthful and teach the way of God in truth, and You do not care about anyone’s opinion, for You are not swayed by appearances.
 
 ## Matthew 22:17
 
-Tell us then, what is your opinion? Is it lawful to pay taxes to Caesar, or not?”
+Tell us then, what is Your opinion? Is it lawful to pay taxes to Caesar, or not?”
 
 ## Matthew 22:18
 
-But Jesus, aware of their malice, said, “Why are you testing me, you hypocrites?
+But Jesus, aware of their malice, said, “Why are you testing Me, you hypocrites?
 
 ## Matthew 22:19
 
-Present to me the coin used for the tax.” They brought him a denarius,
+Present to Me the coin used for the tax.” They brought Him a denarius,
 
 ## Matthew 22:20
 
-and he asked them, “Whose image and inscription is this?”
+and He asked them, “Whose image and inscription is this?”
 
 ## Matthew 22:21
 
-“Caesar’s,” they replied. Then he said to them, “Render therefore to Caesar the things that are Caesar’s, and to God the things that are God’s.”
+“Caesar’s,” they replied. Then He said to them, “Render therefore to Caesar the things that are Caesar’s, and to God the things that are God’s.”
 
 ## Matthew 22:22
 
-Upon hearing this, they were astonished, and they left him and went away.
+Upon hearing this, they were astonished, and they left Him and went away.
 
 ---
 
 ## Matthew 22:23
 
-On that same day, the Sadducees, who deny the resurrection, approached him with a question.
+On that same day, the Sadducees, who deny the resurrection, approached Him with a question.
 
 ## Matthew 22:24
 
@@ -136,7 +136,7 @@ But concerning the resurrection of the dead, have you not read what God said to 
 
 ## Matthew 22:33
 
-The crowds heard this and were amazed at his teaching.
+The crowds heard this and were amazed at His teaching.
 
 ---
 
@@ -146,7 +146,7 @@ When the Pharisees learned that Jesus had silenced the Sadducees, they gathered 
 
 ## Matthew 22:35
 
-One of them, a scholar of the law, tested him with this question:
+One of them, a scholar of the law, tested Him with this question:
 
 ## Matthew 22:36
 
@@ -176,23 +176,23 @@ As the Pharisees were gathered together, Jesus asked them,
 
 ## Matthew 22:42
 
-“What do you think about the Messiah? Whose son is he?” They replied, “The son of David.”
+“What do you think about the Messiah? Whose son is He?” They replied, “The son of David.”
 
 ## Matthew 22:43
 
-He said to them, “Then how is it that David, inspired by the Spirit, calls him ‘Lord’? For he says,
+He said to them, “Then how is it that David, inspired by the Spirit, calls Him ‘Lord’? For he says,
 
 ## Matthew 22:44
 
 > ‘The Lord said to my Lord:
-> “Sit by my right hand
-> until I place your enemies
-> under your feet.”’
+>  “Sit by My right hand until I place Your enemies under Your feet.
+> ”
+> ’
 
 ## Matthew 22:45
 
-If David calls him ‘Lord,’ in what way can he be his son?”
+If David calls Him ‘Lord,’ in what way can He be his son?”
 
 ## Matthew 22:46
 
-No one could respond with a word, and from that day on no one dared to question him further.
+No one could respond with a word, and from that day on no one dared to question Him further.

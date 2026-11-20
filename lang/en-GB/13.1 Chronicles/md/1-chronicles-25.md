@@ -4,31 +4,31 @@
 
 Moreover, David and the commanders of the army set apart for the service some of the sons of Asaph, Heman, and Jeduthun,
 
-> who were to prophesy with lyres, harps, and cymbals;  
-> and the number of those who performed their service was:
+>  who were to prophesy with lyres, harps, and cymbals;  
+>  and the number of those who performed their service was:
 
 ---
 
 ## 1 Chronicles 25:2
 
 > From the sons of Asaph: Zaccur, Joseph, Nethaniah, and Asharelah;  
-> these sons were guided by Asaph,  
-> who prophesied under the guidance of the king.
+>  these sons were guided by Asaph,  
+>  who prophesied under the guidance of the king.
 
 ---
 
 ## 1 Chronicles 25:3
 
 > Of Jeduthun: the sons of Jeduthun were Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah, and Mattithiah—six,  
-> under the direction of their father Jeduthun with the harp,  
-> who prophesied in giving thanks and praising the Lord.
+>  under the direction of their father Jeduthun with the harp,  
+>  who prophesied in giving thanks and praising the Lord.
 
 ---
 
 ## 1 Chronicles 25:4
 
 > Of Heman: the sons of Heman were Bukkiah, Mattaniah, Uzziel, Shebuel, Jerimoth, Hananiah, Hanani, Eliathah,  
-> Giddalti, Romamti-ezer, Joshbekashah, Mallothi, Hothir, and Mahazioth.
+>  Giddalti, Romamti-ezer, Joshbekashah, Mallothi, Hothir, and Mahazioth.
 
 ---
 
@@ -36,25 +36,25 @@ Moreover, David and the commanders of the army set apart for the service some of
 
 All these were the sons of Heman, the king’s seer,
 
-> to honour him according to the words of God;  
-> for God granted Heman fourteen sons and three daughters.
+>  to honour him according to the words of God;  
+>  for God granted Heman fourteen sons and three daughters.
 
 ---
 
 ## 1 Chronicles 25:6
 
-All of these were under their father's guidance
+All of these were under their father’
 
-> to sing in the house of the Lord, with cymbals, harps, and lyres,  
-> for the service of the house of God.  
-> Asaph, Jeduthun, and Heman were under the king's direction.
+> s guidance to sing in the house of the Lord, with cymbals, harps, and lyres,  
+>  for the service of the house of God.  
+>  Asaph, Jeduthun, and Heman were under the king’s direction.
 
 ---
 
 ## 1 Chronicles 25:7
 
 Their number who were trained in singing to the Lord,  
-with their relatives, all who were skillful, was
+ with their relatives, all who were skilful, was 288.
 
 > 288.
 
@@ -64,7 +64,7 @@ with their relatives, all who were skillful, was
 
 They cast lots for their duties, all equally,
 
-> the young as well as the old, the teacher as well as the student.
+>  the young as well as the old, the teacher as well as the student.
 
 ---
 
@@ -72,7 +72,7 @@ They cast lots for their duties, all equally,
 
 The first lot for Asaph fell to Joseph,
 
-> the second to Gedaliah, he with his relatives and sons were twelve;
+>  the second to Gedaliah, he with his relatives and sons were twelve;
 
 ---
 

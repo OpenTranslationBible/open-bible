@@ -54,7 +54,7 @@ The prophets are but wind, and the word is not in them; thus it will be done to 
 
 ## Jeremiah 5:14
 
-Therefore, this is what the Lord God of Hosts says: “Because you have spoken this word, I will make My words in your mouth a fire and this people wood, and it will consume them.
+Therefore, this is what the Lord God of hosts says: “Because you have spoken this word, I will make My words in your mouth a fire and this people wood, and it will consume them.
 
 ## Jeremiah 5:15
 
@@ -74,7 +74,7 @@ They will consume your harvest and your food; they will devour your sons and dau
 
 ## Jeremiah 5:19
 
-And when the people ask, ‘Why has the Lord our God done all this to us?’ you shall say to them, ‘As you have forsaken Me and served foreign gods in your own land, so you will serve foreigners in a land not your own.’
+And when the people ask, ‘Why has the Lord our God done all this to us?’ You shall say to them, ‘As you have forsaken Me and served foreign gods in your own land, so you will serve foreigners in a land not your own.’
 
 ## Jeremiah 5:20
 

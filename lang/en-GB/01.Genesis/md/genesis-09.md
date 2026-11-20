@@ -106,7 +106,7 @@ He also said, “Blessed be the Lord, the God of Shem! May Canaan be the slave o
 
 ## Genesis 9:27
 
-May God enlarge Japheth's territory, and may he reside in the tents of Shem; and may Canaan be his servant.”
+May God enlarge Japheth’s territory, and may he reside in the tents of Shem; and may Canaan be his servant.”
 
 ## Genesis 9:28
 

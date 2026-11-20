@@ -78,7 +78,7 @@ For seven days there shall be no leaven found in your houses; for whoever eats w
 
 ## Exodus 12:20
 
-You must avoid eating anything leavened; in all your dwellings, you shall eat unleavened bread.
+You must avoid eating anything leavened; in all your dwellings, you shall eat unleavened bread.’”
 
 ## Exodus 12:21
 

@@ -2,7 +2,7 @@
 
 ## Exodus 6:1
 
-Then the Lord said to Moses, “Now you shall witness what I will do to Pharaoh: because of my strong hand he will release them; indeed, because of my strong hand he will drive them out of his land.”
+Then the Lord said to Moses, “Now you shall witness what I will do to Pharaoh: because of My strong hand he will release them; indeed, because of My strong hand he will drive them out of his land.”
 
 ## Exodus 6:2
 
@@ -10,15 +10,15 @@ God spoke further to Moses, saying, “I am the Lord.
 
 ## Exodus 6:3
 
-I appeared to Abraham, Isaac, and Jacob as God Almighty, but by my name, the Lord, I did not make myself fully known to them.
+I appeared to Abraham, Isaac, and Jacob as God Almighty, but by My name, the Lord, I did not make Myself fully known to them.
 
 ## Exodus 6:4
 
-I also established my covenant with them to give them the land of Canaan, where they lived as strangers.
+I also established My covenant with them to give them the land of Canaan, where they lived as strangers.
 
 ## Exodus 6:5
 
-Moreover, I have heard the groaning of the Israelites, whom the Egyptians are holding in bondage, and I have remembered my covenant.
+Moreover, I have heard the groaning of the Israelites, whom the Egyptians are holding in bondage, and I have remembered My covenant.
 
 ## Exodus 6:6
 
@@ -26,7 +26,7 @@ Therefore, say to the Israelites: ‘I am the Lord, and I will bring you out fro
 
 ## Exodus 6:7
 
-I will take you as my own people, and I will be your God. Then you shall know that I am the Lord your God, who brought you out from under the burdens of the Egyptians.
+I will take you as My own people, and I will be your God. Then you shall know that I am the Lord your God, who brought you out from under the burdens of the Egyptians.
 
 ## Exodus 6:8
 
@@ -66,27 +66,27 @@ These were the names of the sons of Levi according to their generations: Gershon
 
 ## Exodus 6:17
 
-Gershon's sons, according to their clans, were Libni and Shimei.
+Gershon’s sons, according to their clans, were Libni and Shimei.
 
 ## Exodus 6:18
 
-Kohath's descendants included Amram, Izhar, Hebron, and Uzziel. Kohath lived 133 years.
+Kohath’s descendants included Amram, Izhar, Hebron, and Uzziel. Kohath lived 133 years.
 
 ## Exodus 6:19
 
-Merari's sons were Mahli and Mushi. These were the clans of Levi according to their records.
+Merari’s sons were Mahli and Mushi. These were the clans of Levi according to their records.
 
 ## Exodus 6:20
 
-Amram took his father's sister Jochebed as his wife, and she bore him Aaron and Moses. Amram lived 137 years.
+Amram took his father’s sister Jochebed as his wife, and she bore him Aaron and Moses. Amram lived 137 years.
 
 ## Exodus 6:21
 
-Izhar's descendants were Korah, Nepheg, and Zichri.
+Izhar’s descendants were Korah, Nepheg, and Zichri.
 
 ## Exodus 6:22
 
-Uzziel's descendants were Mishael, Elzaphan, and Sithri.
+Uzziel’s descendants were Mishael, Elzaphan, and Sithri.
 
 ## Exodus 6:23
 
@@ -94,7 +94,7 @@ Aaron took Elisheba, daughter of Amminadab and sister of Nahshon, as his wife, a
 
 ## Exodus 6:24
 
-Korah's sons were Assir, Elkanah, and Abiasaph. These were the Korahite clans.
+Korah’s sons were Assir, Elkanah, and Abiasaph. These were the Korahite clans.
 
 ## Exodus 6:25
 

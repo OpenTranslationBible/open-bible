@@ -6,7 +6,7 @@ Adam was intimate with his wife Eve, and she conceived and gave birth to Cain. S
 
 ## Genesis 4:2
 
-Later, she gave birth to Cain's brother Abel. Abel was a shepherd, while Cain was a tiller of the soil.
+Later, she gave birth to Cain’s brother Abel. Abel was a shepherd, while Cain was a tiller of the soil.
 
 ## Genesis 4:3
 
@@ -38,7 +38,7 @@ Then the Lord said to Cain, “Where is your brother Abel?” He replied, “I d
 
 ## Genesis 4:10
 
-The Lord said, “What have you done? Your brother’s blood cries out to me from the ground.
+The Lord said, “What have you done? Your brother’s blood cries out to Me from the ground.
 
 ## Genesis 4:11
 
@@ -54,7 +54,7 @@ Cain said to the Lord, “This punishment is more than I can bear!
 
 ## Genesis 4:14
 
-Today you have driven me from the land, and I will be hidden from your presence; I will be a wanderer and a drifter on the earth, and whoever finds me will kill me.”
+Today You have driven me from the land, and I will be hidden from Your presence; I will be a wanderer and a drifter on the earth, and whoever finds me will kill me.”
 
 ## Genesis 4:15
 

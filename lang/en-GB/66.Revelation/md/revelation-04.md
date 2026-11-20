@@ -30,10 +30,10 @@ The first living creature was like a lion, the second was like a calf, the third
 
 ## Revelation 4:8
 
-Each of the four living creatures had six wings and were full of eyes all around and within; and day and night they never cease to say,
+Each of the four living creatures had six wings and was full of eyes all around and within; and day and night they never cease to say,
 
-> “Holy, holy, holy is the Lord God Almighty,
-> who was, and is, and is to come.”
+>  “Holy, holy, holy is the Lord God Almighty,
+>  who was, and is, and is to come.”
 
 ## Revelation 4:9
 
@@ -41,11 +41,11 @@ Whenever the living creatures give glory, honour, and thanks to the one who sits
 
 ## Revelation 4:10
 
-the twenty-four elders fall down before the one who sits on the throne and worship him who lives forever and ever. They lay their crowns before the throne and say:
+the twenty-four elders fall down before the one who sits on the throne and worship Him who lives forever and ever. They lay their crowns before the throne and say:
 
 ## Revelation 4:11
 
 > “You are worthy, our Lord and God,
-> to receive glory, honour, and power,
-> for you created all things,
-> and by your will they existed and were created.”
+>  to receive glory, honour, and power,
+>  for You created all things,
+>  and by Your will they existed and were created.”

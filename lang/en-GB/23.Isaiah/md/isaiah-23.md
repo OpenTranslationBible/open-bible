@@ -25,13 +25,13 @@ Is this your city of joy, whose origin is from ancient times, whose feet carried
 Who has devised this against Tyre, the crown-giver, whose merchants were princes, whose traders were honoured across the earth?
 
 ## Isaiah 23:9
-The Lord of Hosts has purposed it, to defile the pride of all splendour, to humble all who are honoured on the earth.
+The Lord of hosts has purposed it, to defile the pride of all splendour, to humble all who are honoured on the earth.
 
 ## Isaiah 23:10
 Overflow your land like the Nile, Daughter of Tarshish, for you no longer have restraint.
 
 ## Isaiah 23:11
-The Lord has stretched out his hand over the sea, he has made kingdoms tremble; he has given a command concerning Canaan to destroy its fortresses.
+The Lord has stretched out His hand over the sea, He has made kingdoms tremble; He has given a command concerning Canaan to destroy its fortresses.
 
 ## Isaiah 23:12
 He has declared, “You shall no longer exult, O crushed virgin daughter of Sidon. Arise, cross over to Cyprus; even there you will find no rest.”
@@ -49,7 +49,7 @@ In that time Tyre will be forgotten for seventy years, like the days of one king
 “Take up a harp, go around the city, you forgotten harlot; play the harp well, sing many songs, so that you may be remembered.”
 
 ## Isaiah 23:17
-At the end of seventy years, the Lord will attend to Tyre. She will return to her trade and will engage in commerce with all the kingdoms on the face of the earth.
+At the end of seventy years, the Lord will attend to Tyre. She will return to her wages and will play the prostitute with all the kingdoms on the face of the earth.
 
 ## Isaiah 23:18
 Yet her earnings and her wages will be set apart for the Lord; they will not be stored or hoarded, but her profits will provide abundant food and splendid clothing for those who dwell in the presence of the Lord.

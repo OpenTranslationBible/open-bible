@@ -8,7 +8,7 @@ Wisdom has constructed her dwelling; she has carved out her seven pillars.
 
 She has prepared her feast, she has blended her wine;
 
-> she has also arranged her table.
+>  she has also arranged her table.
 
 ## Proverbs 9:3
 
@@ -36,13 +36,13 @@ He who corrects a scoffer invites dishonour; he who rebukes the wicked receives 
 
 Do not rebuke a scoffer, lest they hate you;
 
-> rebuke the wise, and they will love you.
+>  rebuke the wise, and they will love you.
 
 ## Proverbs 9:9
 
 Instruct the wise and they will grow wiser still;
 
-> teach the righteous and they will enhance their learning.
+>  teach the righteous and they will enhance their learning.
 
 ## Proverbs 9:10
 

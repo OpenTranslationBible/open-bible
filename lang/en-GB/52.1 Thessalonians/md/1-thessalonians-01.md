@@ -3,8 +3,8 @@
 ## 1 Thessalonians 1:1
 
 From Paul, Silvanus, and Timothy,  
-To the church of the Thessalonians who are in God the Father and the Lord Jesus Christ:  
-Grace and peace be yours.
+ To the church of the Thessalonians who are in God the Father and the Lord Jesus Christ:  
+ Grace and peace be yours.
 
 ## 1 Thessalonians 1:2
 

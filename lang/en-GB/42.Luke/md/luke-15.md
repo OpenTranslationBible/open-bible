@@ -76,11 +76,11 @@ When he realised his situation, he said, ‘How many of my father’s hired serv
 
 ## Luke 15:18
 
-I will arise and go to my father and say to him: Father, I have sinned against heaven and against you.
+I will arise and go to my father and say to him, “Father, I have sinned against heaven and against you.
 
 ## Luke 15:19
 
-I am not worthy to be called your son any longer; treat me as one of your hired servants.’
+I am not worthy to be called your son any longer; treat me as one of your hired servants.”’
 
 ## Luke 15:20
 
@@ -100,7 +100,7 @@ Bring the fattened calf and slaughter it. Let us eat and celebrate.
 
 ## Luke 15:24
 
-For this son of mine was as if dead and is alive again; he was lost and is found.’ And they began to celebrate.
+For this son of mine was dead and is alive again; he was lost and is found.’ And they began to celebrate.
 
 ---
 
@@ -134,4 +134,4 @@ But when this son of yours returns, who has squandered your property with prosti
 
 ## Luke 15:32
 
-But it was necessary to celebrate and be glad, because this brother of yours was as if he was dead but now he is alive again; he was lost and is found.’”
+But it was necessary to celebrate and be glad, because this brother of yours was dead and is alive again; he was lost and is found.’”

@@ -50,28 +50,28 @@ The word of the Lord then came to Jeremiah, saying,
 
 ## Jeremiah 35:13
 
-“This is what the Lord of Hosts, the God of Israel, says: ‘Go and tell the people of Judah and the inhabitants of Jerusalem, “Will you not learn a lesson and listen to my words?” declares the Lord.
+“This is what the Lord of hosts, the God of Israel, says: ‘Go and tell the people of Judah and the inhabitants of Jerusalem, “Will you not learn a lesson and listen to My words?” declares the Lord.
 
 ## Jeremiah 35:14
 
-‘The words of Jonadab, son of Rekab, which he commanded his descendants, not to drink wine, have been observed. To this day they do not drink wine, because they obey their ancestor’s command. But I have spoken to you persistently, yet you have not listened to me.
+‘The words of Jonadab, son of Rekab, which he commanded his descendants, not to drink wine, have been observed. To this day they do not drink wine, because they obey their ancestor’s command. But I have spoken to you persistently, yet you have not listened to Me.
 
 ## Jeremiah 35:15
 
-I have sent all my servants the prophets to you, again and again, saying: “Each of you must turn from your evil ways and amend your deeds; do not follow other gods to serve them. Then you will dwell in the land I have given to you and your ancestors.” But you have not inclined your ear or listened to me.
+I have sent all My servants the prophets to you, again and again, saying: “Each of you must turn from your evil ways and amend your deeds; do not follow other gods to serve them. Then you will dwell in the land I have given to you and your ancestors.” But you have not inclined your ear or listened to Me.
 
 ## Jeremiah 35:16
 
-The descendants of Jonadab, son of Rekab, have carried out the command their forefather gave them, but this people have not listened to me.’
+The descendants of Jonadab, son of Rekab, have carried out the command their forefather gave them, but this people have not listened to Me.’
 
 ## Jeremiah 35:17
 
-Therefore, this is what the Lord, the God of Hosts, the God of Israel, says: ‘Behold, I am bringing upon Judah and all the inhabitants of Jerusalem all the disaster I pronounced against them, because I spoke to them, but they did not listen; I called to them, but they did not answer.’”
+Therefore, this is what the Lord, the God of hosts, the God of Israel, says: ‘Behold, I am bringing upon Judah and all the inhabitants of Jerusalem all the disaster I pronounced against them, because I spoke to them, but they did not listen; I called to them, but they did not answer.’”
 
 ## Jeremiah 35:18
 
-Then Jeremiah said to the house of the Rekabites, “This is what the Lord of Hosts, the God of Israel, says: ‘Because you have obeyed the command of Jonadab your forefather, and have kept all his instructions and done all he ordered you,
+Then Jeremiah said to the house of the Rekabites, “This is what the Lord of hosts, the God of Israel, says: ‘Because you have obeyed the command of Jonadab your forefather, and have kept all his instructions and done all he ordered you,
 
 ## Jeremiah 35:19
 
-therefore this is what the Lord of Hosts, the God of Israel, says: ‘Jonadab, son of Rekab, will never lack a descendant to stand before me always.’”
+therefore this is what the Lord of hosts, the God of Israel, says: ‘Jonadab, son of Rekab, will never lack a descendant to stand before Me always.’”

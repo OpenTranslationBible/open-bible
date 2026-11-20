@@ -10,7 +10,7 @@ Proclaim the word; be prepared whether the time is favourable or not; correct, r
 
 ## 2 Timothy 4:3
 
-For the time will come when they will not accept sound doctrine; but desiring to have their ears pleased, they will gather for themselves teachers to suit their own preferences,
+For the time will come when they will not accept sound doctrine; but having itching ears, they will gather for themselves teachers to suit their own preferences,
 
 ## 2 Timothy 4:4
 
@@ -26,7 +26,7 @@ For I am already being offered, and the time for my departure is near.
 
 ## 2 Timothy 4:7
 
-I have striven to fight the good fight, I have completed the race, I have maintained the faith;
+I have fought the good fight, I have completed the race, I have maintained the faith;
 
 ## 2 Timothy 4:8
 
@@ -46,7 +46,7 @@ Only Luke is with me. Take Mark and bring him with you, for he is helpful to me 
 
 ## 2 Timothy 4:12
 
-As I have sent Tychicus to Ephesus.
+But I have sent Tychicus to Ephesus.
 
 ## 2 Timothy 4:13
 
@@ -87,4 +87,4 @@ Do your best to come before winter. Eubulus greets you, as do Pudens, Linus, Cla
 ## 2 Timothy 4:22
 
 May the Lord be with your spirit.  
-May grace be with you.
+ May grace be with you.

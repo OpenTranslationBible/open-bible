@@ -14,11 +14,11 @@ Tobiah the Ammonite, who was near him, said, “What they are building—even if
 
 ## Nehemiah 4:4
 
-Hear us, O our God, for we are despised. Turn their insults back on their own heads and make them plunder in a land of captivity.
+Hear us, O our God, for we are despised. Turn their insults back on their own heads and let them be taken as plunder in a land of captivity.
 
 ## Nehemiah 4:5
 
-Do not cover up their guilt or let their sin be wiped out from your sight, for they have demoralised the builders.
+Do not cover up their guilt or let their sin be wiped out from Your sight, for they have demoralised the builders.
 
 ## Nehemiah 4:6
 
@@ -50,7 +50,7 @@ Then the Jews who lived near them came and repeatedly warned us, “Wherever you
 
 ## Nehemiah 4:13
 
-Therefore, I stationed some of the people behind the lowest points of the wall at the exposed places, organizing them by families with their swords, spears, and bows.
+Therefore, I stationed some of the people behind the lowest points of the wall at the exposed places, organising them by families with their swords, spears, and bows.
 
 ## Nehemiah 4:14
 

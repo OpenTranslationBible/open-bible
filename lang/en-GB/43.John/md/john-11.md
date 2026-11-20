@@ -108,7 +108,7 @@ Jesus said to her, “I am the resurrection and the life. Whoever believes in Me
 
 ## John 11:26
 
-and whoever lives by having faith in Me will never truly die. Do you believe this?”
+and whoever lives and believes in Me will never die. Do you believe this?”
 
 ## John 11:27
 
@@ -134,7 +134,7 @@ When the Jews who had been with Mary in the house, comforting her, noticed how q
 
 ## John 11:32
 
-When Mary reached the place where Jesus was and saw Him, she fell at His feet. “Lord”, she said “had You been here, I know my brother would not have died.”
+When Mary reached the place where Jesus was and saw Him, she fell at His feet. “Lord,” she said, “had You been here, I know my brother would not have died.”
 
 ---
 
@@ -156,7 +156,7 @@ Then those present remarked, “Observe how He cared for him!”
 
 ## John 11:37
 
-Yet others questioned, “Could not the one who gave sight to the blind man have prevented this man's death?”
+Yet others questioned, “Could not the one who gave sight to the blind man have prevented this man’s death?”
 
 ---
 
@@ -218,7 +218,7 @@ You do not understand that it is better for you that one man die for the people 
 
 ## John 11:51
 
-He did not say this on his own, in fact, as high priest he had already prophesied that year that Jesus would die for the Jewish nation,
+He did not say this on his own; in fact, as high priest that year he prophesied that Jesus would die for the Jewish nation,
 
 ## John 11:52
 

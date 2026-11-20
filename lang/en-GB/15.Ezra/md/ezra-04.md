@@ -6,13 +6,13 @@ Now when the adversaries of Judah and Benjamin heard that the exiles were buildi
 
 ## Ezra 4:2
 
-they approached Zerubbabel and the heads of the fathers' households, saying, “Let us build with you, for like you, we seek your God and have been offering sacrifices to Him since the days of Esarhaddon king of Assyria, who brought us here.”
+they approached Zerubbabel and the heads of the fathers’ households, saying, “Let us build with you, for like you, we seek your God and have been offering sacrifices to Him since the days of Esarhaddon king of Assyria, who brought us here.”
 
 ---
 
 ## Ezra 4:3
 
-But Zerubbabel, Jeshua, and the rest of the heads of the fathers' households of Israel said to them, “You have no part with us in building a house to our God; we alone will build for the Lord, the God of Israel, as King Cyrus, the king of Persia, has commanded us.”
+But Zerubbabel, Jeshua, and the rest of the heads of the fathers’ households of Israel said to them, “You have no part with us in building a house to our God; we alone will build for the Lord, the God of Israel, as King Cyrus, the king of Persia, has commanded us.”
 
 ## Ezra 4:4
 

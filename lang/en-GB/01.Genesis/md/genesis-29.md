@@ -6,11 +6,11 @@ Jacob continued his journey and arrived in the land of the eastern people.
 
 ## Genesis 29:2
 
-He noticed a well in the field, with three flocks of sheep lying nearby, as the flocks were watered from that well. The stone covering the well's mouth was large.
+He noticed a well in the field, with three flocks of sheep lying nearby, as the flocks were watered from that well. The stone covering the well’s mouth was large.
 
 ## Genesis 29:3
 
-When all the flocks were gathered, the shepherds would roll the stone away from the well's mouth and water the sheep, then replace the stone over the well's mouth.
+When all the flocks were gathered, the shepherds would roll the stone away from the well’s mouth and water the sheep, then replace the stone over the well’s mouth.
 
 ## Genesis 29:4
 
@@ -30,15 +30,15 @@ Jacob said, “Look, it is still broad daylight; it is not yet time to gather th
 
 ## Genesis 29:8
 
-But they replied, “We cannot do so until all the flocks are gathered and the stone is rolled away from the well's mouth; then we will water the sheep.”
+But they replied, “We cannot do so until all the flocks are gathered and the stone is rolled away from the well’s mouth; then we will water the sheep.”
 
 ## Genesis 29:9
 
-While he was still speaking with them, Rachel arrived with her father's sheep, for she was a shepherdess.
+While he was still speaking with them, Rachel arrived with her father’s sheep, for she was a shepherdess.
 
 ## Genesis 29:10
 
-When Jacob saw Rachel, the daughter of his uncle Laban, and Laban’s sheep, he approached and rolled the stone away from the well's mouth and watered his uncle’s sheep.
+When Jacob saw Rachel, the daughter of his uncle Laban, and Laban’s sheep, he approached and rolled the stone away from the well’s mouth and watered his uncle’s sheep.
 
 ## Genesis 29:11
 
@@ -106,7 +106,7 @@ Laban said, “It is not our custom here to give the younger daughter in marriag
 
 ## Genesis 29:27
 
-Complete this one's bridal week, and we will give you the other also, in return for another seven years of work.”
+Complete this one’s bridal week, and we will give you the other also, in return for another seven years of work.”
 
 ## Genesis 29:28
 
@@ -122,7 +122,7 @@ Jacob was also with Rachel, and he loved Rachel more than Leah. He worked for La
 
 ## Genesis 29:31
 
-When the Lord saw that Leah was unloved, he enabled her to conceive, but Rachel remained childless.
+When the Lord saw that Leah was unloved, He enabled her to conceive, but Rachel remained childless.
 
 ## Genesis 29:32
 
@@ -130,7 +130,7 @@ Leah became pregnant and gave birth to a son. She named him Reuben, for she said
 
 ## Genesis 29:33
 
-She conceived again and gave birth to a son, saying, “Because the Lord heard that I am unloved, he has given me this one too.” So she named him Simeon.
+She conceived again and gave birth to a son, saying, “Because the Lord heard that I am unloved, He has given me this one too.” So she named him Simeon.
 
 ## Genesis 29:34
 

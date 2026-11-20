@@ -4,13 +4,13 @@
 Eliashib the high priest, along with his fellow priests, commenced the work on the Sheep Gate. They consecrated it and installed its doors. They continued the consecration up to the Tower of the Hundred and the Tower of Hananel.
 
 ## Nehemiah 3:2
-Next to them, the men of Jericho constructed the adjacent section, and Zakkur son of Imri built alongside them.
+Next to them, the men of Jericho constructed the adjacent section, and Zaccur son of Imri built alongside them.
 
 ## Nehemiah 3:3
 The sons of Hassenaah rebuilt the Fish Gate, laying its beams and setting up its doors, bolts, and bars.
 
 ## Nehemiah 3:4
-Adjacent to them, Meremoth son of Uriah, the son of Hakkoz, undertook repairs. Beside him, Meshullam son of Berekiah, the son of Meshezabel, made repairs, with Zadok son of Baana repairing next to him.
+Adjacent to them, Meremoth son of Uriah, the son of Hakkoz, undertook repairs. Beside him, Meshullam son of Berechiah, the son of Meshezabel, made repairs, with Zadok son of Baana repairing next to him.
 
 ## Nehemiah 3:5
 The Tekoites repaired the following section, though their nobles would not support the work of their overseers.
@@ -31,7 +31,7 @@ Rephaiah son of Hur, official of half the district of Jerusalem, repaired the ne
 Adjoining this, Jedaiah son of Harumaph made repairs opposite his house, with Hattush son of Hashabneiah working next to him.
 
 ## Nehemiah 3:11
-Malkijah son of Harim and Hasshub son of Pahath-Moab repaired another section, including the Tower of the Ovens.
+Malchijah son of Harim and Hasshub son of Pahath-Moab repaired another section, including the Tower of the Ovens.
 
 ## Nehemiah 3:12
 Shallum son of Hallohesh, official of half the district of Jerusalem, repaired the next section with his daughters.
@@ -40,7 +40,7 @@ Shallum son of Hallohesh, official of half the district of Jerusalem, repaired t
 Hanun and the residents of Zanoah repaired the Valley Gate, constructing it and installing its doors, bolts, and bars, as well as a thousand cubits of the wall up to the Dung Gate.
 
 ## Nehemiah 3:14
-Malkijah son of Rekab, official of the district of Beth Hakkerem, repaired the Dung Gate, constructing it and installing its doors, bolts, and bars.
+Malchijah son of Rechab, official of the district of Beth Hakkerem, repaired the Dung Gate, constructing it and installing its doors, bolts, and bars.
 
 ## Nehemiah 3:15
 Shallun son of Kol-Hozeh, official of the district of Mizpah, repaired the Fountain Gate, roofing it and installing its doors, bolts, and bars. He also repaired the wall of the Pool of Siloam by the King’s Garden, as far as the steps descending from the City of David.
@@ -85,13 +85,13 @@ Beside them, the men of Tekoa repaired another section, from the large projectin
 Above the Horse Gate, the priests repaired, each in front of his own house.
 
 ## Nehemiah 3:29
-Next to them, Zadok son of Immer made repairs opposite his house, with Shemaiah son of Shekaniah, the guard at the East Gate, making repairs next to him.
+Next to them, Zadok son of Immer made repairs opposite his house, with Shemaiah son of Shecaniah, the guard at the East Gate, making repairs next to him.
 
 ## Nehemiah 3:30
-Beside him, Hananiah son of Shelemiah, and Hanun, the sixth son of Zalaph, repaired another section. Next to them, Meshullam son of Berekiah made repairs opposite his living quarters.
+Beside him, Hananiah son of Shelemiah, and Hanun, the sixth son of Zalaph, repaired another section. Next to them, Meshullam son of Berechiah made repairs opposite his living quarters.
 
 ## Nehemiah 3:31
-Next to him, Malkijah, one of the goldsmiths, made repairs up to the house of the temple servants and the merchants, opposite the Inspection Gate, and as far as the room above the corner.
+Next to him, Malchijah, one of the goldsmiths, made repairs up to the house of the temple servants and the merchants, opposite the Inspection Gate, and as far as the room above the corner.
 
 ## Nehemiah 3:32
 Between the room above the corner and the Sheep Gate, the goldsmiths and merchants made repairs.

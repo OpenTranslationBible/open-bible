@@ -14,7 +14,7 @@ Hear, O Israel, and be diligent to obey so that it may go well with you and that
 
 ## Deuteronomy 6:4
 
-Hear, O Israel: Of the Lord our God, the Lord is one.
+Hear, O Israel: The Lord our God, the Lord is one.
 
 ## Deuteronomy 6:5
 
@@ -98,4 +98,4 @@ The Lord commanded us to follow all these statutes and to fear the Lord our God,
 
 ## Deuteronomy 6:25
 
-And it will be our righteousness if we are careful to obey all this commandment before the Lord our God, just as He commanded us.
+And it will be our righteousness if we are careful to obey all this commandment before the Lord our God, just as He commanded us.”

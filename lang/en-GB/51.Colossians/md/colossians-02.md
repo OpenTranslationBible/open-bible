@@ -6,7 +6,7 @@ I want you to understand how great a struggle I have for you and for those at La
 
 ## Colossians 2:2
 
-My aim is that their hearts may be encouraged, being united in love, and that they may reach all the wealth that comes from the full assurance of understanding, leading to a true knowledge of God's mystery, which is Christ Himself,
+My aim is that their hearts may be encouraged, being united in love, and that they may reach all the wealth that comes from the full assurance of understanding, leading to a true knowledge of God’s mystery, which is Christ Himself,
 
 ## Colossians 2:3
 

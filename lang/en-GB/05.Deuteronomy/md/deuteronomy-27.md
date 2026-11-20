@@ -22,7 +22,7 @@ Construct the altar of the Lord your God with uncut stones and offer burnt offer
 Present fellowship offerings there, partaking in them and rejoicing in the presence of the Lord your God.
 
 ## Deuteronomy 27:8
-Write very clearly all the words of this law on the stones you have set up.
+Write very clearly all the words of this law on the stones you have set up.”
 
 ## Deuteronomy 27:9
 Then Moses and the Levitical priests addressed all Israel, saying, “Be silent, Israel, and listen! Today you have become the people of the Lord your God.
@@ -76,4 +76,4 @@ The Levites shall then proclaim to all the people of Israel in a loud voice:
 ‘Cursed is anyone who accepts a bribe to harm an innocent person.’ Then all the people shall say, ‘Amen.’
 
 ## Deuteronomy 27:26
-‘Cursed is anyone who fails to uphold the words of this law by carrying them out.’ Then all the people shall say, ‘Amen.’
+‘Cursed is anyone who fails to uphold the words of this law by carrying them out.’ Then all the people shall say, ‘Amen.’”

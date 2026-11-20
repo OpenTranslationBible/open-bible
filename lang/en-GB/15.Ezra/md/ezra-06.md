@@ -22,8 +22,6 @@ Moreover, the gold and silver articles from the house of God, which Nebuchadnezz
 
 ---
 
----
-
 ## Ezra 6:6
 
 Now, Tattenai, governor of the province beyond the River, Shethar-Bozenai, and your colleagues, the officials of that region, stay away from there.

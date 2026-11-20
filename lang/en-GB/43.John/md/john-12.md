@@ -6,15 +6,15 @@ Six days before the Passover, Jesus arrived at Bethany where Lazarus was, the on
 
 ## John 12:2
 
-A dinner was prepared in Jesus' honour, and Martha served while Lazarus was among those reclining at the table with him.
+A dinner was prepared in Jesus’ honour, and Martha served while Lazarus was among those reclining at the table with Him.
 
 ## John 12:3
 
-Mary took a pound of very costly perfume made of pure nard, anointed Jesus' feet, and wiped them with her hair. The house was filled with the fragrance of the perfume.
+Mary took a pound of very costly perfume made of pure nard, anointed Jesus’ feet, and wiped them with her hair. The house was filled with the fragrance of the perfume.
 
 ## John 12:4
 
-However, Judas Iscariot, one of his disciples who intended to betray him, remarked,
+However, Judas Iscariot, one of His disciples who intended to betray Him, remarked,
 
 ## John 12:5
 
@@ -26,17 +26,17 @@ He said this not because he cared for the poor, but because he was a thief; as t
 
 ## John 12:7
 
-Jesus replied, “Leave her alone. It was meant that she should keep this perfume for the day of my burial.
+Jesus replied, “Leave her alone. It was meant that she should keep this perfume for the day of My burial.
 
 ## John 12:8
 
-You will always have those in need with you, but you will not always have me.”
+You will always have those in need with you, but you will not always have Me.”
 
 ---
 
 ## John 12:9
 
-A large crowd of Jews found out that Jesus was there, and they came not only because of him but also to see Lazarus, whom he had raised from the dead.
+A large crowd of Jews found out that Jesus was there, and they came not only because of Him but also to see Lazarus, whom He had raised from the dead.
 
 ## John 12:10
 
@@ -44,21 +44,21 @@ Therefore, the chief priests also plotted to put Lazarus to death,
 
 ## John 12:11
 
-because on account of him many Jews were going over to Jesus and believing in him.
+because on account of him many Jews were going over to Jesus and believing in Him.
 
 ---
 
 ## John 12:12
 
-The next day the great crowd that had come for the feast heard that Jesus was on his way to Jerusalem.
+The next day the great crowd that had come for the feast heard that Jesus was on His way to Jerusalem.
 
 ## John 12:13
 
-They took palm branches and went out to meet him, crying out,
+They took palm branches and went out to meet Him, crying out,
 
-> “Hosanna!
-> Blessed is he who comes in the name of the Lord!
-> Blessed is the King of Israel!”
+>  “Hosanna!
+>  Blessed is He who comes in the name of the Lord!
+>  Blessed is the King of Israel!”
 
 ## John 12:14
 
@@ -67,24 +67,24 @@ Jesus found a young donkey and sat upon it, fulfilling what was written:
 ## John 12:15
 
 > “Do not fear, Daughter Zion;
-> see, your king is coming,
-> seated on a donkey’s colt.”
+>  see, your king is coming,
+>  seated on a donkey’s colt.”
 
 ## John 12:16
 
-At first, his disciples did not understand these things. Only after Jesus was glorified did they realise that these things had been written about him and that they had done these things to him.
+At first, His disciples did not understand these things. Only after Jesus was glorified did they realise that these things had been written about Him and that they had done these things to Him.
 
 ## John 12:17
 
-The crowd that was with him when he called Lazarus out of the tomb and raised him from the dead continued to testify.
+The crowd that was with Him when He called Lazarus out of the tomb and raised him from the dead continued to testify.
 
 ## John 12:18
 
-Many people, having heard about this miraculous sign, went out to meet him.
+Many people, having heard about this miraculous sign, went out to meet Him.
 
 ## John 12:19
 
-So the Pharisees said to one another, “See, this is getting us nowhere. Look how everyone has gone after him!”
+So the Pharisees said to one another, “See, this is getting us nowhere. Look how everyone has gone after Him!”
 
 ---
 
@@ -110,29 +110,29 @@ Truly, truly I say to you, unless a grain of wheat falls into the earth and dies
 
 ## John 12:25
 
-Anyone who cherishes their life will lose it, while anyone who disregards their life in this world will keep it for eternal life.
+Anyone who loves their life will lose it, while anyone who hates their life in this world will keep it for eternal life.
 
 ## John 12:26
 
-If anyone serves me, they must follow me; and where I am, there my servant will be also. My Father will honour the one who serves me.
+If anyone serves Me, they must follow Me; and where I am, there My servant will be also. My Father will honour the one who serves Me.
 
 ---
 
 ## John 12:27
 
-“Now my soul is troubled, and what shall I say? ‘Father, save me from this hour’? No, it was for this very purpose I came to this hour.
+“Now My soul is troubled, and what shall I say? ‘Father, save Me from this hour’? No, it was for this very purpose I came to this hour.
 
 ## John 12:28
 
-Father, glorify your name.” Then a voice came from heaven, “I have glorified it and will glorify it once more.”
+Father, glorify Your name.” Then a voice came from heaven, “I have glorified it and will glorify it once more.”
 
 ## John 12:29
 
-The crowd that stood there and heard it said it had thundered; others said, “An angel has spoken to him.”
+The crowd that stood there and heard it said it had thundered; others said, “An angel has spoken to Him.”
 
 ## John 12:30
 
-Jesus said, “This voice came for your benefit, not mine.
+Jesus said, “This voice came for your benefit, not Mine.
 
 ## John 12:31
 
@@ -140,17 +140,17 @@ Now is the time for judgment on this world; now the ruler of this world will be 
 
 ## John 12:32
 
-And when I am lifted up from the earth, I will draw all people to me.”
+And when I am lifted up from the earth, I will draw all people to Me.”
 
 ## John 12:33
 
-He said this to indicate the kind of death he was going to die.
+He said this to indicate the kind of death He was going to die.
 
 ---
 
 ## John 12:34
 
-The crowd responded, “We have heard from the Law that the Messiah will remain forever, so how can you say, ‘The Son of Man must be lifted up’? Who is this ‘Son of Man’?”
+The crowd responded, “We have heard from the Law that the Messiah will remain forever, so how can You say, ‘The Son of Man must be lifted up’? Who is this ‘Son of Man’?”
 
 ## John 12:35
 
@@ -158,20 +158,20 @@ Then Jesus said to them, “You are going to have the light just a little while 
 
 ## John 12:36
 
-Trust in the light while you have the light, so that you may become children of light.” When he had finished speaking, Jesus left and hid himself from them.
+Trust in the light while you have the light, so that you may become children of light.” When He had finished speaking, Jesus left and hid Himself from them.
 
 ---
 
 ## John 12:37
 
-Even though Jesus had performed so many signs in their presence, they still would not believe in him.
+Even though Jesus had performed so many signs in their presence, they still would not believe in Him.
 
 ## John 12:38
 
 This was to fulfil the words of Isaiah the prophet:
 
-> “Lord, who has believed our message
-> and to whom has the arm of the Lord been revealed?”
+>  “Lord,
+>  who has believed our message and to whom has the arm of the Lord been revealed?”
 
 ## John 12:39
 
@@ -179,21 +179,21 @@ They were unable to believe for this reason, as Isaiah says elsewhere:
 
 ## John 12:40
 
-> “He blinded their eyes
-> and hardened their hearts,
-> so they can not see with their eyes,
-> nor understand with their hearts,
-> nor turn —and I would heal them.”
+> “He blinded their eyes and hardened their hearts,
+>  so they cannot see with their eyes,
+>  nor understand with their hearts,
+>  nor turn—and I would heal them.
+> ”
 
 ## John 12:41
 
-Isaiah said this because he had seen Jesus’ glory and spoke about him.
+Isaiah said this because he had seen Jesus’ glory and spoke about Him.
 
 ---
 
 ## John 12:42
 
-Nevertheless, many even among the leaders believed in him. But because of the Pharisees, they would not openly acknowledge their faith for fear they would be put out of the synagogue;
+Nevertheless, many even among the leaders believed in Him. But because of the Pharisees, they would not openly acknowledge their faith for fear they would be put out of the synagogue;
 
 ## John 12:43
 
@@ -203,28 +203,28 @@ for they valued human praise more than praise from God.
 
 ## John 12:44
 
-Then Jesus cried out, “Whoever believes in me does not believe in me alone, but in the one who sent me.
+Then Jesus cried out, “Whoever believes in Me does not believe in Me alone, but in the one who sent Me.
 
 ## John 12:45
 
-You who sees me, sees the one who sent me.
+Whoever sees Me sees the one who sent Me.
 
 ## John 12:46
 
-I have come into the world as a light, so that no one who believes in me should remain in darkness.
+I have come into the world as a light, so that no one who believes in Me should remain in darkness.
 
 ## John 12:47
 
-“If anyone hears my words but does not keep them, I do not judge that person. For I did not come to judge the world, but to save it.
+“If anyone hears My words but does not keep them, I do not judge that person. For I did not come to judge the world, but to save it.
 
 ## John 12:48
 
-But there is a judge for the one who rejects me and does not accept my words; the very words I have spoken will be their judge at the last day.
+But there is a judge for the one who rejects Me and does not accept My words; the very words I have spoken will be their judge at the last day.
 
 ## John 12:49
 
-For I did not speak on my own, but the Father who sent me instructed me to say all that I have spoken.
+For I did not speak on My own, but the Father who sent Me instructed Me to say all that I have spoken.
 
 ## John 12:50
 
-I know that his command leads to eternal life. So whatever I say is precisely what the Father has told me to say.”
+I know that His command leads to eternal life. So whatever I say is precisely what the Father has told Me to say.”

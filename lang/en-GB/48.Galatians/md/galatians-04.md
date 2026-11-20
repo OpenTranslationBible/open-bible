@@ -54,7 +54,7 @@ You know that it was due to an illness that I first preached the gospel to you.
 
 ## Galatians 4:14
 
-Even though my condition was a trial to you, you did not despise or reject me, but you received me as an angel of God, as Christ Jesus himself.
+Even though my condition was a trial to you, you did not despise or reject me, but you received me as an angel of God, as Christ Jesus Himself.
 
 ## Galatians 4:15
 
@@ -108,10 +108,10 @@ But the Jerusalem that is above is free, and she is our spiritual mother.
 
 For it is written:
 
-> “Rejoice, barren woman, you who do not bear;
-> break forth and shout, you who are not in labour;
-> for more are the children of the desolate
-> than of her who has a husband.”
+>  “Rejoice, barren woman, you who do not bear;
+>  break forth and shout, you who are not in labour;
+>  for more are the children of the desolate than of her who has a husband.
+> ”
 
 ## Galatians 4:28
 

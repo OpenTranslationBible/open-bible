@@ -34,11 +34,11 @@ He reasoned, “If Esau attacks one group, the other group may escape.”
 
 ## Genesis 32:9
 
-Jacob prayed, “O God of my father Abraham and God of my father Isaac, Lord, you who told me, ‘Return to your homeland and relatives, and I will make you prosper,’
+Jacob prayed, “O God of my father Abraham and God of my father Isaac, Lord, You who told me, ‘Return to your homeland and relatives, and I will make you prosper,’
 
 ## Genesis 32:10
 
-I am unworthy of all the kindness and faithfulness you have shown your servant. I crossed this Jordan with only my staff, and now I have become two camps.
+I am unworthy of all the kindness and faithfulness You have shown Your servant. I crossed this Jordan with only my staff, and now I have become two camps.
 
 ## Genesis 32:11
 
@@ -46,7 +46,7 @@ Please deliver me from the hand of my brother Esau, for I am afraid he will atta
 
 ## Genesis 32:12
 
-Yet you have promised, ‘I will surely make you prosper and make your descendants as numerous as the sand of the sea, which cannot be counted.’”
+Yet You have promised, ‘I will surely make you prosper and make your descendants as numerous as the sand of the sea, which cannot be counted.’”
 
 ## Genesis 32:13
 

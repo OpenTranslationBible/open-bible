@@ -25,7 +25,7 @@ Once the thousand years have concluded, Satan will be released from his prison,
 and will go out to deceive the nations in the four corners of the earth, Gog and Magog, to gather them for battle. Their number is like the sand on the seashore.
 
 ## Revelation 20:9
-They marched across the broad plain of the earth and surrounded the camp of God's people and the beloved city. But fire descended from heaven and consumed them.
+They marched across the broad plain of the earth and surrounded the camp of God’s people and the beloved city. But fire descended from heaven and consumed them.
 
 ## Revelation 20:10
 The devil who deceived them was thrown into the lake of fire and brimstone, where the beast and the false prophet were also, and they will be tormented day and night for ever and ever.

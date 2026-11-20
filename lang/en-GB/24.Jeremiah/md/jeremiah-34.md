@@ -40,19 +40,19 @@ Subsequently, the word of the Lord was delivered to Jeremiah:
 “This is what the Lord, the God of Israel, says: I made a covenant with your ancestors when I brought them out of Egypt, out of the house of bondage, saying,
 
 ## Jeremiah 34:14
-‘At the end of seven years, each of you must free any fellow Hebrews who have sold themselves to you. After they have served you for six years, you must release them.’ But your ancestors did not listen to me or pay heed.
+‘At the end of seven years, each of you must free any fellow Hebrews who have sold themselves to you. After they have served you for six years, you must release them.’ But your ancestors did not listen to Me or pay heed.
 
 ## Jeremiah 34:15
-Recently, you turned and did what was right in my sight: Each of you proclaimed freedom to your neighbour, and you made a covenant before me in the house that bears my Name.
+Recently, you turned and did what was right in My sight: each of you proclaimed freedom to your neighbour, and you made a covenant before Me in the house that bears My Name.
 
 ## Jeremiah 34:16
-But now you have turned and profaned my name; each of you has taken back the male and female slaves you had set free to go as they pleased. You have brought them back into subjection as your slaves.
+But now you have turned and profaned My name; each of you has taken back the male and female slaves you had set free to go as they pleased. You have brought them back into subjection as your slaves.
 
 ## Jeremiah 34:17
-Therefore, this is what the Lord says: You have not obeyed me by proclaiming liberty, each to his brother and neighbour. So now I proclaim ‘liberty’ for you, declares the Lord—‘liberty’ to the sword, to plague, and to famine. I will make you a horror to all the kingdoms of the earth.
+Therefore, this is what the Lord says: You have not obeyed Me by proclaiming liberty, each to his brother and neighbour. So now I proclaim ‘liberty’ for you, declares the Lord—‘liberty’ to the sword, to plague, and to famine. I will make you a horror to all the kingdoms of the earth.
 
 ## Jeremiah 34:18
-Those who have violated my covenant and have not fulfilled the terms of the covenant they made before me, I will treat like the calf they cut in two and then passed between its parts.
+Those who have violated My covenant and have not fulfilled the terms of the covenant they made before Me, I will treat like the calf they cut in two and then passed between its parts.
 
 ## Jeremiah 34:19
 The leaders of Judah and Jerusalem, the court officials, the priests, and all the people of the land who passed between the parts of the calf,

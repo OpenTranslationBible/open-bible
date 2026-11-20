@@ -6,7 +6,7 @@ That night, the king could not sleep, so he commanded that the book of the chron
 
 ## Esther 6:2
 
-It was discovered there that Mordecai had reported Bigthana and Teresh, two of the king’s eunuchs who guarded the entrance, who had plotted to attack King Xerxes.
+It was discovered there that Mordecai had reported Bigthana and Teresh, two of the king’s eunuchs who guarded the entrance, who had plotted to attack King Ahasuerus.
 
 ## Esther 6:3
 
@@ -28,7 +28,7 @@ When Haman came in, the king asked him, “What should be done for the man whom 
 
 ---
 
-Haman thought to himself, “Whom would the king wish to honour more than me?”
+ Haman thought to himself, “Whom would the king wish to honour more than me?”
 
 ## Esther 6:7
 
@@ -62,7 +62,7 @@ Haman recounted to Zeresh his wife and all his friends everything that had happe
 
 ---
 
-His wise men and his wife Zeresh said to him, “If Mordecai, before whom you have begun to fall, is of Jewish descent, you will not prevail against him, but will surely come to ruin.”
+ His wise men and his wife Zeresh said to him, “If Mordecai, before whom you have begun to fall, is of Jewish descent, you will not prevail against him, but will surely come to ruin.”
 
 ## Esther 6:14
 

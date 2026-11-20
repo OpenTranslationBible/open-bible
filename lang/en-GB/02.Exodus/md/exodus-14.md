@@ -10,7 +10,7 @@ Now the Lord spoke to Moses,
 For Pharaoh will say of the Israelites, ‘They are lost in the land; the wilderness has trapped them.’
 
 ## Exodus 14:4
-And I will harden Pharaoh’s heart, and he will pursue them; and I will gain glory for myself through Pharaoh and all his army, and the Egyptians will know that I am the Lord.” And they did so.
+And I will harden Pharaoh’s heart, and he will pursue them; and I will gain glory for Myself through Pharaoh and all his army, and the Egyptians will know that I am the Lord.” And they did so.
 
 ## Exodus 14:5
 When the king of Egypt was informed that the people had fled, Pharaoh and his officials had a change of heart about them, and said, “What have we done? We have let the Israelites go and lost their services!”
@@ -43,7 +43,7 @@ But Moses said to the people, “Do not be afraid. Stand firm and you will see t
 The Lord will fight for you; you need only to be silent.”
 
 ## Exodus 14:15
-Then the Lord said to Moses, “Why are you crying out to me? Tell the Israelites to move forward.
+Then the Lord said to Moses, “Why are you crying out to Me? Tell the Israelites to move forward.
 
 ## Exodus 14:16
 Lift your staff and stretch out your hand over the sea to part the water, so that the Israelites can pass through the sea on dry ground.
@@ -91,4 +91,4 @@ But the Israelites passed through the sea on dry ground, with a wall of water on
 That day the Lord delivered Israel from the hands of the Egyptians, and Israel saw the Egyptians lying dead on the shore.
 
 ## Exodus 14:31
-When the Israelites saw the mighty hand of the Lord displayed against the Egyptians, the people feared the Lord and put their trust in him and in Moses his servant.
+When the Israelites saw the mighty hand of the Lord displayed against the Egyptians, the people feared the Lord and put their trust in Him and in Moses His servant.

@@ -31,7 +31,7 @@ Therefore I will weep as Jazer weeps for the vines of Sibmah. I will drench you 
 Joy and gladness are removed from the orchards; in the vineyards, there is no singing or jubilant shouting; no one treads out wine at the presses, for I have silenced the shouting.
 
 ## Isaiah 16:11
-My heart laments for Moab like the sound of a harp, my inmost being for Kir Hareseth.
+My heart laments for Moab like the sound of a harp, my inmost being for Kir Heres.
 
 ## Isaiah 16:12
 When Moab appears at her high place, she wears herself out; when she goes to her sanctuary to pray, it is to no avail.

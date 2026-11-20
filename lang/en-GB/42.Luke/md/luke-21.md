@@ -2,7 +2,7 @@
 
 ## Luke 21:1
 
-As Jesus looked up, he observed the wealthy placing their gifts into the temple treasury.
+As Jesus looked up, He observed the wealthy placing their gifts into the temple treasury.
 
 ## Luke 21:2
 
@@ -10,7 +10,7 @@ He also noticed a poor widow putting in two small copper coins.
 
 ## Luke 21:3
 
-And he said, “Truly I tell you, this poor widow has contributed more than all the others;
+And He said, “Truly I tell you, this poor widow has contributed more than all the others;
 
 ## Luke 21:4
 
@@ -20,7 +20,7 @@ for they all gave out of their abundance, but she, out of her poverty, put in al
 
 ## Luke 21:5
 
-Some of his disciples were speaking about how the temple was adorned with beautiful stones and dedicated gifts. But Jesus remarked,
+Some of His disciples were speaking about how the temple was adorned with beautiful stones and dedicated gifts. But Jesus remarked,
 
 ## Luke 21:6
 
@@ -28,13 +28,13 @@ Some of his disciples were speaking about how the temple was adorned with beauti
 
 ## Luke 21:7
 
-They questioned him, “Teacher, when will these things occur? And what will be the sign that they are about to happen?”
+They questioned Him, “Teacher, when will these things occur? And what will be the sign that they are about to happen?”
 
 ---
 
 ## Luke 21:8
 
-He replied, “See that you are not deceived; for many will come in my name, saying, ‘I am he,’ and, ‘The time is near.’ Do not follow them.
+He replied, “See that you are not deceived; for many will come in My name, saying, ‘I am He,’ and, ‘The time is near.’ Do not follow them.
 
 ## Luke 21:9
 
@@ -52,7 +52,7 @@ There will be great earthquakes, famines, and pestilences in various places, and
 
 ## Luke 21:12
 
-“But before all this, they will lay hands on you and persecute you, delivering you to synagogues and prisons, bringing you before kings and governors on account of my name.
+“But before all this, they will lay hands on you and persecute you, delivering you to synagogues and prisons, bringing you before kings and governors on account of My name.
 
 ## Luke 21:13
 
@@ -72,7 +72,7 @@ You will be betrayed even by parents, siblings, relatives, and friends, and some
 
 ## Luke 21:17
 
-You will be despised by everyone because of my name.
+You will be despised by everyone because of My name.
 
 ## Luke 21:18
 
@@ -142,7 +142,7 @@ Truly I tell you, this generation will certainly not pass away until all these t
 
 ## Luke 21:33
 
-Though heaven and earth may pass away, my words will never pass away.
+Heaven and earth will pass away, but My words will never pass away.
 
 ---
 
@@ -162,8 +162,8 @@ Be always on the watch, and pray that you may have the strength to escape all th
 
 ## Luke 21:37
 
-Each day, Jesus was teaching at the temple, and each evening he went out to spend the night on the hill known as the Mount of Olives,
+Each day, Jesus was teaching at the temple, and each evening He went out to spend the night on the hill known as the Mount of Olives,
 
 ## Luke 21:38
 
-and all the people would get up early in the morning to hear him at the temple.
+and all the people would get up early in the morning to hear Him at the temple.

@@ -46,7 +46,7 @@ Simon Peter went aboard and hauled the net ashore, full of large fish, 153 in to
 
 ## John 21:12
 
-Jesus said to them, “Come and have breakfast.” None of the disciples dared to ask Him, “Who are you?” knowing it was the Lord.
+Jesus said to them, “Come and have breakfast.” None of the disciples dared to ask Him, “Who are You?” knowing it was the Lord.
 
 ## John 21:13
 
@@ -60,15 +60,15 @@ This was now the third occasion that Jesus appeared to the disciples after being
 
 ## John 21:15
 
-After they had eaten, Jesus said to Simon Peter, “Simon, son of John, do you love me more than these?” He replied, “Yes, Lord, you know that I love you.” Jesus said, “Feed my lambs.”
+After they had eaten, Jesus said to Simon Peter, “Simon, son of John, do you love Me more than these?” He replied, “Yes, Lord, You know that I love You.” Jesus said, “Feed My lambs.”
 
 ## John 21:16
 
-He asked him again, “Simon, son of John, do you love me?” He answered, “Yes, Lord, you know that I love you.” Jesus said, “Tend my sheep.”
+He asked him again, “Simon, son of John, do you love Me?” He answered, “Yes, Lord, You know that I love You.” Jesus said, “Tend My sheep.”
 
 ## John 21:17
 
-He asked him a third time, “Simon, son of John, do you love me?” Peter was distressed because Jesus asked him the third time, “Do you love me?” He said, “Lord, you know everything; you know that I love you.” Jesus said, “Feed my sheep.
+He asked him a third time, “Simon, son of John, do you love Me?” Peter was distressed because Jesus asked him the third time, “Do you love Me?” He said, “Lord, You know everything; You know that I love You.” Jesus said, “Feed My sheep.
 
 ## John 21:18
 
@@ -76,13 +76,13 @@ Truly, truly I say to you, when you were younger, you dressed yourself and went 
 
 ## John 21:19
 
-He said this to signify the kind of death by which Peter would glorify God. After saying this, He said to him, “Follow me!”
+He said this to signify the kind of death by which Peter would glorify God. After saying this, He said to him, “Follow Me!”
 
 ---
 
 ## John 21:20
 
-Peter turned and saw the disciple whom Jesus loved following them, the one who had leaned back against Jesus at the supper and asked, “Lord, who is going to betray you?”
+Peter turned and saw the disciple whom Jesus loved following them, the one who had leaned back against Jesus at the supper and asked, “Lord, who is going to betray You?”
 
 ## John 21:21
 
@@ -90,7 +90,7 @@ Seeing him, Peter asked Jesus, “Lord, what about this man?”
 
 ## John 21:22
 
-Jesus replied, “If I want him to remain until I return, what is that to you? You must follow me.”
+Jesus replied, “If I want him to remain until I return, what is that to you? You must follow Me.”
 
 ## John 21:23
 

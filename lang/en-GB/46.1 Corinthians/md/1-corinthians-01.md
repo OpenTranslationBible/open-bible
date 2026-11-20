@@ -2,11 +2,11 @@
 
 ## 1 Corinthians 1:1
 
-Paul, appointed as an apostle of Jesus Christ by God's will, and Sosthenes our brother,
+Paul, appointed as an apostle of Jesus Christ by God’s will, and Sosthenes our brother,
 
 ## 1 Corinthians 1:2
 
-To the church of God which is in Corinth, to those who have been sanctified in Christ Jesus, called as saints, with all who in every place call on the name of our Lord Jesus Christ, their Lord and ours:
+to the church of God which is in Corinth, to those who have been sanctified in Christ Jesus, called as saints, with all who in every place call on the name of our Lord Jesus Christ, their Lord and ours:
 
 ## 1 Corinthians 1:3
 
@@ -18,19 +18,19 @@ I continually thank my God for you because of the grace of God given to you in C
 
 ## 1 Corinthians 1:5
 
-That in every respect you were enriched in Him, in all speech and all knowledge,
+that in every respect you were enriched in Him, in all speech and all knowledge,
 
 ## 1 Corinthians 1:6
 
-Just as the testimony about Christ was confirmed among you,
+just as the testimony about Christ was confirmed among you,
 
 ## 1 Corinthians 1:7
 
-So that you do not lack any spiritual gift as you eagerly await the revealing of our Lord Jesus Christ,
+so that you do not lack any spiritual gift as you eagerly await the revealing of our Lord Jesus Christ,
 
 ## 1 Corinthians 1:8
 
-Who will also sustain you to the end, blameless on the day of our Lord Jesus Christ.
+who will also sustain you to the end, blameless on the day of our Lord Jesus Christ.
 
 ## 1 Corinthians 1:9
 
@@ -58,7 +58,7 @@ I thank God that I baptised none of you except Crispus and Gaius,
 
 ## 1 Corinthians 1:15
 
-So that no one would say you were baptised in my name.
+so that no one would say you were baptised in my name.
 
 ## 1 Corinthians 1:16
 
@@ -76,8 +76,8 @@ For the message of the cross seems like foolishness to the lost, but to us who a
 
 For scripture says:
 
-> “I will bring to nothing the wisdom of the wise,  
-> And the understanding of the discerning I will thwart.”
+>  “I will bring to nothing the wisdom of the wise,  
+>  and the understanding of the discerning I will thwart.”
 
 ## 1 Corinthians 1:20
 
@@ -85,7 +85,7 @@ Where is the wise person? Where is the scribe? Where is the debater of this age?
 
 ## 1 Corinthians 1:21
 
-For since in God's wisdom the world through its wisdom did not come to know God, God was pleased through the perceived foolishness of the message preached to save those who believe.
+For since in God’s wisdom the world through its wisdom did not come to know God, God was pleased through the perceived foolishness of the message preached to save those who believe.
 
 ## 1 Corinthians 1:22
 
@@ -93,11 +93,11 @@ For indeed Jews ask for signs, and Greeks seek wisdom;
 
 ## 1 Corinthians 1:23
 
-But we declare Christ crucified, an obstacle to Jews and folly to Gentiles,
+but we declare Christ crucified, an obstacle to Jews and folly to Gentiles,
 
 ## 1 Corinthians 1:24
 
-But to those who are called, both Jews and Greeks, Christ is the power and wisdom of God.
+but to those who are called, both Jews and Greeks, Christ is the power and wisdom of God.
 
 ## 1 Corinthians 1:25
 
@@ -109,15 +109,15 @@ For consider your calling, brothers and sisters, that there were not many wise a
 
 ## 1 Corinthians 1:27
 
-But God has chosen the foolish things of the world to shame the wise, and God has chosen the weak things of the world to shame the things that are strong,
+but God has chosen the foolish things of the world to shame the wise, and God has chosen the weak things of the world to shame the things that are strong,
 
 ## 1 Corinthians 1:28
 
-And the insignificant things of the world and the despised God has chosen, the things that are not, so that He may nullify the things that are,
+and the insignificant things of the world and the despised God has chosen, the things that are not, so that He may nullify the things that are,
 
 ## 1 Corinthians 1:29
 
-So that no human may boast before God.
+so that no human may boast before God.
 
 ## 1 Corinthians 1:30
 
@@ -125,4 +125,4 @@ But it is due to Him that you are in Christ Jesus, who became to us wisdom from 
 
 ## 1 Corinthians 1:31
 
-Therefore, as scripture says: “Let he who boasts, boast in the Lord.”
+therefore, as scripture says: “Let him who boasts boast in the Lord.”

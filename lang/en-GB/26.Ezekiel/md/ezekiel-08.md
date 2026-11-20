@@ -4,7 +4,7 @@
 In the sixth year, on the fifth day of the sixth month, as I was sitting in my house with the elders of Judah before me, the hand of the Sovereign Lord came upon me there.
 
 ## Ezekiel 8:2
-I looked, and there was something resembling the appearance of a man. From his waist downwards, he appeared like fire, and from his waist upwards, he had the appearance of glowing, gleaming metal.
+I looked, and there was something resembling the appearance of a man. From His waist downwards, He appeared like fire, and from His waist upwards, He had the appearance of glowing, gleaming metal.
 
 ## Ezekiel 8:3
 He stretched out what looked like a hand and took me by the hair of my head. The Spirit lifted me up between earth and heaven and brought me in visions of God to Jerusalem, to the entrance of the north gate of the inner court, where the idol that provokes jealousy was situated.
@@ -13,19 +13,19 @@ He stretched out what looked like a hand and took me by the hair of my head. The
 And there was the glory of the God of Israel, like the vision I had seen in the plain.
 
 ## Ezekiel 8:5
-Then he said to me, “Son of man, look towards the north.” So I looked towards the north, and there, north of the altar gate, was this idol of jealousy at the entrance.
+Then He said to me, “Son of man, look towards the north.” So I looked towards the north, and there, north of the altar gate, was this idol of jealousy at the entrance.
 
 ## Ezekiel 8:6
-And he said to me, “Son of man, do you see what they are doing—the utterly detestable things the house of Israel are committing here, things that will drive me far from my sanctuary? But you will see even greater abominations.”
+And He said to me, “Son of man, do you see what they are doing—the utterly detestable things the house of Israel are committing here, things that will drive Me far from My sanctuary? But you will see even greater abominations.”
 
 ## Ezekiel 8:7
-Then he brought me to the entrance of the court, and I looked and saw a hole in the wall.
+Then He brought me to the entrance of the court, and I looked and saw a hole in the wall.
 
 ## Ezekiel 8:8
 He said to me, “Son of man, now dig through the wall.” So I dug through the wall and found an entrance.
 
 ## Ezekiel 8:9
-And he said to me, “Enter and observe the wicked and detestable acts they are committing here.”
+And He said to me, “Enter and observe the wicked and detestable acts they are committing here.”
 
 ## Ezekiel 8:10
 So I went in and looked, and I saw portrayed all over the walls all kinds of crawling things and unclean animals, and all the idols of the house of Israel.
@@ -37,10 +37,10 @@ In front of them stood seventy elders of the house of Israel, and Jaazaniah son 
 He said to me, “Son of man, have you seen what the elders of the house of Israel are doing in the darkness, each at the shrine of his own idol? They say, ‘The Lord does not see us; the Lord has forsaken the land.’”
 
 ## Ezekiel 8:13
-Again, he said, “You will see them doing even greater abominations.”
+Again, He said, “You will see them doing even greater abominations.”
 
 ## Ezekiel 8:14
-Then he brought me to the entrance of the north gate of the house of the Lord, and I saw women sitting there, mourning for Tammuz.
+Then He brought me to the entrance of the north gate of the house of the Lord, and I saw women sitting there, mourning for Tammuz.
 
 ## Ezekiel 8:15
 He said to me, “Do you see this, son of man? You will see even greater abominations than these.”
@@ -49,7 +49,7 @@ He said to me, “Do you see this, son of man? You will see even greater abomina
 He then led me into the inner court of the house of the Lord, and there at the entrance to the temple, between the portico and the altar, were about twenty-five men. With their backs turned to the temple of the Lord and their faces towards the east, they were bowing down to the sun in the east.
 
 ## Ezekiel 8:17
-He said to me, “Have you seen this, son of man? Is it a trivial matter for the house of Judah to commit the detestable things they are doing here? Must they also fill the land with violence and continually provoke me to anger? Look at them putting the branch to their nose!
+He said to me, “Have you seen this, son of man? Is it a trivial matter for the house of Judah to commit the detestable things they are doing here? Must they also fill the land with violence and continually provoke Me to anger? Look at them putting the branch to their nose!
 
 ## Ezekiel 8:18
-Therefore I will deal with them in wrath; I will not look on them with pity or spare them. Although they cry out in my ears with a loud voice, I will not listen to them.”
+Therefore I will deal with them in wrath; I will not look on them with pity or spare them. Although they cry out in My ears with a loud voice, I will not listen to them.”

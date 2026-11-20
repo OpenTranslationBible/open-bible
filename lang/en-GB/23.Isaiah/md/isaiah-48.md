@@ -1,10 +1,10 @@
 # Isaiah Chapter 48
 
 ## Isaiah 48:1
-“Hear this, descendants of Jacob, you who are called by the name of Israel and have come forth from the waters of Judah, who swear by the name of the Lord and invoke the God of Israel— but not in truth or righteousness—
+“Hear this, descendants of Jacob, you who are called by the name of Israel and have come forth from the waters of Judah, who swear by the name of the Lord and invoke the God of Israel—but not in truth or righteousness—
 
 ## Isaiah 48:2
-For you name yourselves after the holy city and rely on the God of Israel; the Lord of Armies is His name:
+for you name yourselves after the holy city and rely on the God of Israel; the Lord of hosts is His name:
 
 ## Isaiah 48:3
 I declared the former things long ago; they came out of My mouth, and I made them known. Suddenly I acted, and they came to pass.
@@ -13,7 +13,7 @@ I declared the former things long ago; they came out of My mouth, and I made the
 Because I knew how obstinate you are, your neck is an iron sinew and your forehead bronze,
 
 ## Isaiah 48:5
-Therefore I told you these things long ago; before they happened I announced them to you so that you could not say, ‘My idol did them; my carved image and my cast metal image ordained them.’
+therefore I told you these things long ago; before they happened I announced them to you so that you could not say, ‘My idol did them; my carved image and my cast metal image ordained them.’
 
 ## Isaiah 48:6
 You have heard these things; observe them all. Will you not declare it? From now on I will tell you of new things, hidden things unknown to you.
@@ -49,7 +49,7 @@ I, even I, have spoken; indeed I have called him. I have brought him, and he wil
 “Come near to Me and listen to this: From the beginning I have not spoken in secret; from the time it happens, I am there.” And now the Sovereign Lord has sent Me, endowed with His Spirit.
 
 ## Isaiah 48:17
-This is what the Lord says— your Redeemer, the Holy One of Israel: “I am the Lord your God, who teaches you to benefit, who directs you in the way you should go.
+This is what the Lord says—your Redeemer, the Holy One of Israel: “I am the Lord your God, who teaches you to benefit, who directs you in the way you should go.
 
 ## Isaiah 48:18
 If only you had paid attention to My commandments, your peace would have been like a river, and your righteousness like the waves of the sea.

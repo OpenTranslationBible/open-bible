@@ -58,7 +58,7 @@ If anyone eats a sacred offering unintentionally, they must make restitution to 
 
 ## Leviticus 22:15
 
-The priests must ensure that the sacred offerings presented by the Israelites to the Lord are treated with respect
+The priests must not profane the sacred offerings presented by the Israelites to the Lord
 
 ## Leviticus 22:16
 
@@ -70,7 +70,7 @@ The Lord addressed Moses,
 
 ## Leviticus 22:18
 
-“Speak to Aaron, his sons, and all the Israelites and say to them: ‘If any of you—whether an Israelite or a foreigner residing in Israel—presents a gift as a burnt offering to the Lord, to fulfill a vow or as a freewill offering,
+“Speak to Aaron, his sons, and all the Israelites and say to them: ‘If any of you—whether an Israelite or a foreigner residing in Israel—presents a gift as a burnt offering to the Lord, to fulfil a vow or as a freewill offering,
 
 ## Leviticus 22:19
 
@@ -82,7 +82,7 @@ Do not present anything with a defect, for it will not be accepted on your behal
 
 ## Leviticus 22:21
 
-When anyone brings a fellowship offering to the Lord to fulfill a special vow or as a freewill offering from the herd or flock, it must be without defect or blemish to be acceptable.
+When anyone brings a fellowship offering to the Lord to fulfil a special vow or as a freewill offering from the herd or flock, it must be without defect or blemish to be acceptable.
 
 ## Leviticus 22:22
 
@@ -90,7 +90,7 @@ Do not offer to the Lord anything that is blind, injured, or maimed, or with war
 
 ## Leviticus 22:23
 
-You may, however, present an ox or a sheep that is deformed or stunted as a freewill offering, but it will not be accepted in fulfillment of a vow.
+You may, however, present an ox or a sheep that is deformed or stunted as a freewill offering, but it will not be accepted in fulfilment of a vow.
 
 ## Leviticus 22:24
 

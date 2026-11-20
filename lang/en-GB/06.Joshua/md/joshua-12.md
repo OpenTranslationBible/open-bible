@@ -40,60 +40,60 @@ the ruler of Jericho, one; the ruler of Ai (near Bethel), one;
 
 ## Joshua 12:10
 
-Jerusalem's king one; Hebron's king one;
+Jerusalem’s king one; Hebron’s king one;
 
 ## Joshua 12:11
 
-Jarmuth's king one; Lachish's king one;
+Jarmuth’s king one; Lachish’s king one;
 
 ## Joshua 12:12
 
-Eglon's king one; Gezer's king one;
+Eglon’s king one; Gezer’s king one;
 
 ## Joshua 12:13
 
-Debir's king one; Geder's king one;
+Debir’s king one; Geder’s king one;
 
 ## Joshua 12:14
 
-Hormah's king one; Arad's king one;
+Hormah’s king one; Arad’s king one;
 
 ## Joshua 12:15
 
-Libnah's king one; Adullam's king one;
+Libnah’s king one; Adullam’s king one;
 
 ## Joshua 12:16
 
-Makkedah's king , one; Bethel's king one;
+Makkedah’s king, one; Bethel’s king one;
 
 ## Joshua 12:17
 
-Tappuah's king one; Hepher's king one;
+Tappuah’s king one; Hepher’s king one;
 
 ## Joshua 12:18
 
-Aphek's king one; Lasharon's king one;
+Aphek’s king one; Lasharon’s king one;
 
 ## Joshua 12:19
 
-Madon's king one; Hazor's king one;
+Madon’s king one; Hazor’s king one;
 
 ## Joshua 12:20
 
-Shimron-meron's king one; Achshaph's king one;
+Shimron-meron’s king one; Achshaph’s king one;
 
 ## Joshua 12:21
 
-Taanach's king one; Megiddo's king one;
+Taanach’s king one; Megiddo’s king one;
 
 ## Joshua 12:22
 
-Kedesh's king one; Jokneam in Carmel's king one;
+Kedesh’s king one; Jokneam in Carmel’s king one;
 
 ## Joshua 12:23
 
-Dor's king, situated on the heights of Dor, one; Goiim's king at Gilgal, one;
+Dor’s king, situated on the heights of Dor, one; Goiim’s king at Gilgal, one;
 
 ## Joshua 12:24
 
-Tirzah's king one; thirty-one kings in all .
+Tirzah’s king one; thirty-one kings in all.

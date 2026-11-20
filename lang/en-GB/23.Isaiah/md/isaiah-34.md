@@ -6,7 +6,7 @@ Draw near, you nations, and listen; pay heed, you peoples! Let the earth and all
 
 ## Isaiah 34:2
 
-For the Lord's indignation is upon all nations, and His fury upon all their armies. He has utterly destroyed them, He has delivered them to slaughter.
+For the Lord’s indignation is upon all nations, and His fury upon all their armies. He has utterly destroyed them, He has delivered them to slaughter.
 
 ## Isaiah 34:3
 

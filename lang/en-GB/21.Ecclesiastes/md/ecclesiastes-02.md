@@ -78,7 +78,7 @@ And who can tell if that person will be wise or foolish? Yet they will have auth
 
 ## Ecclesiastes 2:20
 
-So my heart was filled with despair over all my labourious work under the sun.
+So my heart was filled with despair over all my laborious work under the sun.
 
 ## Ecclesiastes 2:21
 

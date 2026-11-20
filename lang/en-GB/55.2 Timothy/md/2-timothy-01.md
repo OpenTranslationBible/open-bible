@@ -2,12 +2,12 @@
 
 ## 2 Timothy 1:1
 
-Paul, an apostle of Christ Jesus by God's will, in line with the promise of life found in Christ Jesus,
+Paul, an apostle of Christ Jesus by God’s will, in line with the promise of life found in Christ Jesus,
 
 ## 2 Timothy 1:2
 
 To Timothy, my dear child:  
-May you receive grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+ May you receive grace, mercy, and peace from God the Father and Christ Jesus our Lord.
 
 ## 2 Timothy 1:3
 

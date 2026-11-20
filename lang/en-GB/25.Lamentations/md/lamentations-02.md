@@ -2,39 +2,39 @@
 
 ## Lamentations 2:1
 
-How the Lord has enveloped Daughter Zion with a cloud in his anger! He has cast down the glory of Israel from heaven to earth, and has not remembered his footstool in the day of his wrath.
+How the Lord has enveloped Daughter Zion with a cloud in His anger! He has cast down the glory of Israel from heaven to earth, and has not remembered His footstool in the day of His wrath.
 
 ## Lamentations 2:2
 
-The Lord has laid waste without mercy all the dwellings of Jacob; in his fury he has demolished the strongholds of Daughter Judah. He has brought her kingdom and its leaders down to the ground in disgrace.
+The Lord has laid waste without mercy all the dwellings of Jacob; in His fury He has demolished the strongholds of Daughter Judah. He has brought her kingdom and its leaders down to the ground in disgrace.
 
 ## Lamentations 2:3
 
-In fierce anger he has severed all the strength of Israel. He has withdrawn his right hand at the approach of the enemy, and has blazed in Jacob like a consuming fire on every side.
+In fierce anger He has severed all the strength of Israel. He has withdrawn His right hand at the approach of the enemy, and has blazed in Jacob like a consuming fire on every side.
 
 ## Lamentations 2:4
 
-He has bent his bow like an enemy; his right hand is poised like an adversary. He has slain all that was delightful to the eye; in the tent of Daughter Zion he has poured out his wrath like fire.
+He has bent His bow like an enemy; His right hand is poised like an adversary. He has slain all that was delightful to the eye; in the tent of Daughter Zion He has poured out His wrath like fire.
 
 ## Lamentations 2:5
 
-The Lord has become like an enemy; he has devoured Israel. He has swallowed up all her palaces and destroyed her fortresses, and has multiplied mourning and lamentation for Daughter Judah.
+The Lord has become like an enemy; He has devoured Israel. He has swallowed up all her palaces and destroyed her fortresses, and has multiplied mourning and lamentation for Daughter Judah.
 
 ## Lamentations 2:6
 
-He has laid waste his tabernacle like a despised garden; he has destroyed his place of meeting. The Lord has made Zion forget her appointed festivals and Sabbaths, and in his fierce anger has spurned both king and priest.
+He has laid waste His tabernacle like a despised garden; He has destroyed His place of meeting. The Lord has made Zion forget her appointed festivals and Sabbaths, and in His fierce anger has spurned both king and priest.
 
 ## Lamentations 2:7
 
-The Lord has rejected his altar and abandoned his sanctuary. He has delivered the walls of her palaces into the hands of the enemy; they have raised a tumult in the house of the Lord as on the day of a festival.
+The Lord has rejected His altar and abandoned His sanctuary. He has delivered the walls of her palaces into the hands of the enemy; they have raised a tumult in the house of the Lord as on the day of a festival.
 
 ## Lamentations 2:8
 
-The Lord resolved to destroy the wall of Daughter Zion. He stretched out a measuring line and did not withhold his hand from bringing ruin. He made ramparts and walls lament; they wasted away together.
+The Lord resolved to destroy the wall of Daughter Zion. He stretched out a measuring line and did not withhold His hand from bringing ruin. He made ramparts and walls lament; they wasted away together.
 
 ## Lamentations 2:9
 
-Her gates have sunk into the ground; he has shattered and broken her bars. Her king and her princes are exiled among the nations; the law is no more, and her prophets receive no visions from the Lord.
+Her gates have sunk into the ground; He has shattered and broken her bars. Her king and her princes are exiled among the nations; the law is no more, and her prophets receive no visions from the Lord.
 
 ## Lamentations 2:10
 
@@ -68,7 +68,7 @@ All your enemies open their mouths wide against you; they hiss and gnash their t
 
 ## Lamentations 2:17
 
-The Lord has done what he planned; he has fulfilled his word which he decreed long ago. He has torn you down without mercy, he has allowed the enemy to exult over you, he has exalted the power of your foes.
+The Lord has done what He planned; He has fulfilled His word which He decreed long ago. He has torn you down without mercy, He has allowed the enemy to exult over you, He has exalted the power of your foes.
 
 ## Lamentations 2:18
 
@@ -76,16 +76,16 @@ The hearts of the people cry out to the Lord. O wall of Daughter Zion, let your 
 
 ## Lamentations 2:19
 
-Arise, cry out in the night, at the start of the night watches; pour out your heart like water in the presence of the Lord. Lift up your hands to him for the lives of your children, who faint from hunger at every street corner.
+Arise, cry out in the night, at the start of the night watches; pour out your heart like water in the presence of the Lord. Lift up your hands to Him for the lives of your children, who faint from hunger at every street corner.
 
 ## Lamentations 2:20
 
-Look, Lord, and consider: Whom have you ever treated like this? Should women eat their offspring, the children they have nurtured? Should priest and prophet be slain in the sanctuary of the Lord?
+Look, Lord, and consider: Whom have You ever treated like this? Should women eat their offspring, the children they have nurtured? Should priest and prophet be slain in the sanctuary of the Lord?
 
 ## Lamentations 2:21
 
-Young and old lie together in the dust of the streets; my young men and young women have fallen by the sword. You have slain them in the day of your anger; you have slaughtered them without mercy.
+Young and old lie together in the dust of the streets; my young men and young women have fallen by the sword. You have slain them in the day of Your anger; You have slaughtered them without mercy.
 
 ## Lamentations 2:22
 
-As if on a feast day, you summoned terrors against me on every side; in the day of the Lord’s anger no one escaped or survived; those I cared for and reared my enemy has destroyed.
+As if on a feast day, You summoned terrors against me on every side; in the day of the Lord’s anger no one escaped or survived; those I cared for and reared my enemy has destroyed.

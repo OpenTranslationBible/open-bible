@@ -2,11 +2,11 @@
 
 ## Judges 2:1
 
-The angel of the Lord ascended from Gilgal to Bochim and declared, “I brought you up from Egypt and led you into the land I promised to your forefathers. I assured you, ‘I will never break my covenant with you,
+The angel of the Lord ascended from Gilgal to Bochim and declared, “I brought you up from Egypt and led you into the land I promised to your forefathers. I assured you, ‘I will never break My covenant with you,
 
 ## Judges 2:2
 
-and you shall not make a covenant with the inhabitants of this land; you shall tear down their altars.’ But you have not obeyed me; what is this that you have done?
+and you shall not make a covenant with the inhabitants of this land; you shall tear down their altars.’ But you have not obeyed Me; what is this that you have done?
 
 ## Judges 2:3
 
@@ -42,7 +42,7 @@ They buried him in the territory of his inheritance, at Timnath Heres, in the hi
 
 ## Judges 2:10
 
-After that entire generation had been gathered to their ancestors, another generation arose who neither knew the Lord nor the works he had done for Israel.
+After that entire generation had been gathered to their ancestors, another generation arose who neither knew the Lord nor the works He had done for Israel.
 
 ## Judges 2:11
 
@@ -58,11 +58,11 @@ They forsook the Lord and served Baal and the Ashtaroth.
 
 ## Judges 2:14
 
-The Lord’s anger burned against Israel, and he handed them over to raiders who plundered them. He sold them into the hands of their enemies all around, and they could no longer withstand their foes.
+The Lord’s anger burned against Israel, and He handed them over to raiders who plundered them. He sold them into the hands of their enemies all around, and they could no longer withstand their foes.
 
 ## Judges 2:15
 
-Wherever they went, the hand of the Lord was against them to bring calamity, as he had sworn to them. They were in great distress.
+Wherever they went, the hand of the Lord was against them to bring calamity, as He had sworn to them. They were in great distress.
 
 ## Judges 2:16
 
@@ -70,11 +70,11 @@ Then the Lord appointed judges who rescued them from those who plundered them.
 
 ## Judges 2:17
 
-Yet they did not listen to their judges, but prostituted themselves to other gods and worshipped them. They quickly turned aside from the way their ancestors had walked, who had obeyed the Lord’s commands.
+Yet they did not listen to their judges, but prostituted themselves to other gods and worshipped them. They quickly turned aside from the way their ancestors had walked, who had obeyed the Lord’s commands; they did not do as their ancestors had done.
 
 ## Judges 2:18
 
-Whenever the Lord raised up a judge for them, he was with the judge and saved them from the hands of their enemies during the judge’s lifetime; for the Lord was moved by their groaning under those who oppressed and afflicted them.
+Whenever the Lord raised up a judge for them, He was with the judge and saved them from the hands of their enemies during the judge’s lifetime; for the Lord was moved by their groaning under those who oppressed and afflicted them.
 
 ## Judges 2:19
 
@@ -82,7 +82,7 @@ But when the judge died, the people returned to ways even more corrupt than thos
 
 ## Judges 2:20
 
-Therefore, the Lord’s anger burned against Israel, and he said, “Because this nation has violated the covenant I ordained for their ancestors and has not listened to my voice,
+Therefore, the Lord’s anger burned against Israel, and He said, “Because this nation has violated the covenant I ordained for their ancestors and has not listened to My voice,
 
 ## Judges 2:21
 
@@ -96,4 +96,4 @@ I will use these nations to examine Israel and see whether they will keep the wa
 
 ## Judges 2:23
 
-Thus, the Lord allowed those nations to remain, not removing them swiftly; and he did not hand them over to Joshua.
+Thus, the Lord allowed those nations to remain, not removing them swiftly; and He did not hand them over to Joshua.

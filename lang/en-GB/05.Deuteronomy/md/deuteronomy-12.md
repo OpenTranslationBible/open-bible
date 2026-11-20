@@ -13,7 +13,7 @@ Tear down their altars, smash their sacred stones, burn their Asherah poles in t
 You must not worship the Lord your God in their manner.
 
 ## Deuteronomy 12:5
-Instead, seek the place the Lord your God will choose from all your tribes to establish his Name for his dwelling, and there you must go.
+Instead, seek the place the Lord your God will choose from all your tribes to establish His Name for His dwelling, and there you must go.
 
 ## Deuteronomy 12:6
 Bring there your burnt offerings, sacrifices, tithes, special gifts, vowed offerings, freewill offerings, and the firstborn of your herds and flocks.
@@ -28,10 +28,10 @@ You shall not do as we do here today, everyone doing what is right in their own 
 For you have not yet reached the resting place and the inheritance the Lord your God is giving you.
 
 ## Deuteronomy 12:10
-But when you cross the Jordan and settle in the land the Lord your God is giving you as an inheritance, and he gives you rest from all your enemies around you so that you live in safety,
+But when you cross the Jordan and settle in the land the Lord your God is giving you as an inheritance, and He gives you rest from all your enemies around you so that you live in safety,
 
 ## Deuteronomy 12:11
-then to the place the Lord your God will choose for his Name to dwell, there you shall bring everything I command you: your burnt offerings, sacrifices, tithes, special gifts, and all your choice vowed offerings to the Lord.
+then to the place the Lord your God will choose for His Name to dwell, there you shall bring everything I command you: your burnt offerings, sacrifices, tithes, special gifts, and all your choice vowed offerings to the Lord.
 
 ## Deuteronomy 12:12
 And you shall rejoice before the Lord your God—you, your sons and daughters, your male and female servants, and the Levites from your towns, for they have no allotment or inheritance with you.
@@ -58,10 +58,10 @@ Instead, you are to eat them in the presence of the Lord your God at the place t
 Be mindful to support the Levites as long as you live in your land.
 
 ## Deuteronomy 12:20
-When the Lord your God enlarges your territory as he has promised, and you crave meat and say, “I would like some meat,” then you may eat as much of it as you desire.
+When the Lord your God enlarges your territory as He has promised, and you crave meat and say, “I would like some meat,” then you may eat as much of it as you desire.
 
 ## Deuteronomy 12:21
-If the place where the Lord your God chooses to put his Name is too far from you, you may slaughter animals from your herds and flocks the Lord has given you, as I have commanded you, and you may eat in your own towns as much as you desire.
+If the place where the Lord your God chooses to put His Name is too far from you, you may slaughter animals from your herds and flocks the Lord has given you, as I have commanded you, and you may eat in your own towns as much as you desire.
 
 ## Deuteronomy 12:22
 Consume them as you would gazelle or deer. Both the ceremonially unclean and the clean may partake.

@@ -18,7 +18,7 @@ Its tail swept away a third of the stars of heaven and cast them to the earth. T
 
 ## Revelation 12:5
 
-She gave birth to a son, a male child, who is to rule all the nations with a rod of iron. Her child was caught up to God and to his throne.
+She gave birth to a son, a male child, who is to rule all the nations with a rod of iron. Her child was caught up to God and to His throne.
 
 ## Revelation 12:6
 
@@ -40,26 +40,22 @@ The great dragon was hurled down, that ancient serpent called the devil, or Sata
 
 Then I heard a loud voice in heaven say:
 
-> “Now have come the salvation and the power
-> and the kingdom of our God,
-> and the authority of his Christ,
-> for the accuser of our brothers and sisters,
-> who accuses them before our God day and night,
-> has been cast down.
+>  “Now have come the salvation and the power and the kingdom of our God,
+>  and the authority of His Christ,
+>  for the accuser of our brothers and sisters,
+>  who accuses them before our God day and night,
+>  has been cast down.
 
 ## Revelation 12:11
 
-> They overcame him
-> by the blood of the Lamb
-> and by the word of their testimony;
-> they did not love their lives
-> even unto death.
+> They overcame him by the blood of the Lamb and by the word of their testimony;
+>  they did not love their lives even unto death.
 
 ## Revelation 12:12
 
 > Therefore rejoice, you heavens and you who dwell in them!
-> But woe to the earth and the sea, because the devil has come down to you with great wrath,
-> knowing that he has only a short time.”
+>  But woe to the earth and the sea, because the devil has come down to you with great wrath,
+>  knowing that he has only a short time.”
 
 ## Revelation 12:13
 
@@ -67,7 +63,7 @@ When the dragon saw that he had been cast down to the earth, he pursued the woma
 
 ## Revelation 12:14
 
-The woman was given the two wings of a great eagle, so that she might fly to the place prepared for her in the wilderness, where she would be nourished for a time, times, and half a time, away from the serpent's presence.
+The woman was given the two wings of a great eagle, so that she might fly to the place prepared for her in the wilderness, where she would be nourished for a time, times, and half a time, away from the serpent’s presence.
 
 ## Revelation 12:15
 

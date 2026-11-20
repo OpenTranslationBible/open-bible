@@ -20,14 +20,14 @@ Marriage should be honoured by everyone, and the marriage bed kept pure, for God
 
 Ensure that your character is free from the love of money, being content with what you have; for He has said,
 
-> “I will never leave you, nor will I ever forsake you.”
+>  “I will never leave you, nor will I ever forsake you.”
 
 ## Hebrews 13:6
 
 Thus we can say with confidence,
 
-> “The Lord is my helper; I will not fear.
-> What can mere humans do to me?”
+>  “The Lord is my helper; I will not fear.
+>  What can mere humans do to me?”
 
 ## Hebrews 13:7
 
@@ -35,7 +35,7 @@ Remember your leaders who spoke the word of God to you. Reflect on the outcome o
 
 ## Hebrews 13:8
 
-Jesus Christ is always the same; yesterday, today and for all time.
+Jesus Christ is always the same, yesterday, today and for all time.
 
 ## Hebrews 13:9
 
@@ -43,7 +43,7 @@ Do not be led astray by diverse and strange teachings; it is beneficial for the 
 
 ## Hebrews 13:10
 
-We have a sacred place from which those who serve the tabernacle are not permitted to partake.
+We have an altar from which those who serve the tabernacle are not permitted to partake.
 
 ## Hebrews 13:11
 
@@ -71,7 +71,7 @@ Remember to do good and to share with others, for such sacrifices are pleasing t
 
 ## Hebrews 13:17
 
-Have confidence in your leaders and submit to their authority, for they keep watch over your souls as those who must give an account. Let them do this with joy and not with groaning, for that would be of no advantage to you.
+Obey your leaders and submit to their authority, for they keep watch over your souls as those who must give an account. Let them do this with joy and not with groaning, for that would be of no advantage to you.
 
 ## Hebrews 13:18
 

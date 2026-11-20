@@ -49,7 +49,7 @@ So I took the leading men of your tribes, wise and respected, and appointed them
 “Then I charged your judges at that time, saying, ‘Hear the cases between your people and judge fairly, whether the case is between two Israelites or between an Israelite and a foreigner residing among you.
 
 ## Deuteronomy 1:17
-Do not show partiality in judgment; hear both small and great alike. Do not be afraid of anyone, for the judgment is God's. Bring any case too difficult for you to me, and I will hear it.’
+Do not show partiality in judgment; hear both small and great alike. Do not be afraid of anyone, for the judgment is God’s. Bring any case too difficult for you to me, and I will hear it.’
 
 ## Deuteronomy 1:18
 At that time I commanded you all the things you were to do.
@@ -70,7 +70,7 @@ See, the Lord your God has placed the land before you; go up and take possession
 The plan seemed good to me, so I selected twelve of you, one man for each tribe.
 
 ## Deuteronomy 1:24
-They set out and went up into the hill country, and came to the Valley of Eshkol and explored it.
+They set out and went up into the hill country, and came to the Valley of Eshcol and explored it.
 
 ## Deuteronomy 1:25
 Taking with them some of the fruit of the land, they brought it down to us and reported, ‘The land that the Lord our God is giving us is good.’
@@ -136,4 +136,4 @@ The Amorites who lived in those hills came out against you; they chased you like
 You returned and wept before the Lord, but He paid no attention to your weeping and turned a deaf ear to you.
 
 ## Deuteronomy 1:46
-So you stayed in Kadesh many days—all the time you spent there.
+So you stayed in Kadesh many days—all the time you spent there.”

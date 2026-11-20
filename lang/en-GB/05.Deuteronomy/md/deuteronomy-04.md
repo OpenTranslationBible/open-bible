@@ -38,7 +38,7 @@ Only be careful, and watch over yourselves diligently, so that you do not forget
 
 ## Deuteronomy 4:10
 
-Remember the day you stood before the Lord your God at Horeb, when He said to me, “Assemble the people before me to hear my words so that they may learn to revere me all the days they live on the earth and may teach them to their children.”
+Remember the day you stood before the Lord your God at Horeb, when He said to me, “Assemble the people before Me to hear My words so that they may learn to revere Me all the days they live on the earth and may teach them to their children.”
 
 ## Deuteronomy 4:11
 
@@ -50,7 +50,7 @@ Then the Lord spoke to you from the midst of the fire; you heard the sound of wo
 
 ## Deuteronomy 4:13
 
-He declared to you his covenant, the Ten Commandments, which He commanded you to follow and wrote them on two stone tablets.
+He declared to you His covenant, the Ten Commandments, which He commanded you to follow and wrote them on two stone tablets.
 
 ## Deuteronomy 4:14
 
@@ -58,11 +58,11 @@ And the Lord commanded me at that time to teach you statutes and decrees, that y
 
 ## Deuteronomy 4:15
 
-Be very careful, since you saw no form on the day the Lord spoke to you at Horeb out of the fire.
+Be very careful, since you saw no form on the day the Lord spoke to you at Horeb out of the fire,
 
 ## Deuteronomy 4:16
 
-So that you do not become corrupt and make for yourselves an idol, an image of any shape, whether in the form of a man or a woman,
+so that you do not become corrupt and make for yourselves an idol, an image of any shape, whether in the form of a man or a woman,
 
 ## Deuteronomy 4:17
 
@@ -86,7 +86,7 @@ The Lord was angry with me because of you, and He swore that I would not cross t
 
 ## Deuteronomy 4:22
 
-I will remain in this land; I will not cross the Jordan; but you are about to cross over and take possession of that good land.
+I must die in this land; I will not cross the Jordan; but you are about to cross over and take possession of that good land.
 
 ## Deuteronomy 4:23
 
@@ -134,7 +134,7 @@ Has any other people heard the voice of God speaking out of fire, as you have, a
 
 ## Deuteronomy 4:34
 
-Has any god ever attempted to take for Himself one nation out of another nation, by trials, by signs and wonders, by war, by a mighty hand and an outstretched arm, or by great and awesome deeds, like all the things the Lord your God did for you in Egypt before your very eyes?
+Has any god ever attempted to take for himself one nation out of another nation, by trials, by signs and wonders, by war, by a mighty hand and an outstretched arm, or by great and awesome deeds, like all the things the Lord your God did for you in Egypt before your very eyes?
 
 ## Deuteronomy 4:35
 

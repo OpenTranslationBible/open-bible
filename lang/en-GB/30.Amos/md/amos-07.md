@@ -35,8 +35,8 @@ And the Lord asked me, “What do you see, Amos?” I replied, “A plumb line.�
 ## Amos 7:9
 
 > The high places of Isaac will be laid waste,
-> and the sanctuaries of Israel will be ruined;
-> I will rise against the house of Jeroboam with the sword.”
+>  and the sanctuaries of Israel will be ruined;
+>  I will rise against the house of Jeroboam with the sword.”
 
 ## Amos 7:10
 
@@ -46,8 +46,8 @@ Then Amaziah, the priest of Bethel, sent a message to Jeroboam king of Israel, s
 
 For this is what Amos says:
 
-> ‘Jeroboam will die by the sword,
-> and Israel will surely go into exile, away from their land.’”
+>  ‘Jeroboam will die by the sword,
+>  and Israel will surely go into exile, away from their land.’”
 
 ## Amos 7:12
 
@@ -69,15 +69,15 @@ However, the Lord called me away from tending the flock and instructed me, ‘Go
 
 Now then, hear the word of the Lord.
 
-> You say, ‘Do not prophesy against Israel,
-> and do not preach against the house of Isaac.’
+>  You say, ‘Do not prophesy against Israel,
+>  and do not preach against the house of Isaac.’
 
 ## Amos 7:17
 
 Therefore this is what the Lord says:
 
-> ‘Your wife will become a prostitute in the city,
-> your sons and daughters will fall by the sword,
-> your land will be divided up with a measuring line,
-> and you yourself will die on unclean soil.
-> And Israel will surely go into exile, away from its land.’”
+>  ‘Your wife will become a prostitute in the city,
+>  your sons and daughters will fall by the sword,
+>  your land will be divided up with a measuring line,
+>  and you yourself will die on unclean soil.
+>  And Israel will surely go into exile, away from its land.’”

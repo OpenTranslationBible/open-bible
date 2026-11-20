@@ -6,19 +6,19 @@ My son, if you accept my words and treasure my commandments within you,
 
 ## Proverbs 2:2
 
-So listen closely to wisdom and open your heart to understanding—
+so listen closely to wisdom and open your heart to understanding—
 
 ## Proverbs 2:3
 
-Indeed, if you cry out for insight and raise your voice for understanding,
+indeed, if you cry out for insight and raise your voice for understanding,
 
 ## Proverbs 2:4
 
-If you seek it as silver and search for it as for hidden treasure,
+if you seek it as silver and search for it as for hidden treasure,
 
 ## Proverbs 2:5
 
-Then you will grasp what it means to revere the Lord and find the knowledge of God.
+then you will grasp what it means to revere the Lord and find the knowledge of God.
 
 ## Proverbs 2:6
 
@@ -30,7 +30,7 @@ He stores up sound wisdom for the upright; He is a shield to those whose walk is
 
 ## Proverbs 2:8
 
-Guarding the paths of justice and watching over the way of His faithful ones.
+guarding the paths of justice and watching over the way of His faithful ones.
 
 ---
 
@@ -54,15 +54,15 @@ To save you from the ways of wicked men, from those who speak perverse things,
 
 ## Proverbs 2:13
 
-From those who have left the paths of uprightness to walk in dark ways,
+from those who have left the paths of uprightness to walk in dark ways,
 
 ## Proverbs 2:14
 
-Who delight in doing wrong and rejoice in the perversity of evil,
+who delight in doing wrong and rejoice in the perversity of evil,
 
 ## Proverbs 2:15
 
-Whose ways are twisted and who are deceitful in their actions.
+whose ways are twisted and who are deceitful in their actions.
 
 ---
 
@@ -72,7 +72,7 @@ To save you from the adulterous woman, from the foreign woman who flatters with 
 
 ## Proverbs 2:17
 
-Who leaves the partner of her youth and forgets the covenant of her God.
+who leaves the partner of her youth and forgets the covenant of her God.
 
 ## Proverbs 2:18
 
@@ -94,4 +94,4 @@ For those who are upright will inhabit the land, and those who are blameless wil
 
 ## Proverbs 2:22
 
-But the wicked will be removed from the land, and the treacherous will be uprooted from it.
+but the wicked will be removed from the land, and the treacherous will be uprooted from it.

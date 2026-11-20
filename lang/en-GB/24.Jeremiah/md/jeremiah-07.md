@@ -10,7 +10,7 @@ The message that was given to Jeremiah from the Lord:
 
 ## Jeremiah 7:3
 
-This is what the Lord of Hosts, the God of Israel, says: Amend your ways and your deeds, and I will let you dwell in this place.
+This is what the Lord of hosts, the God of Israel, says: Amend your ways and your deeds, and I will let you dwell in this place.
 
 ## Jeremiah 7:4
 
@@ -82,7 +82,7 @@ Therefore this is what the Sovereign Lord says: “Behold, My anger and My wrath
 
 ## Jeremiah 7:21
 
-This is what the Lord of Hosts, the God of Israel, says: “Add your burnt offerings to your sacrifices and eat the meat yourselves!
+This is what the Lord of hosts, the God of Israel, says: “Add your burnt offerings to your sacrifices and eat the meat yourselves!
 
 ## Jeremiah 7:22
 
@@ -114,7 +114,7 @@ Therefore say to them, ‘This is the nation that has not obeyed the voice of th
 
 ## Jeremiah 7:29
 
-Cut off your hair and throw it away; take up a lamentation on the barren heights, for the Lord has rejected and forsaken the generation of His wrath.
+Cut off your hair and throw it away; take up a lamentation on the barren heights, for the Lord has rejected and forsaken the generation of His wrath.’
 
 ## Jeremiah 7:30
 
@@ -134,4 +134,4 @@ The carcasses of this people will become food for the birds of the sky and the a
 
 ## Jeremiah 7:34
 
-I will bring an end to the sounds of joy and gladness, the voices of bride and bridegroom, in the cities of Judah and the streets of Jerusalem, for the land will become desolate.
+I will bring an end to the sounds of joy and gladness, the voices of bride and bridegroom, in the cities of Judah and the streets of Jerusalem, for the land will become desolate.”

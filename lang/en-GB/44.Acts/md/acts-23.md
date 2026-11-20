@@ -46,7 +46,7 @@ The dissension became so intense that the commander feared Paul might be torn ap
 
 ## Acts 23:11
 
-That night, the Lord appeared to Paul and said, “Be encouraged! Just as you have testified about me in Jerusalem, you must also testify in Rome.”
+That night, the Lord appeared to Paul and said, “Be encouraged! Just as you have testified about Me in Jerusalem, you must also testify in Rome.”
 
 ---
 

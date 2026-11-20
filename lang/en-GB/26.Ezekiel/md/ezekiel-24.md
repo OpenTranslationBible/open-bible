@@ -12,81 +12,77 @@ In the ninth year, in the tenth month, on the tenth day, a message from the Lord
 
 Speak a parable to this rebellious house and say to them: ‘This is what the Sovereign Lord says:
 
-> “Set the pot on the fire, put it on,
-> and pour water into it.
+>  “Set the pot on the fire, put it on,
+>  and pour water into it.
 
 ## Ezekiel 24:4
 
 > Place into it the pieces of meat,
-> every good piece—
-> the thigh and the shoulder.
-> Fill it with the best bones;
+>  every good piece—the thigh and the shoulder.
+>  Fill it with the best bones;
 
 ## Ezekiel 24:5
 
 > select the choicest of the flock.
-> Pile wood beneath it;
-> make it boil well,
-> and let the bones be cooked in it.
+>  Pile wood beneath it;
+>  make it boil well,
+>  and let the bones be cooked in it.
 
 ## Ezekiel 24:6
 
 ‘For thus says the Sovereign Lord:
 
-> “Woe to the city of bloodshed,
-> to the pot now encrusted,
-> whose filth will not depart!
-> Remove the meat piece by piece,
-> without selecting it.
+>  “Woe to the city of bloodshed,
+>  to the pot now encrusted,
+>  whose filth will not depart!
+>  Remove the meat piece by piece,
+>  without selecting it.
 
 ## Ezekiel 24:7
 
 > For the blood she spilled remains within her;
-> she spilled it upon the bare rock;
-> and did not pour it on the ground
-> nor cover it with dust.
+>  she spilled it upon the bare rock;
+>  and did not pour it on the ground nor cover it with dust.
 
 ## Ezekiel 24:8
 
-> To arouse my wrath and take vengeance,
-> I have placed her blood on the bare rock,
-> so it will not be covered.
+> To arouse My wrath and take vengeance,
+>  I have placed her blood on the bare rock,
+>  so it will not be covered.
 
 ## Ezekiel 24:9
 
 > Therefore, this is what the Sovereign Lord says:
 
-> “Woe to the city of bloodshed!
-> I will make the wood pile great.
+>  “Woe to the city of bloodshed!
+>  I will make the wood pile great.
 
 ## Ezekiel 24:10
 
 > Heap on the wood,
-> kindle the fire,
-> cook the meat thoroughly,
-> mix in the spices,
-> and let the bones be charred.
+>  kindle the fire,
+>  cook the meat thoroughly,
+>  mix in the spices,
+>  and let the bones be charred.
 
 ## Ezekiel 24:11
 
-> Then set the empty pot on the coals
-> so it becomes hot and its copper glows,
-> that its impurities may melt
-> and its filth be consumed.
+> Then set the empty pot on the coals so it becomes hot and its copper glows,
+>  that its impurities may melt and its filth be consumed.
 
 ## Ezekiel 24:12
 
-> It has wearied me with its efforts;
-> its heavy filth has not been removed,
-> not even by fire.
+> It has wearied Me with its efforts;
+>  its heavy filth has not been removed,
+>  not even by fire.
 
 ## Ezekiel 24:13
 
-Your impurity is lewdness. Because I sought to cleanse you, but you would not be cleansed from your impurity, you will not be clean again until my fury against you is spent.
+Your impurity is lewdness. Because I sought to cleanse you, but you would not be cleansed from your impurity, you will not be clean again until My fury against you is spent.
 
 ## Ezekiel 24:14
 
-I, the Lord, have spoken. The time has come for me to act. I will not hold back; I will not have pity, nor will I relent. You will be judged according to your ways and your deeds, declares the Sovereign Lord.’”
+I, the Lord, have spoken. The time has come for Me to act. I will not hold back; I will not have pity, nor will I relent. You will be judged according to your ways and your deeds, declares the Sovereign Lord.’”
 
 ## Ezekiel 24:15
 
@@ -114,7 +110,7 @@ So I explained to them, “A message from the Lord reached me:
 
 ## Ezekiel 24:21
 
-Say to the house of Israel, ‘This is what the Sovereign Lord says: I am about to desecrate my sanctuary—the pride of your power, the delight of your eyes, the longing of your soul. The sons and daughters you left behind will fall by the sword.
+Say to the house of Israel, ‘This is what the Sovereign Lord says: I am about to desecrate My sanctuary—the pride of your power, the delight of your eyes, the longing of your soul. The sons and daughters you left behind will fall by the sword.
 
 ## Ezekiel 24:22
 

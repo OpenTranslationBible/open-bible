@@ -22,7 +22,7 @@ There was a man there who had been unable to walk for thirty-eight years.
 
 ## John 5:6
 
-When Jesus saw him lying there and knew he had been in that condition for a long time, he asked him, “Do you want to get well?”
+When Jesus saw him lying there and knew he had been in that condition for a long time, He asked him, “Do you want to get well?”
 
 ## John 5:7
 
@@ -66,7 +66,7 @@ The man went away and informed the Jewish leaders that it was Jesus who had made
 
 ## John 5:16
 
-For this reason, the Jewish leaders began to persecute Jesus, because he was doing these things on the Sabbath.
+For this reason, the Jewish leaders began to persecute Jesus, because He was doing these things on the Sabbath.
 
 ## John 5:17
 
@@ -74,21 +74,21 @@ But Jesus answered them, “My Father is working until now, and I am working too
 
 ## John 5:18
 
-For this reason, they sought all the more to kill him, because he was not only breaking the Sabbath but also calling God his own Father, making himself equal with God.
+For this reason, they sought all the more to kill Him, because He was not only breaking the Sabbath but also calling God His own Father, making Himself equal with God.
 
 ---
 
 ## John 5:19
 
-Therefore, Jesus responded, “Truly, truly, I say to you, the Son can do nothing by himself; he can only do what he sees the Father doing, for whatever the Father does, the Son does likewise.
+Therefore, Jesus responded, “Truly, truly, I say to you, the Son can do nothing by Himself; He can only do what He sees the Father doing, for whatever the Father does, the Son does likewise.
 
 ## John 5:20
 
-For the Father loves the Son and shows him all he does. He will show him even greater works than these, so that you will be amazed.
+For the Father loves the Son and shows Him all He does. He will show Him even greater works than these, so that you will be amazed.
 
 ## John 5:21
 
-For just as the Father raises the dead and gives them life, so the Son gives life to whom he wishes.
+For just as the Father raises the dead and gives them life, so the Son gives life to whom He wishes.
 
 ## John 5:22
 
@@ -96,13 +96,13 @@ Moreover, the Father judges no one, but has entrusted all judgement to the Son,
 
 ## John 5:23
 
-so that all may honour the Son just as they honour the Father. Whoever does not honour the Son does not honour the Father who sent him.
+so that all may honour the Son just as they honour the Father. Whoever does not honour the Son does not honour the Father who sent Him.
 
 ---
 
 ## John 5:24
 
-“Truly, truly, I say to you, whoever hears my word and believes him who sent me has eternal life and will not be judged but has crossed over from death to life.
+“Truly, truly, I say to you, whoever hears My word and believes Him who sent Me has eternal life and will not be judged but has crossed over from death to life.
 
 ## John 5:25
 
@@ -110,15 +110,15 @@ Truly, truly, I say to you, a time is coming and has now come when the dead will
 
 ## John 5:26
 
-For just as the Father has life in himself, so he has also granted the Son to have life in himself.
+For just as the Father has life in Himself, so He has also granted the Son to have life in Himself.
 
 ## John 5:27
 
-And he has given him the authority to carry out judgement, because he is the Son of Man.
+And He has given Him the authority to carry out judgement, because He is the Son of Man.
 
 ## John 5:28
 
-Do not be surprised at this, for a time is coming when all who are in their graves will hear his voice
+Do not be surprised at this, for a time is coming when all who are in their graves will hear His voice
 
 ## John 5:29
 
@@ -128,15 +128,15 @@ and will come out—those who have done what is good will rise to live, and thos
 
 ## John 5:30
 
-By myself I can do nothing; I judge only as I hear, and my judgement is just, for I seek not to please myself but him who sent me.
+By Myself I can do nothing; I judge only as I hear, and My judgement is just, for I seek not to please Myself but Him who sent Me.
 
 ## John 5:31
 
-“If I testify about myself, my testimony is not considered valid.
+“If I testify about Myself, My testimony is not considered valid.
 
 ## John 5:32
 
-There is another who testifies in my favour, and I am confident that his testimony about me is true.
+There is another who testifies in My favour, and I am confident that His testimony about Me is true.
 
 ---
 
@@ -154,25 +154,25 @@ John was a lamp that burned and gave light, and you chose for a time to enjoy hi
 
 ## John 5:36
 
-But I have a testimony greater than that of John. For the works that the Father has given me to complete—the very works I am doing—testify that the Father has sent me.
+But I have a testimony greater than that of John. For the works that the Father has given Me to complete—the very works I am doing—testify that the Father has sent Me.
 
 ---
 
 ## John 5:37
 
-And the Father who sent me has himself testified concerning me. You have neither heard his voice nor seen his form,
+And the Father who sent Me has Himself testified concerning Me. You have neither heard His voice nor seen His form,
 
 ## John 5:38
 
-nor does his word remain in you, as you do not believe the one he sent.
+nor does His word remain in you, as you do not believe the one He sent.
 
 ## John 5:39
 
-You diligently study the Scriptures because you think that in them you have eternal life. These are the very Scriptures that testify about me,
+You diligently study the Scriptures because you think that in them you have eternal life. These are the very Scriptures that testify about Me,
 
 ## John 5:40
 
-yet you are unwilling to come to me to receive life.
+yet you are unwilling to come to Me to receive life.
 
 ---
 
@@ -186,7 +186,7 @@ but I know you. I understand that you do not have the love of God within you.
 
 ## John 5:43
 
-I have come in my Father’s name, and you do not accept me. Yet if another comes in his own name, you will accept him.
+I have come in My Father’s name, and you do not accept Me. Yet if another comes in his own name, you will accept him.
 
 ## John 5:44
 
@@ -198,8 +198,8 @@ Do not think I will accuse you before the Father. Your accuser is Moses, on whom
 
 ## John 5:46
 
-If you had faith in Moses, you would have faith in me, for he wrote about me.
+If you had faith in Moses, you would have faith in Me, for he wrote about Me.
 
 ## John 5:47
 
-But if you do not believe what he wrote, how will you trust in what I say?
+But if you do not believe what he wrote, how will you trust in what I say?”

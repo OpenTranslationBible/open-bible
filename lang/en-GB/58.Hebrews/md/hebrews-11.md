@@ -94,11 +94,11 @@ By faith Moses, when he was born, was hidden for three months by his parents, be
 
 ## Hebrews 11:24
 
-Through faith, when Moses had grown up, he refused to be called the son of Pharaoh’s daughter.
+Through faith, when Moses had grown up, he refused to be called the son of Pharaoh’s daughter,
 
 ## Hebrews 11:25
 
-Choosing instead to endure mistreatment with the people of God rather than enjoy the fleeting pleasures of sin.
+choosing instead to endure mistreatment with the people of God rather than enjoy the fleeting pleasures of sin.
 
 ## Hebrews 11:26
 

@@ -1,10 +1,10 @@
 # Ezekiel Chapter 19
 
 ## Ezekiel 19:1
-"Raise a lamentation for the rulers of Israel
+“Raise a lamentation for the rulers of Israel
 
 ## Ezekiel 19:2
-and say: 'How like a lioness was your mother among the lions! She lay down among the young lions and reared her cubs.
+and say: ‘How like a lioness was your mother among the lions! She lay down among the young lions and reared her cubs.
 
 ## Ezekiel 19:3
 She brought up one of her cubs, and he became a young lion. He learned to tear prey and devoured people.
@@ -31,7 +31,7 @@ They put him in a cage with hooks and brought him to the king of Babylon, so his
 Your mother was like a vine in your vineyard, planted by the waters; it was fruitful and full of branches due to abundant waters.
 
 ## Ezekiel 19:11
-Its branches were strong, fit for a ruler's sceptre. It towered high above the thick foliage, noticeable for its height and its many branches.
+Its branches were strong, fit for a ruler’s sceptre. It towered high above the thick foliage, noticeable for its height and its many branches.
 
 ## Ezekiel 19:12
 But it was uprooted in fury and thrown to the ground. The east wind dried up its fruit; its strong branches were broken and withered, and fire consumed them.
@@ -40,4 +40,4 @@ But it was uprooted in fury and thrown to the ground. The east wind dried up its
 It is now situated in the wilderness, in a parched and thirsty land.
 
 ## Ezekiel 19:14
-Fire has emerged from its main branch and consumed its shoots and fruit. No strong branch is left in it, fit for a ruler's sceptre.' This is a lamentation and is to be used as a lamentation.
+Fire has emerged from its main branch and consumed its shoots and fruit. No strong branch is left in it, fit for a ruler’s sceptre.’ This is a lamentation and is to be used as a lamentation.”

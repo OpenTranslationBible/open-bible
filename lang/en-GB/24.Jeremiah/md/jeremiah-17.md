@@ -14,7 +14,7 @@ My mountain in the countryside, your wealth and all your treasures I shall surre
 
 ## Jeremiah 17:4
 
-Through your own actions, you shall relinquish the inheritance I bestowed upon you; I will cause you to serve your adversaries in a land unknown to you, for you have ignited a fire of anger within me which will burn perpetually.
+Through your own actions, you shall relinquish the inheritance I bestowed upon you; I will cause you to serve your adversaries in a land unknown to you, for you have ignited a fire of anger within Me which will burn perpetually.
 
 ---
 
@@ -52,11 +52,11 @@ A glorious throne, established from the beginning, is where our sanctuary reside
 
 ## Jeremiah 17:13
 
-Lord, you are the hope of Israel; all who forsake you will be put to shame. Those who turn away on earth will be inscribed in the dust, for they have abandoned the Lord, the fountain of living water.
+Lord, You are the hope of Israel; all who forsake You will be put to shame. Those who turn away on earth will be inscribed in the dust, for they have abandoned the Lord, the fountain of living water.
 
 ## Jeremiah 17:14
 
-Heal me, Lord, and I shall be healed; save me and I shall be saved, for you are my praise.
+Heal me, Lord, and I shall be healed; save me and I shall be saved, for You are my praise.
 
 ## Jeremiah 17:15
 
@@ -64,11 +64,11 @@ They persist in saying to me, “Where is the word of the Lord? Let it come now!
 
 ## Jeremiah 17:16
 
-I have not hastened away from being your shepherd; you know I have not desired the day of disaster. What I have spoken has been before you.
+I have not hastened away from being Your shepherd; You know I have not desired the day of disaster. What I have spoken has been before You.
 
 ## Jeremiah 17:17
 
-Do not be a dread to me; you are my refuge in times of trouble.
+Do not be a dread to me; You are my refuge in times of trouble.
 
 ## Jeremiah 17:18
 
@@ -96,7 +96,7 @@ Yet they did not listen or incline their ears; they were stiff-necked and would 
 
 ## Jeremiah 17:24
 
-But if you diligently listen to me, declares the Lord, and bring no load through the gates of this city on the Sabbath, but keep the Sabbath day holy by not doing any work on it,
+But if you diligently listen to Me, declares the Lord, and bring no load through the gates of this city on the Sabbath, but keep the Sabbath day holy by not doing any work on it,
 
 ## Jeremiah 17:25
 
@@ -108,4 +108,4 @@ People will come from the towns of Judah and the areas surrounding Jerusalem, fr
 
 ## Jeremiah 17:27
 
-But if you do not listen to me to keep the Sabbath day holy by not carrying any load as you come through the gates of Jerusalem on the Sabbath day, then I will kindle a fire in its gates, and it will consume the fortresses of Jerusalem and will not be quenched.”
+But if you do not listen to Me to keep the Sabbath day holy by not carrying any load as you come through the gates of Jerusalem on the Sabbath day, then I will kindle a fire in its gates, and it will consume the fortresses of Jerusalem and will not be quenched.’”

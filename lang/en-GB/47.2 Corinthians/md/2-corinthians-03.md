@@ -10,7 +10,7 @@ You are our letter, inscribed in our hearts, recognised and understood by everyo
 
 ## 2 Corinthians 3:3
 
-Revealing yourselves as a letter of Christ, delivered by us, written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts.
+revealing yourselves as a letter of Christ, delivered by us, written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts.
 
 ## 2 Corinthians 3:4
 
@@ -22,7 +22,7 @@ Not that we are sufficient in ourselves to claim anything as originating from us
 
 ## 2 Corinthians 3:6
 
-Who also made us competent as ministers of a new covenant, not of the letter but of the Spirit; for the letter brings death, but the Spirit imparts life.
+who also made us competent as ministers of a new covenant, not of the letter but of the Spirit; for the letter brings death, but the Spirit imparts life.
 
 ## 2 Corinthians 3:7
 
@@ -30,7 +30,7 @@ But if the ministry that brought death, engraved in letters on stones, came with
 
 ## 2 Corinthians 3:8
 
-How will the ministry of the Spirit not be even more glorious?
+how will the ministry of the Spirit not be even more glorious?
 
 ## 2 Corinthians 3:9
 
@@ -50,7 +50,7 @@ Therefore, having such a hope, we speak with great boldness,
 
 ## 2 Corinthians 3:13
 
-And we are not like Moses, who would put a veil over his face so that the sons of Israel would not fix their gaze on what was fading away.
+and we are not like Moses, who would put a veil over his face so that the sons of Israel would not fix their gaze on what was fading away.
 
 ## 2 Corinthians 3:14
 
@@ -62,7 +62,7 @@ Yet even now, whenever Moses is read, a veil covers their hearts;
 
 ## 2 Corinthians 3:16
 
-But whenever someone turns to the Lord, the veil is removed.
+but whenever someone turns to the Lord, the veil is removed.
 
 ## 2 Corinthians 3:17
 

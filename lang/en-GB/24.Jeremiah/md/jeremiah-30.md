@@ -22,7 +22,7 @@ This is what the Lord communicated about Israel and Judah:
 
 ## Jeremiah 30:6
 
-Ask now, and see: Can a man give birth? Why then do I see every man with his hands on his stomach like a woman in labour, and why have all faces turned pale?
+Ask now, and see: can a man give birth? Why then do I see every man with his hands on his stomach like a woman in labour, and why have all faces turned pale?
 
 ## Jeremiah 30:7
 
@@ -30,7 +30,7 @@ Alas, how dreadful that day will be! There is none like it. It is the time of Ja
 
 ## Jeremiah 30:8
 
-‘On that day,’ declares the Lord of Hosts, ‘I will break the yoke from their necks and tear off their bonds; foreigners will no longer enslave them.
+‘On that day,’ declares the Lord of hosts, ‘I will break the yoke from their necks and tear off their bonds; foreigners will no longer enslave them.
 
 ## Jeremiah 30:9
 
@@ -84,7 +84,7 @@ Their children will thrive as in days of old, and their community will be establ
 
 ## Jeremiah 30:21
 
-Their leader will be one of their own, and their ruler will come from their midst. I will bring him near, and he will approach Me— for who would dare to risk his life to approach Me?’ declares the Lord.
+Their leader will be one of their own, and their ruler will come from their midst. I will bring him near, and he will approach Me—for who would dare to risk his life to approach Me?’ declares the Lord.
 
 ## Jeremiah 30:22
 

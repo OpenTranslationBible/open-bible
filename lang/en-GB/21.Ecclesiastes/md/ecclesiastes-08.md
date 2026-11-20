@@ -1,22 +1,22 @@
 # Ecclesiastes Chapter 8
 
 ## Ecclesiastes 8:1
-Who is comparable to the wise, and who understands the meaning of a matter? Wisdom brightens a person's face and softens its sternness.
+Who is comparable to the wise, and who understands the meaning of a matter? Wisdom brightens a person’s face and softens its sternness.
 
 ## Ecclesiastes 8:2
-I advise you to keep the king's command because of the oath made before God.
+I advise you to keep the king’s command because of the oath made before God.
 
 ## Ecclesiastes 8:3
 Do not be quick to leave his presence. Do not support an evil matter, for he will act as he wishes.
 
 ## Ecclesiastes 8:4
-Since the king's word is authoritative, who can question him, “What are you doing?”
+Since the king’s word is authoritative, who can question him, “What are you doing?”
 
 ## Ecclesiastes 8:5
 Whoever obeys his command will face no harm, and a wise heart knows the proper time and procedure.
 
 ## Ecclesiastes 8:6
-For there is a proper time and procedure for every matter, though a person's troubles weigh heavily upon them.
+For there is a proper time and procedure for every matter, though a person’s troubles weigh heavily upon them.
 
 ## Ecclesiastes 8:7
 Since no one knows what will happen, who can tell them when it will occur?

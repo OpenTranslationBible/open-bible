@@ -91,4 +91,4 @@ Whoever brings trouble upon their family will inherit only wind, and the fool wi
 The fruit of the righteous is a tree of life, and the wise save lives.
 
 ## Proverbs 11:31
-If the righteous are rewarded on earth, how much more the wicked and the sinner!
+If the righteous are repaid on earth, how much more the wicked and the sinner!

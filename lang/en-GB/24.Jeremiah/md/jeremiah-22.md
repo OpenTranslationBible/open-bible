@@ -18,11 +18,11 @@ For if you carefully follow these instructions, then kings who sit on David’s 
 
 ## Jeremiah 22:5
 
-But if you do not heed these words, declares the Lord, I swear by myself that this house will become a desolation.’”
+But if you do not heed these words, declares the Lord, I swear by Myself that this house will become a desolation.’”
 
 ## Jeremiah 22:6
 
-For this is what the Lord says concerning the house of the king of Judah: “Though you are to me like Gilead, like the summit of Lebanon, I will surely make you a wilderness, cities not inhabited.
+For this is what the Lord says concerning the house of the king of Judah: “Though you are to Me like Gilead, like the summit of Lebanon, I will surely make you a wilderness, cities not inhabited.
 
 ## Jeremiah 22:7
 
@@ -64,7 +64,7 @@ Does it make you a king to have more cedar? Did not your father have food and dr
 
 ## Jeremiah 22:16
 
-He defended the cause of the poor and needy, and so all went well. Is this not what it means to know me?” declares the Lord.
+He defended the cause of the poor and needy, and so all went well. Is this not what it means to know Me?” declares the Lord.
 
 ## Jeremiah 22:17
 
@@ -84,7 +84,7 @@ He will have the burial of a donkey—dragged away and thrown outside the gates 
 
 ## Jeremiah 22:21
 
-I spoke to you in your prosperity, but you said, ‘I will not listen!’ This has been your way from your youth; you have not obeyed my voice.
+I spoke to you in your prosperity, but you said, ‘I will not listen!’ This has been your way from your youth; you have not obeyed My voice.
 
 ## Jeremiah 22:22
 
@@ -96,7 +96,7 @@ You who dwell in Lebanon, nestled in cedar buildings, how you will groan when pa
 
 ## Jeremiah 22:24
 
-“As surely as I live,” declares the Lord, “even if Coniah son of Jehoiakim king of Judah were a signet ring on my right hand, I would still pull you off.
+“As surely as I live,” declares the Lord, “even if Coniah son of Jehoiakim king of Judah were a signet ring on My right hand, I would still pull you off.
 
 ## Jeremiah 22:25
 

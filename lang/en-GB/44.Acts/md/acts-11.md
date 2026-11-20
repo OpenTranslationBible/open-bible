@@ -26,7 +26,7 @@ I looked into it and saw four-footed animals of the earth, wild beasts, reptiles
 
 ## Acts 11:7
 
-Then I heard a voice instructing me, ‘Arise, Peter; prepare and eat.’
+Then I heard a voice instructing me, ‘Arise, Peter; kill and eat.’
 
 ## Acts 11:8
 
@@ -84,7 +84,7 @@ But some of them, men from Cyprus and Cyrene, went to Antioch and began to speak
 
 ## Acts 11:21
 
-The Lord's guidance was with them, and a large number of people believed and turned to the Lord.
+The hand of the Lord was with them, and a large number of people believed and turned to the Lord.
 
 ## Acts 11:22
 

@@ -38,7 +38,7 @@ Perfume and oil bring joy to the heart, and the sweetness of a friend comes from
 
 ## Proverbs 27:10
 
-Do not forsake your friend or your father's friend, and do not go to your brother's house in the day of your calamity; better is a neighbour who is near than a brother far away.
+Do not forsake your friend or your father’s friend, and do not go to your brother’s house in the day of your calamity; better is a neighbour who is near than a brother far away.
 
 ---
 

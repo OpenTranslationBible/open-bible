@@ -44,7 +44,7 @@ Or if he asks for a fish, would give him a snake?
 
 ## Matthew 7:11
 
-If you, then, though flawed, know how to give good gifts to your children, how much more will your Father in heaven give good things to those who ask Him!
+If you, then, being evil, know how to give good gifts to your children, how much more will your Father in heaven give good things to those who ask Him!
 
 ---
 
@@ -90,21 +90,21 @@ Thus, by their fruits you will recognise them.
 
 ## Matthew 7:21
 
-“Not everyone who calls out to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but only those who do the will of my Father who is in heaven.
+“Not everyone who calls out to Me, ‘Lord, Lord,’ will enter the kingdom of heaven, but only those who do the will of My Father who is in heaven.
 
 ## Matthew 7:22
 
-On that day, many will say to me, ‘Lord, Lord, did we not prophesy in your name, drive out demons, and perform many miracles in your name?’
+On that day, many will say to Me, ‘Lord, Lord, did we not prophesy in Your name, drive out demons, and perform many miracles in Your name?’
 
 ## Matthew 7:23
 
-Then I will declare to them, ‘I never knew you; depart from me, you who practise lawlessness.’
+Then I will declare to them, ‘I never knew you; depart from Me, you who practise lawlessness.’
 
 ---
 
 ## Matthew 7:24
 
-“Therefore, everyone who hears these words of mine and acts on them is like a wise man who built his house on the rock.
+“Therefore, everyone who hears these words of Mine and acts on them is like a wise man who built his house on the rock.
 
 ## Matthew 7:25
 
@@ -112,7 +112,7 @@ The rain fell, the floods came, and the winds blew and beat against that house; 
 
 ## Matthew 7:26
 
-But everyone who hears these words of mine and does not act on them is like a foolish man who built his house on the sand.
+But everyone who hears these words of Mine and does not act on them is like a foolish man who built his house on the sand.
 
 ## Matthew 7:27
 
@@ -122,8 +122,8 @@ The rain fell, the floods came, and the winds blew and beat against that house, 
 
 ## Matthew 7:28
 
-When Jesus had finished these sayings, the crowds were amazed at his teaching;
+When Jesus had finished these sayings, the crowds were amazed at His teaching;
 
 ## Matthew 7:29
 
-for he taught as one having authority, and not as their scribes.
+for He taught as one having authority, and not as their scribes.

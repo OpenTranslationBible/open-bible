@@ -3,7 +3,7 @@
 ## 2 Peter 1:1
 
 Simon Peter, a bond-servant and apostle of Jesus Christ,  
-To those who have received a faith of the same kind as ours, by the righteousness of our God and Saviour, Jesus Christ:
+ To those who have received a faith of the same kind as ours, by the righteousness of our God and Saviour, Jesus Christ:
 
 ## 2 Peter 1:2
 

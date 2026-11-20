@@ -106,7 +106,7 @@ His company of men numbered 62,700.
 
 ## Numbers 2:27
 
-Next to them shall camp the tribe of Asher. The leader of the people of Asher is Pagiel son of Okran.
+Next to them shall camp the tribe of Asher. The leader of the people of Asher is Pagiel son of Ochran.
 
 ## Numbers 2:28
 
@@ -122,7 +122,7 @@ His company of men numbered 53,400.
 
 ## Numbers 2:31
 
-All the men assigned to the camp of Dan number 157,600. They shall set out last, under their flags.
+All the men assigned to the camp of Dan number 157,600. They shall set out last, under their flags.”
 
 ## Numbers 2:32
 

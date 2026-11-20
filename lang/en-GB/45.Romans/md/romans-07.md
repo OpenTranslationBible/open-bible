@@ -10,7 +10,7 @@ For instance, a married woman is legally bound to her husband while he is alive;
 So then, if she is with another man while her husband is still alive, she is called an adulteress; but if her husband dies, she is free from that law, so she is not an adulteress if she is with another man.
 
 ## Romans 7:4
-Therefore, my brothers and sisters, you also died to the law through the body of Christ, so that you might belong to another, to him who was raised from the dead, in order that we might bear fruit for God.
+Therefore, my brothers and sisters, you also died to the law through the body of Christ, so that you might belong to another, to Him who was raised from the dead, in order that we might bear fruit for God.
 
 ## Romans 7:5
 For when we were in the realm of the flesh, the sinful passions, which were aroused by the law, were at work in us, so that we bore fruit for death.
@@ -70,7 +70,7 @@ For deep within, I take joy in God’s law;
 but I see another law at work in me, waging war against the law of my mind and making me a prisoner of the law of sin at work within my body.
 
 ## Romans 7:24
-What a troubled person I am! Who will rescue me from this body that is subject to death?
+What a wretched person I am! Who will rescue me from this body that is subject to death?
 
 ## Romans 7:25
-Thanks be to God, who delivers me through Jesus Christ our Lord! So then, I myself in my mind am a slave to God’s law, but in my flesh a slave to the law of sin.
+Thanks be to God, through Jesus Christ our Lord! So then, I myself in my mind am a slave to God’s law, but in my flesh a slave to the law of sin.

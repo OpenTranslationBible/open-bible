@@ -19,7 +19,7 @@ And they replied, “You have not wronged us, nor oppressed us, nor taken anythi
 ## 1 Samuel 12:5
 
 He addressed them, saying, “The Lord and His anointed are witnesses today that you have found nothing in my possession.”  
-And they responded, “He is witness.”
+ And they responded, “He is witness.”
 
 ---
 
@@ -105,4 +105,4 @@ Fear the Lord and serve Him faithfully with all your heart; for consider what gr
 
 ## 1 Samuel 12:25
 
-But if you continue in wickedness, both you and your king will face destruction.
+But if you continue in wickedness, both you and your king will face destruction.”

@@ -3,10 +3,10 @@
 ## 1 Chronicles 27:1
 
 Now this is the number of the sons of Israel, the heads of fathers’ households,  
-the commanders of thousands and of hundreds,
+ the commanders of thousands and of hundreds,
 
-> and their officers who served the king in all matters of the divisions  
-> that came in and went out month by month throughout the year—each division was 24,000.
+>  and their officers who served the king in all matters of the divisions that came in and went out month by month throughout the year—each division was 24,  
+> 000.
 
 ---
 
@@ -14,7 +14,7 @@ the commanders of thousands and of hundreds,
 
 Jashobeam, son of Zabdiel, led the first division for the first month;
 
-> and in his division were 24,000.
+>  and in his division were 24,000.
 
 ---
 
@@ -28,8 +28,8 @@ He was a descendant of Perez and led all the commanders of the army for the firs
 
 Dodai the Ahohite was over the division of the second month,
 
-> and Mikloth was the chief officer;  
-> and in his division were 24,000.
+>  and Mikloth was the chief officer;  
+>  and in his division were 24,000.
 
 ---
 
@@ -37,7 +37,7 @@ Dodai the Ahohite was over the division of the second month,
 
 Benaiah, son of Jehoiada the priest, was the third commander of the army for the third month;
 
-> and in his division were 24,000.
+>  and in his division were 24,000.
 
 ---
 
@@ -45,8 +45,8 @@ Benaiah, son of Jehoiada the priest, was the third commander of the army for the
 
 This Benaiah was the mighty man of the thirty,
 
-> and was over the thirty;  
-> and over his division was Ammizabad his son.
+>  and was over the thirty;  
+>  and over his division was Ammizabad his son.
 
 ---
 
@@ -54,7 +54,7 @@ This Benaiah was the mighty man of the thirty,
 
 Asahel, brother of Joab, was the fourth for the fourth month, with Zebadiah his son succeeding him;
 
-> and in his division were 24,000.
+>  and in his division were 24,000.
 
 ---
 
@@ -62,7 +62,7 @@ Asahel, brother of Joab, was the fourth for the fourth month, with Zebadiah his 
 
 The fifth for the fifth month was Shamhuth the Izrahite;
 
-> and in his division were 24,000.
+>  and in his division were 24,000.
 
 ---
 
@@ -70,7 +70,7 @@ The fifth for the fifth month was Shamhuth the Izrahite;
 
 Ira, son of Ikkesh the Tekoite, was the sixth for the sixth month;
 
-> and in his division were 24,000.
+>  and in his division were 24,000.
 
 ---
 
@@ -78,7 +78,7 @@ Ira, son of Ikkesh the Tekoite, was the sixth for the sixth month;
 
 Helez the Pelonite, from the sons of Ephraim, was the seventh for the seventh month;
 
-> and in his division were 24,000.
+>  and in his division were 24,000.
 
 ---
 
@@ -86,15 +86,15 @@ Helez the Pelonite, from the sons of Ephraim, was the seventh for the seventh mo
 
 Sibbecai the Hushathite, from the Zerahites, was the eighth for the eighth month;
 
-> and in his division were 24,000.
+>  and in his division were 24,000.
 
 ---
 
 ## 1 Chronicles 27:12
 
-The ninth for the ninth month was Abiezer the Anathothite of the Benjaminites;
+The ninth for the ninth month was Abiezer the Anathothite of the Benjamites;
 
-> and in his division were 24,000.
+>  and in his division were 24,000.
 
 ---
 
@@ -102,7 +102,7 @@ The ninth for the ninth month was Abiezer the Anathothite of the Benjaminites;
 
 Maharai the Netophathite, from the Zerahites, was the tenth for the tenth month;
 
-> and in his division were 24,000.
+>  and in his division were 24,000.
 
 ---
 
@@ -110,7 +110,7 @@ Maharai the Netophathite, from the Zerahites, was the tenth for the tenth month;
 
 Benaiah the Pirathonite, from the sons of Ephraim, was the eleventh for the eleventh month;
 
-> and in his division were 24,000.
+>  and in his division were 24,000.
 
 ---
 
@@ -118,7 +118,7 @@ Benaiah the Pirathonite, from the sons of Ephraim, was the eleventh for the elev
 
 Heldai the Netophathite, from Othniel, was the twelfth for the twelfth month;
 
-> and in his division were 24,000.
+>  and in his division were 24,000.
 
 ---
 
@@ -126,50 +126,50 @@ Heldai the Netophathite, from Othniel, was the twelfth for the twelfth month;
 
 Now over the tribes of Israel:
 
-> for the Reubenites, Eliezer the son of Zichri was chief officer;  
-> for the Simeonites, Shephatiah the son of Maacah;
+>  for the Reubenites, Eliezer the son of Zichri was chief officer;  
+>  for the Simeonites, Shephatiah the son of Maacah;
 
 ---
 
 ## 1 Chronicles 27:17
 
 > overseeing Levi was Hashabiah the son of Kemuel;  
-> overseeing Aaron was Zadok;
+>  overseeing Aaron was Zadok;
 
 ---
 
 ## 1 Chronicles 27:18
 
 > leading Judah was Elihu, one of David’s brothers;  
-> leading Issachar was Omri the son of Michael;
+>  leading Issachar was Omri the son of Michael;
 
 ---
 
 ## 1 Chronicles 27:19
 
 > leading Zebulun was Ishmaiah the son of Obadiah;  
-> leading Naphtali was Jeremoth the son of Azriel;
+>  leading Naphtali was Jeremoth the son of Azriel;
 
 ---
 
 ## 1 Chronicles 27:20
 
 > overseeing the descendants of Ephraim was Hoshea the son of Azaziah;  
-> overseeing the half-tribe of Manasseh was Joel the son of Pedaiah;
+>  overseeing the half-tribe of Manasseh was Joel the son of Pedaiah;
 
 ---
 
 ## 1 Chronicles 27:21
 
 > overseeing the half-tribe of Manasseh in Gilead was Iddo the son of Zechariah;  
-> overseeing Benjamin was Jaasiel the son of Abner;
+>  overseeing Benjamin was Jaasiel the son of Abner;
 
 ---
 
 ## 1 Chronicles 27:22
 
 > for Dan, Azarel the son of Jeroham.  
-> These were the chiefs of the tribes of Israel.
+>  These were the chiefs of the tribes of Israel.
 
 ---
 
@@ -177,16 +177,16 @@ Now over the tribes of Israel:
 
 But David did not count those who were twenty years of age and under,
 
-> because the Lord had promised to multiply Israel as the stars of heaven.
+>  because the Lord had promised to multiply Israel as the stars of heaven.
 
 ---
 
 ## 1 Chronicles 27:24
 
 Joab, son of Zeruiah, had begun to count them, but did not finish;  
-and because of this, wrath came upon Israel,
+ and because of this, wrath came upon Israel,
 
-> and the number was not included in the account of the chronicles of King David.
+>  and the number was not included in the account of the chronicles of King David.
 
 ---
 
@@ -194,7 +194,7 @@ and because of this, wrath came upon Israel,
 
 Now over the king’s storehouses was Azmaveth the son of Adiel.
 
-> And over the storehouses in the country, in the cities, in the villages, and in the towers was Jonathan the son of Uzziah;
+>  And over the storehouses in the country, in the cities, in the villages, and in the towers was Jonathan the son of Uzziah;
 
 ---
 
@@ -207,35 +207,35 @@ Now over the king’s storehouses was Azmaveth the son of Adiel.
 ## 1 Chronicles 27:27
 
 > and over the vineyards was Shimei the Ramathite;  
-> and over the produce of the vineyards stored in the wine cellars was Zabdi the Shiphmite;
+>  and over the produce of the vineyards stored in the wine cellars was Zabdi the Shiphmite;
 
 ---
 
 ## 1 Chronicles 27:28
 
 > and over the olive trees and the sycamore trees in the Shephelah was Baal-hanan the Gederite;  
-> and over the stores of oil was Joash;
+>  and over the stores of oil was Joash;
 
 ---
 
 ## 1 Chronicles 27:29
 
 > and over the cattle that grazed in Sharon was Shitrai the Sharonite;  
-> and over the cattle in the valleys was Shaphat the son of Adlai;
+>  and over the cattle in the valleys was Shaphat the son of Adlai;
 
 ---
 
 ## 1 Chronicles 27:30
 
 > and overseeing the camels was Obil the Ishmaelite;  
-> and managing the donkeys was Jehdeiah the Meronothite;
+>  and managing the donkeys was Jehdeiah the Meronothite;
 
 ---
 
 ## 1 Chronicles 27:31
 
 > and over the flocks was Jaziz the Hagrite.  
-> All these were stewards of the property of King David.
+>  All these were stewards of the property of King David.
 
 ---
 
@@ -243,7 +243,7 @@ Now over the king’s storehouses was Azmaveth the son of Adiel.
 
 Also Jonathan, David’s uncle, was a counsellor, a man of understanding, and a scribe;
 
-> and Jehiel the son of Hachmoni tutored the king’s sons.
+>  and Jehiel the son of Hachmoni tutored the king’s sons.
 
 ---
 
@@ -251,7 +251,7 @@ Also Jonathan, David’s uncle, was a counsellor, a man of understanding, and a 
 
 Ahithophel was counsellor to the king,
 
-> and Hushai the Archite was the king’s friend.
+>  and Hushai the Archite was the king’s friend.
 
 ---
 
@@ -259,4 +259,4 @@ Ahithophel was counsellor to the king,
 
 Jehoiada, son of Benaiah, and Abiathar succeeded Ahithophel;
 
-> and Joab was the commander of the king’s army.
+>  and Joab was the commander of the king’s army.

@@ -132,11 +132,11 @@ as Moses the servant of the Lord had commanded the Israelites, as it is written 
 
 ## Joshua 8:32
 
-In the sight of the Israelites, Joshua inscribed on stones a copy of the law of Moses.
+In the sight of the Israelites, Joshua inscribed on stones a copy of the law of Moses, which he had written.
 
 ## Joshua 8:33
 
-All Israel, with their elders, officials, and judges, stood on both sides of the ark of the covenant of the Lord, facing the Levitical priests who carried it. Both the foreigners living among them and the native-born were present. Half of the people stood in front of Mount Gerizim and half in front of Mount Ebal, as Moses the servant of the Lord had commanded when he blessed the people of Israel.
+All Israel, with their elders, officials, and judges, stood on both sides of the ark of the covenant of the Lord, facing the Levitical priests who carried it. Both the foreigners living among them and the native-born were present. Half of the people stood in front of Mount Gerizim and half in front of Mount Ebal, as Moses the servant of the Lord had commanded, to bless the people of Israel.
 
 ## Joshua 8:34
 

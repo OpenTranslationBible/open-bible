@@ -40,15 +40,15 @@ Cyrus king of Persia had them brought out by Mithredath the treasurer, who count
 
 This was the inventory:
 
-> thirty gold dishes,
-> a thousand silver dishes,
-> and twenty-nine silver pans;
+>  thirty gold dishes,
+>  a thousand silver dishes,
+>  and twenty-nine silver pans;
 
 ## Ezra 1:10
 
 > thirty gold bowls,
-> four hundred and ten matching silver bowls,
-> and a thousand other articles.
+>  four hundred and ten matching silver bowls,
+>  and a thousand other articles.
 
 ## Ezra 1:11
 

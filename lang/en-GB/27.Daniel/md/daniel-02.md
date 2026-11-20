@@ -1,7 +1,7 @@
 # Daniel Chapter 2
 
 ## Daniel 2:1
-In the second year of King Nebuchadnezzar's reign, he had dreams that troubled his spirit, and he was unable to sleep.
+In the second year of King Nebuchadnezzar’s reign, he had dreams that troubled his spirit, and he was unable to sleep.
 
 ## Daniel 2:2
 The king commanded to summon the magicians, enchanters, sorcerers, and astrologers to tell him his dreams. They came and stood before the king.

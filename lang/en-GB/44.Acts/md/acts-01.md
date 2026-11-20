@@ -6,15 +6,15 @@ In my previous account, Theophilus, I documented all that Jesus began to do and 
 
 ## Acts 1:2
 
-up to the day he was taken up to heaven, after giving instructions through the Holy Spirit to the apostles he had chosen.
+up to the day He was taken up to heaven, after giving instructions through the Holy Spirit to the apostles He had chosen.
 
 ## Acts 1:3
 
-After his suffering, he presented himself alive to them with many convincing proofs, appearing over a period of forty days and speaking about the kingdom of God.
+After His suffering, He presented Himself alive to them with many convincing proofs, appearing over a period of forty days and speaking about the kingdom of God.
 
 ## Acts 1:4
 
-On one occasion, while gathering them together, he instructed them not to leave Jerusalem, but to wait for the promise of the Father, “which,” he said, “you have heard me speak about;
+On one occasion, while gathering them together, He instructed them not to leave Jerusalem, but to wait for the promise of the Father, “which,” He said, “you have heard Me speak about;
 
 ## Acts 1:5
 
@@ -24,29 +24,29 @@ for John baptised with water, but you will be baptised with the Holy Spirit not 
 
 ## Acts 1:6
 
-So when they were assembled, they asked him, “Lord, is this the time you are going to restore the kingdom to Israel?”
+So when they were assembled, they asked Him, “Lord, is this the time You are going to restore the kingdom to Israel?”
 
 ## Acts 1:7
 
-He replied, “It is not for you to know the times or dates the Father has set by his own authority.
+He replied, “It is not for you to know the times or dates the Father has set by His own authority.
 
 ## Acts 1:8
 
-But you will receive power when the Holy Spirit comes upon you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”
+But you will receive power when the Holy Spirit comes upon you; and you will be My witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”
 
 ---
 
 ## Acts 1:9
 
-After he said this, he was lifted up while they were watching, and a cloud hid him from their sight.
+After He said this, He was lifted up while they were watching, and a cloud hid Him from their sight.
 
 ## Acts 1:10
 
-As they were gazing intently into the sky while he was going, suddenly two men in white clothing stood beside them.
+As they were gazing intently into the sky while He was going, suddenly two men in white clothing stood beside them.
 
 ## Acts 1:11
 
-“Men of Galilee,” they said, “why do you stand looking into the sky? This same Jesus, who has been taken up from you into heaven, will return in the same way you have seen him go into heaven.”
+“Men of Galilee,” they said, “why do you stand looking into the sky? This same Jesus, who has been taken up from you into heaven, will return in the same way you have seen Him go into heaven.”
 
 ---
 
@@ -60,7 +60,7 @@ When they arrived, they went upstairs to the room where they were staying. Those
 
 ## Acts 1:14
 
-All these were constantly devoting themselves to prayer, along with the women, and Mary the mother of Jesus, and with his brothers.
+All these were constantly devoting themselves to prayer, along with the women, and Mary the mother of Jesus, and with His brothers.
 
 ---
 
@@ -88,12 +88,12 @@ This became known to all the residents of Jerusalem, so they called that field i
 
 “For,” said Peter, “it is written in the book of Psalms:
 
-> ‘May his place be deserted;
-> let there be no one to dwell in it,’
+>  ‘May his place be deserted;
+>  let there be no one to dwell in it,’
 
-and,
+ and,
 
-> ‘May another take his office.’
+>  ‘May another take his office.’
 
 ---
 
@@ -103,7 +103,7 @@ Therefore it is necessary to choose one of the men who have been with us the who
 
 ## Acts 1:22
 
-beginning from John’s baptism to the day he was taken up from us. For one of these must become a witness with us of his resurrection.”
+beginning from John’s baptism to the day He was taken up from us. For one of these must become a witness with us of His resurrection.”
 
 ## Acts 1:23
 
@@ -111,7 +111,7 @@ So they proposed two men: Joseph called Barsabbas (also known as Justus) and Mat
 
 ## Acts 1:24
 
-Then they prayed, “Lord, you who know the hearts of all, reveal to us which of these two you have chosen
+Then they prayed, “Lord, You who know the hearts of all, reveal to us which of these two You have chosen
 
 ## Acts 1:25
 

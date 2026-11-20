@@ -10,7 +10,7 @@ The message from the Lord reached Jonah once more,
 Jonah arose and went to Nineveh in accordance with the word of the Lord. Now Nineveh was an exceedingly large city, requiring three days to traverse it.
 
 ## Jonah 3:4
-Jonah began to enter the city, travelling a day's journey, and he proclaimed, “In forty days Nineveh will be overthrown.”
+Jonah began to enter the city, travelling a day’s journey, and he proclaimed, “In forty days Nineveh will be overthrown.”
 
 ## Jonah 3:5
 The people of Nineveh believed God. They proclaimed a fast and donned sackcloth, from the greatest of them to the least.

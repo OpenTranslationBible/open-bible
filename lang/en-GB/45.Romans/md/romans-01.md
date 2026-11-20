@@ -2,15 +2,15 @@
 
 ## Romans 1:1
 
-Paul, a devoted follower of Christ Jesus, appointed as an apostle, designated for the gospel of God—
+Paul, a servant of Christ Jesus, appointed as an apostle, designated for the gospel of God—
 
 ## Romans 1:2
 
-which he had promised long ago through his prophets in the holy Scriptures,
+which He had promised long ago through His prophets in the holy Scriptures,
 
 ## Romans 1:3
 
-concerning his Son, who was a descendant of David according to the flesh,
+concerning His Son, who was a descendant of David according to the flesh,
 
 ## Romans 1:4
 
@@ -18,7 +18,7 @@ and who was declared to be the Son of God with power according to the Spirit of 
 
 ## Romans 1:5
 
-Through him we have received grace and apostleship to bring about the obedience of faith among all the Gentiles for his name’s sake.
+Through Him we have received grace and apostleship to bring about the obedience of faith among all the Gentiles for His name’s sake.
 
 ## Romans 1:6
 
@@ -36,7 +36,7 @@ First, I thank my God through Jesus Christ for all of you, because your faith is
 
 ## Romans 1:9
 
-For God, whom I serve in my spirit in the preaching of the gospel of his Son, is my witness as to how unceasingly I remember you
+For God, whom I serve in my spirit in the preaching of the gospel of His Son, is my witness as to how unceasingly I remember you
 
 ## Romans 1:10
 
@@ -84,11 +84,11 @@ because what is known about God is plain to them, for God has made it plain to t
 
 ## Romans 1:20
 
-For since the creation of the world, God’s invisible qualities—his eternal power and divine nature—have been clearly perceived, being understood from what has been made, so that people are without excuse.
+For since the creation of the world, God’s invisible qualities—His eternal power and divine nature—have been clearly perceived, being understood from what has been made, so that people are without excuse.
 
 ## Romans 1:21
 
-For although they knew God, they neither honoured him as God nor gave thanks to him, but their thinking became futile and their foolish hearts were darkened.
+For although they knew God, they neither honoured Him as God nor gave thanks to Him, but their thinking became futile and their foolish hearts were darkened.
 
 ## Romans 1:22
 

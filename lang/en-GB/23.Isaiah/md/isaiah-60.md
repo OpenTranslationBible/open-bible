@@ -34,7 +34,7 @@ Who are these that fly like clouds, like doves to their nests?
 
 ## Isaiah 60:9
 
-Surely the coastlands look to me; the ships of Tarshish are in the lead, bringing your children from afar, with their silver and gold, for the honour of the Lord your God, the Holy One of Israel, for He has glorified you.
+Surely the coastlands look to Me; the ships of Tarshish are in the lead, bringing your children from afar, with their silver and gold, for the honour of the Lord your God, the Holy One of Israel, for He has glorified you.
 
 ## Isaiah 60:10
 

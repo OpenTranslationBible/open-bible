@@ -4,10 +4,10 @@
 The message from the Lord came to me, saying,
 
 ## Ezekiel 38:2
-“Son of man, set your face against Gog of the land of Magog, the chief prince of Meshek and Tubal, and prophesy against him,
+“Son of man, set your face against Gog of the land of Magog, the chief prince of Meshech and Tubal, and prophesy against him,
 
 ## Ezekiel 38:3
-and declare: ‘This is what the Sovereign Lord says: Behold, I am against you, Gog, chief prince of Meshek and Tubal.
+and declare: ‘This is what the Sovereign Lord says: Behold, I am against you, Gog, chief prince of Meshech and Tubal.
 
 ## Ezekiel 38:4
 I will turn you around, put hooks into your jaws, and bring you out with your entire army—your horses and horsemen, all splendidly attired, a vast multitude with shield and buckler, all wielding swords.
@@ -40,31 +40,31 @@ I will plunder and loot, turning my hand against the resettled ruins and the peo
 Sheba and Dedan and the merchants of Tarshish with all her villages will ask you, “Have you come to plunder? Have you gathered your hordes to loot, to carry off silver and gold, to take away livestock and goods, and to seize much plunder?”’
 
 ## Ezekiel 38:14
-“Therefore, son of man, prophesy and say to Gog: ‘This is what the Sovereign Lord says: On that day when my people Israel are living securely, will you not be aware of it?
+“Therefore, son of man, prophesy and say to Gog: ‘This is what the Sovereign Lord says: On that day when My people Israel are living securely, will you not be aware of it?
 
 ## Ezekiel 38:15
 You will come from your place in the distant north, you and many nations with you, all riding on horses, a vast assembly, a mighty army.
 
 ## Ezekiel 38:16
-You will advance against my people Israel like a cloud covering the land. It will come to pass in the last days that I will bring you against my land, so that the nations may acknowledge me when I am shown holy through you before their eyes, Gog.
+You will advance against My people Israel like a cloud covering the land. It will come to pass in the last days that I will bring you against My land, so that the nations may acknowledge Me when I am shown holy through you before their eyes, Gog.
 
 ## Ezekiel 38:17
-‘This is what the Sovereign Lord says: Are you the one I spoke of in former days through my servants the prophets of Israel? At that time, they prophesied for many years that I would bring you against them.
+‘This is what the Sovereign Lord says: Are you the one I spoke of in former days through My servants the prophets of Israel? At that time, they prophesied for many years that I would bring you against them.
 
 ## Ezekiel 38:18
-This is what will occur on that day: When Gog attacks the land of Israel, my fury will rise in my anger, declares the Sovereign Lord.
+This is what will occur on that day: When Gog attacks the land of Israel, My fury will rise in My anger, declares the Sovereign Lord.
 
 ## Ezekiel 38:19
-In my zeal and blazing wrath, I declare that on that day there will be a great earthquake in the land of Israel.
+In My zeal and blazing wrath, I declare that on that day there will be a great earthquake in the land of Israel.
 
 ## Ezekiel 38:20
-The fish in the sea, the birds in the sky, the beasts of the field, every creature that moves along the ground, and all humanity on the face of the earth will tremble at my presence. The mountains will be overturned, the cliffs will crumble, and every wall will collapse to the ground.
+The fish in the sea, the birds in the sky, the beasts of the field, every creature that moves along the ground, and all humanity on the face of the earth will tremble at My presence. The mountains will be overturned, the cliffs will crumble, and every wall will collapse to the ground.
 
 ## Ezekiel 38:21
-I will call for a sword against Gog on all my mountains, declares the Sovereign Lord. Every man's sword will be against his brother.
+I will call for a sword against Gog on all My mountains, declares the Sovereign Lord. Every man’s sword will be against his brother.
 
 ## Ezekiel 38:22
 I will execute judgment upon him with plague and bloodshed; I will pour down torrents of rain, hailstones, and burning sulphur on him and his troops and the many nations with him.
 
 ## Ezekiel 38:23
-Thus, I will show my greatness and my holiness, and I will make myself known in the sight of many nations. Then they will know that I am the Lord.’
+Thus, I will show My greatness and My holiness, and I will make Myself known in the sight of many nations. Then they will know that I am the Lord.’

@@ -10,7 +10,7 @@ Esau took his wives from the daughters of Canaan: Adah, the daughter of Elon the
 
 ## Genesis 36:3
 
-and Basemath, the daughter of Ishmael the sister of Nebaioth.
+and Basemath, the daughter of Ishmael, the sister of Nebaioth.
 
 ## Genesis 36:4
 
@@ -42,7 +42,7 @@ Here are the names of Esau’s sons: Eliphaz, born to Esau’s wife Adah; and Re
 
 ## Genesis 36:11
 
-Eliphaz's sons were named Teman, Omar, Zepho, Gatam, and Kenaz.
+Eliphaz’s sons were named Teman, Omar, Zepho, Gatam, and Kenaz.
 
 ## Genesis 36:12
 
@@ -90,7 +90,7 @@ The sons of Lotan were Hori and Homam; and Timna was Lotan’s sister.
 
 ## Genesis 36:23
 
-Shobal's family included Alvan, Manahath, Ebal, Shepho, and Onam.
+Shobal’s family included Alvan, Manahath, Ebal, Shepho, and Onam.
 
 ## Genesis 36:24
 
@@ -106,11 +106,11 @@ These were the sons of Dishon: Hemdan, Eshban, Ithran, and Keran.
 
 ## Genesis 36:27
 
-Ezer's family were Bilhan, Zaavan, and Akan.
+Ezer’s family were Bilhan, Zaavan, and Akan.
 
 ## Genesis 36:28
 
-Dishan's family were Uz and Aran.
+Dishan’s family were Uz and Aran.
 
 ## Genesis 36:29
 

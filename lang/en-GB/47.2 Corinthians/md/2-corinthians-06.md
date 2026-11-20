@@ -6,43 +6,43 @@ And as we work together with Him, we also encourage you not to receive the grace
 
 ## 2 Corinthians 6:2
 
-For He says,
+for He says,
 
-> “At a favourable time I listened to you,  
-> And on a day of salvation I helped you.”  
-> Behold, now is “a favourable time,” behold, now is “a day of salvation”—
+>  “At a favourable time I listened to you,  
+>  and on a day of salvation I helped you.”  
+>  Behold, now is “a favourable time,” behold, now is “a day of salvation”—
 
 ## 2 Corinthians 6:3
 
-Giving no reason for taking offence in anything, so that the ministry will not be discredited,
+giving no reason for taking offence in anything, so that the ministry will not be discredited,
 
 ## 2 Corinthians 6:4
 
-But in all things, we present ourselves as servants of God, with much endurance, in afflictions, in hardships, in difficulties,
+but in all things, we present ourselves as servants of God, with much endurance, in afflictions, in hardships, in difficulties,
 
 ## 2 Corinthians 6:5
 
-In beatings, in imprisonments, in mob attacks, in labours, in sleeplessness, in hunger,
+in beatings, in imprisonments, in mob attacks, in labours, in sleeplessness, in hunger,
 
 ## 2 Corinthians 6:6
 
-With purity, with knowledge, with patience, with kindness, with the Holy Spirit, with sincere love,
+with purity, with knowledge, with patience, with kindness, with the Holy Spirit, with sincere love,
 
 ## 2 Corinthians 6:7
 
-With the word of truth, and with the power of God; by the weapons of righteousness for the right hand and the left,
+with the word of truth, and with the power of God; by the weapons of righteousness for the right hand and the left,
 
 ## 2 Corinthians 6:8
 
-By glory and dishonour, by evil report and good report; regarded as deceivers and yet true;
+by glory and dishonour, by evil report and good report; regarded as deceivers and yet true;
 
 ## 2 Corinthians 6:9
 
-As unknown and yet well known, as dying and yet behold, we live; as punished and yet not put to death,
+as unknown and yet well known, as dying and yet behold, we live; as punished and yet not put to death,
 
 ## 2 Corinthians 6:10
 
-As sorrowful yet always finding joy, as poor yet bringing richness to many, as having nothing and yet possessing everything.
+as sorrowful yet always finding joy, as poor yet bringing richness to many, as having nothing and yet possessing everything.
 
 ## 2 Corinthians 6:11
 
@@ -68,21 +68,21 @@ Or what accord does Christ have with Belial, or what does a believer have in com
 
 Or what agreement could be found between the temple of God and idols? We are the temple of the living God; as God has declared:
 
-> “I will dwell among them and walk among them;  
-> And I will be their God, and they shall be My people.
+>  “I will dwell among them and walk among them;  
+>  and I will be their God, and they shall be My people.
 
 ## 2 Corinthians 6:17
 
 Therefore,
 
-> come out from among them and be separate,” says the Lord.  
-> “And do not touch what is impure;  
-> And I will receive you.
+>  come out from among them and be separate,” says the Lord.  
+>  “And do not touch what is impure;  
+>  and I will receive you.
 
 ## 2 Corinthians 6:18
 
-And
+And I will be a father to you,
 
-> I will be a father to you,  
-> And you shall be My sons and daughters,”  
-> Declares the Lord Almighty.
+>  and you shall be My sons and daughters,  
+> ”  
+>  declares the Lord Almighty.

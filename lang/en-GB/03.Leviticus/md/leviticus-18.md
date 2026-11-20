@@ -14,11 +14,11 @@ You must not act as they do in the land of Egypt, where you once lived, nor shou
 
 ## Leviticus 18:4
 
-You shall observe my judgments and keep my statutes, to live by them. I am the Lord your God.
+You shall observe My judgments and keep My statutes, to live by them. I am the Lord your God.
 
 ## Leviticus 18:5
 
-Therefore, keep my statutes and my judgments, for the person who follows them will live by them. I am the Lord.
+Therefore, keep My statutes and My judgments, for the person who follows them will live by them. I am the Lord.
 
 ## Leviticus 18:6
 
@@ -30,7 +30,7 @@ You shall not uncover the nakedness of your father, which is the nakedness of yo
 
 ## Leviticus 18:8
 
-You shall not help undress your father's wife, it is as if you made your father naked.
+You shall not uncover the nakedness of your father’s wife; it is as if you made your father naked.
 
 ## Leviticus 18:9
 
@@ -42,7 +42,7 @@ You shall not uncover the nakedness of your son’s daughter or your daughter’
 
 ## Leviticus 18:11
 
-The nakedness of your father's wife's daughter, who is your sister, you shall not uncover.
+The nakedness of your father’s wife’s daughter, who is your sister, you shall not uncover.
 
 ## Leviticus 18:12
 
@@ -58,11 +58,11 @@ You shall not uncover the nakedness of your father’s brother’s wife; she is 
 
 ## Leviticus 18:15
 
-You shall not help undress your daughter-in-law, as she is your son's wife.
+You shall not uncover the nakedness of your daughter-in-law, as she is your son’s wife; you shall not uncover her nakedness.
 
 ## Leviticus 18:16
 
-You shall not help undress your brother's wife, as it would dishonour your brother.
+You shall not uncover the nakedness of your brother’s wife, as it would dishonour your brother.
 
 ## Leviticus 18:17
 
@@ -102,7 +102,7 @@ The land has become defiled, therefore I have punished it for its sin, and the l
 
 ## Leviticus 18:26
 
-But you must keep my statutes and my judgments, and do not commit any of these abominations, neither the native-born nor the foreigner residing among you.
+But you must keep My statutes and My judgments, and do not commit any of these abominations, neither the native-born nor the foreigner residing among you.
 
 ## Leviticus 18:27
 
@@ -118,4 +118,4 @@ For anyone who commits any of these abominations, those persons must be cut off 
 
 ## Leviticus 18:30
 
-Therefore, keep my requirements and do not follow any of the abominable customs that were practised before you, so that you do not defile yourselves with them. I am the Lord your God.’”
+Therefore, keep My requirements and do not follow any of the abominable customs that were practised before you, so that you do not defile yourselves with them. I am the Lord your God.’”

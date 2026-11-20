@@ -130,7 +130,7 @@ as well as the posts of the surrounding courtyard with their bases, tent pegs, r
 
 ## Numbers 4:33
 
-This is what the Merarite clans are responsible for as they work at the tent of meeting under the direction of Ithamar, son of Aaron, the priest.
+This is what the Merarite clans are responsible for as they work at the tent of meeting under the direction of Ithamar, son of Aaron, the priest.”
 
 ## Numbers 4:34
 

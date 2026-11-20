@@ -10,15 +10,15 @@ He dug it up, cleared it of stones, and planted it with the choicest vines. He b
 
 ## Isaiah 5:3
 
-“And now, you dwellers in Jerusalem and people of Judah, judge between me and my vineyard.
+“And now, you dwellers in Jerusalem and people of Judah, judge between Me and My vineyard.
 
 ## Isaiah 5:4
 
-What more could have been done for my vineyard than I have done for it? When I expected good grapes, why did it yield only bad ones?
+What more could have been done for My vineyard than I have done for it? When I expected good grapes, why did it yield only bad ones?
 
 ## Isaiah 5:5
 
-Now I will tell you what I am going to do to my vineyard: I will remove its hedge, and it will be consumed; I will break down its wall, and it will be trampled.
+Now I will tell you what I am going to do to My vineyard: I will remove its hedge, and it will be consumed; I will break down its wall, and it will be trampled.
 
 ## Isaiah 5:6
 
@@ -26,7 +26,7 @@ I will lay it waste; it will neither be pruned nor cultivated, and briers and th
 
 ## Isaiah 5:7
 
-For the vineyard of the Lord Almighty is the house of Israel, and the people of Judah are the vines he delighted in. He looked for justice, but saw bloodshed; for righteousness, but heard cries of distress.
+For the vineyard of the Lord of hosts is the house of Israel, and the people of Judah are the vines He delighted in. He looked for justice, but saw bloodshed; for righteousness, but heard cries of distress.
 
 ---
 
@@ -36,7 +36,7 @@ Woe to those who add house to house and join field to field, until there is no s
 
 ## Isaiah 5:9
 
-The Lord Almighty has declared in my hearing: “Many houses will become desolate, even great and fine ones, without occupants.
+The Lord of hosts has declared in my hearing: “Many houses will become desolate, even great and fine ones, without occupants.
 
 ## Isaiah 5:10
 
@@ -50,11 +50,11 @@ Woe to those who rise early in the morning to pursue strong drink, who stay up l
 
 ## Isaiah 5:12
 
-Their banquets are accompanied by lyres and harps, by tambourines and flutes, and by wine; but they have no regard for the deeds of the Lord, nor do they consider the work of his hands.
+Their banquets are accompanied by lyres and harps, by tambourines and flutes, and by wine; but they have no regard for the deeds of the Lord, nor do they consider the work of His hands.
 
 ## Isaiah 5:13
 
-Therefore my people will go into exile for their lack of understanding; their nobles will die of hunger, and the multitude will be parched with thirst.
+Therefore My people will go into exile for their lack of understanding; their nobles will die of hunger, and the multitude will be parched with thirst.
 
 ## Isaiah 5:14
 
@@ -66,7 +66,7 @@ So people will be humbled and everyone brought low, the eyes of the haughty will
 
 ## Isaiah 5:16
 
-But the Lord Almighty will be exalted by his justice, and the holy God will show himself holy by his righteousness.
+But the Lord of hosts will be exalted by His justice, and the holy God will show Himself holy by His righteousness.
 
 ## Isaiah 5:17
 
@@ -80,7 +80,7 @@ Woe to those who drag sin along with cords of deceit, and wickedness as with car
 
 ## Isaiah 5:19
 
-to those who say, “Let God hurry, let him hasten his work so we may see it; let the plan of the Holy One of Israel approach and come to pass, so we may know it.”
+to those who say, “Let God hurry, let Him hasten His work so we may see it; let the plan of the Holy One of Israel approach and come to pass, so we may know it.”
 
 ## Isaiah 5:20
 
@@ -100,11 +100,11 @@ who acquit the guilty for a bribe, and deny justice to the innocent.
 
 ## Isaiah 5:24
 
-Therefore, as a tongue of fire consumes stubble and dry grass collapses in the flames, so their roots will decay and their blossoms blow away like dust; for they have rejected the law of the Lord Almighty and spurned the word of the Holy One of Israel.
+Therefore, as a tongue of fire consumes stubble and dry grass collapses in the flames, so their roots will decay and their blossoms blow away like dust; for they have rejected the law of the Lord of hosts and spurned the word of the Holy One of Israel.
 
 ## Isaiah 5:25
 
-Therefore the Lord’s anger burns against his people; his hand is raised and he strikes them down. The mountains shake, and their corpses lie like refuse in the streets. Yet for all this, his anger is not turned away, his hand is still upraised.
+Therefore the Lord’s anger burns against His people; His hand is raised and He strikes them down. The mountains shake, and their corpses lie like refuse in the streets. Yet for all this, His anger is not turned away, His hand is still upraised.
 
 ## Isaiah 5:26
 

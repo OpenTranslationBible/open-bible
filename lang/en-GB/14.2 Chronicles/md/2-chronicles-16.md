@@ -39,30 +39,30 @@ King Asa then gathered all Judah, and they took away the stones of Ramah and its
 ## 2 Chronicles 16:7
 
 At that time Hanani the seer came to Asa king of Judah and said to him,  
-“Because you have relied on the king of Aram and have not relied on the Lord your God,  
-therefore the army of the king of Aram has escaped from your hand.
+ “Because you have relied on the king of Aram and have not relied on the Lord your God,  
+ therefore the army of the king of Aram has escaped from your hand.
 
 ---
 
 ## 2 Chronicles 16:8
 
 Did not the Ethiopians and the Lubim possess a vast army with numerous chariots and horsemen?  
-Yet because you trusted in the Lord, He delivered them into your hands.
+ Yet because you trusted in the Lord, He delivered them into your hands.
 
 ---
 
 ## 2 Chronicles 16:9
 
 For the eyes of the Lord move throughout the earth, that He may strongly support those whose heart is fully His.  
-You have acted unwisely in this; indeed, from now on you will face wars.”
+ You have acted unwisely in this; indeed, from now on you will face wars.”
 
 ---
 
 ## 2 Chronicles 16:10
 
 Then Asa was furious with the seer and placed him in prison,  
-for he was incensed at him for this.  
-And Asa also oppressed some of the people at that time.
+ for he was incensed at him for this.  
+ And Asa also oppressed some of the people at that time.
 
 ---
 
@@ -75,7 +75,7 @@ The deeds of Asa, from beginning to end, are recorded in the Book of the Kings o
 ## 2 Chronicles 16:12
 
 In the thirty-ninth year of his reign, Asa suffered from a disease in his feet. His condition was severe,  
-yet even in his illness he did not seek the Lord, but turned to the physicians.
+ yet even in his illness he did not seek the Lord, but turned to the physicians.
 
 ---
 
@@ -88,5 +88,5 @@ So Asa lay down with his fathers. He died in the forty-first year of his reign.
 ## 2 Chronicles 16:14
 
 They buried him in his own tomb which he had cut out for himself in the city of David,  
-and they laid him on the resting place which he had filled with spices of various kinds blended by the perfumer’s art;  
-and they made a very great fire for him.
+ and they laid him on the resting place which he had filled with spices of various kinds blended by the perfumer’s art;  
+ and they made a very great fire for him.

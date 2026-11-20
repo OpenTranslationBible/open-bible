@@ -1,7 +1,7 @@
 # Genesis Chapter 23
 
 ## Genesis 23:1
-Sarah lived for one hundred and twenty-seven years; these were the years of Sarah's life.
+Sarah lived for one hundred and twenty-seven years; these were the years of Sarah’s life.
 
 ## Genesis 23:2
 Sarah passed away in Kiriath Arba (which is Hebron) in the land of Canaan, and Abraham came to mourn for Sarah and to weep for her.

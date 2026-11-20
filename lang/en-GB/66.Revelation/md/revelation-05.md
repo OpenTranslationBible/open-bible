@@ -36,15 +36,15 @@ When He had taken the scroll, the four living creatures and the twenty-four elde
 
 And they sang a new song, saying:
 
-> “You are worthy to take the scroll
-> and open its seals,
-> for You were slain, and with Your blood, You purchased for God people
-> from every tribe, language, people, and nation.
+>  “You are worthy to take the scroll and open its seals,
+>  for You were slain,
+>  and with Your blood, You purchased for God people from every tribe,
+>  language, people, and nation.
 
 ## Revelation 5:10
 
 > You have made them a kingdom and priests to serve our God,
-> and they will reign on the earth.”
+>  and they will reign on the earth.”
 
 ## Revelation 5:11
 
@@ -54,15 +54,15 @@ Then I looked and heard the voices of many angels surrounding the throne and the
 
 In a loud voice, they were saying:
 
-> “Worthy is the Lamb who was slain
-> to receive power, wealth, wisdom, might, honour, glory, and blessing!”
+>  “Worthy is the Lamb who was slain to receive power,
+>  wealth, wisdom, might, honour, glory, and blessing!”
 
 ## Revelation 5:13
 
 And I heard every creature in heaven, on earth, under the earth, and on the sea, and all that is in them, saying:
 
-> “To Him who sits on the throne and to the Lamb
-> be blessing, honour, glory, and dominion for ever and ever!”
+>  “To Him who sits on the throne and to the Lamb be blessing,
+>  honour, glory, and dominion for ever and ever!”
 
 ## Revelation 5:14
 

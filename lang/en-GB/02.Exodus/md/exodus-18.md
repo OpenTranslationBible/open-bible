@@ -66,7 +66,7 @@ When they have a dispute, it is brought to me, and I judge between the parties a
 
 ## Exodus 18:17
 
-Moses’ father-in-law spoke to him to him, and said, “What you are doing is not good.
+Moses’ father-in-law spoke to him, and said, “What you are doing is not good.
 
 ## Exodus 18:18
 

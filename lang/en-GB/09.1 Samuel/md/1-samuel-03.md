@@ -3,7 +3,7 @@
 ## 1 Samuel 3:1
 
 The boy Samuel ministered before the Lord under Eli.  
-In those days the word of the Lord was rare; visions were not widespread.
+ In those days the word of the Lord was rare; visions were not widespread.
 
 ## 1 Samuel 3:2
 
@@ -16,39 +16,39 @@ The lamp of God had not yet gone out, and Samuel was lying in the temple of the 
 ## 1 Samuel 3:4
 
 Then the Lord called out to Samuel.  
-He answered, “Here I am!”
+ He answered, “Here I am!”
 
 ## 1 Samuel 3:5
 
 He ran to Eli and said, “Here I am, for you called me.”  
-But Eli said, “I did not call you; go back and lie down.”  
-So he went and lay down.
+ But Eli said, “I did not call you; go back and lie down.”  
+ So he went and lay down.
 
 ## 1 Samuel 3:6
 
 Again the Lord called, “Samuel!”  
-Samuel got up and went to Eli and said, “Here I am, for you called me.”  
-But Eli replied, “I did not call you, my son. Go back and lie down.”
+ Samuel got up and went to Eli and said, “Here I am, for you called me.”  
+ But Eli replied, “I did not call you, my son. Go back and lie down.”
 
 ## 1 Samuel 3:7
 
-Samuel hadn't yet met with the Lord, and the word of the Lord had not been disclosed to him.
+Samuel hadn’t yet met with the Lord, and the word of the Lord had not been disclosed to him.
 
 ## 1 Samuel 3:8
 
 The Lord called Samuel a third time.  
-He got up, went to Eli, and said, “Here I am, for you called me.”  
-Then Eli understood that the Lord was calling the boy.
+ He got up, went to Eli, and said, “Here I am, for you called me.”  
+ Then Eli understood that the Lord was calling the boy.
 
 ## 1 Samuel 3:9
 
 So Eli said to Samuel, “Go and lie down, and if He calls you again, say, ‘Speak, Lord, for Your servant is listening.’”  
-So Samuel went and lay down in his place.
+ So Samuel went and lay down in his place.
 
 ## 1 Samuel 3:10
 
 The Lord came and stood nearby, calling as He had done before, “Samuel! Samuel!”  
-Then Samuel said, “Speak, for Your servant is listening.”
+ Then Samuel said, “Speak, for Your servant is listening.”
 
 ---
 
@@ -73,12 +73,12 @@ Therefore I swore to the house of Eli, ‘The guilt of Eli’s house shall never
 ## 1 Samuel 3:15
 
 Samuel lay down until morning. Then he opened the doors of the house of the Lord.  
-But Samuel was afraid to tell Eli about the vision.
+ But Samuel was afraid to tell Eli about the vision.
 
 ## 1 Samuel 3:16
 
 Eli called him and said, “Samuel, my son.”  
-Samuel answered, “Here I am.”
+ Samuel answered, “Here I am.”
 
 ## 1 Samuel 3:17
 
@@ -87,7 +87,7 @@ Samuel answered, “Here I am.”
 ## 1 Samuel 3:18
 
 So Samuel told him everything and hid nothing.  
-Then Eli said, “He is the Lord; let Him do what is good in His eyes.”
+ Then Eli said, “He is the Lord; let Him do what is good in His eyes.”
 
 ---
 

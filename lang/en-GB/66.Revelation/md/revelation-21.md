@@ -2,7 +2,7 @@
 
 ## Revelation 21:1
 
-I observed a renewed heaven and a renewed earth, for the first heaven and the first earth had passed away, and there was no longer any sea.
+I observed a new heaven and a new earth, for the first heaven and the first earth had passed away, and there was no longer any sea.
 
 ## Revelation 21:2
 
@@ -54,7 +54,7 @@ There were three gates on each side: east, north, south, and west.
 
 ## Revelation 21:14
 
-The city's wall had twelve foundations, and on them were the names of the twelve apostles of the Lamb.
+The city’s wall had twelve foundations, and on them were the names of the twelve apostles of the Lamb.
 
 ## Revelation 21:15
 

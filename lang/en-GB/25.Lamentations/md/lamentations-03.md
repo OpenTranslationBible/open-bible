@@ -104,7 +104,7 @@ The Lord shows goodness to those who place their hope in Him, to the person who 
 
 ## Lamentations 3:26
 
-It is beneficial to wait quietly for the Lord's salvation.
+It is beneficial to wait quietly for the Lord’s salvation.
 
 ## Lamentations 3:27
 
@@ -124,7 +124,7 @@ Let him offer his cheek to the one who strikes him, and let him be filled with d
 
 ## Lamentations 3:31
 
-But it is not the Lords will to reject forever.
+But it is not the Lord’s will to reject forever.
 
 ## Lamentations 3:32
 
@@ -140,11 +140,11 @@ To crush underfoot all the prisoners of the land,
 
 ## Lamentations 3:35
 
-To deny a person justice before the Most High,
+to deny a person justice before the Most High,
 
 ## Lamentations 3:36
 
-To defraud someone in their lawsuit—these things the Lord does not approve.
+to defraud someone in their lawsuit—these things the Lord does not approve.
 
 ## Lamentations 3:37
 
@@ -200,7 +200,7 @@ My eyes will flow unceasingly, without pause,
 
 ## Lamentations 3:50
 
-Until the Lord looks and sees from heaven.
+until the Lord looks and sees from heaven.
 
 ## Lamentations 3:51
 
@@ -248,7 +248,7 @@ Lord, You have been aware of their insults, all their plots against me—
 
 ## Lamentations 3:62
 
-The lips of my assailants and their whisperings are against me all day long.
+the lips of my assailants and their whisperings are against me all day long.
 
 ## Lamentations 3:63
 

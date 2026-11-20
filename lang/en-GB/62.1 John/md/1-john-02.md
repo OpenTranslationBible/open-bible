@@ -22,7 +22,7 @@ but whoever follows His word, in him the love of God has truly been perfected. B
 
 ## 1 John 2:6
 
-the one who says that he remains in Him ought, himself also, walk just as He walked.
+the one who says that he remains in Him ought, himself also, to walk just as He walked.
 
 ## 1 John 2:7
 
@@ -47,27 +47,26 @@ But the one who hates his brother or sister is in the darkness and walks in the 
 ## 1 John 2:12
 
 > I am writing to you, little children,  
-> because your sins are forgiven through His name.
+>  because your sins are forgiven through His name.
 
 ## 1 John 2:13
 
-> I am writing to you, fathers,  
-> because you know Him who has been from the beginning.  
-> I am writing to you, young men,  
-> because you have overcome the evil one.  
-> I have written to you, young men,  
-> because you have overcome the evil one.
+> I am writing to you,  
+>  fathers, because you know Him who has been from the beginning.  
+>  I am writing to you,  
+>  young men,  
+>  because you have overcome the evil one.
 
 ## 1 John 2:14
 
 > I have written to you, children,  
-> because you know the Father.  
-> I have written to you, fathers,  
-> because you know Him who has been from the beginning.  
-> I have written to you, young men,  
-> because you are strong,  
-> and the word of God remains in you,  
-> and you have overcome the evil one.
+>  because you know the Father.  
+>  I have written to you, fathers,  
+>  because you know Him who has been from the beginning.  
+>  I have written to you, young men,  
+>  because you are strong,  
+>  and the word of God remains in you,  
+>  and you have overcome the evil one.
 
 ## 1 John 2:15
 

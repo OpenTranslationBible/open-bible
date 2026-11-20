@@ -1,7 +1,7 @@
 # Galatians Chapter 1
 
 ## Galatians 1:1
-Paul, an apostle—not sent from men nor through human means, but through Jesus Christ and God the Father, who raised him from the dead—
+Paul, an apostle—not sent from men nor through human means, but through Jesus Christ and God the Father, who raised Him from the dead—
 
 ## Galatians 1:2
 and all the brothers with me, To the churches in Galatia:
@@ -10,7 +10,7 @@ and all the brothers with me, To the churches in Galatia:
 Grace and peace to you from God the Father and our Lord Jesus Christ,
 
 ## Galatians 1:4
-who gave himself for our sins to deliver us from this present evil age, according to the will of our God and Father,
+who gave Himself for our sins to deliver us from this present evil age, according to the will of our God and Father,
 
 ## Galatians 1:5
 to whom be glory for all eternity. Amen.
@@ -43,10 +43,10 @@ For you have heard of my former way of life in Judaism, how I intensely persecut
 I was advancing in Judaism beyond many of my contemporaries among my people, being extremely zealous for the traditions of my ancestors.
 
 ## Galatians 1:15
-But when he who set me apart from my mother’s womb and called me by his grace was pleased
+But when He who set me apart from my mother’s womb and called me by His grace was pleased
 
 ## Galatians 1:16
-to reveal his Son in me so that I might preach him among the Gentiles, I did not immediately consult with any human being,
+to reveal His Son in me so that I might preach Him among the Gentiles, I did not immediately consult with any human being,
 
 ## Galatians 1:17
 nor did I go up to Jerusalem to those who were apostles before me, but I went into Arabia and later returned to Damascus.

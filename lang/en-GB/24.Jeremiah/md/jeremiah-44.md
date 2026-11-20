@@ -4,7 +4,7 @@
 The message that came to Jeremiah for all the Jews residing in the land of Egypt, those dwelling in Migdol, Tahpanhes, Memphis, and the region of Pathros, saying,
 
 ## Jeremiah 44:2
-“This is what the Lord of Hosts, the God of Israel, declares: You yourselves have witnessed the disaster I brought upon Jerusalem and all the towns of Judah; they are now desolate and uninhabited,
+“This is what the Lord of hosts, the God of Israel, declares: You yourselves have witnessed the disaster I brought upon Jerusalem and all the towns of Judah; they are now desolate and uninhabited,
 
 ## Jeremiah 44:3
 because of their evil deeds which provoked Me to anger by burning sacrifices and serving other gods whom neither they, you, nor your ancestors knew.
@@ -13,13 +13,13 @@ because of their evil deeds which provoked Me to anger by burning sacrifices and
 I sent all My servants the prophets to you repeatedly, saying, ‘Do not commit this abominable act that I detest.’
 
 ## Jeremiah 44:5
-But you did not listen or incline your ears to turn from your wickedness, to cease burning sacrifices to other gods.
+But they did not listen or incline their ears to turn from their wickedness, to cease burning sacrifices to other gods.
 
 ## Jeremiah 44:6
 Therefore, My wrath and anger were poured out and burned in the cities of Judah and the streets of Jerusalem, leaving them in ruins and desolation as they are today.
 
 ## Jeremiah 44:7
-Now, this is what the Lord God of Hosts, the God of Israel, says: Why are you bringing such great harm upon yourselves, cutting off from Judah man and woman, child and infant, leaving yourselves without a remnant?
+Now, this is what the Lord God of hosts, the God of Israel, says: Why are you bringing such great harm upon yourselves, cutting off from Judah man and woman, child and infant, leaving yourselves without a remnant?
 
 ## Jeremiah 44:8
 Why do you provoke Me to anger with the works of your hands, burning sacrifices to other gods in the land of Egypt where you reside, so that you may be destroyed and become a curse and a reproach among all the nations of the earth?
@@ -31,7 +31,7 @@ Have you forgotten the wickedness of your ancestors, the wickedness of the kings
 To this day, they have not humbled themselves or shown reverence, nor have they followed My law and decrees that I set before you and your ancestors.
 
 ## Jeremiah 44:11
-Therefore, this is what the Lord of Hosts, the God of Israel, says: I am determined to bring disaster upon you and to eliminate all of Judah.
+Therefore, this is what the Lord of hosts, the God of Israel, says: I am determined to bring disaster upon you and to eliminate all of Judah.
 
 ## Jeremiah 44:12
 I will take away the remnant of Judah who have set their minds on entering Egypt to reside there, and they will all meet their end in Egypt; they will fall by the sword or perish by famine. From the least to the greatest, they will die by the sword and famine, becoming a curse, an object of horror, an imprecation, and a disgrace.
@@ -40,7 +40,7 @@ I will take away the remnant of Judah who have set their minds on entering Egypt
 I will punish those who live in Egypt with the sword, famine, and plague, just as I punished Jerusalem.
 
 ## Jeremiah 44:14
-None of the remnant of Judah who have gone to live in Egypt will escape or survive to return to the land of Judah, to which they long to return and live; none will return except a few refugees.
+None of the remnant of Judah who have gone to live in Egypt will escape or survive to return to the land of Judah, to which they long to return and live; none will return except a few refugees.”
 
 ## Jeremiah 44:15
 Then all the men who knew that their wives were burning sacrifices to other gods, along with all the women standing by—a large assembly—and all the people living in Pathros in the land of Egypt, responded to Jeremiah,
@@ -73,7 +73,7 @@ Because you have burned sacrifices and sinned against the Lord and have not obey
 Then Jeremiah said to all the people, including all the women, “Listen to the word of the Lord, all Judah who are in the land of Egypt.
 
 ## Jeremiah 44:25
-This is what the Lord of Hosts, the God of Israel, says: You and your wives have spoken with your mouths and fulfilled it with your hands, saying, ‘We will certainly perform our vows to burn sacrifices to the queen of heaven and pour out drink offerings to her.’ By all means, fulfil your vows and perform them!
+This is what the Lord of hosts, the God of Israel, says: You and your wives have spoken with your mouths and fulfilled it with your hands, saying, ‘We will certainly perform our vows to burn sacrifices to the queen of heaven and pour out drink offerings to her.’ By all means, fulfil your vows and perform them!
 
 ## Jeremiah 44:26
 But hear the word of the Lord, all Judah living in the land of Egypt: ‘I have sworn by My great name,’ says the Lord, ‘that My name shall never again be invoked by the mouth of any of Judah in all the land of Egypt, saying, “As the Lord God lives.”

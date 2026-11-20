@@ -4,7 +4,7 @@
 
 Now after this it came about that David defeated the Philistines and subdued them,
 
-> and he took Gath and its villages from the hand of the Philistines.
+>  and he took Gath and its villages from the hand of the Philistines.
 
 ---
 
@@ -12,7 +12,7 @@ Now after this it came about that David defeated the Philistines and subdued the
 
 He overcame Moab,
 
-> and the Moabites became subjects to David, offering tribute.
+>  and the Moabites became subjects to David, offering tribute.
 
 ---
 
@@ -20,7 +20,7 @@ He overcame Moab,
 
 David also defeated Hadadezer king of Zobah at Hamath,
 
-> as he went to establish his rule at the Euphrates River.
+>  as he went to establish his rule at the Euphrates River.
 
 ---
 
@@ -28,15 +28,15 @@ David also defeated Hadadezer king of Zobah at Hamath,
 
 David took from him a thousand chariots, seven thousand horsemen, and twenty thousand foot soldiers.
 
-> And David hamstrung all the chariot horses,  
-> but reserved enough of them for a hundred chariots.
+>  And David hamstrung all the chariot horses,  
+>  but reserved enough of them for a hundred chariots.
 
 ---
 
 ## 1 Chronicles 18:5
 
 When the Arameans of Damascus came to help Hadadezer king of Zobah,  
-David struck down twenty-two thousand men of the Arameans.
+ David struck down twenty-two thousand men of the Arameans.
 
 ---
 
@@ -44,8 +44,8 @@ David struck down twenty-two thousand men of the Arameans.
 
 Then David stationed garrisons among the Arameans of Damascus,
 
-> and the Arameans became subjects to David, offering tribute.  
-> And the Lord supported David in all his endeavours.
+>  and the Arameans became subjects to David, offering tribute.  
+>  And the Lord supported David in all his endeavours.
 
 ---
 
@@ -53,22 +53,22 @@ Then David stationed garrisons among the Arameans of Damascus,
 
 And David seized the shields of gold which were carried by the servants of Hadadezer,
 
-> and brought them to Jerusalem.
+>  and brought them to Jerusalem.
 
 ---
 
 ## 1 Chronicles 18:8
 
 Also from Tibhath and Cun, cities of Hadadezer,  
-David took very much bronze,
+ David took very much bronze,
 
-> with which Solomon made the bronze sea and the pillars and the bronze utensils.
+>  with which Solomon made the bronze sea and the pillars and the bronze utensils.
 
 ---
 
 ## 1 Chronicles 18:9
 
-Upon hearing of David's victory over the entire army of Hadadezer king of Zobah,
+When Tou king of Hamath heard of David’s victory over the entire army of Hadadezer king of Zobah,
 
 ---
 
@@ -76,9 +76,9 @@ Upon hearing of David's victory over the entire army of Hadadezer king of Zobah,
 
 he sent Hadoram his son to King David to greet him and to bless him,
 
-> because he had fought against Hadadezer and had defeated him  
-> (for Hadadezer had been at war with Tou).  
-> And he brought all kinds of articles of gold, silver, and bronze.
+>  because he had fought against Hadadezer and had defeated him (for Hadadezer had been at war with Tou).  
+>  And he brought all kinds of articles of gold,  
+>  silver, and bronze.
 
 ---
 
@@ -86,8 +86,8 @@ he sent Hadoram his son to King David to greet him and to bless him,
 
 King David also dedicated these to the Lord,
 
-> with the silver and the gold which he had carried away from all the nations:  
-> from Edom, Moab, the sons of Ammon, the Philistines, and Amalek.
+>  with the silver and the gold which he had carried away from all the nations:  
+>  from Edom, Moab, the sons of Ammon, the Philistines, and Amalek.
 
 ---
 
@@ -101,7 +101,7 @@ Abishai the son of Zeruiah achieved victory over eighteen thousand Edomites in t
 
 Then he stationed garrisons in Edom, and all the Edomites became subjects to David.
 
-> And the Lord supported David in all his endeavours.
+>  And the Lord supported David in all his endeavours.
 
 ---
 
@@ -109,7 +109,7 @@ Then he stationed garrisons in Edom, and all the Edomites became subjects to Dav
 
 So David reigned over all Israel;
 
-> and he ensured justice and righteousness for all his people.
+>  and he ensured justice and righteousness for all his people.
 
 ---
 
@@ -117,7 +117,7 @@ So David reigned over all Israel;
 
 Joab the son of Zeruiah was in charge of the army,
 
-> and Jehoshaphat the son of Ahilud was the recorder;
+>  and Jehoshaphat the son of Ahilud was the recorder;
 
 ---
 
@@ -125,7 +125,7 @@ Joab the son of Zeruiah was in charge of the army,
 
 Zadok the son of Ahitub and Abimelech the son of Abiathar were priests,
 
-> and Shavsha was secretary;
+>  and Shavsha was secretary;
 
 ---
 
@@ -133,4 +133,4 @@ Zadok the son of Ahitub and Abimelech the son of Abiathar were priests,
 
 Benaiah the son of Jehoiada was over the Cherethites and the Pelethites,
 
-> and the sons of David were chief officials at the king’s side.
+>  and the sons of David were chief officials at the king’s side.

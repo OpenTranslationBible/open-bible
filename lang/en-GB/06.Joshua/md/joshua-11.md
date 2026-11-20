@@ -10,7 +10,7 @@ and to the northern kings in the hill country, in the Arabah south of Chinneroth
 
 ## Joshua 11:3
 
-to the Canaanites on the east and west, the Amorites, Hittites, Perizzites, and Jebusites in the hill country, and to the Hivites below Hermon in the land of Mizpeh.
+to the Canaanites on the east and west, the Amorites, Hittites, Perizzites, and Jebusites in the hill country, and to the Hivites below Hermon in the land of Mizpah.
 
 ## Joshua 11:4
 

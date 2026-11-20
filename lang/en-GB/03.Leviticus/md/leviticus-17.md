@@ -28,10 +28,10 @@ They must no longer offer their sacrifices to the goat demons, with whom they ha
 and does not bring it to the entrance of the tent of meeting to offer it to the Lord must be cut off from their people.
 
 ## Leviticus 17:10
-I will set my face against any Israelite or any foreigner residing among them who consumes any blood, and I will cut them off from their people.
+I will set My face against any Israelite or any foreigner residing among them who consumes any blood, and I will cut them off from their people.
 
 ## Leviticus 17:11
-For the life of a creature is in the blood, and I have given it to you to make atonement for your souls on the altar; it is the blood that makes atonement for one's life.
+For the life of a creature is in the blood, and I have given it to you to make atonement for your souls on the altar; it is the blood that makes atonement for one’s life.
 
 ## Leviticus 17:12
 Therefore I say to the Israelites: “None of you may consume blood, nor may any foreigner residing among you consume blood.”
@@ -46,4 +46,4 @@ because the life of every creature is in its blood. That is why I have said to t
 Anyone, whether native-born or foreigner, who eats anything found dead or torn by wild animals must wash their clothes and bathe with water, and they will remain ceremonially unclean until evening; then they will be clean.
 
 ## Leviticus 17:16
-But if they do not wash their clothes and bathe themselves, they will bear the responsibility for their guilt.
+But if they do not wash their clothes and bathe themselves, they will bear the responsibility for their guilt.’”

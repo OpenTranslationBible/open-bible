@@ -62,7 +62,7 @@ For I am about to summon all the peoples of the northern kingdoms,” declares t
 
 ## Jeremiah 1:16
 
-I will pronounce my judgments on them because of their wickedness in forsaking me, in burning incense to other gods and in worshipping what their hands have made.
+I will pronounce My judgments on them because of their wickedness in forsaking Me, in burning incense to other gods and in worshipping what their hands have made.
 
 ## Jeremiah 1:17
 

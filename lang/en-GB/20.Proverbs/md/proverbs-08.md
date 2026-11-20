@@ -10,7 +10,7 @@ On the heights along the way, where the paths meet, she takes her stand;
 
 ## Proverbs 8:3
 
-Beside the gates leading into the city, at the entrance, she cries out:
+beside the gates leading into the city, at the entrance, she cries out:
 
 ## Proverbs 8:4
 
@@ -54,7 +54,7 @@ For wisdom is more valuable than rubies, and nothing you desire can equal her.
 
 To fear the Lord is to hate evil; I hate pride, arrogance, the evil way,
 
-> and perverse speech.
+>  and perverse speech.
 
 ## Proverbs 8:14
 
@@ -122,18 +122,17 @@ when He made firm the skies above and fixed securely the fountains of the deep,
 
 when He set a boundary for the sea so that the waters would not overstep His command,
 
-> and when He marked out the foundations of the earth.
+>  and when He marked out the foundations of the earth.
 
 ## Proverbs 8:30
 
 Then I was beside Him, as a master craftsman; I was His delight day after day,
 
-> rejoicing always in His presence,
+>  rejoicing always in His presence,
 
 ## Proverbs 8:31
 
-> finding joy in His creation
-> and taking pleasure in humanity.
+> finding joy in His creation and taking pleasure in humanity.
 
 ---
 

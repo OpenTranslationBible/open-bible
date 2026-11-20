@@ -82,7 +82,7 @@ The poor are shunned even by their neighbour, but the rich have many friends.
 
 ## Proverbs 14:21
 
-It is a sin to despise one's neighbour, but blessed is the one who is kind to the poor.
+It is a sin to despise one’s neighbour, but blessed is the one who is kind to the poor.
 
 ## Proverbs 14:22
 
@@ -110,7 +110,7 @@ The fear of the Lord is a fountain of life, turning one away from the snares of 
 
 ## Proverbs 14:28
 
-The multitude of a nation is a king's honour, but a prince is undone when he has no followers.
+The multitude of a nation is a king’s honour, but a prince is undone when he has no followers.
 
 ## Proverbs 14:29
 
@@ -134,7 +134,7 @@ Wisdom rests in the heart of the discerning, but even among fools, she is made k
 
 ## Proverbs 14:34
 
-Righteousness exalts up a nation, but sin brings disgrace to any people.
+Righteousness exalts a nation, but sin brings disgrace to any people.
 
 ## Proverbs 14:35
 

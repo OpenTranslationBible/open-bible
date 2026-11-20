@@ -78,7 +78,7 @@ After this, he will turn back towards the fortresses of his own land but will st
 
 ## Daniel 11:20
 
-His successor will send out an official to collect taxes to maintain the royal splendour. In a few years, however, he will be destroyed, yet not in anger or in battle.
+His successor will send out an official to collect taxes to maintain the royal splendour. Within a few days, however, he will be destroyed, yet not in anger or in battle.
 
 ## Daniel 11:21
 
@@ -118,7 +118,7 @@ At the appointed time he will invade the South again, but this time the outcome 
 
 ## Daniel 11:30
 
-Ships from the western regions will oppose him, and he will lose heart. Then he will turn back and vent his fury against the sacred covenant. He will return and show favour to those who forsake the sacred covenant.
+Ships of Kittim will oppose him, and he will lose heart. Then he will turn back and vent his fury against the sacred covenant. He will return and show favour to those who forsake the sacred covenant.
 
 ## Daniel 11:31
 
@@ -174,7 +174,7 @@ He will gain control of the treasures of gold and silver and all the riches of E
 
 ## Daniel 11:44
 
-But the reports from the east and the north will alarm him, instead he will set out in fury: to destroy and annihilate many.
+But the reports from the east and the north will alarm him, and he will set out in fury to destroy and annihilate many.
 
 ## Daniel 11:45
 

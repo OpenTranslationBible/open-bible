@@ -74,7 +74,7 @@ These were the families of the sons of Gad, and those counted were 40,500.
 
 ## Numbers 26:19
 
-Judah's sons were Er and Onan, but they died in the land of Canaan.
+Judah’s sons were Er and Onan, but they died in the land of Canaan.
 
 ## Numbers 26:20
 
@@ -130,7 +130,7 @@ from Shemida, the family of the Shemidaites; from Hepher, the family of the Heph
 
 ## Numbers 26:33
 
-Zelophehad, the son of Hepher, had no sons, only daughters; and the names of Zelophehad's daughters were Mahlah, Noah, Hoglah, Milcah, and Tirzah.
+Zelophehad, the son of Hepher, had no sons, only daughters; and the names of Zelophehad’s daughters were Mahlah, Noah, Hoglah, Milcah, and Tirzah.
 
 ## Numbers 26:34
 
@@ -222,7 +222,7 @@ Ensure that the land is distributed by lot. What each group inherits will be acc
 
 ## Numbers 26:56
 
-The inheritance is to be distributed by lot among the larger and smaller groups.
+The inheritance is to be distributed by lot among the larger and smaller groups.”
 
 ## Numbers 26:57
 
@@ -238,7 +238,7 @@ The name of Amram’s wife was Jochebed, a daughter of Levi, who was born to the
 
 ## Numbers 26:60
 
-Aaron's sons were Nadab and Abihu, Eleazar and Ithamar.
+Aaron’s sons were Nadab and Abihu, Eleazar and Ithamar.
 
 ## Numbers 26:61
 

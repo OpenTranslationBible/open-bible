@@ -1,7 +1,7 @@
 # Leviticus Chapter 16
 
 ## Leviticus 16:1
-The Lord spoke to Moses following the death of Aaron's two sons, who died after approaching the presence of the Lord.
+The Lord spoke to Moses following the death of Aaron’s two sons, who died after approaching the presence of the Lord.
 
 ## Leviticus 16:2
 The Lord instructed Moses: “Tell your brother Aaron that he must not enter the Holy Place behind the veil, before the atonement cover on the ark, at just any time, or he will die; for I appear in the cloud over the atonement cover.

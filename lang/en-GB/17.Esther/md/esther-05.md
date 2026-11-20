@@ -46,7 +46,7 @@ Nevertheless, Haman restrained himself and went home.
 
 ---
 
-He called together his friends and Zeresh, his wife,
+ He called together his friends and Zeresh, his wife,
 
 ## Esther 5:11
 

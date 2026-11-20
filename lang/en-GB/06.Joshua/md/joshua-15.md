@@ -126,7 +126,7 @@ Eltolad, and Chesil, and the settlement of Hormah,
 
 ## Joshua 15:31
 
-Ziklag, and, Madmannah and the settlement of Sansannah,
+Ziklag, and Madmannah, and the settlement of Sansannah,
 
 ## Joshua 15:32
 
@@ -148,7 +148,7 @@ Jarmuth, and Adullam, and Socoh, and the settlement of Azekah,
 
 ## Joshua 15:36
 
-Shaaraim, Adithaim, Gederah, and Gederothaim —fourteen towns along with their villages.
+Shaaraim, Adithaim, Gederah, and Gederothaim—fourteen towns along with their villages.
 
 ---
 
@@ -170,7 +170,7 @@ Cabbon, and Lahmas, and the settlement of Chitlish,
 
 ## Joshua 15:41
 
-Gederoth, Beth-dagon, Naamah, and Makkedah —sixteen towns along with their villages.
+Gederoth, Beth-dagon, Naamah, and Makkedah—sixteen towns along with their villages.
 
 ---
 
@@ -184,7 +184,7 @@ Iphtah, and Ashnah, and the settlement of Nezib,
 
 ## Joshua 15:44
 
-Keilah, and Achzib, and Mareshah —nine towns along with their villages.
+Keilah, and Achzib, and Mareshah—nine towns along with their villages.
 
 ---
 
@@ -216,7 +216,7 @@ Anab, and Eshtemoh, and the settlement of Anim,
 
 ## Joshua 15:51
 
-Goshen, and Holon, and Giloh —eleven towns along with their villages.
+Goshen, and Holon, and Giloh—eleven towns along with their villages.
 
 ---
 
@@ -230,7 +230,7 @@ Janum, Beth-tappuah, and the settlement of Aphekah,
 
 ## Joshua 15:54
 
-Humtah, Kiriath-arba (that is, Hebron), and Zior —nine towns along with their villages.
+Humtah, Kiriath-arba (that is, Hebron), and Zior—nine towns along with their villages.
 
 ---
 
@@ -244,7 +244,7 @@ Jezreel, and Jokdeam, and the settlement of Zanoah,
 
 ## Joshua 15:57
 
-Kain, and Gibeah, and the settlement of Timnah —ten towns along with their villages.
+Kain, and Gibeah, and the settlement of Timnah—ten towns along with their villages.
 
 ## Joshua 15:58
 
@@ -252,11 +252,11 @@ Halhul, and Beth-zur, and the settlement of Gedor,
 
 ## Joshua 15:59
 
-Maarath, Beth-anoth, and Eltekon —six towns along with their villages.
+Maarath, Beth-anoth, and Eltekon—six towns along with their villages.
 
 ## Joshua 15:60
 
-Kiriath-baal (that is, Kiriath-jearim) and Rabbah —two towns along with their villages.
+Kiriath-baal (that is, Kiriath-jearim) and Rabbah—two towns along with their villages.
 
 ## Joshua 15:61
 
@@ -264,7 +264,7 @@ In the desert region: Beth-arabah, Middin, and Secacah,
 
 ## Joshua 15:62
 
-Nibshan, the City of Salt, and Engedi —six cities, towns along with their villages.
+Nibshan, the City of Salt, and Engedi—six towns along with their villages.
 
 ## Joshua 15:63
 

@@ -30,7 +30,7 @@ But only you and your sons shall serve as priests in relation to everything at t
 
 ## Numbers 18:8
 
-Then the Lord said to Aaron, “I have put you in charge of my offerings; all the holy gifts the Israelites present to me, I give to you and your sons as your portion, a permanent share.
+Then the Lord said to Aaron, “I have put you in charge of My offerings; all the holy gifts the Israelites present to Me, I give to you and your sons as your portion, a permanent share.
 
 ## Numbers 18:9
 
@@ -74,7 +74,7 @@ Their meat shall be yours, just as the breast of the wave offering and the right
 
 ## Numbers 18:19
 
-All the offerings of the holy gifts, which the Israelites present to the Lord, I give to you and your sons and daughters as a perpetual share. It is an everlasting covenant of salt before the Lord for both you and your descendants.
+All the offerings of the holy gifts, which the Israelites present to the Lord, I give to you and your sons and daughters as a perpetual share. It is an everlasting covenant of salt before the Lord for both you and your descendants.”
 
 ## Numbers 18:20
 

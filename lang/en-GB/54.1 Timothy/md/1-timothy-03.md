@@ -64,9 +64,9 @@ but in case I am delayed, I write so that you will know how one should conduct h
 
 Without question, the mystery of godliness is profound:
 
-> He who was revealed in the flesh,  
-> Was justified in the Spirit,  
-> Seen by angels,  
-> Proclaimed among the nations,  
-> And believed in throughout the world,  
-> Taken up in glory.
+>  He who was revealed in the flesh,  
+>  was justified in the Spirit,  
+>  seen by angels,  
+>  proclaimed among the nations,  
+>  and believed in throughout the world,  
+>  taken up in glory.

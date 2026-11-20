@@ -4,7 +4,7 @@
 This is the word of the Lord that reached Jeremiah the prophet regarding the nations:
 
 ## Jeremiah 46:2
-Concerning Egypt: This is the message about the army of Pharaoh Necho king of Egypt, which was defeated at Carchemish on the Euphrates River by Nebuchadnezzar king of Babylon in the fourth year of Jehoiakim son of Josiah, king of Judah:
+Concerning Egypt: This is the message about the army of Pharaoh Neco king of Egypt, which was defeated at Carchemish on the Euphrates River by Nebuchadnezzar king of Babylon in the fourth year of Jehoiakim son of Josiah, king of Judah:
 
 ## Jeremiah 46:3
 “Prepare the buckler and shield, and advance to the battle!
@@ -28,7 +28,7 @@ Egypt rises like the Nile, like rivers whose waters surge. She says, ‘I will r
 Charge, you horses! Drive wildly, you charioteers! March on, you warriors—men of Cush and Put who carry shields, men of Lydia who draw the bow.
 
 ## Jeremiah 46:10
-For that day belongs to the Lord, the Lord Almighty—a day of vengeance, to avenge Himself on His foes. The sword will devour and be satisfied, and drink its fill of blood. For the Lord, the Lord Almighty, will offer sacrifice in the land of the north by the River Euphrates.
+For that day belongs to the Lord, the Lord of hosts—a day of vengeance, to avenge Himself on His foes. The sword will devour and be satisfied, and drink its fill of blood. For the Lord, the Lord of hosts, will offer sacrifice in the land of the north by the River Euphrates.
 
 ## Jeremiah 46:11
 “Go up to Gilead and get balm, Virgin Daughter Egypt. You have used many remedies in vain; there is no healing for you.
@@ -52,7 +52,7 @@ They will stumble repeatedly; indeed, they will fall over each other. They will 
 There they will exclaim, ‘Pharaoh king of Egypt is nothing but a loud noise; he has missed his opportunity.’
 
 ## Jeremiah 46:18
-“As surely as I live,” declares the King, whose name is the Lord of Hosts, “one will come who is like Tabor among the mountains, or like Carmel by the sea.
+“As surely as I live,” declares the King, whose name is the Lord of hosts, “one will come who is like Tabor among the mountains, or like Carmel by the sea.
 
 ## Jeremiah 46:19
 Pack your belongings for exile, you who live in Egypt, for Memphis will become a desolation, laid waste without inhabitant.
@@ -73,13 +73,13 @@ They will fell her forest,” says the Lord, “dense though it be. They are mor
 Daughter Egypt will be put to shame, delivered into the hands of the people of the north.”
 
 ## Jeremiah 46:25
-The Lord Almighty, the God of Israel, says: “I am about to bring judgment on Amon god of Thebes, on Pharaoh, on Egypt and her gods and her kings, and on those who rely on Pharaoh.
+The Lord of hosts, the God of Israel, says: “I am about to bring judgment on Amon god of Thebes, on Pharaoh, on Egypt and her gods and her kings, and on those who rely on Pharaoh.
 
 ## Jeremiah 46:26
 I will give them into the hands of those who seek their lives—Nebuchadnezzar king of Babylon and his officers. Later, however, Egypt will be inhabited as in times past,” declares the Lord.
 
 ## Jeremiah 46:27
-“But as for you, Jacob my servant, do not be afraid, nor be dismayed, Israel. I will surely save you from far away, and your descendants from the land of their captivity. Jacob will return and have peace and security, with no one making him afraid.
+“But as for you, Jacob My servant, do not be afraid, nor be dismayed, Israel. I will surely save you from far away, and your descendants from the land of their captivity. Jacob will return and have peace and security, with no one making him afraid.
 
 ## Jeremiah 46:28
-Do not fear, Jacob my servant, for I am with you,” declares the Lord. “Though I completely destroy all the nations among which I scatter you, I will not completely destroy you. I will discipline you but only in due measure; I will not let you go entirely unpunished.”
+Do not fear, Jacob My servant, for I am with you,” declares the Lord. “Though I completely destroy all the nations among which I scatter you, I will not completely destroy you. I will discipline you but only in due measure; I will not let you go entirely unpunished.”

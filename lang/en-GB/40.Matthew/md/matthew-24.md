@@ -124,12 +124,12 @@ Wherever there is a corpse, there the vultures will gather.
 
 ## Matthew 24:29
 
-“Immediately after the tribulation of those days
+“Immediately after the tribulation of those days ‘the sun will be darkened,
 
-> ‘the sun will be darkened,
-> and the moon will not give its light;
-> the stars will fall from the sky,
-> and the heavenly bodies will be shaken.’
+>  and the moon will not give its light;
+>  the stars will fall from the sky,
+>  and the heavenly bodies will be shaken.
+> ’
 
 ## Matthew 24:30
 
@@ -225,4 +225,4 @@ The master of that servant will arrive on a day when he is not expected and at a
 
 ## Matthew 24:51
 
-He will punish him severely and assign him a place with the hypocrites, where there will be weeping and gnashing of teeth.
+He will cut him to pieces and assign him a place with the hypocrites, where there will be weeping and gnashing of teeth.

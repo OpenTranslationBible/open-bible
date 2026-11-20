@@ -58,7 +58,7 @@ On that day, the Lord exalted Joshua in the sight of all Israel, and they revere
 
 ## Joshua 4:15
 
-Then the Lord spoke to Joshua, and said
+Then the Lord spoke to Joshua, and said,
 
 ## Joshua 4:16
 

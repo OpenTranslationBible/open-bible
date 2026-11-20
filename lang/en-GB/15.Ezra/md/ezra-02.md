@@ -172,8 +172,8 @@ They came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilsha
 
 The gatekeepers of the temple:
 
-> the line of Shallum, Ater, Talmon,
-> Akkub, Hatita, and Shobai, 139.
+>  the line of Shallum, Ater, Talmon,
+>  Akkub, Hatita, and Shobai, 139.
 
 ---
 
@@ -181,7 +181,7 @@ The gatekeepers of the temple:
 
 The temple servants:
 
-> the line of Ziha, Hasupha, Tabbaoth,
+>  the line of Ziha, Hasupha, Tabbaoth,
 
 ## Ezra 2:44
 
@@ -233,7 +233,7 @@ The temple servants:
 
 The descendants of the servants of Solomon:
 
-the descendants of Sotai, Hassophereth, and Peruda,
+ the descendants of Sotai, Hassophereth, and Peruda,
 
 ## Ezra 2:56
 
@@ -241,7 +241,7 @@ the descendants of Sotai, Hassophereth, and Peruda,
 
 ## Ezra 2:57
 
-> Shephatiah, Hattil, and Pokereth-Hazzebaim, and Ami.
+> Shephatiah, Hattil, Pochereth-Hazzebaim, and Ami.
 
 ## Ezra 2:58
 
@@ -249,7 +249,7 @@ The temple servants and the descendants of the servants of Solomon totaled 392.
 
 ## Ezra 2:59
 
-These were the ones who came up from Tel Melah, Tel Harsha, Cherub, Addon, and Immer, but they could not prove their families were descended from Israel:
+These were the ones who came up from Tel Melah, Tel Harsha, Cherub, Addan, and Immer, but they could not prove their families were descended from Israel:
 
 ## Ezra 2:60
 
@@ -259,9 +259,8 @@ The families of Delaiah, Tobiah, and Nekoda, 652.
 
 And from among the priests:
 
-> the descendants of Hobaiah, Hakkoz, and Barzillai,
-> who had married a daughter of Barzillai the Gileadite
-> and was called by their name.
+>  the descendants of Hobaiah, Hakkoz, and Barzillai,
+>  who had married a daughter of Barzillai the Gileadite and was called by their name.
 
 ## Ezra 2:62
 

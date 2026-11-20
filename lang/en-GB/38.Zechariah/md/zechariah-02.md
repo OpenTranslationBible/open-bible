@@ -22,16 +22,16 @@ For I,’ declares the Lord, ‘will be a wall of fire around her, and I will be
 “Come, Zion! Escape, you who dwell with Daughter Babylon!”
 
 ## Zechariah 2:8
-For this is what the Lord of Hosts says: “After glory has sent me against the nations that have plundered you—for whoever touches you touches the apple of His eye—
+For this is what the Lord of hosts says: “After glory has sent Me against the nations that have plundered you—for whoever touches you touches the apple of His eye—
 
 ## Zechariah 2:9
-I will surely wave my hand over them so that their slaves will plunder them. Then you will know that the Lord of Hosts has sent me.
+I will surely wave My hand over them so that their slaves will plunder them. Then you will know that the Lord of hosts has sent Me.
 
 ## Zechariah 2:10
 “Shout for joy and be glad, Daughter Zion. For behold, I am coming, and I will dwell among you,” declares the Lord.
 
 ## Zechariah 2:11
-“Many nations will join themselves to the Lord on that day and will become my people. I will dwell among you, and you will know that the Lord of Hosts has sent me to you.
+“Many nations will join themselves to the Lord on that day and will become My people. I will dwell among you, and you will know that the Lord of hosts has sent Me to you.
 
 ## Zechariah 2:12
 The Lord will take possession of Judah as His share in the holy land and will once more choose Jerusalem.

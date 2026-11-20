@@ -38,7 +38,7 @@ The Lord God called out to the man, asking, “Where are you?”
 
 ## Genesis 3:10
 
-He replied, “I heard you in the garden, and I was afraid because I was naked; so I hid myself.”
+He replied, “I heard You in the garden, and I was afraid because I was naked; so I hid myself.”
 
 ## Genesis 3:11
 
@@ -46,7 +46,7 @@ And He said, “Who said to you that you were naked? Have you eaten from the tre
 
 ## Genesis 3:12
 
-The man said, “The woman you placed with me —she gave me some fruit from the tree, and I ate it.”
+The man said, “The woman You placed with me—she gave me some fruit from the tree, and I ate it.”
 
 ## Genesis 3:13
 

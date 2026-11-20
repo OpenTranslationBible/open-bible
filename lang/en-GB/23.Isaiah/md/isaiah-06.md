@@ -30,7 +30,7 @@ He touched my mouth with it and said, “See, this has touched your lips; your g
 
 ## Isaiah 6:8
 
-Then I heard the voice of the Lord saying, “Whom shall I send, and who will go for us?” And I said, “Here I am. Send me!”
+Then I heard the voice of the Lord saying, “Whom shall I send, and who will go for Us?” And I said, “Here I am. Send me!”
 
 ## Isaiah 6:9
 

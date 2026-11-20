@@ -3,12 +3,12 @@
 ## 1 Peter 1:1
 
 From Peter, an apostle of Jesus Christ,  
-To those living as strangers, dispersed throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, who have been chosen
+ To those living as strangers, dispersed throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, who have been chosen
 
 ## 1 Peter 1:2
 
-in accordance with the foreknowledge of God the Father, through the sanctifying work of the Spirit, to obey Jesus Christ and be cleansed by His blood:  
-May grace and peace be abundantly yours.
+in accordance with the foreknowledge of God the Father, through the sanctifying work of the Spirit, to obey Jesus Christ and be sprinkled with His blood:  
+ May grace and peace be abundantly yours.
 
 ## 1 Peter 1:3
 
@@ -80,7 +80,7 @@ but with precious blood, as of a lamb without blemish and spotless, the blood of
 
 ## 1 Peter 1:20
 
-For He was known before the foundation of the world, but has appeared in these last times for your sake
+For He was known before the foundation of the world, but has appeared in these last times for your sake.
 
 ## 1 Peter 1:21
 
@@ -98,13 +98,13 @@ for you have been born again not of perishable seed, but imperishable, through t
 
 For,
 
-> “All humanity is like grass,  
-> And all its splendour is like the flower of grass.  
-> The grass withers,  
-> And the flower falls away,
+>  “All humanity is like grass,  
+>  and all its splendour is like the flower of grass.  
+>  The grass withers,  
+>  and the flower falls away,
 
 ## 1 Peter 1:25
 
-> But the word of the Lord remains forever.”
+> but the word of the Lord remains forever.”
 
-And this is the word that was proclaimed to you.
+ And this is the word that was proclaimed to you.

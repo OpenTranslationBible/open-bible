@@ -2,13 +2,13 @@
 
 ## 2 Chronicles 12:1
 
-When Rehoboam's kingdom was established and became strong, he and all Israel with him turned away from the law of the Lord.
+When Rehoboam’s kingdom was established and became strong, he and all Israel with him turned away from the law of the Lord.
 
 ---
 
 ## 2 Chronicles 12:2
 
-In the fifth year of King Rehoboam's reign, because they had been unfaithful to the Lord, Shishak, king of Egypt, advanced against Jerusalem.
+In the fifth year of King Rehoboam’s reign, because they had been unfaithful to the Lord, Shishak, king of Egypt, advanced against Jerusalem.
 
 ---
 

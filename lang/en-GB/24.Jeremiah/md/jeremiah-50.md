@@ -31,7 +31,7 @@ For I am stirring up and bringing against Babylon an assembly of great nations f
 Chaldea will be plundered; all who plunder her will have their fill,” declares the Lord.
 
 ## Jeremiah 50:11
-“Because you rejoice and are jubilant, you who plunder my inheritance, because you frolic like a threshing heifer and neigh like stallions,
+“Because you rejoice and are jubilant, you who plunder My inheritance, because you frolic like a threshing heifer and neigh like stallions,
 
 ## Jeremiah 50:12
 your mother will be greatly ashamed; she who bore you will be humiliated. She will become the least of the nations, a wilderness, a parched land, a desert.
@@ -52,7 +52,7 @@ Cut off the sower from Babylon, and the one who wields the sickle at harvest tim
 “Israel is a scattered flock, driven away by lions. The first to devour them was the king of Assyria; the last to gnaw their bones was Nebuchadnezzar king of Babylon.”
 
 ## Jeremiah 50:18
-Therefore, this is what the Lord of Hosts, the God of Israel, says: “I will punish the king of Babylon and his land as I punished the king of Assyria.
+Therefore, this is what the Lord of hosts, the God of Israel, says: “I will punish the king of Babylon and his land as I punished the king of Assyria.
 
 ## Jeremiah 50:19
 And I will bring Israel back to their pasture, and they will graze on Carmel and Bashan; their appetite will be satisfied on the hills of Ephraim and Gilead.
@@ -73,7 +73,7 @@ How the mighty hammer of the whole earth has been cut off and broken! How Babylo
 I laid a snare for you, Babylon, and you were caught before you knew it; you were found and captured because you opposed the Lord.
 
 ## Jeremiah 50:25
-The Lord has opened His armoury and brought out the weapons of His wrath, for the Sovereign Lord of Hosts has work to do in the land of the Chaldeans.
+The Lord has opened His armoury and brought out the weapons of His wrath, for the Sovereign Lord of hosts has work to do in the land of the Chaldeans.
 
 ## Jeremiah 50:26
 Come against her from the farthest border. Open her storehouses; pile her up like heaps of grain and completely destroy her, leaving no remnant.
@@ -91,16 +91,16 @@ Hear the fugitives and refugees from Babylon proclaiming in Zion how the Lord ou
 Therefore, her young men will fall in her streets; all her soldiers will be silenced in that day,” declares the Lord.
 
 ## Jeremiah 50:31
-“Behold, I am against you, you arrogant one,” declares the Lord, the Lord of Hosts, “for your day has come, the time when I will punish you.
+“Behold, I am against you, you arrogant one,” declares the Lord, the Lord of hosts, “for your day has come, the time when I will punish you.
 
 ## Jeremiah 50:32
 The arrogant one will stumble and fall with no one to raise her up; I will kindle a fire in her towns that will consume all her surroundings.”
 
 ## Jeremiah 50:33
-This is what the Lord of Hosts says: “The people of Israel are oppressed, and the people of Judah as well. All their captors hold them fast, refusing to let them go.
+This is what the Lord of hosts says: “The people of Israel are oppressed, and the people of Judah as well. All their captors hold them fast, refusing to let them go.
 
 ## Jeremiah 50:34
-Yet their Redeemer is strong; the Lord of Hosts is His name. He will vigorously defend their cause so that He may bring rest to their land, but unrest to those who live in Babylon.
+Yet their Redeemer is strong; the Lord of hosts is His name. He will vigorously defend their cause so that He may bring rest to their land, but unrest to those who live in Babylon.
 
 ## Jeremiah 50:35
 “A sword against the Chaldeans!” declares the Lord—“against those who live in Babylon and against her officials and wise men!
@@ -109,7 +109,7 @@ Yet their Redeemer is strong; the Lord of Hosts is His name. He will vigorously 
 A sword against her oracle priests! They will become fools. A sword against her warriors! They will be filled with terror.
 
 ## Jeremiah 50:37
-A sword against her horses and chariots and all the foreigners in her ranks! They will become feeble. A sword against her treasures! They will be plundered.
+A sword against her horses and chariots and all the foreigners in her ranks! They will become like women. A sword against her treasures! They will be plundered.
 
 ## Jeremiah 50:38
 A drought on her waters! They will dry up. For it is a land of idols, and they go mad with terror.

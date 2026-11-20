@@ -44,7 +44,7 @@ Do not move an ancient boundary stone or encroach upon the fields of the fatherl
 
 ## Proverbs 23:11
 
-for their Defender is strong; he will take up their cause against you.
+for their Defender is strong; He will take up their cause against you.
 
 ## Proverbs 23:12
 

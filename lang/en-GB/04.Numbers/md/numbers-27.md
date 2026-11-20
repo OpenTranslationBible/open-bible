@@ -2,7 +2,7 @@
 
 ## Numbers 27:1
 
-The daughters of Zelophehad, son of Hepher, son of Gilead, son of Makir, son of Manasseh, from the families of Manasseh, son of Joseph, came forward. The names of the daughters were Mahlah, Noah, Hoglah, Milcah, and Tirzah.
+The daughters of Zelophehad, son of Hepher, son of Gilead, son of Machir, son of Manasseh, from the families of Manasseh, son of Joseph, came forward. The names of the daughters were Mahlah, Noah, Hoglah, Milcah, and Tirzah.
 
 ## Numbers 27:2
 
@@ -14,7 +14,7 @@ They stood before Moses, Eleazar the priest, the leaders, and the entire assembl
 
 ## Numbers 27:4
 
-Why should our father's name vanish from his family because he had no son? Grant us property among our father's relatives.”
+Why should our father’s name vanish from his family because he had no son? Grant us property among our father’s relatives.”
 
 ## Numbers 27:5
 
@@ -26,7 +26,7 @@ The Lord then spoke to Moses, saying,
 
 ## Numbers 27:7
 
-“The daughters of Zelophehad speak rightly. You shall indeed give them an inheritance among their father's brothers and transfer their father's inheritance to them.
+“The daughters of Zelophehad speak rightly. You shall indeed give them an inheritance among their father’s brothers and transfer their father’s inheritance to them.
 
 ## Numbers 27:8
 
@@ -38,7 +38,7 @@ But if there is no daughter, allocate his inheritance to his brothers.
 
 ## Numbers 27:10
 
-If he has no brothers, assign his inheritance to his father's brothers.
+If he has no brothers, assign his inheritance to his father’s brothers.
 
 ## Numbers 27:11
 
@@ -54,7 +54,7 @@ Once you have seen it, you will join your ancestors, just as your brother Aaron 
 
 ## Numbers 27:14
 
-because you rebelled against my command at the waters of Meribah in the Desert of Zin, failing to uphold my holiness before the Israelites.” (These are the waters of Meribah of Kadesh in the Desert of Zin.)
+because you rebelled against My command at the waters of Meribah in the Desert of Zin, failing to uphold My holiness before the Israelites.” (These are the waters of Meribah of Kadesh in the Desert of Zin.)
 
 ## Numbers 27:15
 
@@ -66,7 +66,7 @@ Moses then spoke to the Lord,
 
 ## Numbers 27:17
 
-one who will lead them out and bring them in, so the Lord’s people will not be like sheep without a shepherd.”
+one who will go out and come in before them, and who will lead them out and bring them in, so the Lord’s people will not be like sheep without a shepherd.”
 
 ## Numbers 27:18
 

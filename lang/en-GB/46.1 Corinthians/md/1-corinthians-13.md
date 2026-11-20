@@ -22,11 +22,11 @@ It is not rude, it is not self-seeking; it is not easily angered, it keeps no re
 
 ## 1 Corinthians 13:6
 
-It does not delight in evil, but rejoices with the truth;
+it does not delight in evil, but rejoices with the truth;
 
 ## 1 Corinthians 13:7
 
-It always protects, always trusts, always hopes, and always perseveres.
+it always protects, always trusts, always hopes, and always perseveres.
 
 ## 1 Corinthians 13:8
 
@@ -38,7 +38,7 @@ For we know partially and prophesy partially;
 
 ## 1 Corinthians 13:10
 
-But when completeness comes, what is partial will disappear.
+but when completeness comes, what is partial will disappear.
 
 ## 1 Corinthians 13:11
 

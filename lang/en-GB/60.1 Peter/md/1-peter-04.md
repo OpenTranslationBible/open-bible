@@ -70,10 +70,9 @@ For it is time for judgment to begin with the household of God; and if it starts
 
 ## 1 Peter 4:18
 
-And
+And if it is with difficulty that the righteous is saved,
 
-> if it is with difficulty that the righteous is saved,
-> what will become of the godless person and the sinner?
+>  what will become of the godless person and the sinner?
 
 ## 1 Peter 4:19
 

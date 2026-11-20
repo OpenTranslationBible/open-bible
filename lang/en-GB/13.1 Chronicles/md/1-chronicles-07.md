@@ -4,7 +4,7 @@
 
 Now the sons of Issachar were:
 
-> Tola, Puah, Jashub, and Shimron—four in all.
+>  Tola, Puah, Jashub, and Shimron—four in all.
 
 ---
 
@@ -12,27 +12,27 @@ Now the sons of Issachar were:
 
 The sons of Tola were:
 
-> Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Samuel—heads of their fathers’ households.  
-> To Tola’s descendants were assigned fighting men in their generations,  
-> their number in the days of David was twenty-two thousand six hundred.
+>  Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Shemuel—heads of their fathers’ households.  
+>  To Tola’s descendants were assigned fighting men in their generations,  
+>  their number in the days of David was twenty-two thousand six hundred.
 
 ---
 
 ## 1 Chronicles 7:3
 
 The son of Uzzi was Izrahiah.  
-And the sons of Izrahiah were:
+ And the sons of Izrahiah were:
 
-> Michael, Obadiah, Joel, and Isshiah—five in all,  
-> all of them chief men.
+>  Michael, Obadiah, Joel, and Isshiah—five in all,  
+>  all of them chief men.
 
 ---
 
 ## 1 Chronicles 7:4
 
-Together with their descendants, according to their fathers' households, they had thirty-six thousand troops for battle,
+Together with their descendants, according to their fathers’ households, they had thirty-six thousand troops for battle,
 
-> as they had many wives and sons.
+>  as they had many wives and sons.
 
 ---
 
@@ -40,8 +40,8 @@ Together with their descendants, according to their fathers' households, they ha
 
 Their relatives among all the families of Issachar,
 
-> mighty men of valour,  
-> were recorded by genealogy—eighty-seven thousand in all.
+>  mighty men of valour,  
+>  were recorded by genealogy—eighty-seven thousand in all.
 
 ---
 
@@ -49,7 +49,7 @@ Their relatives among all the families of Issachar,
 
 The sons of Benjamin were:
 
-> Bela, Becher, and Jediael—three.
+>  Bela, Becher, and Jediael—three.
 
 ---
 
@@ -57,36 +57,36 @@ The sons of Benjamin were:
 
 The sons of Bela were:
 
-> Ezbon, Uzzi, Uzziel, Jerimoth, and Iri—five;  
-> they were heads of fathers’ households, mighty men of valour,  
-> and were recorded by genealogy—twenty-two thousand thirty-four.
+>  Ezbon, Uzzi, Uzziel, Jerimoth, and Iri—five;  
+>  they were heads of fathers’ households, mighty men of valour,  
+>  and were recorded by genealogy—twenty-two thousand thirty-four.
 
 ---
 
 ## 1 Chronicles 7:8
 
-Becher's sons included:
+Becher’s sons included:
 
-> Zemirah, Joash, Eliezer, Elioenai, Omri, Jeremoth, Abijah, Anathoth, and Alemeth.  
-> These were all the sons of Becher.
+>  Zemirah, Joash, Eliezer, Elioenai, Omri, Jeremoth, Abijah, Anathoth, and Alemeth.  
+>  These were all the sons of Becher.
 
 ---
 
 ## 1 Chronicles 7:9
 
 They were recorded by genealogy according to their generations,  
-heads of their fathers’ households, mighty men of valour—
+ heads of their fathers’ households,
 
-> twenty thousand two hundred.
+>  mighty men of valour—twenty thousand two hundred.
 
 ---
 
 ## 1 Chronicles 7:10
 
-Jediael's son was Bilhan.  
-And Bilhan's sons were:
+Jediael’s son was Bilhan.  
+ And Bilhan’s sons were:
 
-> Jeush, Benjamin, Ehud, Chenaanah, Zethan, Tarshish, and Ahishahar.
+>  Jeush, Benjamin, Ehud, Chenaanah, Zethan, Tarshish, and Ahishahar.
 
 ---
 
@@ -94,8 +94,8 @@ And Bilhan's sons were:
 
 All these were sons of Jediael,
 
-> according to the heads of their fathers’ households,  
-> seventeen thousand two hundred mighty men of valour, ready to go out with the army to war.
+>  according to the heads of their fathers’ households,  
+>  seventeen thousand two hundred mighty men of valour, ready to go out with the army to war.
 
 ---
 
@@ -103,7 +103,7 @@ All these were sons of Jediael,
 
 Shuppim and Huppim were sons of Ir;
 
-> Hushim was a descendant of Aher.
+>  Hushim was a descendant of Aher.
 
 ---
 
@@ -111,7 +111,7 @@ Shuppim and Huppim were sons of Ir;
 
 The sons of Naphtali were:
 
-> Jahziel, Guni, Jezer, and Shallum—sons of Bilhah.
+>  Jahziel, Guni, Jezer, and Shallum—sons of Bilhah.
 
 ---
 
@@ -119,8 +119,8 @@ The sons of Naphtali were:
 
 The sons of Manasseh were:
 
-> Asriel, whom his Aramean concubine bore;  
-> she gave birth to Machir the father of Gilead.
+>  Asriel, whom his Aramean concubine bore;  
+>  she gave birth to Machir the father of Gilead.
 
 ---
 
@@ -128,9 +128,9 @@ The sons of Manasseh were:
 
 Machir took a wife for Huppim and Shuppim,
 
-> and their sister was named Maacah.  
-> The second was named Zelophehad,  
-> and Zelophehad had daughters.
+>  and their sister was named Maacah.  
+>  The second was named Zelophehad,  
+>  and Zelophehad had daughters.
 
 ---
 
@@ -138,19 +138,19 @@ Machir took a wife for Huppim and Shuppim,
 
 Maacah, the wife of Machir, bore a son,
 
-> whom she named Peresh;  
-> and his brother was Sheresh.  
-> His sons were:
+>  whom she named Peresh;  
+>  and his brother was Sheresh.  
+>  His sons were:
 
-> Ulam and Rakem.
+>  Ulam and Rakem.
 
 ---
 
 ## 1 Chronicles 7:17
 
-Ulam's son was Bedan.
+Ulam’s son was Bedan.
 
-> These were the descendants of Gilead, the son of Machir, the son of Manasseh.
+>  These were the descendants of Gilead, the son of Machir, the son of Manasseh.
 
 ---
 
@@ -158,7 +158,7 @@ Ulam's son was Bedan.
 
 Hammolecheth, his sister, became the mother of:
 
-> Ishhod, Abiezer, and Mahlah.
+>  Ishhod, Abiezer, and Mahlah.
 
 ---
 
@@ -166,7 +166,7 @@ Hammolecheth, his sister, became the mother of:
 
 The descendants of Shemida included:
 
-> Ahian, Shechem, Likhi, and Aniam.
+>  Ahian, Shechem, Likhi, and Aniam.
 
 ---
 
@@ -174,15 +174,15 @@ The descendants of Shemida included:
 
 The sons of Ephraim were:
 
-> Shuthelah, and Bered his son, and Tahath his son,  
-> and Eleadah his son, and Tahath his son,
+>  Shuthelah, and Bered his son, and Tahath his son,  
+>  and Eleadah his son, and Tahath his son,
 
 ## 1 Chronicles 7:21
 
 > and Zabad his son, and Shuthelah his son,  
-> and Ezer and Elead.  
-> But the men of Gath who were born in the land killed them,  
-> because they came down to take their livestock.
+>  and Ezer and Elead.  
+>  But the men of Gath who were born in the land killed them,  
+>  because they came down to take their livestock.
 
 ---
 
@@ -190,7 +190,7 @@ The sons of Ephraim were:
 
 Their father Ephraim mourned for many days,
 
-> and his relatives came to console him.
+>  and his relatives came to console him.
 
 ---
 
@@ -198,7 +198,7 @@ Their father Ephraim mourned for many days,
 
 Then he went to his wife, and she conceived and bore a son,
 
-> whom he named Beriah, because misfortune had come upon his house.
+>  whom he named Beriah, because misfortune had come upon his house.
 
 ---
 
@@ -206,7 +206,7 @@ Then he went to his wife, and she conceived and bore a son,
 
 His daughter was Sheerah,
 
-> who established Lower and Upper Beth-horon, and Uzzen-sheerah.
+>  who established Lower and Upper Beth-horon, and Uzzen-sheerah.
 
 ---
 
@@ -214,7 +214,7 @@ His daughter was Sheerah,
 
 Rephah was his son,
 
-> along with Resheph, Telah who fathered, Tahan who fathered,
+>  along with Resheph, Telah who fathered, Tahan who fathered,
 
 ## 1 Chronicles 7:26
 
@@ -230,9 +230,9 @@ Rephah was his son,
 
 Their possessions and settlements were:
 
-> Bethel with its villages,  
-> and to the east Naaran, and to the west Gezer with its villages,  
-> also Shechem with its villages, as far as Ayyah with its villages.
+>  Bethel with its villages,  
+>  and to the east Naaran, and to the west Gezer with its villages,  
+>  also Shechem with its villages, as far as Ayyah with its villages.
 
 ---
 
@@ -240,8 +240,8 @@ Their possessions and settlements were:
 
 And along the borders of the sons of Manasseh:
 
-> Beth-shean, Taanach, Megiddo, and Dor, with their villages.  
-> In these lived the sons of Joseph the son of Israel.
+>  Beth-shean, Taanach, Megiddo, and Dor, with their villages.  
+>  In these lived the sons of Joseph the son of Israel.
 
 ---
 
@@ -249,8 +249,8 @@ And along the borders of the sons of Manasseh:
 
 The sons of Asher were:
 
-> Imnah, Ishvah, Ishvi, and Beriah,  
-> and their sister Serah.
+>  Imnah, Ishvah, Ishvi, and Beriah,  
+>  and their sister Serah.
 
 ---
 
@@ -258,32 +258,32 @@ The sons of Asher were:
 
 The sons of Beriah were:
 
-> Heber and Malchiel, who became the father of Birzaith.
+>  Heber and Malchiel, who became the father of Birzaith.
 
 ---
 
 ## 1 Chronicles 7:32
 
-Heber's children were:
+Heber’s children were:
 
-> Japhlet, Shomer, Hotham, and their sister Shua.
+>  Japhlet, Shomer, Hotham, and their sister Shua.
 
 ---
 
 ## 1 Chronicles 7:33
 
-Japhlet's sons were:
+Japhlet’s sons were:
 
-> Pasach, Bimhal, and Ashvath.  
-> These were Japhlet's descendants.
+>  Pasach, Bimhal, and Ashvath.  
+>  These were Japhlet’s descendants.
 
 ---
 
 ## 1 Chronicles 7:34
 
-Shemer's sons were:
+Shemer’s sons were:
 
-> Ahi, Rohgah, Jehubbah, and Aram.
+>  Ahi, Rohgah, Jehubbah, and Aram.
 
 ---
 
@@ -291,15 +291,15 @@ Shemer's sons were:
 
 The sons of his brother Helem included:
 
-> Zophah, Imna, Shelesh, and Amal.
+>  Zophah, Imna, Shelesh, and Amal.
 
 ---
 
 ## 1 Chronicles 7:36
 
-Zophah's sons included:
+Zophah’s sons included:
 
-> Suah, Harnepher, Shual, Beri, Imrah,
+>  Suah, Harnepher, Shual, Beri, Imrah,
 
 ## 1 Chronicles 7:37
 
@@ -309,17 +309,17 @@ Zophah's sons included:
 
 ## 1 Chronicles 7:38
 
-Jether's sons included:
+Jether’s sons included:
 
-> Jephunneh, Pispa, and Ara.
+>  Jephunneh, Pispa, and Ara.
 
 ---
 
 ## 1 Chronicles 7:39
 
-Ulla's sons included:
+Ulla’s sons included:
 
-> Arah, Hanniel, and Rizia.
+>  Arah, Hanniel, and Rizia.
 
 ---
 
@@ -327,6 +327,5 @@ Ulla's sons included:
 
 All of these were the sons of Asher,
 
-> heads of the fathers’ households, choice and mighty men of valour, chief of the princes.  
-> And the number of them enrolled by genealogy for service in war was  
-> twenty-six thousand men.
+>  heads of the fathers’ households, choice and mighty men of valour, chief of the princes.  
+>  And the number of them enrolled by genealogy for service in war was twenty-six thousand men.

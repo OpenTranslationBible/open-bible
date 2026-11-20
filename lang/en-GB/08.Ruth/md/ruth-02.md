@@ -2,7 +2,7 @@
 
 ## Ruth 2:1
 
-Now Naomi had a relative on her husband's side, a man of great wealth from the family of Elimelech, whose name was Boaz.
+Now Naomi had a relative on her husband’s side, a man of great wealth from the family of Elimelech, whose name was Boaz.
 
 ## Ruth 2:2
 
@@ -80,7 +80,7 @@ Her mother-in-law asked her, “Where did you glean today? Where did you work? B
 
 ## Ruth 2:20
 
-Naomi said to her daughter-in-law, “May he be blessed by the Lord, who has not withdrawn his kindness from the living and the dead.” She added, “That man is our close relative; he is one of our redeemers.”
+Naomi said to her daughter-in-law, “May he be blessed by the Lord, who has not withdrawn His kindness from the living and the dead.” She added, “That man is our close relative; he is one of our redeemers.”
 
 ## Ruth 2:21
 

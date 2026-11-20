@@ -10,7 +10,7 @@ and proclaiming, “Repent, for the kingdom of heaven is near.”
 
 ## Matthew 3:3
 
-This is the one mentioned by the prophet Isaiah: “A voice of one calling in the wilderness, ‘Prepare the way for the Lord, make straight in the desert a highway for our God.’”
+This is the one mentioned by the prophet Isaiah: “A voice of one calling in the wilderness, ‘Prepare the way for the Lord, make straight paths for Him.’”
 
 ## Matthew 3:4
 
@@ -46,7 +46,7 @@ The axe is already at the root of the trees, and every tree that does not bear g
 
 ## Matthew 3:12
 
-His winnowing fork is in his hand, and he will thoroughly clear his threshing floor, gathering his wheat into the barn and burning up the chaff with unquenchable fire.”
+His winnowing fork is in His hand, and He will thoroughly clear His threshing floor, gathering His wheat into the barn and burning up the chaff with unquenchable fire.”
 
 ---
 
@@ -56,7 +56,7 @@ At that time, Jesus travelled from Galilee to the Jordan to be baptised by John.
 
 ## Matthew 3:14
 
-But John tried to prevent him, saying, “I need to be baptised by you, and do you come to me?”
+But John tried to prevent Him, saying, “I need to be baptised by You, and do You come to me?”
 
 ## Matthew 3:15
 
@@ -64,8 +64,8 @@ Jesus answered him, “Let it be so now; it is fitting for us to fulfil all righ
 
 ## Matthew 3:16
 
-As soon as Jesus was baptised, he came up from the water. At that moment, the heavens were opened, and he saw the Spirit of God descending like a dove and settling on him.
+As soon as Jesus was baptised, He came up from the water. At that moment, the heavens were opened, and He saw the Spirit of God descending like a dove and settling on Him.
 
 ## Matthew 3:17
 
-And a voice from heaven said, “This is my beloved Son, with whom I am well pleased.”
+And a voice from heaven said, “This is My beloved Son, with whom I am well pleased.”

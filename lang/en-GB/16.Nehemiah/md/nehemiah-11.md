@@ -18,15 +18,15 @@ Some of the sons of Judah and Benjamin resided in Jerusalem.
 
 ---
 
-From the sons of Judah:
+ From the sons of Judah:
 
-> Athaiah son of Uzziah, son of Zechariah, son of Amariah,
-> son of Shephatiah, son of Mahalalel, of the lineage of Perez;
+>  Athaiah son of Uzziah, son of Zechariah, son of Amariah,
+>  son of Shephatiah, son of Mahalalel, of the lineage of Perez;
 
 ## Nehemiah 11:5
 
 > and Maaseiah son of Baruch, son of Kol-Hozeh, son of Hazaiah, son of Adaiah,
-> son of Joiarib, son of Zechariah, a descendant of Shelah.
+>  son of Joiarib, son of Zechariah, a descendant of Shelah.
 
 ## Nehemiah 11:6
 
@@ -44,11 +44,11 @@ and those with him, Gabbai and Sallai—928 men.
 
 ## Nehemiah 11:9
 
-Joel son of Zikri was their chief officer, and Judah son of Hassenuah was second in command over the city.
+Joel son of Zichri was their chief officer, and Judah son of Hassenuah was second in command over the city.
 
 ## Nehemiah 11:10
 
-Among the priests were Jedaiah son of Joiarib, and Jakin;
+Among the priests were Jedaiah son of Joiarib, and Jachin;
 
 ## Nehemiah 11:11
 
@@ -56,7 +56,7 @@ Seraiah son of Hilkiah, son of Meshullam, son of Zadok, son of Meraioth, son of 
 
 ## Nehemiah 11:12
 
-and their associates who performed the work of the temple—822 men; Adaiah son of Jeroham, son of Pelaliah, son of Amzi, son of Zechariah, son of Pashhur, son of Malkijah,
+and their associates who performed the work of the temple—822 men; Adaiah son of Jeroham, son of Pelaliah, son of Amzi, son of Zechariah, son of Pashhur, son of Malchijah,
 
 ## Nehemiah 11:13
 
@@ -76,7 +76,7 @@ Shabbethai and Jozabad, leaders among the Levites, who were responsible for the 
 
 ## Nehemiah 11:17
 
-Mattaniah son of Mika, son of Zabdi, son of Asaph, the leader who began the thanksgiving in prayer; Bakbukiah, second among his brethren; and Abda son of Shammua, son of Galal, son of Jeduthun.
+Mattaniah son of Mica, son of Zabdi, son of Asaph, the leader who began the thanksgiving in prayer; Bakbukiah, second among his brethren; and Abda son of Shammua, son of Galal, son of Jeduthun.
 
 ## Nehemiah 11:18
 
@@ -96,7 +96,7 @@ The temple servants resided on the hill of Ophel, with Ziha and Gishpa overseein
 
 ## Nehemiah 11:22
 
-The chief officer of the Levites in Jerusalem was Uzzi son of Bani, son of Hashabiah, son of Mattaniah, son of Mika, from the descendants of Asaph, who were the singers responsible for the service of the house of God.
+The chief officer of the Levites in Jerusalem was Uzzi son of Bani, son of Hashabiah, son of Mattaniah, son of Mica, from the descendants of Asaph, who were the singers responsible for the service of the house of God.
 
 ## Nehemiah 11:23
 

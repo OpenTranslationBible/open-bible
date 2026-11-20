@@ -19,10 +19,10 @@ Then I said, “Place a clean turban on his head.” So they placed a clean turb
 The angel of the Lord delivered this command to Joshua:
 
 ## Zechariah 3:7
-“This is what the Lord of hosts says: ‘If you will walk in my ways and keep my charge, then you will govern my house and have charge of my courts, and I will give you access among these who stand here.
+“This is what the Lord of hosts says: ‘If you will walk in My ways and keep My charge, then you will govern My house and have charge of My courts, and I will give you access among these who stand here.
 
 ## Zechariah 3:8
-“‘Listen, High Priest Joshua, you and your companions seated before you, who are men symbolic of things to come: I am going to bring my servant, the Branch.
+“‘Listen, High Priest Joshua, you and your companions seated before you, who are men symbolic of things to come: I am going to bring My servant, the Branch.
 
 ## Zechariah 3:9
 See, the stone I have set before Joshua! On that one stone are seven eyes, and I will engrave an inscription on it,’ says the Lord of hosts, ‘and I will remove the iniquity of this land in a single day.

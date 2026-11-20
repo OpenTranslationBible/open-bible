@@ -10,7 +10,7 @@ Your riches have decayed, and your garments have become moth-eaten.
 Your gold and silver have rusted, and their rust will serve as evidence against you and will consume your flesh like fire. You have amassed wealth in the last days.
 
 ## James 5:4
-Behold, the wages you have withheld from the labourers who mowed your fields cry out against you; the cries of the harvesters have reached the ears of the Lord of Hosts.
+Behold, the wages you have withheld from the labourers who mowed your fields cry out against you; the cries of the harvesters have reached the ears of the Lord of hosts.
 
 ## James 5:5
 You have indulged in luxury and pleasure on the earth; you have fattened your hearts for the day of slaughter.
@@ -19,10 +19,10 @@ You have indulged in luxury and pleasure on the earth; you have fattened your he
 You have condemned and killed the righteous person; he does not resist you.
 
 ## James 5:7
-Therefore, be patient, brothers and sisters, until the Lord's coming. Consider how the farmer waits for the precious yield of the soil, patiently waiting for the early and late rains.
+Therefore, be patient, brothers and sisters, until the Lord’s coming. Consider how the farmer waits for the precious yield of the soil, patiently waiting for the early and late rains.
 
 ## James 5:8
-You too must be patient and strengthen your hearts, for the Lord's coming is near.
+You too must be patient and strengthen your hearts, for the Lord’s coming is near.
 
 ## James 5:9
 Do not grumble against one another, brothers and sisters, so that you may not be judged. Behold, the Judge is standing at the door.
@@ -31,10 +31,10 @@ Do not grumble against one another, brothers and sisters, so that you may not be
 Take, as an example of suffering and patience, brothers and sisters, the prophets who spoke in the name of the Lord.
 
 ## James 5:11
-Indeed, we consider those blessed who have endured. You have heard of Job's endurance and have seen the outcome of the Lord's dealings, that the Lord is full of compassion and mercy.
+Indeed, we consider those blessed who have endured. You have heard of Job’s endurance and have seen the outcome of the Lord’s dealings, that the Lord is full of compassion and mercy.
 
 ## James 5:12
-Above all, my brothers and sisters, do not swear, either by heaven or by earth or with any other oath. Let your "Yes" be yes, and your "No" be no, so that you may not fall under condemnation.
+Above all, my brothers and sisters, do not swear, either by heaven or by earth or with any other oath. Let your “Yes” be yes, and your “No” be no, so that you may not fall under condemnation.
 
 ## James 5:13
 Is anyone among you suffering? Let them pray. Is anyone cheerful? Let them sing praises.

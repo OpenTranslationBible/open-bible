@@ -72,7 +72,7 @@ When he had finished speaking, he threw away the jawbone, and he named the place
 
 ## Judges 15:18
 
-Feeling very thirsty, he called upon the Lord and said, “You have granted this great victory to your servant. Must I now die of thirst and fall into the hands of the uncircumcised?”
+Feeling very thirsty, he called upon the Lord and said, “You have granted this great victory to Your servant. Must I now die of thirst and fall into the hands of the uncircumcised?”
 
 ## Judges 15:19
 

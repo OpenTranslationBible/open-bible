@@ -10,13 +10,13 @@ This is what the Lord instructed me: “Craft a yoke with straps and bars and pl
 Send a message to the kings of Edom, Moab, Ammon, Tyre, and Sidon through the envoys who have arrived in Jerusalem to see Zedekiah, king of Judah.
 
 ## Jeremiah 27:4
-Direct them to deliver this to their masters: ‘This is what the Lord of Hosts, the God of Israel, declares: “Relay this to your masters:
+Direct them to deliver this to their masters: ‘This is what the Lord of hosts, the God of Israel, declares: “Relay this to your masters:
 
 ## Jeremiah 27:5
-With my immense power and outstretched arm, I created the earth, mankind, and the animals that dwell upon it, and I grant it to whomever I choose.
+With My immense power and outstretched arm, I created the earth, mankind, and the animals that dwell upon it, and I grant it to whomever I choose.
 
 ## Jeremiah 27:6
-Now I have handed over all these lands to Nebuchadnezzar, king of Babylon, my servant, and I have also made the animals of the field subject to him.
+Now I have handed over all these lands to Nebuchadnezzar, king of Babylon, My servant, and I have also made the animals of the field subject to him.
 
 ## Jeremiah 27:7
 All nations shall serve him, his son, and his grandson, until the time comes for his own land; then many nations and great kings will subjugate him.
@@ -43,7 +43,7 @@ Why should you and your people die by the sword, famine, and plague, as the Lord
 Do not listen to the words of the prophets who say to you, ‘You will not serve the king of Babylon,’ for they are prophesying falsehoods to you.
 
 ## Jeremiah 27:15
-‘I have not sent them,’ declares the Lord. ‘They are prophesying falsely in my name. Consequently, I will drive you away and you will perish, along with the prophets who prophesy to you.’”
+‘I have not sent them,’ declares the Lord. ‘They are prophesying falsely in My name. Consequently, I will drive you away and you will perish, along with the prophets who prophesy to you.’”
 
 ## Jeremiah 27:16
 Then I addressed the priests and all the people, saying, “This is what the Lord says: Do not listen to the prophets who claim, ‘Very soon now the articles from the Lord’s house will be returned from Babylon.’ They are prophesying falsehoods to you.
@@ -52,16 +52,16 @@ Then I addressed the priests and all the people, saying, “This is what the Lor
 Do not heed them. Serve the king of Babylon, and you will live. Why should this city become desolate?
 
 ## Jeremiah 27:18
-If they are indeed prophets and have the word of the Lord, let them plead with the Lord of Hosts that the articles remaining in the house of the Lord, the palace of the king of Judah, and in Jerusalem not be taken to Babylon.
+If they are indeed prophets and have the word of the Lord, let them plead with the Lord of hosts that the articles remaining in the house of the Lord, the palace of the king of Judah, and in Jerusalem not be taken to Babylon.
 
 ## Jeremiah 27:19
-For this is what the Lord of Hosts says concerning the pillars, the bronze Sea, the movable stands, and the other articles that are left in this city,
+For this is what the Lord of hosts says concerning the pillars, the bronze Sea, the movable stands, and the other articles that are left in this city,
 
 ## Jeremiah 27:20
 which Nebuchadnezzar, king of Babylon, left behind when he exiled Jeconiah, son of Jehoiakim, king of Judah, from Jerusalem to Babylon, along with all the nobles of Judah and Jerusalem—
 
 ## Jeremiah 27:21
-Yes, this is what the Lord of Hosts, the God of Israel, says concerning the items remaining in the house of the Lord, the palace of the king of Judah, and in Jerusalem:
+yes, this is what the Lord of hosts, the God of Israel, says concerning the items remaining in the house of the Lord, the palace of the king of Judah, and in Jerusalem:
 
 ## Jeremiah 27:22
 ‘They will be taken to Babylon and will remain there until the day I attend to them,’ declares the Lord. ‘Then I will bring them back and restore them to this place.’”

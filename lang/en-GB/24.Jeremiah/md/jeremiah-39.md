@@ -46,10 +46,10 @@ sent and had Jeremiah brought out of the courtyard of the guard. They entrusted 
 While Jeremiah was confined in the courtyard of the guard, the word of the Lord came to him:
 
 ## Jeremiah 39:16
-“Go and tell Ebed-Melech the Cushite, ‘This is what the Lord Almighty, the God of Israel, says: I am about to bring my words upon this city—words of disaster, not prosperity. They will be fulfilled before your eyes.
+“Go and tell Ebed-Melech the Cushite, ‘This is what the Lord of hosts, the God of Israel, says: I am about to bring My words upon this city—words of disaster, not prosperity. They will be fulfilled before your eyes.
 
 ## Jeremiah 39:17
 But I will rescue you on that day, declares the Lord; you will not be handed over to those you fear.
 
 ## Jeremiah 39:18
-I will surely save you; you will not fall by the sword but will escape with your life, because you have trusted in me, declares the Lord.’”
+I will surely save you; you will not fall by the sword but will escape with your life, because you have trusted in Me, declares the Lord.’”

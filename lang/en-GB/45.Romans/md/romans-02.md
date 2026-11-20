@@ -6,19 +6,19 @@ Therefore, you have no excuse, whoever you are, when you pass judgment on others
 
 ## Romans 2:2
 
-And we know that God's judgment against those who do such things is according to truth.
+And we know that God’s judgment against those who do such things is according to truth.
 
 ## Romans 2:3
 
-So when you, a mere human, pass judgment on them and yet do the same things, do you think you will escape God's judgment?
+So when you, a mere human, pass judgment on them and yet do the same things, do you think you will escape God’s judgment?
 
 ## Romans 2:4
 
-Or do you disregard the riches of His kindness, forbearance, and patience, not realising that God's kindness is meant to lead you to repentance?
+Or do you disregard the riches of His kindness, forbearance, and patience, not realising that God’s kindness is meant to lead you to repentance?
 
 ## Romans 2:5
 
-But because of your stubbornness and unrepentant heart, you are storing up wrath for yourself on the day of wrath when God's righteous judgment will be revealed.
+But because of your stubbornness and unrepentant heart, you are storing up wrath for yourself on the day of wrath when God’s righteous judgment will be revealed.
 
 ## Romans 2:6
 
@@ -52,7 +52,7 @@ Everyone who has sinned without the Law will also face destruction without the L
 
 ## Romans 2:13
 
-For it is not those who merely hear the Law who are righteous in God's sight, but those who act upon the Law will be justified.
+For it is not those who merely hear the Law who are righteous in God’s sight, but those who act upon the Law will be justified.
 
 ## Romans 2:14
 
@@ -64,7 +64,7 @@ They show that the requirements of the Law are written on their hearts, their co
 
 ## Romans 2:16
 
-This will take place on the day when God judges people's secrets through Christ Jesus, as my gospel declares.
+This will take place on the day when God judges people’s secrets through Christ Jesus, as my gospel declares.
 
 ---
 
@@ -98,7 +98,7 @@ You who take pride in the Law, do you dishonour God by breaking the Law?
 
 ## Romans 2:24
 
-As it is written: "Because of you, God's name is blasphemed among the Gentiles."
+As it is written: “Because of you, God’s name is blasphemed among the Gentiles.”
 
 ---
 
@@ -108,7 +108,7 @@ Circumcision has value if you observe the Law, but if you break the Law, it is a
 
 ## Romans 2:26
 
-So if those who are not circumcised keep the Law's requirements, will they not be regarded as though they were circumcised?
+So if those who are not circumcised keep the Law’s requirements, will they not be regarded as though they were circumcised?
 
 ## Romans 2:27
 
@@ -120,4 +120,4 @@ A person is not a Jew who is one only outwardly, nor is circumcision only outwar
 
 ## Romans 2:29
 
-No, a person is a Jew who is one inwardly; and circumcision is circumcision of the heart, by the Spirit, not by the letter. Such a person's praise is not from others, but from God.
+No, a person is a Jew who is one inwardly; and circumcision is circumcision of the heart, by the Spirit, not by the letter. Such a person’s praise is not from others, but from God.

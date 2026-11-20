@@ -116,7 +116,7 @@ They did not understand that He was speaking to them about His Father.
 
 ## John 8:28
 
-So Jesus said, “When the Father has lifted up the Son of Man, then you will know and understand that I am He - and that I do nothing on My own, but speak only what the Father has taught Me.
+So Jesus said, “When you have lifted up the Son of Man, then you will know and understand that I am He—and that I do nothing on My own, but speak only what the Father has taught Me.
 
 ## John 8:29
 
@@ -138,7 +138,7 @@ Then you will come to know the truth, and the truth shall set you free.”
 
 ## John 8:33
 
-They responded, “We are Abraham’s descendants and have never been slaves of anyone. How can you say that we shall be set free?”
+They responded, “We are Abraham’s descendants and have never been slaves of anyone. How can You say that we shall be set free?”
 
 ## John 8:34
 
@@ -202,7 +202,7 @@ Whoever is of God hears the words of God. The reason you do not hear is that you
 
 ## John 8:48
 
-The Jews answered Him, “Aren’t we right in saying that you are a Samaritan and have a demon?”
+The Jews answered Him, “Aren’t we right in saying that You are a Samaritan and have a demon?”
 
 ## John 8:49
 
@@ -210,7 +210,7 @@ The Jews answered Him, “Aren’t we right in saying that you are a Samaritan a
 
 ## John 8:50
 
-But I do not seek my own glory; because there is one who does seek it, and He is the judge.
+But I do not seek My own glory; there is one who does seek it, and He is the judge.
 
 ## John 8:51
 
@@ -218,15 +218,15 @@ Truly, truly I tell you, whoever obeys My word will never see death.”
 
 ## John 8:52
 
-At this they exclaimed, “Now we know that you have a demon! Abraham died and so did the prophets, yet you say that whoever obeys your word will never taste death.
+At this they exclaimed, “Now we know that You have a demon! Abraham died and so did the prophets, yet You say that whoever obeys Your word will never taste death.
 
 ## John 8:53
 
-Are you more important than our father Abraham? Even he passed away and died, and so did all the prophets. So who do you claim to be?”
+Are You more important than our father Abraham? Even he passed away and died, and so did all the prophets. So who do You claim to be?”
 
 ## John 8:54
 
-Jesus replied, “If I glorify Myself, My glory means nothing. It is my Father, whom you claim as your God, who glorifies Me.
+Jesus replied, “If I glorify Myself, My glory means nothing. It is My Father, whom you claim as your God, who glorifies Me.
 
 ## John 8:55
 
@@ -238,7 +238,7 @@ Your father Abraham was overjoyed at the prospect of seeing My day; he saw it an
 
 ## John 8:57
 
-“You are not even fifty years old,” they said to Him, “and say you have seen Abraham!”
+“You are not even fifty years old,” they said to Him, “and say You have seen Abraham!”
 
 ## John 8:58
 

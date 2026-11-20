@@ -50,7 +50,7 @@ The prince among them will load his belongings on his shoulder in the dark and g
 
 ## Ezekiel 12:13
 
-I will spread my net for him, and he will be caught in my snare. I will bring him to Babylon in the land of the Chaldeans, yet he will not see it, and there he will die.
+I will spread My net for him, and he will be caught in My snare. I will bring him to Babylon in the land of the Chaldeans, yet he will not see it, and there he will die.
 
 ## Ezekiel 12:14
 
@@ -58,7 +58,7 @@ I will scatter to the winds all who are around him—his staff and all his troop
 
 ## Ezekiel 12:15
 
-They will Recognise that I am the Lord when I disperse them among the nations and scatter them through the countries.
+They will recognise that I am the Lord when I disperse them among the nations and scatter them through the countries.
 
 ## Ezekiel 12:16
 
@@ -110,4 +110,4 @@ Additionally, another message from the Lord reached me,
 
 ## Ezekiel 12:28
 
-Therefore say to them, ‘This is what the Sovereign Lord says: None of my words will be delayed any longer. Whatever word I speak will be performed,’ declares the Sovereign Lord.”
+Therefore say to them, ‘This is what the Sovereign Lord says: None of My words will be delayed any longer. Whatever word I speak will be performed,’ declares the Sovereign Lord.”

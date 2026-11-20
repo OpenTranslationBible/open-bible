@@ -2,17 +2,17 @@
 
 ## Matthew 19:1
 
-When Jesus had finished these words, he departed from Galilee and went into the region of Judea beyond the Jordan.
+When Jesus had finished these words, He departed from Galilee and went into the region of Judea beyond the Jordan.
 
 ## Matthew 19:2
 
-A great number of people followed him, and he gave healing to them there.
+A great number of people followed Him, and He gave healing to them there.
 
 ---
 
 ## Matthew 19:3
 
-Some Pharisees approached him, testing him and asking, “Is it lawful for a man to divorce his wife for any reason?”
+Some Pharisees approached Him, testing Him and asking, “Is it lawful for a man to divorce his wife for any reason?”
 
 ## Matthew 19:4
 
@@ -28,7 +28,7 @@ Thus, they are no longer two, but now one flesh. Therefore, what God has joined,
 
 ## Matthew 19:7
 
-They asked him, “Why then did Moses command that a man give his wife a certificate of divorce and send her away?”
+They asked Him, “Why then did Moses command that a man give his wife a certificate of divorce and send her away?”
 
 ## Matthew 19:8
 
@@ -42,7 +42,7 @@ I say to you, anyone who divorces his wife, except for unfaithfulness, and marri
 
 ## Matthew 19:10
 
-The disciples said to him, “If this is the situation between a man and his wife, it is better not to marry.”
+The disciples said to Him, “If this is the situation between a man and his wife, it is better not to marry.”
 
 ## Matthew 19:11
 
@@ -56,41 +56,41 @@ For there are eunuchs who were born that way, and there are eunuchs who were mad
 
 ## Matthew 19:13
 
-Then children were brought to him for him to place his hands on them and pray, but the disciples rebuked them.
+Then children were brought to Him for Him to place His hands on them and pray, but the disciples rebuked them.
 
 ## Matthew 19:14
 
-Jesus said, “Let the children come to me, and do not hinder them, for the kingdom of heaven belongs to such as these.”
+Jesus said, “Let the children come to Me, and do not hinder them, for the kingdom of heaven belongs to such as these.”
 
 ## Matthew 19:15
 
-After placing his hands on them, he departed from there.
+After placing His hands on them, He departed from there.
 
 ---
 
 ## Matthew 19:16
 
-And someone came to him and asked, “Teacher, what good thing must I do to obtain eternal life?”
+And someone came to Him and asked, “Teacher, what good thing must I do to obtain eternal life?”
 
 ## Matthew 19:17
 
-He replied, “Why do you ask me about what is good? There is only One who is good. If you want to enter life, keep the commandments.”
+He replied, “Why do you ask Me about what is good? There is only One who is good. If you want to enter life, keep the commandments.”
 
 ## Matthew 19:18
 
-“Which ones?” he inquired. Jesus answered, “You shall not murder, you shall not commit adultery, you shall not steal, you shall not give false testimony,
+“Which ones?” he inquired. Jesus answered, “‘You shall not murder, you shall not commit adultery, you shall not steal, you shall not give false testimony,
 
 ## Matthew 19:19
 
-respect your father and mother, and care for your neighbour as yourself.”
+honour your father and mother, and love your neighbour as yourself.’”
 
 ## Matthew 19:20
 
-The young man said to him, “I have observed all these. What do I still lack?”
+The young man said to Him, “I have observed all these. What do I still lack?”
 
 ## Matthew 19:21
 
-Jesus said to him, “If you want to be perfect, go, sell your possessions and give to the poor, and you will have treasure in heaven. Then come, follow me.”
+Jesus said to him, “If you want to be perfect, go, sell your possessions and give to the poor, and you will have treasure in heaven. Then come, follow Me.”
 
 ## Matthew 19:22
 
@@ -100,7 +100,7 @@ When the young man heard this, he went away grieving, for he had great wealth.
 
 ## Matthew 19:23
 
-Then Jesus said to his disciples, “Truly I tell you, it is hard for a rich person to enter the kingdom of heaven.
+Then Jesus said to His disciples, “Truly I tell you, it is hard for a rich person to enter the kingdom of heaven.
 
 ## Matthew 19:24
 
@@ -118,15 +118,15 @@ Jesus looked at them and said, “For humans this is impossible, but with God al
 
 ## Matthew 19:27
 
-Peter responded, “We have left everything to follow you! What then will there be for us?”
+Peter responded, “We have left everything to follow You! What then will there be for us?”
 
 ## Matthew 19:28
 
-Jesus said to them, “Truly I tell you, in the renewal of all things, when the Son of Man sits on his glorious throne, you who have followed me will also sit on twelve thrones, governing the twelve tribes of Israel.
+Jesus said to them, “Truly I tell you, in the renewal of all things, when the Son of Man sits on His glorious throne, you who have followed Me will also sit on twelve thrones, governing the twelve tribes of Israel.
 
 ## Matthew 19:29
 
-And everyone who has left houses or brothers or sisters or father or mother or children or fields for my sake will receive many times as much and will inherit eternal life.
+And everyone who has left houses or brothers or sisters or father or mother or children or fields for My sake will receive many times as much and will inherit eternal life.
 
 ## Matthew 19:30
 

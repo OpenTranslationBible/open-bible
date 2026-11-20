@@ -1,7 +1,7 @@
 # Daniel Chapter 1
 
 ## Daniel 1:1
-During the third year of Jehoiakim's reign as king of Judah, Nebuchadnezzar, the king of Babylon, came to Jerusalem and besieged it.
+During the third year of Jehoiakim’s reign as king of Judah, Nebuchadnezzar, the king of Babylon, came to Jerusalem and besieged it.
 
 ## Daniel 1:2
 And the Lord handed over Jehoiakim king of Judah to him, along with some of the items from the house of God. He brought these to the land of Shinar, to the house of his god, and placed the items in the treasury of his god.
@@ -61,4 +61,4 @@ The king conversed with them, and among them all, none was found like Daniel, Ha
 In every matter of wisdom and understanding about which the king questioned them, he found them ten times better than all the magicians and enchanters in his entire kingdom.
 
 ## Daniel 1:21
-And Daniel remained there until the first year of King Cyrus's reign.
+And Daniel remained there until the first year of King Cyrus’s reign.

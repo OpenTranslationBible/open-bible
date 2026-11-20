@@ -78,7 +78,7 @@ The waters prevailed greatly upon the earth, and all the high mountains under th
 
 ## Genesis 7:20
 
-The waters rose and submerged the mountains to a depth of more than fifteen cubits.
+The waters rose and submerged the mountains to a depth of fifteen cubits.
 
 ## Genesis 7:21
 

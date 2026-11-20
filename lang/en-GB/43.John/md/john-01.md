@@ -10,15 +10,15 @@ He was with God in the beginning.
 
 ## John 1:3
 
-All things came into being through him, and without him not one thing was made that has been made.
+All things came into being through Him, and without Him not one thing was made that has been made.
 
 ## John 1:4
 
-In him was life, and that life was the light for all people.
+In Him was life, and that life was the light for all people.
 
 ## John 1:5
 
-The light shines so brightly in the darkness, that the darkness cannot overcome it.
+The light shines in the darkness, and the darkness cannot overcome it.
 
 ---
 
@@ -42,41 +42,41 @@ The true light that gives light to every person was coming into the world.
 
 ## John 1:10
 
-He was in the world, and although the world was made through him, the world did not recognise him.
+He was in the world, and although the world was made through Him, the world did not recognise Him.
 
 ## John 1:11
 
-He came to his own, but his own did not welcome him.
+He came to His own, but His own did not welcome Him.
 
 ## John 1:12
 
-Yet to all who accepted him, to those who had faith in his name, he granted the privilege to become children of God—
+Yet to all who accepted Him, to those who had faith in His name, He granted the privilege to become children of God—
 
 ## John 1:13
 
-children born not of natural descent, nor of human decision or a husband's desire, but born of God.
+children born not of natural descent, nor of human decision or a husband’s desire, but born of God.
 
 ---
 
 ## John 1:14
 
-The Word became flesh and dwelt among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth.
+The Word became flesh and dwelt among us. We have seen His glory, the glory of the one and only Son, who came from the Father, full of grace and truth.
 
 ## John 1:15
 
-John testified concerning him. He cried out, saying, “This is the one of whom I said, ‘He who comes after me has surpassed me because he was before me.’”
+John testified concerning Him. He cried out, saying, “This is the one of whom I said, ‘He who comes after me has surpassed me because He was before me.’”
 
 ## John 1:16
 
-Out of his fullness we have all received grace upon grace.
+Out of His fullness we have all received grace upon grace.
 
 ## John 1:17
 
-For just as the law was delivered through Moses; grace and truth were delivered through Jesus Christ.
+For the law was delivered through Moses; grace and truth were delivered through Jesus Christ.
 
 ## John 1:18
 
-No one has ever seen God, but the only Son, who is himself God and is in closest relationship with the Father, has made him known.
+No one has ever seen God, but the only Son, who is Himself God and is in closest relationship with the Father, has made Him known.
 
 ---
 
@@ -98,7 +98,7 @@ Eventually they said, “Who are you? Provide us with an answer to take back to 
 
 ## John 1:23
 
-John responded using the words of Isaiah the prophet, “I am the voice of one calling out in the wilderness: ‘Prepare the way for the Lord’”
+John responded using the words of Isaiah the prophet, “I am the voice of one calling out in the wilderness: ‘Prepare the way for the Lord.’”
 
 ---
 
@@ -130,19 +130,19 @@ The following day John saw Jesus coming towards him and said, “Behold, the Lam
 
 ## John 1:30
 
-This is the one I referred to when I said, ‘After me comes a man who surpasses me, because he existed before me.’
+This is the one I referred to when I said, ‘After me comes a man who surpasses me, because He existed before me.’
 
 ## John 1:31
 
-I myself did not recognise him, but the reason I came baptising with water was that he might be revealed to Israel.”
+I myself did not recognise Him, but the reason I came baptising with water was that He might be revealed to Israel.”
 
 ## John 1:32
 
-Then John gave this testimony: “I observed the Spirit descending from heaven like a dove and remaining on him.
+Then John gave this testimony: “I observed the Spirit descending from heaven like a dove and remaining on Him.
 
 ## John 1:33
 
-And I myself did not recognise him, but the one who sent me to baptise with water told me, ‘The man on whom you see the Spirit descend and remain is the one who will baptise with the Holy Spirit.’
+And I myself did not recognise Him, but the one who sent me to baptise with water told me, ‘The man on whom you see the Spirit descend and remain is the one who will baptise with the Holy Spirit.’
 
 ## John 1:34
 
@@ -164,11 +164,11 @@ Upon hearing this, the two disciples followed Jesus.
 
 ## John 1:38
 
-Turning around, Jesus saw them following and asked, “What do you seek?” They said, “Rabbi” (which means Teacher), “where are you staying?”
+Turning around, Jesus saw them following and asked, “What do you seek?” They said, “Rabbi” (which means Teacher), “where are You staying?”
 
 ## John 1:39
 
-“Come,” he replied, “and you will see.” So they went and saw where he was staying, and they spent that day with him. It was about the tenth hour.
+“Come,” He replied, “and you will see.” So they went and saw where He was staying, and they spent that day with Him. It was about the tenth hour.
 
 ## John 1:40
 
@@ -186,7 +186,7 @@ He brought him to Jesus. Jesus looked at him and said, “You are Simon son of J
 
 ## John 1:43
 
-The next day Jesus decided to go to Galilee. Finding Philip, he said to him, “Follow me.”
+The next day Jesus decided to go to Galilee. Finding Philip, He said to him, “Follow Me.”
 
 ## John 1:44
 
@@ -202,15 +202,15 @@ Philip found Nathanael and informed him, “We have discovered the one Moses wro
 
 ## John 1:47
 
-When Jesus saw Nathanael approaching, he remarked, “Here truly is an Israelite in whom there is no deceit.”
+When Jesus saw Nathanael approaching, He remarked, “Here truly is an Israelite in whom there is no deceit.”
 
 ## John 1:48
 
-“How do you know me?” Nathanael asked. Jesus replied, “I could see you while you were still under the fig tree, just before Philip called you.”
+“How do You know me?” Nathanael asked. Jesus replied, “I could see you while you were still under the fig tree, just before Philip called you.”
 
 ## John 1:49
 
-Then Nathanael proclaimed, “Rabbi, you are the Son of God; you are the King of Israel.”
+Then Nathanael proclaimed, “Rabbi, You are the Son of God; You are the King of Israel.”
 
 ## John 1:50
 

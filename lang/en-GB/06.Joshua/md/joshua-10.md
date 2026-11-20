@@ -48,8 +48,8 @@ As they fled from Israel on the descent of Beth Horon, the Lord hurled large hai
 
 Then Joshua spoke to the Lord on the day the Lord delivered the Amorites over to Israel, and he said in the sight of Israel,
 
-> “Sun, stand still over Gibeon,
-> and moon, over the Valley of Aijalon.”
+>  “Sun, stand still over Gibeon,
+>  and moon, over the Valley of Aijalon.”
 
 ## Joshua 10:13
 
@@ -156,7 +156,7 @@ Afterward, Joshua and all Israel with him went up from Eglon to Hebron and attac
 
 ## Joshua 10:37
 
-They captured it and struck it with the sword, along with its king, its villages, and everyone in it. He left no survivors, just as they had done to Eglon.
+They captured it and struck it with the sword, along with its king, its villages, and everyone in it. He left no survivors, just as they had done to Eglon; he utterly destroyed it and everyone in it.
 
 ## Joshua 10:38
 

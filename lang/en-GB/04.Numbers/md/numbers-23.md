@@ -4,7 +4,7 @@
 Balaam instructed Balak, “Construct seven altars for me here, and prepare seven bulls and seven rams for me.”
 
 ## Numbers 23:2
-Balak complied with Balaam's instructions, and together they sacrificed a bull and a ram on each altar.
+Balak complied with Balaam’s instructions, and together they sacrificed a bull and a ram on each altar.
 
 ## Numbers 23:3
 Balaam then said to Balak, “Remain by your offering while I go. Perhaps the Lord will meet with me, and whatever He reveals, I will convey to you.” So he went to a desolate hill.
@@ -19,7 +19,7 @@ The Lord placed a word in Balaam’s mouth and instructed, “Return to Balak an
 Balaam returned to Balak, who was standing beside his offering with all the Moabite leaders.
 
 ## Numbers 23:7
-Balaam began his oracle: “Balak brought me from Aram, Moab's king from the eastern mountains, saying, ‘Come, curse Jacob for me; come, denounce Israel.’
+Balaam began his oracle: “Balak brought me from Aram, Moab’s king from the eastern mountains, saying, ‘Come, curse Jacob for me; come, denounce Israel.’
 
 ## Numbers 23:8
 How can I speak against those whom God has not spoken against? How can I oppose those whom the Lord has not opposed?

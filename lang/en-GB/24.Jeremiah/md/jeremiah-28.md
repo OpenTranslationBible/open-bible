@@ -1,13 +1,13 @@
 # Jeremiah Chapter 28
 
 ## Jeremiah 28:1
-In the same year, at the start of Zedekiah king of Judah's reign, in the fourth year, in the fifth month, Hananiah the prophet, son of Azzur, from Gibeon, spoke to me in the house of the Lord in the presence of the priests and all the people, saying:
+In the same year, at the start of Zedekiah king of Judah’s reign, in the fourth year, in the fifth month, Hananiah the prophet, son of Azzur, from Gibeon, spoke to me in the house of the Lord in the presence of the priests and all the people, saying:
 
 ## Jeremiah 28:2
-“This is what the Lord of Hosts, the God of Israel, declares: ‘I have shattered the yoke of the king of Babylon.
+“This is what the Lord of hosts, the God of Israel, declares: ‘I have shattered the yoke of the king of Babylon.
 
 ## Jeremiah 28:3
-Within two years I will restore to this place all the articles of the Lord's house that Nebuchadnezzar king of Babylon took from here and brought to Babylon.
+Within two years I will restore to this place all the articles of the Lord’s house that Nebuchadnezzar king of Babylon took from here and brought to Babylon.
 
 ## Jeremiah 28:4
 I will also bring back to this place Jeconiah son of Jehoiakim, king of Judah, and all the exiles of Judah who went to Babylon,’ declares the Lord, ‘for I will break the yoke of the king of Babylon.’”
@@ -40,7 +40,7 @@ After Hananiah the prophet had broken the yoke from the neck of Jeremiah the pro
 “Go and tell Hananiah, ‘This is what the Lord says: You have broken a wooden yoke, but in its place you will have a yoke of iron.
 
 ## Jeremiah 28:14
-For this is what the Lord of Hosts, the God of Israel, says: I will put an iron yoke on the necks of all these nations to make them serve Nebuchadnezzar king of Babylon, and they will serve him. I will even give him control over the wild animals.’”
+For this is what the Lord of hosts, the God of Israel, says: I will put an iron yoke on the necks of all these nations to make them serve Nebuchadnezzar king of Babylon, and they will serve him. I will even give him control over the wild animals.’”
 
 ## Jeremiah 28:15
 Then Jeremiah the prophet said to Hananiah the prophet, “Listen, Hananiah! The Lord has not sent you, and you have made this people trust in falsehood.

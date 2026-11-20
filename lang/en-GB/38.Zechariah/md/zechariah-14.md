@@ -46,10 +46,10 @@ Judah too will fight in Jerusalem, and the wealth of all the surrounding nations
 A similar plague will strike the horses, mules, camels, donkeys, and all the animals in those camps.
 
 ## Zechariah 14:16
-Then the survivors from all the nations that attacked Jerusalem will go up year after year to worship the King, the Lord of Hosts, and to celebrate the Feast of Tabernacles.
+Then the survivors from all the nations that attacked Jerusalem will go up year after year to worship the King, the Lord of hosts, and to celebrate the Feast of Tabernacles.
 
 ## Zechariah 14:17
-If any of the families of the earth do not go up to Jerusalem to worship the King, the Lord of Hosts, they will have no rain.
+If any of the families of the earth do not go up to Jerusalem to worship the King, the Lord of hosts, they will have no rain.
 
 ## Zechariah 14:18
 If the family of Egypt does not go up and enter, they will receive no rain. This will be the plague with which the Lord strikes the nations that do not go up to celebrate the Feast of Tabernacles.
@@ -61,4 +61,4 @@ This will be the punishment of Egypt and the punishment of all the nations that 
 On that day, “Holy to the Lord” will be inscribed on the bells of the horses, and the cooking pots in the Lord’s house will be like the sacred bowls before the altar.
 
 ## Zechariah 14:21
-Every pot in Jerusalem and Judah will be holy to the Lord of Hosts, and all who come to sacrifice will take some of them and cook in them. On that day, there will no longer be a Canaanite in the house of the Lord of Hosts.
+Every pot in Jerusalem and Judah will be holy to the Lord of hosts, and all who come to sacrifice will take some of them and cook in them. On that day, there will no longer be a Canaanite in the house of the Lord of hosts.

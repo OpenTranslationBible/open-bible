@@ -2,15 +2,15 @@
 
 ## Mark 6:1
 
-Jesus departed from there and arrived in his hometown, with his disciples following him.
+Jesus departed from there and arrived in His hometown, with His disciples following Him.
 
 ## Mark 6:2
 
-When the Sabbath came, he began teaching in the synagogue, and many who listened were astonished. They asked, “Where did this man acquire these things? What is this wisdom that has been given to him, and what are these remarkable miracles performed by his hands?
+When the Sabbath came, He began teaching in the synagogue, and many who listened were astonished. They asked, “Where did this man acquire these things? What is this wisdom that has been given to Him, and what are these remarkable miracles performed by His hands?
 
 ## Mark 6:3
 
-Is this not the carpenter, the son of Mary, and the brother of James, Joses, Judas, and Simon? Are not his sisters here with us?” And they took offence at him.
+Is this not the carpenter, the son of Mary, and the brother of James, Joses, Judas, and Simon? Are not His sisters here with us?” And they took offence at Him.
 
 ## Mark 6:4
 
@@ -18,17 +18,17 @@ Jesus said to them, “A prophet is not without honour except in his hometown, a
 
 ## Mark 6:5
 
-He could not perform any miracles there, except that he laid his hands on a few sick people and healed them.
+He could not perform any miracles there, except that He laid His hands on a few sick people and healed them.
 
 ## Mark 6:6
 
-He was taken aback by their lack of faith. Then he continued teaching throughout the villages.
+He was taken aback by their lack of faith. Then He continued teaching throughout the villages.
 
 ---
 
 ## Mark 6:7
 
-He called the twelve to him and began to send them out in pairs, giving them authority over unclean spirits.
+He called the twelve to Him and began to send them out in pairs, giving them authority over unclean spirits.
 
 ## Mark 6:8
 
@@ -128,11 +128,11 @@ When John’s disciples heard of this, they came and took his body and laid it i
 
 ## Mark 6:30
 
-The apostles gathered around Jesus and shared with him all they had done and taught.
+The apostles gathered around Jesus and shared with Him all they had done and taught.
 
 ## Mark 6:31
 
-Then, because so many people were coming and going that they did not even have time to eat, he said to them, “Come away by yourselves to a quiet place and rest a while.”
+Then, because so many people were coming and going that they did not even have time to eat, He said to them, “Come away by yourselves to a quiet place and rest a while.”
 
 ## Mark 6:32
 
@@ -144,13 +144,13 @@ But many saw them leaving and recognised them, and they ran on foot from all the
 
 ## Mark 6:34
 
-When Jesus landed and saw a large crowd, he felt compassion for them, because they were like sheep without a shepherd. So he began to teach them many things.
+When Jesus landed and saw a large crowd, He felt compassion for them, because they were like sheep without a shepherd. So He began to teach them many things.
 
 ---
 
 ## Mark 6:35
 
-By this time it was late in the day, so his disciples came to him and said, “This is a remote place, and it is already very late.
+By this time it was late in the day, so His disciples came to Him and said, “This is a remote place, and it is already very late.
 
 ## Mark 6:36
 
@@ -158,7 +158,7 @@ Send the people away so they can go to the surrounding countryside and villages 
 
 ## Mark 6:37
 
-But he replied, “You give them something to eat.” They said to him, “Should we go and spend two hundred denarii on bread and give it to them to eat?”
+But He replied, “You give them something to eat.” They said to Him, “Should we go and spend two hundred denarii on bread and give it to them to eat?”
 
 ## Mark 6:38
 
@@ -166,15 +166,15 @@ He asked them, “How many loaves do you have? Go and find out.” When they fou
 
 ## Mark 6:39
 
-Then he directed them to have all the people sit down in groups on the green grass.
+Then He directed them to have all the people sit down in groups on the green grass.
 
 ## Mark 6:40
 
-So they sat down in organised groups.
+So they sat down in groups of hundreds and fifties.
 
 ## Mark 6:41
 
-Taking the five loaves and the two fish, and looking up to heaven, he blessed the food, broke the loaves, and gave them to his disciples to distribute to the people. He also divided the two fish among them all.
+Taking the five loaves and the two fish, and looking up to heaven, He blessed the food, broke the loaves, and gave them to His disciples to distribute to the people. He also divided the two fish among them all.
 
 ## Mark 6:42
 
@@ -192,31 +192,31 @@ The number of men who ate the loaves was five thousand.
 
 ## Mark 6:45
 
-Immediately, Jesus made his disciples get into the boat and go ahead of him to the other side, to Bethsaida, while he dismissed the crowd.
+Immediately, Jesus made His disciples get into the boat and go ahead of Him to the other side, to Bethsaida, while He dismissed the crowd.
 
 ## Mark 6:46
 
-After sending them away, he went up on a mountainside to pray.
+After sending them away, He went up on a mountainside to pray.
 
 ## Mark 6:47
 
-As evening approached, the boat was in the middle of the sea, while he remained alone on the shore.
+As evening approached, the boat was in the middle of the sea, while He remained alone on the shore.
 
 ## Mark 6:48
 
-Seeing them straining at the oars, because the wind was against them, shortly before dawn he went out to them, walking on the sea, intending to pass by them.
+Seeing them straining at the oars, because the wind was against them, shortly before dawn He went out to them, walking on the sea, intending to pass by them.
 
 ## Mark 6:49
 
-But when they observed him walking on the sea, they thought it was a ghost and cried out,
+but when they observed Him walking on the sea, they thought it was a ghost and cried out,
 
 ## Mark 6:50
 
-because they all saw him and were terrified. Immediately he spoke to them and said, “Take courage; it is I. Do not be afraid.”
+because they all saw Him and were terrified. Immediately He spoke to them and said, “Take courage; it is I. Do not be afraid.”
 
 ## Mark 6:51
 
-Then he got into the boat with them, and the wind ceased. They were utterly astonished,
+Then He got into the boat with them, and the wind ceased. They were utterly astonished,
 
 ## Mark 6:52
 
@@ -234,8 +234,8 @@ Upon disembarking, people immediately recognised Jesus.
 
 ## Mark 6:55
 
-They ran throughout the whole region and brought the sick on mats to wherever they heard he was.
+They ran throughout the whole region and brought the sick on mats to wherever they heard He was.
 
 ## Mark 6:56
 
-And wherever he went—into villages, towns, or the countryside—they placed the sick in the marketplaces and begged him to let them touch even the edge of his cloak, and all who touched it were healed.
+And wherever He went—into villages, towns, or the countryside—they placed the sick in the marketplaces and begged Him to let them touch even the edge of His cloak, and all who touched it were healed.

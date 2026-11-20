@@ -15,7 +15,7 @@ But Naboth said to Ahab, “The Lord forbid that I should give you the inheritan
 ## 1 Kings 21:4
 
 So Ahab went home, sullen and angry because Naboth the Jezreelite had said, “I will not give you the inheritance of my ancestors.”  
-He lay on his bed, turned his face away, and refused to eat.
+ He lay on his bed, turned his face away, and refused to eat.
 
 ---
 
@@ -38,7 +38,7 @@ So she wrote letters in Ahab’s name, sealed them with his seal, and sent them 
 ## 1 Kings 21:9
 
 In those letters she wrote:  
-“Proclaim a fast and seat Naboth in a prominent place among the people.
+ “Proclaim a fast and seat Naboth in a prominent place among the people.
 
 ## 1 Kings 21:10
 
@@ -57,7 +57,7 @@ They announced a fast and placed Naboth in a notable position among the people.
 ## 1 Kings 21:13
 
 Then two worthless men came in and sat opposite him, and testified before the people, saying, “Naboth has cursed God and the king.”  
-So they took him outside the city and stoned him to death.
+ So they took him outside the city and stoned him to death.
 
 ## 1 Kings 21:14
 
@@ -68,7 +68,7 @@ Afterwards, they informed Jezebel, “Naboth has been stoned and is dead.”
 ## 1 Kings 21:15
 
 As soon as Jezebel heard that Naboth had been stoned and was dead, she said to Ahab,  
-“Get up and take possession of the vineyard of Naboth the Jezreelite, which he refused to sell you. He is no longer alive, but dead.”
+ “Get up and take possession of the vineyard of Naboth the Jezreelite, which he refused to sell you. He is no longer alive, but dead.”
 
 ## 1 Kings 21:16
 
@@ -87,17 +87,17 @@ The word of the Lord came to Elijah the Tishbite and it was:
 ## 1 Kings 21:19
 
 Say to him: ‘This is what the Lord says: Have you murdered and also taken possession?’  
-Then say to him, ‘This is what the Lord says: In the place where the dogs licked up Naboth’s blood, dogs will also lick up your blood—yes, yours!’”
+ Then say to him, ‘This is what the Lord says: In the place where the dogs licked up Naboth’s blood, dogs will also lick up your blood—yes, yours!’”
 
 ## 1 Kings 21:20
 
 Ahab said to Elijah, “So you’ve found me, my enemy!”  
-Elijah answered, “I have found you, because you have sold yourself to do evil in the sight of the Lord.
+ Elijah answered, “I have found you, because you have sold yourself to do evil in the sight of the Lord.
 
 ## 1 Kings 21:21
 
 This is what the Lord says:  
-‘I will bring disaster upon you. I will wipe out your descendants, and cut off from Ahab every male in Israel—slave or free.
+ ‘I will bring disaster upon you. I will wipe out your descendants, and cut off from Ahab every male in Israel—slave or free.
 
 ## 1 Kings 21:22
 
@@ -126,7 +126,7 @@ He acted in the most detestable ways by following idols, as the Amorites had don
 ## 1 Kings 21:27
 
 When Ahab heard these words, he tore his clothes, put on sackcloth and fasted.  
-He lay in sackcloth and went about quietly and humbly.
+ He lay in sackcloth and went about quietly and humbly.
 
 ## 1 Kings 21:28
 
@@ -135,5 +135,5 @@ The message of the Lord came to Elijah the Tishbite:
 ## 1 Kings 21:29
 
 “Have you noticed how Ahab has humbled himself before Me?  
-Because he has humbled himself, I will not bring the disaster in his lifetime.  
-I will bring it upon his house in the days of his son.”
+ Because he has humbled himself, I will not bring the disaster in his lifetime.  
+ I will bring it upon his house in the days of his son.”

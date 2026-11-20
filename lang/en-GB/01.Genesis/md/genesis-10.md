@@ -6,15 +6,15 @@ These are the records of the generations of Noah’s sons: Shem, Ham, and Japhet
 
 ## Genesis 10:2
 
-Japheth's descendants included Gomer, Magog, Madai, Javan, Tubal, Meshek, and Tiras.
+Japheth’s descendants included Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
 
 ## Genesis 10:3
 
-Gomer's descendants included his sons Ashkenaz, Riphath, and Togarmah.
+Gomer’s descendants included his sons Ashkenaz, Riphath, and Togarmah.
 
 ## Genesis 10:4
 
-Javan's descendants were Elishah, Tarshish, the Kittites, and the Rodanites.
+Javan’s descendants were Elishah, Tarshish, the Kittites, and the Rodanites.
 
 ## Genesis 10:5
 
@@ -26,7 +26,7 @@ The descendants of Ham included Cush, Egypt, Put, and Canaan.
 
 ## Genesis 10:7
 
-Cush's offspring were Seba, Havilah, Sabtah, Raamah, and Sabteca; and Raamah's sons were Sheba and Dedan.
+Cush’s offspring were Seba, Havilah, Sabtah, Raamah, and Sabteca; and Raamah’s sons were Sheba and Dedan.
 
 ## Genesis 10:8
 
@@ -38,7 +38,7 @@ He was a mighty hunter before the Lord; hence the saying, “Like Nimrod, a migh
 
 ## Genesis 10:10
 
-The beginning of his kingdom was Babylon, Uruk, Akkad, and Kalneh, in the land of Shinar.
+The beginning of his kingdom was Babylon, Uruk, Akkad, and Calneh, in the land of Shinar.
 
 ## Genesis 10:11
 
@@ -54,11 +54,11 @@ Egypt was the father of the Ludites, Anamites, Lehabites, and Naphtuhites,
 
 ## Genesis 10:14
 
-Pathrusites, Kasluhites (from whom the Philistines originated), and Caphtorites.
+Pathrusites, Casluhites (from whom the Philistines originated), and Caphtorites.
 
 ## Genesis 10:15
 
-Canaan's firstborn was Sidon, and he was also the ancestor of the Hittites,
+Canaan’s firstborn was Sidon, and he was also the ancestor of the Hittites,
 
 ## Genesis 10:16
 
@@ -74,7 +74,7 @@ the Arvadites, Zemarites, and Hamathites. Later, the Canaanite clans were scatte
 
 ## Genesis 10:19
 
-The borders of Canaan extended from Sidon toward Gerar as far as Gaza, and then toward Sodom, Gomorrah, Admah, and Zeboyim, as far as Lasha.
+The borders of Canaan extended from Sidon toward Gerar as far as Gaza, and then toward Sodom, Gomorrah, Admah, and Zeboiim, as far as Lasha.
 
 ## Genesis 10:20
 
@@ -86,11 +86,11 @@ Sons were also born to Shem, the ancestor of all the sons of Eber, and the older
 
 ## Genesis 10:22
 
-Shem's descendants included Elam, Ashur, Arphaxad, Lud, and Aram.
+Shem’s descendants included Elam, Ashur, Arphaxad, Lud, and Aram.
 
 ## Genesis 10:23
 
-Aram's descendants included his sons Uz, Hul, Gether, and Mash.
+Aram’s descendants included his sons Uz, Hul, Gether, and Mash.
 
 ## Genesis 10:24
 

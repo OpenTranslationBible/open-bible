@@ -6,7 +6,7 @@ A message from the Lord came to me:
 
 ## Ezekiel 16:2
 
-“Human, inform Jerusalem of her detestable actions.
+“Son of man, inform Jerusalem of her detestable actions.
 
 ## Ezekiel 16:3
 
@@ -30,7 +30,7 @@ I made you grow like a plant of the field. You grew up and developed, reaching t
 
 ## Ezekiel 16:8
 
-“‘Later I passed by, and when I saw you, you were at the age for love. I spread the corner of my garment over you and covered your nakedness. I gave you my solemn oath and entered into a covenant with you, declares the Sovereign Lord, and you became mine.
+“‘Later I passed by, and when I saw you, you were at the age for love. I spread the corner of My garment over you and covered your nakedness. I gave you My solemn oath and entered into a covenant with you, declares the Sovereign Lord, and you became Mine.
 
 ## Ezekiel 16:9
 
@@ -66,11 +66,11 @@ You took some of your garments to make gaudy high places, where you carried on y
 
 ## Ezekiel 16:17
 
-You also took the fine jewellery I gave you, made of my gold and silver, and you made male images and engaged in prostitution with them.
+You also took the fine jewellery I gave you, made of My gold and silver, and you made male images and engaged in prostitution with them.
 
 ## Ezekiel 16:18
 
-And you took your embroidered clothes to adorn them, and you offered my oil and incense before them.
+And you took your embroidered clothes to adorn them, and you offered My oil and incense before them.
 
 ## Ezekiel 16:19
 
@@ -78,11 +78,11 @@ Also the food I provided for you—the fine flour, olive oil, and honey I gave y
 
 ## Ezekiel 16:20
 
-“‘Moreover, you took your sons and daughters whom you bore to me and sacrificed them to idols to be consumed. Were your obscene practices not enough?
+“‘Moreover, you took your sons and daughters whom you bore to Me and sacrificed them to idols to be consumed. Were your obscene practices not enough?
 
 ## Ezekiel 16:21
 
-You put my children to death and offered them to idols by passing them through the fire.
+You put My children to death and offered them to idols by passing them through the fire.
 
 ## Ezekiel 16:22
 
@@ -102,11 +102,11 @@ At every street corner, you built your high places and degraded your beauty, spr
 
 ## Ezekiel 16:26
 
-You engaged in prostitution with the Egyptians, your lustful neighbours, and provoked me to anger with your increasing promiscuity.
+You engaged in prostitution with the Egyptians, your lustful neighbours, and provoked Me to anger with your increasing promiscuity.
 
 ## Ezekiel 16:27
 
-So I stretched out my hand against you and reduced your territory; I gave you over to the greed of your enemies, the daughters of the Philistines, who were ashamed of your lewd conduct.
+So I stretched out My hand against you and reduced your territory; I gave you over to the greed of your enemies, the daughters of the Philistines, who were ashamed of your lewd conduct.
 
 ## Ezekiel 16:28
 
@@ -150,7 +150,7 @@ therefore I am going to gather all your lovers, with whom you found pleasure, th
 
 ## Ezekiel 16:38
 
-I will judge you as women who commit adultery and shed blood are judged; I will bring upon you the blood vengeance of my wrath and jealousy.
+I will judge you as women who commit adultery and shed blood are judged; I will bring upon you the blood vengeance of My wrath and jealousy.
 
 ## Ezekiel 16:39
 
@@ -166,11 +166,11 @@ They will burn down your houses and execute judgments on you in the sight of man
 
 ## Ezekiel 16:42
 
-Then my wrath against you will subside, and my jealousy will turn away from you; I will be calm and no longer angry.
+Then My wrath against you will subside, and My jealousy will turn away from you; I will be calm and no longer angry.
 
 ## Ezekiel 16:43
 
-“‘Because you did not remember the days of your youth but enraged me with all these things, I will surely bring down on your head what you have done, declares the Sovereign Lord. Did you not add lewdness to all your other abominable practices?
+“‘Because you did not remember the days of your youth but enraged Me with all these things, I will surely bring down on your head what you have done, declares the Sovereign Lord. Did you not add lewdness to all your other abominable practices?
 
 ## Ezekiel 16:44
 
@@ -198,7 +198,7 @@ Surely as I live, declares the Sovereign Lord: your sister Sodom and her daughte
 
 ## Ezekiel 16:50
 
-They were proud and did detestable things before me. Therefore I did away with them as you have seen.
+They were proud and did detestable things before Me. Therefore I did away with them as you have seen.
 
 ## Ezekiel 16:51
 
@@ -234,7 +234,7 @@ You will bear the consequences of your lewdness and your abominable practices, d
 
 ## Ezekiel 16:59
 
-“‘This is what the Sovereign Lord says: I will deal with you according to your actions, because you have despised my oath by breaking the covenant.
+“‘This is what the Sovereign Lord says: I will deal with you according to your actions, because you have despised My oath by breaking the covenant.
 
 ## Ezekiel 16:60
 
@@ -242,11 +242,11 @@ Yet I will remember the covenant I made with you in your youth, and I will estab
 
 ## Ezekiel 16:61
 
-Then you will remember your ways and be ashamed when you receive your sisters, both those who are older than you and those who are younger. I will give them to you as daughters, but not because of my covenant with you.
+Then you will remember your ways and be ashamed when you receive your sisters, both those who are older than you and those who are younger. I will give them to you as daughters, but not because of My covenant with you.
 
 ## Ezekiel 16:62
 
-So I will establish my covenant with you, so that you will know that I am the Lord.
+So I will establish My covenant with you, so that you will know that I am the Lord.
 
 ## Ezekiel 16:63
 

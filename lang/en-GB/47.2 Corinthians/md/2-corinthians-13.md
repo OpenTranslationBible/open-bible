@@ -10,7 +10,7 @@ I previously said when present the second time, and though now absent I say in a
 
 ## 2 Corinthians 13:3
 
-Since you are looking for evidence of Christ speaking through me, who is not weak among you, but powerful within you.
+since you are looking for evidence of Christ speaking through me, who is not weak among you, but powerful within you.
 
 ## 2 Corinthians 13:4
 

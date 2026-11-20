@@ -30,7 +30,7 @@ In you they have treated father and mother with contempt; they have oppressed th
 
 ## Ezekiel 22:8
 
-You have shown disdain for the holy things and violated my Sabbaths.
+You have shown disdain for the holy things and violated My Sabbaths.
 
 ## Ezekiel 22:9
 
@@ -38,7 +38,7 @@ In you are slanderers bent on shedding blood; in you are those who eat at the mo
 
 ## Ezekiel 22:10
 
-In you are those who uncover their father's nakedness; in you are those who violate women during their period, when they are ceremonially unclean.
+In you are those who uncover their father’s nakedness; in you are those who violate women during their period, when they are ceremonially unclean.
 
 ## Ezekiel 22:11
 
@@ -46,11 +46,11 @@ In you one man commits abomination with his neighbour’s wife, another shameful
 
 ## Ezekiel 22:12
 
-In you are people who accept bribes to commit violence; you take interest and make a profit from the poor. You extort unjust gain from your neighbours. And you have forgotten me, declares the Sovereign Lord.
+In you are people who accept bribes to commit violence; you take interest and make a profit from the poor. You extort unjust gain from your neighbours. And you have forgotten Me, declares the Sovereign Lord.
 
 ## Ezekiel 22:13
 
-“Behold, I will strike my hands together at your dishonest gain and the bloodshed in your midst.
+“Behold, I will strike My hands together at your dishonest gain and the bloodshed in your midst.
 
 ## Ezekiel 22:14
 
@@ -70,7 +70,7 @@ Then the message from the Lord came to me, saying,
 
 ## Ezekiel 22:18
 
-“Son of man, the house of Israel has become dross to me; all of them are bronze, tin, iron, and lead left in the furnace. They are but the dross of silver.
+“Son of man, the house of Israel has become dross to Me; all of them are bronze, tin, iron, and lead left in the furnace. They are but the dross of silver.
 
 ## Ezekiel 22:19
 
@@ -78,15 +78,15 @@ Therefore, this is what the Sovereign Lord says: ‘Because you have all become 
 
 ## Ezekiel 22:20
 
-As silver, bronze, iron, lead, and tin are gathered into a furnace to be melted with a fiery blast, so will I gather you in my anger and wrath and put you inside the city and melt you.
+As silver, bronze, iron, lead, and tin are gathered into a furnace to be melted with a fiery blast, so will I gather you in My anger and wrath and put you inside the city and melt you.
 
 ## Ezekiel 22:21
 
-I will gather you and blow on you with the fire of my wrath, and you will be melted inside her.
+I will gather you and blow on you with the fire of My wrath, and you will be melted inside her.
 
 ## Ezekiel 22:22
 
-Just as silver is melted in a furnace, so you will be melted inside her, and you will Recognise that I, the Lord, have poured out my wrath on you.’”
+Just as silver is melted in a furnace, so you will be melted inside her, and you will recognise that I, the Lord, have poured out My wrath on you.’”
 
 ## Ezekiel 22:23
 
@@ -102,7 +102,7 @@ There is a conspiracy of her princes within her like a roaring lion tearing its 
 
 ## Ezekiel 22:26
 
-Her priests have done violence to my law and profaned my holy things; they do not distinguish between the holy and the common; they have not taught the difference between the unclean and the clean; and they have shut their eyes to the keeping of my Sabbaths, so that I am profaned among them.
+Her priests have done violence to My law and profaned My holy things; they do not distinguish between the holy and the common; they have not taught the difference between the unclean and the clean; and they have shut their eyes to the keeping of My Sabbaths, so that I am profaned among them.
 
 ## Ezekiel 22:27
 
@@ -118,8 +118,8 @@ The people of the land engage in extortion and commit robbery; they oppress the 
 
 ## Ezekiel 22:30
 
-I searched for someone among them who would build up the wall and stand before me in the gap on behalf of the land so I would not have to destroy it, but I found no one.
+I searched for someone among them who would build up the wall and stand before Me in the gap on behalf of the land so I would not have to destroy it, but I found no one.
 
 ## Ezekiel 22:31
 
-Therefore, I will pour out my wrath on them and consume them with my fiery anger, bringing down on their own heads all they have done, declares the Sovereign Lord.”
+Therefore, I will pour out My wrath on them and consume them with My fiery anger, bringing down on their own heads all they have done, declares the Sovereign Lord.”

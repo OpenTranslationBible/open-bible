@@ -6,7 +6,7 @@ The angel showed me the river of the water of life, clear as crystal, flowing fr
 
 ## Revelation 22:2
 
-down the middle of the city's street. On either side of the river was the tree of life, bearing twelve varieties of fruit, yielding its fruit each month; and the leaves of the tree are for the healing of the nations.
+down the middle of the city’s street. On either side of the river was the tree of life, bearing twelve varieties of fruit, yielding its fruit each month; and the leaves of the tree are for the healing of the nations.
 
 ## Revelation 22:3
 
@@ -50,7 +50,7 @@ Let the one who does wrong continue to do wrong; let the vile person continue to
 
 ## Revelation 22:13
 
-For I am the Alpha and the Omega, the First and the Last, the Beginning and the End.”
+I am the Alpha and the Omega, the First and the Last, the Beginning and the End.”
 
 ## Revelation 22:14
 
@@ -58,7 +58,7 @@ Blessed are those who wash their robes, so that they may have the right to the t
 
 ## Revelation 22:15
 
-Outside are those who engage in sorcery, immorality, murder, idolatry, and all who love and practice deceit.
+Outside are the dogs and those who engage in sorcery, immorality, murder, idolatry, and all who love and practice deceit.
 
 ## Revelation 22:16
 
@@ -74,7 +74,7 @@ I caution everyone who hears the words of the prophecy of this book: if anyone a
 
 ## Revelation 22:19
 
-And if anyone removes from the words of the book of this prophecy, God will remove that person's share in the tree of life and in the Holy City, which are described in this book.
+And if anyone removes from the words of the book of this prophecy, God will remove that person’s share in the tree of life and in the holy city, which are described in this book.
 
 ## Revelation 22:20
 

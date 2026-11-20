@@ -10,7 +10,7 @@ The Lord then spoke to Moses, saying,
 
 ## Leviticus 12:3
 
-On the eighth day, the boy's foreskin shall be circumcised.
+On the eighth day, the boy’s foreskin shall be circumcised.
 
 ## Leviticus 12:4
 

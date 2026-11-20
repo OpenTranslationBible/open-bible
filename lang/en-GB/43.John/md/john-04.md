@@ -28,7 +28,7 @@ Jacob’s well was there, and Jesus, weary from His journey, sat down by the wel
 
 ## John 4:7
 
-A Samaritan woman approached to draw water, and Jesus said to her, “Please give me a drink.”
+A Samaritan woman approached to draw water, and Jesus said to her, “Please give Me a drink.”
 
 ## John 4:8
 
@@ -86,7 +86,7 @@ Our ancestors worshipped on this mountain, but you Jews say that the place where
 
 ## John 4:21
 
-Jesus said to her, “Believe me, woman, a time is coming when you will worship the Father neither on this mountain nor in Jerusalem.
+Jesus said to her, “Believe Me, woman, a time is coming when you will worship the Father neither on this mountain nor in Jerusalem.
 
 ## John 4:22
 
@@ -106,7 +106,7 @@ The woman said, “I know that the Messiah” (called Christ) “is coming. When
 
 ## John 4:26
 
-Then Jesus declared, “I, the one speaking to you — I am He.”
+Then Jesus declared, “I, the one speaking to you—I am He.”
 
 ---
 

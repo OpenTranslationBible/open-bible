@@ -26,7 +26,7 @@ Through mercy and truth, sin is atoned for; through the fear of the Lord, evil i
 
 ## Proverbs 16:7
 
-When the Lord is pleased with a person's ways, he makes even their enemies live at peace with them.
+When the Lord is pleased with a person’s ways, He makes even their enemies live at peace with them.
 
 ## Proverbs 16:8
 
@@ -44,7 +44,7 @@ A divine decision is on the lips of a king; his mouth should not betray justice.
 
 ## Proverbs 16:11
 
-Honest scales and balances are the Lord’s; all the weights in the bag are his concern.
+Honest scales and balances are the Lord’s; all the weights in the bag are His concern.
 
 ## Proverbs 16:12
 

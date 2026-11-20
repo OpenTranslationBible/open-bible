@@ -4,49 +4,49 @@
 
 After these events, I heard a voice like the roar of a vast multitude in heaven, proclaiming:
 
-> “Hallelujah! Salvation, glory, and power belong to our God,
+>  “Hallelujah! Salvation, glory, and power belong to our God,
 
 ## Revelation 19:2
 
 > for His judgments are true and just.
-> He has judged the great prostitute who corrupted the earth with her immorality,
-> and He has avenged the blood of His servants upon her.”
+>  He has judged the great prostitute who corrupted the earth with her immorality,
+>  and He has avenged the blood of His servants upon her.”
 
 ## Revelation 19:3
 
 And once more they said:
 
-> “Hallelujah! Her smoke rises for ever and ever.”
+>  “Hallelujah! Her smoke rises for ever and ever.”
 
 ## Revelation 19:4
 
 The twenty-four elders and the four living creatures fell down and worshipped God who sits on the throne, saying,
 
-> “Amen, Hallelujah!”
+>  “Amen, Hallelujah!”
 
 ## Revelation 19:5
 
 Then a voice came from the throne, saying:
 
-> “Praise our God, all you His servants,
-> you who fear Him, both small and great!”
+>  “Praise our God, all you His servants,
+>  you who fear Him, both small and great!”
 
 ## Revelation 19:6
 
 And I heard what seemed like the voice of a great multitude, like the sound of many waters and like mighty peals of thunder, saying:
 
-> “Hallelujah! For the Lord our God, the Almighty, reigns.
+>  “Hallelujah! For the Lord our God, the Almighty, reigns.
 
 ## Revelation 19:7
 
 > Let us rejoice and be glad and give Him glory,
-> for the marriage of the Lamb has come,
-> and His bride has prepared herself.”
+>  for the marriage of the Lamb has come,
+>  and His bride has prepared herself.”
 
 ## Revelation 19:8
 
 > She was given fine linen to wear, bright and clean.
-> (For the fine linen represents the righteous acts of the saints.)
+>  (For the fine linen represents the righteous acts of the saints.)
 
 ## Revelation 19:9
 

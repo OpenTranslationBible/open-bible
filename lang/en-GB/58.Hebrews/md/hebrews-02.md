@@ -10,7 +10,7 @@ For if the message spoken through angels was unchangeable, and every transgressi
 
 ## Hebrews 2:3
 
-how shall we escape if we neglect such a great salvation? This salvation, which was initially spoken by the Lord, was confirmed to us by those who heard him.
+how shall we escape if we neglect such a great salvation? This salvation, which was initially spoken by the Lord, was confirmed to us by those who heard Him.
 
 ## Hebrews 2:4
 
@@ -24,19 +24,19 @@ For it is not to angels that He has subjected the world to come, about which we 
 
 But someone has testified somewhere, saying,
 
-> “What is man, that You are mindful of him,
-> or the son of man, that You care for him?
+>  “What is man, that You are mindful of him,
+>  or the son of man, that You care for him?
 
 ## Hebrews 2:7
 
 > You made him a little lower than the angels;
-> You crowned him with glory and honour
+>  You crowned him with glory and honour
 
 ## Hebrews 2:8
 
 > and placed everything under his feet.”
 
-In subjecting all things to him, He left nothing that is not subject to him. Yet at present, we do not see everything subjected to him.
+ In subjecting all things to him, He left nothing that is not subject to him. Yet at present, we do not see everything subjected to him.
 
 ## Hebrews 2:9
 
@@ -54,19 +54,19 @@ For both the one who sanctifies and those who are sanctified are all from one Fa
 
 saying,
 
-> “I will declare Your name to My brothers
-> and sisters; in the midst of the assembly,
-> I will sing Your praises.”
+>  “I will declare Your name to My brothers and sisters;
+>  in the midst of the assembly,
+>  I will sing Your praises.”
 
 ## Hebrews 2:13
 
 And further,
 
-> “I will place My trust in Him.”
+>  “I will place My trust in Him.”
 
-And also,
+ And also,
 
-> “Here I am, along with the children God has given Me.”
+>  “Here I am, along with the children God has given Me.”
 
 ## Hebrews 2:14
 

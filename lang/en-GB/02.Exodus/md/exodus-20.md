@@ -10,7 +10,7 @@ And God declared all these words:
 
 ## Exodus 20:3
 
-“You shall not have any other gods before me.
+“You shall not have any other gods before Me.
 
 ## Exodus 20:4
 
@@ -18,19 +18,19 @@ And God declared all these words:
 
 ## Exodus 20:5
 
-You shall not bow down to them or serve them; for I, the Lord your God, am a jealous God, visiting the iniquity of the fathers on the children to the third and fourth generation of those who hate me,
+You shall not bow down to them or serve them; for I, the Lord your God, am a jealous God, visiting the iniquity of the fathers on the children to the third and fourth generation of those who hate Me,
 
 ## Exodus 20:6
 
-but extending kindness to thousands who love me and follow my commandments.
+but extending kindness to thousands who love Me and follow My commandments.
 
 ## Exodus 20:7
 
-“You shall not take the name of the Lord your God in vain, for the Lord will not hold anyone guiltless who misuses his name.
+“You shall not take the name of the Lord your God in vain, for the Lord will not hold anyone guiltless who misuses His name.
 
 ## Exodus 20:8
 
-“Observe the Sabbath day, to keep it holy.
+“Remember the Sabbath day, to keep it holy.
 
 ## Exodus 20:9
 
@@ -78,7 +78,7 @@ And they said to Moses, “Speak to us yourself and we will listen; but do not l
 
 ## Exodus 20:20
 
-Moses said to the people, “Do not be afraid; for God has come to test you, so that the fear of him will be with you to keep you from sinning.”
+Moses said to the people, “Do not be afraid; for God has come to test you, so that the fear of Him will be with you to keep you from sinning.”
 
 ## Exodus 20:21
 
@@ -90,16 +90,16 @@ The Lord then instructed Moses, “Tell the Israelites this: ‘You have witness
 
 ## Exodus 20:23
 
-Do not make any gods to be alongside me; gods of silver or gods of gold, you shall not make for yourselves.
+Do not make any gods to be alongside Me; gods of silver or gods of gold, you shall not make for yourselves.
 
 ## Exodus 20:24
 
-Make an altar of earth for me, and sacrifice on it your burnt offerings and peace offerings, your sheep and your oxen. In every place where I cause my name to be remembered, I will come to you and bless you.
+Make an altar of earth for Me, and sacrifice on it your burnt offerings and peace offerings, your sheep and your oxen. In every place where I cause My name to be remembered, I will come to you and bless you.
 
 ## Exodus 20:25
 
-If you make an altar of stone for me, do not build it with dressed stones, for if you use a tool on it, you will defile it.
+If you make an altar of stone for Me, do not build it with dressed stones, for if you use a tool on it, you will defile it.
 
 ## Exodus 20:26
 
-And do not go up to my altar on steps, so that your nakedness may not be exposed.’
+And do not go up to My altar on steps, so that your nakedness may not be exposed.’

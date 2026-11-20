@@ -4,68 +4,66 @@
 
 Then Hannah prayed and said:
 
-> “My heart rejoices in the Lord;  
-> My horn is lifted high by the Lord.  
-> My mouth boasts over my enemies,  
-> For I rejoice in Your deliverance.
+>  “My heart rejoices in the Lord;  
+>  my horn is lifted high by the Lord.  
+>  My mouth boasts over my enemies,  
+>  for I rejoice in Your deliverance.
 
 ## 1 Samuel 2:2
 
 > There is none holy like the Lord,  
-> For there is no one besides You,  
-> Nor is there any rock like our God.
+>  for there is no one besides You,  
+>  nor is there any rock like our God.
 
 ## 1 Samuel 2:3
 
 > Do not speak so proudly,  
-> Let not arrogance come from your mouth,  
-> For the Lord is a God of knowledge,  
-> And by Him actions are weighed.
+>  let not arrogance come from your mouth,  
+>  for the Lord is a God of knowledge,  
+>  and by Him actions are weighed.
 
 ## 1 Samuel 2:4
 
 > The bows of the mighty are broken,  
-> But those who stumbled are now armed with strength.
+>  but those who stumbled are now armed with strength.
 
 ## 1 Samuel 2:5
 
 > Those who were full hire themselves out for bread,  
-> But those who were hungry are now satisfied.  
-> Even the barren has borne seven,  
-> But she who had many sons languishes.
+>  but those who were hungry are now satisfied.  
+>  Even the barren has borne seven,  
+>  but she who had many sons languishes.
 
 ## 1 Samuel 2:6
 
 > The Lord brings death and gives life;  
-> He brings down to the grave and raises up.
+>  He brings down to the grave and raises up.
 
 ## 1 Samuel 2:7
 
 > The Lord humbles and enriches;  
-> He lowers and He elevates.
+>  He lowers and He elevates.
 
 ## 1 Samuel 2:8
 
 > He raises the poor from the dust,  
-> He lifts the needy from the ash heap  
-> To make them sit with princes  
-> And inherit a seat of honour.  
-> For the foundations of the earth belong to the Lord,  
-> And upon them He has set the world.
+>  He lifts the needy from the ash heap to make them sit with princes and inherit a seat of honour.  
+>  For the foundations of the earth belong to the Lord,  
+>  and upon them He has set the world.
 
 ## 1 Samuel 2:9
 
 > He guards the feet of His faithful ones,  
-> But the wicked shall be silenced in darkness,  
-> For not by strength shall a person prevail.
+>  but the wicked shall be silenced in darkness,  
+>  for not by strength shall a person prevail.
 
 ## 1 Samuel 2:10
 
 > Those who oppose the Lord will be shattered;  
-> He will thunder against them from the heavens.  
-> The Lord will judge the ends of the earth.  
-> He will give strength to His king  
-> And exalt the horn of His anointed.”
+>  He will thunder against them from the heavens.  
+>  The Lord will judge the ends of the earth.  
+>  He will give strength to His king and exalt the horn of His anointed.  
+> ”
 
 ---
 
@@ -83,7 +81,7 @@ The custom of the priests with the people was that when anyone brought a sacrifi
 
 ## 1 Samuel 2:14
 
-And he would plunge it into the pan or pot or kettle or cauldron. Whatever the fork brought up, the priest would take for himself. This is how they treated all the Israelites who came to Shiloh.
+and he would plunge it into the pan or pot or kettle or cauldron. Whatever the fork brought up, the priest would take for himself. This is how they treated all the Israelites who came to Shiloh.
 
 ## 1 Samuel 2:15
 

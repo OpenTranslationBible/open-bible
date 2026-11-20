@@ -7,7 +7,7 @@ Be diligent to observe all the commandments I am giving you today, so that you m
 And remember the entire journey the Lord your God has led you through in the wilderness these forty years, to humble you and to test you, to know what was in your heart, whether you would keep His commandments or not.
 
 ## Deuteronomy 8:3
-He humbled you by letting you hunger, and then fed you with manna, which you nor your fathers had known, to make you understand that man does not live by bread alone, but by every word that proceeds from the mouth of the Lord.
+He humbled you by letting you hunger, and then fed you with manna, which neither you nor your fathers had known, to make you understand that man does not live by bread alone, but by every word that proceeds from the mouth of the Lord.
 
 ## Deuteronomy 8:4
 Your clothing did not wear out, nor did your feet swell during these forty years.

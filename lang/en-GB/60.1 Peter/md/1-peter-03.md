@@ -14,7 +14,7 @@ Your adornment must not be the external—braiding the hair, wearing gold jewell
 
 ## 1 Peter 3:4
 
-but let it be the inner self, with the enduring beauty of a gentle and quiet spirit, which is valuable in God's eyes.
+but let it be the inner self, with the enduring beauty of a gentle and quiet spirit, which is valuable in God’s eyes.
 
 ## 1 Peter 3:5
 
@@ -40,21 +40,19 @@ not returning evil for evil or insult for insult, but offering a blessing instea
 
 For,
 
-> “He who would love life  
-> and see good days,  
-> Must keep their tongue from evil  
-> and their lips from speaking deceit.
+>  “He who would love life and see good days,  
+>  must keep their tongue from evil and their lips from speaking deceit.
 
 ## 1 Peter 3:11
 
 > They should turn away from evil and do good;  
-> They should seek peace and pursue it.
+>  they should seek peace and pursue it.
 
 ## 1 Peter 3:12
 
-> For the Lord's eyes are upon the righteous,  
-> And His ears are attentive to their prayer,  
-> But the Lord's face is against those who do evil.”
+> For the eyes of the Lord are upon the righteous,  
+>  and His ears are attentive to their prayer,  
+>  but the face of the Lord is against those who do evil.”
 
 ## 1 Peter 3:13
 
@@ -74,7 +72,7 @@ and keep a good conscience so that in the thing in which you are slandered, thos
 
 ## 1 Peter 3:17
 
-For it is better, if it is God's will, that you suffer for doing good rather than for doing evil.
+For it is better, if it is God’s will, that you suffer for doing good rather than for doing evil.
 
 ## 1 Peter 3:18
 

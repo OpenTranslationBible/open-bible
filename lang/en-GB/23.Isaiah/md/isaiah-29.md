@@ -6,7 +6,7 @@ Woe to you, Ariel, Ariel, the city where David encamped! Add year upon year, let
 
 ## Isaiah 29:2
 
-Yet I will bring distress upon Ariel, and she shall be a city of sorrow and lamentation; she will be to me like an altar hearth.
+Yet I will bring distress upon Ariel, and she shall be a city of sorrow and lamentation; she will be to Me like an altar hearth.
 
 ## Isaiah 29:3
 
@@ -22,7 +22,7 @@ But the multitude of your foes shall become like fine dust, and the ruthless hor
 
 ## Isaiah 29:6
 
-From the Lord of Hosts you shall be visited with thunder, earthquake, and a great noise, with whirlwind and tempest, and the flame of a devouring fire.
+From the Lord of hosts you shall be visited with thunder, earthquake, and a great noise, with whirlwind and tempest, and the flame of a devouring fire.
 
 ## Isaiah 29:7
 
@@ -50,7 +50,7 @@ Or if it is given to one who cannot read, saying, “Read this, please,” he wi
 
 ## Isaiah 29:13
 
-The Lord says: “These people draw near to me with their mouth and honour me with their lips, but their hearts are far from me. Their reverence for me is based on human rules taught by men.
+The Lord says: “These people draw near to Me with their mouth and honour Me with their lips, but their hearts are far from Me. Their reverence for Me is based on human rules taught by men.
 
 ## Isaiah 29:14
 
@@ -62,7 +62,7 @@ Woe to those who seek deep to hide their counsel from the Lord, whose deeds are 
 
 ## Isaiah 29:16
 
-You invert the natural order! Should the potter be considered the same as the clay? Should that what is made say of its maker, “He did not make me,” or the creation say of its creator, “He lacks understanding”?
+You invert the natural order! Should the potter be considered the same as the clay? Should what is made say of its maker, “He did not make me,” or the creation say of its creator, “He lacks understanding”?
 
 ## Isaiah 29:17
 
@@ -90,7 +90,7 @@ Therefore, this is what the Lord, who redeemed Abraham, says about the house of 
 
 ## Isaiah 29:23
 
-But when he sees his children, the work of my hands, in his midst, they shall sanctify my name; they shall sanctify the Holy One of Jacob and stand in awe of the God of Israel.
+But when he sees his children, the work of My hands, in his midst, they shall sanctify My name; they shall sanctify the Holy One of Jacob and stand in awe of the God of Israel.
 
 ## Isaiah 29:24
 

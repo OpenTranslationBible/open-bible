@@ -28,7 +28,7 @@ In Tahpanhes, the word of the Lord came to Jeremiah, saying,
 “Take some large stones in your hands and bury them in the clay in the brick terrace at the entrance to Pharaoh’s palace in Tahpanhes, in the sight of some of the Jews;
 
 ## Jeremiah 43:10
-and say to them, ‘This is what the Lord Almighty, the God of Israel, says: I will send for my servant Nebuchadnezzar, king of Babylon, and I will set his throne over these stones I have hidden; he will spread his royal canopy over them.
+and say to them, ‘This is what the Lord of hosts, the God of Israel, says: I will send for My servant Nebuchadnezzar, king of Babylon, and I will set his throne over these stones I have hidden; he will spread his royal canopy over them.
 
 ## Jeremiah 43:11
 He will come and strike the land of Egypt, delivering those destined for death to death, those for captivity to captivity, and those for the sword to the sword.

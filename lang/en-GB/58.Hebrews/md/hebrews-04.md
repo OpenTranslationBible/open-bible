@@ -12,9 +12,9 @@ For indeed, we have had the good news preached to us, just as they did; but the 
 
 For we who have believed are entering that rest, just as He has said,
 
-> “As I swore in My anger,
-> ‘They shall certainly not enter My rest,’”
-> although His works have been finished since the foundation of the world.
+>  “As I swore in My anger,
+>  ‘They shall certainly not enter My rest,’”
+>  although His works have been finished since the foundation of the world.
 
 ## Hebrews 4:4
 
@@ -32,8 +32,8 @@ Therefore, since it remains for some to enter it, and those who previously had t
 
 He again designates a certain day, calling it “Today,” speaking through David after such a long time, as has been quoted before:
 
-> “Today, if you hear His voice,
-> do not harden your hearts.”
+>  “Today, if you hear His voice,
+>  do not harden your hearts.”
 
 ## Hebrews 4:8
 

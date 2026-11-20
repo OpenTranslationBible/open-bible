@@ -48,7 +48,7 @@ and in the end, you will groan when your flesh and body are spent,
 
 ## Proverbs 5:12
 
-You will say, “How I hated discipline, and my heart rejected correction!
+you will say, “How I hated discipline, and my heart rejected correction!
 
 ## Proverbs 5:13
 

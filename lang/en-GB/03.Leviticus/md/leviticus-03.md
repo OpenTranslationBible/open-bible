@@ -49,4 +49,4 @@ and the two kidneys with the fat on them near the loins, and the lobe of the liv
 The priest shall burn them on the altar as nourishment, an offering by fire, a pleasing aroma. All the fat is the Lord’s.
 
 ## Leviticus 3:17
-This is a lasting ordinance for all your generations wherever you live: you shall not eat any fat or any blood.’
+This is a lasting ordinance for all your generations wherever you live: you shall not eat any fat or any blood.’”

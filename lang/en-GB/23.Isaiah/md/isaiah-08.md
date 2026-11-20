@@ -28,7 +28,7 @@ The Lord addressed me once more:
 
 ## Isaiah 8:7
 
-therefore the Lord is about to bring upon them the powerful and overflowing waters of the Euphrates— the king of Assyria with all his splendour. It will rise above all its channels and overflow all its banks.
+therefore the Lord is about to bring upon them the powerful and overflowing waters of the Euphrates—the king of Assyria with all his splendour. It will rise above all its channels and overflow all its banks.
 
 ## Isaiah 8:8
 
@@ -54,7 +54,7 @@ This is what the Lord said to me with a strong hand upon me, warning me not to f
 
 ## Isaiah 8:13
 
-The Lord of Hosts is the one you are to regard as holy; He is the one you are to fear, He is the one you are to dread.
+The Lord of hosts is the one you are to regard as holy; He is the one you are to fear, He is the one you are to dread.
 
 ## Isaiah 8:14
 
@@ -76,7 +76,7 @@ I will wait for the Lord, who is hiding His face from the house of Jacob. I will
 
 ## Isaiah 8:18
 
-Here am I, and the children the Lord has given me. We are signs and symbols in Israel from the Lord of Hosts, who dwells on Mount Zion.
+Here am I, and the children the Lord has given me. We are signs and symbols in Israel from the Lord of hosts, who dwells on Mount Zion.
 
 ---
 

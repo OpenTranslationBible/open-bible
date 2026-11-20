@@ -42,7 +42,7 @@ To the married, I give this instruction, not I, but the Lord: a wife should not 
 
 ## 1 Corinthians 7:11
 
-(But if she does separate, she must remain unmarried or else be reconciled to her husband), and a husband should not divorce his wife.
+(but if she does separate, she must remain unmarried or else be reconciled to her husband), and a husband should not divorce his wife.
 
 ## 1 Corinthians 7:12
 
@@ -118,11 +118,11 @@ But this I say, brothers and sisters: the time is short, so that from now on tho
 
 ## 1 Corinthians 7:30
 
-And those who mourn, as though they did not mourn; and those who are joyful, as though they were not; and those who buy, as though they did not own anything;
+and those who mourn, as though they did not mourn; and those who are joyful, as though they were not; and those who buy, as though they did not own anything;
 
 ## 1 Corinthians 7:31
 
-And those who use the world, as though they did not fully engage with it; for the present form of this world is passing away.
+and those who use the world, as though they did not fully engage with it; for the present form of this world is passing away.
 
 ## 1 Corinthians 7:32
 
@@ -130,11 +130,11 @@ I want you to be free from concerns. The unmarried man is focused on the Lord’
 
 ## 1 Corinthians 7:33
 
-But the married man is concerned about worldly matters, how he may please his wife,
+but the married man is concerned about worldly matters, how he may please his wife,
 
 ## 1 Corinthians 7:34
 
-And his interests are divided. The unmarried woman, and the virgin, is focused on the Lord’s affairs, that she may be holy in both body and spirit; but the married woman is concerned about worldly matters, how she may please her husband.
+and his interests are divided. The unmarried woman, and the virgin, is focused on the Lord’s affairs, that she may be holy in both body and spirit; but the married woman is concerned about worldly matters, how she may please her husband.
 
 ## 1 Corinthians 7:35
 

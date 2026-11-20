@@ -4,10 +4,10 @@
 Woe to you, destroyer, who have not yet been destroyed; and to you, betrayer, who have not yet been betrayed! When you finish your destruction, you will be destroyed; when you cease your treachery, you will be betrayed.
 
 ## Isaiah 33:2
-Lord, be gracious to us; we have waited for you. Be our strength each morning, our salvation in times of distress.
+Lord, be gracious to us; we have waited for You. Be our strength each morning, our salvation in times of distress.
 
 ## Isaiah 33:3
-At the sound of your tumult, peoples flee; when you rise up, nations scatter.
+At the sound of Your tumult, peoples flee; when You rise up, nations scatter.
 
 ## Isaiah 33:4
 Your plunder is gathered as locusts gather; like a swarm of locusts, people rush upon it.
@@ -31,13 +31,13 @@ The land mourns and languishes, Lebanon is ashamed and withers; Sharon is like a
 “Now I will take action,” says the Lord. “Now I will be exalted; now I will be lifted up.
 
 ## Isaiah 33:11
-You conceive chaff, you give birth to stubble; my breath will consume you like fire.
+You conceive chaff, you give birth to stubble; your breath will consume you like fire.
 
 ## Isaiah 33:12
 The peoples will be burned to lime, like cut thornbushes set ablaze.
 
 ## Isaiah 33:13
-Those who are distant, listen to what I have done; and those who are near, recognise my power.
+Those who are distant, listen to what I have done; and those who are near, recognise My power.”
 
 ## Isaiah 33:14
 The sinners in Zion are terrified; trembling grips the godless: “Who among us can dwell with the consuming fire? Who among us can dwell with everlasting burning?”
@@ -64,7 +64,7 @@ Look upon Zion, the city of our festivals; your eyes will see Jerusalem, a peace
 There the Lord will be our majestic one, a place of broad rivers and streams, where no galley with oars will go, nor any mighty ship pass by.
 
 ## Isaiah 33:22
-For the Lord is our judge, the Lord is our lawgiver, the Lord is our king; he will deliver us.
+For the Lord is our judge, the Lord is our lawgiver, the Lord is our king; He will deliver us.
 
 ## Isaiah 33:23
 Your rigging hangs loose; it cannot hold the mast firm, nor spread the sail. Then an abundance of spoils will be divided, and even the lame will carry off plunder.

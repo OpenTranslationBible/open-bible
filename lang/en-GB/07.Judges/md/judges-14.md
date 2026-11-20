@@ -58,10 +58,10 @@ But if you cannot solve it, you must give me thirty linen garments and thirty se
 
 He said,
 
-> “Out of the eater came something to eat,
-> out of the strong came something sweet.”
+>  “Out of the eater came something to eat,
+>  out of the strong came something sweet.”
 
-For three days they could not solve the riddle.
+ For three days they could not solve the riddle.
 
 ## Judges 14:15
 
@@ -79,13 +79,13 @@ She cried for the entire seven days of the feast. On the seventh day, he finally
 
 Before sunset on the seventh day, the men of the city said to him,
 
-> “What is sweeter than honey?
-> What is stronger than a lion?”
+>  “What is sweeter than honey?
+>  What is stronger than a lion?”
 
-Samson replied,
+ Samson replied,
 
-> “If you had not ploughed with my heifer,
-> you would not have solved my riddle.”
+>  “If you had not ploughed with my heifer,
+>  you would not have solved my riddle.”
 
 ## Judges 14:19
 

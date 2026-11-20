@@ -61,7 +61,7 @@ Truthful speech is enduring, but deceitful words are short-lived.
 Those who harbour deceit in their hearts plot evil, but those who promote peace experience joy.
 
 ## Proverbs 12:21
-The righteous encounter no lasting harm, but the wicked are filled with trouble.
+The righteous encounter no harm, but the wicked are filled with trouble.
 
 ## Proverbs 12:22
 The Lord detests lying lips, but He delights in those who are trustworthy.

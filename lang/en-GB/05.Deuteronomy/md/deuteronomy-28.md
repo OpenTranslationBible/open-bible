@@ -142,7 +142,7 @@ They will be a sign and a wonder to you and your descendants for all time.
 Because you did not serve the Lord your God with joy and gladness in the time of prosperity,
 
 ## Deuteronomy 28:48
-therefore in hunger and thirst, in nakedness and dire poverty, you will serve the enemies the Lord sends against you. He will place a heavy yoke on your neck until He has destroyed you.
+therefore in hunger and thirst, in nakedness and dire poverty, you will serve the enemies the Lord sends against you. He will place an iron yoke on your neck until He has destroyed you.
 
 ## Deuteronomy 28:49
 The Lord will bring a nation against you from a distant place, from the ends of the earth, like an eagle swooping down, a nation whose language you will not understand,

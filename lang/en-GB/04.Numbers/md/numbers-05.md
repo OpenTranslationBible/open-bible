@@ -82,7 +82,7 @@ But if you have gone astray while married to your husband and have made yourself
 
 ## Numbers 5:21
 
-then the priest shall have the woman swear an oath of the curse, and he shall say to her, “may the Lord make you a curse among your people when he causes your womb to miscarry and your abdomen to swell.
+then the priest shall have the woman swear an oath of the curse, and he shall say to her, “May the Lord make you a curse among your people when He causes your womb to miscarry and your abdomen to swell.
 
 ## Numbers 5:22
 

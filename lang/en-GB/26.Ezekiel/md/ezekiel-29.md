@@ -2,7 +2,7 @@
 
 ## Ezekiel 29:1
 
-In the tenth year, in the tenth month, on it's twelfth day, the word of the Lord was given to me:
+In the tenth year, in the tenth month, on its twelfth day, the word of the Lord was given to me:
 
 ## Ezekiel 29:2
 
@@ -12,25 +12,23 @@ In the tenth year, in the tenth month, on it's twelfth day, the word of the Lord
 
 Speak and say, ‘This is what the Sovereign Lord says:
 
-> “I am against you, Pharaoh king of Egypt,
-> you great monster lying in the midst of your rivers.
-> You have said, ‘The Nile is mine; I made it for myself.’
+>  “I am against you, Pharaoh king of Egypt,
+>  you great monster lying in the midst of your rivers.
+>  You have said, ‘The Nile is mine; I made it for myself.’
 
 ## Ezekiel 29:4
 
-> I will put hooks in your jaws
-> and make the fish of your rivers cling to your scales.
-> I will draw you up from your rivers,
-> with all the fish clinging to your scales.
+> I will put hooks in your jaws and make the fish of your rivers cling to your scales.
+>  I will draw you up from your rivers,
+>  with all the fish clinging to your scales.
 
 ## Ezekiel 29:5
 
 > I will abandon you in the wilderness,
-> you and all the fish of your rivers.
-> You will fall on the open field,
-> not gathered or picked up.
-> I have given you as food
-> to the beasts of the earth and the birds of the sky.
+>  you and all the fish of your rivers.
+>  You will fall on the open field,
+>  not gathered or picked up.
+>  I have given you as food to the beasts of the earth and the birds of the sky.
 
 ## Ezekiel 29:6
 
@@ -78,7 +76,7 @@ Egypt will no longer be a source of confidence for the house of Israel, bringing
 
 ## Ezekiel 29:17
 
-In the twenty-seventh year, in the first month, on it's first day, the word of the Lord was given to me:
+In the twenty-seventh year, in the first month, on its first day, the word of the Lord was given to me:
 
 ## Ezekiel 29:18
 
@@ -90,8 +88,8 @@ Therefore this is what the Sovereign Lord says: I am going to give Egypt to Nebu
 
 ## Ezekiel 29:20
 
-I have given him Egypt as a reward for his efforts because he and his army acted for me, declares the Sovereign Lord.
+I have given him Egypt as a reward for his efforts because he and his army acted for Me, declares the Sovereign Lord.
 
 ## Ezekiel 29:21
 
-“On that day, I will cause strength to arise for the house of Israel, and I will enable you to speak among them. Then they will know that I am the Lord.”
+“On that day, I will cause a horn to sprout for the house of Israel, and I will open your mouth among them. Then they will know that I am the Lord.”

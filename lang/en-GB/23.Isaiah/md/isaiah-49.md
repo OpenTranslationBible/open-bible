@@ -1,28 +1,28 @@
 # Isaiah Chapter 49
 
 ## Isaiah 49:1
-Listen to me, you islands; pay attention, you distant peoples: The Lord called me from the womb; from my mother's body he named me.
+Listen to me, you islands; pay attention, you distant peoples: The Lord called me from the womb; from my mother’s body He named me.
 
 ## Isaiah 49:2
-He made my mouth like a sharp sword, in the shadow of his hand he concealed me; he made me into a polished arrow and hid me in his quiver.
+He made my mouth like a sharp sword, in the shadow of His hand He concealed me; He made me into a polished arrow and hid me in His quiver.
 
 ## Isaiah 49:3
-He said to me, “You are my servant, Israel, through whom I will display my glory.”
+He said to me, “You are My servant, Israel, through whom I will display My glory.”
 
 ## Isaiah 49:4
 But I said, “I have laboured in vain; I have spent my strength for nothing and futility. Yet my vindication is with the Lord, and my reward is with my God.”
 
 ## Isaiah 49:5
-And now the Lord says— he who formed me in the womb to be his servant to bring Jacob back to him and gather Israel to himself, for I am honoured in the sight of the Lord and my God is my strength—
+And now the Lord says—He who formed me in the womb to be His servant to bring Jacob back to Him and gather Israel to Himself, for I am honoured in the sight of the Lord and my God is my strength—
 
 ## Isaiah 49:6
-he says: “It is too small a thing for you to be my servant to restore the tribes of Jacob and bring back the preserved ones of Israel. I will also make you a light for the nations, that my salvation may reach to the ends of the earth.”
+He says: “It is too small a thing for you to be My servant to restore the tribes of Jacob and bring back the preserved ones of Israel. I will also make you a light for the nations, that My salvation may reach to the ends of the earth.”
 
 ## Isaiah 49:7
-This is what the Lord says— the Redeemer and Holy One of Israel— to the one who is despised and abhorred by the nation, to the servant of rulers: “Kings will see and arise, princes will bow down, because of the Lord, who is faithful, the Holy One of Israel, who has chosen you.”
+This is what the Lord says—the Redeemer and Holy One of Israel—to the one who is despised and abhorred by the nation, to the servant of rulers: “Kings will see and arise, princes will bow down, because of the Lord, who is faithful, the Holy One of Israel, who has chosen you.”
 
 ## Isaiah 49:8
-This is what the Lord says: “In the time of my favour I will answer you, and in the day of salvation I will help you; I will keep you and make you a covenant for the people, to restore the land and to reassign its desolate inheritances,
+This is what the Lord says: “In the time of My favour I will answer you, and in the day of salvation I will help you; I will keep you and make you a covenant for the people, to restore the land and to reassign its desolate inheritances,
 
 ## Isaiah 49:9
 to say to the captives, ‘Come out,’ and to those in darkness, ‘Show yourselves.’ They will feed beside the roads and find pasture on all barren heights.
@@ -31,13 +31,13 @@ to say to the captives, ‘Come out,’ and to those in darkness, ‘Show yourse
 They will neither hunger nor thirst, nor will the scorching heat or sun beat down on them. He who has compassion on them will guide them and lead them beside springs of water.
 
 ## Isaiah 49:11
-I will transform all my mountains into roads, and my highways will be elevated.
+I will transform all My mountains into roads, and My highways will be elevated.
 
 ## Isaiah 49:12
-See, they will come from afar— some from the north, some from the west, and some from the land of Aswan.”
+See, they will come from afar—some from the north, some from the west, and some from the land of Aswan.”
 
 ## Isaiah 49:13
-Shout for joy, you heavens; rejoice, you earth; break forth into singing, you mountains! For the Lord comforts his people and will have compassion on his afflicted ones.
+Shout for joy, you heavens; rejoice, you earth; break forth into singing, you mountains! For the Lord comforts His people and will have compassion on His afflicted ones.
 
 ## Isaiah 49:14
 But Zion lamented, “The Lord has left me; the Lord no longer remembers me.”
@@ -46,7 +46,7 @@ But Zion lamented, “The Lord has left me; the Lord no longer remembers me.”
 “Can a mother forget her nursing child and have no compassion on the child she has borne? Though she may forget, I will not forget you!
 
 ## Isaiah 49:16
-See, I have inscribed you on the palms of my hands; your walls are ever before me.
+See, I have inscribed you on the palms of My hands; your walls are ever before Me.
 
 ## Isaiah 49:17
 Your children hasten back, and those who laid you waste will depart from you.
@@ -64,10 +64,10 @@ The children born during your bereavement will yet say in your hearing, ‘This 
 Then you will say in your heart, ‘Who has borne me these? I was bereaved and barren; I was exiled and rejected. Who brought these up? I was left all alone, but these—where have they come from?’”
 
 ## Isaiah 49:22
-This is what the Sovereign Lord says: “See, I will beckon to the nations, I will lift up my banner to the peoples; they will bring your sons in their arms and carry your daughters on their shoulders.
+This is what the Sovereign Lord says: “See, I will beckon to the nations, I will lift up My banner to the peoples; they will bring your sons in their arms and carry your daughters on their shoulders.
 
 ## Isaiah 49:23
-Kings will be your foster fathers, and their queens your nursing mothers. They will bow down before you with their faces to the ground; they will lick the dust at your feet. Then you will know that I am the Lord; those who hope in me will not be put to shame.”
+Kings will be your foster fathers, and their queens your nursing mothers. They will bow down before you with their faces to the ground; they will lick the dust at your feet. Then you will know that I am the Lord; those who hope in Me will not be put to shame.”
 
 ## Isaiah 49:24
 Can spoils be taken from warriors, or captives be freed from the fierce?

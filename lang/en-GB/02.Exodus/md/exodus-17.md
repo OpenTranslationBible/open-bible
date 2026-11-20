@@ -1,7 +1,7 @@
 # Exodus Chapter 17
 
 ## Exodus 17:1
-The entire community of the Israelites set out by stages from the wilderness of Sin, following the Lord's command, and encamped at Rephidim, where there was no water for the people to drink.
+The entire community of the Israelites set out by stages from the wilderness of Sin, following the Lord’s command, and encamped at Rephidim, where there was no water for the people to drink.
 
 ## Exodus 17:2
 The people contended with Moses, demanding, “Give us water to drink.” Moses responded, “Why do you quarrel with me? Why do you test the Lord?”
@@ -34,7 +34,7 @@ Joshua did as Moses commanded and fought against Amalek, while Moses, Aaron, and
 Whenever Moses held up his hands, Israel prevailed; but when he lowered his hands, Amalek prevailed.
 
 ## Exodus 17:12
-Moses' hands grew weary, so they placed a stone under him, and he sat on it. Aaron and Hur supported his hands, one on each side, so his hands remained steady until sunset.
+Moses’ hands grew weary, so they placed a stone under him, and he sat on it. Aaron and Hur supported his hands, one on each side, so his hands remained steady until sunset.
 
 ## Exodus 17:13
 Joshua defeated Amalek and his people with the sword.

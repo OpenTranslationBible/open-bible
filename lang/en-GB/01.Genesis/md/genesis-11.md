@@ -19,7 +19,7 @@ The Lord came down to see the city and the tower that the people were constructi
 The Lord said, “Behold, they are one people with the same language, and this is what they have begun to do. Now nothing they plan will be impossible for them.
 
 ## Genesis 11:7
-Come, let us go down and confuse their language so that they will not understand each other’s speech.”
+Come, let Us go down and confuse their language so that they will not understand each other’s speech.”
 
 ## Genesis 11:8
 So the Lord scattered them from there over the face of all the earth, and they ceased building the city.
@@ -82,7 +82,7 @@ Terah reached the age of 70 and fathered Abram, Nahor, and Haran.
 These are the generations of Terah. Terah fathered Abram, Nahor, and Haran, and Haran fathered Lot.
 
 ## Genesis 11:28
-Haran passed away during his father Terah's lifetime in the land of his birth, in Ur of the Chaldeans.
+Haran passed away during his father Terah’s lifetime in the land of his birth, in Ur of the Chaldeans.
 
 ## Genesis 11:29
 Abram and Nahor took wives for themselves. Abram’s wife was named Sarai, and Nahor’s wife was named Milcah, the daughter of Haran, the father of both Milcah and Iscah.

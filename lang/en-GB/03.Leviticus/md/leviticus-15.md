@@ -122,7 +122,7 @@ The priest shall offer one as a sin offering and the other as a burnt offering. 
 
 ## Leviticus 15:31
 
-You must keep the Israelites separate from their uncleanness, so they do not die in their uncleanness by defiling my dwelling place, which is among them.
+You must keep the Israelites separate from their uncleanness, so they do not die in their uncleanness by defiling My dwelling place, which is among them.
 
 ## Leviticus 15:32
 
@@ -130,4 +130,4 @@ This is the law for a man with a discharge, and for anyone made unclean by an em
 
 ## Leviticus 15:33
 
-and for a woman in her menstrual impurity, and for anyone with a discharge, male or female, and for a man who has sexual relations with a woman who is unclean.
+and for a woman in her menstrual impurity, and for anyone with a discharge, male or female, and for a man who has sexual relations with a woman who is unclean.’”

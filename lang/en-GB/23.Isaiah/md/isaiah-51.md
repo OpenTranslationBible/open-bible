@@ -1,40 +1,40 @@
 # Isaiah Chapter 51
 
 ## Isaiah 51:1
-“Hearken to me, you who chase after righteousness, who seek the Lord: Consider the rock from which you were cut, and the quarry from which you were hewn;
+“Hearken to Me, you who chase after righteousness, who seek the Lord: Consider the rock from which you were cut, and the quarry from which you were hewn;
 
 ## Isaiah 51:2
-Reflect on Abraham, your father, and Sarah, who bore you. When he was but one, I called him, and I blessed him and made him numerous.”
+reflect on Abraham, your father, and Sarah, who bore you. When he was but one, I called him, and I blessed him and made him numerous.”
 
 ## Isaiah 51:3
 Truly, the Lord will comfort Zion; He will console all her ruins. He will transform her wilderness into Eden, and her desert into the garden of the Lord. Joy and gladness will be found in her, thanksgiving and the sound of melody.
 
 ## Isaiah 51:4
-“Attend to me, my people; listen, my nation: A law will proceed from me; my justice will be a light to the peoples.
+“Attend to Me, My people; listen, My nation: A law will proceed from Me; My justice will be a light to the peoples.
 
 ## Isaiah 51:5
-My righteousness is near, my salvation is on its way, and my arms will judge the nations. The coastlands will look to me and wait expectantly for my arm.
+My righteousness is near, My salvation is on its way, and My arms will judge the nations. The coastlands will look to Me and wait expectantly for My arm.
 
 ## Isaiah 51:6
-Lift your eyes to the heavens, and then look at the earth below; the heavens will vanish like smoke, and the earth will wear out like a garment, and its inhabitants will perish in the same manner. But my salvation will endure forever, and my righteousness will never fail.
+Lift your eyes to the heavens, and then look at the earth below; the heavens will vanish like smoke, and the earth will wear out like a garment, and its inhabitants will perish in the same manner. But My salvation will endure forever, and My righteousness will never fail.
 
 ## Isaiah 51:7
-“Hear me, you who know righteousness, a people in whose heart is my law: Do not fear the reproach of mortals, nor be dismayed by their insults.
+“Hear Me, you who know righteousness, a people in whose heart is My law: Do not fear the reproach of mortals, nor be dismayed by their insults.
 
 ## Isaiah 51:8
-For the moth will consume them like a garment, and the worm will eat them like wool. But my righteousness will endure forever, and my salvation through all generations.”
+For the moth will consume them like a garment, and the worm will eat them like wool. But My righteousness will endure forever, and My salvation through all generations.”
 
 ## Isaiah 51:9
-Awake, awake, arm of the Lord, clothe yourself with strength! Awake, as in days of old, the ancient generations. Was it not you who cut Rahab to pieces, who pierced the dragon?
+Awake, awake, arm of the Lord, clothe Yourself with strength! Awake, as in days of old, the ancient generations. Was it not You who cut Rahab to pieces, who pierced the dragon?
 
 ## Isaiah 51:10
-Was it not you who dried up the sea, the waters of the great deep, who made the depths of the sea a path for the redeemed to cross over?
+Was it not You who dried up the sea, the waters of the great deep, who made the depths of the sea a path for the redeemed to cross over?
 
 ## Isaiah 51:11
 The redeemed of the Lord will return and come to Zion with singing; everlasting joy will crown their heads. They will obtain gladness and joy, and sorrow and sighing will flee away.
 
 ## Isaiah 51:12
-“I, even I, am he who comforts you. Who are you that you fear mortal man, human beings who are like grass,
+“I, even I, am He who comforts you. Who are you that you fear mortal man, human beings who are like grass,
 
 ## Isaiah 51:13
 that you forget the Lord your Maker, who stretched out the heavens and laid the foundations of the earth, that you live in constant dread every day because of the fury of the oppressor, who is bent on destruction? Where is the fury of the oppressor?
@@ -43,13 +43,13 @@ that you forget the Lord your Maker, who stretched out the heavens and laid the 
 The exiled will soon be set free; they will not die in their dungeon, nor will they lack bread.
 
 ## Isaiah 51:15
-For I am the Lord your God, who stirs the sea to make its waves roar—the Lord Almighty is His name.
+For I am the Lord your God, who stirs the sea to make its waves roar—the Lord of hosts is His name.
 
 ## Isaiah 51:16
-I have placed my words in your mouth and covered you with the shadow of my hand, to establish the heavens, to lay the foundations of the earth, and to say to Zion, ‘You are my people.’”
+I have placed My words in your mouth and covered you with the shadow of My hand, to establish the heavens, to lay the foundations of the earth, and to say to Zion, ‘You are My people.’”
 
 ## Isaiah 51:17
-Awake, awake! Arise, Jerusalem, you who have drunk from the hand of the Lord the cup of his wrath, you who have drained to its dregs the chalice that makes people stagger.
+Awake, awake! Arise, Jerusalem, you who have drunk from the hand of the Lord the cup of His wrath, you who have drained to its dregs the chalice that makes people stagger.
 
 ## Isaiah 51:18
 There is none to guide her among all the children she has borne, nor is there anyone to take her by the hand among all the children she has reared.
@@ -64,7 +64,7 @@ Your children have fainted; they lie at every street corner, like an antelope ca
 Therefore, hear this, you afflicted one, who are drunk, but not with wine.
 
 ## Isaiah 51:22
-This is what your Sovereign Lord says, your God who contends for his people: “Behold, I have taken from your hand the cup that made you stagger; from that chalice, the cup of my wrath, you will never drink again.
+This is what your Sovereign Lord says, your God who contends for His people: “Behold, I have taken from your hand the cup that made you stagger; from that chalice, the cup of My wrath, you will never drink again.
 
 ## Isaiah 51:23
 I will place it into the hands of your tormentors, who said to you, ‘Lie down that we may walk over you.’ And you laid your back like the ground, like a street to be walked over.”

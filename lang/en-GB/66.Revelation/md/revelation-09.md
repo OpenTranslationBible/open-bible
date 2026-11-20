@@ -18,7 +18,7 @@ They were instructed not to harm the grass of the earth, nor any green thing, no
 
 ## Revelation 9:5
 
-They were permitted only to torment them for five months without causing death. The torment they inflicted was similar to a scorpion's sting.
+They were permitted only to torment them for five months without causing death. The torment they inflicted was similar to a scorpion’s sting.
 
 ## Revelation 9:6
 

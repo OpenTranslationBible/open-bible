@@ -6,15 +6,15 @@ Behold, the Lord, the God of hosts, is about to withdraw from Jerusalem and Juda
 
 ## Isaiah 3:2
 
-The mighty man and the warrior, the judge and the prophet, the soothsayer and the elder,
+the mighty man and the warrior, the judge and the prophet, the soothsayer and the elder,
 
 ## Isaiah 3:3
 
-The captain of fifty and the man of distinction, the counsellor and the skilled craftsman, and the expert enchanter.
+the captain of fifty and the man of distinction, the counsellor and the skilled craftsman, and the expert enchanter.
 
 ## Isaiah 3:4
 
-"I will appoint mere lads as their leaders, and unruly children shall govern them."
+“I will appoint mere lads as their leaders, and unruly children shall govern them.”
 
 ## Isaiah 3:5
 
@@ -22,11 +22,11 @@ And the people will be oppressed, each by another and each by his neighbour; the
 
 ## Isaiah 3:6
 
-When a man takes hold of his brother in his father's house, saying, "You have a cloak, you shall be our leader; take charge of this heap of ruins!"
+When a man takes hold of his brother in his father’s house, saying, “You have a cloak, you shall be our leader; take charge of this heap of ruins!”
 
 ## Isaiah 3:7
 
-On that day he will protest, saying, "I will not be your healer, for in my house there is neither bread nor cloak; do not appoint me as leader of the people."
+On that day he will protest, saying, “I will not be your healer, for in my house there is neither bread nor cloak; do not appoint me as leader of the people.”
 
 ## Isaiah 3:8
 
@@ -56,21 +56,21 @@ The Lord takes His stand to contend, and rises to judge the people.
 
 ## Isaiah 3:14
 
-The Lord enters into judgment with the elders and leaders of His people: "It is you who have ravaged my vineyard; the spoils from the poor are in your houses.
+The Lord enters into judgment with the elders and leaders of His people: “It is you who have ravaged My vineyard; the spoils from the poor are in your houses.
 
 ## Isaiah 3:15
 
-What do you mean by crushing My people and grinding the faces of the poor?" declares the Lord, the God of hosts.
+What do you mean by crushing My people and grinding the faces of the poor?” declares the Lord, the God of hosts.
 
 ---
 
 ## Isaiah 3:16
 
-Moreover, the Lord says, "Because the daughters of Zion are haughty, and walk with outstretched necks and seductive eyes, mincing as they go, and jingling their anklets,
+Moreover, the Lord says, “Because the daughters of Zion are haughty, and walk with outstretched necks and seductive eyes, mincing as they go, and jingling their anklets,
 
 ## Isaiah 3:17
 
-The Lord will afflict the scalps of the daughters of Zion with sores, and the Lord will make their foreheads bare."
+the Lord will afflict the scalps of the daughters of Zion with sores, and the Lord will make their foreheads bare.”
 
 ## Isaiah 3:18
 
