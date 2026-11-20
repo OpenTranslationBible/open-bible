@@ -70,7 +70,7 @@ Durante seu intenso trabalho de parto, a parteira disse a ela: “Não tema, poi
 
 ## Gênesis 35:18
 
-Enquanto ela dava seu último suspiro—pois estava morrendo—ela nomeou seu filho Benoni, mas seu pai o chamou de Benjamim.
+Enquanto ela dava seu último suspiro — pois estava morrendo — ela nomeou seu filho Benoni, mas seu pai o chamou de Benjamim.
 
 ## Gênesis 35:19
 

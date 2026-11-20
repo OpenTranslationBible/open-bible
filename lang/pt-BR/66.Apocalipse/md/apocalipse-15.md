@@ -12,17 +12,17 @@ Vi algo semelhante a um mar de vidro misturado com fogo, e os que tinham vencido
 
 E cantavam o cântico de Moisés, servo de Deus, e o cântico do Cordeiro, dizendo:
 
-> “Grandes e maravilhosas são as tuas obras,
-> Senhor Deus Todo-Poderoso;
-> justos e verdadeiros são os teus caminhos,
-> ó Rei das nações.
+>  “Grandes e maravilhosas são as tuas obras,
+>  Senhor Deus Todo-Poderoso;
+>  justos e verdadeiros são os teus caminhos,
+>  ó Rei das nações.
 
 ## Apocalipse 15:4
 
 > Quem não te temerá, Senhor, e glorificará o teu nome?
-> Pois só tu és santo.
-> Todas as nações virão e te adorarão,
-> pois os teus atos de justiça foram manifestos.”
+>  Pois só tu és santo.
+>  Todas as nações virão e te adorarão,
+>  pois os teus atos de justiça foram manifestos.”
 
 ## Apocalipse 15:5
 

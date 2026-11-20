@@ -19,7 +19,7 @@ E eles responderam: “Não nos defraudaste, nem nos oprimiste, nem tomaste cois
 ## 1 Samuel 12:5
 
 Ele lhes disse: “O Senhor e o seu ungido são testemunhas hoje de que não achastes nada em minha posse.”  
-E eles responderam: “Ele é testemunha.”
+ E eles responderam: “Ele é testemunha.”
 
 ---
 
@@ -49,7 +49,7 @@ Então o Senhor enviou Jerubaal, Bedã, Jefté e Samuel, e vos livrou das mãos 
 
 ## 1 Samuel 12:12
 
-Mas quando vistes que Naás, o rei dos amonitas, vinha contra vós, dissestes-me: ‘Não, mas um rei reinará sobre nós’—quando o Senhor vosso Deus era vosso rei.
+Mas quando vistes que Naás, o rei dos amonitas, vinha contra vós, dissestes-me: ‘Não, mas um rei reinará sobre nós’ — quando o Senhor vosso Deus era vosso rei.
 
 ## 1 Samuel 12:13
 

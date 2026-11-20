@@ -38,7 +38,7 @@ Sua impureza está em suas vestes; ela não considerou seu futuro. Sua queda foi
 
 ## Lamentações 1:10
 
-O adversário pôs as mãos em todas as suas coisas preciosas; ela viu as nações entrarem em seu santuário—aqueles que Tu proibiste de entrar na Tua assembleia.
+O adversário pôs as mãos em todas as suas coisas preciosas; ela viu as nações entrarem em seu santuário — aqueles que Tu proibiste de entrar na Tua assembleia.
 
 ## Lamentações 1:11
 

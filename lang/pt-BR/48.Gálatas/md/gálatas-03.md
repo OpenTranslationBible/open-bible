@@ -14,7 +14,7 @@ Sois tão insensatos? Tendo começado pelo Espírito, agora buscais a perfeiçã
 
 ## Gálatas 3:4
 
-Passastes por tantas coisas em vão—se é que foi em vão?
+Passastes por tantas coisas em vão — se é que foi em vão?
 
 ## Gálatas 3:5
 

@@ -22,7 +22,7 @@ Ele deve molhar o dedo no sangue e aspergi-lo sete vezes perante o Senhor, em fr
 O sacerdote deve colocar um pouco do sangue nos chifres do altar de incenso aromático perante o Senhor na tenda do encontro, e o restante do sangue do novilho ele deve derramar na base do altar do holocausto, à entrada da tenda do encontro.
 
 ## Levítico 4:8
-Ele deve remover toda a gordura do novilho da oferta pelo pecado—a gordura que cobre as entranhas e toda a gordura que está sobre as entranhas,
+Ele deve remover toda a gordura do novilho da oferta pelo pecado — a gordura que cobre as entranhas e toda a gordura que está sobre as entranhas,
 
 ## Levítico 4:9
 os dois rins com a gordura sobre eles, perto dos lombos, e o lóbulo longo do fígado, que ele removerá com os rins—
@@ -34,7 +34,7 @@ assim como é removido do boi do sacrifício de ofertas pacíficas. Então o sac
 Mas o couro do novilho e toda a sua carne, juntamente com a cabeça, pernas, entranhas e excremento—
 
 ## Levítico 4:12
-isto é, todo o restante do novilho—ele deve levar a um lugar limpo fora do acampamento, onde as cinzas são despejadas, e queimá-lo ali em fogo de lenha; onde as cinzas são despejadas, ele será queimado.
+isto é, todo o restante do novilho — ele deve levar a um lugar limpo fora do acampamento, onde as cinzas são despejadas, e queimá-lo ali em fogo de lenha; onde as cinzas são despejadas, ele será queimado.
 
 ## Levítico 4:13
 ‘Se toda a comunidade israelita pecar involuntariamente e o assunto escapar à atenção da assembleia, e eles fizerem qualquer das coisas que o Senhor ordenou que não fossem feitas, e se tornarem culpados;

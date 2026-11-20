@@ -50,11 +50,11 @@ Vá e proclame esta mensagem em direção ao norte: ‘Volte, Israel infiel,’ 
 
 ## Jeremias 3:13
 
-Apenas reconheça sua culpa— que você se rebelou contra o Senhor seu Deus, espalhou seus favores a deuses estrangeiros debaixo de toda árvore frondosa, e não obedeceu à minha voz,’ declara o Senhor.
+Apenas reconheça sua culpa — que você se rebelou contra o Senhor seu Deus, espalhou seus favores a deuses estrangeiros debaixo de toda árvore frondosa, e não obedeceu à minha voz,’ declara o Senhor.
 
 ## Jeremias 3:14
 
-“Voltem, povo infiel,” declara o Senhor, “pois eu sou seu mestre. Eu os levarei—um de uma cidade e dois de uma família—e os trarei a Sião.
+“Voltem, povo infiel,” declara o Senhor, “pois eu sou seu mestre. Eu os levarei — um de uma cidade e dois de uma família — e os trarei a Sião.
 
 ## Jeremias 3:15
 
@@ -94,7 +94,7 @@ Certamente a agitação nas colinas e montanhas é uma decepção; verdadeiramen
 
 ## Jeremias 3:24
 
-Desde a nossa juventude, deuses vergonhosos consumiram os frutos do trabalho de nossos antepassados—seus rebanhos e manadas, seus filhos e filhas.
+Desde a nossa juventude, deuses vergonhosos consumiram os frutos do trabalho de nossos antepassados — seus rebanhos e manadas, seus filhos e filhas.
 
 ## Jeremias 3:25
 

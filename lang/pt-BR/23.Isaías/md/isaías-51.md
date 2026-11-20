@@ -43,7 +43,7 @@ que você esquece o Senhor, seu Criador, que estendeu os céus e lançou os fund
 Os exilados em breve serão libertados; eles não morrerão em sua masmorra, nem lhes faltará pão.
 
 ## Isaías 51:15
-Pois eu sou o Senhor, seu Deus, que agita o mar para fazer suas ondas rugirem—o Senhor dos Exércitos é o Seu nome.
+Pois eu sou o Senhor, seu Deus, que agita o mar para fazer suas ondas rugirem — o Senhor dos Exércitos é o Seu nome.
 
 ## Isaías 51:16
 Coloquei minhas palavras em sua boca e os cobri com a sombra da minha mão, para estabelecer os céus, lançar os fundamentos da terra, e dizer a Sião: ‘Vocês são o meu povo.’”
@@ -55,7 +55,7 @@ Desperta, desperta! Levanta-te, Jerusalém, você que bebeu da mão do Senhor o 
 Não há ninguém para guiá-la entre todos os filhos que ela gerou, nem há alguém para segurá-la pela mão entre todos os filhos que ela criou.
 
 ## Isaías 51:19
-Estas duplas calamidades caíram sobre você—quem a consolará?—devastação e destruição, fome e espada—como posso confortá-la?
+Estas duplas calamidades caíram sobre você — quem a consolará? — devastação e destruição, fome e espada — como posso confortá-la?
 
 ## Isaías 51:20
 Seus filhos desmaiaram; eles jazem em cada esquina, como um antílope preso em uma rede. Eles estão cheios da ira do Senhor, a repreensão do seu Deus.

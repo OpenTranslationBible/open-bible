@@ -28,7 +28,7 @@ Voltarei meu rosto contra essa pessoa e farei dela um sinal e um provérbio, e a
 E se o profeta for seduzido a falar uma palavra, sou eu, o Senhor, quem seduziu esse profeta, e estenderei minha mão contra ele e o eliminarei do meio do meu povo Israel.
 
 ## Ezequiel 14:10
-Eles arcarão com seu castigo—o profeta será tão culpado quanto aquele que o consulta.
+Eles arcarão com seu castigo — o profeta será tão culpado quanto aquele que o consulta.
 
 ## Ezequiel 14:11
 Então a casa de Israel não se desviará mais de mim, nem se contaminará com todas as suas ofensas. Eles serão meu povo, e eu serei seu Deus, declara o Senhor Deus.”
@@ -40,7 +40,7 @@ E a mensagem do Senhor foi dada a mim:
 “Filho do homem, se um país pecar contra mim sendo infiel e eu estender minha mão contra ele para destruir seu suprimento de alimentos e enviar fome sobre ele e eliminar tanto a vida humana quanto a animal,
 
 ## Ezequiel 14:14
-mesmo que esses três homens—Noé, Daniel e Jó—estivessem nele, eles poderiam salvar apenas a si mesmos por sua justiça, declara o Senhor Deus.
+mesmo que esses três homens — Noé, Daniel e Jó — estivessem nele, eles poderiam salvar apenas a si mesmos por sua justiça, declara o Senhor Deus.
 
 ## Ezequiel 14:15
 Se eu enviasse animais selvagens pela terra e eles a despovoassem, tornando-a desolada para que ninguém pudesse passar por ela por causa dos animais,
@@ -61,10 +61,10 @@ Ou se eu enviasse uma praga naquela terra e derramasse minha ira sobre ela atrav
 tão certo como eu vivo, declara o Senhor Deus, mesmo que Noé, Daniel e Jó estivessem nela, eles não poderiam salvar seus filhos ou filhas. Eles salvariam apenas a si mesmos por sua justiça.
 
 ## Ezequiel 14:21
-Pois assim diz o Senhor Deus: Quão pior será quando eu enviar meus quatro severos julgamentos contra Jerusalém—espada, fome, animais selvagens e praga—para eliminar a vida humana e animal!
+Pois assim diz o Senhor Deus: Quão pior será quando eu enviar meus quatro severos julgamentos contra Jerusalém — espada, fome, animais selvagens e praga — para eliminar a vida humana e animal!
 
 ## Ezequiel 14:22
-No entanto, haverá alguns sobreviventes—filhos e filhas que serão trazidos para fora. Eles virão até vocês, e quando vocês virem sua conduta e ações, vocês serão consolados em relação ao desastre que trouxe sobre Jerusalém—todo desastre que trouxe sobre ela.
+No entanto, haverá alguns sobreviventes — filhos e filhas que serão trazidos para fora. Eles virão até vocês, e quando vocês virem sua conduta e ações, vocês serão consolados em relação ao desastre que trouxe sobre Jerusalém — todo desastre que trouxe sobre ela.
 
 ## Ezequiel 14:23
 Vocês serão consolados quando virem sua conduta e ações, pois saberão que não fiz nada nela sem causa, declara o Senhor Deus.”

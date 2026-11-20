@@ -86,7 +86,7 @@ O Senhor ficou irado comigo por causa de vocês, e Ele jurou que eu não atraves
 
 ## Deuteronômio 4:22
 
-Eu permanecerei nesta terra; não atravessarei o Jordão; mas vocês estão prestes a atravessar e tomar posse daquela boa terra.
+Eu vou morrer nesta terra; não atravessarei o Jordão; mas vocês estão prestes a atravessar e tomar posse daquela boa terra.
 
 ## Deuteronômio 4:23
 

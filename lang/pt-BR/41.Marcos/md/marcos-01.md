@@ -8,14 +8,14 @@ O início do evangelho sobre Jesus Cristo, o Filho de Deus,
 
 como está escrito no profeta Isaías:
 
-> “Eis que eu envio o meu mensageiro à tua frente,
-> que preparará o teu caminho;
+>  “Eis que eu envio o meu mensageiro à tua frente,
+>  que preparará o teu caminho;
 
 ## Marcos 1:3
 
 > Uma voz de alguém clamando no deserto:
-> ‘Preparem o caminho para o Senhor;
-> façam no deserto um caminho reto para o nosso Deus’”
+>  ‘Preparem o caminho para o Senhor;
+>  endireitem as suas veredas.’”
 
 ## Marcos 1:4
 

@@ -28,7 +28,7 @@ O bode se tornou extremamente grande, mas quando estava no auge do seu poder, o 
 De um deles saiu um pequeno chifre, que cresceu muito em direção ao sul, ao leste e à Terra Gloriosa.
 
 ## Daniel 8:10
-Cresceu até o exército dos céus, e lançou algumas das estrelas ao chão e as pisoteou.
+Cresceu até o exército dos céus, e lançou ao chão parte do exército e algumas das estrelas, e as pisoteou.
 
 ## Daniel 8:11
 Exaltou-se até ser tão grande quanto o comandante do exército do Senhor; removeu o sacrifício diário do Senhor, e o Seu santuário foi derrubado.

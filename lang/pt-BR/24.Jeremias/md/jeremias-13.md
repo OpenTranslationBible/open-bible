@@ -38,7 +38,7 @@ A palavra do Senhor veio a mim, dizendo,
 
 ## Jeremias 13:10
 
-Essas pessoas perversas, que se recusam a ouvir minhas palavras, que seguem a teimosia de seus corações e seguem outros deuses para servi-los e adorá-los, serão como esta cinta—completamente inúteis!
+Essas pessoas perversas, que se recusam a ouvir minhas palavras, que seguem a teimosia de seus corações e seguem outros deuses para servi-los e adorá-los, serão como esta cinta — completamente inúteis!
 
 ## Jeremias 13:11
 
@@ -52,7 +52,7 @@ Pois assim como uma cinta se apega à cintura de uma pessoa, assim fiz toda a ca
 
 ## Jeremias 13:13
 
-então diga-lhes, ‘Assim diz o Senhor: Vou encher todos os habitantes desta terra—os reis que se assentam no trono de Davi, os sacerdotes, os profetas e todos os habitantes de Jerusalém—com embriaguez.
+então diga-lhes, ‘Assim diz o Senhor: Vou encher todos os habitantes desta terra — os reis que se assentam no trono de Davi, os sacerdotes, os profetas e todos os habitantes de Jerusalém — com embriaguez.
 
 ## Jeremias 13:14
 
@@ -88,7 +88,7 @@ O que vocês dirão quando o Senhor colocar sobre vocês aqueles que cultivaram 
 
 ## Jeremias 13:22
 
-E se vocês se perguntarem, “Por que isso aconteceu comigo?”—é por causa da magnitude dos seus pecados que suas saias foram arrancadas e seu corpo maltratado.
+E se vocês se perguntarem, “Por que isso aconteceu comigo?” — é por causa da magnitude dos seus pecados que suas saias foram arrancadas e seu corpo maltratado.
 
 ## Jeremias 13:23
 

@@ -32,8 +32,8 @@ O primeiro ser vivente era semelhante a um leão, o segundo era semelhante a um 
 
 Cada um dos quatro seres viventes tinha seis asas e estavam cheios de olhos ao redor e por dentro; e dia e noite nunca cessam de dizer:
 
-> “Santo, santo, santo é o Senhor Deus Todo-Poderoso,
-> que era, e é, e há de vir.”
+>  “Santo, santo, santo é o Senhor Deus Todo-Poderoso,
+>  que era, e é, e há de vir.”
 
 ## Apocalipse 4:9
 
@@ -46,6 +46,6 @@ os vinte e quatro anciãos se prostram diante daquele que está sentado no trono
 ## Apocalipse 4:11
 
 > “Digno és, Senhor e Deus nosso,
-> de receber glória, honra e poder,
-> pois criaste todas as coisas,
-> e por tua vontade elas existiram e foram criadas.”
+>  de receber glória, honra e poder,
+>  pois criaste todas as coisas,
+>  e por tua vontade elas existiram e foram criadas.”

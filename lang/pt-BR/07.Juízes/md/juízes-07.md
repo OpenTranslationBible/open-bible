@@ -12,7 +12,7 @@ O Senhor disse a Gideão: “Você tem gente demais com você para que Eu entreg
 
 Agora, portanto, proclame aos ouvidos do povo: ‘Quem estiver com medo e tremendo, que volte e se retire do monte Gileade.’”
 
-Então vinte e dois mil do povo voltaram, mas dez mil permaneceram.
+ Então vinte e dois mil do povo voltaram, mas dez mil permaneceram.
 
 ## Juízes 7:4
 

@@ -4,7 +4,7 @@
 
 No documento selado estavam os nomes de:
 
-Neemias, o governador, filho de Hacalias, e Zedequias,
+ Neemias, o governador, filho de Hacalias, e Zedequias,
 
 ## Neemias 10:2
 
@@ -60,7 +60,7 @@ Neemias, o governador, filho de Hacalias, e Zedequias,
 
 Os líderes do povo:
 
-> Parós, Paate-Moabe, Elão, Zatu e Bani,
+>  Parós, Paate-Moabe, Elão, Zatu e Bani,
 
 ## Neemias 10:15
 
@@ -118,7 +118,7 @@ Os líderes do povo:
 
 ## Neemias 10:28
 
-Agora o restante do povo—os sacerdotes, os levitas, os porteiros, os cantores, os servos do templo, e todos os que se separaram dos povos das terras para a Lei de Deus, juntamente com suas esposas, seus filhos e suas filhas, todos os que tinham conhecimento e entendimento—
+Agora o restante do povo — os sacerdotes, os levitas, os porteiros, os cantores, os servos do templo, e todos os que se separaram dos povos das terras para a Lei de Deus, juntamente com suas esposas, seus filhos e suas filhas, todos os que tinham conhecimento e entendimento—
 
 ## Neemias 10:29
 
@@ -164,4 +164,4 @@ E o sacerdote, descendente de Arão, estará com os levitas quando os levitas re
 
 Pois o povo de Israel e os filhos de Levi trarão a contribuição de cereais, vinho novo e azeite aos depósitos, onde estão os utensílios do santuário, os sacerdotes que ministram, os porteiros e os cantores.
 
-Assim, não negligenciaremos a casa de nosso Deus.
+ Assim, não negligenciaremos a casa de nosso Deus.

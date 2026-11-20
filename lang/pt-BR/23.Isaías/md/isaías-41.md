@@ -14,7 +14,7 @@ Ele os persegue e avança em segurança, por um caminho que seus pés não havia
 
 ## Isaías 41:4
 
-Quem realizou e fez isso, chamando as gerações desde o princípio? Eu, o Senhor, sou o primeiro, e com os últimos—eu sou Ele.”
+Quem realizou e fez isso, chamando as gerações desde o princípio? Eu, o Senhor, sou o primeiro, e com os últimos — eu sou Ele.”
 
 ## Isaías 41:5
 

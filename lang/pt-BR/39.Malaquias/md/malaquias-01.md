@@ -13,7 +13,7 @@ mas Esaú eu odiei, e fiz de suas montanhas uma desolação e dei sua herança a
 Edom pode dizer: “Fomos derrotados, mas voltaremos e reconstruiremos as ruínas.” Mas é isso que o Senhor dos Exércitos diz: “Eles podem construir, mas eu derrubarei. Eles serão chamados de território da perversidade, e o povo contra quem o Senhor está indignado para sempre.”
 
 ## Malaquias 1:5
-Seus olhos verão isso, e vocês dirão: “Grande é o Senhor—mesmo além das fronteiras de Israel!”
+Seus olhos verão isso, e vocês dirão: “Grande é o Senhor — mesmo além das fronteiras de Israel!”
 
 ## Malaquias 1:6
 “Um filho honra seu pai, e um servo seu mestre. Se eu sou pai, onde está a minha honra? E se eu sou mestre, onde está o meu respeito?” diz o Senhor dos Exércitos a vocês, sacerdotes que desprezam o meu nome. Mas vocês perguntam: “Como desprezamos o teu nome?”

@@ -20,11 +20,11 @@ E todo Israel ouviu dizer que Saul havia atacado a guarnição dos filisteus, e 
 
 ## 1 Samuel 13:5
 
-Os filisteus se reuniram para lutar contra Israel—trinta mil carros, seis mil cavaleiros, e tropas tão numerosas quanto a areia na praia do mar. Eles subiram e acamparam em Micmás, a leste de Bete-Áven.
+Os filisteus se reuniram para lutar contra Israel — trinta mil carros, seis mil cavaleiros, e tropas tão numerosas quanto a areia na praia do mar. Eles subiram e acamparam em Micmás, a leste de Bete-Áven.
 
 ## 1 Samuel 13:6
 
-Quando os homens de Israel viram que estavam em perigo—pois o povo estava pressionado—eles se esconderam em cavernas, em matagais, entre rochas, em porões e em cisternas.
+Quando os homens de Israel viram que estavam em perigo — pois o povo estava pressionado — eles se esconderam em cavernas, em matagais, entre rochas, em porões e em cisternas.
 
 ## 1 Samuel 13:7
 
@@ -45,7 +45,7 @@ Assim que ele terminou de oferecer o holocausto, eis que Samuel chegou. Saul sai
 ## 1 Samuel 13:11
 
 Mas Samuel disse: “O que você fez?”  
-E Saul respondeu: “Quando vi que o povo estava se dispersando de mim, e que você não veio dentro dos dias determinados, e que os filisteus estavam se reunindo em Micmás,
+ E Saul respondeu: “Quando vi que o povo estava se dispersando de mim, e que você não veio dentro dos dias determinados, e que os filisteus estavam se reunindo em Micmás,
 
 ## 1 Samuel 13:12
 

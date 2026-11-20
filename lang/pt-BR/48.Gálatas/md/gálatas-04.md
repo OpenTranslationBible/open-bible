@@ -108,10 +108,10 @@ Mas a Jerusalém que é de cima é livre, e ela é nossa mãe espiritual.
 
 Pois está escrito:
 
-> “Alegra-te, ó estéril, que não dás à luz;
-> exulta e clama, tu que não estás em trabalho de parto;
-> porque mais são os filhos da desolada
-> do que os daquela que tem marido.”
+>  “Alegra-te, ó estéril, que não dás à luz;
+>  exulta e clama, tu que não estás em trabalho de parto;
+>  porque mais são os filhos da desolada do que os daquela que tem marido.
+> ”
 
 ## Gálatas 4:28
 

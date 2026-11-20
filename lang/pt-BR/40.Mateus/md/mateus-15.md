@@ -31,12 +31,12 @@ Hipócritas! Isaías estava certo quando profetizou sobre vocês:
 ## Mateus 15:8
 
 > ‘Este povo me honra com os lábios,
-> mas seus corações estão distantes de mim.
+>  mas seus corações estão distantes de mim.
 
 ## Mateus 15:9
 
 > Sua adoração é em vão;
-> seus ensinamentos não passam de instruções humanas.’
+>  seus ensinamentos não passam de instruções humanas.’
 
 ---
 
@@ -82,7 +82,7 @@ Mas as coisas que saem da boca vêm do coração, e estas contaminam a pessoa.
 
 ## Mateus 15:19
 
-Pois do coração vêm pensamentos maus—atos de assassinato, adultério, imoralidade sexual, roubo, falso testemunho, calúnia.
+Pois do coração vêm pensamentos maus — atos de assassinato, adultério, imoralidade sexual, roubo, falso testemunho, calúnia.
 
 ## Mateus 15:20
 

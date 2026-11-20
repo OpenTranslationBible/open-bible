@@ -55,7 +55,7 @@ as cortinas do pátio com suas colunas e bases, e a cortina para a entrada do p�
 as estacas da tenda para o tabernáculo e para o pátio, e suas cordas;
 
 ## Êxodo 35:19
-as vestes tecidas usadas para ministrar no santuário—as vestes sagradas para Arão, o sacerdote, e as vestes para seus filhos quando servirem como sacerdotes.”
+as vestes tecidas usadas para ministrar no santuário — as vestes sagradas para Arão, o sacerdote, e as vestes para seus filhos quando servirem como sacerdotes.”
 
 ## Êxodo 35:20
 Então toda a assembleia dos israelitas saiu da presença de Moisés,
@@ -73,7 +73,7 @@ Todos os que tinham fio azul, púrpura ou escarlate, ou linho fino, ou pelos de 
 Todos os que podiam fazer uma contribuição de prata ou bronze trouxeram-na como uma oferta ao Senhor, e todos os que tinham madeira de acácia para qualquer parte do trabalho trouxeram-na.
 
 ## Êxodo 35:25
-Todas as mulheres habilidosas fiavam com suas mãos e trouxeram o que tinham fiado—fio azul, púrpura ou escarlate, e linho fino.
+Todas as mulheres habilidosas fiavam com suas mãos e trouxeram o que tinham fiado — fio azul, púrpura ou escarlate, e linho fino.
 
 ## Êxodo 35:26
 E todas as mulheres cujo coração foi tocado com habilidade fiaram os pelos de cabra.
@@ -103,4 +103,4 @@ para cortar e incrustar pedras, para trabalhar em madeira e para se envolver em 
 Ele também concedeu a ele e a Aoliabe, filho de Aisamaque, da tribo de Dã, a capacidade de instruir outros.
 
 ## Êxodo 35:35
-Ele os encheu de habilidade para realizar todo tipo de trabalho como gravadores, designers, bordadores em fio azul, púrpura e escarlate, e linho fino, e tecelões—todos eles trabalhadores habilidosos e designers.
+Ele os encheu de habilidade para realizar todo tipo de trabalho como gravadores, designers, bordadores em fio azul, púrpura e escarlate, e linho fino, e tecelões — todos eles trabalhadores habilidosos e designers.

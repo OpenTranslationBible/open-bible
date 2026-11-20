@@ -30,7 +30,7 @@ Ou cometi um erro ao me rebaixar para que vocês fossem elevados, porque preguei
 
 ## 2 Coríntios 11:8
 
-Recebi apoio de outras igrejas, aceitando a ajuda delas para servi-los;
+Despojei outras igrejas, aceitando a ajuda delas para servi-los;
 
 ## 2 Coríntios 11:9
 

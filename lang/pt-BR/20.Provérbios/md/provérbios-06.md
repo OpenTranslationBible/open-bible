@@ -12,7 +12,7 @@ você foi enredado pelas palavras da sua boca, preso pelo que você falou.
 
 Então faça isso, meu filho, para se salvar, já que você caiu nas mãos do seu próximo:
 
-> Vá, humilhe-se, e seja urgente com o seu próximo para se libertar.
+>  Vá, humilhe-se, e seja urgente com o seu próximo para se libertar.
 
 ## Provérbios 6:4
 
@@ -22,7 +22,7 @@ Não permita sono aos seus olhos, nem adormecimento às suas pálpebras;
 
 Salve-se como a gazela da mão do caçador,
 
-> e como o pássaro do laço do passarinheiro.
+>  e como o pássaro do laço do passarinheiro.
 
 ---
 
@@ -46,7 +46,7 @@ Até quando você ficará deitado, ó preguiçoso? Quando se levantará do seu s
 
 Um breve sono, um pequeno cochilo,
 
-> um leve cruzar de mãos para descansar—
+>  um leve cruzar de mãos para descansar—
 
 ## Provérbios 6:11
 
@@ -64,9 +64,7 @@ que pisca com os olhos, sinaliza com os pés, e aponta com os dedos,
 
 ## Provérbios 6:14
 
-que trama o mal com engano no coração—
-
-> ele continuamente espalha discórdia.
+que trama o mal com engano no coração — ele continuamente espalha discórdia.
 
 ## Provérbios 6:15
 
@@ -81,17 +79,17 @@ Há seis coisas que o Senhor odeia, sete que são abominação para Ele:
 ## Provérbios 6:17
 
 > olhos altivos, língua enganosa,
-> e mãos que derramam sangue inocente,
+>  e mãos que derramam sangue inocente,
 
 ## Provérbios 6:18
 
 > coração que planeja esquemas perversos,
-> pés que se apressam para o mal,
+>  pés que se apressam para o mal,
 
 ## Provérbios 6:19
 
 > testemunha falsa que profere mentiras,
-> e aquele que espalha discórdia entre irmãos.
+>  e aquele que espalha discórdia entre irmãos.
 
 ---
 
@@ -107,7 +105,7 @@ Amarre-os continuamente ao seu coração; prenda-os ao redor do seu pescoço.
 
 Quando você andar, eles o guiarão; quando dormir, eles o vigiarão;
 
-> e quando acordar, eles falarão com você.
+>  e quando acordar, eles falarão com você.
 
 ## Provérbios 6:23
 

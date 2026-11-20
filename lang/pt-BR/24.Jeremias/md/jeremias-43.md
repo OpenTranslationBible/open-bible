@@ -1,7 +1,7 @@
 # Jeremias Capítulo 43
 
 ## Jeremias 43:1
-Quando Jeremias, a quem o Senhor seu Deus havia enviado, terminou de transmitir todas as palavras do Senhor seu Deus ao povo—todas essas palavras—
+Quando Jeremias, a quem o Senhor seu Deus havia enviado, terminou de transmitir todas as palavras do Senhor seu Deus ao povo — todas essas palavras—
 
 ## Jeremias 43:2
 Azarias, filho de Hosaías, Joanã, filho de Careá, e todos os homens arrogantes disseram a Jeremias: “Você está mentindo! O Senhor nosso Deus não te enviou para nos dizer: ‘Vocês não devem ir ao Egito para residir lá.’

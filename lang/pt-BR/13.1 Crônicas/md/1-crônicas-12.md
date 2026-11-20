@@ -3,9 +3,9 @@
 ## 1 Crônicas 12:1
 
 Estes são os que vieram a Davi em Ziclague,  
-enquanto ele ainda estava restrito por causa de Saul, filho de Quis;
+ enquanto ele ainda estava restrito por causa de Saul, filho de Quis;
 
-> e eles estavam entre os valentes que o ajudaram na batalha.
+>  e eles estavam entre os valentes que o ajudaram na batalha.
 
 ---
 
@@ -13,8 +13,8 @@ enquanto ele ainda estava restrito por causa de Saul, filho de Quis;
 
 Eram hábeis com arcos,
 
-> aptos tanto com a mão direita quanto com a esquerda para atirar pedras e flechas;  
-> eram parentes de Saul, da tribo de Benjamim.
+>  aptos tanto com a mão direita quanto com a esquerda para atirar pedras e flechas;  
+>  eram parentes de Saul, da tribo de Benjamim.
 
 ---
 
@@ -22,16 +22,16 @@ Eram hábeis com arcos,
 
 O líder era Aiezer, seguido por Joás,
 
-> filhos de Semaá, o gibeatita;  
-> e Jeziel e Pelete, filhos de Azmavete,  
-> e Beraca, e Jeú, o anatotita,
+>  filhos de Semaá, o gibeatita;  
+>  e Jeziel e Pelete, filhos de Azmavete,  
+>  e Beraca, e Jeú, o anatotita,
 
 ---
 
 ## 1 Crônicas 12:4
 
 > e Ismaías, o gibeonita, um líder valente entre os trinta, e sobre eles.  
-> Depois vieram Jeremias, Jazaiel, Joanã, Jozabade, o gederatita,
+>  Depois vieram Jeremias, Jazaiel, Joanã, Jozabade, o gederatita,
 
 ---
 
@@ -56,11 +56,11 @@ O líder era Aiezer, seguido por Joás,
 ## 1 Crônicas 12:8
 
 Dos gaditas, homens valentes vieram a Davi na fortaleza no deserto,  
-homens poderosos de valor, treinados para a guerra,
+ homens poderosos de valor, treinados para a guerra,
 
-> que podiam manejar escudo e lança,  
-> e cujos rostos eram como rostos de leões,  
-> e eram ágeis como gazelas nas montanhas.
+>  que podiam manejar escudo e lança,  
+>  e cujos rostos eram como rostos de leões,  
+>  e eram ágeis como gazelas nas montanhas.
 
 ---
 
@@ -98,7 +98,7 @@ homens poderosos de valor, treinados para a guerra,
 
 Esses filhos de Gade eram líderes no exército;
 
-> o menor entre eles era tão forte quanto cem, e o maior como mil.
+>  o menor entre eles era tão forte quanto cem, e o maior como mil.
 
 ---
 
@@ -106,7 +106,7 @@ Esses filhos de Gade eram líderes no exército;
 
 Estes são os que atravessaram o Jordão no primeiro mês, quando ele transbordava em todas as suas margens,
 
-> e expulsaram todos os que estavam nos vales, ao leste e ao oeste.
+>  e expulsaram todos os que estavam nos vales, ao leste e ao oeste.
 
 ---
 
@@ -120,9 +120,9 @@ Então alguns das tribos de Benjamim e Judá se juntaram a Davi na fortaleza.
 
 Davi saiu ao encontro deles e lhes disse:
 
-> “Se vocês vêm pacificamente a mim para me ajudar, meu coração estará unido a vocês;  
-> mas se para me trair aos meus inimigos, embora não haja violência em minhas mãos,  
-> que o Deus de nossos pais veja e julgue.”
+>  “Se vocês vêm pacificamente a mim para me ajudar, meu coração estará unido a vocês;  
+>  mas se para me trair aos meus inimigos, embora não haja violência em minhas mãos,  
+>  que o Deus de nossos pais veja e julgue.”
 
 ---
 
@@ -130,22 +130,22 @@ Davi saiu ao encontro deles e lhes disse:
 
 Então o Espírito veio sobre Amasai, que era o chefe dos trinta, e ele disse:
 
-> “Somos teus, Davi,  
-> e contigo, filho de Jessé!  
-> Paz, paz a ti,  
-> e paz àquele que te ajuda;  
-> pois teu Deus te ajuda.”  
-> Assim, Davi os recebeu e os fez capitães do bando.
+>  “Somos teus, Davi,  
+>  e contigo, filho de Jessé!  
+>  Paz, paz a ti,  
+>  e paz àquele que te ajuda;  
+>  pois teu Deus te ajuda.”  
+>  Assim, Davi os recebeu e os fez capitães do bando.
 
 ---
 
 ## 1 Crônicas 12:19
 
 De Manassés, alguns desertaram para Davi quando ele estava prestes a ir à batalha com os filisteus contra Saul.  
-No entanto, eles não os ajudaram,
+ No entanto, eles não os ajudaram,
 
-> pois os príncipes filisteus o mandaram embora após consulta, dizendo:  
-> “Ele pode desertar para seu senhor Saul, ao custo de nossas cabeças.”
+>  pois os príncipes filisteus o mandaram embora após consulta, dizendo:  
+>  “Ele pode desertar para seu senhor Saul, ao custo de nossas cabeças.”
 
 ---
 
@@ -153,8 +153,8 @@ No entanto, eles não os ajudaram,
 
 Quando ele foi a Ziclague, os de Manassés que vieram a ele foram:
 
-> Adna, Jozabade, Jediael, Micael, Jozabade, Eliú e Ziletai,  
-> capitães de milhares que pertenciam a Manassés.
+>  Adna, Jozabade, Jediael, Micael, Jozabade, Eliú e Ziletai,  
+>  capitães de milhares que pertenciam a Manassés.
 
 ---
 
@@ -162,23 +162,23 @@ Quando ele foi a Ziclague, os de Manassés que vieram a ele foram:
 
 Eles ajudaram Davi contra o bando de saqueadores,
 
-> pois eram todos homens valentes de valor e eram capitães no exército.
+>  pois eram todos homens valentes de valor e eram capitães no exército.
 
 ---
 
 ## 1 Crônicas 12:22
 
 Dia após dia, homens vinham a Davi para apoiá-lo,  
-até que havia um grande exército, comparável ao exército de Deus.
+ até que havia um grande exército, comparável ao exército de Deus.
 
 ---
 
 ## 1 Crônicas 12:23
 
 Agora, estes são os números das divisões preparadas para a guerra,  
-que vieram a Davi em Hebrom para transferir o reino de Saul para ele,
+ que vieram a Davi em Hebrom para transferir o reino de Saul para ele,
 
-> conforme a palavra do Senhor havia declarado.
+>  conforme a palavra do Senhor havia declarado.
 
 ---
 
@@ -186,7 +186,7 @@ que vieram a Davi em Hebrom para transferir o reino de Saul para ele,
 
 Os filhos de Judá que carregavam escudo e lança eram:
 
-> 6.800, equipados para a guerra.
+>  6.800, equipados para a guerra.
 
 ---
 
@@ -194,7 +194,7 @@ Os filhos de Judá que carregavam escudo e lança eram:
 
 Dos filhos de Simeão, homens valentes de valor para a guerra:
 
-> 7.100.
+>  7.100.
 
 ---
 
@@ -202,7 +202,7 @@ Dos filhos de Simeão, homens valentes de valor para a guerra:
 
 Dos filhos de Levi:
 
-> num total de 4.600.
+>  num total de 4.600.
 
 ---
 
@@ -210,7 +210,7 @@ Dos filhos de Levi:
 
 Jeoiada era o líder da casa de Arão,
 
-> e com ele estavam 3.700.
+>  e com ele estavam 3.700.
 
 ---
 
@@ -218,7 +218,7 @@ Jeoiada era o líder da casa de Arão,
 
 Também Zadoque, um jovem poderoso em valor,
 
-> e da casa de seu pai vinte e dois capitães.
+>  e da casa de seu pai vinte e dois capitães.
 
 ---
 
@@ -226,8 +226,8 @@ Também Zadoque, um jovem poderoso em valor,
 
 Dos filhos de Benjamim, parentes de Saul:
 
-> 3.000;  
-> pois até aquele momento a maioria deles mantinha sua lealdade à casa de Saul.
+>  3.000;  
+>  pois até aquele momento a maioria deles mantinha sua lealdade à casa de Saul.
 
 ---
 
@@ -235,7 +235,7 @@ Dos filhos de Benjamim, parentes de Saul:
 
 Dos filhos de Efraim, homens valentes de valor, homens famosos nas casas de seus pais:
 
-> 20.800.
+>  20.800.
 
 ---
 
@@ -243,7 +243,7 @@ Dos filhos de Efraim, homens valentes de valor, homens famosos nas casas de seus
 
 Da meia tribo de Manassés:
 
-> 18.000, que foram designados por nome para vir e fazer Davi rei.
+>  18.000, que foram designados por nome para vir e fazer Davi rei.
 
 ---
 
@@ -251,8 +251,8 @@ Da meia tribo de Manassés:
 
 Dos filhos de Issacar, homens que entendiam os tempos, com conhecimento do que Israel deveria fazer:
 
-> seus chefes eram 200,  
-> e todos os seus parentes estavam sob seu comando.
+>  seus chefes eram 200,  
+>  e todos os seus parentes estavam sob seu comando.
 
 ---
 
@@ -260,7 +260,7 @@ Dos filhos de Issacar, homens que entendiam os tempos, com conhecimento do que I
 
 De Zebulom, aqueles que saíram para a batalha com todos os tipos de armas de guerra, preparados para a batalha:
 
-> 50.000, que podiam se alinhar em formação de batalha sem hesitação.
+>  50.000, que podiam se alinhar em formação de batalha sem hesitação.
 
 ---
 
@@ -268,8 +268,8 @@ De Zebulom, aqueles que saíram para a batalha com todos os tipos de armas de gu
 
 De Naftali:
 
-> 1.000 capitães,  
-> e com eles 37.000 com escudo e lança.
+>  1.000 capitães,  
+>  e com eles 37.000 com escudo e lança.
 
 ---
 
@@ -277,7 +277,7 @@ De Naftali:
 
 Dos danitas, que podiam se alinhar em formação de batalha:
 
-> 28.600.
+>  28.600.
 
 ---
 
@@ -285,7 +285,7 @@ Dos danitas, que podiam se alinhar em formação de batalha:
 
 De Aser, aqueles que saíram para a guerra, que podiam se alinhar em formação de batalha:
 
-> 40.000.
+>  40.000.
 
 ---
 
@@ -293,15 +293,15 @@ De Aser, aqueles que saíram para a guerra, que podiam se alinhar em formação 
 
 Do outro lado do Jordão, dos rubenitas, gaditas e da meia tribo de Manassés, com todos os tipos de armas para a guerra:
 
-> 120.000.
+>  120.000.
 
 ---
 
 ## 1 Crônicas 12:38
 
 Todos estes, sendo homens de guerra que podiam se alinhar em formação de batalha,  
-vieram a Hebrom com um coração perfeito para fazer Davi rei sobre todo o Israel;  
-e o restante de Israel estava de um só coração para fazer Davi rei.
+ vieram a Hebrom com um coração perfeito para fazer Davi rei sobre todo o Israel;  
+ e o restante de Israel estava de um só coração para fazer Davi rei.
 
 ---
 
@@ -309,13 +309,13 @@ e o restante de Israel estava de um só coração para fazer Davi rei.
 
 Eles estavam lá com Davi por três dias, comendo e bebendo,
 
-> pois seus parentes haviam providenciado para eles.
+>  pois seus parentes haviam providenciado para eles.
 
 ---
 
 ## 1 Crônicas 12:40
 
 Além disso, aqueles que estavam perto deles, até mesmo de Issacar, Zebulom e Naftali,  
-trouxeram comida em jumentos, camelos, mulas e bois—grandes quantidades de farinha, bolos de figo, bolos de uva, vinho, óleo, bois e ovelhas.
+ trouxeram comida em jumentos, camelos, mulas e bois — grandes quantidades de farinha, bolos de figo, bolos de uva, vinho, óleo, bois e ovelhas.
 
-> Havia alegria de fato em Israel.
+>  Havia alegria de fato em Israel.

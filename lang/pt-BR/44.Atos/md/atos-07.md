@@ -74,7 +74,7 @@ Seus corpos foram levados de volta a Siquém e colocados no túmulo que Abraão 
 
 ## Atos 7:18
 
-Até que se levantou um novo rei sobre o Egito que não conhecia José.
+Então se levantou um novo rei sobre o Egito que não conhecia José.
 
 ## Atos 7:19
 
@@ -166,7 +166,7 @@ Ele estava com a congregação no deserto, com o anjo que lhe falou no Monte Sin
 
 ## Atos 7:40
 
-Eles disseram a Arão: ‘Faça-nos deuses que irão adiante de nós. Quanto a este Moisés que nos tirou do Egito—não sabemos o que aconteceu com ele!’
+Eles disseram a Arão: ‘Faça-nos deuses que irão adiante de nós. Quanto a este Moisés que nos tirou do Egito — não sabemos o que aconteceu com ele!’
 
 ## Atos 7:41
 
@@ -176,15 +176,15 @@ Naquela época, fizeram um ídolo na forma de um bezerro. Trouxeram sacrifícios
 
 Mas Deus se afastou deles e os entregou à adoração do sol, da lua e das estrelas. Como está escrito no livro dos profetas:
 
-> ‘Foi a Mim que vocês ofereceram sacrifícios e ofertas
-> durante quarenta anos no deserto, ó casa de Israel?
+>  ‘Foi a Mim que vocês ofereceram sacrifícios e ofertas durante quarenta anos no deserto,
+>  ó casa de Israel?
 
 ## Atos 7:43
 
-> Vocês levantaram o tabernáculo de Moloque
-> e a estrela do seu deus Renfã,
-> os ídolos que vocês fizeram para adorar.
-> Portanto, Eu os enviarei para o exílio além da Babilônia.’
+> Vocês levantaram o tabernáculo de Moloque e a estrela do seu deus Renfã,
+>  os ídolos que vocês fizeram para adorar.
+>  Portanto,
+>  Eu os enviarei para o exílio além da Babilônia.’
 
 ---
 
@@ -211,9 +211,9 @@ No entanto, o Altíssimo não reside em estruturas feitas por mãos humanas. Com
 ## Atos 7:49
 
 > ‘O céu é o Meu trono,
-> e a terra é o estrado dos Meus pés.
-> Que tipo de casa vocês construirão para Mim?’ diz o Senhor.
-> ‘Ou onde será o Meu lugar de descanso?
+>  e a terra é o estrado dos Meus pés.
+>  Que tipo de casa vocês construirão para Mim?’ diz o Senhor.
+>  ‘Ou onde será o Meu lugar de descanso?
 
 ## Atos 7:50
 

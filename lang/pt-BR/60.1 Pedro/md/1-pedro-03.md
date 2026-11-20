@@ -10,7 +10,7 @@ ao observarem o seu comportamento puro e respeitoso.
 
 ## 1 Pedro 3:3
 
-O adorno de vocês não deve ser o exterior—trança de cabelo, uso de joias de ouro ou vestuário;
+O adorno de vocês não deve ser o exterior — trança de cabelo, uso de joias de ouro ou vestuário;
 
 ## 1 Pedro 3:4
 
@@ -40,21 +40,19 @@ não retribuindo mal por mal ou insulto por insulto, mas oferecendo uma bênçã
 
 Pois,
 
-> “Quem quer amar a vida  
-> e ver dias bons,  
-> Deve guardar sua língua do mal  
-> e seus lábios de falar engano.
+>  “Quem quer amar a vida e ver dias bons,  
+>  Deve guardar sua língua do mal e seus lábios de falar engano.
 
 ## 1 Pedro 3:11
 
 > Devem afastar-se do mal e fazer o bem;  
-> Devem buscar a paz e persegui-la.
+>  Devem buscar a paz e persegui-la.
 
 ## 1 Pedro 3:12
 
 > Pois os olhos do Senhor estão sobre os justos,  
-> E Seus ouvidos estão atentos à sua oração,  
-> Mas o rosto do Senhor é contra os que fazem o mal.”
+>  E Seus ouvidos estão atentos à sua oração,  
+>  Mas o rosto do Senhor é contra os que fazem o mal.”
 
 ## 1 Pedro 3:13
 
@@ -90,8 +88,8 @@ que foram desobedientes há muito tempo, quando Deus esperou pacientemente nos d
 
 ## 1 Pedro 3:21
 
-E essa água simboliza o batismo que agora também salva vocês—não a remoção da sujeira do corpo, mas o compromisso de uma boa consciência para com Deus. Isso os salva pela ressurreição de Jesus Cristo,
+E essa água simboliza o batismo que agora também salva vocês — não a remoção da sujeira do corpo, mas o compromisso de uma boa consciência para com Deus. Isso os salva pela ressurreição de Jesus Cristo,
 
 ## 1 Pedro 3:22
 
-que ascendeu ao céu e está à direita de Deus—com anjos, autoridades e poderes sujeitos a Ele.
+que ascendeu ao céu e está à direita de Deus — com anjos, autoridades e poderes sujeitos a Ele.

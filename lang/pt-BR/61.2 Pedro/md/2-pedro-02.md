@@ -88,8 +88,8 @@ Pois teria sido preferível para eles não terem conhecido o caminho da justiça
 
 Isto é mostrado pelo verdadeiro provérbio:
 
-> “O cão volta ao seu próprio vômito,”
+>  “O cão volta ao seu próprio vômito,”
 
-e,
+ e,
 
-> “A porca lavada volta a revolver-se na lama.”
+>  “A porca lavada volta a revolver-se na lama.”

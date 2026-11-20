@@ -4,31 +4,31 @@
 
 Além disso, Davi e os comandantes do exército separaram para o serviço alguns dos filhos de Asafe, Hemã e Jedutum,
 
-> que deviam profetizar com liras, harpas e címbalos;  
-> e o número dos que realizaram seu serviço foi:
+>  que deviam profetizar com liras, harpas e címbalos;  
+>  e o número dos que realizaram seu serviço foi:
 
 ---
 
 ## 1 Crônicas 25:2
 
 > Dos filhos de Asafe: Zacur, José, Netanias e Asarela;  
-> esses filhos foram guiados por Asafe,  
-> que profetizava sob a orientação do rei.
+>  esses filhos foram guiados por Asafe,  
+>  que profetizava sob a orientação do rei.
 
 ---
 
 ## 1 Crônicas 25:3
 
 > De Jedutum: os filhos de Jedutum foram Gedalias, Zeri, Jesaías, Simei, Hasabias e Matitias — seis,  
-> sob a direção de seu pai Jedutum com a harpa,  
-> que profetizava dando graças e louvando ao Senhor.
+>  sob a direção de seu pai Jedutum com a harpa,  
+>  que profetizava dando graças e louvando ao Senhor.
 
 ---
 
 ## 1 Crônicas 25:4
 
 > De Hemã: os filhos de Hemã foram Buquias, Matanias, Uziel, Sebuel, Jerimote, Hananias, Hanani, Eliata,  
-> Gidalti, Romamti-Ezer, Josbecasa, Maloti, Hotir e Maaziote.
+>  Gidalti, Romamti-Ezer, Josbecasa, Maloti, Hotir e Maaziote.
 
 ---
 
@@ -36,25 +36,25 @@ Além disso, Davi e os comandantes do exército separaram para o serviço alguns
 
 Todos estes foram filhos de Hemã, o vidente do rei,
 
-> para honrá-lo de acordo com as palavras de Deus;  
-> pois Deus concedeu a Hemã catorze filhos e três filhas.
+>  para honrá-lo de acordo com as palavras de Deus;  
+>  pois Deus concedeu a Hemã catorze filhos e três filhas.
 
 ---
 
 ## 1 Crônicas 25:6
 
-Todos estes estavam sob a orientação de seu pai
+Todos estes estavam sob a orientação de seu pai para cantar na casa do Senhor,
 
-> para cantar na casa do Senhor, com címbalos, harpas e liras,  
-> para o serviço da casa de Deus.  
-> Asafe, Jedutum e Hemã estavam sob a direção do rei.
+>  com címbalos, harpas e liras,  
+>  para o serviço da casa de Deus.  
+>  Asafe, Jedutum e Hemã estavam sob a direção do rei.
 
 ---
 
 ## 1 Crônicas 25:7
 
 O número dos que foram treinados para cantar ao Senhor,  
-com seus parentes, todos os que eram habilidosos, era
+ com seus parentes, todos os que eram habilidosos, era de 288.
 
 > 288.
 
@@ -64,7 +64,7 @@ com seus parentes, todos os que eram habilidosos, era
 
 Eles lançaram sortes para seus deveres, todos igualmente,
 
-> o jovem assim como o velho, o mestre assim como o aluno.
+>  o jovem assim como o velho, o mestre assim como o aluno.
 
 ---
 
@@ -72,7 +72,7 @@ Eles lançaram sortes para seus deveres, todos igualmente,
 
 A primeira sorte para Asafe caiu para José,
 
-> a segunda para Gedalias, ele com seus parentes e filhos eram doze;
+>  a segunda para Gedalias, ele com seus parentes e filhos eram doze;
 
 ---
 

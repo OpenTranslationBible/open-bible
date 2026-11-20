@@ -4,7 +4,7 @@
 
 Os descendentes de Levi incluíam:
 
-> Gérson, Coate e Merari.
+>  Gérson, Coate e Merari.
 
 ---
 
@@ -12,7 +12,7 @@ Os descendentes de Levi incluíam:
 
 A linhagem de Coate compreendia:
 
-> Anrão, Izar, Hebrom e Uziel.
+>  Anrão, Izar, Hebrom e Uziel.
 
 ---
 
@@ -20,9 +20,9 @@ A linhagem de Coate compreendia:
 
 Os filhos de Anrão foram:
 
-> Arão, Moisés e Miriã.  
-> E os filhos de Arão foram:  
-> Nadabe, Abiú, Eleazar e Itamar.
+>  Arão, Moisés e Miriã.  
+>  E os filhos de Arão foram:  
+>  Nadabe, Abiú, Eleazar e Itamar.
 
 ---
 
@@ -82,7 +82,7 @@ E Jeozadaque foi levado quando o Senhor levou Judá e Jerusalém ao exílio pela
 
 Os descendentes de Levi incluíam:
 
-> Gérson, Coate e Merari.
+>  Gérson, Coate e Merari.
 
 ---
 
@@ -90,7 +90,7 @@ Os descendentes de Levi incluíam:
 
 Estes são os filhos de Gérson:
 
-> Libni e Simei.
+>  Libni e Simei.
 
 ---
 
@@ -98,7 +98,7 @@ Estes são os filhos de Gérson:
 
 A linhagem de Coate compreendia:
 
-> Anrão, Izar, Hebrom e Uziel.
+>  Anrão, Izar, Hebrom e Uziel.
 
 ---
 
@@ -106,8 +106,8 @@ A linhagem de Coate compreendia:
 
 Os filhos de Merari foram:
 
-> Mali e Musi.  
-> Estas são as famílias dos levitas de acordo com as casas de seus pais.
+>  Mali e Musi.  
+>  Estas são as famílias dos levitas de acordo com as casas de seus pais.
 
 ---
 
@@ -115,7 +115,7 @@ Os filhos de Merari foram:
 
 De Gérson:
 
-> Libni que gerou, Jaate que gerou, Zima
+>  Libni que gerou, Jaate que gerou, Zima que gerou,
 
 ## 1 Crônicas 6:21
 
@@ -127,11 +127,11 @@ De Gérson:
 
 A linhagem de Coate compreendia:
 
-> Aminadabe que gerou, Corá que gerou, Assir,
+>  Aminadabe que gerou, Corá que gerou, Assir que gerou,
 
 ## 1 Crônicas 6:23
 
-> Elcana que gerou, Ebiasafe que gerou, Assir,
+> Elcana que gerou, Ebiasafe que gerou, Assir que gerou,
 
 ## 1 Crônicas 6:24
 
@@ -143,7 +143,7 @@ A linhagem de Coate compreendia:
 
 Os filhos de Elcana foram:
 
-> Amasai e Aimote.
+>  Amasai e Aimote.
 
 ---
 
@@ -151,7 +151,7 @@ Os filhos de Elcana foram:
 
 Elcana:
 
-> Elcana que gerou, Zofai que gerou, Naate,
+>  Elcana que gerou, Zofai que gerou, Naate que gerou,
 
 ## 1 Crônicas 6:27
 
@@ -163,15 +163,15 @@ Elcana:
 
 Os filhos de Samuel foram:
 
-> Joel, o primogênito, e Abias, o segundo.
+>  Joel, o primogênito, e Abias, o segundo.
 
 ---
 
 ## 1 Crônicas 6:29
 
-Os filhos de Merari foram:
+Os filhos de Merari foram: Mali,
 
-> Mali, Libni que gerou, Simei que gerou, Uzá,
+>  Libni que gerou, Simei que gerou, Uzá que gerou,
 
 ## 1 Crônicas 6:30
 
@@ -182,24 +182,24 @@ Os filhos de Merari foram:
 ## 1 Crônicas 6:31
 
 Estes são os que Davi nomeou para o serviço do canto na casa do Senhor,  
-depois que a arca encontrou repouso ali.
+ depois que a arca encontrou repouso ali.
 
 ---
 
 ## 1 Crônicas 6:32
 
 Eles ministravam com canto diante do tabernáculo da tenda da congregação,  
-até que Salomão construiu a casa do Senhor em Jerusalém;  
-e cumpriram suas funções de acordo com a ordem dada a eles.
+ até que Salomão construiu a casa do Senhor em Jerusalém;  
+ e cumpriram suas funções de acordo com a ordem dada a eles.
 
 ---
 
 ## 1 Crônicas 6:33
 
 Estes são os que serviram com seus filhos:  
-Dos filhos dos coatitas:
+ Dos filhos dos coatitas:
 
-> Hemã, o cantor, cujo pai era Joel, cujo pai era Samuel,
+>  Hemã, o cantor, cujo pai era Joel, cujo pai era Samuel,
 
 ## 1 Crônicas 6:34
 
@@ -227,15 +227,15 @@ Dos filhos dos coatitas:
 
 O parente de Hemã, Asafe, estava à sua direita,
 
-> Asafe, cujo pai era Berequias, cujo pai era Simeia,
+>  Asafe, cujo pai era Berequias, cujo pai era Simeia,
 
 ## 1 Crônicas 6:40
 
-> cujo pai era Micael, que era o pai de Baaseias, cujo pai era Malquias,
+> cujo pai era Micael, cujo pai era Baaseias, cujo pai era Malquias,
 
 ## 1 Crônicas 6:41
 
-> cujo pai era Etni, que era o pai de Zerá, cujo pai era Adaías,
+> cujo pai era Etni, cujo pai era Zerá, cujo pai era Adaías,
 
 ## 1 Crônicas 6:42
 
@@ -243,7 +243,7 @@ O parente de Hemã, Asafe, estava à sua direita,
 
 ## 1 Crônicas 6:43
 
-> cujo pai era Jaate, que era o pai de Gérson, cujo pai era Levi.
+> cujo pai era Jaate, cujo pai era Gérson, cujo pai era Levi.
 
 ---
 
@@ -251,34 +251,34 @@ O parente de Hemã, Asafe, estava à sua direita,
 
 À esquerda estavam seus parentes,
 
-> os filhos de Merari: Etã, cujo pai era Quisi, que era o pai de Abdi, cujo pai era Maluque,
+>  os filhos de Merari: Etã, cujo pai era Quisi, cujo pai era Abdi, cujo pai era Maluque,
 
 ## 1 Crônicas 6:45
 
-> cujo pai era Hasabias, que era o pai de Amazias, cujo pai era Hilquias,
+> cujo pai era Hasabias, cujo pai era Amazias, cujo pai era Hilquias,
 
 ## 1 Crônicas 6:46
 
-> cujo pai era Amzi, que era o pai de Bani, cujo pai era Semer,
+> cujo pai era Amzi, cujo pai era Bani, cujo pai era Semer,
 
 ## 1 Crônicas 6:47
 
-> cujo pai era Mali, que era o pai de Musi, cujo pai era Merari, cujo pai era Levi.
+> cujo pai era Mali, cujo pai era Musi, cujo pai era Merari, cujo pai era Levi.
 
 ---
 
 ## 1 Crônicas 6:48
 
-Seus parentes, os levitas, foram designados para todo o serviço do tabernáculo  
-da casa de Deus.
+Seus parentes, os levitas,  
+ foram designados para todo o serviço do tabernáculo da casa de Deus.
 
 ---
 
 ## 1 Crônicas 6:49
 
-No entanto, Arão e seus filhos faziam ofertas no altar do holocausto  
-e no altar do incenso, para todo o trabalho do Lugar Santíssimo,  
-e para fazer expiação por Israel, de acordo com tudo o que Moisés, o servo de Deus, havia ordenado.
+No entanto, Arão e seus filhos faziam ofertas no altar do holocausto e no altar do incenso,  
+ para todo o trabalho do Lugar Santíssimo,  
+ e para fazer expiação por Israel, de acordo com tudo o que Moisés, o servo de Deus, havia ordenado.
 
 ---
 
@@ -286,7 +286,7 @@ e para fazer expiação por Israel, de acordo com tudo o que Moisés, o servo de
 
 Estes são os filhos de Arão:
 
-> Eleazar que gerou, Finéias que gerou, Abisua que gerou,
+>  Eleazar que gerou, Finéias que gerou, Abisua que gerou,
 
 ## 1 Crônicas 6:51
 
@@ -305,9 +305,9 @@ Estes são os filhos de Arão:
 ## 1 Crônicas 6:54
 
 Agora estas são suas habitações de acordo com seus acampamentos dentro de seus limites:  
-Aos filhos de Arão, das famílias dos coatitas,
+ Aos filhos de Arão, das famílias dos coatitas,
 
-> pois a sorte caiu para eles primeiro.
+>  pois a sorte caiu para eles primeiro.
 
 ---
 
@@ -325,7 +325,7 @@ mas deram os campos da cidade e suas aldeias a Calebe, filho de Jefoné.
 
 Aos filhos de Arão forneceram as seguintes cidades de refúgio:
 
-> Hebrom, Libna com suas pastagens, Jatir, Estemoa com suas pastagens,
+>  Hebrom, Libna com suas pastagens, Jatir, Estemoa com suas pastagens,
 
 ## 1 Crônicas 6:58
 
@@ -341,30 +341,30 @@ Aos filhos de Arão forneceram as seguintes cidades de refúgio:
 
 Da tribo de Benjamim deram:
 
-> Geba, Alemete e Anatote com suas pastagens.  
-> Todas as suas cidades para as famílias dos filhos de Arão foram treze cidades ao todo.
+>  Geba, Alemete e Anatote com suas pastagens.  
+>  Todas as suas cidades para as famílias dos filhos de Arão foram treze cidades ao todo.
 
 ---
 
 ## 1 Crônicas 6:61
 
 Ao restante dos filhos de Coate, das famílias da tribo,  
-deram dez cidades por sorteio da meia tribo, a metade de Manassés.
+ deram dez cidades por sorteio da meia tribo, a metade de Manassés.
 
 ---
 
 ## 1 Crônicas 6:62
 
 Aos filhos de Gérson, de acordo com suas famílias,  
-deram treze cidades das tribos de Issacar, Aser, Naftali,  
-e Manassés em Basã.
+ deram treze cidades das tribos de Issacar, Aser, Naftali,  
+ e Manassés em Basã.
 
 ---
 
 ## 1 Crônicas 6:63
 
 Aos filhos de Merari, de acordo com suas famílias,  
-deram doze cidades das tribos de Rúben, Gade e Zebulom.
+ deram doze cidades das tribos de Rúben, Gade e Zebulom.
 
 ---
 
@@ -377,15 +377,14 @@ Assim, os israelitas forneceram aos levitas as cidades e suas pastagens.
 ## 1 Crônicas 6:65
 
 Eles alocaram por sorteio da tribo dos filhos de Judá, da tribo dos filhos de Simeão,  
-e da tribo dos filhos de Benjamim,  
-estas cidades que são mencionadas pelo nome.
+ e da tribo dos filhos de Benjamim,  
+ estas cidades que são mencionadas pelo nome.
 
 ---
 
 ## 1 Crônicas 6:66
 
-Agora algumas das famílias dos filhos de Coate tinham cidades de sua herança  
-da tribo de Efraim.
+Agora algumas das famílias dos filhos de Coate tinham cidades de sua herança da tribo de Efraim.
 
 ---
 
@@ -393,8 +392,8 @@ da tribo de Efraim.
 
 Eles lhes deram as cidades de refúgio:
 
-> Siquém na região montanhosa de Efraim com suas pastagens,  
-> Gezer com suas pastagens,
+>  Siquém na região montanhosa de Efraim com suas pastagens,  
+>  Gezer com suas pastagens,
 
 ## 1 Crônicas 6:68
 
@@ -410,8 +409,8 @@ Eles lhes deram as cidades de refúgio:
 
 e da meia tribo de Manassés:
 
-> Aner com suas pastagens, e Bileã com suas pastagens,  
-> para o restante das famílias dos filhos de Coate.
+>  Aner com suas pastagens, e Bileã com suas pastagens,  
+>  para o restante das famílias dos filhos de Coate.
 
 ---
 
@@ -419,7 +418,7 @@ e da meia tribo de Manassés:
 
 Aos filhos de Gérson deram:
 
-> Da família da meia tribo de Manassés: Golã em Basã com suas pastagens, e Astarote com suas pastagens;
+>  Da família da meia tribo de Manassés: Golã em Basã com suas pastagens, e Astarote com suas pastagens;
 
 ---
 
@@ -427,7 +426,7 @@ Aos filhos de Gérson deram:
 
 Da tribo de Issacar:
 
-> Quedes com suas pastagens, Daberate com suas pastagens,
+>  Quedes com suas pastagens, Daberate com suas pastagens,
 
 ## 1 Crônicas 6:73
 
@@ -439,7 +438,7 @@ Da tribo de Issacar:
 
 Da tribo de Aser:
 
-> Masal com suas pastagens, Abdom com suas pastagens,
+>  Masal com suas pastagens, Abdom com suas pastagens,
 
 ## 1 Crônicas 6:75
 
@@ -451,8 +450,8 @@ Da tribo de Aser:
 
 Da tribo de Naftali:
 
-> Quedes na Galileia com suas pastagens,  
-> Hamom com suas pastagens, e Quiriataim com suas pastagens.
+>  Quedes na Galileia com suas pastagens,  
+>  Hamom com suas pastagens, e Quiriataim com suas pastagens.
 
 ---
 
@@ -460,7 +459,7 @@ Da tribo de Naftali:
 
 Ao restante dos levitas, os filhos de Merari:
 
-> Da tribo de Zebulom: Rimono com suas pastagens, Tabor com suas pastagens;
+>  Da tribo de Zebulom: Rimono com suas pastagens, Tabor com suas pastagens;
 
 ---
 
@@ -468,7 +467,7 @@ Ao restante dos levitas, os filhos de Merari:
 
 E além do Jordão em Jericó, no lado leste do Jordão:
 
-> Da tribo de Rúben: Bezer no deserto com suas pastagens, Jaza com suas pastagens,
+>  Da tribo de Rúben: Bezer no deserto com suas pastagens, Jaza com suas pastagens,
 
 ## 1 Crônicas 6:79
 
@@ -480,8 +479,8 @@ E além do Jordão em Jericó, no lado leste do Jordão:
 
 Da tribo de Gade:
 
-> Ramote em Gileade com suas pastagens,  
-> Maanaim com suas pastagens,
+>  Ramote em Gileade com suas pastagens,  
+>  Maanaim com suas pastagens,
 
 ## 1 Crônicas 6:81
 

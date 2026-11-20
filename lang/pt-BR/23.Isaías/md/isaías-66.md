@@ -58,7 +58,7 @@ Pois com fogo e com sua espada o Senhor trará julgamento sobre todas as pessoas
 Colocarei um sinal entre eles, e enviarei sobreviventes às nações: a Társis, Pute, Lude, Meseque, Tubal e Javã, às terras distantes que não ouviram falar da minha fama nem viram a minha glória. Eles proclamarão a minha glória entre as nações.
 
 ## Isaías 66:20
-E eles trarão todos os seus compatriotas de todas as nações ao meu santo monte em Jerusalém como uma oferta ao Senhor—em cavalos, em carros e carruagens, em mulas e camelos,” diz o Senhor, “como os israelitas trazem suas ofertas de cereal em vasos limpos à casa do Senhor.
+E eles trarão todos os seus compatriotas de todas as nações ao meu santo monte em Jerusalém como uma oferta ao Senhor — em cavalos, em carros e carruagens, em mulas e camelos,” diz o Senhor, “como os israelitas trazem suas ofertas de cereal em vasos limpos à casa do Senhor.
 
 ## Isaías 66:21
 E escolherei alguns deles como sacerdotes e levitas,” diz o Senhor.

@@ -22,7 +22,7 @@ Vocês não devem colher o que crescer por si só nem colher as uvas das suas vi
 
 ## Levítico 25:6
 
-O que quer que a terra produza durante o ano sabático será alimento para vocês—para vocês mesmos, seus servos e servas, e o trabalhador contratado e o residente estrangeiro que vive entre vocês,
+O que quer que a terra produza durante o ano sabático será alimento para vocês — para vocês mesmos, seus servos e servas, e o trabalhador contratado e o residente estrangeiro que vive entre vocês,
 
 ## Levítico 25:7
 
@@ -30,7 +30,7 @@ e também para o seu gado e os animais selvagens em sua terra. O que quer que a 
 
 ## Levítico 25:8
 
-“‘Vocês devem contar sete anos sabáticos—sete vezes sete anos—de modo que os sete anos sabáticos somem um período de quarenta e nove anos.
+“‘Vocês devem contar sete anos sabáticos — sete vezes sete anos — de modo que os sete anos sabáticos somem um período de quarenta e nove anos.
 
 ## Levítico 25:9
 
@@ -130,7 +130,7 @@ No entanto, casas em vilarejos sem muros ao redor devem ser consideradas parte d
 
 ## Levítico 25:33
 
-Assim, a propriedade dos levitas é resgatável—isto é, uma casa vendida em qualquer cidade que possuam—e deve ser devolvida no Jubileu, porque as casas nas cidades dos levitas são sua posse entre os israelitas.
+Assim, a propriedade dos levitas é resgatável — isto é, uma casa vendida em qualquer cidade que possuam — e deve ser devolvida no Jubileu, porque as casas nas cidades dos levitas são sua posse entre os israelitas.
 
 ## Levítico 25:34
 

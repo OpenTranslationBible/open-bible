@@ -20,7 +20,7 @@ A mulher estava vestida de púrpura e escarlate, e adornada com ouro, pedras pre
 
 Na sua testa estava escrito um nome, um mistério:
 
-“BABILÔNIA, A GRANDE, A MÃE DAS PROSTITUTAS E DAS ABOMINAÇÕES DA TERRA.”
+ “BABILÔNIA, A GRANDE, A MÃE DAS PROSTITUTAS E DAS ABOMINAÇÕES DA TERRA.”
 
 ## Apocalipse 17:6
 

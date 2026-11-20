@@ -40,26 +40,22 @@ O grande dragão foi lançado fora, aquela antiga serpente chamada diabo, ou Sat
 
 Então ouvi uma forte voz no céu que dizia:
 
-> “Agora vieram a salvação e o poder
-> e o reino do nosso Deus,
-> e a autoridade do seu Cristo,
-> pois o acusador dos nossos irmãos e irmãs,
-> que os acusa diante do nosso Deus dia e noite,
-> foi lançado fora.
+>  “Agora vieram a salvação e o poder e o reino do nosso Deus,
+>  e a autoridade do seu Cristo,
+>  pois o acusador dos nossos irmãos e irmãs,
+>  que os acusa diante do nosso Deus dia e noite,
+>  foi lançado fora.
 
 ## Apocalipse 12:11
 
-> Eles o venceram
-> pelo sangue do Cordeiro
-> e pela palavra do seu testemunho;
-> eles não amaram suas vidas
-> mesmo diante da morte.
+> Eles o venceram pelo sangue do Cordeiro e pela palavra do seu testemunho;
+>  eles não amaram suas vidas mesmo diante da morte.
 
 ## Apocalipse 12:12
 
 > Portanto, alegrem-se, ó céus e vocês que neles habitam!
-> Mas ai da terra e do mar, porque o diabo desceu até vocês com grande ira,
-> sabendo que tem pouco tempo.”
+>  Mas ai da terra e do mar, porque o diabo desceu até vocês com grande ira,
+>  sabendo que tem pouco tempo.”
 
 ## Apocalipse 12:13
 

@@ -96,14 +96,14 @@ Ela o seduziu com a multidão das suas palavras, com as lisonjas dos seus lábio
 
 E ele num instante a segue, como o boi que vai para o matadouro,
 
-> ou como o cervo que corre para a armadilha,
+>  ou como o cervo que corre para a armadilha,
 
 ## Provérbios 7:23
 
 até que a flecha lhe atravesse o fígado;
 
-> como a ave que se apressa para o laço,
-> sem saber que isso lhe custará a vida.
+>  como a ave que se apressa para o laço,
+>  sem saber que isso lhe custará a vida.
 
 ---
 

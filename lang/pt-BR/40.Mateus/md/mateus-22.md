@@ -185,9 +185,9 @@ Ele lhes disse: “Então como é que Davi, inspirado pelo Espírito, o chama de
 ## Mateus 22:44
 
 > ‘O Senhor disse ao meu Senhor:
-> “Sente-se à minha direita
-> até que eu coloque seus inimigos
-> debaixo de seus pés.”’
+>  “Sente-se à minha direita até que eu coloque seus inimigos debaixo de seus pés.
+> ”
+> ’
 
 ## Mateus 22:45
 

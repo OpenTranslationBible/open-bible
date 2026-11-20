@@ -7,7 +7,7 @@ Então o Senhor disse a Moisés: “Vá até Faraó e diga-lhe: ‘Assim diz o S
 Se você se recusar a deixá-los ir e continuar a retê-los,
 
 ## Êxodo 9:3
-eis que a mão do Senhor trará uma praga severa sobre o seu gado no campo—sobre os cavalos, jumentos, camelos, bois, ovelhas e cabras.
+eis que a mão do Senhor trará uma praga severa sobre o seu gado no campo — sobre os cavalos, jumentos, camelos, bois, ovelhas e cabras.
 
 ## Êxodo 9:4
 No entanto, o Senhor fará distinção entre o gado de Israel e o do Egito, de modo que nenhum animal pertencente aos israelitas morrerá.’”
@@ -64,7 +64,7 @@ Aqueles entre os oficiais de Faraó que temiam a palavra do Senhor apressaram-se
 Mas aqueles que desconsideraram a palavra do Senhor deixaram seus servos e gado no campo.
 
 ## Êxodo 9:22
-Então o Senhor disse a Moisés: “Estenda sua mão para o céu, para que granizo caia sobre todo o Egito—sobre pessoas, animais e todas as plantas nos campos do Egito.”
+Então o Senhor disse a Moisés: “Estenda sua mão para o céu, para que granizo caia sobre todo o Egito — sobre pessoas, animais e todas as plantas nos campos do Egito.”
 
 ## Êxodo 9:23
 Quando Moisés estendeu seu cajado para o céu, o Senhor enviou trovões e granizo, e fogo desceu à terra. Assim, o Senhor fez chover granizo sobre a terra do Egito.
@@ -73,7 +73,7 @@ Quando Moisés estendeu seu cajado para o céu, o Senhor enviou trovões e grani
 Houve granizo, e fogo brilhando continuamente no meio do granizo, a tempestade mais pesada que o Egito testemunhou desde que se tornou uma nação.
 
 ## Êxodo 9:25
-Por todo o Egito, o granizo atingiu tudo nos campos—tanto pessoas quanto animais; destruiu todas as plantas e quebrou todas as árvores.
+Por todo o Egito, o granizo atingiu tudo nos campos — tanto pessoas quanto animais; destruiu todas as plantas e quebrou todas as árvores.
 
 ## Êxodo 9:26
 O único lugar onde não houve granizo foi na terra de Gósen, onde os israelitas residiam.

@@ -58,4 +58,4 @@ E não foi Adão que foi enganado, mas a mulher foi enganada e tornou-se transgr
 
 ## 1 Timóteo 2:15
 
-No entanto, as mulheres serão mantidas seguras através da maternidade—se continuarem na fé, no amor e na santidade, com domínio próprio.
+No entanto, as mulheres serão mantidas seguras através da maternidade — se continuarem na fé, no amor e na santidade, com domínio próprio.

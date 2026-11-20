@@ -110,7 +110,7 @@ Seus oficiais dentro dela são como lobos rasgando sua presa; eles derramam sang
 
 ## Ezequiel 22:28
 
-Seus profetas encobrem esses atos para eles com visões falsas e adivinhações enganosas. Eles afirmam: 'Assim diz o Soberano Senhor'—quando o Senhor não falou.
+Seus profetas encobrem esses atos para eles com visões falsas e adivinhações enganosas. Eles afirmam: 'Assim diz o Soberano Senhor' — quando o Senhor não falou.
 
 ## Ezequiel 22:29
 

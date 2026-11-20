@@ -56,9 +56,9 @@ Mas tudo o que é exposto pela luz torna-se visível, pois tudo o que é ilumina
 
 Por isso é dito:
 
-> “Desperte, você que está dormindo,  
-> Levante-se dentre os mortos,  
-> e a luz de Cristo brilhará sobre você.”
+>  “Desperte, você que está dormindo,  
+>  Levante-se dentre os mortos,  
+>  e a luz de Cristo brilhará sobre você.”
 
 ## Efésios 5:15
 
@@ -66,7 +66,7 @@ Tenham muito cuidado, então, como vivem — agindo sabiamente,
 
 ## Efésios 5:16
 
-aproveitando ao máximo cada oportunidade, porque os tempos são difíceis.
+aproveitando ao máximo cada oportunidade, porque os tempos são maus.
 
 ## Efésios 5:17
 
@@ -94,7 +94,7 @@ Esposas, submetam-se a seus próprios maridos, como ao Senhor.
 
 ## Efésios 5:23
 
-Pois o marido é o líder da esposa, assim como Cristo é o líder da igreja, seu corpo, do qual Ele é o Salvador.
+Pois o marido é a cabeça da esposa, assim como Cristo é a cabeça da igreja, seu corpo, do qual Ele é o Salvador.
 
 ## Efésios 5:24
 

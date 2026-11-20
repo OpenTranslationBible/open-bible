@@ -142,7 +142,7 @@ Em verdade vos digo que esta geração de modo algum passará até que todas ess
 
 ## Lucas 21:33
 
-Embora o céu e a terra passem, minhas palavras jamais passarão.
+O céu e a terra passarão, mas as minhas palavras jamais passarão.
 
 ---
 

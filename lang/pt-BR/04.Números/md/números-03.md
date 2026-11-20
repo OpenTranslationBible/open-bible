@@ -162,7 +162,7 @@ Então o Senhor instruiu Moisés: “Conte todo primogênito macho dos filhos de
 
 ## Números 3:41
 
-E você tomará os levitas para Mim—Eu sou o Senhor—em troca de todos os primogênitos entre os filhos de Israel; e o gado dos levitas em substituição a todos os primogênitos entre o gado dos filhos de Israel.”
+E você tomará os levitas para Mim — Eu sou o Senhor — em troca de todos os primogênitos entre os filhos de Israel; e o gado dos levitas em substituição a todos os primogênitos entre o gado dos filhos de Israel.”
 
 ## Números 3:42
 

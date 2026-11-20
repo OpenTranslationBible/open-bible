@@ -62,7 +62,7 @@ Eu mesmo cuidarei das minhas ovelhas e as farei deitar-se, diz o Soberano Senhor
 
 ## Ezequiel 34:16
 
-Procurarei as perdidas e trarei de volta as desgarradas. Enfaixarei as feridas e fortalecerei as fracas, mas lidarei com as fortes e robustas. Eu apascentarei o rebanho com justiça.
+Procurarei as perdidas e trarei de volta as desgarradas. Enfaixarei as feridas e fortalecerei as fracas, mas destruirei as fortes e robustas. Eu apascentarei o rebanho com justiça.
 
 ## Ezequiel 34:17
 

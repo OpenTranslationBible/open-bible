@@ -49,7 +49,7 @@ Recentemente, vocês se voltaram e fizeram o que era certo aos meus olhos: Cada 
 Mas agora vocês se voltaram e profanaram meu nome; cada um de vocês retomou os escravos, homens e mulheres, que haviam libertado para irem como quisessem. Vocês os trouxeram de volta à sujeição como seus escravos.
 
 ## Jeremias 34:17
-Portanto, assim diz o Senhor: Vocês não me obedeceram proclamando liberdade, cada um a seu irmão e vizinho. Então agora eu proclamo ‘liberdade’ para vocês, declara o Senhor—‘liberdade’ para a espada, para a peste e para a fome. Farei de vocês um horror para todos os reinos da terra.
+Portanto, assim diz o Senhor: Vocês não me obedeceram proclamando liberdade, cada um a seu irmão e vizinho. Então agora eu proclamo ‘liberdade’ para vocês, declara o Senhor — ‘liberdade’ para a espada, para a peste e para a fome. Farei de vocês um horror para todos os reinos da terra.
 
 ## Jeremias 34:18
 Aqueles que violaram meu pacto e não cumpriram os termos do pacto que fizeram diante de mim, eu os tratarei como o bezerro que cortaram ao meio e depois passaram entre suas partes.

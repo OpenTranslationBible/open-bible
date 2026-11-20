@@ -2,7 +2,7 @@
 
 ## Isaías 53:1
 
-Quem então recebeu o nosso relatório? Quem então testemunhou o braço forte do Senhor?
+Quem então creu no nosso relatório? Quem então testemunhou o braço forte do Senhor?
 
 ## Isaías 53:2
 

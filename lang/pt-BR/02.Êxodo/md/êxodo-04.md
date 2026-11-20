@@ -18,7 +18,7 @@ Então o Senhor disse a Moisés: “Estenda a mão e pegue-a pela cauda.” Assi
 
 ## Êxodo 4:5
 
-“Isto é para que eles acreditem que o Senhor, o Deus de seus antepassados—o Deus de Abraão, Isaque e Jacó—apareceu a você.”
+“Isto é para que eles acreditem que o Senhor, o Deus de seus antepassados — o Deus de Abraão, Isaque e Jacó — apareceu a você.”
 
 ## Êxodo 4:6
 

@@ -10,7 +10,7 @@ Mas aquele que entra pela porta é o pastor das ovelhas.
 
 ## João 10:3
 
-O porteiro permite que ele entre, e as ovelhas vêm quando ouvem a sua voz. Ele chama suas próprias ovelhas pelo nome e elas o seguem.
+O porteiro permite que ele entre, e as ovelhas ouvem a sua voz. Ele chama suas próprias ovelhas pelo nome e as conduz para fora.
 
 ## João 10:4
 
@@ -32,7 +32,7 @@ Então Jesus disse novamente: “Em verdade, em verdade vos digo, eu sou a porta
 
 ## João 10:8
 
-Todos os que vieram antes de mim eram como ladrões e salteadores, mas as ovelhas não os ouviram.
+Todos os que vieram antes de mim eram ladrões e salteadores, mas as ovelhas não os ouviram.
 
 ## João 10:9
 
@@ -46,7 +46,7 @@ O ladrão vem somente para roubar, matar e destruir; eu vim para que tenham vida
 
 ## João 10:11
 
-“Eu sou o bom pastor. O bom pastor está disposto a dar a sua vida pelas ovelhas.
+“Eu sou o bom pastor. O bom pastor dá a sua vida pelas ovelhas.
 
 ## João 10:12
 
@@ -62,7 +62,7 @@ Ele foge porque é mercenário e não se importa com as ovelhas.
 
 ## João 10:15
 
-assim como o Pai me conhece e eu conheço o Pai; e estou disposto a dar a minha vida pelas ovelhas.
+assim como o Pai me conhece e eu conheço o Pai; e dou a minha vida pelas ovelhas.
 
 ## João 10:16
 
@@ -148,7 +148,7 @@ Jesus respondeu: “Não está escrito na vossa Lei: ‘Eu disse que sois “deu
 
 ## João 10:35
 
-Se ele chamou de ‘deuses’ aqueles a quem a palavra de Deus foi dirigida—e a Escritura não pode ser anulada—
+Se ele chamou de ‘deuses’ aqueles a quem a palavra de Deus foi dirigida — e a Escritura não pode ser anulada—
 
 ## João 10:36
 

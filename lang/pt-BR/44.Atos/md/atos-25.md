@@ -2,7 +2,7 @@
 
 ## Atos 25:1
 
-Poucos dias depois de chegar à província, Festo viajou de Cesareia para Jerusalém.
+Três dias depois de chegar à província, Festo viajou de Cesareia para Jerusalém.
 
 ## Atos 25:2
 

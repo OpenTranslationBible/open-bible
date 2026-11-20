@@ -37,7 +37,7 @@ Tremam, vocês mulheres complacentes; fiquem perturbadas, vocês filhas que se s
 Chorem pelos campos agradáveis, pelas vinhas frutíferas,
 
 ## Isaías 32:13
-e pela terra do meu povo, coberta de espinhos e sarças— sim, chorem por todas as casas alegres e a cidade jubilante.
+e pela terra do meu povo, coberta de espinhos e sarças — sim, chorem por todas as casas alegres e a cidade jubilante.
 
 ## Isaías 32:14
 Pois o palácio será abandonado, a cidade movimentada deserta; colina e torre de vigia se tornarão cavernas para sempre, um deleite para os jumentos selvagens, um pasto para rebanhos,

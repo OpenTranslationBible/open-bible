@@ -10,7 +10,7 @@ Eu disse do riso: “É loucura”, e do prazer: “O que isso alcança?”
 
 ## Eclesiastes 2:3
 
-Procurei alegrar-me com vinho, abraçando a insensatez—minha mente ainda me guiando com sabedoria—para discernir o que é bom para as pessoas fazerem debaixo dos céus durante o breve período de suas vidas.
+Procurei alegrar-me com vinho, abraçando a insensatez — minha mente ainda me guiando com sabedoria — para discernir o que é bom para as pessoas fazerem debaixo dos céus durante o breve período de suas vidas.
 
 ## Eclesiastes 2:4
 

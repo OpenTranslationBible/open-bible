@@ -59,7 +59,7 @@ Depois de terminar de profetizar, ele subiu ao alto.
 ## 1 Samuel 10:14
 
 O tio de Saul disse a ele e ao seu servo: “Onde fostes?”  
-E ele disse: “Procurar os jumentos. Quando vimos que não podiam ser encontrados, fomos a Samuel.”
+ E ele disse: “Procurar os jumentos. Quando vimos que não podiam ser encontrados, fomos a Samuel.”
 
 ## 1 Samuel 10:15
 
@@ -102,7 +102,7 @@ Então correram e o tiraram de lá. E quando ele se pôs entre o povo, era mais 
 ## 1 Samuel 10:24
 
 Samuel disse a todo o povo: “Vedes aquele que o Senhor escolheu? Certamente não há ninguém como ele entre todo o povo.”  
-Então todo o povo gritou: “Viva o rei!”
+ Então todo o povo gritou: “Viva o rei!”
 
 ---
 
@@ -117,4 +117,4 @@ Saul voltou para sua casa em Gibeá, acompanhado pelos homens valentes cujo cora
 ## 1 Samuel 10:27
 
 Mas alguns homens inúteis disseram: “Como pode este homem nos salvar?” E o desprezaram e não lhe trouxeram presentes.  
-Mas Saul manteve-se em silêncio.
+ Mas Saul manteve-se em silêncio.

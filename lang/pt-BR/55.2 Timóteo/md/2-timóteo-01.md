@@ -7,7 +7,7 @@ Paulo, apóstolo de Cristo Jesus pela vontade de Deus, de acordo com a promessa 
 ## 2 Timóteo 1:2
 
 A Timóteo, meu amado filho:  
-Que você receba graça, misericórdia e paz da parte de Deus Pai e de Cristo Jesus nosso Senhor.
+ Que você receba graça, misericórdia e paz da parte de Deus Pai e de Cristo Jesus nosso Senhor.
 
 ## 2 Timóteo 1:3
 
@@ -71,4 +71,4 @@ mas quando ele estava em Roma, procurou-me diligentemente e me encontrou—
 
 ## 2 Timóteo 1:18
 
-que o Senhor lhe conceda encontrar misericórdia da parte do Senhor naquele dia—e você sabe muito bem quantos serviços ele prestou em Éfeso.
+que o Senhor lhe conceda encontrar misericórdia da parte do Senhor naquele dia — e você sabe muito bem quantos serviços ele prestou em Éfeso.

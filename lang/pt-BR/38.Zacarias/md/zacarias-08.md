@@ -40,7 +40,7 @@ No entanto, agora tratarei o remanescente deste povo de forma diferente do que n
 Assim como vocês foram uma maldição entre as nações, casa de Judá e casa de Israel, assim eu os salvarei, e vocês serão uma bênção. Não temam, mas sejam fortes.”
 
 ## Zacarias 8:14
-Assim diz o Senhor dos Exércitos: “Assim como determinei trazer desastre sobre vocês quando seus antepassados me provocaram à ira,” diz o Senhor dos Exércitos,
+Assim diz o Senhor dos Exércitos: “Assim como determinei trazer desastre sobre vocês quando seus antepassados me provocaram à ira, e eu não voltei atrás,” diz o Senhor dos Exércitos,
 
 ## Zacarias 8:15
 “assim determinei fazer o bem novamente a Jerusalém e à casa de Judá. Não temam.

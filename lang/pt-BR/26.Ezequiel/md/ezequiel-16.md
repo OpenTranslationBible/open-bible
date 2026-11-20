@@ -6,7 +6,7 @@ Uma mensagem do Senhor veio a mim:
 
 ## Ezequiel 16:2
 
-“Humano, informe Jerusalém de suas ações detestáveis.
+“Filho do homem, informe Jerusalém de suas ações detestáveis.
 
 ## Ezequiel 16:3
 

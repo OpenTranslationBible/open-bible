@@ -34,11 +34,11 @@ Vocês não devem consumir sua carne nem tocar em suas carcaças; são considera
 
 ## Levítico 11:9
 
-“‘De todas as criaturas que vivem na água, vocês podem comer qualquer uma que tenha barbatanas e escamas.
+“‘De todas as criaturas que vivem na água, seja nos mares ou nos rios, vocês podem comer qualquer uma que tenha barbatanas e escamas.
 
 ## Levítico 11:10
 
-Mas todas as criaturas nos mares ou rios que não têm barbatanas e escamas—entre todos os enxames ou outras criaturas vivas na água—são detestáveis para vocês.
+Mas todas as criaturas nos mares ou rios que não têm barbatanas e escamas — entre todos os enxames ou outras criaturas vivas na água — são detestáveis para vocês.
 
 ## Levítico 11:11
 

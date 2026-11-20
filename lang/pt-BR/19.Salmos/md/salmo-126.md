@@ -5,26 +5,26 @@
 ## Salmo 126:1
 
 > Quando o Senhor restaurou a sorte de Sião,  
-> Ficamos como os que sonham.
+>  Ficamos como os que sonham.
 
 ## Salmo 126:2
 
-> Então a nossa boca se encheu de riso  
-> E a nossa língua de cânticos de alegria;  
-> Então se dizia entre as nações:  
-> “O Senhor fez grandes coisas por eles.”
+> Então a nossa boca se encheu de riso E a nossa língua de cânticos de alegria;  
+>  Então se dizia entre as nações:  
+>  “O Senhor fez grandes coisas por eles.  
+> ”
 
 ## Salmo 126:3
 
 > O Senhor fez grandes coisas por nós;  
-> Estamos cheios de alegria.
+>  Estamos cheios de alegria.
 
 ---
 
 ## Salmo 126:4
 
 > Restaura, Senhor, a nossa sorte,  
-> Como as correntes do Neguebe.
+>  Como as correntes do Neguebe.
 
 ## Salmo 126:5
 
@@ -33,4 +33,4 @@
 ## Salmo 126:6
 
 > Aquele que sai chorando, levando a semente para semear,  
-> Voltará com júbilo, trazendo os seus feixes.
+>  Voltará com júbilo, trazendo os seus feixes.

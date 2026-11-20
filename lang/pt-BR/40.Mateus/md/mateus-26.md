@@ -122,7 +122,7 @@ E ele tomou um cálice, e após dar graças, deu-o a eles, dizendo: “Bebam del
 
 ## Mateus 26:28
 
-pois isto representa o meu sangue da aliança, que é derramado por muitos para o perdão dos pecados.
+pois isto é o meu sangue da aliança, que é derramado por muitos para o perdão dos pecados.
 
 ## Mateus 26:29
 
@@ -138,8 +138,8 @@ Depois de cantarem um hino, saíram para o Monte das Oliveiras.
 
 Então Jesus lhes disse: “Esta noite todos vocês se afastarão por minha causa, pois está escrito:
 
-> ‘Ferirei o pastor,
-> e as ovelhas do rebanho serão dispersas.’
+>  ‘Ferirei o pastor,
+>  e as ovelhas do rebanho serão dispersas.’
 
 ## Mateus 26:32
 

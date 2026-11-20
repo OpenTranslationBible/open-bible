@@ -69,8 +69,8 @@ Além disso, ele fez altos nos montes de Judá, e fez os habitantes de Jerusalé
 ## 2 Crônicas 21:12
 
 Depois, uma mensagem veio a ele do profeta Elias, declarando,  
-“Assim diz o Senhor, o Deus de seu antepassado Davi:  
-‘Porque você não seguiu os caminhos de seu pai Josafá e os caminhos de Asa, rei de Judá,
+ “Assim diz o Senhor, o Deus de seu antepassado Davi:  
+ ‘Porque você não seguiu os caminhos de seu pai Josafá e os caminhos de Asa, rei de Judá,
 
 ---
 
@@ -119,4 +119,4 @@ Agora aconteceu que, no decorrer do tempo, ao final de dois anos, seus intestino
 ## 2 Crônicas 21:20
 
 Ele tinha trinta e dois anos quando começou a reinar, e governou em Jerusalém por oito anos; e partiu sem que ninguém sentisse sua falta.  
-E o sepultaram na cidade de Davi, mas não nos túmulos dos reis.
+ E o sepultaram na cidade de Davi, mas não nos túmulos dos reis.

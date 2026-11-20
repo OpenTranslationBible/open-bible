@@ -18,7 +18,7 @@ Então Adoni-Zedeque, rei de Jerusalém, enviou mensagem a Hoão, rei de Hebrom,
 
 ## Josué 10:5
 
-Então os cinco reis dos amorreus—os reis de Jerusalém, Hebrom, Jarmute, Laquis e Eglom—uniram forças. Eles se moveram com todos os seus exércitos e acamparam contra Gibeão para lutar contra ela.
+Então os cinco reis dos amorreus — os reis de Jerusalém, Hebrom, Jarmute, Laquis e Eglom — uniram forças. Eles se moveram com todos os seus exércitos e acamparam contra Gibeão para lutar contra ela.
 
 ## Josué 10:6
 
@@ -48,8 +48,8 @@ Enquanto fugiam de Israel na descida de Bete-Horom, o Senhor lançou sobre eles 
 
 Então Josué falou ao Senhor no dia em que o Senhor entregou os amorreus aos israelitas, e ele disse à vista de Israel:
 
-> “Sol, detenha-se sobre Gibeão,
-> e lua, sobre o vale de Aijalom.”
+>  “Sol, detenha-se sobre Gibeão,
+>  e lua, sobre o vale de Aijalom.”
 
 ## Josué 10:13
 
@@ -100,7 +100,7 @@ Josué ordenou: “Abram a entrada da caverna e tragam aqueles cinco reis até m
 
 ## Josué 10:23
 
-Assim, os cinco reis foram trazidos para fora da caverna—os reis de Jerusalém, Hebrom, Jarmute, Laquis e Eglom.
+Assim, os cinco reis foram trazidos para fora da caverna — os reis de Jerusalém, Hebrom, Jarmute, Laquis e Eglom.
 
 ## Josué 10:24
 
@@ -156,7 +156,7 @@ Depois, Josué e todo Israel com ele subiram de Eglom para Hebrom e a atacaram.
 
 ## Josué 10:37
 
-Eles a capturaram e a feriram com a espada, junto com seu rei, suas aldeias e todos os que nela estavam. Ele não deixou sobreviventes, assim como haviam feito a Eglom.
+Eles a capturaram e a feriram com a espada, junto com seu rei, suas aldeias e todos os que nela estavam. Ele não deixou sobreviventes, assim como haviam feito a Eglom; ele a destruiu completamente, com todos os que nela estavam.
 
 ## Josué 10:38
 

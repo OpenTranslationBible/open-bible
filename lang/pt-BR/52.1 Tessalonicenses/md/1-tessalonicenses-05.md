@@ -102,7 +102,7 @@ Queridos amigos, orem por nós.
 
 ## 1 Tessalonicenses 5:26
 
-Estendam uma saudação calorosa a todos os irmãos e irmãs.
+Saúdem todos os irmãos e irmãs com um beijo santo.
 
 ## 1 Tessalonicenses 5:27
 

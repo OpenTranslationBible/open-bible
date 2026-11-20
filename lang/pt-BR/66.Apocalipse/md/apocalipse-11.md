@@ -60,9 +60,9 @@ O segundo ai passou; eis que o terceiro ai vem rapidamente.
 
 O sétimo anjo tocou sua trombeta, e houve altas vozes no céu, declarando:
 
-> “O reino do mundo se tornou
-> o reino de nosso Senhor e do Seu Messias,
-> e Ele reinará para todo o sempre.”
+>  “O reino do mundo se tornou o reino de nosso Senhor e do Seu Messias,
+>  e Ele reinará para todo o sempre.
+> ”
 
 ## Apocalipse 11:16
 
@@ -72,20 +72,19 @@ E os vinte e quatro anciãos, sentados em seus tronos diante de Deus, prostraram
 
 Proclamaram,
 
-> “Damos-Te graças, Senhor Deus Todo-Poderoso,
-> Aquele que é e que era,
-> porque tomaste o Teu grande poder
-> e começaste a reinar.
+>  “Damos-Te graças, Senhor Deus Todo-Poderoso,
+>  Aquele que é e que era,
+>  porque tomaste o Teu grande poder e começaste a reinar.
 
 ## Apocalipse 11:18
 
 > As nações se enfureceram,
-> e a Tua ira chegou.
-> Chegou o tempo de julgar os mortos,
-> e de recompensar os Teus servos, os profetas,
-> e os santos, e os que temem o Teu nome,
-> tanto pequenos como grandes,
-> e de destruir os que destroem a terra.”
+>  e a Tua ira chegou.
+>  Chegou o tempo de julgar os mortos,
+>  e de recompensar os Teus servos, os profetas,
+>  e os santos, e os que temem o Teu nome,
+>  tanto pequenos como grandes,
+>  e de destruir os que destroem a terra.”
 
 ## Apocalipse 11:19
 

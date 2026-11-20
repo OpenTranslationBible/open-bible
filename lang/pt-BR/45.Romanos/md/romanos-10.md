@@ -72,26 +72,26 @@ Assim, a fé vem pelo ouvir, e o ouvir pela mensagem de Cristo.
 
 Mas eu pergunto: Eles não ouviram? De fato ouviram:
 
-> “Sua voz saiu por toda a terra,
-> e suas palavras até os confins do mundo.”
+>  “Sua voz saiu por toda a terra,
+>  e suas palavras até os confins do mundo.”
 
 ## Romanos 10:19
 
 Novamente pergunto: Israel não entendeu? Primeiro, Moisés diz,
 
-> “Eu os farei invejar por aqueles que não são uma nação;
-> Eu os farei irar-se por uma nação que não tem entendimento.”
+>  “Eu os farei invejar por aqueles que não são uma nação;
+>  Eu os farei irar-se por uma nação que não tem entendimento.”
 
 ## Romanos 10:20
 
 E Isaías declara confiantemente,
 
-> “Fui encontrado por aqueles que não me procuravam;
-> Eu me revelei àqueles que não perguntaram por mim.”
+>  “Fui encontrado por aqueles que não me procuravam;
+>  Eu me revelei àqueles que não perguntaram por mim.”
 
 ## Romanos 10:21
 
 Mas em relação a Israel, ele afirma,
 
-> “O dia todo estendi minhas mãos
-> a um povo desobediente e obstinado.”
+>  “O dia todo estendi minhas mãos a um povo desobediente e obstinado.
+> ”

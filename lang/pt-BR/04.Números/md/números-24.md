@@ -25,7 +25,7 @@ Como vales se estendem, como jardins junto a um rio, como aloés plantados pelo 
 Deus o tira do Egito; ele tem a força de um boi selvagem. Ele consumirá as nações que são seus inimigos, e quebrará seus ossos e os atravessará com suas flechas.
 
 ## Números 24:9
-Ele se agacha, se deita como um leão, e como uma leoa—quem ousa despertá-lo? Benditos são aqueles que te abençoam, e malditos são aqueles que te amaldiçoam.”
+Ele se agacha, se deita como um leão, e como uma leoa — quem ousa despertá-lo? Benditos são aqueles que te abençoam, e malditos são aqueles que te amaldiçoam.”
 
 ## Números 24:10
 Então a ira de Balaque se acendeu contra Balaão, e ele bateu palmas e disse a Balaão: “Eu te chamei para amaldiçoar meus inimigos, mas você os abençoou estas três vezes!

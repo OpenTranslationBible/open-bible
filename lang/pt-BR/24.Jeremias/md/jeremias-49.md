@@ -28,7 +28,7 @@ Fugi, voltai, habitai nas profundezas, ó habitantes de Dedã, pois trarei desas
 Se os vindimadores viessem a ti, não deixariam alguns rabiscos? Se ladrões viessem de noite, não roubariam apenas o que quisessem?
 
 ## Jeremias 49:10
-Mas eu desnudarei Esaú; descobrirei seus esconderijos, para que não possa ocultar-se. Seus descendentes e seus irmãos estão destruídos, e ele não existe mais.
+Mas eu desnudarei Esaú; descobrirei seus esconderijos, para que não possa ocultar-se. Seus descendentes, seus irmãos e seus vizinhos estão destruídos, e ele não existe mais.
 
 ## Jeremias 49:11
 Deixa teus órfãos; eu os manterei vivos. Tuas viúvas também podem confiar em mim.”

@@ -12,7 +12,7 @@ No segundo dia, enquanto bebiam vinho no banquete, o rei perguntou: “Rainha Es
 
 ## Ester 7:3
 
-A rainha Ester respondeu: “Se achei favor aos seus olhos, ó rei, e se lhe agrada, conceda-me a vida—este é o meu pedido. E poupe o meu povo—este é o meu desejo.
+A rainha Ester respondeu: “Se achei favor aos seus olhos, ó rei, e se lhe agrada, conceda-me a vida — este é o meu pedido. E poupe o meu povo — este é o meu desejo.
 
 ## Ester 7:4
 
@@ -42,7 +42,7 @@ Então Harbona, um dos eunucos que serviam ao rei, disse: “Veja, uma forca de 
 
 ---
 
-O rei disse: “Enforquem-no nela!”
+ O rei disse: “Enforquem-no nela!”
 
 ## Ester 7:10
 

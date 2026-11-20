@@ -74,7 +74,7 @@ o Espírito da verdade. O mundo não pode aceitá-lo, porque não o vê nem o co
 
 ## João 14:18
 
-Não os deixarei sozinhos; voltarei para vocês.
+Não os deixarei órfãos; voltarei para vocês.
 
 ## João 14:19
 

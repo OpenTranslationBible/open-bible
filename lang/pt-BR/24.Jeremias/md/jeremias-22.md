@@ -76,7 +76,7 @@ Assim diz o Senhor a respeito de Jeoaquim, filho de Josias, rei de Judá: “Ele
 
 ## Jeremias 22:19
 
-Ele terá o sepultamento de um jumento—arrastado e jogado fora dos portões de Jerusalém.”
+Ele terá o sepultamento de um jumento — arrastado e jogado fora dos portões de Jerusalém.”
 
 ## Jeremias 22:20
 
@@ -100,7 +100,7 @@ Você que habita no Líbano, aninhado em edifícios de cedro, como você gemerá
 
 ## Jeremias 22:25
 
-Eu o entregarei nas mãos daqueles que buscam sua vida, daqueles que você teme—Nabucodonosor, rei da Babilônia, e os caldeus.
+Eu o entregarei nas mãos daqueles que buscam sua vida, daqueles que você teme — Nabucodonosor, rei da Babilônia, e os caldeus.
 
 ## Jeremias 22:26
 

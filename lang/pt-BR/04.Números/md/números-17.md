@@ -30,7 +30,7 @@ Moisés colocou as varas diante do Senhor na tenda do testemunho.
 
 ## Números 17:8
 
-No dia seguinte, Moisés entrou na tenda e viu que a vara de Arão, representando a tribo de Levi, havia brotado, florescido e produzido amêndoas.
+No dia seguinte, Moisés entrou na tenda e viu que a vara de Arão, representando a tribo de Levi, havia brotado, dado botões, florescido e produzido amêndoas.
 
 ## Números 17:9
 

@@ -10,7 +10,7 @@ O povo louvou todos aqueles que voluntariamente escolheram viver em Jerusalém.
 
 ## Neemias 11:3
 
-Estes são os chefes das províncias que se estabeleceram em Jerusalém. Nas cidades de Judá, cada um vivia em sua própria propriedade—os israelitas, sacerdotes, levitas, servos do templo e descendentes dos servos de Salomão.
+Estes são os chefes das províncias que se estabeleceram em Jerusalém. Nas cidades de Judá, cada um vivia em sua própria propriedade — os israelitas, sacerdotes, levitas, servos do templo e descendentes dos servos de Salomão.
 
 ## Neemias 11:4
 
@@ -18,15 +18,15 @@ Alguns dos filhos de Judá e Benjamim residiam em Jerusalém.
 
 ---
 
-Dos filhos de Judá:
+ Dos filhos de Judá:
 
-> Ataías, filho de Uzias, filho de Zacarias, filho de Amarias,
-> filho de Sefatias, filho de Malalel, da linhagem de Perez;
+>  Ataías, filho de Uzias, filho de Zacarias, filho de Amarias,
+>  filho de Sefatias, filho de Malalel, da linhagem de Perez;
 
 ## Neemias 11:5
 
 > e Maaseias, filho de Baruque, filho de Col-Hoze, filho de Hazaías, filho de Adaías,
-> filho de Joiaribe, filho de Zacarias, descendente de Selá.
+>  filho de Joiaribe, filho de Zacarias, descendente de Selá.
 
 ## Neemias 11:6
 
@@ -40,7 +40,7 @@ Dos filhos de Benjamim: Salu, filho de Mesulão, filho de Joede, filho de Pedaí
 
 ## Neemias 11:8
 
-e os que estavam com ele, Gabai e Salai—928 homens.
+e os que estavam com ele, Gabai e Salai — 928 homens.
 
 ## Neemias 11:9
 
@@ -56,15 +56,15 @@ Seraías, filho de Hilquias, filho de Mesulão, filho de Zadoque, filho de Merai
 
 ## Neemias 11:12
 
-e seus associados que realizavam o trabalho do templo—822 homens; Adaías, filho de Jeroão, filho de Pelalias, filho de Amzi, filho de Zacarias, filho de Pasur, filho de Malquias,
+e seus associados que realizavam o trabalho do templo — 822 homens; Adaías, filho de Jeroão, filho de Pelalias, filho de Amzi, filho de Zacarias, filho de Pasur, filho de Malquias,
 
 ## Neemias 11:13
 
-e seus associados, chefes de famílias—242 homens; Amasai, filho de Azareel, filho de Azai, filho de Mesilemote, filho de Imer,
+e seus associados, chefes de famílias — 242 homens; Amasai, filho de Azareel, filho de Azai, filho de Mesilemote, filho de Imer,
 
 ## Neemias 11:14
 
-e seus irmãos, guerreiros valentes—128. Seu chefe era Zabdiel, filho de Haguedolim.
+e seus irmãos, guerreiros valentes — 128. Seu chefe era Zabdiel, filho de Haguedolim.
 
 ## Neemias 11:15
 
@@ -84,7 +84,7 @@ Os levitas residentes na cidade santa eram 284.
 
 ## Neemias 11:19
 
-Os porteiros: Acube, Talmon e seus irmãos, que guardavam as portas—172 homens.
+Os porteiros: Acube, Talmon e seus irmãos, que guardavam as portas — 172 homens.
 
 ## Neemias 11:20
 

@@ -42,7 +42,7 @@ e com todo engano da maldade para aqueles que estão perecendo, porque não acol
 
 ## 2 Tessalonicenses 2:11
 
-Por isso, Deus permitirá que sejam influenciados por um forte engano, para que creiam na mentira,
+Por isso, Deus lhes enviará um forte engano, para que creiam na mentira,
 
 ## 2 Tessalonicenses 2:12
 

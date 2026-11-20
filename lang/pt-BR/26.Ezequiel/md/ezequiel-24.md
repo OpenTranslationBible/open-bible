@@ -12,73 +12,69 @@ No nono ano, no décimo mês, no décimo dia, uma mensagem do Senhor me chegou:
 
 Fala uma parábola a esta casa rebelde e diz-lhes: ‘Assim diz o Soberano Senhor:
 
-> “Coloca a panela no fogo, põe-na,
-> e despeja água nela.
+>  “Coloca a panela no fogo, põe-na,
+>  e despeja água nela.
 
 ## Ezequiel 24:4
 
 > Coloca nela os pedaços de carne,
-> cada bom pedaço—
-> a coxa e o ombro.
-> Enche-a com os melhores ossos;
+>  cada bom pedaço — a coxa e o ombro.
+>  Enche-a com os melhores ossos;
 
 ## Ezequiel 24:5
 
 > seleciona o melhor do rebanho.
-> Amontoa lenha debaixo dela;
-> faze-a ferver bem,
-> e que os ossos sejam cozidos nela.
+>  Amontoa lenha debaixo dela;
+>  faze-a ferver bem,
+>  e que os ossos sejam cozidos nela.
 
 ## Ezequiel 24:6
 
 ‘Pois assim diz o Soberano Senhor:
 
-> “Ai da cidade de derramamento de sangue,
-> da panela agora incrustada,
-> cuja imundície não sairá!
-> Retira a carne pedaço por pedaço,
-> sem escolher.
+>  “Ai da cidade de derramamento de sangue,
+>  da panela agora incrustada,
+>  cuja imundície não sairá!
+>  Retira a carne pedaço por pedaço,
+>  sem escolher.
 
 ## Ezequiel 24:7
 
 > Pois o sangue que ela derramou permanece dentro dela;
-> ela o derramou sobre a rocha nua;
-> e não o derramou no chão
-> nem o cobriu com pó.
+>  ela o derramou sobre a rocha nua;
+>  e não o derramou no chão nem o cobriu com pó.
 
 ## Ezequiel 24:8
 
 > Para despertar minha ira e vingar-me,
-> coloquei seu sangue sobre a rocha nua,
-> para que não seja coberto.
+>  coloquei seu sangue sobre a rocha nua,
+>  para que não seja coberto.
 
 ## Ezequiel 24:9
 
 > Portanto, assim diz o Soberano Senhor:
 
-> “Ai da cidade de derramamento de sangue!
-> Farei a pilha de lenha grande.
+>  “Ai da cidade de derramamento de sangue!
+>  Farei a pilha de lenha grande.
 
 ## Ezequiel 24:10
 
 > Amontoa a lenha,
-> acende o fogo,
-> cozinha bem a carne,
-> mistura as especiarias,
-> e que os ossos sejam queimados.
+>  acende o fogo,
+>  cozinha bem a carne,
+>  mistura as especiarias,
+>  e que os ossos sejam queimados.
 
 ## Ezequiel 24:11
 
-> Então coloca a panela vazia sobre as brasas
-> para que fique quente e seu cobre brilhe,
-> para que suas impurezas se derretam
-> e sua imundície seja consumida.
+> Então coloca a panela vazia sobre as brasas para que fique quente e seu cobre brilhe,
+>  para que suas impurezas se derretam e sua imundície seja consumida.
 
 ## Ezequiel 24:12
 
 > Ela me cansou com seus esforços;
-> sua pesada imundície não foi removida,
-> nem mesmo pelo fogo.
+>  sua pesada imundície não foi removida,
+>  nem mesmo pelo fogo.
 
 ## Ezequiel 24:13
 
@@ -114,7 +110,7 @@ Então eu lhes expliquei: “Uma mensagem do Senhor me chegou:
 
 ## Ezequiel 24:21
 
-Diga à casa de Israel: ‘Assim diz o Soberano Senhor: Estou prestes a profanar meu santuário—o orgulho do seu poder, o deleite dos seus olhos, o anseio da sua alma. Os filhos e filhas que vocês deixaram para trás cairão à espada.
+Diga à casa de Israel: ‘Assim diz o Soberano Senhor: Estou prestes a profanar meu santuário — o orgulho do seu poder, o deleite dos seus olhos, o anseio da sua alma. Os filhos e filhas que vocês deixaram para trás cairão à espada.
 
 ## Ezequiel 24:22
 

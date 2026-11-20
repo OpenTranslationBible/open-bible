@@ -8,9 +8,9 @@ E, como cooperadores com Ele, também vos exortamos a não receber a graça de D
 
 Pois Ele diz,
 
-> “No tempo favorável eu te ouvi,  
-> E no dia da salvação te ajudei.”  
-> Eis que agora é “o tempo favorável”, eis que agora é “o dia da salvação”—
+>  “No tempo favorável eu te ouvi,  
+>  E no dia da salvação te ajudei.”  
+>  Eis que agora é “o tempo favorável”, eis que agora é “o dia da salvação”—
 
 ## 2 Coríntios 6:3
 
@@ -54,7 +54,7 @@ Não somos nós que vos limitamos, mas sim vossos próprios afetos que vos const
 
 ## 2 Coríntios 6:13
 
-Agora, da mesma forma em troca—falo como a filhos—abri também vossos corações.
+Agora, da mesma forma em troca — falo como a filhos — abri também vossos corações.
 
 ## 2 Coríntios 6:14
 
@@ -68,21 +68,21 @@ Ou que harmonia há entre Cristo e Belial, ou que parte tem o crente com o incr�
 
 Ou que acordo pode haver entre o templo de Deus e os ídolos? Nós somos o templo do Deus vivo; como Deus declarou:
 
-> “Habitarei entre eles e andarei entre eles;  
-> E eu serei o seu Deus, e eles serão o meu povo.
+>  “Habitarei entre eles e andarei entre eles;  
+>  E eu serei o seu Deus, e eles serão o meu povo.
 
 ## 2 Coríntios 6:17
 
 Portanto,
 
-> saí do meio deles e separai-vos”, diz o Senhor.  
-> “E não toqueis no que é impuro;  
-> E eu vos receberei.
+>  saí do meio deles e separai-vos”, diz o Senhor.  
+>  “E não toqueis no que é impuro;  
+>  E eu vos receberei.
 
 ## 2 Coríntios 6:18
 
-E
+E Eu serei um pai para vós,
 
-> Eu serei um pai para vós,  
-> E vós sereis meus filhos e filhas”,  
-> Declara o Senhor Todo-Poderoso.
+>  E vós sereis meus filhos e filhas”  
+> ,  
+>  Declara o Senhor Todo-Poderoso.

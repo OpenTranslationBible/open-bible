@@ -55,7 +55,7 @@ Eles fizeram isso, e quando Arão estendeu a mão com o cajado e golpeou o pó d
 Os magos tentaram produzir piolhos com suas artes secretas, mas não conseguiram. Havia piolhos sobre as pessoas e os animais em toda parte.
 
 ## Êxodo 8:19
-Os magos disseram a Faraó: “Isto é obra de Deus.” Mas o coração de Faraó estava obstinado, e ele não ouviu, assim como o Senhor havia dito.
+Os magos disseram a Faraó: “Isto é o dedo de Deus.” Mas o coração de Faraó estava obstinado, e ele não ouviu, assim como o Senhor havia dito.
 
 ## Êxodo 8:20
 Então o Senhor disse a Moisés: “Levante-se cedo pela manhã e confronte Faraó quando ele for ao rio e diga-lhe: ‘Assim diz o Senhor: Deixe o meu povo ir, para que me sirva.

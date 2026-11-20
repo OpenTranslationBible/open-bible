@@ -46,26 +46,26 @@ Meu filho, se os pecadores tentarem atraí-lo, não siga.
 
 Se disserem: “Junte-se a nós,
 
-> vamos esperar em segredo por sangue,
-> vamos emboscar o inocente sem motivo;
+>  vamos esperar em segredo por sangue,
+>  vamos emboscar o inocente sem motivo;
 
 ## Provérbios 1:12
 
 Vamos engoli-los vivos como a sepultura,
 
-> e inteiros, como os que descem à cova;
+>  e inteiros, como os que descem à cova;
 
 ## Provérbios 1:13
 
 Encontraremos todo tipo de bens preciosos,
 
-> encheremos nossas casas com despojos;
+>  encheremos nossas casas com despojos;
 
 ## Provérbios 1:14
 
 Lance sua sorte conosco,
 
-> todos compartilharemos uma bolsa”—
+>  todos compartilharemos uma bolsa”—
 
 ## Provérbios 1:15
 
@@ -74,7 +74,7 @@ Meu filho, não ande no caminho deles, mantenha seu pé longe de sua vereda,
 ## Provérbios 1:16
 
 Pois eles são rápidos para perseguir o mal,
-e se apressam para derramar sangue.
+ e se apressam para derramar sangue.
 
 ## Provérbios 1:17
 
@@ -93,26 +93,25 @@ Tais são os caminhos de todos os que são gananciosos por ganho injusto; isso t
 ## Provérbios 1:20
 
 A sabedoria clama em alta voz na rua,
-ela levanta sua voz nas praças públicas;
+ ela levanta sua voz nas praças públicas;
 
 ## Provérbios 1:21
 
 No início das ruas movimentadas ela clama,
-na entrada dos portões da cidade ela faz seu discurso:
+ na entrada dos portões da cidade ela faz seu discurso:
 
 ## Provérbios 1:22
 
 “Até quando, simples, amarão seus caminhos simples?
 
-> Até quando zombadores se deleitarão em zombar
-> e tolos odiarão o conhecimento?
+>  Até quando zombadores se deleitarão em zombar e tolos odiarão o conhecimento?
 
 ## Provérbios 1:23
 
 Arrependam-se da minha repreensão!
 
-> Então derramarei meu espírito sobre vocês,
-> farei minhas palavras conhecidas a vocês.
+>  Então derramarei meu espírito sobre vocês,
+>  farei minhas palavras conhecidas a vocês.
 
 ## Provérbios 1:24
 
@@ -120,13 +119,12 @@ Porque chamei e vocês recusaram, estendi minha mão e ninguém deu atenção;
 
 ## Provérbios 1:25
 
-Já que ignoraram todo o meu conselho
-e não aceitaram minha repreensão,
+Já que ignoraram todo o meu conselho e não aceitaram minha repreensão,
 
 ## Provérbios 1:26
 
 Também sorrirei da sua calamidade;
-responderei com alegria quando o seu temor vier,
+ responderei com alegria quando o seu temor vier,
 
 ---
 

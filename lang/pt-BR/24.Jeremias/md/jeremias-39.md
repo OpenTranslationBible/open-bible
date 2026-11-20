@@ -46,7 +46,7 @@ enviaram e trouxeram Jeremias do pátio da guarda. Eles o confiaram a Gedalias, 
 Enquanto Jeremias estava confinado no pátio da guarda, a palavra do Senhor veio a ele:
 
 ## Jeremias 39:16
-“Vá e diga a Ebede-Meleque, o etíope: ‘Assim diz o Senhor dos Exércitos, o Deus de Israel: Estou prestes a trazer minhas palavras sobre esta cidade—palavras de desastre, não de prosperidade. Elas se cumprirão diante dos seus olhos.
+“Vá e diga a Ebede-Meleque, o etíope: ‘Assim diz o Senhor dos Exércitos, o Deus de Israel: Estou prestes a trazer minhas palavras sobre esta cidade — palavras de desastre, não de prosperidade. Elas se cumprirão diante dos seus olhos.
 
 ## Jeremias 39:17
 Mas eu o resgatarei naquele dia, declara o Senhor; você não será entregue àqueles que você teme.

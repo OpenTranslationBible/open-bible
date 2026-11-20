@@ -4,7 +4,7 @@
 Naquele tempo, Merodaque-Baladã, filho de Baladã, rei da Babilônia, enviou cartas e um presente a Ezequias, pois tinha ouvido falar de sua doença e recuperação.
 
 ## Isaías 39:2
-Ezequias ficou encantado e mostrou-lhes tudo o que havia em seus tesouros— a prata, o ouro, as especiarias, o fino azeite— todo o seu arsenal e tudo o que se encontrava entre seus tesouros. Não houve nada em seu palácio ou em todo o seu reino que Ezequias não lhes mostrasse.
+Ezequias ficou encantado e mostrou-lhes tudo o que havia em seus tesouros — a prata, o ouro, as especiarias, o fino azeite — todo o seu arsenal e tudo o que se encontrava entre seus tesouros. Não houve nada em seu palácio ou em todo o seu reino que Ezequias não lhes mostrasse.
 
 ## Isaías 39:3
 Então o profeta Isaías veio ao rei Ezequias e perguntou: “O que disseram esses homens, e de onde vieram a você?” Ezequias respondeu: “Eles vieram a mim de uma terra distante, da Babilônia.”

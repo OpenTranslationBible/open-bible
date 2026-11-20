@@ -40,7 +40,7 @@ Mas vocês não sairão apressadamente, nem fugirão; pois o Senhor irá adiante
 Eis que meu servo agirá sabiamente; ele será exaltado e elevado, e será muito alto.
 
 ## Isaías 52:14
-Assim como muitos ficaram horrorizados com ele—sua aparência estava tão desfigurada além da semelhança humana, e sua forma além da dos filhos da humanidade—
+Assim como muitos ficaram horrorizados com ele — sua aparência estava tão desfigurada além da semelhança humana, e sua forma além da dos filhos da humanidade—
 
 ## Isaías 52:15
 assim ele aspergirá muitas nações, e reis fecharão suas bocas por causa dele; pois o que não lhes foi contado, eles verão, e o que não ouviram, eles entenderão.

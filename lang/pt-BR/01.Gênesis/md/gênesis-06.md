@@ -70,7 +70,7 @@ Eis que estou trazendo águas de inundação sobre a terra para destruir toda ca
 
 ## Gênesis 6:18
 
-No entanto, estabelecerei Minha aliança com você, e você entrará na arca—você, seus filhos, sua esposa e as esposas de seus filhos com você.
+No entanto, estabelecerei Minha aliança com você, e você entrará na arca — você, seus filhos, sua esposa e as esposas de seus filhos com você.
 
 ## Gênesis 6:19
 

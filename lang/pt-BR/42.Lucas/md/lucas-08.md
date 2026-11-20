@@ -44,8 +44,8 @@ Seus discípulos perguntaram sobre o significado desta parábola.
 
 Ele respondeu: “A vocês foi dado conhecer os segredos do reino de Deus, mas aos outros falo por parábolas, para que,
 
-> ‘vendo, não vejam;
-> ouvindo, não entendam.’
+>  ‘vendo, não vejam;
+>  ouvindo, não entendam.’
 
 ## Lucas 8:11
 

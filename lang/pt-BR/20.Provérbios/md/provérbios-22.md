@@ -92,7 +92,7 @@ Não explore o pobre porque ele é pobre, nem esmague o necessitado no portão,
 
 ## Provérbios 22:23
 
-pois o Senhor defenderá a causa deles e trará justiça.
+pois o Senhor defenderá a causa deles e saqueará os que os roubam.
 
 ---
 

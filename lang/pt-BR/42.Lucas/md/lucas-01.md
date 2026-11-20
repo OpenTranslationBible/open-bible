@@ -172,7 +172,7 @@ onde entrou na casa de Zacarias e saudou Isabel.
 
 ## Lucas 1:41
 
-Quando Isabel ouviu a saudação de Maria, o bebê agitou-se em seu ventre, e Isabel ficou cheia do Espírito Santo.
+Quando Isabel ouviu a saudação de Maria, o bebê saltou em seu ventre, e Isabel ficou cheia do Espírito Santo.
 
 ## Lucas 1:42
 
@@ -206,7 +206,7 @@ pois atentou para a humildade de sua serva. De agora em diante, todas as geraç�
 
 ## Lucas 1:49
 
-pois o Poderoso fez grandes coisas em meu favor—santo é o seu nome.
+pois o Poderoso fez grandes coisas em meu favor — santo é o seu nome.
 
 ## Lucas 1:50
 
@@ -289,12 +289,12 @@ Seu pai, Zacarias, foi cheio do Espírito Santo e profetizou:
 ## Lucas 1:68
 
 > “Bendito seja o Senhor, Deus de Israel,
-> porque visitou e redimiu o seu povo.
+>  porque visitou e redimiu o seu povo.
 
 ## Lucas 1:69
 
-> Ele nos levantou uma poderosa salvação
-> na casa de Davi, seu servo,
+> Ele nos levantou um chifre de salvação na casa de Davi,
+>  seu servo,
 
 ## Lucas 1:70
 
@@ -302,13 +302,11 @@ Seu pai, Zacarias, foi cheio do Espírito Santo e profetizou:
 
 ## Lucas 1:71
 
-> para nos salvar dos nossos inimigos
-> e da mão de todos os que nos odeiam—
+> para nos salvar dos nossos inimigos e da mão de todos os que nos odeiam—
 
 ## Lucas 1:72
 
-> para mostrar misericórdia aos nossos antepassados
-> e lembrar sua santa aliança,
+> para mostrar misericórdia aos nossos antepassados e lembrar sua santa aliança,
 
 ## Lucas 1:73
 
@@ -317,7 +315,7 @@ Seu pai, Zacarias, foi cheio do Espírito Santo e profetizou:
 ## Lucas 1:74
 
 > resgatar-nos da mão dos nossos inimigos,
-> para o servirmos sem medo
+>  para o servirmos sem medo
 
 ## Lucas 1:75
 
@@ -326,22 +324,21 @@ Seu pai, Zacarias, foi cheio do Espírito Santo e profetizou:
 ## Lucas 1:76
 
 > E tu, menino, serás chamado profeta do Altíssimo;
-> pois irás adiante do Senhor para preparar-lhe o caminho,
+>  pois irás adiante do Senhor para preparar-lhe o caminho,
 
 ## Lucas 1:77
 
-> para dar ao seu povo o conhecimento da salvação
-> mediante o perdão dos seus pecados,
+> para dar ao seu povo o conhecimento da salvação mediante o perdão dos seus pecados,
 
 ## Lucas 1:78
 
 > por causa das ternas misericórdias do nosso Deus,
-> pelas quais o sol nascente nos visitará
+>  pelas quais o sol nascente nos visitará
 
 ## Lucas 1:79
 
 > para brilhar sobre aqueles que vivem nas trevas e na sombra da morte,
-> para guiar os nossos pés no caminho da paz.”
+>  para guiar os nossos pés no caminho da paz.”
 
 ---
 

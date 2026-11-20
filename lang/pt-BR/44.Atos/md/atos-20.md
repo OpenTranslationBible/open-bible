@@ -112,7 +112,7 @@ No entanto, considero minha vida sem valor para mim; meu único objetivo é term
 
 ## Atos 20:26
 
-Portanto, declaro a vocês hoje que estou livre da responsabilidade por qualquer um de vocês.
+Portanto, declaro a vocês hoje que sou inocente do sangue de todos.
 
 ## Atos 20:27
 

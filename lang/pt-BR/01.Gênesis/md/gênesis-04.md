@@ -14,7 +14,7 @@ Com o tempo, Caim trouxe alguns dos produtos da terra como uma oferta ao Senhor.
 
 ## Gênesis 4:4
 
-Abel também trouxe uma oferta—porções gordas das primícias do seu rebanho. O Senhor olhou com favor para Abel e sua oferta,
+Abel também trouxe uma oferta — porções gordas das primícias do seu rebanho. O Senhor olhou com favor para Abel e sua oferta,
 
 ## Gênesis 4:5
 

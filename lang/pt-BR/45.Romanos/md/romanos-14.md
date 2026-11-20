@@ -44,9 +44,9 @@ Por que você julga seu irmão ou irmã? Ou por que você os despreza? Pois todo
 
 Como está escrito:
 
-> “‘Tão certo como eu vivo,’ diz o Senhor,
-> ‘todo joelho se dobrará diante de mim;
-> toda língua reconhecerá a Deus.’”
+>  “‘Tão certo como eu vivo,’ diz o Senhor,
+>  ‘todo joelho se dobrará diante de mim;
+>  toda língua reconhecerá a Deus.’”
 
 ## Romanos 14:12
 
@@ -66,7 +66,7 @@ Se seu irmão ou irmã fica angustiado por causa do que você come, você não e
 
 ## Romanos 14:16
 
-Assegure-se de que suas boas ações não sejam consideradas erradas por outros.
+Assim, assegure-se de que suas boas ações não sejam chamadas de más pelos outros.
 
 ## Romanos 14:17
 

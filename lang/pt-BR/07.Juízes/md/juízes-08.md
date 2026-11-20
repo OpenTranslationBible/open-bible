@@ -70,7 +70,7 @@ Ele tomou os anciãos da cidade e disciplinou os homens de Sucote com espinhos e
 
 ## Juízes 8:17
 
-Ele também derrubou a torre de Penuel e tratou os homens da cidade.
+Ele também derrubou a torre de Penuel e matou os homens da cidade.
 
 ## Juízes 8:18
 

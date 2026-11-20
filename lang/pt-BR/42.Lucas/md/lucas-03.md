@@ -16,16 +16,16 @@ Ele percorreu toda a região ao redor do Jordão, pregando um batismo de arrepen
 
 Como está escrito no livro das palavras do profeta Isaías:
 
-> “Uma voz de alguém clamando no deserto:
-> ‘Preparem o caminho para o Senhor;
-> façam uma estrada reta no deserto para o nosso Deus.
+>  “Uma voz de alguém clamando no deserto:
+>  ‘Preparem o caminho para o Senhor;
+>  endireitem as suas veredas.
 
 ## Lucas 3:5
 
-> Todo vale será levantado,
-> e todo monte e colina serão aplainados.
-> o terreno acidentado se tornará plano,
-> e o terreno irregular, uma planície.
+> Todo vale será aterrado,
+>  e todo monte e colina serão aplainados.
+>  Os caminhos tortos se tornarão retos,
+>  e os caminhos acidentados, planos.
 
 ## Lucas 3:6
 
@@ -65,7 +65,7 @@ Também vieram cobradores de impostos para serem batizados. “Mestre”, pergun
 
 ## Lucas 3:14
 
-Então alguns soldados perguntaram a ele: “E nós, o que devemos fazer?” Ele respondeu: “Não extorquem dinheiro de ninguém, nem acusem falsamente as pessoas—contentem-se com o seu salário.”
+Então alguns soldados perguntaram a ele: “E nós, o que devemos fazer?” Ele respondeu: “Não extorquem dinheiro de ninguém, nem acusem falsamente as pessoas — contentem-se com o seu salário.”
 
 ---
 
@@ -111,94 +111,94 @@ e o Espírito Santo desceu sobre ele em forma corpórea semelhante a uma pomba. 
 
 Ora, o próprio Jesus tinha cerca de trinta anos quando começou seu ministério. Ele era, como se supunha, filho de José,
 
-> cujo pai era Eli,
+>  cujo pai era Eli,
 
 ## Lucas 3:24
 
 > filho de Matate,
-> cujo pai era Levi, filho de Melqui,
-> cujo pai era Janai, cujo pai era José,
+>  cujo pai era Levi, filho de Melqui,
+>  cujo pai era Janai, cujo pai era José,
 
 ## Lucas 3:25
 
 > cujo pai era Matatias, cujo pai era Amós,
-> cujo pai era Naum, cujo pai era Esli,
-> cujo pai era Nagai,
+>  cujo pai era Naum, cujo pai era Esli,
+>  cujo pai era Nagai,
 
 ## Lucas 3:26
 
 > cujo pai era Maate,
-> cujo pai era Matatias, cujo pai era Semei,
-> cujo pai era Joseque, cujo pai era Jodá,
+>  cujo pai era Matatias, cujo pai era Semei,
+>  cujo pai era Joseque, cujo pai era Jodá,
 
 ## Lucas 3:27
 
 > cujo pai era Joanã, cujo pai era Resa,
-> cujo pai era Zorobabel, cujo pai era Sealtiel,
-> cujo pai era Neri,
+>  cujo pai era Zorobabel, cujo pai era Sealtiel,
+>  cujo pai era Neri,
 
 ## Lucas 3:28
 
 > cujo pai era Melqui,
-> cujo pai era Adi, cujo pai era Cosã,
-> cujo pai era Elmadã, cujo pai era Er,
+>  cujo pai era Adi, cujo pai era Cosã,
+>  cujo pai era Elmadã, cujo pai era Er,
 
 ## Lucas 3:29
 
 > cujo pai era Josué, cujo pai era Eleazar,
-> cujo pai era Jorim, cujo pai era Matate,
-> cujo pai era Levi,
+>  cujo pai era Jorim, cujo pai era Matate,
+>  cujo pai era Levi,
 
 ## Lucas 3:30
 
 > cujo pai era Simeão,
-> cujo pai era Judá, cujo pai era José,
-> cujo pai era Jonã, cujo pai era Eliaquim,
+>  cujo pai era Judá, cujo pai era José,
+>  cujo pai era Jonã, cujo pai era Eliaquim,
 
 ## Lucas 3:31
 
 > cujo pai era Meleá, cujo pai era Mená,
-> cujo pai era Matatá, cujo pai era Natã,
-> cujo pai era Davi,
+>  cujo pai era Matatá, cujo pai era Natã,
+>  cujo pai era Davi,
 
 ## Lucas 3:32
 
 > cujo pai era Jessé,
-> cujo pai era Obede, cujo pai era Boaz,
-> cujo pai era Salmom, cujo pai era Naassom,
+>  cujo pai era Obede, cujo pai era Boaz,
+>  cujo pai era Salmom, cujo pai era Naassom,
 
 ## Lucas 3:33
 
 > cujo pai era Aminadabe, cujo pai era Admin, cujo pai era Arni,
-> cujo pai era Esrom, cujo pai era Perez,
-> cujo pai era Judá,
+>  cujo pai era Esrom, cujo pai era Perez,
+>  cujo pai era Judá,
 
 ## Lucas 3:34
 
 > cujo pai era Jacó,
-> cujo pai era Isaque, cujo pai era Abraão,
-> cujo pai era Terá, cujo pai era Naor,
+>  cujo pai era Isaque, cujo pai era Abraão,
+>  cujo pai era Terá, cujo pai era Naor,
 
 ## Lucas 3:35
 
 > cujo pai era Serugue, cujo pai era Reú,
-> cujo pai era Pelegue, cujo pai era Éber,
-> cujo pai era Selá,
+>  cujo pai era Pelegue, cujo pai era Éber,
+>  cujo pai era Selá,
 
 ## Lucas 3:36
 
 > cujo pai era Cainã,
-> cujo pai era Arfaxade, cujo pai era Sem,
-> cujo pai era Noé, cujo pai era Lameque,
+>  cujo pai era Arfaxade, cujo pai era Sem,
+>  cujo pai era Noé, cujo pai era Lameque,
 
 ## Lucas 3:37
 
 > cujo pai era Matusalém, cujo pai era Enoque,
-> cujo pai era Jarede, cujo pai era Maalalel,
-> cujo pai era Cainã,
+>  cujo pai era Jarede, cujo pai era Maalalel,
+>  cujo pai era Cainã,
 
 ## Lucas 3:38
 
 > cujo pai era Enos,
-> cujo pai era Sete, cujo pai era Adão,
-> cujo pai era Deus.
+>  cujo pai era Sete, cujo pai era Adão,
+>  cujo pai era Deus.

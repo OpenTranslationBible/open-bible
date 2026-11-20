@@ -49,7 +49,7 @@ O trabalho do tolo o cansa; ele nem mesmo sabe o caminho para a cidade.
 Ai da terra cujo rei é um servo, e cujos príncipes banqueteiam-se pela manhã.
 
 ## Eclesiastes 10:17
-Bem-aventurada é a terra cujo rei é de nobre nascimento, e cujos príncipes comem na hora certa—para força e não para embriaguez.
+Bem-aventurada é a terra cujo rei é de nobre nascimento, e cujos príncipes comem na hora certa — para força e não para embriaguez.
 
 ## Eclesiastes 10:18
 Devido à preguiça, as vigas cedem; por causa das mãos ociosas, a casa vaza.

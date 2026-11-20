@@ -2,9 +2,7 @@
 
 ## 1 Crônicas 21:1
 
-Satanás se levantou contra Israel
-
-> e incitou Davi a contar o povo de Israel.
+Satanás se levantou contra Israel e incitou Davi a contar o povo de Israel.
 
 ---
 
@@ -12,8 +10,8 @@ Satanás se levantou contra Israel
 
 Então Davi disse a Joabe e aos líderes do povo:
 
-> “Vão, contem Israel de Berseba a Dã,  
-> e tragam-me um relatório, para que eu saiba o número deles.”
+>  “Vão, contem Israel de Berseba a Dã,  
+>  e tragam-me um relatório, para que eu saiba o número deles.”
 
 ---
 
@@ -21,19 +19,19 @@ Então Davi disse a Joabe e aos líderes do povo:
 
 Mas Joabe disse:
 
-> “Que o Senhor acrescente ao Seu povo cem vezes mais do que são!  
-> Mas, meu senhor o rei, não são todos servos do meu senhor?  
-> Por que meu senhor busca esta coisa?  
-> Por que deveria ele trazer culpa sobre Israel?”
+>  “Que o Senhor acrescente ao Seu povo cem vezes mais do que são!  
+>  Mas, meu senhor o rei, não são todos servos do meu senhor?  
+>  Por que meu senhor busca esta coisa?  
+>  Por que deveria ele trazer culpa sobre Israel?”
 
 ---
 
 ## 1 Crônicas 21:4
 
 No entanto, a palavra do rei prevaleceu contra Joabe.  
-Então Joabe partiu e percorreu todo o Israel,
+ Então Joabe partiu e percorreu todo o Israel,
 
-> e veio a Jerusalém.
+>  e veio a Jerusalém.
 
 ---
 
@@ -41,8 +39,8 @@ Então Joabe partiu e percorreu todo o Israel,
 
 Joabe deu a Davi o número do censo de todo o povo.
 
-> E todo o Israel era de 1.100.000 homens que puxavam a espada,  
-> e Judá era de 470.000 homens que puxavam a espada.
+>  E todo o Israel era de 1.100.000 homens que puxavam a espada,  
+>  e Judá era de 470.000 homens que puxavam a espada.
 
 ---
 
@@ -50,7 +48,7 @@ Joabe deu a Davi o número do censo de todo o povo.
 
 Mas ele não contou Levi e Benjamim entre eles,
 
-> porque o comando do rei era detestável para Joabe.
+>  porque o comando do rei era detestável para Joabe.
 
 ---
 
@@ -58,7 +56,7 @@ Mas ele não contou Levi e Benjamim entre eles,
 
 Deus ficou descontente com esta ação,
 
-> então Ele trouxe problemas sobre Israel.
+>  então Ele trouxe problemas sobre Israel.
 
 ---
 
@@ -66,9 +64,9 @@ Deus ficou descontente com esta ação,
 
 Então Davi disse a Deus:
 
-> “Pequei gravemente ao fazer esta coisa.  
-> Mas agora, por favor, perdoe a culpa do Seu servo,  
-> pois agi muito tolamente.”
+>  “Pequei gravemente ao fazer esta coisa.  
+>  Mas agora, por favor, perdoe a culpa do Seu servo,  
+>  pois agi muito tolamente.”
 
 ---
 
@@ -81,9 +79,9 @@ O Senhor então deu uma mensagem a Gade, o vidente de Davi,
 ## 1 Crônicas 21:10
 
 > “Vá e fale a Davi, dizendo:  
-> ‘Assim diz o Senhor:  
-> Estou oferecendo a você três coisas;  
-> escolha para si uma delas, que eu farei a você.’”
+>  ‘Assim diz o Senhor:  
+>  Estou oferecendo a você três coisas;  
+>  escolha para si uma delas, que eu farei a você.’”
 
 ---
 
@@ -91,20 +89,20 @@ O Senhor então deu uma mensagem a Gade, o vidente de Davi,
 
 Então Gade veio a Davi e lhe disse:
 
-> “Assim diz o Senhor:
+>  “Assim diz o Senhor:
 
 ---
 
 ## 1 Crônicas 21:12
 
 > ‘Escolha para si:  
-> ou três anos de fome,  
-> ou três meses sendo varrido diante de seus inimigos,  
-> enquanto a espada de seus inimigos o alcança,  
-> ou três dias da espada do Senhor,  
-> uma praga na terra,  
-> e o anjo do Senhor destruindo por todo o território de Israel.’  
-> Agora decida que resposta devo levar de volta àquele que me enviou.”
+>  ou três anos de fome,  
+>  ou três meses sendo varrido diante de seus inimigos,  
+>  enquanto a espada de seus inimigos o alcança,  
+>  ou três dias da espada do Senhor,  
+>  uma praga na terra,  
+>  e o anjo do Senhor destruindo por todo o território de Israel.’  
+>  Agora decida que resposta devo levar de volta àquele que me enviou.”
 
 ---
 
@@ -112,10 +110,10 @@ Então Gade veio a Davi e lhe disse:
 
 Davi disse a Gade:
 
-> “Estou em grande angústia;  
-> deixe-me cair nas mãos do Senhor,  
-> pois Suas misericórdias são muito grandes.  
-> Mas não me deixe cair nas mãos humanas.”
+>  “Estou em grande angústia;  
+>  deixe-me cair nas mãos do Senhor,  
+>  pois Suas misericórdias são muito grandes.  
+>  Mas não me deixe cair nas mãos humanas.”
 
 ---
 
@@ -123,19 +121,19 @@ Davi disse a Gade:
 
 Então o Senhor enviou uma praga sobre Israel,
 
-> e setenta mil homens de Israel caíram.
+>  e setenta mil homens de Israel caíram.
 
 ---
 
 ## 1 Crônicas 21:15
 
 E Deus enviou um anjo a Jerusalém para destruí-la;  
-mas quando ele estava prestes a destruí-la,  
-o Senhor viu e se arrependeu do desastre,
+ mas quando ele estava prestes a destruí-la,  
+ o Senhor viu e se arrependeu do desastre,
 
-> e disse ao anjo destruidor,  
-> “Basta; agora relaxe sua mão.”  
-> E o anjo do Senhor estava parado junto à eira de Ornã, o jebuseu.
+>  e disse ao anjo destruidor,  
+>  “Basta; agora relaxe sua mão.”  
+>  E o anjo do Senhor estava parado junto à eira de Ornã, o jebuseu.
 
 ---
 
@@ -143,8 +141,8 @@ o Senhor viu e se arrependeu do desastre,
 
 Então Davi levantou os olhos e viu o anjo do Senhor entre a terra e o céu,
 
-> com sua espada desembainhada na mão, estendida sobre Jerusalém.  
-> E Davi e os anciãos, cobertos de pano de saco, caíram com o rosto em terra.
+>  com sua espada desembainhada na mão, estendida sobre Jerusalém.  
+>  E Davi e os anciãos, cobertos de pano de saco, caíram com o rosto em terra.
 
 ---
 
@@ -152,19 +150,19 @@ Então Davi levantou os olhos e viu o anjo do Senhor entre a terra e o céu,
 
 Davi disse a Deus:
 
-> “Não fui eu que ordenei contar o povo?  
-> Na verdade, sou eu quem pecou e agiu muito perversamente,  
-> mas estas ovelhas, o que fizeram?  
-> Senhor meu Deus, por favor, que Sua mão esteja contra mim e a casa de meu pai,  
-> mas não contra Seu povo, para que não haja praga entre eles.”
+>  “Não fui eu que ordenei contar o povo?  
+>  Na verdade, sou eu quem pecou e agiu muito perversamente,  
+>  mas estas ovelhas, o que fizeram?  
+>  Senhor meu Deus, por favor, que Sua mão esteja contra mim e a casa de meu pai,  
+>  mas não contra Seu povo, para que não haja praga entre eles.”
 
 ---
 
 ## 1 Crônicas 21:18
 
-Então o anjo do Senhor instruiu Gade a dizer a Davi
+Então o anjo do Senhor instruiu Gade a dizer a Davi que ele deveria subir e construir um altar ao Senhor na eira de Ornã,
 
-> que ele deveria subir e construir um altar ao Senhor na eira de Ornã, o jebuseu.
+>  o jebuseu.
 
 ---
 
@@ -172,16 +170,16 @@ Então o anjo do Senhor instruiu Gade a dizer a Davi
 
 Então Davi subiu conforme a instrução de Gade,
 
-> que ele falou em nome do Senhor.
+>  que ele falou em nome do Senhor.
 
 ---
 
 ## 1 Crônicas 21:20
 
 Ornã se virou e viu o anjo,  
-e seus quatro filhos que estavam com ele se esconderam.
+ e seus quatro filhos que estavam com ele se esconderam.
 
-> Ornã estava debulhando trigo.
+>  Ornã estava debulhando trigo.
 
 ---
 
@@ -189,9 +187,9 @@ e seus quatro filhos que estavam com ele se esconderam.
 
 Quando Davi se aproximou de Ornã,
 
-> Ornã olhou e viu Davi,  
-> e saiu da eira,  
-> e se prostrou diante de Davi com o rosto em terra.
+>  Ornã olhou e viu Davi,  
+>  e saiu da eira,  
+>  e se prostrou diante de Davi com o rosto em terra.
 
 ---
 
@@ -199,10 +197,10 @@ Quando Davi se aproximou de Ornã,
 
 Então Davi disse a Ornã:
 
-> “Dê-me o local da eira,  
-> para que eu possa construir um altar ao Senhor sobre ela;  
-> dê-me pelo preço total,  
-> para que a praga seja interrompida entre o povo.”
+>  “Dê-me o local da eira,  
+>  para que eu possa construir um altar ao Senhor sobre ela;  
+>  dê-me pelo preço total,  
+>  para que a praga seja interrompida entre o povo.”
 
 ---
 
@@ -210,11 +208,11 @@ Então Davi disse a Ornã:
 
 Mas Ornã disse a Davi:
 
-> “Tome para si;  
-> e que meu senhor o rei faça o que é bom aos seus olhos.  
-> Veja, darei os bois para os holocaustos,  
-> os trilhos para a lenha,  
-> e o trigo para a oferta de cereais; darei tudo.”
+>  “Tome para si;  
+>  e que meu senhor o rei faça o que é bom aos seus olhos.  
+>  Veja, darei os bois para os holocaustos,  
+>  os trilhos para a lenha,  
+>  e o trigo para a oferta de cereais; darei tudo.”
 
 ---
 
@@ -222,9 +220,9 @@ Mas Ornã disse a Davi:
 
 No entanto, o rei Davi disse a Ornã:
 
-> “Não, mas certamente comprarei pelo preço total;  
-> pois não tomarei o que é seu para o Senhor,  
-> nem oferecerei um holocausto que não me custe nada.”
+>  “Não, mas certamente comprarei pelo preço total;  
+>  pois não tomarei o que é seu para o Senhor,  
+>  nem oferecerei um holocausto que não me custe nada.”
 
 ---
 
@@ -238,8 +236,8 @@ Então Davi pagou a Ornã seiscentos siclos de ouro em peso para comprar o local
 
 Então Davi construiu ali um altar ao Senhor,
 
-> e ofereceu holocaustos e ofertas pacíficas.  
-> Ele invocou o Senhor, e Ele lhe respondeu com fogo do céu sobre o altar do holocausto.
+>  e ofereceu holocaustos e ofertas pacíficas.  
+>  Ele invocou o Senhor, e Ele lhe respondeu com fogo do céu sobre o altar do holocausto.
 
 ---
 
@@ -247,7 +245,7 @@ Então Davi construiu ali um altar ao Senhor,
 
 Então o Senhor ordenou ao anjo,
 
-> e ele guardou sua espada na bainha.
+>  e ele guardou sua espada na bainha.
 
 ---
 
@@ -255,7 +253,7 @@ Então o Senhor ordenou ao anjo,
 
 Quando Davi percebeu que o Senhor havia respondido a ele na eira de Ornã, o jebuseu,
 
-> ele ofereceu sacrifício ali.
+>  ele ofereceu sacrifício ali.
 
 ---
 
@@ -269,4 +267,4 @@ Naquela época, o tabernáculo do Senhor, construído por Moisés no deserto, ju
 
 Mas Davi não pôde ir até lá para consultar a Deus,
 
-> porque estava com medo da espada do anjo do Senhor.
+>  porque estava com medo da espada do anjo do Senhor.

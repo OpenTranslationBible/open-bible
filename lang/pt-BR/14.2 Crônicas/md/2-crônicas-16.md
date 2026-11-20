@@ -39,30 +39,30 @@ Então o rei Asa reuniu todo o Judá, e eles levaram as pedras de Ramá e sua ma
 ## 2 Crônicas 16:7
 
 Naquele tempo Hanani, o vidente, veio a Asa, rei de Judá, e lhe disse:  
-“Porque você confiou no rei da Síria e não confiou no Senhor seu Deus,  
-portanto o exército do rei da Síria escapou de suas mãos.
+ “Porque você confiou no rei da Síria e não confiou no Senhor seu Deus,  
+ portanto o exército do rei da Síria escapou de suas mãos.
 
 ---
 
 ## 2 Crônicas 16:8
 
 Os etíopes e os líbios não possuíam um exército vasto com numerosos carros e cavaleiros?  
-No entanto, porque você confiou no Senhor, Ele os entregou em suas mãos.
+ No entanto, porque você confiou no Senhor, Ele os entregou em suas mãos.
 
 ---
 
 ## 2 Crônicas 16:9
 
 Pois os olhos do Senhor percorrem toda a terra, para que Ele possa apoiar fortemente aqueles cujo coração é totalmente dEle.  
-Você agiu de forma insensata nisso; de fato, a partir de agora você enfrentará guerras.”
+ Você agiu de forma insensata nisso; de fato, a partir de agora você enfrentará guerras.”
 
 ---
 
 ## 2 Crônicas 16:10
 
 Então Asa ficou furioso com o vidente e o colocou na prisão,  
-pois estava indignado com ele por isso.  
-E Asa também oprimiu alguns do povo naquela época.
+ pois estava indignado com ele por isso.  
+ E Asa também oprimiu alguns do povo naquela época.
 
 ---
 
@@ -75,7 +75,7 @@ Os feitos de Asa, do começo ao fim, estão registrados no Livro dos Reis de Jud
 ## 2 Crônicas 16:12
 
 No trigésimo nono ano de seu reinado, Asa sofreu de uma doença nos pés. Sua condição era grave,  
-ainda assim, mesmo em sua doença, ele não buscou o Senhor, mas recorreu aos médicos.
+ ainda assim, mesmo em sua doença, ele não buscou o Senhor, mas recorreu aos médicos.
 
 ---
 
@@ -88,5 +88,5 @@ Assim Asa descansou com seus pais. Ele morreu no quadragésimo primeiro ano de s
 ## 2 Crônicas 16:14
 
 Eles o enterraram em seu próprio túmulo que ele havia cavado para si na cidade de Davi,  
-e o colocaram no lugar de descanso que ele havia enchido com especiarias de vários tipos misturadas pela arte do perfumista;  
-e fizeram uma grande fogueira para ele.
+ e o colocaram no lugar de descanso que ele havia enchido com especiarias de vários tipos misturadas pela arte do perfumista;  
+ e fizeram uma grande fogueira para ele.

@@ -2,7 +2,7 @@
 
 ## Efésios 2:1
 
-E vocês estavam espiritualmente mortos em suas transgressões e pecados,
+E vocês estavam mortos em suas transgressões e pecados,
 
 ## Efésios 2:2
 
@@ -18,7 +18,7 @@ Mas Deus, que é abundante em misericórdia, por causa do Seu grande amor por n�
 
 ## Efésios 2:5
 
-mesmo quando estávamos espiritualmente mortos em nossas transgressões, nos deu vida com Cristo—pela graça vocês foram salvos—
+mesmo quando estávamos mortos em nossas transgressões, nos deu vida com Cristo — pela graça vocês foram salvos—
 
 ## Efésios 2:6
 

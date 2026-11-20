@@ -94,12 +94,12 @@ Assim, o rei não deu ouvidos ao povo, porque foi um acontecimento de Deus para 
 
 Quando todo o Israel viu que o rei não lhes deu ouvidos, o povo respondeu ao rei, dizendo,
 
-> “Que parte temos em Davi?  
-> Não temos herança no filho de Jessé.  
-> Cada um para suas tendas, ó Israel!  
-> Agora cuida da tua própria casa, ó Davi!”
+>  “Que parte temos em Davi?  
+>  Não temos herança no filho de Jessé.  
+>  Cada um para suas tendas, ó Israel!  
+>  Agora cuida da tua própria casa, ó Davi!”
 
-Assim, todo o Israel se retirou para suas tendas.
+ Assim, todo o Israel se retirou para suas tendas.
 
 ---
 

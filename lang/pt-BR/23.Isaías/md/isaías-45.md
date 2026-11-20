@@ -26,7 +26,7 @@ para que do nascer do sol até o seu pôr as pessoas saibam que não há ningué
 
 ## Isaías 45:7
 
-Eu crio a luz e formo as trevas, eu trago prosperidade e permito desafios; eu, o Senhor, faço todas essas coisas.
+Eu crio a luz e formo as trevas, eu trago prosperidade e crio a calamidade; eu, o Senhor, faço todas essas coisas.
 
 ## Isaías 45:8
 
@@ -42,7 +42,7 @@ Ai daqueles que questionam um pai: ‘O que você gerou?’ ou uma mãe: ‘O qu
 
 ## Isaías 45:11
 
-Assim diz o Senhor—o Santo de Israel, e seu Criador: Quanto às coisas futuras, vocês me questionam sobre meus filhos, ou me dão ordens sobre o trabalho de minhas mãos?
+Assim diz o Senhor — o Santo de Israel, e seu Criador: Quanto às coisas futuras, vocês me questionam sobre meus filhos, ou me dão ordens sobre o trabalho de minhas mãos?
 
 ## Isaías 45:12
 
@@ -70,7 +70,7 @@ Mas Israel será salvo pelo Senhor com uma salvação eterna; vocês não serão
 
 ## Isaías 45:18
 
-Pois assim diz o Senhor—ele que criou os céus, ele é Deus; ele que formou e fez a terra, ele a estabeleceu; ele não a criou para ser vazia, mas a formou para ser habitada—ele diz: Eu sou o Senhor, e não há outro.
+Pois assim diz o Senhor — ele que criou os céus, ele é Deus; ele que formou e fez a terra, ele a estabeleceu; ele não a criou para ser vazia, mas a formou para ser habitada — ele diz: Eu sou o Senhor, e não há outro.
 
 ## Isaías 45:19
 

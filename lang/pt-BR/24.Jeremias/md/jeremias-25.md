@@ -102,7 +102,7 @@ todos os reis de Zimri, todos os reis de Elão e todos os reis da Média;
 
 ## Jeremias 25:26
 
-e todos os reis do norte, próximos e distantes, um após outro—todos os reinos sobre a face da terra. E depois de todos eles, o rei de Sesaque também beberá.
+e todos os reis do norte, próximos e distantes, um após outro — todos os reinos sobre a face da terra. E depois de todos eles, o rei de Sesaque também beberá.
 
 ## Jeremias 25:27
 
@@ -130,7 +130,7 @@ Assim diz o Senhor dos Exércitos: ‘Vejam! O desastre está se espalhando de n
 
 ## Jeremias 25:33
 
-Naquele tempo, os mortos pelo Senhor estarão por toda parte—de uma extremidade da terra à outra. Eles não serão pranteados, recolhidos ou sepultados, mas serão como esterco sobre o solo.
+Naquele tempo, os mortos pelo Senhor estarão por toda parte — de uma extremidade da terra à outra. Eles não serão pranteados, recolhidos ou sepultados, mas serão como esterco sobre o solo.
 
 ## Jeremias 25:34
 

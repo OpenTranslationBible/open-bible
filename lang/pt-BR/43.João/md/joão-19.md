@@ -60,7 +60,7 @@ Era o dia da Preparação para a Páscoa, cerca da sexta hora. Ele disse aos jud
 
 ## João 19:15
 
-Eles gritaram: “Fora com Ele! Crucifica-O!” Pilatos perguntou: “Devo crucificar o vosso Rei?” Os principais sacerdotes responderam: “Não temos rei, senão César.”
+Eles gritaram: “Fora com Ele! Fora com Ele! Crucifica-O!” Pilatos perguntou: “Devo crucificar o vosso Rei?” Os principais sacerdotes responderam: “Não temos rei, senão César.”
 
 ---
 

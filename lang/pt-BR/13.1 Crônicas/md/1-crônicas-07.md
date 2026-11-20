@@ -4,7 +4,7 @@
 
 Os filhos de Issacar foram:
 
-> Tola, Puá, Jasube e Simrom—quatro ao todo.
+>  Tola, Puá, Jasube e Simrom — quatro ao todo.
 
 ---
 
@@ -12,19 +12,19 @@ Os filhos de Issacar foram:
 
 Os filhos de Tola foram:
 
-> Uzi, Refaías, Jeriel, Jamai, Ibsão e Samuel—chefes das casas de seus pais.  
-> Aos descendentes de Tola foram designados homens de guerra em suas gerações,  
-> seu número nos dias de Davi era de vinte e dois mil e seiscentos.
+>  Uzi, Refaías, Jeriel, Jamai, Ibsão e Samuel — chefes das casas de seus pais.  
+>  Aos descendentes de Tola foram designados homens de guerra em suas gerações,  
+>  seu número nos dias de Davi era de vinte e dois mil e seiscentos.
 
 ---
 
 ## 1 Crônicas 7:3
 
 O filho de Uzi foi Izraías.  
-E os filhos de Izraías foram:
+ E os filhos de Izraías foram:
 
-> Micael, Obadias, Joel e Issias—cinco ao todo,  
-> todos eles homens principais.
+>  Micael, Obadias, Joel e Issias — cinco ao todo,  
+>  todos eles homens principais.
 
 ---
 
@@ -32,7 +32,7 @@ E os filhos de Izraías foram:
 
 Junto com seus descendentes, segundo as casas de seus pais, tinham trinta e seis mil tropas para batalha,
 
-> pois tinham muitas esposas e filhos.
+>  pois tinham muitas esposas e filhos.
 
 ---
 
@@ -40,8 +40,8 @@ Junto com seus descendentes, segundo as casas de seus pais, tinham trinta e seis
 
 Seus parentes entre todas as famílias de Issacar,
 
-> homens valentes,  
-> foram registrados por genealogia—oitenta e sete mil ao todo.
+>  homens valentes,  
+>  foram registrados por genealogia — oitenta e sete mil ao todo.
 
 ---
 
@@ -49,7 +49,7 @@ Seus parentes entre todas as famílias de Issacar,
 
 Os filhos de Benjamim foram:
 
-> Belá, Bequer e Jediael—três.
+>  Belá, Bequer e Jediael — três.
 
 ---
 
@@ -57,9 +57,9 @@ Os filhos de Benjamim foram:
 
 Os filhos de Belá foram:
 
-> Esbom, Uzi, Uziel, Jerimote e Iri—cinco;  
-> eles eram chefes das casas de seus pais, homens valentes,  
-> e foram registrados por genealogia—vinte e dois mil e trinta e quatro.
+>  Esbom, Uzi, Uziel, Jerimote e Iri — cinco;  
+>  eles eram chefes das casas de seus pais, homens valentes,  
+>  e foram registrados por genealogia — vinte e dois mil e trinta e quatro.
 
 ---
 
@@ -67,26 +67,26 @@ Os filhos de Belá foram:
 
 Os filhos de Bequer incluíam:
 
-> Zemira, Joás, Eliezer, Elioenai, Omri, Jeremote, Abias, Anatote e Alemete.  
-> Estes foram todos os filhos de Bequer.
+>  Zemira, Joás, Eliezer, Elioenai, Omri, Jeremote, Abias, Anatote e Alemete.  
+>  Estes foram todos os filhos de Bequer.
 
 ---
 
 ## 1 Crônicas 7:9
 
 Eles foram registrados por genealogia segundo suas gerações,  
-chefes das casas de seus pais, homens valentes—
+ chefes das casas de seus pais,
 
-> vinte mil e duzentos.
+>  homens valentes — vinte mil e duzentos.
 
 ---
 
 ## 1 Crônicas 7:10
 
 O filho de Jediael foi Bilã.  
-E os filhos de Bilã foram:
+ E os filhos de Bilã foram:
 
-> Jeús, Benjamim, Eúde, Quenaaná, Zetã, Társis e Aisaar.
+>  Jeús, Benjamim, Eúde, Quenaaná, Zetã, Társis e Aisaar.
 
 ---
 
@@ -94,8 +94,8 @@ E os filhos de Bilã foram:
 
 Todos estes foram filhos de Jediael,
 
-> segundo os chefes das casas de seus pais,  
-> dezessete mil e duzentos homens valentes, prontos para sair com o exército para a guerra.
+>  segundo os chefes das casas de seus pais,  
+>  dezessete mil e duzentos homens valentes, prontos para sair com o exército para a guerra.
 
 ---
 
@@ -103,7 +103,7 @@ Todos estes foram filhos de Jediael,
 
 Supim e Hupim foram filhos de Ir;
 
-> Husim foi descendente de Aer.
+>  Husim foi descendente de Aer.
 
 ---
 
@@ -111,7 +111,7 @@ Supim e Hupim foram filhos de Ir;
 
 Os filhos de Naftali foram:
 
-> Jazeel, Guni, Jezer e Salum—filhos de Bila.
+>  Jazeel, Guni, Jezer e Salum — filhos de Bila.
 
 ---
 
@@ -119,8 +119,8 @@ Os filhos de Naftali foram:
 
 Os filhos de Manassés foram:
 
-> Asriel, que sua concubina arameia deu à luz;  
-> ela deu à luz Maquir, pai de Gileade.
+>  Asriel, que sua concubina arameia deu à luz;  
+>  ela deu à luz Maquir, pai de Gileade.
 
 ---
 
@@ -128,9 +128,9 @@ Os filhos de Manassés foram:
 
 Maquir tomou uma esposa para Hupim e Supim,
 
-> e sua irmã se chamava Maacá.  
-> O segundo se chamava Zelofeade,  
-> e Zelofeade teve filhas.
+>  e sua irmã se chamava Maacá.  
+>  O segundo se chamava Zelofeade,  
+>  e Zelofeade teve filhas.
 
 ---
 
@@ -138,11 +138,11 @@ Maquir tomou uma esposa para Hupim e Supim,
 
 Maacá, esposa de Maquir, deu à luz um filho,
 
-> a quem chamou Peres;  
-> e seu irmão se chamava Seres.  
-> Seus filhos foram:
+>  a quem chamou Peres;  
+>  e seu irmão se chamava Seres.  
+>  Seus filhos foram:
 
-> Ulão e Requém.
+>  Ulão e Requém.
 
 ---
 
@@ -150,7 +150,7 @@ Maacá, esposa de Maquir, deu à luz um filho,
 
 O filho de Ulão foi Bedã.
 
-> Estes foram os descendentes de Gileade, filho de Maquir, filho de Manassés.
+>  Estes foram os descendentes de Gileade, filho de Maquir, filho de Manassés.
 
 ---
 
@@ -158,7 +158,7 @@ O filho de Ulão foi Bedã.
 
 Hamolequete, sua irmã, tornou-se mãe de:
 
-> Isode, Abiezer e Malá.
+>  Isode, Abiezer e Malá.
 
 ---
 
@@ -166,7 +166,7 @@ Hamolequete, sua irmã, tornou-se mãe de:
 
 Os descendentes de Semida incluíam:
 
-> Aiã, Siquém, Liqhi e Anião.
+>  Aiã, Siquém, Liqhi e Anião.
 
 ---
 
@@ -174,15 +174,15 @@ Os descendentes de Semida incluíam:
 
 Os filhos de Efraim foram:
 
-> Sutela, e Berede seu filho, e Taate seu filho,  
-> e Elada seu filho, e Taate seu filho,
+>  Sutela, e Berede seu filho, e Taate seu filho,  
+>  e Elada seu filho, e Taate seu filho,
 
 ## 1 Crônicas 7:21
 
 > e Zabade seu filho, e Sutela seu filho,  
-> e Ézer e Eleade.  
-> Mas os homens de Gate, que nasceram na terra, os mataram,  
-> porque desceram para tomar seu gado.
+>  e Ézer e Eleade.  
+>  Mas os homens de Gate, que nasceram na terra, os mataram,  
+>  porque desceram para tomar seu gado.
 
 ---
 
@@ -190,7 +190,7 @@ Os filhos de Efraim foram:
 
 Seu pai Efraim lamentou por muitos dias,
 
-> e seus parentes vieram consolá-lo.
+>  e seus parentes vieram consolá-lo.
 
 ---
 
@@ -198,7 +198,7 @@ Seu pai Efraim lamentou por muitos dias,
 
 Então ele foi até sua esposa, e ela concebeu e deu à luz um filho,
 
-> a quem chamou Berias, porque a desgraça havia caído sobre sua casa.
+>  a quem chamou Berias, porque a desgraça havia caído sobre sua casa.
 
 ---
 
@@ -206,7 +206,7 @@ Então ele foi até sua esposa, e ela concebeu e deu à luz um filho,
 
 Sua filha foi Seerá,
 
-> que estabeleceu Baixa e Alta Bete-Horom, e Uzém-Seerá.
+>  que estabeleceu Baixa e Alta Bete-Horom, e Uzém-Seerá.
 
 ---
 
@@ -214,7 +214,7 @@ Sua filha foi Seerá,
 
 Refa foi seu filho,
 
-> junto com Resefe, Telá que gerou, Taã que gerou,
+>  junto com Resefe, Telá que gerou, Taã que gerou,
 
 ## 1 Crônicas 7:26
 
@@ -230,9 +230,9 @@ Refa foi seu filho,
 
 Suas posses e assentamentos foram:
 
-> Betel com suas aldeias,  
-> e ao leste Naarã, e ao oeste Gezer com suas aldeias,  
-> também Siquém com suas aldeias, até Aiá com suas aldeias.
+>  Betel com suas aldeias,  
+>  e ao leste Naarã, e ao oeste Gezer com suas aldeias,  
+>  também Siquém com suas aldeias, até Aiá com suas aldeias.
 
 ---
 
@@ -240,8 +240,8 @@ Suas posses e assentamentos foram:
 
 E ao longo das fronteiras dos filhos de Manassés:
 
-> Bete-Seã, Taanaque, Megido e Dor, com suas aldeias.  
-> Nestas viveram os filhos de José, filho de Israel.
+>  Bete-Seã, Taanaque, Megido e Dor, com suas aldeias.  
+>  Nestas viveram os filhos de José, filho de Israel.
 
 ---
 
@@ -249,8 +249,8 @@ E ao longo das fronteiras dos filhos de Manassés:
 
 Os filhos de Aser foram:
 
-> Imna, Isvá, Isvi e Berias,  
-> e sua irmã Sera.
+>  Imna, Isvá, Isvi e Berias,  
+>  e sua irmã Sera.
 
 ---
 
@@ -258,7 +258,7 @@ Os filhos de Aser foram:
 
 Os filhos de Berias foram:
 
-> Héber e Malquiel, que se tornou pai de Birzaíte.
+>  Héber e Malquiel, que se tornou pai de Birzaíte.
 
 ---
 
@@ -266,7 +266,7 @@ Os filhos de Berias foram:
 
 Os filhos de Héber foram:
 
-> Jaflete, Somer, Hotão e sua irmã Suá.
+>  Jaflete, Somer, Hotão e sua irmã Suá.
 
 ---
 
@@ -274,8 +274,8 @@ Os filhos de Héber foram:
 
 Os filhos de Jaflete foram:
 
-> Pasaque, Bimal e Asvate.  
-> Estes foram os descendentes de Jaflete.
+>  Pasaque, Bimal e Asvate.  
+>  Estes foram os descendentes de Jaflete.
 
 ---
 
@@ -283,7 +283,7 @@ Os filhos de Jaflete foram:
 
 Os filhos de Semer foram:
 
-> Ai, Roga, Jeubá e Arã.
+>  Ai, Roga, Jeubá e Arã.
 
 ---
 
@@ -291,7 +291,7 @@ Os filhos de Semer foram:
 
 Os filhos de seu irmão Heleque incluíam:
 
-> Zofa, Imna, Seles e Amal.
+>  Zofa, Imna, Seles e Amal.
 
 ---
 
@@ -299,7 +299,7 @@ Os filhos de seu irmão Heleque incluíam:
 
 Os filhos de Zofa incluíam:
 
-> Suá, Harnefer, Sual, Beri, Imra,
+>  Suá, Harnefer, Sual, Beri, Imra,
 
 ## 1 Crônicas 7:37
 
@@ -311,7 +311,7 @@ Os filhos de Zofa incluíam:
 
 Os filhos de Jéter incluíam:
 
-> Jefoné, Pispa e Ará.
+>  Jefoné, Pispa e Ará.
 
 ---
 
@@ -319,7 +319,7 @@ Os filhos de Jéter incluíam:
 
 Os filhos de Ulá incluíam:
 
-> Ará, Haniel e Rizia.
+>  Ará, Haniel e Rizia.
 
 ---
 
@@ -327,6 +327,5 @@ Os filhos de Ulá incluíam:
 
 Todos estes foram os filhos de Aser,
 
-> chefes das casas de seus pais, homens escolhidos e valentes, chefes dos príncipes.  
-> E o número deles registrado por genealogia para serviço na guerra foi  
-> vinte e seis mil homens.
+>  chefes das casas de seus pais, homens escolhidos e valentes, chefes dos príncipes.  
+>  E o número deles registrado por genealogia para serviço na guerra foi vinte e seis mil homens.

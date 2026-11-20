@@ -3,7 +3,7 @@
 ## 1 Crônicas 26:1
 
 Quanto às divisões dos porteiros:  
-Entre os coatitas, Meselemias, filho de Coré, dos descendentes de Asafe.
+ Entre os coatitas, Meselemias, filho de Coré, dos descendentes de Asafe.
 
 ---
 
@@ -11,7 +11,7 @@ Entre os coatitas, Meselemias, filho de Coré, dos descendentes de Asafe.
 
 Os filhos de Meselemias foram:
 
-> Zacarias, o primogênito, Jediael, o segundo, Zebadias, o terceiro, Jatniel, o quarto,
+>  Zacarias, o primogênito, Jediael, o segundo, Zebadias, o terceiro, Jatniel, o quarto,
 
 ---
 
@@ -25,14 +25,14 @@ Os filhos de Meselemias foram:
 
 Os filhos de Obede-Edom foram:
 
-> Semaías, o primogênito, Jeozabade, o segundo, Joá, o terceiro, Sacar, o quarto, Netanel, o quinto,
+>  Semaías, o primogênito, Jeozabade, o segundo, Joá, o terceiro, Sacar, o quarto, Netanel, o quinto,
 
 ---
 
 ## 1 Crônicas 26:5
 
 > Amiel, o sexto, Issacar, o sétimo, Peuletai, o oitavo;  
-> pois o Senhor o havia abençoado.
+>  pois o Senhor o havia abençoado.
 
 ---
 
@@ -40,7 +40,7 @@ Os filhos de Obede-Edom foram:
 
 Também a seu filho Semaías nasceram filhos,
 
-> que governaram sobre a casa de seu pai, pois eram homens valentes.
+>  que governaram sobre a casa de seu pai, pois eram homens valentes.
 
 ---
 
@@ -48,8 +48,8 @@ Também a seu filho Semaías nasceram filhos,
 
 Os filhos de Semaías foram:
 
-> Otni, Refael, Obede, Elzabade,  
-> cujos irmãos, Eliú e Semaquias, eram homens valentes.
+>  Otni, Refael, Obede, Elzabade,  
+>  cujos irmãos, Eliú e Semaquias, eram homens valentes.
 
 ---
 
@@ -57,7 +57,7 @@ Os filhos de Semaías foram:
 
 Todos estes eram dos filhos de Obede-Edom; eles e seus filhos e seus parentes eram homens capazes com força para o trabalho:
 
-> sessenta e dois de Obede-Edom.
+>  sessenta e dois de Obede-Edom.
 
 ---
 
@@ -65,7 +65,7 @@ Todos estes eram dos filhos de Obede-Edom; eles e seus filhos e seus parentes er
 
 Meselemias tinha filhos e parentes, homens capazes:
 
-> dezoito ao todo.
+>  dezoito ao todo.
 
 ---
 
@@ -73,14 +73,14 @@ Meselemias tinha filhos e parentes, homens capazes:
 
 Também Hosa, um dos filhos de Merari, tinha filhos:
 
-> Simri, o primeiro (embora não fosse o primogênito, seu pai o fez primeiro),
+>  Simri, o primeiro (embora não fosse o primogênito, seu pai o fez primeiro),
 
 ---
 
 ## 1 Crônicas 26:11
 
 > Hilquias, o segundo, Tebalias, o terceiro, Zacarias, o quarto.  
-> Ao todo, os filhos e parentes de Hosa foram treze.
+>  Ao todo, os filhos e parentes de Hosa foram treze.
 
 ---
 
@@ -88,23 +88,23 @@ Também Hosa, um dos filhos de Merari, tinha filhos:
 
 A estas divisões dos porteiros, os homens principais, foram atribuídas funções semelhantes às de seus parentes,
 
-> para servir na casa do Senhor.
+>  para servir na casa do Senhor.
 
 ---
 
 ## 1 Crônicas 26:13
 
 Eles lançaram sortes, tanto pequenos quanto grandes,  
-segundo as casas de seus pais, para cada porta.
+ segundo as casas de seus pais, para cada porta.
 
 ---
 
 ## 1 Crônicas 26:14
 
 A sorte para o leste caiu para Selemias.  
-Então, para seu filho Zacarias, um conselheiro com discernimento, lançaram sortes,
+ Então, para seu filho Zacarias, um conselheiro com discernimento, lançaram sortes,
 
-> e sua sorte saiu para o norte.
+>  e sua sorte saiu para o norte.
 
 ---
 
@@ -112,7 +112,7 @@ Então, para seu filho Zacarias, um conselheiro com discernimento, lançaram sor
 
 Para Obede-Edom foi para o sul,
 
-> e para seus filhos, o depósito.
+>  e para seus filhos, o depósito.
 
 ---
 
@@ -120,8 +120,8 @@ Para Obede-Edom foi para o sul,
 
 Para Supim e Hosa foi para o oeste,
 
-> junto ao portão de Salequete no caminho ascendente.  
-> Guarda correspondia a guarda.
+>  junto ao portão de Salequete no caminho ascendente.  
+>  Guarda correspondia a guarda.
 
 ---
 
@@ -129,17 +129,17 @@ Para Supim e Hosa foi para o oeste,
 
 No leste havia seis levitas designados,
 
-> no norte quatro a cada dia,  
-> no sul quatro a cada dia,  
-> e no depósito dois de cada vez.
+>  no norte quatro a cada dia,  
+>  no sul quatro a cada dia,  
+>  e no depósito dois de cada vez.
 
 ---
 
 ## 1 Crônicas 26:18
 
-No Parbar, no oeste, havia quatro na estrada
+No Parbar, no oeste,
 
-> e dois no Parbar.
+>  havia quatro na estrada e dois no Parbar.
 
 ---
 
@@ -151,9 +151,9 @@ Estas eram as divisões dos porteiros dos filhos dos coatitas e dos filhos de Me
 
 ## 1 Crônicas 26:20
 
-Dos levitas, Aías estava sobre os tesouros da casa de Deus
+Dos levitas,
 
-> e sobre os tesouros das ofertas dedicadas.
+>  Aías estava sobre os tesouros da casa de Deus e sobre os tesouros das ofertas dedicadas.
 
 ---
 
@@ -161,7 +161,7 @@ Dos levitas, Aías estava sobre os tesouros da casa de Deus
 
 Os filhos de Ladã, os filhos dos gersonitas pertencentes a Ladã, os chefes das casas dos pais pertencentes a Ladã, o gersonita, foram:
 
-> Jeieli.
+>  Jeieli.
 
 ---
 
@@ -169,8 +169,8 @@ Os filhos de Ladã, os filhos dos gersonitas pertencentes a Ladã, os chefes das
 
 Os filhos de Jeieli foram:
 
-> Zetã e Joel, seu irmão,  
-> que estavam sobre os tesouros da casa do Senhor.
+>  Zetã e Joel, seu irmão,  
+>  que estavam sobre os tesouros da casa do Senhor.
 
 ---
 
@@ -190,11 +190,11 @@ Sebuel, um descendente de Gérson e Moisés, estava encarregado dos tesouros.
 
 Seus parentes por meio de Eliezer foram:
 
-> Reabias, seu filho,  
-> e Jesaías, seu filho,  
-> e Jorão, seu filho,  
-> e Zicri, seu filho,  
-> e Selomite, seu filho.
+>  Reabias, seu filho,  
+>  e Jesaías, seu filho,  
+>  e Jorão, seu filho,  
+>  e Zicri, seu filho,  
+>  e Selomite, seu filho.
 
 ---
 
@@ -202,9 +202,9 @@ Seus parentes por meio de Eliezer foram:
 
 Este Selomite e seus parentes estavam sobre todos os tesouros das ofertas dedicadas,
 
-> que o rei Davi e os chefes das casas dos pais,  
-> os comandantes de milhares e centenas,  
-> e os comandantes do exército tinham dedicado.
+>  que o rei Davi e os chefes das casas dos pais,  
+>  os comandantes de milhares e centenas,  
+>  e os comandantes do exército tinham dedicado.
 
 ---
 
@@ -218,11 +218,11 @@ Eles dedicaram parte dos despojos ganhos em batalha para reparar a casa do Senho
 
 E tudo o que Samuel, o vidente, havia dedicado,
 
-> e Saul, filho de Quis,  
-> e Abner, filho de Ner,  
-> e Joabe, filho de Zeruia,  
-> tudo o que alguém havia dedicado,  
-> estava aos cuidados de Selomite e seus parentes.
+>  e Saul, filho de Quis,  
+>  e Abner, filho de Ner,  
+>  e Joabe, filho de Zeruia,  
+>  tudo o que alguém havia dedicado,  
+>  estava aos cuidados de Selomite e seus parentes.
 
 ---
 
@@ -230,7 +230,7 @@ E tudo o que Samuel, o vidente, havia dedicado,
 
 Dos izaritas, Quenanias e seus filhos foram designados para deveres externos para Israel,
 
-> como oficiais e juízes.
+>  como oficiais e juízes.
 
 ---
 
@@ -238,18 +238,18 @@ Dos izaritas, Quenanias e seus filhos foram designados para deveres externos par
 
 Dos hebronitas, Hasabias e seus parentes, 1.700 homens capazes,
 
-> estavam encarregados dos negócios de Israel a oeste do Jordão,  
-> para todo o trabalho do Senhor e o serviço do rei.
+>  estavam encarregados dos negócios de Israel a oeste do Jordão,  
+>  para todo o trabalho do Senhor e o serviço do rei.
 
 ---
 
 ## 1 Crônicas 26:31
 
 Dos hebronitas, Jerias era o chefe dos hebronitas.  
-De acordo com suas genealogias pelas casas dos pais,
+ De acordo com suas genealogias pelas casas dos pais,
 
-> no quadragésimo ano do reinado de Davi, foram examinados,  
-> e homens capazes foram encontrados entre eles em Jazer de Gileade.
+>  no quadragésimo ano do reinado de Davi, foram examinados,  
+>  e homens capazes foram encontrados entre eles em Jazer de Gileade.
 
 ---
 
@@ -257,5 +257,5 @@ De acordo com suas genealogias pelas casas dos pais,
 
 E seus parentes, homens capazes, eram 2.700 chefes de casas dos pais.
 
-> E o rei Davi os nomeou sobre os rubenitas, os gaditas e a meia tribo dos manassitas,  
-> para todos os negócios de Deus e do rei.
+>  E o rei Davi os nomeou sobre os rubenitas, os gaditas e a meia tribo dos manassitas,  
+>  para todos os negócios de Deus e do rei.

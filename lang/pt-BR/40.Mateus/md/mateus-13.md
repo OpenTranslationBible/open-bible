@@ -52,28 +52,28 @@ Pois quem tem, mais será dado, e terá em abundância. Quem não tem, até o qu
 
 ## Mateus 13:13
 
-A razão pela qual falo com eles em parábolas é que
+A razão pela qual falo com eles em parábolas é que embora olhem,
 
-> embora olhem, não veem;
-> embora ouçam, não escutam;
-> nem entendem.
+>  não veem;
+>  embora ouçam, não escutam;
+>  nem entendem.
 
 ## Mateus 13:14
 
 Neles se cumpre a profecia de Isaías:
 
-> ‘Vocês ouvirão repetidamente, mas nunca entenderão;
-> vocês verão repetidamente, mas nunca perceberão.
+>  ‘Vocês ouvirão repetidamente, mas nunca entenderão;
+>  vocês verão repetidamente, mas nunca perceberão.
 
 ## Mateus 13:15
 
 > Pois o coração deste povo se tornou insensível;
-> com seus ouvidos dificilmente ouvem,
-> e fecharam seus olhos.
-> Caso contrário, poderiam ver com seus olhos,
-> ouvir com seus ouvidos,
-> entender com seus corações e se converter,
-> e eu os curaria.’
+>  com seus ouvidos dificilmente ouvem,
+>  e fecharam seus olhos.
+>  Caso contrário, poderiam ver com seus olhos,
+>  ouvir com seus ouvidos,
+>  entender com seus corações e se converter,
+>  e eu os curaria.’
 
 ## Mateus 13:16
 

@@ -50,7 +50,7 @@ Que aquele que faz o mal continue a fazer o mal; que o vil continue a ser vil; q
 
 ## Apocalipse 22:13
 
-Pois Eu sou o Alfa e o Ômega, o Primeiro e o Último, o Princípio e o Fim.”
+Eu sou o Alfa e o Ômega, o Primeiro e o Último, o Princípio e o Fim.”
 
 ## Apocalipse 22:14
 
@@ -58,7 +58,7 @@ Bem-aventurados aqueles que lavam suas vestes, para que tenham direito à árvor
 
 ## Apocalipse 22:15
 
-Fora estão os que praticam feitiçaria, imoralidade, assassinato, idolatria, e todos os que amam e praticam a mentira.
+Fora estão os cães e os que praticam feitiçaria, imoralidade, assassinato, idolatria, e todos os que amam e praticam a mentira.
 
 ## Apocalipse 22:16
 

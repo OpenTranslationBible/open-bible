@@ -84,7 +84,7 @@ Seus filhos prosperarão como nos dias antigos, e sua comunidade será estabelec
 
 ## Jeremias 30:21
 
-Seu líder será um dos seus, e seu governante virá do meio deles. Eu o trarei para perto, e ele se aproximará de Mim— pois quem ousaria arriscar sua vida para se aproximar de Mim?’ declara o Senhor.
+Seu líder será um dos seus, e seu governante virá do meio deles. Eu o trarei para perto, e ele se aproximará de Mim — pois quem ousaria arriscar sua vida para se aproximar de Mim?’ declara o Senhor.
 
 ## Jeremias 30:22
 

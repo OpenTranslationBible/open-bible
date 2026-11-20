@@ -44,10 +44,10 @@ saibam todos vocês e todo o povo de Israel, que pelo nome de Jesus Cristo de Na
 
 ## Atos 4:11
 
-Ele é
+Ele é ‘a pedra que vocês,
 
-> ‘a pedra que vocês, construtores, rejeitaram,
-> que se tornou a pedra angular.’
+>  construtores, rejeitaram,
+>  que se tornou a pedra angular.’
 
 ## Atos 4:12
 
@@ -109,14 +109,12 @@ Quando ouviram isso, levantaram suas vozes juntos a Deus e disseram: “Soberano
 
 Tu falaste pelo Espírito Santo pela boca do teu servo, nosso pai Davi:
 
-> ‘Por que as nações se enfurecem
-> e os povos tramam em vão?
+>  ‘Por que as nações se enfurecem e os povos tramam em vão?
 
 ## Atos 4:26
 
-> Os reis da terra se levantam e os governantes se reúnem
-> contra o Senhor e
-> contra o seu Ungido.’
+> Os reis da terra se levantam e os governantes se reúnem contra o Senhor e contra o seu Ungido.
+> ’
 
 ## Atos 4:27
 

@@ -44,7 +44,7 @@ Frígia e Panfília, Egito e as partes da Líbia próximas a Cirene; visitantes 
 
 ## Atos 2:11
 
-Cretenses e árabes—nós os ouvimos declarar as grandes obras de Deus em nossas próprias línguas!”
+Cretenses e árabes — nós os ouvimos declarar as grandes obras de Deus em nossas próprias línguas!”
 
 ## Atos 2:12
 
@@ -71,33 +71,30 @@ Em vez disso, isto é o que foi predito pelo profeta Joel:
 ## Atos 2:17
 
 > ‘Nos últimos dias,’ diz Deus,
-> ‘Derramarei do meu Espírito sobre todas as pessoas;
-> seus filhos e filhas profetizarão,
-> seus jovens terão visões,
-> e seus velhos terão sonhos.
+>  ‘Derramarei do meu Espírito sobre todas as pessoas;
+>  seus filhos e filhas profetizarão,
+>  seus jovens terão visões,
+>  e seus velhos terão sonhos.
 
 ## Atos 2:18
 
 > Sobre os meus servos, tanto homens como mulheres,
-> Derramarei do meu Espírito naqueles dias,
-> e eles profetizarão.
+>  Derramarei do meu Espírito naqueles dias,
+>  e eles profetizarão.
 
 ## Atos 2:19
 
-> Mostrarei maravilhas no céu acima
-> e sinais na terra abaixo,
-> sangue e fogo e nuvens de fumaça.
+> Mostrarei maravilhas no céu acima e sinais na terra abaixo,
+>  sangue e fogo e nuvens de fumaça.
 
 ## Atos 2:20
 
-> O sol se tornará em trevas
-> e a lua em sangue
-> antes da chegada do grande e glorioso dia do Senhor.
+> O sol se tornará em trevas e a lua em sangue antes da chegada do grande e glorioso dia do Senhor.
 
 ## Atos 2:21
 
-> E todo aquele que invocar o nome do Senhor
-> será salvo.’
+> E todo aquele que invocar o nome do Senhor será salvo.
+> ’
 
 ---
 
@@ -117,23 +114,23 @@ No entanto, Deus o ressuscitou dos mortos, libertando-o da agonia da morte, porq
 
 Davi falou sobre ele:
 
-> ‘Eu vi o Senhor sempre diante de mim.
-> Porque ele está à minha direita, não serei abalado.
+>  ‘Eu vi o Senhor sempre diante de mim.
+>  Porque ele está à minha direita, não serei abalado.
 
 ## Atos 2:26
 
 > Portanto, meu coração está alegre e minha língua exulta;
-> e meu corpo descansará em esperança,
+>  e meu corpo descansará em esperança,
 
 ## Atos 2:27
 
 > porque você não me abandonará ao reino dos mortos,
-> nem deixará que o seu Santo veja a decomposição.
+>  nem deixará que o seu Santo veja a decomposição.
 
 ## Atos 2:28
 
 > Você me revelou os caminhos da vida;
-> você me encherá de alegria na sua presença.’
+>  você me encherá de alegria na sua presença.’
 
 ---
 
@@ -161,13 +158,13 @@ Exaltado à direita de Deus, ele recebeu do Pai o Espírito Santo prometido e de
 
 Pois Davi não subiu ao céu, e ainda assim ele disse,
 
-> ‘O Senhor declarou ao meu Senhor:
-> “Sente-se à minha direita
+>  ‘O Senhor declarou ao meu Senhor:
+>  “Sente-se à minha direita
 
 ## Atos 2:35
 
-> até que eu coloque seus inimigos
-> debaixo de seus pés.”’
+> até que eu faça de seus inimigos um estrado para seus pés.
+> ”’
 
 ## Atos 2:36
 
@@ -185,7 +182,7 @@ Pedro respondeu: “Arrependam-se e sejam batizados, cada um de vocês, em nome 
 
 ## Atos 2:39
 
-Esta promessa é para vocês e seus filhos e para todos os que estão distantes—para todos quantos o Senhor nosso Deus chamar.”
+Esta promessa é para vocês e seus filhos e para todos os que estão distantes — para todos quantos o Senhor nosso Deus chamar.”
 
 ## Atos 2:40
 

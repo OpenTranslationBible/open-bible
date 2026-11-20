@@ -54,7 +54,7 @@ No entanto, os campos e vilas ao redor da cidade foram dados a Calebe, filho de 
 
 ## Josué 21:13
 
-Assim, deram a cidade de Hebrom aos descendentes de Arão. (uma cidade de refúgio para quem matasse alguém sem intenção), também deram aos descendentes de Arão as cidades de Libna,
+Assim, deram a cidade de Hebrom aos descendentes de Arão (uma cidade de refúgio para quem matasse alguém sem intenção); também deram aos descendentes de Arão as cidades de Libna,
 
 ## Josué 21:14
 
@@ -66,7 +66,7 @@ Holom e Debir,
 
 ## Josué 21:16
 
-Aim, Jutá e Bete-Semes, juntamente com suas pastagens—nove cidades dessas duas tribos.
+Aim, Jutá e Bete-Semes, juntamente com suas pastagens — nove cidades dessas duas tribos.
 
 ## Josué 21:17
 
@@ -74,7 +74,7 @@ Da tribo de Benjamim, deram Gibeão, Geba,
 
 ## Josué 21:18
 
-Anatote e Almom, juntamente com suas pastagens—quatro cidades.
+Anatote e Almom, juntamente com suas pastagens — quatro cidades.
 
 ## Josué 21:19
 
@@ -90,7 +90,7 @@ Na região montanhosa de Efraim, foram-lhes dadas Siquém (uma cidade de refúgi
 
 ## Josué 21:22
 
-Quibzaim e Bete-Horom, com suas pastagens—quatro cidades.
+Quibzaim e Bete-Horom, com suas pastagens — quatro cidades.
 
 ## Josué 21:23
 
@@ -98,11 +98,11 @@ Da tribo de Dã, foram-lhes dadas Elteque, Gibetom,
 
 ## Josué 21:24
 
-Aijalom e Gate-Rimom, com suas pastagens—quatro cidades.
+Aijalom e Gate-Rimom, com suas pastagens — quatro cidades.
 
 ## Josué 21:25
 
-Da meia tribo de Manassés, receberam Taanaque e Gate-Rimom, com suas pastagens—duas cidades.
+Da meia tribo de Manassés, receberam Taanaque e Gate-Rimom, com suas pastagens — duas cidades.
 
 ## Josué 21:26
 
@@ -110,7 +110,7 @@ No total, essas dez cidades e suas pastagens foram dadas aos restantes clãs coa
 
 ## Josué 21:27
 
-Os clãs gersonitas dos levitas receberam: da meia tribo de Manassés, Golã em Basã (uma cidade de refúgio para quem matasse alguém sem intenção) e Be-Estera, com suas pastagens—duas cidades;
+Os clãs gersonitas dos levitas receberam: da meia tribo de Manassés, Golã em Basã (uma cidade de refúgio para quem matasse alguém sem intenção) e Be-Estera, com suas pastagens — duas cidades;
 
 ## Josué 21:28
 
@@ -118,7 +118,7 @@ Da tribo de Issacar, foram-lhes dadas Quisião, Daberate,
 
 ## Josué 21:29
 
-Jarmute e En-Ganim, com suas pastagens—quatro cidades;
+Jarmute e En-Ganim, com suas pastagens — quatro cidades;
 
 ## Josué 21:30
 
@@ -126,11 +126,11 @@ Da tribo de Aser, foram-lhes dadas Misal, Abdom,
 
 ## Josué 21:31
 
-Helcate e Reobe, com suas pastagens—quatro cidades;
+Helcate e Reobe, com suas pastagens — quatro cidades;
 
 ## Josué 21:32
 
-Da tribo de Naftali, receberam Quedes na Galileia (uma cidade de refúgio para quem matasse alguém sem intenção), Hamote-Dor e Cartã, com suas pastagens—três cidades.
+Da tribo de Naftali, receberam Quedes na Galileia (uma cidade de refúgio para quem matasse alguém sem intenção), Hamote-Dor e Cartã, com suas pastagens — três cidades.
 
 ## Josué 21:33
 
@@ -144,7 +144,7 @@ Os clãs meraritas, o restante dos levitas, receberam: da tribo de Zebulom, Jocn
 
 ## Josué 21:35
 
-Dimna e Naalal, com suas pastagens—quatro cidades;
+Dimna e Naalal, com suas pastagens — quatro cidades;
 
 ## Josué 21:36
 
@@ -152,7 +152,7 @@ Da tribo de Rúben, foram-lhes dadas Bezer, Jaza,
 
 ## Josué 21:37
 
-Quedemote e Mefaate, com suas pastagens—quatro cidades;
+Quedemote e Mefaate, com suas pastagens — quatro cidades;
 
 ## Josué 21:38
 
@@ -160,7 +160,7 @@ Da tribo de Gade, receberam Ramote em Gileade (uma cidade de refúgio para quem 
 
 ## Josué 21:39
 
-Hesbom e Jazer, com suas pastagens—quatro cidades no total.
+Hesbom e Jazer, com suas pastagens — quatro cidades no total.
 
 ## Josué 21:40
 

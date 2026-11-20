@@ -58,7 +58,7 @@ Ao meio-dia, ó rei, vi uma luz do céu, mais brilhante que o sol, brilhando ao 
 
 ## Atos 26:14
 
-Todos nós caímos ao chão, e ouvi uma voz falando comigo em hebraico: ‘Saulo, Saulo, por que você está me perseguindo? É duro para você resistir aos aguilhões.’
+Todos nós caímos ao chão, e ouvi uma voz falando comigo em hebraico: ‘Saulo, Saulo, por que você está me perseguindo? É duro para você dar coices contra os aguilhões.’
 
 ## Atos 26:15
 
@@ -74,7 +74,7 @@ Eu o livrarei do seu próprio povo e dos gentios. Eu o envio a eles
 
 ## Atos 26:18
 
-para abrir os olhos deles e convertê-los das trevas para a luz, e do poder de Satanás para Deus, para que recebam o perdão dos pecados e um lugar entre os que são santificados pela fé em mim.’
+para abrir os olhos deles e convertê-los das trevas para a luz, e do poder de Satanás para Deus, para que recebam o perdão dos pecados e uma herança entre os que são santificados pela fé em mim.’
 
 ---
 

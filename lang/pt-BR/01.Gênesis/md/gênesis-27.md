@@ -82,7 +82,7 @@ Então seu pai Isaque disse a ele: “Por favor, chegue mais perto e me dê um b
 Então ele se aproximou e o beijou; e quando Isaque sentiu o cheiro de suas roupas, ele o abençoou e disse: “Veja, o cheiro de meu filho é como o cheiro de um campo que o Senhor abençoou.
 
 ## Gênesis 27:28
-Que Deus te dê do orvalho do céu e da riqueza da terra—uma abundância de grãos e vinho novo.
+Que Deus te dê do orvalho do céu e da riqueza da terra — uma abundância de grãos e vinho novo.
 
 ## Gênesis 27:29
 Que nações te sirvam e povos se curvem diante de ti. Seja senhor sobre seus irmãos, e que os filhos de sua mãe se curvem diante de ti. Malditos sejam os que te amaldiçoam, e benditos sejam os que te abençoam.”
@@ -97,7 +97,7 @@ Ele também preparou uma refeição deliciosa e a trouxe para seu pai. Então el
 Seu pai Isaque lhe perguntou: “Quem é você?” E ele disse: “Eu sou seu filho, seu primogênito, Esaú.”
 
 ## Gênesis 27:33
-Então Isaque tremeu violentamente e disse: “Quem então foi que caçou e me trouxe? Eu comi tudo antes de você chegar e o abençoei—e de fato ele será abençoado!”
+Então Isaque tremeu violentamente e disse: “Quem então foi que caçou e me trouxe? Eu comi tudo antes de você chegar e o abençoei — e de fato ele será abençoado!”
 
 ## Gênesis 27:34
 Quando Esaú ouviu as palavras de seu pai, ele gritou com um grande e amargo clamor e disse a seu pai: “Abençoe-me, a mim também, meu pai!”

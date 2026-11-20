@@ -10,13 +10,13 @@ A mensagem do Senhor veio a mim, dizendo,
 e declare: ‘Assim diz o Soberano Senhor: Eis que estou contra você, Gogue, príncipe chefe de Meseque e Tubal.
 
 ## Ezequiel 38:4
-Vou virar você, colocar anzóis em seus queixos e trazê-lo para fora com todo o seu exército—seus cavalos e cavaleiros, todos esplendidamente vestidos, uma vasta multidão com escudo e broquel, todos empunhando espadas.
+Vou virar você, colocar anzóis em seus queixos e trazê-lo para fora com todo o seu exército — seus cavalos e cavaleiros, todos esplendidamente vestidos, uma vasta multidão com escudo e broquel, todos empunhando espadas.
 
 ## Ezequiel 38:5
 Pérsia, Cuxe e Pute estarão com eles, todos equipados com escudo e capacete;
 
 ## Ezequiel 38:6
-Gomer com todas as suas tropas, e Bete Togarma, do distante norte, com todas as suas tropas—muitas nações com você.
+Gomer com todas as suas tropas, e Bete Togarma, do distante norte, com todas as suas tropas — muitas nações com você.
 
 ## Ezequiel 38:7
 “Prepare-se; esteja pronto, você e todas as suas hordas reunidas, e tome o comando delas.
@@ -31,7 +31,7 @@ Você e todas as suas tropas e as muitas nações com você avançarão, vindo c
 ‘Assim diz o Soberano Senhor: Naquele dia, pensamentos surgirão em sua mente, e você tramará um plano maligno.
 
 ## Ezequiel 38:11
-Você dirá: “Invadirei uma terra de aldeias sem muros; atacarei um povo pacífico e desprevenido—todos eles vivendo sem muros, barras ou portões.
+Você dirá: “Invadirei uma terra de aldeias sem muros; atacarei um povo pacífico e desprevenido — todos eles vivendo sem muros, barras ou portões.
 
 ## Ezequiel 38:12
 Vou saquear e pilhar, voltando minha mão contra as ruínas reassentadas e o povo reunido das nações, que adquiriu gado e bens, habitando no centro do mundo.”

@@ -158,11 +158,11 @@ Aqueles que restarem definharão nas terras de seus inimigos por causa de seus p
 
 ## Levítico 26:40
 
-‘Mas se confessarem seus pecados e os pecados de seus antepassados—a infidelidade deles e a hostilidade deles contra mim—
+‘Mas se confessarem seus pecados e os pecados de seus antepassados — a infidelidade deles e a hostilidade deles contra mim—
 
 ## Levítico 26:41
 
-que me fez hostil a eles para que eu os enviasse para a terra de seus inimigos—então, quando seus corações incircuncisos se humilharem e eles fizerem reparação por sua iniquidade,
+que me fez hostil a eles para que eu os enviasse para a terra de seus inimigos — então, quando seus corações incircuncisos se humilharem e eles fizerem reparação por sua iniquidade,
 
 ## Levítico 26:42
 

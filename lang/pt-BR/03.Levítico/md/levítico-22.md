@@ -58,7 +58,7 @@ Se alguém comer uma oferta sagrada sem intenção, deve restituir ao sacerdote 
 
 ## Levítico 22:15
 
-Os sacerdotes devem garantir que as ofertas sagradas apresentadas pelos israelitas ao Senhor sejam tratadas com respeito
+Os sacerdotes não devem profanar as ofertas sagradas apresentadas pelos israelitas ao Senhor
 
 ## Levítico 22:16
 

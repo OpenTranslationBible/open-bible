@@ -39,11 +39,11 @@ Se alguém tem ouvidos, ouça.
 ## Apocalipse 13:10
 
 > “Se alguém está destinado à prisão,
-> para a prisão irá;
-> se alguém matar com a espada,
-> com a espada deve ser morto.”
+>  para a prisão irá;
+>  se alguém matar com a espada,
+>  com a espada deve ser morto.”
 
-Isto exige a perseverança e a fé dos santos.
+ Isto exige a perseverança e a fé dos santos.
 
 ## Apocalipse 13:11
 

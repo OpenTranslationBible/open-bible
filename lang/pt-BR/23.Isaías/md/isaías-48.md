@@ -1,7 +1,7 @@
 # Isaías Capítulo 48
 
 ## Isaías 48:1
-“Ouçam isto, descendentes de Jacó, vocês que são chamados pelo nome de Israel e vieram das águas de Judá, que juram pelo nome do Senhor e invocam o Deus de Israel— mas não em verdade ou justiça—
+“Ouçam isto, descendentes de Jacó, vocês que são chamados pelo nome de Israel e vieram das águas de Judá, que juram pelo nome do Senhor e invocam o Deus de Israel — mas não em verdade ou justiça—
 
 ## Isaías 48:2
 Pois vocês se nomeiam pela cidade santa e confiam no Deus de Israel; o Senhor dos Exércitos é o Seu nome:
@@ -49,7 +49,7 @@ Eu, Eu mesmo, falei; de fato, Eu o chamei. Eu o trouxe, e ele terá sucesso em s
 “Cheguem perto de Mim e ouçam isto: Desde o princípio Eu não falei em segredo; desde o tempo em que isso acontece, Eu estou lá.” E agora o Senhor Soberano Me enviou, dotado de Seu Espírito.
 
 ## Isaías 48:17
-Assim diz o Senhor— seu Redentor, o Santo de Israel: “Eu sou o Senhor seu Deus, que ensina você a lucrar, que o dirige no caminho em que deve andar.
+Assim diz o Senhor — seu Redentor, o Santo de Israel: “Eu sou o Senhor seu Deus, que ensina você a lucrar, que o dirige no caminho em que deve andar.
 
 ## Isaías 48:18
 Se ao menos você tivesse prestado atenção aos Meus mandamentos, sua paz teria sido como um rio, e sua justiça como as ondas do mar.

@@ -46,7 +46,7 @@ Assim diz o Senhor: "Cantem de alegria por Jacó; gritem pelo principal das naç
 
 ## Jeremias 31:12
 
-"Eles virão e cantarão de alegria nas alturas de Sião; eles resplandecerão sobre a abundância do Senhor—sobre o grão, o vinho novo e o óleo, e sobre os jovens dos rebanhos e manadas. Sua vida será como um jardim bem regado, e nunca mais desfalecerão."
+"Eles virão e cantarão de alegria nas alturas de Sião; eles resplandecerão sobre a abundância do Senhor — sobre o grão, o vinho novo e o óleo, e sobre os jovens dos rebanhos e manadas. Sua vida será como um jardim bem regado, e nunca mais desfalecerão."
 
 ## Jeremias 31:13
 
@@ -86,7 +86,7 @@ Assim diz o Senhor: "Contenha a sua voz de chorar e os seus olhos de lágrimas, 
 
 ## Jeremias 31:22
 
-"Até quando vagarás, filha infiel de Israel? Pois o Senhor criou uma coisa nova na terra—uma mulher protegerá um homem."
+"Até quando vagarás, filha infiel de Israel? Pois o Senhor criou uma coisa nova na terra — uma mulher protegerá um homem."
 
 ## Jeremias 31:23
 
@@ -94,7 +94,7 @@ Assim diz o Senhor dos Exércitos, o Deus de Israel: "Quando eu restaurar a sua 
 
 ## Jeremias 31:24
 
-"Os habitantes de Judá e todas as suas cidades viverão juntos—agricultores e os que se deslocam com seus rebanhos."
+"Os habitantes de Judá e todas as suas cidades viverão juntos — agricultores e os que se deslocam com seus rebanhos."
 
 ## Jeremias 31:25
 
@@ -118,7 +118,7 @@ Nesse ponto, acordei e olhei ao redor, e meu sono foi agradável para mim.
 
 ## Jeremias 31:30
 
-"Em vez disso, cada pessoa morrerá por seu próprio pecado; quem comer uvas verdes—seus próprios dentes se embotarão."
+"Em vez disso, cada pessoa morrerá por seu próprio pecado; quem comer uvas verdes — seus próprios dentes se embotarão."
 
 ## Jeremias 31:31
 
@@ -138,7 +138,7 @@ Nesse ponto, acordei e olhei ao redor, e meu sono foi agradável para mim.
 
 ## Jeremias 31:35
 
-Assim diz o Senhor, aquele que designa o sol para brilhar de dia, que decreta a lua e as estrelas para brilharem à noite, que agita o mar para que suas ondas rugem—Senhor dos Exércitos é o seu nome:
+Assim diz o Senhor, aquele que designa o sol para brilhar de dia, que decreta a lua e as estrelas para brilharem à noite, que agita o mar para que suas ondas rugem — Senhor dos Exércitos é o seu nome:
 
 ## Jeremias 31:36
 

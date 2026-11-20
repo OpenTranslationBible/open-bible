@@ -31,7 +31,7 @@ Portanto, tomarei de volta meu grão a seu tempo e meu vinho novo na sua estaç�
 Agora exporei sua lascívia à vista de seus amantes, e ninguém a livrará de minha mão.
 
 ## Oséias 2:11
-Porei fim a todas as suas celebrações: suas festas, suas Luas Novas, seus Sábados—todas as suas festividades designadas.
+Porei fim a todas as suas celebrações: suas festas, suas Luas Novas, seus Sábados — todas as suas festividades designadas.
 
 ## Oséias 2:12
 Destruirei suas vinhas e figueiras, das quais ela disse: ‘Estes são meus salários de meus amantes.’ Eu os transformarei em um matagal, e os animais selvagens os devorarão.
@@ -61,7 +61,7 @@ Eu te desposarei para sempre; eu te desposarei em justiça e retidão, em amor e
 Eu te desposarei em fidelidade, e você conhecerá o Senhor.
 
 ## Oséias 2:21
-“Naquele tempo eu responderei”, declara o Senhor— “Eu responderei aos céus, e eles responderão à terra;
+“Naquele tempo eu responderei”, declara o Senhor — “Eu responderei aos céus, e eles responderão à terra;
 
 ## Oséias 2:22
 e a terra responderá ao grão, ao vinho novo e ao óleo, e eles responderão a Jezreel.

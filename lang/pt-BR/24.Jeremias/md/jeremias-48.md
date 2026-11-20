@@ -31,7 +31,7 @@ Dêem asas a Moabe, pois ela será devastada; suas cidades se tornarão desolada
 Maldito é aquele que faz a obra do Senhor negligentemente! Maldito é aquele que retém sua espada do derramamento de sangue!
 
 ## Jeremias 48:11
-“Moabe tem estado à vontade desde a juventude, como vinho assentado em suas borras, não derramado de vaso em vaso— ela não foi para o exílio. Assim, ela retém seu sabor, e seu aroma não mudou.
+“Moabe tem estado à vontade desde a juventude, como vinho assentado em suas borras, não derramado de vaso em vaso — ela não foi para o exílio. Assim, ela retém seu sabor, e seu aroma não mudou.
 
 ## Jeremias 48:12
 Mas dias virão,” declara o Senhor, “quando enviarei aqueles que viram vasos, e eles a virarão; esvaziarão seus jarros e os quebrarão.
@@ -61,7 +61,7 @@ Fiquem à beira da estrada e observem, vocês que vivem em Aroer. Perguntem ao h
 Moabe está desgraçada, pois está despedaçada. Lamentem e clamem! Proclamem pelo Arnom que Moabe está destruída.
 
 ## Jeremias 48:21
-O julgamento chegou ao planalto— a Holom, Jaza e Mefaate,
+O julgamento chegou ao planalto — a Holom, Jaza e Mefaate,
 
 ## Jeremias 48:22
 às cidades de Dibom, Nebo e Bete-Diblataim,
@@ -70,7 +70,7 @@ O julgamento chegou ao planalto— a Holom, Jaza e Mefaate,
 às cidades de Quiriataim, Bete-Gamul e Bete-Meom,
 
 ## Jeremias 48:24
-a Queriote e Bozra— a todas as cidades de Moabe, tanto próximas quanto distantes.
+a Queriote e Bozra — a todas as cidades de Moabe, tanto próximas quanto distantes.
 
 ## Jeremias 48:25
 A força de Moabe foi cortada; seu poder está quebrado,” declara o Senhor.
@@ -85,13 +85,13 @@ Não foi Israel motivo de riso para vocês? Foi ela pega entre ladrões, que voc
 Deixem as cidades e habitem entre as rochas, vocês que vivem em Moabe. Sejam como uma pomba que faz ninho na entrada de uma caverna.
 
 ## Jeremias 48:29
-Ouvimos sobre o orgulho de Moabe— quão grande é sua arrogância!— de sua insolência, seu orgulho, sua presunção e a altivez de seu coração.
+Ouvimos sobre o orgulho de Moabe — quão grande é sua arrogância! — de sua insolência, seu orgulho, sua presunção e a altivez de seu coração.
 
 ## Jeremias 48:30
 Eu conheço sua insolência,” declara o Senhor, “mas é inútil; suas vanglórias não realizam nada.
 
 ## Jeremias 48:31
-Portanto, lamento por Moabe, por toda Moabe eu clamo, eu lamento pelo povo de Quir-Heresete.
+Portanto, lamento por Moabe, por toda Moabe eu clamo, eu lamento pelo povo de Quir-Heres.
 
 ## Jeremias 48:32
 Eu choro por vocês, como Jazer chora, vocês, vinhas de Sibma. Seus ramos se espalharam pelo mar; eles chegaram até Jazer. O destruidor caiu sobre seus frutos maduros e uvas.
@@ -106,7 +106,7 @@ A lamentação ecoa de Hesbom até Eleale e Jaza, de Zoar até Horonaim e Eglate
 Em Moabe eu darei fim àqueles que fazem ofertas nos altos e queimam incenso a seus deuses,” declara o Senhor.
 
 ## Jeremias 48:36
-“Portanto, meu coração lamenta por Moabe como a música de flautas; lamenta como uma flauta pelo povo de Quir-Heresete. A riqueza que eles adquiriram se foi.
+“Portanto, meu coração lamenta por Moabe como a música de flautas; lamenta como uma flauta pelo povo de Quir-Heres. A riqueza que eles adquiriram se foi.
 
 ## Jeremias 48:37
 Toda cabeça está raspada e toda barba cortada; há cortes em todas as mãos e pano de saco ao redor das cinturas.

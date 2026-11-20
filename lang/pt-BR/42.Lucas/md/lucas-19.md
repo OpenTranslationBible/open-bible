@@ -108,7 +108,7 @@ Eles disseram-lhe: ‘Senhor, ele já tem dez minas.’
 
 ## Lucas 19:27
 
-Mas aqueles meus inimigos que não quiseram que eu reinasse sobre eles—trazei-os aqui e matai-os na minha presença.’”
+Mas aqueles meus inimigos que não quiseram que eu reinasse sobre eles — trazei-os aqui e matai-os na minha presença.’”
 
 ---
 
@@ -172,7 +172,7 @@ Ao aproximar-se de Jerusalém e ver a cidade, chorou sobre ela
 
 ## Lucas 19:42
 
-e disse: “Se tu, mesmo tu, tivesses conhecido neste dia o que te traria paz—mas agora está oculto aos teus olhos.
+e disse: “Se tu, mesmo tu, tivesses conhecido neste dia o que te traria paz — mas agora está oculto aos teus olhos.
 
 ## Lucas 19:43
 

@@ -74,7 +74,7 @@ Ele abateu o boi e o carneiro como ofertas de paz para o povo. Seus filhos lhe e
 
 ## Levítico 9:19
 
-As porções de gordura do boi e do carneiro—a cauda gorda, a camada de gordura, os rins e o lóbulo longo do fígado—
+As porções de gordura do boi e do carneiro — a cauda gorda, a camada de gordura, os rins e o lóbulo longo do fígado—
 
 ## Levítico 9:20
 

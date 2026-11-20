@@ -55,7 +55,7 @@ Os caldeus quebraram as colunas de bronze, as bases e o mar de bronze que estava
 Eles também levaram as panelas, pás, apagadores, bacias, tigelas e todos os utensílios de bronze usados no serviço do templo.
 
 ## Jeremias 52:19
-O capitão da guarda levou as tigelas, braseiros, bacias, panelas, candelabros, tigelas e taças para libações—tudo o que era feito de ouro fino ou prata.
+O capitão da guarda levou as tigelas, braseiros, bacias, panelas, candelabros, tigelas e taças para libações — tudo o que era feito de ouro fino ou prata.
 
 ## Jeremias 52:20
 O bronze das duas colunas, do mar, dos doze bois de bronze que estavam debaixo dele, e das bases, que o rei Salomão havia feito para a casa do Senhor, era incalculável.

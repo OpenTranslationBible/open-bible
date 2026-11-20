@@ -66,7 +66,7 @@ Não se deixem enganar, meus amados irmãos e irmãs.
 
 ## Tiago 1:17
 
-Toda boa dádiva e todo dom perfeito vêm do alto, descendo do Pai das luzes celestiais, que não muda como sombras inconstantes.
+Toda boa dádiva e todo dom perfeito vêm do alto, descendo do Pai das luzes celestiais, em quem não há mudança nem sombra de variação.
 
 ## Tiago 1:18
 

@@ -19,4 +19,4 @@ Pois antes da colheita, quando a flor se vai e a flor se torna uma uva amadurece
 Eles serão deixados juntos para as aves de rapina dos montes e para os animais selvagens; as aves se alimentarão deles todo o verão, e os animais selvagens se alimentarão deles todo o inverno.
 
 ## Isaías 18:7
-Naquele tempo, presentes de tributo serão trazidos ao Senhor Todo-Poderoso de um povo alto e de pele lisa, de um povo temido de longe, uma nação poderosa e agressiva, cuja terra é dividida por rios— ao lugar do Nome do Senhor Todo-Poderoso, ao Monte Sião.
+Naquele tempo, presentes de tributo serão trazidos ao Senhor Todo-Poderoso de um povo alto e de pele lisa, de um povo temido de longe, uma nação poderosa e agressiva, cuja terra é dividida por rios — ao lugar do Nome do Senhor Todo-Poderoso, ao Monte Sião.

@@ -10,7 +10,7 @@ Saul o tomou naquele dia e não permitiu que ele voltasse para a casa de seu pai
 
 ## 1 Samuel 18:3
 
-Então Jônatas fez um pacto com Davi e ele se devotou a ele; como se fosse à sua própria alma.
+Então Jônatas fez um pacto com Davi, porque era devotado a ele como à sua própria alma.
 
 ## 1 Samuel 18:4
 
@@ -30,8 +30,8 @@ Aconteceu que, ao voltarem para casa, quando Davi retornou de derrotar o filiste
 
 As mulheres cantavam enquanto celebravam e diziam:
 
-> “Saul matou seus milhares,  
-> E Davi seus dez milhares.”
+>  “Saul matou seus milhares,  
+>  E Davi seus dez milhares.”
 
 ## 1 Samuel 18:8
 
@@ -94,7 +94,7 @@ Agora Mical, filha de Saul, amava Davi. Quando contaram a Saul, o assunto foi ag
 ## 1 Samuel 18:21
 
 Saul pensou: “Eu a darei a ele, para que ela se torne um laço para ele, e para que a mão dos filisteus esteja contra ele.”  
-Portanto, Saul disse a Davi: “Pela segunda vez você pode se tornar meu genro hoje.”
+ Portanto, Saul disse a Davi: “Pela segunda vez você pode se tornar meu genro hoje.”
 
 ## 1 Samuel 18:22
 
@@ -111,7 +111,7 @@ Os servos de Saul relataram a ele de acordo com o que Davi havia dito.
 ## 1 Samuel 18:25
 
 Então Saul disse: “Isto é o que vocês dirão a Davi: ‘O rei não deseja dote algum, exceto cem prepúcios dos filisteus, para se vingar dos inimigos do rei.’”  
-Mas Saul pretendia que Davi caísse pela mão dos filisteus.
+ Mas Saul pretendia que Davi caísse pela mão dos filisteus.
 
 ---
 
@@ -133,4 +133,4 @@ O medo de Saul por Davi aumentou. Assim, Saul permaneceu adversário de Davi con
 
 ## 1 Samuel 18:30
 
-Então os comandantes dos filisteus saíram para a batalha, e aconteceu que, sempre que saíam, Davi era mais bem-sucedido do que todos os servos de Saul.
+Então os comandantes dos filisteus saíram para a batalha, e aconteceu que, sempre que saíam, Davi era mais bem-sucedido do que todos os servos de Saul, de modo que seu nome se tornou muito estimado.

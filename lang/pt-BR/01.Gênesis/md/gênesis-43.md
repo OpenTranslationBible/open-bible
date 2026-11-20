@@ -31,7 +31,7 @@ Eu pessoalmente garanto a segurança dele; você pode me responsabilizar. Se eu 
 Se não tivéssemos demorado, já poderíamos ter ido e voltado duas vezes.”
 
 ## Gênesis 43:11
-Então seu pai Israel disse: “Se tem que ser assim, façam isto: levem alguns dos melhores produtos da terra em suas sacolas e levem-nos ao homem como presente—um pouco de bálsamo, um pouco de mel, algumas especiarias e mirra, pistaches e amêndoas.
+Então seu pai Israel disse: “Se tem que ser assim, façam isto: levem alguns dos melhores produtos da terra em suas sacolas e levem-nos ao homem como presente — um pouco de bálsamo, um pouco de mel, algumas especiarias e mirra, pistaches e amêndoas.
 
 ## Gênesis 43:12
 Levem o dobro do dinheiro com vocês e devolvam o dinheiro que foi colocado de volta nas bocas de seus sacos. Talvez tenha sido um engano.
@@ -61,7 +61,7 @@ Então eles se aproximaram do mordomo de José e falaram com ele na entrada da c
 Eles disseram: “Perdão, meu senhor, de fato descemos aqui pela primeira vez para comprar comida.
 
 ## Gênesis 43:21
-Mas quando chegamos ao nosso acampamento, abrimos nossos sacos e encontramos o dinheiro de cada homem na boca de seu saco—nosso dinheiro completo. Então o trouxemos de volta conosco.
+Mas quando chegamos ao nosso acampamento, abrimos nossos sacos e encontramos o dinheiro de cada homem na boca de seu saco — nosso dinheiro completo. Então o trouxemos de volta conosco.
 
 ## Gênesis 43:22
 Também trouxemos dinheiro adicional conosco para comprar comida. Não sabemos quem colocou nosso dinheiro em nossos sacos.”

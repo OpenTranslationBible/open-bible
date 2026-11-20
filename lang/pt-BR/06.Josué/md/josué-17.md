@@ -3,11 +3,11 @@
 ## Josué 17:1
 
 Esta foi a herança para a tribo de Manassés, o primogênito de José:  
-Para Maquir, o primogênito de Manassés e pai de Gileade—que era um homem de guerra—foi dado Gileade e Basã.
+ Para Maquir, o primogênito de Manassés e pai de Gileade — que era um homem de guerra — foi dado Gileade e Basã.
 
 ## Josué 17:2
 
-Assim, a herança foi feita para o restante da tribo de Manassés, de acordo com seus clãs—para os descendentes de Abiezer, Heleque, Asriel, Siquém, Héfer e Semida. Estes foram os descendentes masculinos de Manassés, filho de José, por seus clãs.
+Assim, a herança foi feita para o restante da tribo de Manassés, de acordo com seus clãs — para os descendentes de Abiezer, Heleque, Asriel, Siquém, Héfer e Semida. Estes foram os descendentes masculinos de Manassés, filho de José, por seus clãs.
 
 ## Josué 17:3
 
@@ -45,7 +45,7 @@ A terra ao sul pertencia a Efraim e ao norte a Manassés. O mar era seu limite. 
 
 ## Josué 17:11
 
-Dentro de Issacar e Aser, Manassés também tinha Bete-Seã, Ibleã, e o povo de Dor, Endor, Taanaque e Megido—cada um com seus povoados ao redor.
+Dentro de Issacar e Aser, Manassés também tinha Bete-Seã, Ibleã, e o povo de Dor, Endor, Taanaque e Megido — cada um com seus povoados ao redor.
 
 ## Josué 17:12
 
@@ -67,13 +67,13 @@ Josué respondeu: “Se vocês são tão numerosos, e a região montanhosa de Ef
 
 ## Josué 17:16
 
-Os descendentes de José disseram: “A região montanhosa não é suficiente para nós, e todos os cananeus que vivem na planície têm carros de ferro—tanto os de Bete-Seã e seus povoados quanto os do Vale de Jezreel.”
+Os descendentes de José disseram: “A região montanhosa não é suficiente para nós, e todos os cananeus que vivem na planície têm carros de ferro — tanto os de Bete-Seã e seus povoados quanto os do Vale de Jezreel.”
 
 ---
 
 ## Josué 17:17
 
-Mas Josué disse às tribos de José—a Efraim e Manassés—“Vocês são numerosos e muito poderosos. Vocês não terão apenas uma herança.
+Mas Josué disse às tribos de José — a Efraim e Manassés — “Vocês são numerosos e muito poderosos. Vocês não terão apenas uma herança.
 
 ## Josué 17:18
 

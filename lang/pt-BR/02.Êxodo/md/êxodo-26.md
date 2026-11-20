@@ -55,13 +55,13 @@ Cada quadro deve ter duas projeções paralelas entre si; faça todos os quadros
 Construa vinte quadros para o lado sul do tabernáculo.
 
 ## Êxodo 26:19
-Crie quarenta bases de prata para colocar sob os quadros—duas bases para cada quadro, uma sob cada projeção.
+Crie quarenta bases de prata para colocar sob os quadros — duas bases para cada quadro, uma sob cada projeção.
 
 ## Êxodo 26:20
 Para o lado norte do tabernáculo, construa vinte quadros
 
 ## Êxodo 26:21
-e quarenta bases de prata—duas bases sob cada quadro.
+e quarenta bases de prata — duas bases sob cada quadro.
 
 ## Êxodo 26:22
 Para a parte de trás do tabernáculo, o lado oeste, faça seis quadros.
@@ -73,7 +73,7 @@ Faça dois quadros para os cantos na parte de trás do tabernáculo.
 Esses quadros de canto devem ser duplos desde a base até o topo e encaixados em um único anel; ambos devem ser construídos desta maneira.
 
 ## Êxodo 26:25
-Haverá oito quadros com suas bases de prata—dezesseis bases no total, duas sob cada quadro.
+Haverá oito quadros com suas bases de prata — dezesseis bases no total, duas sob cada quadro.
 
 ## Êxodo 26:26
 “Além disso, faça travessas de madeira de acácia: cinco para os quadros de um lado do tabernáculo,

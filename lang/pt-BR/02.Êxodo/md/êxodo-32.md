@@ -73,7 +73,7 @@ Eles me disseram: ‘Faça para nós um deus que vá adiante de nós; quanto a e
 Então eu lhes disse: ‘Quem tiver alguma joia de ouro, tire-a.’ Eles me deram, eu joguei no fogo, e saiu este bezerro!”
 
 ## Êxodo 32:25
-Quando Moisés viu que o povo estava fora de controle—pois Arão os havia deixado fora de controle a ponto de se tornarem motivo de riso entre seus inimigos—
+Quando Moisés viu que o povo estava fora de controle — pois Arão os havia deixado fora de controle a ponto de se tornarem motivo de riso entre seus inimigos—
 
 ## Êxodo 32:26
 Moisés ficou à entrada do acampamento e disse: “Quem é pelo Senhor, venha a mim.” E todos os filhos de Levi se reuniram a ele.
@@ -85,7 +85,7 @@ Ele lhes disse: “Assim diz o Senhor, o Deus de Israel: ‘Cada homem prenda um
 Os filhos de Levi fizeram conforme Moisés ordenou, e naquele dia cerca de três mil do povo caíram.
 
 ## Êxodo 32:29
-Então Moisés disse: “Consagrem-se hoje ao Senhor—pois vocês foram contra seus próprios filhos e irmãos—para que Ele lhes conceda uma bênção hoje.”
+Então Moisés disse: “Consagrem-se hoje ao Senhor — pois vocês foram contra seus próprios filhos e irmãos — para que Ele lhes conceda uma bênção hoje.”
 
 ## Êxodo 32:30
 No dia seguinte, Moisés disse ao povo: “Vocês cometeram um grande pecado. Mas agora subirei ao Senhor; talvez eu possa fazer expiação por seu pecado.”

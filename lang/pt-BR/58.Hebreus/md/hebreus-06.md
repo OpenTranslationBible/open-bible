@@ -13,7 +13,7 @@ E isso faremos, se Deus permitir.
 Pois é impossível para aqueles que uma vez foram iluminados, que provaram o dom celestial e se tornaram participantes do Espírito Santo,
 
 ## Hebreus 6:5
-e experimentaram a riqueza da palavra de Deus e os poderes da era vindoura,
+e provaram a bondade da palavra de Deus e os poderes da era vindoura,
 
 ## Hebreus 6:6
 e então caíram, serem restaurados novamente ao arrependimento, visto que estão crucificando o Filho de Deus novamente e sujeitando-O à desonra pública.

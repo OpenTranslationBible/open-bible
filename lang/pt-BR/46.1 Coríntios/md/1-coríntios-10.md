@@ -86,7 +86,7 @@ Vocês não podem compartilhar do cálice do Senhor e do cálice dos demônios; 
 
 ## 1 Coríntios 10:22
 
-Ou provocaremos a paciência do Senhor? Certamente, não somos mais fortes do que Ele.
+Ou provocaremos o Senhor ao ciúme? Somos mais fortes do que Ele?
 
 ## 1 Coríntios 10:23
 

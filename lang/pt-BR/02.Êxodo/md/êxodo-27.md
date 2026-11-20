@@ -7,7 +7,7 @@
 Faça chifres em seus quatro cantos, assegurando que os chifres sejam de uma só peça com o altar, e cubra-o com bronze.
 
 ## Êxodo 27:3
-Modele todos os seus utensílios de bronze—suas panelas para remover cinzas, suas pás, bacias de aspersão, garfos de carne e braseiros.
+Modele todos os seus utensílios de bronze — suas panelas para remover cinzas, suas pás, bacias de aspersão, garfos de carne e braseiros.
 
 ## Êxodo 27:4
 Crie uma grade para ele, uma rede de bronze, e faça quatro argolas de bronze nos quatro cantos da rede.

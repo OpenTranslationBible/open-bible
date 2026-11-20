@@ -49,7 +49,7 @@ Efrom respondeu a Abraão, dizendo-lhe,
 Abraão concordou com Efrom e pesou-lhe a prata que ele havia mencionado na presença dos hititas: quatrocentos siclos de prata, de acordo com o peso corrente entre os mercadores.
 
 ## Gênesis 23:17
-Assim, o campo de Efrom em Macpela, perto de Manre—o campo com a caverna nele, e todas as árvores dentro dos limites do campo—foi transferido
+Assim, o campo de Efrom em Macpela, perto de Manre — o campo com a caverna nele, e todas as árvores dentro dos limites do campo — foi transferido
 
 ## Gênesis 23:18
 para Abraão como sua posse na presença dos hititas, diante de todos os que entraram no portão de sua cidade.

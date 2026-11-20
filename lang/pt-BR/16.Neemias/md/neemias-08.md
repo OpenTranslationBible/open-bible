@@ -28,7 +28,7 @@ Esdras louvou o Senhor, o grande Deus, e todo o povo respondeu: “Amém, Amém!
 
 ## Neemias 8:7
 
-Os levitas—Jesua, Bani, Serebias, Jamim, Acube, Sabetai, Hodias, Maaseias, Quelita, Azarias, Jozabade, Hanã e Pelaías—explicaram a Lei ao povo enquanto permaneciam em seus lugares.
+Os levitas — Jesua, Bani, Serebias, Jamim, Acube, Sabetai, Hodias, Maaseias, Quelita, Azarias, Jozabade, Hanã e Pelaías — explicaram a Lei ao povo enquanto permaneciam em seus lugares.
 
 ## Neemias 8:8
 

@@ -140,7 +140,7 @@ Então os soldados cortaram as cordas que seguravam o barco e o deixaram à deri
 
 ## Atos 27:33
 
-Pouco antes do amanhecer, Paulo encorajou a todos a comer. “Nos últimos quatorze dias,” disse ele, “vocês têm estado em constante suspense e sem comer—não comeram nada.
+Pouco antes do amanhecer, Paulo encorajou a todos a comer. “Nos últimos quatorze dias,” disse ele, “vocês têm estado em constante suspense e sem comer — não comeram nada.
 
 ## Atos 27:34
 

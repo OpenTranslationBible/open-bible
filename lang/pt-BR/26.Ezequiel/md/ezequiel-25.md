@@ -36,7 +36,7 @@ portanto, eis que estenderei minha mão contra vocês e os darei como despojo à
 
 ## Ezequiel 25:9
 
-portanto, eis que exporei o flanco de Moabe, começando com suas cidades fronteiriças—Bete-Jesimote, Baal-Meom e Quiriataim—a glória da terra.
+portanto, eis que exporei o flanco de Moabe, começando com suas cidades fronteiriças — Bete-Jesimote, Baal-Meom e Quiriataim — a glória da terra.
 
 ## Ezequiel 25:10
 

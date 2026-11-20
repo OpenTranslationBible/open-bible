@@ -52,7 +52,7 @@ Quando os israelitas ouviram isso, toda a assembleia se reuniu em Siló para ir 
 
 ## Josué 22:13
 
-Então os israelitas enviaram Finéias, filho de Eleazar, o sacerdote, à terra de Gileade—para os rubenitas, gaditas e a meia tribo de Manassés.
+Então os israelitas enviaram Finéias, filho de Eleazar, o sacerdote, à terra de Gileade — para os rubenitas, gaditas e a meia tribo de Manassés.
 
 ## Josué 22:14
 
@@ -90,7 +90,7 @@ Então os rubenitas, gaditas e a meia tribo de Manassés responderam aos chefes 
 
 ## Josué 22:22
 
-“O Poderoso, Deus, o Senhor! Ele sabe, e que Israel saiba. Se isso foi em rebelião ou desobediência ao Senhor, não nos poupem hoje.
+“O Poderoso, Deus, o Senhor! O Poderoso, Deus, o Senhor! Ele sabe, e que Israel saiba. Se isso foi em rebelião ou desobediência ao Senhor, não nos poupem hoje.
 
 ## Josué 22:23
 
@@ -106,7 +106,7 @@ Pois o Senhor fez do Jordão uma fronteira entre nós e vocês, rubenitas e gadi
 
 ## Josué 22:26
 
-Por isso dissemos: ‘Vamos preparar e construir um altar—mas não para holocaustos ou sacrifícios.
+Por isso dissemos: ‘Vamos preparar e construir um altar — mas não para holocaustos ou sacrifícios.
 
 ## Josué 22:27
 
@@ -122,7 +122,7 @@ Longe de nós rebelar-nos contra o Senhor e afastar-nos dEle hoje, construindo u
 
 ## Josué 22:30
 
-Quando Finéias, o sacerdote, e os líderes da comunidade—os chefes dos clãs dos israelitas—ouviram o que os rubenitas, gaditas e manassitas disseram, ficaram satisfeitos.
+Quando Finéias, o sacerdote, e os líderes da comunidade — os chefes dos clãs dos israelitas — ouviram o que os rubenitas, gaditas e manassitas disseram, ficaram satisfeitos.
 
 ## Josué 22:31
 

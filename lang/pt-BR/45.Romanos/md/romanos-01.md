@@ -2,7 +2,7 @@
 
 ## Romanos 1:1
 
-Paulo, um seguidor devoto de Cristo Jesus, designado como apóstolo, destinado ao evangelho de Deus—
+Paulo, servo de Cristo Jesus, designado como apóstolo, destinado ao evangelho de Deus—
 
 ## Romanos 1:2
 
@@ -70,7 +70,7 @@ Pois não me envergonho do evangelho, porque é o poder de Deus para a salvaçã
 
 ## Romanos 1:17
 
-Pois nele a justiça de Deus é revelada—uma justiça que é pela fé do início ao fim, como está escrito: “O justo viverá pela fé.”
+Pois nele a justiça de Deus é revelada — uma justiça que é pela fé do início ao fim, como está escrito: “O justo viverá pela fé.”
 
 ---
 
@@ -84,7 +84,7 @@ porque o que se pode conhecer sobre Deus é evidente para eles, pois Deus o torn
 
 ## Romanos 1:20
 
-Desde a criação do mundo, as qualidades invisíveis de Deus—seu poder eterno e natureza divina—têm sido claramente percebidas, sendo compreendidas por meio do que foi criado, de modo que as pessoas são indesculpáveis.
+Desde a criação do mundo, as qualidades invisíveis de Deus — seu poder eterno e natureza divina — têm sido claramente percebidas, sendo compreendidas por meio do que foi criado, de modo que as pessoas são indesculpáveis.
 
 ## Romanos 1:21
 
@@ -106,7 +106,7 @@ Portanto, Deus os entregou aos desejos pecaminosos de seus corações para a imp
 
 ## Romanos 1:25
 
-Trocaram a verdade de Deus pela mentira, e adoraram e serviram às coisas criadas em vez do Criador—que é bendito para sempre. Amém.
+Trocaram a verdade de Deus pela mentira, e adoraram e serviram às coisas criadas em vez do Criador — que é bendito para sempre. Amém.
 
 ---
 

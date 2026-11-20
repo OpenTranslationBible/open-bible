@@ -18,7 +18,7 @@ Em pé sobre a plataforma dos levitas estavam Jesua, Bani, Cadmiel, Sebanias, Bu
 
 ## Neemias 9:5
 
-Então os levitas—Jesua, Cadmiel, Bani, Hasabneias, Serebias, Hodias, Sebanias e Petaías—disseram: “Levantai-vos, bendizei ao Senhor, vosso Deus, que é de eternidade a eternidade. Bendito seja o teu glorioso nome, que está exaltado acima de toda bênção e louvor.
+Então os levitas — Jesua, Cadmiel, Bani, Hasabneias, Serebias, Hodias, Sebanias e Petaías — disseram: “Levantai-vos, bendizei ao Senhor, vosso Deus, que é de eternidade a eternidade. Bendito seja o teu glorioso nome, que está exaltado acima de toda bênção e louvor.
 
 ## Neemias 9:6
 

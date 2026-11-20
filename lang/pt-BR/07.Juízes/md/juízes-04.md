@@ -92,7 +92,7 @@ Mas Jael, esposa de Héber, pegou uma estaca de tenda e um martelo, e foi silenc
 
 ## Juízes 4:22
 
-Nesse momento, Baraque chegou em perseguição a Sísera, e Jael saiu ao seu encontro. Ela disse: “Venha, eu lhe mostrarei o homem que você está procurando.” Assim, ele entrou com ela, e lá estava Sísera com a estaca na têmpora—morto.
+Nesse momento, Baraque chegou em perseguição a Sísera, e Jael saiu ao seu encontro. Ela disse: “Venha, eu lhe mostrarei o homem que você está procurando.” Assim, ele entrou com ela, e lá estava Sísera com a estaca na têmpora — morto.
 
 ## Juízes 4:23
 

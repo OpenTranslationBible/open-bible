@@ -70,7 +70,7 @@ Pois no íntimo, tenho prazer na lei de Deus;
 mas vejo outra lei em ação em mim, guerreando contra a lei da minha mente e fazendo-me prisioneiro da lei do pecado que atua dentro do meu corpo.
 
 ## Romanos 7:24
-Que pessoa angustiada sou eu! Quem me libertará deste corpo sujeito à morte?
+Que pessoa miserável sou eu! Quem me libertará deste corpo sujeito à morte?
 
 ## Romanos 7:25
-Graças a Deus, que me liberta por meio de Jesus Cristo, nosso Senhor! Assim, eu mesmo, em minha mente, sou escravo da lei de Deus, mas em minha carne, escravo da lei do pecado.
+Graças a Deus, por meio de Jesus Cristo, nosso Senhor! Assim, eu mesmo, em minha mente, sou escravo da lei de Deus, mas em minha carne, escravo da lei do pecado.

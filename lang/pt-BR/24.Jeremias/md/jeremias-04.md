@@ -91,4 +91,4 @@ Ao som de cavaleiros e arqueiros todas as cidades fogem; eles vão para as moita
 E você, devastada, o que fará? Embora se vista de escarlate, embora coloque joias de ouro, embora destaque seus olhos com maquiagem, em vão você se faz bela. Seus amantes a desprezam; eles buscam sua vida.
 
 ## Jeremias 4:31
-Ouço um grito como de uma mulher em trabalho de parto, um gemido como de quem dá à luz seu primeiro filho—o grito da Filha de Sião ofegando, estendendo as mãos e dizendo: “Ai de mim! Estou desfalecendo; minha vida é entregue aos assassinos.”
+Ouço um grito como de uma mulher em trabalho de parto, um gemido como de quem dá à luz seu primeiro filho — o grito da Filha de Sião ofegando, estendendo as mãos e dizendo: “Ai de mim! Estou desfalecendo; minha vida é entregue aos assassinos.”

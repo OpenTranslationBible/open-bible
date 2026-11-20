@@ -31,7 +31,7 @@ Além de ser sábio, o Mestre também transmitiu conhecimento ao povo. Ele ponde
 O Mestre procurou encontrar as palavras certas e escrever com precisão palavras de verdade.
 
 ## Eclesiastes 12:11
-As palavras dos sábios são como aguilhões, e suas coleções de ditos como pregos bem fixados—dadas por um único Pastor.
+As palavras dos sábios são como aguilhões, e suas coleções de ditos como pregos bem fixados — dadas por um único Pastor.
 
 ## Eclesiastes 12:12
 Mas, além disso, meu filho, esteja avisado: não há fim para a produção de livros, e muito estudo cansa o corpo.

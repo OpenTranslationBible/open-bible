@@ -162,7 +162,7 @@ acompanhando Zorobabel, Jesua, Neemias, Azarias, Raamias, Naamani, Mordecai, Bil
 
 Os sacerdotes:
 
-> os descendentes de Jedaías, da casa de Jesua, 973;
+>  os descendentes de Jedaías, da casa de Jesua, 973;
 
 ## Neemias 7:40
 
@@ -182,21 +182,21 @@ Os sacerdotes:
 
 Os levitas:
 
-> os descendentes de Jesua, por Cadmiel, pelos descendentes de Hodavias, 74.
+>  os descendentes de Jesua, por Cadmiel, pelos descendentes de Hodavias, 74.
 
 ## Neemias 7:44
 
 Os cantores:
 
-> os descendentes de Asafe, 148.
+>  os descendentes de Asafe, 148.
 
 ## Neemias 7:45
 
 Os porteiros:
 
-> os descendentes de
-> Salum, Ater, Talmom, Acube,
-> Hatita e Sobai, 138.
+>  os descendentes de Salum,
+>  Ater, Talmom, Acube,
+>  Hatita e Sobai, 138.
 
 ---
 
@@ -204,7 +204,7 @@ Os porteiros:
 
 Os servos do templo:
 
-os descendentes de Zia, Hasufa, Tabaote,
+ os descendentes de Zia, Hasufa, Tabaote,
 
 ## Neemias 7:47
 
@@ -228,7 +228,7 @@ os descendentes de Zia, Hasufa, Tabaote,
 
 ## Neemias 7:52
 
-> os descendentes de Besai, Meunim e o servo do templo Nefusesim,
+> os descendentes de Besai, Meunim e Nefusesim,
 
 ## Neemias 7:53
 
@@ -250,7 +250,7 @@ os descendentes de Zia, Hasufa, Tabaote,
 
 Os descendentes dos servos de Salomão:
 
-os descendentes de Sotai, Soferete e Perida,
+ os descendentes de Sotai, Soferete e Perida,
 
 ## Neemias 7:58
 
@@ -258,7 +258,7 @@ os descendentes de Jaala, Darcom e Gidel,
 
 ## Neemias 7:59
 
-os descendentes de Sefatias, Hatil, Poquerete-Hazebaim e o servo do templo Amom.
+os descendentes de Sefatias, Hatil, Poquerete-Hazebaim e Amom.
 
 ## Neemias 7:60
 

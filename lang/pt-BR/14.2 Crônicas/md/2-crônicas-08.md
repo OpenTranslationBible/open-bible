@@ -44,7 +44,7 @@ Todo o restante do povo dos hititas, dos amorreus, dos perizeus, dos heveus e do
 
 ## 2 Crônicas 8:8
 
-dos seus descendentes que foram deixados após eles na terra, que os filhos de Israel não destruíram—Salomão impôs trabalho forçado sobre eles até hoje.
+dos seus descendentes que foram deixados após eles na terra, que os filhos de Israel não destruíram — Salomão impôs trabalho forçado sobre eles até hoje.
 
 ---
 

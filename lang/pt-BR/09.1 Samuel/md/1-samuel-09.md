@@ -39,7 +39,7 @@ O servo respondeu novamente a Saul e disse: “Eis que tenho comigo um quarto de
 ## 1 Samuel 9:10
 
 Então Saul disse ao seu servo: “Seu conselho é bom; venha, vamos.”  
-Assim, foram à cidade onde estava o homem de Deus.
+ Assim, foram à cidade onde estava o homem de Deus.
 
 ---
 
@@ -95,7 +95,7 @@ Saul respondeu e disse: “Não sou eu um benjamita, da menor das tribos de Isra
 
 ## 1 Samuel 9:22
 
-Então Samuel levou Saul e seu servo e os trouxe para o salão, e lhes deu um lugar à frente dos convidados—cerca de trinta pessoas.
+Então Samuel levou Saul e seu servo e os trouxe para o salão, e lhes deu um lugar à frente dos convidados — cerca de trinta pessoas.
 
 ## 1 Samuel 9:23
 
@@ -104,7 +104,7 @@ E Samuel disse ao cozinheiro: “Traga a porção que lhe dei, da qual lhe disse
 ## 1 Samuel 9:24
 
 Então o cozinheiro pegou a coxa e o que estava sobre ela e a colocou diante de Saul. E Samuel disse: “Veja, o que foi reservado está diante de você. Coma, pois foi guardado para você até o tempo designado, desde que eu disse: ‘Convidei o povo.’”  
-Assim, Saul comeu com Samuel naquele dia.
+ Assim, Saul comeu com Samuel naquele dia.
 
 ---
 
@@ -115,8 +115,8 @@ Depois que desceram do alto para a cidade, Samuel conversou com Saul no terraço
 ## 1 Samuel 9:26
 
 Eles se levantaram cedo, e ao amanhecer Samuel chamou Saul no terraço, dizendo: “Levante-se, para que eu possa enviá-lo em seu caminho.”  
-Então Saul se levantou, e ambos, ele e Samuel, saíram para a rua.
+ Então Saul se levantou, e ambos, ele e Samuel, saíram para a rua.
 
 ## 1 Samuel 9:27
 
-Enquanto desciam até a extremidade da cidade, Samuel disse a Saul: “Diga ao servo que vá à nossa frente”—e o servo passou adiante—“mas você fique parado por um momento, para que eu possa declarar a você a palavra de Deus.”
+Enquanto desciam até a extremidade da cidade, Samuel disse a Saul: “Diga ao servo que vá à nossa frente” — e o servo passou adiante — “mas você fique parado por um momento, para que eu possa declarar a você a palavra de Deus.”

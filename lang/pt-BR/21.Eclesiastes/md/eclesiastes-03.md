@@ -50,7 +50,7 @@ Sei que não há nada melhor para as pessoas do que se alegrarem e fazerem o bem
 
 ## Eclesiastes 3:13
 
-Além disso, que cada um coma e beba, e veja o fruto do seu trabalho—isso é dom de Deus.
+Além disso, que cada um coma e beba, e veja o fruto do seu trabalho — isso é dom de Deus.
 
 ## Eclesiastes 3:14
 

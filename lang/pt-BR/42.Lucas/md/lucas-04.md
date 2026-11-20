@@ -114,7 +114,7 @@ No entanto, Elias não foi enviado a nenhuma delas, mas a uma viúva em Sarepta,
 
 ## Lucas 4:27
 
-E havia muitos leprosos em Israel no tempo do profeta Eliseu, mas nenhum deles foi purificado—somente Naamã, o sírio.”
+E havia muitos leprosos em Israel no tempo do profeta Eliseu, mas nenhum deles foi purificado — somente Naamã, o sírio.”
 
 ## Lucas 4:28
 
@@ -144,7 +144,7 @@ Na sinagoga havia um homem possuído por um demônio, um espírito impuro. Ele g
 
 ## Lucas 4:34
 
-“Deixe-nos! O que você quer conosco, Jesus de Nazaré? Você veio para nos destruir? Eu sei quem você é—o Santo de Deus!”
+“Deixe-nos! O que você quer conosco, Jesus de Nazaré? Você veio para nos destruir? Eu sei quem você é — o Santo de Deus!”
 
 ## Lucas 4:35
 

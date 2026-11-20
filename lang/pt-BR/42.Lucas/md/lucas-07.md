@@ -48,7 +48,7 @@ Logo depois, Jesus foi a uma cidade chamada Naim, e Seus discípulos e uma grand
 
 ## Lucas 7:12
 
-Quando Ele se aproximou do portão da cidade, um homem morto estava sendo levado para fora—o único filho de sua mãe, e ela era viúva. Uma grande multidão da cidade estava com ela.
+Quando Ele se aproximou do portão da cidade, um homem morto estava sendo levado para fora — o único filho de sua mãe, e ela era viúva. Uma grande multidão da cidade estava com ela.
 
 ## Lucas 7:13
 
@@ -114,8 +114,8 @@ Mas o que fostes ver? Um profeta? Sim, eu vos digo, e mais do que um profeta.
 
 Este é aquele de quem está escrito:
 
-> ‘Eis que envio o meu mensageiro à tua frente,
-> que preparará o teu caminho diante de ti.’
+>  ‘Eis que envio o meu mensageiro à tua frente,
+>  que preparará o teu caminho diante de ti.’
 
 ## Lucas 7:28
 
@@ -139,10 +139,10 @@ Mas os fariseus e os peritos na lei rejeitaram o propósito de Deus para si mesm
 
 São como crianças sentadas na praça do mercado e chamando umas às outras:
 
-> ‘Tocamos flauta para vocês,
-> e vocês não dançaram;
-> cantamos uma lamentação,
-> e vocês não choraram.’
+>  ‘Tocamos flauta para vocês,
+>  e vocês não dançaram;
+>  cantamos uma lamentação,
+>  e vocês não choraram.’
 
 ## Lucas 7:33
 
@@ -172,7 +172,7 @@ Ficando atrás dEle, aos Seus pés, chorando, ela começou a molhar Seus pés co
 
 ## Lucas 7:39
 
-Quando o fariseu que O havia convidado viu isso, pensou consigo mesmo: “Se este homem fosse um profeta, saberia quem está tocando nEle e que tipo de mulher ela é—que é uma pecadora.”
+Quando o fariseu que O havia convidado viu isso, pensou consigo mesmo: “Se este homem fosse um profeta, saberia quem está tocando nEle e que tipo de mulher ela é — que é uma pecadora.”
 
 ## Lucas 7:40
 

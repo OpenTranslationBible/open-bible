@@ -28,7 +28,7 @@ pedras de ônix e outras pedras preciosas para serem colocadas no éfode e no pe
 Faça o tabernáculo e todos os seus utensílios exatamente de acordo com o modelo que eu lhe mostrarei.
 
 ## Êxodo 25:10
-“Eles devem fazer uma arca de madeira de acácia—dois côvados e meio de comprimento, um côvado e meio de largura e um côvado e meio de altura.
+“Eles devem fazer uma arca de madeira de acácia — dois côvados e meio de comprimento, um côvado e meio de largura e um côvado e meio de altura.
 
 ## Êxodo 25:11
 Revista-a com ouro puro, por dentro e por fora, e faça uma moldura de ouro ao seu redor.
@@ -49,7 +49,7 @@ As varas devem permanecer nas argolas da arca; não devem ser removidas.
 Então coloque na arca as tábuas da lei da aliança, que eu lhe darei.
 
 ## Êxodo 25:17
-“Faça uma tampa de ouro puro para expiação—dois côvados e meio de comprimento e um côvado e meio de largura.
+“Faça uma tampa de ouro puro para expiação — dois côvados e meio de comprimento e um côvado e meio de largura.
 
 ## Êxodo 25:18
 Faça dois querubins de ouro; faça-os de obra batida nas duas extremidades da tampa.
@@ -67,7 +67,7 @@ Coloque a tampa sobre a arca e coloque dentro da arca as tábuas da lei da alian
 Nesse lugar, acima da tampa e entre os dois querubins que estão sobre a arca da lei da aliança, eu me encontrarei com você e transmitirei todas as minhas instruções para os israelitas.
 
 ## Êxodo 25:23
-“Construa uma mesa de madeira de acácia—dois côvados de comprimento, um côvado de largura e um côvado e meio de altura.
+“Construa uma mesa de madeira de acácia — dois côvados de comprimento, um côvado de largura e um côvado e meio de altura.
 
 ## Êxodo 25:24
 Revista-a com ouro puro e faça uma borda de ouro ao seu redor.
@@ -94,7 +94,7 @@ Coloque o pão da Presença nesta mesa para estar diante de mim o tempo todo.
 “Crie um candelabro de ouro puro. O candelabro, sua base e seu tronco, devem ser feitos de obra batida; suas taças em forma de flores, botões e flores devem ser de uma só peça com ele.
 
 ## Êxodo 25:32
-Seis braços devem se estender dos seus lados—três de um lado e três do outro.
+Seis braços devem se estender dos seus lados — três de um lado e três do outro.
 
 ## Êxodo 25:33
 Cada braço deve ter três taças em forma de flores de amêndoa com botões e flores, e este design deve ser consistente para todos os seis braços que se estendem do candelabro.
@@ -103,7 +103,7 @@ Cada braço deve ter três taças em forma de flores de amêndoa com botões e f
 O próprio candelabro deve ter quatro taças em forma de flores de amêndoa com botões e flores.
 
 ## Êxodo 25:35
-Um botão deve ser posicionado sob o primeiro par de braços que se estendem do candelabro, outro botão sob o segundo par, e um terceiro botão sob o terceiro par—totalizando seis braços.
+Um botão deve ser posicionado sob o primeiro par de braços que se estendem do candelabro, outro botão sob o segundo par, e um terceiro botão sob o terceiro par — totalizando seis braços.
 
 ## Êxodo 25:36
 Os botões e os braços devem ser todos de uma só peça com o candelabro, feitos de ouro puro.

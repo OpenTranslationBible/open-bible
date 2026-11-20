@@ -36,15 +36,15 @@ Quando Ele tomou o livro, os quatro seres viventes e os vinte e quatro anciãos 
 
 E cantaram um cântico novo, dizendo:
 
-> “Tu és digno de tomar o livro
-> e de abrir os seus selos,
-> pois foste morto, e com o teu sangue compraste para Deus pessoas
-> de toda tribo, língua, povo e nação.
+>  “Tu és digno de tomar o livro e de abrir os seus selos,
+>  pois foste morto,
+>  e com o teu sangue compraste para Deus pessoas de toda tribo,
+>  língua, povo e nação.
 
 ## Apocalipse 5:10
 
 > Tu os fizeste reino e sacerdotes para servirem ao nosso Deus,
-> e eles reinarão sobre a terra.”
+>  e eles reinarão sobre a terra.”
 
 ## Apocalipse 5:11
 
@@ -54,15 +54,15 @@ Então olhei e ouvi a voz de muitos anjos ao redor do trono e dos seres viventes
 
 Em alta voz, diziam:
 
-> “Digno é o Cordeiro que foi morto
-> de receber poder, riqueza, sabedoria, força, honra, glória e louvor!”
+>  “Digno é o Cordeiro que foi morto de receber poder,
+>  riqueza, sabedoria, força, honra, glória e louvor!”
 
 ## Apocalipse 5:13
 
 E ouvi toda criatura no céu, na terra, debaixo da terra e no mar, e tudo o que neles há, dizendo:
 
-> “Àquele que está sentado no trono e ao Cordeiro
-> sejam o louvor, a honra, a glória e o domínio para todo o sempre!”
+>  “Àquele que está sentado no trono e ao Cordeiro sejam o louvor,
+>  a honra, a glória e o domínio para todo o sempre!”
 
 ## Apocalipse 5:14
 

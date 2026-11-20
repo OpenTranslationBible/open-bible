@@ -50,7 +50,7 @@ não por obras, mas por Aquele que chama, foi dito a ela: “O mais velho servir
 
 ## Romanos 9:13
 
-Como está expresso nas Escrituras: “Jacó amei, mas Esaú não favoreci.”
+Como está expresso nas Escrituras: “Jacó amei, mas Esaú odiei.”
 
 ## Romanos 9:14
 
@@ -60,8 +60,8 @@ O que devemos concluir? Há alguma injustiça em Deus? Absolutamente não!
 
 Pois Ele declarou a Moisés,
 
-> “Mostrarei misericórdia a quem eu escolher mostrar misericórdia,
-> e mostrarei compaixão a quem eu escolher mostrar compaixão.”
+>  “Mostrarei misericórdia a quem eu escolher mostrar misericórdia,
+>  e mostrarei compaixão a quem eu escolher mostrar compaixão.”
 
 ## Romanos 9:16
 
@@ -103,35 +103,35 @@ incluindo nós, a quem também chamou, não somente dos judeus, mas também dos 
 
 Como Ele diz em Oséias:
 
-> “Chamarei ‘meu povo’ aqueles que não eram meu povo,
-> e chamarei ‘minha amada’ aquela que não era minha amada,”
+>  “Chamarei ‘meu povo’ aqueles que não eram meu povo,
+>  e chamarei ‘minha amada’ aquela que não era minha amada,”
 
 ## Romanos 9:26
 
 > e, “Acontecerá que no lugar onde foi dito a eles,
-> ‘Vocês não são meu povo,’
-> ali serão chamados ‘filhos do Deus vivo.’”
+>  ‘Vocês não são meu povo,’
+>  ali serão chamados ‘filhos do Deus vivo.’”
 
 ## Romanos 9:27
 
 Isaías declara a respeito de Israel:
 
-> “Embora o número dos israelitas seja como a areia do mar,
-> apenas o remanescente será salvo.
+>  “Embora o número dos israelitas seja como a areia do mar,
+>  apenas o remanescente será salvo.
 
 ## Romanos 9:28
 
 > Pois o Senhor cumprirá Sua palavra na terra,
-> completamente e rapidamente.”
+>  completamente e rapidamente.”
 
 ## Romanos 9:29
 
 E assim como Isaías disse anteriormente:
 
-> “Se o Senhor Todo-Poderoso
-> não nos tivesse deixado descendentes,
-> teríamos nos tornado como Sodoma,
-> e seríamos como Gomorra.”
+>  “Se o Senhor Todo-Poderoso não nos tivesse deixado descendentes,
+>  teríamos nos tornado como Sodoma,
+>  e seríamos como Gomorra.
+> ”
 
 ## Romanos 9:30
 
@@ -149,6 +149,6 @@ Por que não? Porque a buscaram não pela fé, mas como se fosse por obras. Trop
 
 como diz a Escritura:
 
-> “Vejam, ponho em Sião uma pedra que faz as pessoas tropeçarem
-> e uma rocha que as faz cair,
-> e aquele que crer Nele jamais será envergonhado.”
+>  “Vejam, ponho em Sião uma pedra que faz as pessoas tropeçarem e uma rocha que as faz cair,
+>  e aquele que crer Nele jamais será envergonhado.
+> ”

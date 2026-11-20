@@ -26,14 +26,13 @@ Assim como Davi fala da bem-aventurança do homem a quem Deus credita justiça s
 
 ## Romanos 4:7
 
-> “Bem-aventurados aqueles
-> cujas transgressões são perdoadas,
-> cujos pecados são cobertos.
+> “Bem-aventurados aqueles cujas transgressões são perdoadas,
+>  cujos pecados são cobertos.
 
 ## Romanos 4:8
 
-> Bem-aventurado aquele
-> cujo pecado o Senhor jamais imputará.”
+> Bem-aventurado aquele cujo pecado o Senhor jamais imputará.
+> ”
 
 ## Romanos 4:9
 
@@ -65,11 +64,11 @@ porque a lei traz ira. E onde não há lei, não há transgressão.
 
 ## Romanos 4:16
 
-Portanto, a promessa é baseada na fé, para que seja segundo a graça e seja garantida a toda a descendência de Abraão—não apenas aos que são da lei, mas também aos que têm a fé de Abraão. Ele é o pai de todos nós.
+Portanto, a promessa é baseada na fé, para que seja segundo a graça e seja garantida a toda a descendência de Abraão — não apenas aos que são da lei, mas também aos que têm a fé de Abraão. Ele é o pai de todos nós.
 
 ## Romanos 4:17
 
-Como está escrito: “Eu o fiz pai de muitas nações.” Ele é nosso pai aos olhos de Deus, em quem creu—o Deus que dá vida aos mortos e chama à existência coisas que não existem.
+Como está escrito: “Eu o fiz pai de muitas nações.” Ele é nosso pai aos olhos de Deus, em quem creu — o Deus que dá vida aos mortos e chama à existência coisas que não existem.
 
 ## Romanos 4:18
 
@@ -97,7 +96,7 @@ As palavras “isso lhe foi creditado” não foram escritas apenas para ele,
 
 ## Romanos 4:24
 
-mas também para nós, a quem será creditado—para nós que cremos naquele que ressuscitou Jesus nosso Senhor dentre os mortos.
+mas também para nós, a quem será creditado — para nós que cremos naquele que ressuscitou Jesus nosso Senhor dentre os mortos.
 
 ## Romanos 4:25
 

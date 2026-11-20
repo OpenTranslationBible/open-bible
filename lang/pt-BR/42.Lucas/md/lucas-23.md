@@ -126,8 +126,8 @@ Pois virá o tempo em que vocês dirão: ‘Bem-aventuradas as estéreis, os ven
 
 Naquele tempo,
 
-> clamarão às montanhas, ‘Caiam sobre nós!’
-> e às colinas, ‘Cubram-nos!’
+>  clamarão às montanhas, ‘Caiam sobre nós!’
+>  e às colinas, ‘Cubram-nos!’
 
 ## Lucas 23:31
 
@@ -141,7 +141,7 @@ Dois outros, ambos criminosos, também foram levados com ele para serem executad
 
 ## Lucas 23:33
 
-Ao chegarem ao lugar conhecido como a Caveira, crucificaram-no ali com os criminosos—um à sua direita, o outro à sua esquerda.
+Ao chegarem ao lugar conhecido como a Caveira, crucificaram-no ali com os criminosos — um à sua direita, o outro à sua esquerda.
 
 ## Lucas 23:34
 

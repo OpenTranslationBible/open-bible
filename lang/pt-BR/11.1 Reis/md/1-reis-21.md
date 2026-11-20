@@ -15,7 +15,7 @@ Mas Nabote disse a Acabe: “O Senhor me livre de dar a você a herança dos meu
 ## 1 Reis 21:4
 
 Então Acabe foi para casa, aborrecido e irritado porque Nabote, o jezreelita, tinha dito: “Não darei a você a herança dos meus antepassados.”  
-Ele se deitou em sua cama, virou o rosto e recusou-se a comer.
+ Ele se deitou em sua cama, virou o rosto e recusou-se a comer.
 
 ---
 
@@ -38,7 +38,7 @@ Então ela escreveu cartas em nome de Acabe, selou-as com o selo dele e as envio
 ## 1 Reis 21:9
 
 Nas cartas, ela escreveu:  
-“Proclamem um jejum e coloquem Nabote em um lugar de destaque entre o povo.
+ “Proclamem um jejum e coloquem Nabote em um lugar de destaque entre o povo.
 
 ## 1 Reis 21:10
 
@@ -48,7 +48,7 @@ Mas coloquem dois homens perversos diante dele e façam-nos testemunhar que ele 
 
 ## 1 Reis 21:11
 
-Então os homens da cidade de Nabote—os anciãos e nobres que lá viviam—fizeram exatamente como Jezabel havia instruído nas cartas que ela lhes enviou.
+Então os homens da cidade de Nabote — os anciãos e nobres que lá viviam — fizeram exatamente como Jezabel havia instruído nas cartas que ela lhes enviou.
 
 ## 1 Reis 21:12
 
@@ -57,7 +57,7 @@ Eles proclamaram um jejum e colocaram Nabote em uma posição notável entre o p
 ## 1 Reis 21:13
 
 Então dois homens sem valor entraram e se sentaram diante dele, e testemunharam perante o povo, dizendo: “Nabote amaldiçoou a Deus e ao rei.”  
-Assim, eles o levaram para fora da cidade e o apedrejaram até a morte.
+ Assim, eles o levaram para fora da cidade e o apedrejaram até a morte.
 
 ## 1 Reis 21:14
 
@@ -68,7 +68,7 @@ Depois, informaram a Jezabel: “Nabote foi apedrejado e está morto.”
 ## 1 Reis 21:15
 
 Assim que Jezabel ouviu que Nabote havia sido apedrejado e estava morto, ela disse a Acabe:  
-“Levante-se e tome posse da vinha de Nabote, o jezreelita, que ele se recusou a vender a você. Ele não está mais vivo, mas morto.”
+ “Levante-se e tome posse da vinha de Nabote, o jezreelita, que ele se recusou a vender a você. Ele não está mais vivo, mas morto.”
 
 ## 1 Reis 21:16
 
@@ -87,17 +87,17 @@ A palavra do Senhor veio a Elias, o tisbita, e foi:
 ## 1 Reis 21:19
 
 Diga-lhe: ‘Assim diz o Senhor: Você assassinou e ainda tomou posse?’  
-Depois diga-lhe: ‘Assim diz o Senhor: No lugar onde os cães lamberam o sangue de Nabote, os cães lamberão também o seu sangue—sim, o seu!’”
+ Depois diga-lhe: ‘Assim diz o Senhor: No lugar onde os cães lamberam o sangue de Nabote, os cães lamberão também o seu sangue — sim, o seu!’”
 
 ## 1 Reis 21:20
 
 Acabe disse a Elias: “Então você me encontrou, meu inimigo!”  
-Elias respondeu: “Eu o encontrei, porque você se vendeu para fazer o mal aos olhos do Senhor.
+ Elias respondeu: “Eu o encontrei, porque você se vendeu para fazer o mal aos olhos do Senhor.
 
 ## 1 Reis 21:21
 
 Assim diz o Senhor:  
-‘Trarei desgraça sobre você. Eliminarei seus descendentes e cortarei de Acabe todo homem em Israel—escravo ou livre.
+ ‘Trarei desgraça sobre você. Eliminarei seus descendentes e cortarei de Acabe todo homem em Israel — escravo ou livre.
 
 ## 1 Reis 21:22
 
@@ -126,7 +126,7 @@ Ele agiu de maneira mais detestável, seguindo ídolos, como fizeram os amorreus
 ## 1 Reis 21:27
 
 Quando Acabe ouviu essas palavras, rasgou suas roupas, vestiu-se de pano de saco e jejuou.  
-Ele se deitou em pano de saco e andou quieto e humildemente.
+ Ele se deitou em pano de saco e andou quieto e humildemente.
 
 ## 1 Reis 21:28
 
@@ -135,5 +135,5 @@ A mensagem do Senhor veio a Elias, o tisbita:
 ## 1 Reis 21:29
 
 “Você notou como Acabe se humilhou diante de Mim?  
-Porque ele se humilhou, não trarei a desgraça em sua vida.  
-Eu a trarei sobre sua casa nos dias de seu filho.”
+ Porque ele se humilhou, não trarei a desgraça em sua vida.  
+ Eu a trarei sobre sua casa nos dias de seu filho.”

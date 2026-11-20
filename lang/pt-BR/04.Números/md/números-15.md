@@ -162,4 +162,4 @@ Então vocês se lembrarão de obedecer a todos os Meus mandamentos e serão ded
 
 ## Números 15:41
 
-Eu sou o Senhor, seu Deus, que os tirou do Egito para ser seu Deus.”
+Eu sou o Senhor, seu Deus, que os tirou do Egito para ser seu Deus. Eu sou o Senhor, seu Deus.”

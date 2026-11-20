@@ -98,7 +98,7 @@ Eu lhes dei a glória que Tu Me deste, para que eles sejam unidos como Nós somo
 
 ## João 17:23
 
-Eu neles e Tu em Mim—para que eles sejam levados à completa unidade. Então o mundo saberá que Tu Me enviaste e os amaste assim como Me amaste.
+Eu neles e Tu em Mim — para que eles sejam levados à completa unidade. Então o mundo saberá que Tu Me enviaste e os amaste assim como Me amaste.
 
 ---
 

@@ -70,7 +70,7 @@ Pronunciarei meus julgamentos contra eles por causa de sua maldade em me abandon
 
 ## Jeremias 1:18
 
-Hoje eu o fiz como uma cidade fortificada, uma coluna de ferro e uma muralha de bronze para enfrentar toda a terra—contra os reis de Judá, seus oficiais, seus sacerdotes e o povo da terra.
+Hoje eu o fiz como uma cidade fortificada, uma coluna de ferro e uma muralha de bronze para enfrentar toda a terra — contra os reis de Judá, seus oficiais, seus sacerdotes e o povo da terra.
 
 ## Jeremias 1:19
 

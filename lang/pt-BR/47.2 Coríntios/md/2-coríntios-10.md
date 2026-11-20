@@ -2,7 +2,7 @@
 
 ## 2 Coríntios 10:1
 
-Eu, Paulo, apelo a vocês com a humildade e a mansidão de Cristo—eu que sou humilde quando estou presente com vocês, mas ousado quando estou longe!
+Eu, Paulo, apelo a vocês com a humildade e a mansidão de Cristo — eu que sou humilde quando estou presente com vocês, mas ousado quando estou longe!
 
 ## 2 Coríntios 10:2
 

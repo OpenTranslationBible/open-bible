@@ -52,7 +52,7 @@ Quando os homens se levantaram para partir, olharam para Sodoma, e Abraão os ac
 O Senhor considerou: “Deverei ocultar de Abraão o que estou para fazer?
 
 ## Gênesis 18:18
-Visto que Abraão certamente se tornará uma grande e poderosa nação, e todas as nações da terra serão abençoadas por meio dele.
+Visto que Abraão certamente se tornará uma grande e poderosa nação, e todas as nações da terra serão abençoadas por meio dele?
 
 ## Gênesis 18:19
 Pois eu o escolhi, para que ele ordene a seus filhos e sua casa depois dele que guardem o caminho do Senhor, fazendo o que é justo e certo, para que o Senhor traga sobre Abraão o que lhe prometeu.”

@@ -38,7 +38,7 @@ Por assim dizer, através de Abraão até Levi, que recebe dízimos, pagou dízi
 
 ## Hebreus 7:10
 
-pois ele ainda não havia nascido, ainda não havia sido produzido de seus ancestrais quando Melquisedeque o encontrou.
+pois ele ainda estava no corpo de seu ancestral quando Melquisedeque o encontrou.
 
 ## Hebreus 7:11
 
@@ -68,8 +68,8 @@ que se tornou sacerdote não com base em uma regulamentação quanto à sua asce
 
 Pois é declarado sobre Ele:
 
-> “Tu és sacerdote para sempre,
-> segundo a ordem de Melquisedeque.”
+>  “Tu és sacerdote para sempre,
+>  segundo a ordem de Melquisedeque.”
 
 ## Hebreus 7:18
 
@@ -87,9 +87,9 @@ E foi de fato acompanhada por um juramento!
 
 Pois outros se tornaram sacerdotes sem qualquer juramento, mas Ele se tornou sacerdote com um juramento quando Deus lhe disse:
 
-> “O Senhor jurou
-> e não mudará de ideia:
-> ‘Tu és sacerdote para sempre.’”
+>  “O Senhor jurou e não mudará de ideia:
+>  ‘Tu és sacerdote para sempre.
+> ’”
 
 ## Hebreus 7:22
 

@@ -61,4 +61,4 @@ Assim, temerão o nome do Senhor desde o ocidente, e a sua glória desde o nasce
 “Um Redentor virá a Sião, aos que em Jacó se afastam dos seus pecados”, declara o Senhor.
 
 ## Isaías 59:21
-“Quanto a mim, esta é a minha aliança com eles”, diz o Senhor: “O meu Espírito, que está sobre você, e as minhas palavras que pus na sua boca não se afastarão da sua boca, nem da boca dos seus filhos, nem da boca dos seus descendentes—desde agora e para sempre”, diz o Senhor.
+“Quanto a mim, esta é a minha aliança com eles”, diz o Senhor: “O meu Espírito, que está sobre você, e as minhas palavras que pus na sua boca não se afastarão da sua boca, nem da boca dos seus filhos, nem da boca dos seus descendentes — desde agora e para sempre”, diz o Senhor.

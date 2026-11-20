@@ -202,7 +202,7 @@ Uma vez que a terra foi dividida em suas porções, os israelitas concederam a J
 
 ## Josué 19:50
 
-como o Senhor havia ordenado. Deram-lhe a cidade que ele pediu—Timnate-Sera, na região montanhosa de Efraim. Ele construiu a cidade e se estabeleceu ali.
+como o Senhor havia ordenado. Deram-lhe a cidade que ele pediu — Timnate-Sera, na região montanhosa de Efraim. Ele construiu a cidade e se estabeleceu ali.
 
 ## Josué 19:51
 

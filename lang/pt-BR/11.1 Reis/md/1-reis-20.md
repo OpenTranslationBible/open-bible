@@ -36,24 +36,24 @@ Todos os anciãos e o povo disseram a ele: "Não o escutes nem cedas."
 
 ## 1 Reis 20:9
 
-Então ele disse aos mensageiros de Ben-Hadade: "Dizei ao meu senhor, o rei: Eu darei tudo o que primeiro exigiste de teu servo, mas este segundo pedido não posso atender."  
-Então os mensageiros partiram e relataram de volta.
+Então ele disse aos mensageiros de Ben-Hadade: "Dizei ao meu senhor, o rei: Eu darei tudo o que primeiro exigiste de teu servo, mas este segundo pedido não posso atender.  
+" Então os mensageiros partiram e relataram de volta.
 
 ## 1 Reis 20:10
 
 Então Ben-Hadade enviou novamente uma mensagem, dizendo:  
-"Que os deuses me castiguem severamente se restar pó suficiente em Samaria para dar um punhado a cada um dos homens que me seguem!"
+ "Que os deuses me castiguem severamente se restar pó suficiente em Samaria para dar um punhado a cada um dos homens que me seguem!"
 
 ## 1 Reis 20:11
 
 Mas o rei de Israel respondeu:  
-"Dizei-lhe: Não se gabe quem veste a armadura como aquele que a tira."
+ "Dizei-lhe: Não se gabe quem veste a armadura como aquele que a tira."
 
 ## 1 Reis 20:12
 
 Quando Ben-Hadade ouviu esta resposta, ele e os outros reis estavam bebendo em suas tendas.  
-Ele ordenou a seus homens: "Preparem-se para atacar!"  
-Então eles se prepararam para assaltar a cidade.
+ Ele ordenou a seus homens: "Preparem-se para atacar!  
+" Então eles se prepararam para assaltar a cidade.
 
 ---
 
@@ -63,15 +63,15 @@ Então um profeta veio a Acabe, rei de Israel, e disse: "Assim diz o Senhor: Vis
 
 ## 1 Reis 20:14
 
-Acabe perguntou: "Por meio de quem?"  
-E ele disse: "Assim diz o Senhor: Pelos jovens oficiais dos governadores dos distritos."  
-Então Acabe perguntou: "Quem começará a batalha?"  
-E ele respondeu: "Tu começarás."
+Acabe perguntou: "Por meio de quem?  
+" E ele disse: "Assim diz o Senhor: Pelos jovens oficiais dos governadores dos distritos.  
+" Então Acabe perguntou: "Quem começará a batalha?  
+" E ele respondeu: "Tu começarás."
 
 ## 1 Reis 20:15
 
 Então Acabe reuniu os jovens oficiais dos governadores dos distritos, 232 ao todo.  
-Depois reuniu o restante do exército — todos os israelitas — num total de sete mil.
+ Depois reuniu o restante do exército — todos os israelitas — num total de sete mil.
 
 ## 1 Reis 20:16
 
@@ -80,7 +80,7 @@ Eles marcharam ao meio-dia, enquanto Ben-Hadade e os trinta e dois reis com ele 
 ## 1 Reis 20:17
 
 Os jovens oficiais dos governadores dos distritos saíram primeiro.  
-Ben-Hadade enviou batedores, que relataram: "Homens estão avançando de Samaria."
+ Ben-Hadade enviou batedores, que relataram: "Homens estão avançando de Samaria."
 
 ## 1 Reis 20:18
 
@@ -93,7 +93,7 @@ Então os jovens oficiais dos governadores dos distritos avançaram da cidade, c
 ## 1 Reis 20:20
 
 Cada um abateu seu oponente, e os sírios fugiram.  
-Israel os perseguiu, e Ben-Hadade, rei da Síria, escapou a cavalo com alguns de seus cavaleiros.
+ Israel os perseguiu, e Ben-Hadade, rei da Síria, escapou a cavalo com alguns de seus cavaleiros.
 
 ## 1 Reis 20:21
 
@@ -104,14 +104,14 @@ Então o rei de Israel saiu e abateu os cavalos e carros, e infligiu uma grande 
 ## 1 Reis 20:22
 
 Então o profeta veio ao rei de Israel e disse:  
-"Vai e fortalece-te. Considera cuidadosamente o que deves fazer,  
-pois na primavera o rei da Síria voltará contra ti."
+ "Vai e fortalece-te. Considera cuidadosamente o que deves fazer,  
+ pois na primavera o rei da Síria voltará contra ti."
 
 ## 1 Reis 20:23
 
 Enquanto isso, os oficiais do rei da Síria lhe disseram:  
-"Os deuses deles são deuses dos montes. Por isso foram mais fortes do que nós.  
-Mas se lutarmos com eles nas planícies, certamente seremos mais fortes do que eles.
+ "Os deuses deles são deuses dos montes. Por isso foram mais fortes do que nós.  
+ Mas se lutarmos com eles nas planícies, certamente seremos mais fortes do que eles.
 
 ## 1 Reis 20:24
 
@@ -119,9 +119,9 @@ Faze o seguinte: remove todos os reis de seus comandos e substitui-os por comand
 
 ## 1 Reis 20:25
 
-Também, levanta um exército como o que perdeste — cavalo por cavalo e carro por carro —  
-para que possamos lutar com eles nas planícies. Então certamente os derrotaremos."  
-Ele concordou e fez como eles aconselharam.
+Também, levanta um exército como o que perdeste — cavalo por cavalo e carro por carro — para que possamos lutar com eles nas planícies.  
+ Então certamente os derrotaremos.  
+" Ele concordou e fez como eles aconselharam.
 
 ---
 
@@ -132,105 +132,105 @@ Quando chegou a primavera, Ben-Hadade reuniu os sírios e subiu a Afeque para en
 ## 1 Reis 20:27
 
 Os israelitas também foram reunidos e receberam provisões, e saíram para enfrentá-los.  
-O povo de Israel acampou diante deles como dois pequenos rebanhos de cabras, enquanto os sírios enchiam o campo.
+ O povo de Israel acampou diante deles como dois pequenos rebanhos de cabras, enquanto os sírios enchiam o campo.
 
 ## 1 Reis 20:28
 
 Então um homem de Deus veio e disse ao rei de Israel:  
-"Assim diz o Senhor: Porque os sírios disseram,  
-'O Senhor é um deus dos montes, mas não é um deus dos vales,'  
-eu entregarei este grande exército em tuas mãos, e saberás que eu sou o Senhor."
+ "Assim diz o Senhor: Porque os sírios disseram,  
+ 'O Senhor é um deus dos montes, mas não é um deus dos vales,  
+' eu entregarei este grande exército em tuas mãos, e saberás que eu sou o Senhor."
 
 ---
 
 ## 1 Reis 20:29
 
 Eles acamparam frente a frente por sete dias.  
-No sétimo dia, eles entraram em batalha,  
-e os israelitas abateram 100.000 soldados de infantaria dos sírios em um único dia.
+ No sétimo dia, eles entraram em batalha,  
+ e os israelitas abateram 100.000 soldados de infantaria dos sírios em um único dia.
 
 ## 1 Reis 20:30
 
 O restante fugiu para a cidade de Afeque, onde a muralha caiu sobre 27.000 deles.  
-Ben-Hadade fugiu e se escondeu em um quarto interno dentro da cidade.
+ Ben-Hadade fugiu e se escondeu em um quarto interno dentro da cidade.
 
 ## 1 Reis 20:31
 
 Seus oficiais lhe disseram:  
-"Veja, ouvimos que os reis de Israel são misericordiosos.  
-Vamos nos vestir de pano de saco com cordas em torno de nossas cabeças e sair ao rei de Israel.  
-Talvez ele poupe tua vida."
+ "Veja, ouvimos que os reis de Israel são misericordiosos.  
+ Vamos nos vestir de pano de saco com cordas em torno de nossas cabeças e sair ao rei de Israel.  
+ Talvez ele poupe tua vida."
 
 ## 1 Reis 20:32
 
 Então eles vestiram pano de saco e cordas, e foram ao rei de Israel e disseram:  
-"Teu servo Ben-Hadade diz: Por favor, deixe-me viver."  
-Acabe respondeu: "Ele ainda está vivo? Ele é meu irmão."
+ "Teu servo Ben-Hadade diz: Por favor, deixe-me viver.  
+" Acabe respondeu: "Ele ainda está vivo? Ele é meu irmão."
 
 ## 1 Reis 20:33
 
-Os homens tomaram isso como um bom sinal e rapidamente responderam: "Sim, Ben-Hadade é teu irmão."  
-Acabe disse: "Vão e tragam-no."  
-Então Ben-Hadade saiu, e Acabe o fez subir ao carro.
+Os homens tomaram isso como um bom sinal e rapidamente responderam: "Sim, Ben-Hadade é teu irmão.  
+" Acabe disse: "Vão e tragam-no.  
+" Então Ben-Hadade saiu, e Acabe o fez subir ao carro.
 
 ## 1 Reis 20:34
 
 Ben-Hadade disse: "Devolverei as cidades que meu pai tomou de teu pai.  
-Podes estabelecer áreas de mercado para ti em Damasco, como meu pai fez em Samaria."  
-Acabe disse: "Com base neste acordo, eu te deixarei ir."  
-Então ele fez um tratado com ele e o deixou ir.
+ Podes estabelecer áreas de mercado para ti em Damasco, como meu pai fez em Samaria.  
+" Acabe disse: "Com base neste acordo, eu te deixarei ir.  
+" Então ele fez um tratado com ele e o deixou ir.
 
 ---
 
 ## 1 Reis 20:35
 
 Agora, um certo homem dos filhos dos profetas disse a seu vizinho pela palavra do Senhor:  
-"Fere-me, por favor."  
-Mas o homem recusou-se a feri-lo.
+ "Fere-me, por favor.  
+" Mas o homem recusou-se a feri-lo.
 
 ## 1 Reis 20:36
 
 Então o profeta lhe disse:  
-"Porque não obedeceste à voz do Senhor,  
-assim que me deixares, um leão te matará."  
-E assim que ele partiu, um leão o encontrou e o matou.
+ "Porque não obedeceste à voz do Senhor,  
+ assim que me deixares, um leão te matará.  
+" E assim que ele partiu, um leão o encontrou e o matou.
 
 ## 1 Reis 20:37
 
-Ele então se aproximou de outro homem e pediu: "Fere-me, por favor."  
-O homem o feriu e o machucou.
+Ele então se aproximou de outro homem e pediu: "Fere-me, por favor.  
+" O homem o feriu e o machucou.
 
 ## 1 Reis 20:38
 
 Então o profeta foi e esperou pelo rei à beira da estrada,  
-disfarçando-se com uma bandagem sobre os olhos.
+ disfarçando-se com uma bandagem sobre os olhos.
 
 ## 1 Reis 20:39
 
 Quando o rei passou, ele clamou a ele:  
-"Teu servo foi para o meio da batalha,  
-e alguém se desviou e trouxe um homem a mim e disse:  
-'Guarda este homem; se ele desaparecer, será tua vida pela vida dele,  
-ou então pagarás um talento de prata.'
+ "Teu servo foi para o meio da batalha,  
+ e alguém se desviou e trouxe um homem a mim e disse:  
+ 'Guarda este homem; se ele desaparecer, será tua vida pela vida dele,  
+ ou então pagarás um talento de prata.'
 
 ## 1 Reis 20:40
 
-Mas enquanto teu servo estava ocupado aqui e ali, o homem desapareceu."  
-E o rei de Israel lhe disse: "Essa é tua sentença. Tu mesmo a decidiste."
+Mas enquanto teu servo estava ocupado aqui e ali, o homem desapareceu.  
+" E o rei de Israel lhe disse: "Essa é tua sentença. Tu mesmo a decidiste."
 
 ## 1 Reis 20:41
 
 Então o profeta rapidamente removeu a bandagem dos olhos,  
-e o rei de Israel o reconheceu como um dos profetas.
+ e o rei de Israel o reconheceu como um dos profetas.
 
 ## 1 Reis 20:42
 
 E ele disse ao rei:  
-"Assim diz o Senhor:  
-Porque deixaste escapar de tua mão o homem que eu havia destinado à destruição,  
-tua vida será pela vida dele, e teu povo pelo povo dele."
+ "Assim diz o Senhor:  
+ Porque deixaste escapar de tua mão o homem que eu havia destinado à destruição,  
+ tua vida será pela vida dele, e teu povo pelo povo dele."
 
 ## 1 Reis 20:43
 
 Então o rei de Israel voltou para sua casa, aborrecido e irado,  
-e veio a Samaria.
+ e veio a Samaria.

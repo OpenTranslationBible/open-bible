@@ -5,35 +5,35 @@
 ## Salmo 29:1
 
 > Tributai ao Senhor, filhos dos poderosos,  
-> Tributai ao Senhor glória e força.
+>  Tributai ao Senhor glória e força.
 
 ## Salmo 29:2
 
 > Tributai ao Senhor a glória devida ao Seu nome;  
-> Adorai o Senhor na beleza da santidade.
+>  Adorai o Senhor na beleza da santidade.
 
 ---
 
 ## Salmo 29:3
 
 > A voz do Senhor ecoa sobre as águas;  
-> O Deus da glória troveja,  
-> O Senhor reina sobre as muitas águas.
+>  O Deus da glória troveja,  
+>  O Senhor reina sobre as muitas águas.
 
 ## Salmo 29:4
 
 > A voz do Senhor é cheia de poder,  
-> A voz do Senhor é cheia de majestade.
+>  A voz do Senhor é cheia de majestade.
 
 ## Salmo 29:5
 
 > A voz do Senhor quebra os cedros;  
-> Sim, o Senhor despedaça os cedros do Líbano.
+>  Sim, o Senhor despedaça os cedros do Líbano.
 
 ## Salmo 29:6
 
 > Ele faz o Líbano saltar como um bezerro,  
-> E o Sirion como um filhote de boi selvagem.
+>  E o Sirion como um filhote de boi selvagem.
 
 ## Salmo 29:7
 
@@ -42,20 +42,20 @@
 ## Salmo 29:8
 
 > A voz do Senhor faz tremer o deserto;  
-> O Senhor faz tremer o deserto de Cades.
+>  O Senhor faz tremer o deserto de Cades.
 
 ## Salmo 29:9
 
-> A voz do Senhor faz as corças darem à luz  
-> E desnuda as florestas;  
-> E no Seu templo, todos clamam: “Glória!”
+> A voz do Senhor faz as corças darem à luz E desnuda as florestas;  
+>  E no Seu templo,  
+>  todos clamam: “Glória!”
 
 ## Salmo 29:10
 
 > O Senhor estava entronizado como Rei no dilúvio;  
-> Sim, o Senhor reina como Rei para sempre.
+>  Sim, o Senhor reina como Rei para sempre.
 
 ## Salmo 29:11
 
 > O Senhor dará força ao Seu povo;  
-> O Senhor abençoará o Seu povo com paz.
+>  O Senhor abençoará o Seu povo com paz.

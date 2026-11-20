@@ -61,7 +61,7 @@ A fala verdadeira é duradoura, mas as palavras enganosas são passageiras.
 Aqueles que abrigam engano em seus corações tramam o mal, mas os que promovem a paz experimentam alegria.
 
 ## Provérbios 12:21
-Os justos não encontram dano duradouro, mas os ímpios estão cheios de problemas.
+Os justos não encontram dano, mas os ímpios estão cheios de problemas.
 
 ## Provérbios 12:22
 O Senhor detesta lábios mentirosos, mas se deleita nos que são confiáveis.

@@ -22,7 +22,7 @@ Pois eu,’ declara o Senhor, ‘serei um muro de fogo ao redor dela, e serei a 
 “Venha, Sião! Escape, você que habita com a Filha da Babilônia!”
 
 ## Zacarias 2:8
-Pois assim diz o Senhor dos Exércitos: “Depois que a glória me enviou contra as nações que os saquearam—porque quem toca em vocês toca na menina dos Seus olhos—
+Pois assim diz o Senhor dos Exércitos: “Depois que a glória me enviou contra as nações que os saquearam — porque quem toca em vocês toca na menina dos Seus olhos—
 
 ## Zacarias 2:9
 certamente agitarei a minha mão sobre eles para que seus escravos os saquem. Então vocês saberão que o Senhor dos Exércitos me enviou.

@@ -34,7 +34,7 @@ pois o exercício físico tem algum valor, mas a piedade é valiosa em todos os 
 
 ## 1 Timóteo 4:9
 
-Esta é uma afirmação digna de plena aceitação.
+Esta é uma afirmação fiel, digna de plena aceitação.
 
 ## 1 Timóteo 4:10
 

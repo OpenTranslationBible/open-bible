@@ -28,7 +28,7 @@ O Senhor me dirigiu a palavra mais uma vez:
 
 ## Isaías 8:7
 
-portanto, o Senhor está prestes a trazer sobre eles as poderosas e transbordantes águas do Eufrates— o rei da Assíria com todo o seu esplendor. Ele se elevará acima de todos os seus canais e transbordará todas as suas margens.
+portanto, o Senhor está prestes a trazer sobre eles as poderosas e transbordantes águas do Eufrates — o rei da Assíria com todo o seu esplendor. Ele se elevará acima de todos os seus canais e transbordará todas as suas margens.
 
 ## Isaías 8:8
 

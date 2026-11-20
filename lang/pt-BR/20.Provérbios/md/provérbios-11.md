@@ -91,4 +91,4 @@ Quem traz problemas para sua família herdará apenas vento, e o tolo servirá a
 O fruto dos justos é árvore de vida, e os sábios salvam vidas.
 
 ## Provérbios 11:31
-Se os justos são recompensados na terra, quanto mais os ímpios e os pecadores!
+Se os justos recebem a retribuição na terra, quanto mais os ímpios e os pecadores!

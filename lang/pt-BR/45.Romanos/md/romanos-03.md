@@ -16,8 +16,8 @@ E se alguns não acreditaram? A falta de fé deles anulará a fidelidade de Deus
 
 Certamente que não! Que Deus seja verdadeiro, e toda pessoa mentirosa, assim como está escrito:
 
-> “Para que sejas justificado nas tuas palavras
-> e prevaleças quando fores julgado.”
+>  “Para que sejas justificado nas tuas palavras e prevaleças quando fores julgado.
+> ”
 
 ## Romanos 3:5
 
@@ -33,7 +33,7 @@ Mas se através da minha falsidade a veracidade de Deus aumenta para a sua glór
 
 ## Romanos 3:8
 
-E por que não dizer—como somos caluniosamente relatados como dizendo—“Façamos o mal para que venha o bem”? A condenação deles é justa.
+E por que não dizer — como somos caluniosamente relatados como dizendo — “Façamos o mal para que venha o bem”? A condenação deles é justa.
 
 ## Romanos 3:9
 
@@ -43,24 +43,24 @@ O que então? Somos nós melhores? De modo algum! Pois já acusamos que tanto ju
 
 Pois está escrito:
 
-> “Não há nenhum justo, nem um sequer;
+>  “Não há nenhum justo, nem um sequer;
 
 ## Romanos 3:11
 
 > não há ninguém que realmente entenda;
-> não há ninguém que busque a Deus.
+>  não há ninguém que busque a Deus.
 
 ## Romanos 3:12
 
 > Todos se desviaram, tornaram-se inúteis;
-> não há ninguém que faça o bem,
-> nem um sequer.”
+>  não há ninguém que faça o bem,
+>  nem um sequer.”
 
 ## Romanos 3:13
 
 > “Suas gargantas são sepulcros abertos;
-> com suas línguas continuam enganando.”
-> “O veneno de víboras está em seus lábios.”
+>  com suas línguas continuam enganando.”
+>  “O veneno de víboras está em seus lábios.”
 
 ## Romanos 3:14
 

@@ -14,7 +14,7 @@ Tobias, o amonita, que estava perto dele, disse: “O que eles estão construind
 
 ## Neemias 4:4
 
-Ouve-nos, ó nosso Deus, pois somos desprezados. Faz com que seus insultos recaiam sobre suas próprias cabeças e faze-os despojo em uma terra de cativeiro.
+Ouve-nos, ó nosso Deus, pois somos desprezados. Faz com que seus insultos recaiam sobre suas próprias cabeças e que eles sejam levados como despojo para uma terra de cativeiro.
 
 ## Neemias 4:5
 

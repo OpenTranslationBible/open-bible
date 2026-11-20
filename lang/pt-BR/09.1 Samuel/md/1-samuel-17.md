@@ -83,7 +83,7 @@ Agora Saul e todos os homens de Israel estavam no Vale de Elá, lutando com os f
 ## 1 Samuel 17:20
 
 Então Davi se levantou cedo pela manhã, deixou o rebanho com um guarda, pegou os suprimentos e foi como Jessé lhe havia ordenado.  
-Ele chegou ao acampamento quando o exército estava saindo para a linha de batalha gritando o grito de guerra.
+ Ele chegou ao acampamento quando o exército estava saindo para a linha de batalha gritando o grito de guerra.
 
 ## 1 Samuel 17:21
 
@@ -156,7 +156,7 @@ Seu servo venceu tanto o leão quanto o urso; e este filisteu incircunciso será
 ## 1 Samuel 17:37
 
 E Davi disse: “O Senhor, que me livrou da garra do leão e da garra do urso, me livrará da mão deste filisteu.”  
-E Saul disse a Davi: “Vá, e que o Senhor esteja com você.”
+ E Saul disse a Davi: “Vá, e que o Senhor esteja com você.”
 
 ---
 
@@ -167,14 +167,14 @@ Então Saul vestiu Davi com suas vestes e colocou um capacete de bronze em sua c
 ## 1 Samuel 17:39
 
 Davi cingiu sua espada sobre a armadura e tentou andar, mas não estava acostumado com elas.  
-Então Davi disse a Saul: “Não posso ir com estas, pois não estou acostumado com elas.”  
-E Davi as tirou.
+ Então Davi disse a Saul: “Não posso ir com estas, pois não estou acostumado com elas.”  
+ E Davi as tirou.
 
 ## 1 Samuel 17:40
 
 Então ele pegou seu cajado na mão, e escolheu para si cinco pedras lisas do ribeiro,  
-e as colocou na bolsa de pastor que ele tinha, isto é, em seu alforje, e sua funda estava em sua mão.  
-E ele se aproximou do filisteu.
+ e as colocou na bolsa de pastor que ele tinha, isto é, em seu alforje, e sua funda estava em sua mão.  
+ E ele se aproximou do filisteu.
 
 ## 1 Samuel 17:41
 
@@ -187,7 +187,7 @@ Quando o filisteu olhou e viu Davi, desprezou-o, pois ele era apenas um jovem, r
 ## 1 Samuel 17:43
 
 O filisteu disse a Davi: “Sou eu um cão, para que você venha a mim com paus?”  
-E amaldiçoou Davi por seus deuses.
+ E amaldiçoou Davi por seus deuses.
 
 ## 1 Samuel 17:44
 
@@ -199,55 +199,54 @@ O filisteu também disse a Davi: “Venha até mim, e darei sua carne às aves d
 
 Então Davi disse ao filisteu,
 
-> “Você vem a mim com espada, lança e dardo,  
-> mas eu venho a você em nome do Senhor dos Exércitos,  
-> o Deus dos exércitos de Israel, a quem você desafiou.
+>  “Você vem a mim com espada, lança e dardo,  
+>  mas eu venho a você em nome do Senhor dos Exércitos,  
+>  o Deus dos exércitos de Israel, a quem você desafiou.
 
 ## 1 Samuel 17:46
 
 > Hoje o Senhor o entregará em minha mão,  
-> e eu o ferirei e tirarei sua cabeça de você.  
-> E darei hoje os cadáveres do exército dos filisteus  
-> às aves do céu e aos animais selvagens da terra,  
-> para que toda a terra saiba que há um Deus em Israel,
+>  e eu o ferirei e tirarei sua cabeça de você.  
+>  E darei hoje os cadáveres do exército dos filisteus às aves do céu e aos animais selvagens da terra,  
+>  para que toda a terra saiba que há um Deus em Israel,
 
 ## 1 Samuel 17:47
 
-> e para que toda esta assembleia saiba  
-> que o Senhor não salva com espada ou lança;  
-> pois a batalha é do Senhor,  
-> e Ele o entregará em nossas mãos!”
+> e para que toda esta assembleia saiba que o Senhor não salva com espada ou lança;  
+>  pois a batalha é do Senhor,  
+>  e Ele o entregará em nossas mãos!  
+> ”
 
 ---
 
 ## 1 Samuel 17:48
 
 Então aconteceu que, quando o filisteu se levantou e avançou para encontrar Davi,  
-Davi correu rapidamente para a linha de batalha para encontrar o filisteu.
+ Davi correu rapidamente para a linha de batalha para encontrar o filisteu.
 
 ## 1 Samuel 17:49
 
 E Davi colocou a mão na bolsa e tirou dela uma pedra e a arremessou,  
-e atingiu o filisteu na testa.  
-A pedra se cravou em sua testa, e ele caiu com o rosto em terra.
+ e atingiu o filisteu na testa.  
+ A pedra se cravou em sua testa, e ele caiu com o rosto em terra.
 
 ## 1 Samuel 17:50
 
 Assim Davi prevaleceu sobre o filisteu com uma funda e uma pedra,  
-e feriu o filisteu e o matou;  
-mas não havia espada na mão de Davi.
+ e feriu o filisteu e o matou;  
+ mas não havia espada na mão de Davi.
 
 ## 1 Samuel 17:51
 
 Então Davi correu e se pôs sobre o filisteu, pegou sua espada e a tirou da bainha,  
-e o matou e cortou sua cabeça com ela.  
-Quando os filisteus viram que seu campeão estava morto, fugiram.
+ e o matou e cortou sua cabeça com ela.  
+ Quando os filisteus viram que seu campeão estava morto, fugiram.
 
 ## 1 Samuel 17:52
 
 Então os homens de Israel e Judá se levantaram e gritaram e perseguiram os filisteus até o vale,  
-e até os portões de Ecrom.  
-E os filisteus mortos jaziam pelo caminho até Saaraim, até Gate e Ecrom.
+ e até os portões de Ecrom.  
+ E os filisteus mortos jaziam pelo caminho até Saaraim, até Gate e Ecrom.
 
 ## 1 Samuel 17:53
 
@@ -256,15 +255,15 @@ Então os filhos de Israel voltaram de sua perseguição aos filisteus e saquear
 ## 1 Samuel 17:54
 
 Davi pegou a cabeça do filisteu e a trouxe para Jerusalém,  
-mas colocou suas armas em sua própria tenda.
+ mas colocou suas armas em sua própria tenda.
 
 ---
 
 ## 1 Samuel 17:55
 
 Agora, quando Saul viu Davi saindo contra o filisteu,  
-ele disse a Abner, o comandante do exército: “Abner, de quem é filho este jovem?”  
-E Abner disse: “Tão certo como vive sua alma, ó rei, não sei.”
+ ele disse a Abner, o comandante do exército: “Abner, de quem é filho este jovem?”  
+ E Abner disse: “Tão certo como vive sua alma, ó rei, não sei.”
 
 ## 1 Samuel 17:56
 
@@ -277,4 +276,4 @@ Assim, quando Davi voltou de derrotar o filisteu, Abner o tomou e o levou diante
 ## 1 Samuel 17:58
 
 Saul lhe disse: “De quem você é filho, jovem?”  
-E Davi disse: “Sou filho de seu servo Jessé, o belemita.”
+ E Davi disse: “Sou filho de seu servo Jessé, o belemita.”

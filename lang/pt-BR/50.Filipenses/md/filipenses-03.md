@@ -25,7 +25,7 @@ Mas o que para mim era lucro, passei a considerar como perda por causa de Cristo
 Mais do que isso, considero tudo como perda, comparado com a suprema grandeza do conhecimento de Cristo Jesus, meu Senhor, por quem perdi todas as coisas. Eu as considero como lixo, para que possa ganhar a Cristo
 
 ## Filipenses 3:9
-e ser encontrado nele, não tendo a minha própria justiça que vem da lei, mas a que vem pela fé em Cristo—a justiça que vem de Deus e se baseia na fé.
+e ser encontrado nele, não tendo a minha própria justiça que vem da lei, mas a que vem pela fé em Cristo — a justiça que vem de Deus e se baseia na fé.
 
 ## Filipenses 3:10
 Quero conhecer Cristo, o poder da sua ressurreição e a comunhão dos seus sofrimentos, tornando-me como ele em sua morte,

@@ -82,7 +82,7 @@ Após sua purificação, ele deve esperar sete dias.
 No dia em que entrar no santuário, no átrio interior para ministrar no santuário, deverá oferecer uma oferta pelo pecado por si mesmo, declara o Soberano Senhor.
 
 ## Ezequiel 44:28
-Eu serei a única herança deles; não lhes darás propriedade em Israel—eu sou a possessão deles.
+Eu serei a única herança deles; não lhes darás propriedade em Israel — eu sou a possessão deles.
 
 ## Ezequiel 44:29
 Eles comerão as ofertas de cereais, as ofertas pelo pecado e as ofertas pela culpa; e tudo em Israel dedicado ao Senhor pertencerá a eles.

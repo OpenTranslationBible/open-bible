@@ -16,7 +16,7 @@ E ali estava a glória do Deus de Israel, como a visão que eu tinha visto na pl
 Então ele me disse: “Filho do homem, olhe para o norte.” Então olhei para o norte, e lá, ao norte do portão do altar, estava essa imagem de ciúmes na entrada.
 
 ## Ezequiel 8:6
-E ele me disse: “Filho do homem, você vê o que eles estão fazendo—coisas totalmente detestáveis que a casa de Israel está cometendo aqui, coisas que me afastarão do meu santuário? Mas você verá abominações ainda maiores.”
+E ele me disse: “Filho do homem, você vê o que eles estão fazendo — coisas totalmente detestáveis que a casa de Israel está cometendo aqui, coisas que me afastarão do meu santuário? Mas você verá abominações ainda maiores.”
 
 ## Ezequiel 8:7
 Então ele me levou à entrada do átrio, e eu olhei e vi um buraco na parede.

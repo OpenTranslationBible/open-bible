@@ -3,8 +3,8 @@
 ## 1 Tessalonicenses 1:1
 
 De Paulo, Silvano e Timóteo,  
-Para a igreja dos tessalonicenses que está em Deus Pai e no Senhor Jesus Cristo:  
-Graça e paz sejam com vocês.
+ Para a igreja dos tessalonicenses que está em Deus Pai e no Senhor Jesus Cristo:  
+ Graça e paz sejam com vocês.
 
 ## 1 Tessalonicenses 1:2
 
@@ -20,7 +20,7 @@ cientes, queridos irmãos e irmãs amados por Deus, da escolha que Ele fez de vo
 
 ## 1 Tessalonicenses 1:5
 
-pois o nosso evangelho não chegou a vocês somente em palavra, mas também em poder, no Espírito Santo e com plena convicção—assim como sabem que tipo de homens nos mostramos ser entre vocês, por amor a vocês.
+pois o nosso evangelho não chegou a vocês somente em palavra, mas também em poder, no Espírito Santo e com plena convicção — assim como sabem que tipo de homens nos mostramos ser entre vocês, por amor a vocês.
 
 ## 1 Tessalonicenses 1:6
 
@@ -40,4 +40,4 @@ Pois eles mesmos nos relatam que tipo de acolhimento tivemos de vocês, e como s
 
 ## 1 Tessalonicenses 1:10
 
-e para aguardar dos céus o Seu Filho, a quem Ele ressuscitou dos mortos—Jesus, que nos livra da ira vindoura.
+e para aguardar dos céus o Seu Filho, a quem Ele ressuscitou dos mortos — Jesus, que nos livra da ira vindoura.

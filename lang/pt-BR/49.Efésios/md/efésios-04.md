@@ -32,9 +32,9 @@ Mas a cada um de nós foi dada a graça conforme a medida do dom de Cristo.
 
 Por isso diz:
 
-> “Quando ele subiu às alturas,
-> levou cativos em seu trem
-> e deu dons aos homens.”
+>  “Quando ele subiu às alturas,
+>  levou cativos em seu trem e deu dons aos homens.
+> ”
 
 ## Efésios 4:9
 

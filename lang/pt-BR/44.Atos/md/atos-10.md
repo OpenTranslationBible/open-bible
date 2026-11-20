@@ -174,7 +174,7 @@ mas Deus o ressuscitou dos mortos no terceiro dia e permitiu que fosse visto,
 
 ## Atos 10:41
 
-não por todo o povo, mas por testemunhas que Deus já havia escolhido—por nós que comemos e bebemos com Ele depois que Ele ressuscitou dos mortos.
+não por todo o povo, mas por testemunhas que Deus já havia escolhido — por nós que comemos e bebemos com Ele depois que Ele ressuscitou dos mortos.
 
 ## Atos 10:42
 

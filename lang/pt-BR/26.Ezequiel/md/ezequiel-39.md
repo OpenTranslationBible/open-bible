@@ -34,7 +34,7 @@ Está chegando! Certamente acontecerá, diz o Soberano Senhor. Este é o dia de 
 
 ## Ezequiel 39:9
 
-Então os que residem nas cidades de Israel sairão e usarão as armas como combustível e as queimarão—os escudos pequenos e grandes, os arcos e flechas, os porretes de guerra e lanças. Por sete anos eles as usarão como combustível.
+Então os que residem nas cidades de Israel sairão e usarão as armas como combustível e as queimarão — os escudos pequenos e grandes, os arcos e flechas, os porretes de guerra e lanças. Por sete anos eles as usarão como combustível.
 
 ## Ezequiel 39:10
 
@@ -70,7 +70,7 @@ perto de uma cidade chamada Hamoná. Assim, eles purificarão a terra.
 
 ## Ezequiel 39:18
 
-Vocês comerão a carne de homens poderosos e beberão o sangue dos príncipes da terra como se fossem carneiros e cordeiros, bodes e touros—todos eles gado gordo de Basã.
+Vocês comerão a carne de homens poderosos e beberão o sangue dos príncipes da terra como se fossem carneiros e cordeiros, bodes e touros — todos eles gado gordo de Basã.
 
 ## Ezequiel 39:19
 

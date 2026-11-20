@@ -3,15 +3,15 @@
 ## 2 Crônicas 27:1
 
 Jotão tinha vinte e cinco anos quando começou a reinar, e reinou dezesseis anos em Jerusalém.  
-Sua mãe se chamava Jerusa, filha de Zadoque.
+ Sua mãe se chamava Jerusa, filha de Zadoque.
 
 ---
 
 ## 2 Crônicas 27:2
 
 Ele fez o que era certo aos olhos do Senhor, de acordo com tudo o que seu pai Uzias tinha feito;  
-no entanto, ele não entrou no templo do Senhor.  
-Mas o povo continuou agindo corruptamente.
+ no entanto, ele não entrou no templo do Senhor.  
+ Mas o povo continuou agindo corruptamente.
 
 ---
 
@@ -24,15 +24,15 @@ Ele construiu o portão superior da casa do Senhor, e fortificou significativame
 ## 2 Crônicas 27:4
 
 Além disso, ele construiu cidades na região montanhosa de Judá,  
-e construiu fortalezas e torres nas áreas arborizadas.
+ e construiu fortalezas e torres nas áreas arborizadas.
 
 ---
 
 ## 2 Crônicas 27:5
 
 Ele lutou contra o rei dos amonitas e prevaleceu sobre eles.  
-E os amonitas lhe deram naquele ano cem talentos de prata, dez mil coros de trigo e dez mil de cevada.  
-Os amonitas também lhe pagaram essa quantia no segundo e terceiro anos.
+ E os amonitas lhe deram naquele ano cem talentos de prata, dez mil coros de trigo e dez mil de cevada.  
+ Os amonitas também lhe pagaram essa quantia no segundo e terceiro anos.
 
 ---
 
@@ -57,4 +57,4 @@ Aos vinte e cinco anos, ele começou a reinar, e reinou dezesseis anos em Jerusa
 ## 2 Crônicas 27:9
 
 Jotão descansou com seus antepassados, e o sepultaram na cidade de Davi;  
-seu filho Acaz o sucedeu como rei.
+ seu filho Acaz o sucedeu como rei.

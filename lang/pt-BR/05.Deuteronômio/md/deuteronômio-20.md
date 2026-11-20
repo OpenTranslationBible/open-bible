@@ -49,7 +49,7 @@ Esta é a abordagem que você deve adotar com todas as cidades que estão longe 
 Mas nas cidades das nações que o Senhor seu Deus está dando a você como herança, você não deverá deixar nada que respire vivo.
 
 ## Deuteronômio 20:17
-Você deverá destruí-los completamente—os hititas, amorreus, cananeus, ferezeus, heveus e jebuseus—conforme o Senhor seu Deus lhe ordenou.
+Você deverá destruí-los completamente — os hititas, amorreus, cananeus, ferezeus, heveus e jebuseus — conforme o Senhor seu Deus lhe ordenou.
 
 ## Deuteronômio 20:18
 Caso contrário, eles ensinarão você a seguir todas as práticas detestáveis que realizam para seus deuses, e você pecará contra o Senhor seu Deus.

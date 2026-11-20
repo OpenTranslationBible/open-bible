@@ -70,7 +70,7 @@ Em verdade, em verdade vos digo, nenhum servo é maior do que o seu senhor, nem 
 
 ## João 13:17
 
-Se vocês sabem estas coisas, serão abençoados quando as praticarem.
+Se vocês sabem estas coisas, serão abençoados se as praticarem.
 
 ---
 

@@ -71,4 +71,4 @@ Vós, portanto, amados, sabendo isso de antemão, estai em guarda para que não 
 ## 2 Pedro 3:18
 
 mas continuai a crescer na graça e no conhecimento de nosso Senhor e Salvador Jesus Cristo.  
-A Ele seja a glória, tanto agora como para sempre. Amém.
+ A Ele seja a glória, tanto agora como para sempre. Amém.

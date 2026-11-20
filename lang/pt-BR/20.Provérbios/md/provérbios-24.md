@@ -72,7 +72,7 @@ Não se alegre quando seu inimigo cair, e não deixe seu coração se alegrar qu
 
 ## Provérbios 24:18
 
-para que o Senhor não perceba e desvie sua atenção dele.
+para que o Senhor não perceba e desaprove, e desvie dele a sua ira.
 
 ## Provérbios 24:19
 

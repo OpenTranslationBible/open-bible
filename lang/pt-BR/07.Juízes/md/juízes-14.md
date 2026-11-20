@@ -58,10 +58,10 @@ Mas se não puderem resolvê-lo, vocês me darão trinta vestes de linho e trint
 
 Ele disse:
 
-> “Do que come saiu comida,
-> do forte saiu doçura.”
+>  “Do que come saiu comida,
+>  do forte saiu doçura.”
 
-Por três dias eles não conseguiram resolver o enigma.
+ Por três dias eles não conseguiram resolver o enigma.
 
 ## Juízes 14:15
 
@@ -79,13 +79,13 @@ Ela chorou durante os sete dias do banquete. No sétimo dia, ele finalmente cont
 
 Antes do pôr do sol no sétimo dia, os homens da cidade disseram a ele:
 
-> “O que é mais doce que o mel?
-> O que é mais forte que um leão?”
+>  “O que é mais doce que o mel?
+>  O que é mais forte que um leão?”
 
-Sansão respondeu:
+ Sansão respondeu:
 
-> “Se vocês não tivessem arado com a minha novilha,
-> não teriam resolvido o meu enigma.”
+>  “Se vocês não tivessem arado com a minha novilha,
+>  não teriam resolvido o meu enigma.”
 
 ## Juízes 14:19
 

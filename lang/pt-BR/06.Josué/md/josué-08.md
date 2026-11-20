@@ -104,7 +104,7 @@ Quando Israel terminou de matar todos os habitantes de Ai nos campos e no desert
 
 ## Josué 8:25
 
-Naquele dia, doze mil homens e mulheres de Ai pereceram—todo o seu povo.
+Naquele dia, doze mil homens e mulheres de Ai pereceram — todo o seu povo.
 
 ## Josué 8:26
 
@@ -128,19 +128,19 @@ Josué então construiu um altar ao Senhor, um altar ao Deus de Israel, constru�
 
 ## Josué 8:31
 
-como Moisés, servo do Senhor, havia ordenado aos israelitas, como está escrito no Livro da Lei de Moisés—um altar de pedras brutas, sobre o qual nenhuma ferramenta de ferro havia sido usada. Eles ofereceram holocaustos sobre ele ao Senhor e sacrificaram ofertas de comunhão.
+como Moisés, servo do Senhor, havia ordenado aos israelitas, como está escrito no Livro da Lei de Moisés — um altar de pedras brutas, sobre o qual nenhuma ferramenta de ferro havia sido usada. Eles ofereceram holocaustos sobre ele ao Senhor e sacrificaram ofertas de comunhão.
 
 ## Josué 8:32
 
-À vista dos israelitas, Josué inscreveu em pedras uma cópia da lei de Moisés.
+À vista dos israelitas, Josué inscreveu em pedras uma cópia da lei que Moisés havia escrito.
 
 ## Josué 8:33
 
-Todo Israel, com seus anciãos, oficiais e juízes, estava de pé de ambos os lados da arca da aliança do Senhor, de frente para os sacerdotes levitas que a carregavam. Tanto os estrangeiros que viviam entre eles quanto os nascidos na terra estavam presentes. Metade do povo estava em frente ao Monte Gerizim e metade em frente ao Monte Ebal, como Moisés, servo do Senhor, havia ordenado quando abençoou o povo de Israel.
+Todo Israel, com seus anciãos, oficiais e juízes, estava de pé de ambos os lados da arca da aliança do Senhor, de frente para os sacerdotes levitas que a carregavam. Tanto os estrangeiros que viviam entre eles quanto os nascidos na terra estavam presentes. Metade do povo estava em frente ao Monte Gerizim e metade em frente ao Monte Ebal, como Moisés, servo do Senhor, havia ordenado, para abençoar o povo de Israel.
 
 ## Josué 8:34
 
-Depois, Josué recitou todas as palavras da lei—as bênçãos e as maldições—exatamente como estão registradas no Livro da Lei.
+Depois, Josué recitou todas as palavras da lei — as bênçãos e as maldições — exatamente como estão registradas no Livro da Lei.
 
 ## Josué 8:35
 

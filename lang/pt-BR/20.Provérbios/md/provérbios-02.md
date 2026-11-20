@@ -36,7 +36,7 @@ Guardando as veredas da justiça e protegendo o caminho dos Seus fiéis.
 
 ## Provérbios 2:9
 
-Então você perceberá o que é certo, justo e correto—cada bom caminho.
+Então você perceberá o que é certo, justo e correto — cada bom caminho.
 
 ## Provérbios 2:10
 

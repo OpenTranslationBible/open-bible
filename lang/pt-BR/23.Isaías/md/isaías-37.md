@@ -34,7 +34,7 @@ Agora Senaqueribe ouviu a respeito de Tiraca, rei de Cuxe: “Ele saiu para luta
 Certamente você ouviu o que os reis da Assíria fizeram a todas as terras, destruindo-as completamente. Você será então libertado?
 
 ## Isaías 37:12
-Os deuses das nações que meus antepassados destruíram os livraram—Gozã, Harã, Rezefe e o povo de Éden que estava em Telassar?
+Os deuses das nações que meus antepassados destruíram os livraram — Gozã, Harã, Rezefe e o povo de Éden que estava em Telassar?
 
 ## Isaías 37:13
 Onde está o rei de Hamate, o rei de Arpade, ou os reis da cidade de Sefarvaim, Hena e Iva?’”

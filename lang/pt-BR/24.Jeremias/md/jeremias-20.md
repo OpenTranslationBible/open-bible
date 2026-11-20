@@ -44,7 +44,7 @@ Ouço muitos sussurrando: “Terror por todos os lados! Denunciem-no! Vamos denu
 
 ## Jeremias 20:11
 
-Mas o Senhor está comigo como um poderoso guerreiro; por isso, os meus perseguidores tropeçarão e não prevalecerão. Serão grandemente envergonhados, sua desgraça nunca será esquecida.
+Mas o Senhor está comigo como um poderoso guerreiro; por isso, os meus perseguidores tropeçarão e não prevalecerão. Serão grandemente envergonhados, pois não tiveram sucesso; sua desgraça nunca será esquecida.
 
 ## Jeremias 20:12
 
@@ -56,7 +56,7 @@ Cantem ao Senhor, louvem ao Senhor! Pois ele resgata a vida do necessitado das m
 
 ## Jeremias 20:14
 
-Que o dia do meu nascimento seja esquecido! Que o dia em que minha mãe me deu à luz não seja celebrado!
+Maldito seja o dia do meu nascimento! Que o dia em que minha mãe me deu à luz não seja celebrado!
 
 ## Jeremias 20:15
 

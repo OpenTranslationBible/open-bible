@@ -25,7 +25,7 @@ Então Samuel disse: “Reúnam todo o Israel em Mispá, e eu orarei ao Senhor p
 ## 1 Samuel 7:6
 
 Quando se reuniram em Mispá, tiraram água e a derramaram perante o Senhor. Naquele dia jejuaram e confessaram: “Pecamos contra o Senhor.”  
-E Samuel estava servindo como juiz sobre os israelitas em Mispá.
+ E Samuel estava servindo como juiz sobre os israelitas em Mispá.
 
 ## 1 Samuel 7:7
 

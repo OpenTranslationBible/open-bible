@@ -32,40 +32,35 @@ Pois se a primeira aliança tivesse sido sem defeito, não haveria necessidade d
 
 Pois encontrando falha no povo, ele diz:
 
-> “Eis que vêm dias, declara o Senhor,
-> quando estabelecerei uma nova aliança
-> com a casa de Israel e com a casa de Judá.
+>  “Eis que vêm dias, declara o Senhor,
+>  quando estabelecerei uma nova aliança com a casa de Israel e com a casa de Judá.
 
 ## Hebreus 8:9
 
-> Não será como a aliança
-> que fiz com seus antepassados
-> no dia em que os tomei pela mão
-> para tirá-los da terra do Egito;
-> porque eles não continuaram na minha aliança,
-> e eu me afastei deles, declara o Senhor.
+> Não será como a aliança que fiz com seus antepassados no dia em que os tomei pela mão para tirá-los da terra do Egito;
+>  porque eles não continuaram na minha aliança,
+>  e eu me afastei deles,
+>  declara o Senhor.
 
 ## Hebreus 8:10
 
-> Esta é a aliança
-> que farei com a casa de Israel
-> depois daqueles dias, declara o Senhor:
-> Colocarei minhas leis em suas mentes
-> e as escreverei em seus corações.
-> Eu serei o seu Deus,
-> e eles serão o meu povo.
+> Esta é a aliança que farei com a casa de Israel depois daqueles dias,
+>  declara o Senhor:
+>  Colocarei minhas leis em suas mentes e as escreverei em seus corações.
+>  Eu serei o seu Deus,
+>  e eles serão o meu povo.
 
 ## Hebreus 8:11
 
 > E não ensinarão, cada um ao seu próximo,
-> e cada um ao seu irmão, dizendo: ‘Conheça o Senhor,’
-> porque todos me conhecerão,
-> do menor ao maior deles.
+>  e cada um ao seu irmão, dizendo: ‘Conheça o Senhor,’
+>  porque todos me conhecerão,
+>  do menor ao maior deles.
 
 ## Hebreus 8:12
 
 > Pois serei misericordioso para com suas iniquidades,
-> e de seus pecados não me lembrarei mais.”
+>  e de seus pecados não me lembrarei mais.”
 
 ## Hebreus 8:13
 

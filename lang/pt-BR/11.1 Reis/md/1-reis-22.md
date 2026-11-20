@@ -15,7 +15,7 @@ O rei de Israel disse aos seus servos: “Vocês não sabem que Ramote-Gileade n
 ## 1 Reis 22:4
 
 Então ele perguntou a Jeosafá: “Você irá comigo lutar em Ramote-Gileade?”  
-Jeosafá respondeu ao rei de Israel: “Eu sou como você é; meu povo como seu povo, meus cavalos como seus cavalos.”
+ Jeosafá respondeu ao rei de Israel: “Eu sou como você é; meu povo como seu povo, meus cavalos como seus cavalos.”
 
 ---
 
@@ -25,8 +25,8 @@ Mas Jeosafá disse ao rei de Israel: “Primeiro, busque a palavra do Senhor.”
 
 ## 1 Reis 22:6
 
-Então o rei de Israel reuniu os profetas—cerca de quatrocentos homens—e lhes perguntou: “Devo ir à guerra contra Ramote-Gileade, ou devo abster-me?”  
-Eles responderam: “Vá, pois o Senhor a entregará nas mãos do rei.”
+Então o rei de Israel reuniu os profetas — cerca de quatrocentos homens — e lhes perguntou: “Devo ir à guerra contra Ramote-Gileade, ou devo abster-me?  
+” Eles responderam: “Vá, pois o Senhor a entregará nas mãos do rei.”
 
 ## 1 Reis 22:7
 
@@ -34,8 +34,8 @@ Mas Jeosafá perguntou: “Não há ainda um profeta do Senhor aqui de quem poss
 
 ## 1 Reis 22:8
 
-O rei de Israel disse a Jeosafá: “Ainda há um homem por meio de quem podemos consultar o Senhor, mas eu o odeio porque ele nunca profetiza nada de bom sobre mim—apenas desgraça. Ele é Micaías, filho de Inlá.”  
-Jeosafá respondeu: “O rei não deveria falar assim.”
+O rei de Israel disse a Jeosafá: “Ainda há um homem por meio de quem podemos consultar o Senhor, mas eu o odeio porque ele nunca profetiza nada de bom sobre mim — apenas desgraça. Ele é Micaías, filho de Inlá.”  
+ Jeosafá respondeu: “O rei não deveria falar assim.”
 
 ## 1 Reis 22:9
 
@@ -70,7 +70,7 @@ Mas Micaías disse: “Tão certo como vive o Senhor, direi apenas o que o Senho
 ## 1 Reis 22:15
 
 Quando ele chegou diante do rei, o rei lhe perguntou: “Micaías, devemos ir à guerra contra Ramote-Gileade, ou não?”  
-Ele respondeu: “Vá e triunfe, pois o Senhor a entregará nas mãos do rei.”
+ Ele respondeu: “Vá e triunfe, pois o Senhor a entregará nas mãos do rei.”
 
 ## 1 Reis 22:16
 
@@ -79,9 +79,9 @@ O rei então lhe perguntou: “Quantas vezes devo insistir para que você fale n
 ## 1 Reis 22:17
 
 Então Micaías disse,  
-“Vi todo o Israel espalhado pelos montes, como ovelhas sem pastor,
+ “Vi todo o Israel espalhado pelos montes, como ovelhas sem pastor,
 
-> e o Senhor disse: ‘Estas pessoas não têm mestre; que cada um volte para sua casa em paz.’”
+>  e o Senhor disse: ‘Estas pessoas não têm mestre; que cada um volte para sua casa em paz.’”
 
 ---
 
@@ -92,12 +92,12 @@ O rei de Israel disse a Jeosafá: “Não lhe disse que ele não profetizaria na
 ## 1 Reis 22:19
 
 Micaías disse: “Portanto, ouça a palavra do Senhor:  
-Vi o Senhor sentado em Seu trono, com todo o exército do céu em pé ao Seu lado, à Sua direita e à Sua esquerda.
+ Vi o Senhor sentado em Seu trono, com todo o exército do céu em pé ao Seu lado, à Sua direita e à Sua esquerda.
 
 ## 1 Reis 22:20
 
 E o Senhor disse: ‘Quem enganará Acabe para que vá e caia em Ramote-Gileade?’  
-Um sugeriu isto, e outro aquilo.
+ Um sugeriu isto, e outro aquilo.
 
 ## 1 Reis 22:21
 
@@ -106,20 +106,20 @@ Então um espírito aproximou-se do Senhor e disse: ‘Eu o enganarei.’
 ## 1 Reis 22:22
 
 ‘Como?’ perguntou o Senhor.  
-‘Sendo um espírito mentiroso na boca de todos os seus profetas,’ ele disse.  
-O Senhor disse: ‘Você conseguirá enganá-lo. Vá e faça isso.’
+ ‘Sendo um espírito mentiroso na boca de todos os seus profetas,’ ele disse.  
+ O Senhor disse: ‘Você conseguirá enganá-lo. Vá e faça isso.’
 
 ## 1 Reis 22:23
 
 Então agora o Senhor colocou um espírito mentiroso na boca de todos estes seus profetas.  
-O Senhor decretou desgraça para você.”
+ O Senhor decretou desgraça para você.”
 
 ---
 
 ## 1 Reis 22:24
 
 Então Zedequias, filho de Quenaana, aproximou-se de Micaías e o golpeou no rosto.  
-Ele disse: “Por qual caminho o espírito do Senhor saiu de mim para falar com você?”
+ Ele disse: “Por qual caminho o espírito do Senhor saiu de mim para falar com você?”
 
 ## 1 Reis 22:25
 
@@ -136,7 +136,7 @@ e digam: ‘Assim diz o rei: Ponham este homem na prisão e deem-lhe apenas pão
 ## 1 Reis 22:28
 
 Mas Micaías declarou: “Se você voltar em segurança, então o Senhor não falou por meu intermédio.”  
-E acrescentou: “Tomem nota, todos vocês!”
+ E acrescentou: “Tomem nota, todos vocês!”
 
 ---
 
@@ -147,7 +147,7 @@ Portanto, o rei de Israel e Jeosafá, rei de Judá, foram a Ramote-Gileade.
 ## 1 Reis 22:30
 
 O rei de Israel disse a Jeosafá: “Eu me disfarçarei quando entrar na batalha, mas você use suas vestes reais.”  
-Então o rei de Israel se disfarçou e foi para a batalha.
+ Então o rei de Israel se disfarçou e foi para a batalha.
 
 ## 1 Reis 22:31
 
@@ -166,12 +166,12 @@ Quando os comandantes dos carros viram que ele não era o rei de Israel, afastar
 ## 1 Reis 22:34
 
 Mas alguém disparou seu arco aleatoriamente e atingiu o rei de Israel entre as juntas de sua armadura.  
-Ele disse ao condutor de seu carro: “Vire e tire-me da batalha, pois estou ferido.”
+ Ele disse ao condutor de seu carro: “Vire e tire-me da batalha, pois estou ferido.”
 
 ## 1 Reis 22:35
 
 A batalha continuou naquele dia, e o rei foi sustentado em seu carro de frente para os arameus.  
-Mas o sangue de seu ferimento escorria para o fundo do carro, e naquela noite ele morreu.
+ Mas o sangue de seu ferimento escorria para o fundo do carro, e naquela noite ele morreu.
 
 ## 1 Reis 22:36
 
@@ -189,7 +189,7 @@ Lavaram o carro numa piscina em Samaria, onde as prostitutas se banhavam, e os c
 
 ## 1 Reis 22:39
 
-Agora, o restante dos atos de Acabe, e tudo o que ele fez—o palácio de marfim que construiu e as cidades que fortificou—não estão escritos no Livro das Crônicas dos Reis de Israel?
+Agora, o restante dos atos de Acabe, e tudo o que ele fez — o palácio de marfim que construiu e as cidades que fortificou — não estão escritos no Livro das Crônicas dos Reis de Israel?
 
 ## 1 Reis 22:40
 

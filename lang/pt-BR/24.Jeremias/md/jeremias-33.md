@@ -4,7 +4,7 @@
 A mensagem do Senhor veio a Jeremias pela segunda vez enquanto ele ainda estava confinado no pátio da guarda, dizendo,
 
 ## Jeremias 33:2
-“Assim diz o Senhor, Aquele que fez a terra, o Senhor que a formou e a estabeleceu—Seu nome é o Senhor:
+“Assim diz o Senhor, Aquele que fez a terra, o Senhor que a formou e a estabeleceu — Seu nome é o Senhor:
 
 ## Jeremias 33:3
 ‘Clame a Mim e Eu responderei a você, e lhe mostrarei coisas grandiosas e insondáveis que você não conhece.’
@@ -61,7 +61,7 @@ A mensagem do Senhor veio a Jeremias, dizendo,
 “Assim diz o Senhor: ‘Se você puder quebrar Minha aliança com o dia e Minha aliança com a noite, de modo que dia e noite não ocorram em seus tempos designados,
 
 ## Jeremias 33:21
-então Minha aliança com Davi, Meu servo—e Minha aliança com os levitas que são sacerdotes ministrando diante de Mim—poderá ser quebrada, de modo que Davi não terá mais um descendente para reinar em seu trono.
+então Minha aliança com Davi, Meu servo — e Minha aliança com os levitas que são sacerdotes ministrando diante de Mim — poderá ser quebrada, de modo que Davi não terá mais um descendente para reinar em seu trono.
 
 ## Jeremias 33:22
 Farei os descendentes de Davi, Meu servo, e os levitas que ministram diante de Mim tão numerosos quanto as estrelas do céu e tão incontáveis quanto a areia na praia do mar.’”

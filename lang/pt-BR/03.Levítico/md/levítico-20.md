@@ -98,7 +98,7 @@ Mas eu disse a vocês: “Vocês herdarão a terra deles; eu a darei a vocês co
 
 ## Levítico 20:25
 
-‘Vocês devem, portanto, distinguir entre animais limpos e impuros e entre aves impuras e limpas. Não se contaminem por qualquer animal ou ave ou qualquer coisa que se move sobre o chão—aqueles que eu separei como impuros para vocês.
+‘Vocês devem, portanto, distinguir entre animais limpos e impuros e entre aves impuras e limpas. Não se contaminem por qualquer animal ou ave ou qualquer coisa que se move sobre o chão — aqueles que eu separei como impuros para vocês.
 
 ## Levítico 20:26
 

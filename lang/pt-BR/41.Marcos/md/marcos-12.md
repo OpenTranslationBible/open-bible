@@ -106,7 +106,7 @@ Quando os mortos ressuscitam, eles não se casam nem são dados em casamento; se
 
 ## Marcos 12:26
 
-Agora, quanto à ressurreição dos mortos—vocês não leram no Livro de Moisés, no relato da sarça ardente, como Deus lhe disse: ‘Eu sou o Deus de Abraão, o Deus de Isaque e o Deus de Jacó’?
+Agora, quanto à ressurreição dos mortos — vocês não leram no Livro de Moisés, no relato da sarça ardente, como Deus lhe disse: ‘Eu sou o Deus de Abraão, o Deus de Isaque e o Deus de Jacó’?
 
 ## Marcos 12:27
 
@@ -152,14 +152,14 @@ Enquanto ensinava no templo, Jesus perguntou: “Por que os mestres da lei dizem
 
 Davi, falando pelo Espírito Santo, disse:
 
-> ‘O Senhor disse ao meu Senhor:
-> “Sente-se à minha direita
-> até que eu ponha seus inimigos
-> debaixo de seus pés.”’
+>  ‘O Senhor disse ao meu Senhor:
+>  “Sente-se à minha direita até que eu ponha seus inimigos debaixo de seus pés.
+> ”
+> ’
 
 ## Marcos 12:37
 
-Se o próprio Davi o chama de ‘Senhor.’ Como então ele pode ser seu filho?” A grande multidão o ouvia com prazer.
+O próprio Davi o chama de ‘Senhor’. Como então ele pode ser seu filho?” A grande multidão o ouvia com prazer.
 
 ## Marcos 12:38
 

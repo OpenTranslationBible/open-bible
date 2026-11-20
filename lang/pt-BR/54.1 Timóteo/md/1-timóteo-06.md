@@ -58,7 +58,7 @@ que você guarde o mandamento sem mancha ou culpa até a aparição de nosso Sen
 
 ## 1 Timóteo 6:15
 
-a qual Ele revelará no tempo determinado—Ele que é o bendito e único Soberano, o Rei dos reis e Senhor dos senhores,
+a qual Ele revelará no tempo determinado — Ele que é o bendito e único Soberano, o Rei dos reis e Senhor dos senhores,
 
 ## 1 Timóteo 6:16
 
@@ -83,4 +83,4 @@ Timóteo, guarde o que lhe foi confiado, evitando conversas mundanas e vazias e 
 ## 1 Timóteo 6:21
 
 que alguns professaram e, como resultado, se desviaram da fé.  
-Que a graça esteja com você.
+ Que a graça esteja com você.

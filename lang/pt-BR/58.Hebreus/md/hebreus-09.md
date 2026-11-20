@@ -28,7 +28,7 @@ O Espírito Santo estava indicando que o caminho para o Lugar Santíssimo ainda 
 Isso serve como um símbolo para o tempo presente, mostrando que os dons e sacrifícios oferecidos eram incapazes de aperfeiçoar a consciência do adorador.
 
 ## Hebreus 9:10
-Estes são meramente regulamentos concernentes a comida, bebida e várias abluções cerimoniais—ordenanças externas impostas até o tempo da reforma.
+Estes são meramente regulamentos concernentes a comida, bebida e várias abluções cerimoniais — ordenanças externas impostas até o tempo da reforma.
 
 ## Hebreus 9:11
 Mas quando Cristo veio como sumo sacerdote dos bens que já vieram, ele passou pelo tabernáculo maior e mais perfeito que não é feito por mãos humanas, isto é, não desta criação.

@@ -22,7 +22,7 @@ Com o testemunho de duas ou três testemunhas, a pessoa que merece a morte deve 
 As mãos das testemunhas devem ser as primeiras a executar a sentença, e depois as mãos de todo o povo. Você deve eliminar o mal do meio de você.
 
 ## Deuteronômio 17:8
-Se surgir um caso que seja difícil demais para você julgar—seja homicídio, litígios ou agressões—dentro dos seus portões, então você deve ir ao lugar que o Senhor, seu Deus, escolher.
+Se surgir um caso que seja difícil demais para você julgar — seja homicídio, litígios ou agressões — dentro dos seus portões, então você deve ir ao lugar que o Senhor, seu Deus, escolher.
 
 ## Deuteronômio 17:9
 Vá aos sacerdotes levitas e ao juiz que estiver em função naquele tempo. Consulte-os, e eles declararão a você a decisão legal.

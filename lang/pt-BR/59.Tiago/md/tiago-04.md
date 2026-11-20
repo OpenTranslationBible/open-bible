@@ -24,8 +24,8 @@ Ou vocês acham que a Escritura fala sem razão quando diz que Ele deseja ciumen
 
 Mas Ele nos dá uma graça maior. É por isso que a Escritura diz:
 
-> “Deus se opõe aos orgulhosos,
-> mas dá graça aos humildes.”
+>  “Deus se opõe aos orgulhosos,
+>  mas dá graça aos humildes.”
 
 ## Tiago 4:7
 
@@ -57,7 +57,7 @@ Agora ouçam, vocês que dizem: “Hoje ou amanhã iremos para esta ou aquela ci
 
 ## Tiago 4:14
 
-No entanto, vocês não sabem como será a sua vida amanhã. Vocês são como uma névoa que aparece por um pouco de tempo e depois se dissipa.
+No entanto, vocês não sabem como será a sua vida amanhã. Que é a sua vida? Vocês são como uma névoa que aparece por um pouco de tempo e depois se dissipa.
 
 ## Tiago 4:15
 

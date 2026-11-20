@@ -54,7 +54,7 @@ Eu espalharei minha rede para ele, e ele será apanhado na minha armadilha. Eu o
 
 ## Ezequiel 12:14
 
-Eu espalharei ao vento todos os que estão ao seu redor—seu pessoal e todas as suas tropas—e os perseguirei com uma espada desembainhada.
+Eu espalharei ao vento todos os que estão ao seu redor — seu pessoal e todas as suas tropas — e os perseguirei com uma espada desembainhada.
 
 ## Ezequiel 12:15
 

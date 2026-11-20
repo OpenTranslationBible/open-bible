@@ -80,7 +80,7 @@ Ouçam o clamor do meu povo de uma terra distante: “O Senhor não está em Si�
 
 ## Jeremias 8:20
 
-“A época da colheita passou, o verão não acabou, e ainda não fomos salvos.”
+“A época da colheita passou, o verão terminou, e ainda não fomos salvos.”
 
 ## Jeremias 8:21
 

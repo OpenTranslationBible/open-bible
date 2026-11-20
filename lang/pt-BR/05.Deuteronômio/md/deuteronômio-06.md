@@ -38,11 +38,11 @@ Inscreva-os nos batentes das portas de suas casas e em seus portões.
 
 ## Deuteronômio 6:10
 
-Quando o Senhor, seu Deus, o levar para a terra que jurou dar a seus pais, a Abraão, Isaque e Jacó—cidades grandes e esplêndidas que você não construiu,
+Quando o Senhor, seu Deus, o levar para a terra que jurou dar a seus pais, a Abraão, Isaque e Jacó — cidades grandes e esplêndidas que você não construiu,
 
 ## Deuteronômio 6:11
 
-casas cheias de todo tipo de coisas boas que você não providenciou, poços que você não cavou, e vinhas e olivais que você não plantou—então, quando você comer e estiver satisfeito,
+casas cheias de todo tipo de coisas boas que você não providenciou, poços que você não cavou, e vinhas e olivais que você não plantou — então, quando você comer e estiver satisfeito,
 
 ## Deuteronômio 6:12
 

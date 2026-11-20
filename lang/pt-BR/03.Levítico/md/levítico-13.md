@@ -2,7 +2,7 @@
 
 ## Levítico 13:1
 
-O Senhor então falou a Moisés, dizendo:
+O Senhor então falou a Moisés e a Arão, dizendo:
 
 ## Levítico 13:2
 

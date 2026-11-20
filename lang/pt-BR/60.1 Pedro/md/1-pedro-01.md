@@ -3,12 +3,12 @@
 ## 1 Pedro 1:1
 
 De Pedro, apóstolo de Jesus Cristo,  
-Aos que vivem como estrangeiros, dispersos por Ponto, Galácia, Capadócia, Ásia e Bitínia, que foram escolhidos
+ Aos que vivem como estrangeiros, dispersos por Ponto, Galácia, Capadócia, Ásia e Bitínia, que foram escolhidos
 
 ## 1 Pedro 1:2
 
-de acordo com a presciência de Deus Pai, mediante a obra santificadora do Espírito, para obedecer a Jesus Cristo e serem purificados pelo Seu sangue:  
-Que a graça e a paz sejam abundantemente vossas.
+de acordo com a presciência de Deus Pai, mediante a obra santificadora do Espírito, para obedecer a Jesus Cristo e serem aspergidos com o Seu sangue:  
+ Que a graça e a paz sejam abundantemente vossas.
 
 ## 1 Pedro 1:3
 
@@ -48,7 +48,7 @@ procurando saber que tempo ou que espécie de tempo o Espírito de Cristo dentro
 
 ## 1 Pedro 1:12
 
-Foi-lhes revelado que não estavam servindo a si mesmos, mas a vós, nestas coisas que agora vos foram anunciadas por aqueles que vos pregaram o evangelho pelo Espírito Santo enviado do céu—coisas nas quais os anjos anseiam olhar.
+Foi-lhes revelado que não estavam servindo a si mesmos, mas a vós, nestas coisas que agora vos foram anunciadas por aqueles que vos pregaram o evangelho pelo Espírito Santo enviado do céu — coisas nas quais os anjos anseiam olhar.
 
 ## 1 Pedro 1:13
 
@@ -98,13 +98,13 @@ pois fostes regenerados não de semente perecível, mas imperecível, mediante a
 
 Pois,
 
-> “Toda a humanidade é como a erva,  
-> E toda a sua glória como a flor da erva.  
-> A erva seca,  
-> E a flor cai,
+>  “Toda a humanidade é como a erva,  
+>  E toda a sua glória como a flor da erva.  
+>  A erva seca,  
+>  E a flor cai,
 
 ## 1 Pedro 1:25
 
 > Mas a palavra do Senhor permanece para sempre.”
 
-E esta é a palavra que vos foi proclamada.
+ E esta é a palavra que vos foi proclamada.

@@ -14,7 +14,7 @@ Então Jacó chamou seus filhos e disse: "Reúnam-se para que eu lhes diga o que
 
 ## Gênesis 49:4
 
-Instável como a água, você não será o mais excelente, pois subiu à cama de seu pai; você a profanou—ele subiu ao meu leito.
+Instável como a água, você não será o mais excelente, pois subiu à cama de seu pai; você a profanou — ele subiu ao meu leito.
 
 ## Gênesis 49:5
 
@@ -34,7 +34,7 @@ Maldita seja sua ira, pois é feroz, e sua fúria, pois é cruel! Eu os dividire
 
 ## Gênesis 49:9
 
-Judá é um filhote de leão; da presa, meu filho, você subiu. Ele se agacha e se deita como um leão, e como uma leoa—quem ousa despertá-lo?
+Judá é um filhote de leão; da presa, meu filho, você subiu. Ele se agacha e se deita como um leão, e como uma leoa — quem ousa despertá-lo?
 
 ## Gênesis 49:10
 

@@ -42,7 +42,7 @@ Você, porém, tem seguido o meu ensino, conduta, propósito, fé, paciência, a
 
 ## 2 Timóteo 3:11
 
-perseguições e sofrimentos, como os que me aconteceram em Antioquia, em Icônio e em Listra—quais perseguições suportei, e de todas elas o Senhor me livrou!
+perseguições e sofrimentos, como os que me aconteceram em Antioquia, em Icônio e em Listra — quais perseguições suportei, e de todas elas o Senhor me livrou!
 
 ## 2 Timóteo 3:12
 

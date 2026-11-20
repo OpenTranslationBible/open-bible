@@ -86,7 +86,7 @@ Tu libertaste Teu povo Israel do Egito com sinais e maravilhas miraculosas, com 
 
 ## Jeremias 32:22
 
-Tu lhes deste esta terra que prometeste a seus antepassados, uma terra rica e abundante.
+Tu lhes deste esta terra que prometeste a seus antepassados, uma terra que mana leite e mel.
 
 ## Jeremias 32:23
 

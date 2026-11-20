@@ -195,11 +195,11 @@ Quando os capitães dos carros perceberam que não era o rei de Israel, voltaram
 ## 2 Crônicas 18:33
 
 Então um homem disparou seu arco ao acaso e feriu o rei de Israel em uma junta da armadura.  
-Então ele disse ao condutor do carro: “Vire e tire-me da batalha, pois estou gravemente ferido.”
+ Então ele disse ao condutor do carro: “Vire e tire-me da batalha, pois estou gravemente ferido.”
 
 ---
 
 ## 2 Crônicas 18:34
 
 A batalha continuou naquele dia, e o rei de Israel se manteve em seu carro contra os arameus até a tarde;  
-e ao pôr do sol ele morreu.
+ e ao pôr do sol ele morreu.

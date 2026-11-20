@@ -31,7 +31,7 @@ A terra lamenta e definha, o Líbano está envergonhado e murcha; Sarom é como 
 “Agora agirei,” diz o Senhor. “Agora serei exaltado; agora serei levantado.
 
 ## Isaías 33:11
-Vocês concebem palha, dão à luz restolho; meu sopro os consumirá como fogo.
+Vocês concebem palha, dão à luz restolho; o seu próprio sopro os consumirá como fogo.
 
 ## Isaías 33:12
 Os povos serão queimados como cal, como espinheiros cortados incendiados.

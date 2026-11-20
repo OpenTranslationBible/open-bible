@@ -37,7 +37,7 @@ O Senhor estendeu sua mão sobre o mar, ele fez os reinos tremerem; ele deu uma 
 Ele declarou: “Você não se exaltará mais, ó virgem esmagada filha de Sidom. Levante-se, atravesse para Chipre; mesmo lá você não encontrará descanso.”
 
 ## Isaías 23:13
-Olhem para a terra dos caldeus—este é o povo que não era; a Assíria a destinou para criaturas do deserto—eles ergueram suas torres de cerco, despiram seus palácios e a fizeram uma ruína.
+Olhem para a terra dos caldeus — este é o povo que não era; a Assíria a destinou para criaturas do deserto — eles ergueram suas torres de cerco, despiram seus palácios e a fizeram uma ruína.
 
 ## Isaías 23:14
 Lamentem, vocês, navios de Társis, pois sua fortaleza está destruída.
@@ -49,7 +49,7 @@ Naquele tempo Tiro será esquecida por setenta anos, como os dias de um rei. Ao 
 “Pegue uma harpa, vá pela cidade, você, prostituta esquecida; toque bem a harpa, cante muitas canções, para que você seja lembrada.”
 
 ## Isaías 23:17
-Ao final de setenta anos, o Senhor atenderá a Tiro. Ela retornará ao seu comércio e se envolverá em comércio com todos os reinos sobre a face da terra.
+Ao final de setenta anos, o Senhor atenderá a Tiro. Ela retornará ao seu pagamento e se prostituirá com todos os reinos sobre a face da terra.
 
 ## Isaías 23:18
 Contudo, seus ganhos e seus salários serão consagrados ao Senhor; eles não serão armazenados ou acumulados, mas seus lucros proverão alimento abundante e roupas esplêndidas para aqueles que habitam na presença do Senhor.

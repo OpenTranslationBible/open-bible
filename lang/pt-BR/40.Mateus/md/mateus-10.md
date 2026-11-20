@@ -154,11 +154,10 @@ Mas quem me negar diante dos outros, eu também o negarei diante de meu Pai que 
 
 ## Mateus 10:35
 
-Pois eu vim para
+Pois eu vim para colocar o filho contra seu pai,
 
-> colocar o filho contra seu pai,
-> a filha contra sua mãe,
-> e a nora contra sua sogra;
+>  a filha contra sua mãe,
+>  e a nora contra sua sogra;
 
 ## Mateus 10:36
 

@@ -8,49 +8,46 @@ No décimo primeiro ano, no terceiro mês, no primeiro dia, a mensagem do Senhor
 
 “Filho do homem, diga ao faraó, rei do Egito, e às suas multidões,
 
-> ‘Quem pode ser comparado a você em sua grandeza?
+>  ‘Quem pode ser comparado a você em sua grandeza?
 
 ## Ezequiel 31:3
 
 > Eis que a Assíria era como um cedro no Líbano,
-> com ramos formosos proporcionando sombra à floresta,
-> e elevando-se alto,
-> seu topo entre as nuvens.
+>  com ramos formosos proporcionando sombra à floresta,
+>  e elevando-se alto,
+>  seu topo entre as nuvens.
 
 ## Ezequiel 31:4
 
 > As águas o nutriram, as profundas fontes o fizeram crescer alto.
-> Seus riachos fluíam ao redor do seu lugar de plantio
-> e enviavam canais a todas as árvores do campo.
+>  Seus riachos fluíam ao redor do seu lugar de plantio e enviavam canais a todas as árvores do campo.
 
 ## Ezequiel 31:5
 
 > Assim, ele se elevou mais alto do que todas as árvores do campo;
-> seus galhos se multiplicaram e seus ramos se estenderam longamente
-> devido às águas abundantes enquanto os espalhava.
+>  seus galhos se multiplicaram e seus ramos se estenderam longamente devido às águas abundantes enquanto os espalhava.
 
 ## Ezequiel 31:6
 
 > Todas as aves do céu fizeram ninhos em seus galhos,
-> e debaixo de seus ramos todos os animais do campo deram à luz;
-> todas as grandes nações habitavam à sua sombra.
+>  e debaixo de seus ramos todos os animais do campo deram à luz;
+>  todas as grandes nações habitavam à sua sombra.
 
 ## Ezequiel 31:7
 
 > Ele era magnífico em sua grandeza, com seus extensos ramos;
-> pois suas raízes alcançavam águas abundantes.
+>  pois suas raízes alcançavam águas abundantes.
 
 ## Ezequiel 31:8
 
 > Os cedros no jardim de Deus não podiam rivalizar com ele,
-> nem os zimbros igualar seus galhos,
-> nem os plátanos comparar-se com seus ramos—
-> nenhuma árvore no jardim de Deus podia igualar sua beleza.
+>  nem os zimbros igualar seus galhos,
+>  nem os plátanos comparar-se com seus ramos — nenhuma árvore no jardim de Deus podia igualar sua beleza.
 
 ## Ezequiel 31:9
 
 > Eu o fiz belo com a multidão de seus ramos,
-> e todas as árvores do Éden no jardim de Deus o invejavam.
+>  e todas as árvores do Éden no jardim de Deus o invejavam.
 
 ## Ezequiel 31:10
 

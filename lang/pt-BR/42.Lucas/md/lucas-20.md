@@ -64,14 +64,14 @@ Então o lançaram fora da vinha e o mataram. O que, então, fará o dono da vin
 
 ## Lucas 20:16
 
-Ele virá e tratará com aqueles lavradores e dará a vinha a outros.” Quando o povo ouviu isso, disse: “Que nunca aconteça!”
+Ele virá e matará aqueles lavradores e dará a vinha a outros.” Quando o povo ouviu isso, disse: “Que nunca aconteça!”
 
 ## Lucas 20:17
 
 Jesus olhou diretamente para eles e disse: “Então qual é o significado daquilo que está escrito:
 
-> ‘A pedra que os construtores rejeitaram
-> tornou-se a pedra angular principal’?
+>  ‘A pedra que os construtores rejeitaram tornou-se a pedra angular principal’
+> ?
 
 ## Lucas 20:18
 
@@ -135,7 +135,7 @@ e então o terceiro casou-se com ela, e morreu e assim foi com todos os outros i
 
 ## Lucas 20:32
 
-Por último, a mulher, ela também morreu.
+Por último, a mulher também morreu.
 
 ## Lucas 20:33
 

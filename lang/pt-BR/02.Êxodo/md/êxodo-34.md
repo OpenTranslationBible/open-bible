@@ -82,7 +82,7 @@ Traga o melhor dos primeiros frutos do seu solo para a casa do Senhor seu Deus. 
 O Senhor disse a Moisés: “Escreva estas palavras, pois de acordo com estas palavras fiz uma aliança com você e com Israel.”
 
 ## Êxodo 34:28
-Moisés permaneceu ali com o Senhor por quarenta dias e quarenta noites sem comer pão ou beber água. Ele inscreveu nas tábuas as palavras da aliança—os Dez Mandamentos.
+Moisés permaneceu ali com o Senhor por quarenta dias e quarenta noites sem comer pão ou beber água. Ele inscreveu nas tábuas as palavras da aliança — os Dez Mandamentos.
 
 ## Êxodo 34:29
 Quando Moisés desceu do Monte Sinai com as duas tábuas da lei da aliança em suas mãos, ele não sabia que seu rosto estava radiante porque ele havia falado com o Senhor.

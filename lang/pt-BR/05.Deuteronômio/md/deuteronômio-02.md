@@ -38,7 +38,7 @@ Então o Senhor me instruiu: “Não hostilizem Moabe nem os provoquem para a gu
 
 ## Deuteronômio 2:10
 
-(Os emins costumavam viver lá—um povo tão grande, numeroso e alto quanto os anaquins.
+(Os emins costumavam viver lá — um povo tão grande, numeroso e alto quanto os anaquins.
 
 ## Deuteronômio 2:11
 
@@ -114,7 +114,7 @@ Vocês nos venderão comida por dinheiro para que possamos comer, e nos darão �
 
 ## Deuteronômio 2:29
 
-assim como os descendentes de Esaú em Seir e os moabitas em Ar nos permitiram—até atravessarmos o Jordão para a terra que o Senhor nosso Deus está nos dando.”
+assim como os descendentes de Esaú em Seir e os moabitas em Ar nos permitiram — até atravessarmos o Jordão para a terra que o Senhor nosso Deus está nos dando.”
 
 ## Deuteronômio 2:30
 

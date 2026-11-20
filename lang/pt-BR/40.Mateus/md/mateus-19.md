@@ -82,7 +82,7 @@ Ele respondeu: “Por que você me pergunta sobre o que é bom? Há apenas Um qu
 
 ## Mateus 19:19
 
-respeite seu pai e sua mãe, e cuide do seu próximo como de si mesmo.”
+honre seu pai e sua mãe, e ame o seu próximo como a si mesmo.”
 
 ## Mateus 19:20
 

@@ -110,7 +110,7 @@ Apenas conduzam-se de maneira digna do evangelho de Cristo, para que, quer eu v�
 
 ## Filipenses 1:28
 
-sem se deixarem intimidar de forma alguma por aqueles que se opõem a vocês. Isso é um sinal para eles de que enfrentarão destruição, mas que vocês serão salvos—e isso por Deus.
+sem se deixarem intimidar de forma alguma por aqueles que se opõem a vocês. Isso é um sinal para eles de que enfrentarão destruição, mas que vocês serão salvos — e isso por Deus.
 
 ## Filipenses 1:29
 

@@ -22,7 +22,7 @@ Assim, Jeremias foi para Gedalias, filho de Aicão, em Mispá e ficou com ele en
 Quando todos os comandantes das forças no campo aberto e seus homens ouviram que o rei da Babilônia havia nomeado Gedalias, filho de Aicão, como governador sobre a terra, e o havia colocado no comando dos homens, mulheres e crianças, aqueles dos mais pobres da terra que não foram exilados para a Babilônia,
 
 ## Jeremias 40:8
-eles foram a Gedalias em Mispá—junto com Ismael, filho de Netanias, Joanã e Jônatas, filhos de Careá, Seraías, filho de Tanumete, os filhos de Efai, o Netofatita, e Jazanias, filho do Maacatita, e seus homens.
+eles foram a Gedalias em Mispá — junto com Ismael, filho de Netanias, Joanã e Jônatas, filhos de Careá, Seraías, filho de Tanumete, os filhos de Efai, o Netofatita, e Jazanias, filho do Maacatita, e seus homens.
 
 ## Jeremias 40:9
 Gedalias, filho de Aicão, filho de Safã, assegurou-lhes e a seus homens, dizendo: “Não tenham medo de servir aos babilônios; estabeleçam-se na terra e sirvam ao rei da Babilônia, e tudo irá bem com vocês.

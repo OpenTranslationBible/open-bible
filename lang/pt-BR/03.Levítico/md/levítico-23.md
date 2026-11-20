@@ -6,7 +6,7 @@ O Senhor então falou a Moisés, dizendo,
 
 ## Levítico 23:2
 
-“Fale aos israelitas e diga-lhes: ‘Estas são as festas fixas do Senhor, que vocês proclamarão como santas assembleias—Minhas festas fixas são estas:
+“Fale aos israelitas e diga-lhes: ‘Estas são as festas fixas do Senhor, que vocês proclamarão como santas assembleias — Minhas festas fixas são estas:
 
 ## Levítico 23:3
 
@@ -146,7 +146,7 @@ Durante sete dias vocês apresentarão uma oferta queimada ao Senhor, e no oitav
 
 ## Levítico 23:37
 
-Estas são as festas fixas do Senhor, que vocês proclamarão como santas assembleias para trazer ofertas queimadas ao Senhor—holocaustos e ofertas de cereal, sacrifícios e ofertas de libação, cada dia sua própria exigência—
+Estas são as festas fixas do Senhor, que vocês proclamarão como santas assembleias para trazer ofertas queimadas ao Senhor — holocaustos e ofertas de cereal, sacrifícios e ofertas de libação, cada dia sua própria exigência—
 
 ## Levítico 23:38
 

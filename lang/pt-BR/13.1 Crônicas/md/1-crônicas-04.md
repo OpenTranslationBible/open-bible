@@ -4,7 +4,7 @@
 
 Os filhos de Judá incluíam:
 
-> Perez, Hezrom, Carmi, Hur e Sobal.
+>  Perez, Hezrom, Carmi, Hur e Sobal.
 
 ---
 
@@ -12,8 +12,8 @@ Os filhos de Judá incluíam:
 
 O filho de Sobal, Reaías, foi o pai de Jaate,
 
-> e Jaate foi o pai de Aumai e Laade.  
-> Estes foram da linhagem dos zoratitas.
+>  e Jaate foi o pai de Aumai e Laade.  
+>  Estes foram da linhagem dos zoratitas.
 
 ---
 
@@ -21,17 +21,17 @@ O filho de Sobal, Reaías, foi o pai de Jaate,
 
 Estes foram os descendentes de Etã:
 
-> Jezreel, Isma e Idbas;  
-> e sua irmã se chamava Hazelelponi.
+>  Jezreel, Isma e Idbas;  
+>  e sua irmã se chamava Hazelelponi.
 
 ---
 
 ## 1 Crônicas 4:4
 
 Penuel foi o pai de Gedor,  
-e Ézer foi o pai de Husá.
+ e Ézer foi o pai de Husá.
 
-> Estes foram os descendentes de Hur, o primogênito de Efrata, que foi o pai de Belém.
+>  Estes foram os descendentes de Hur, o primogênito de Efrata, que foi o pai de Belém.
 
 ---
 
@@ -39,7 +39,7 @@ e Ézer foi o pai de Husá.
 
 Asur, que foi o pai de Tecoa, teve duas esposas:
 
-> Helá e Naará.
+>  Helá e Naará.
 
 ---
 
@@ -47,8 +47,8 @@ Asur, que foi o pai de Tecoa, teve duas esposas:
 
 Naará deu à luz:
 
-> Auzão, Héfer, Temeni e Haastari.  
-> Estes foram os filhos de Naará.
+>  Auzão, Héfer, Temeni e Haastari.  
+>  Estes foram os filhos de Naará.
 
 ---
 
@@ -56,22 +56,22 @@ Naará deu à luz:
 
 Os filhos de Helá incluíam:
 
-> Zerete, Izar e Etnã.
+>  Zerete, Izar e Etnã.
 
 ---
 
 ## 1 Crônicas 4:8
 
 Coze foi o pai de Anube e Zobebá,  
-e das famílias de Aarel, filho de Harum.
+ e das famílias de Aarel, filho de Harum.
 
 ---
 
 ## 1 Crônicas 4:9
 
 Jabez foi mais ilustre que seus irmãos,  
-e sua mãe o chamou de Jabez, dizendo:  
-“Porque dei à luz com dor.”
+ e sua mãe o chamou de Jabez, dizendo:  
+ “Porque dei à luz com dor.”
 
 ---
 
@@ -79,10 +79,10 @@ e sua mãe o chamou de Jabez, dizendo:
 
 Jabez invocou o Deus de Israel, dizendo:
 
-> “Ah, se me abençoares muitíssimo, e ampliares o meu território,  
-> e que a Tua mão esteja comigo,  
-> e que me guardes do mal, para que não me sobrevenha aflição!”  
-> E Deus concedeu o que ele pediu.
+>  “Ah, se me abençoares muitíssimo, e ampliares o meu território,  
+>  e que a Tua mão esteja comigo,  
+>  e que me guardes do mal, para que não me sobrevenha aflição!”  
+>  E Deus concedeu o que ele pediu.
 
 ---
 
@@ -90,7 +90,7 @@ Jabez invocou o Deus de Israel, dizendo:
 
 Quelube, irmão de Suá, foi o pai de Meir,
 
-> que foi o pai da linhagem de Estom.
+>  que foi o pai da linhagem de Estom.
 
 ---
 
@@ -98,7 +98,7 @@ Quelube, irmão de Suá, foi o pai de Meir,
 
 Bete-Rafa foi filho de Estom, assim como Paseia e Teína, o pai de Ir-Naás.
 
-> Estes foram os homens de Reca.
+>  Estes foram os homens de Reca.
 
 ---
 
@@ -106,8 +106,8 @@ Bete-Rafa foi filho de Estom, assim como Paseia e Teína, o pai de Ir-Naás.
 
 Os filhos de Quenaz incluíam:
 
-> Otniel e Seraías.  
-> E o filho de Otniel foi Hatate.
+>  Otniel e Seraías.  
+>  E o filho de Otniel foi Hatate.
 
 ---
 
@@ -115,8 +115,8 @@ Os filhos de Quenaz incluíam:
 
 Meonotai foi o pai de Ofra,
 
-> e Seraías foi o pai de Joabe, o pai de Ge-Harasim,  
-> pois eram artífices.
+>  e Seraías foi o pai de Joabe, o pai de Ge-Harasim,  
+>  pois eram artífices.
 
 ---
 
@@ -124,8 +124,8 @@ Meonotai foi o pai de Ofra,
 
 Calebe foi o filho de Jefoné, seus filhos foram:
 
-> Iru, Elá e Naam;  
-> e o filho de Elá foi Quenaz.
+>  Iru, Elá e Naam;  
+>  e o filho de Elá foi Quenaz.
 
 ---
 
@@ -133,7 +133,7 @@ Calebe foi o filho de Jefoné, seus filhos foram:
 
 Os filhos de Jealelel incluíam:
 
-> Zife, Zifá, Tiria e Asareel.
+>  Zife, Zifá, Tiria e Asareel.
 
 ---
 
@@ -141,21 +141,21 @@ Os filhos de Jealelel incluíam:
 
 Os filhos de Ezra foram:
 
-> Jéter, Merede, Éfer e Jalom.  
-> E estes são os filhos de Bitia, filha de Faraó,  
-> que Merede tomou:
+>  Jéter, Merede, Éfer e Jalom.  
+>  E estes são os filhos de Bitia, filha de Faraó,  
+>  que Merede tomou:
 
-> Ela concebeu e deu à luz Miriã, Samai e Isbá, o pai de Estemoa.
+>  Ela concebeu e deu à luz Miriã, Samai e Isbá, o pai de Estemoa.
 
 ---
 
 ## 1 Crônicas 4:18
 
 Sua esposa judia deu à luz Jerede, o pai de Gedor,  
-Héber, o pai de Socó,  
-e Jecutiel, o pai de Zanoa.
+ Héber, o pai de Socó,  
+ e Jecutiel, o pai de Zanoa.
 
-> Estes foram os filhos de Bitia, filha de Faraó, que Merede tomou.
+>  Estes foram os filhos de Bitia, filha de Faraó, que Merede tomou.
 
 ---
 
@@ -163,8 +163,8 @@ e Jecutiel, o pai de Zanoa.
 
 Os filhos da esposa de Hodias, irmã de Naam, foram:
 
-> o antepassado de Queila, o garmita,  
-> e Estemoa, o maacatita.
+>  o antepassado de Queila, o garmita,  
+>  e Estemoa, o maacatita.
 
 ---
 
@@ -172,10 +172,10 @@ Os filhos da esposa de Hodias, irmã de Naam, foram:
 
 Os filhos de Simeão incluíam:
 
-> Amnom, Riná, Benanã e Tilom.  
-> E os filhos de Isi foram:
+>  Amnom, Riná, Benanã e Tilom.  
+>  E os filhos de Isi foram:
 
-> Zoete e Ben-Zoete.
+>  Zoete e Ben-Zoete.
 
 ---
 
@@ -183,24 +183,24 @@ Os filhos de Simeão incluíam:
 
 Os filhos de Selá, filho de Judá, foram:
 
-> Er, o pai de Leca,  
-> Laada, o pai de Maressa,  
-> e as famílias da casa dos trabalhadores do linho em Bete-Asbeia;
+>  Er, o pai de Leca,  
+>  Laada, o pai de Maressa,  
+>  e as famílias da casa dos trabalhadores do linho em Bete-Asbeia;
 
 ---
 
 ## 1 Crônicas 4:22
 
 > Joquim, os homens de Cozeba,  
-> Joás e Sarafe, que governaram em Moabe e Jasubi-Leém.  
-> Mas os registros são antigos.
+>  Joás e Sarafe, que governaram em Moabe e Jasubi-Leém.  
+>  Mas os registros são antigos.
 
 ---
 
 ## 1 Crônicas 4:23
 
 Estes foram os oleiros e os habitantes de Netaim e Gederá;  
-eles residiram ali com o rei para o seu trabalho.
+ eles residiram ali com o rei para o seu trabalho.
 
 ---
 
@@ -208,15 +208,15 @@ eles residiram ali com o rei para o seu trabalho.
 
 Os filhos de Simeão incluíam:
 
-> Nemuel, Jamim, Jaribe, Zerá e Saul;
+>  Nemuel, Jamim, Jaribe, Zerá e Saul;
 
 ---
 
 ## 1 Crônicas 4:25
 
 > seu filho Salum,  
-> Mibsão, seu filho,  
-> e Misma, seu filho.
+>  Mibsão, seu filho,  
+>  e Misma, seu filho.
 
 ---
 
@@ -224,18 +224,18 @@ Os filhos de Simeão incluíam:
 
 Os filhos de Misma foram:
 
-> seu filho Hamuel,  
-> Zacur, seu filho,  
-> e Simei, seu filho.
+>  seu filho Hamuel,  
+>  Zacur, seu filho,  
+>  e Simei, seu filho.
 
 ---
 
 ## 1 Crônicas 4:27
 
 Simei teve dezesseis filhos e seis filhas,  
-mas seus irmãos não tiveram tantos filhos,
+ mas seus irmãos não tiveram tantos filhos,
 
-> nem toda a sua família se multiplicou como a linhagem de Judá.
+>  nem toda a sua família se multiplicou como a linhagem de Judá.
 
 ---
 
@@ -255,7 +255,7 @@ em Betuel, Hormá e Ziclague,
 
 em Bete-Marcabote, Hazar-Susim, Bete-Biri e Saaraim.
 
-> Estas foram suas cidades até o reinado de Davi.
+>  Estas foram suas cidades até o reinado de Davi.
 
 ---
 
@@ -263,7 +263,7 @@ em Bete-Marcabote, Hazar-Susim, Bete-Biri e Saaraim.
 
 Seus povoados incluíam:
 
-> Etã, Aim, Rimom, Toquém e Asã—cinco cidades—
+>  Etã, Aim, Rimom, Toquém e Asã — cinco cidades—
 
 ---
 
@@ -271,13 +271,13 @@ Seus povoados incluíam:
 
 e todas as suas aldeias que estavam ao redor dessas cidades até Baal.
 
-> Estas foram suas habitações, e eles têm sua genealogia.
+>  Estas foram suas habitações, e eles têm sua genealogia.
 
 ---
 
 ## 1 Crônicas 4:34
 
-Mesobabe, Jamleque e Josias, pai de Amazias,
+Mesobabe, Jamleque, Josias, filho de Amazias,
 
 ## 1 Crônicas 4:35
 
@@ -289,50 +289,50 @@ e Elioenai, Jaacobá, Jesoaías, Asaías, Adiel, Jesimiel e Benaia,
 
 ## 1 Crônicas 4:37
 
-e Ziza, foi filho de Sifi, que era de Alom, que era de Jedaías, que era de Simri, que era de Semaías—
+e Ziza, filho de Sifi, filho de Alom, filho de Jedaías, filho de Simri, filho de Semaías—
 
 ---
 
 ## 1 Crônicas 4:38
 
 os mencionados por nome foram líderes em suas famílias;  
-e as casas de seus pais aumentaram grandemente.
+ e as casas de seus pais aumentaram grandemente.
 
 ---
 
 ## 1 Crônicas 4:39
 
 Eles viajaram até a entrada de Gedor, no lado leste do vale,  
-para buscar pasto para seus rebanhos.
+ para buscar pasto para seus rebanhos.
 
 ---
 
 ## 1 Crônicas 4:40
 
 Eles encontraram pasto rico e bom,  
-e a terra era espaçosa, tranquila e pacífica;
+ e a terra era espaçosa, tranquila e pacífica;
 
-> pois aqueles que moravam lá anteriormente eram camitas.
+>  pois aqueles que moravam lá anteriormente eram camitas.
 
 ---
 
 ## 1 Crônicas 4:41
 
 Agora, aqueles que vieram listados por nome nos dias de Ezequias, rei de Judá,  
-atacaram suas tendas e os meunitas que foram encontrados lá,  
-e os destruíram completamente até hoje,  
-e viveram em seu lugar, porque havia pasto ali para seus rebanhos.
+ atacaram suas tendas e os meunitas que foram encontrados lá,  
+ e os destruíram completamente até hoje,  
+ e viveram em seu lugar, porque havia pasto ali para seus rebanhos.
 
 ---
 
 ## 1 Crônicas 4:42
 
 Dentre eles, dos descendentes de Simeão, quinhentos homens foram ao Monte Seir,  
-com Pelatias, Nearias, Refaías e Uziel, os filhos de Isi, como seus líderes.
+ com Pelatias, Nearias, Refaías e Uziel, os filhos de Isi, como seus líderes.
 
 ---
 
 ## 1 Crônicas 4:43
 
 Eles destruíram o restante dos amalequitas que haviam escapado,  
-e têm vivido lá até hoje.
+ e têm vivido lá até hoje.

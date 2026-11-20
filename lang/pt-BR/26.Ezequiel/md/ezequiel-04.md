@@ -1,7 +1,7 @@
 # Ezequiel Capítulo 4
 
 ## Ezequiel 4:1
-“Agora, filho do homem, pega um tijolo e coloca-o diante de ti, e grava nele uma cidade—Jerusalém.
+“Agora, filho do homem, pega um tijolo e coloca-o diante de ti, e grava nele uma cidade — Jerusalém.
 
 ## Ezequiel 4:2
 Então, faze um cerco contra ela: constrói uma muralha de cerco, edifica uma rampa, monta acampamentos e coloca aríetes ao redor dela.
@@ -34,7 +34,7 @@ A comida que comeres será pesada, vinte siclos por dia; tu a comerás em horár
 A água que beberes será a sexta parte de um him por medida; tu a beberás em horários determinados.
 
 ## Ezequiel 4:12
-Tu a comerás como um bolo de cevada, tendo-o assado à vista deles sobre um combustível incomum.”
+Tu a comerás como um bolo de cevada, tendo-o assado à vista deles sobre excremento humano seco.”
 
 ## Ezequiel 4:13
 O Senhor disse: “Desta maneira os filhos de Israel comerão seu pão contaminado entre as nações para onde os dispersarei.”

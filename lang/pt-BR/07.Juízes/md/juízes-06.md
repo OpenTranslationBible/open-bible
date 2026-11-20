@@ -154,7 +154,7 @@ eis que colocarei uma lã de carneiro na eira. Se houver orvalho apenas na lã e
 
 ## Juízes 6:38
 
-E assim foi. Gideão levantou-se cedo no dia seguinte; ele espremeu a lã e torceu o orvalho—uma tigela cheia de água.
+E assim foi. Gideão levantou-se cedo no dia seguinte; ele espremeu a lã e torceu o orvalho — uma tigela cheia de água.
 
 ## Juízes 6:39
 

@@ -26,7 +26,7 @@ Então Hamor, pai de Siquém, saiu para falar com Jacó.
 
 ## Gênesis 34:7
 
-Agora os filhos de Jacó vieram do campo quando ouviram sobre isso; ficaram entristecidos e muito irados, porque Siquém havia cometido uma desonra em Israel ao deitar-se com a filha de Jacó—algo que não se deve fazer.
+Agora os filhos de Jacó vieram do campo quando ouviram sobre isso; ficaram entristecidos e muito irados, porque Siquém havia cometido uma desonra em Israel ao deitar-se com a filha de Jacó — algo que não se deve fazer.
 
 ## Gênesis 34:8
 
@@ -54,7 +54,7 @@ Os filhos de Jacó responderam a Siquém e a seu pai Hamor enganosamente, porque
 
 ## Gênesis 34:14
 
-Eles disseram a eles: “Não podemos fazer tal coisa—dar nossa irmã a um homem que é incircunciso seria uma desgraça para nós.
+Eles disseram a eles: “Não podemos fazer tal coisa — dar nossa irmã a um homem que é incircunciso seria uma desgraça para nós.
 
 ## Gênesis 34:15
 

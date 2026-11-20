@@ -34,7 +34,7 @@ Finalmente, fortaleçam-se no Senhor e na força do Seu poder poderoso.
 Revistam-se de toda a armadura de Deus, para que possam permanecer firmes contra as ciladas do diabo.
 
 ## Efésios 6:12
-Pois a nossa luta não é contra meros adversários humanos, mas contra os governantes, contra as autoridades, contra os poderes deste mundo tenebroso, e contra as forças espirituais do mal nas regiões celestiais.
+Pois a nossa luta não é contra carne e sangue, mas contra os governantes, contra as autoridades, contra os poderes deste mundo tenebroso, e contra as forças espirituais do mal nas regiões celestiais.
 
 ## Efésios 6:13
 Portanto, tomem toda a armadura de Deus, para que possam resistir no dia mau, e, havendo feito tudo, permanecer firmes.

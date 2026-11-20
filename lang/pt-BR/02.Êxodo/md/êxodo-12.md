@@ -34,7 +34,7 @@ Comerão a carne naquela mesma noite, assada no fogo, e a comerão com pães sem
 
 ## Êxodo 12:9
 
-Não comam nada cru ou cozido em água, mas assado no fogo—sua cabeça, suas pernas e suas entranhas.
+Não comam nada cru ou cozido em água, mas assado no fogo — sua cabeça, suas pernas e suas entranhas.
 
 ## Êxodo 12:10
 
@@ -42,11 +42,11 @@ E não deixem nada até a manhã seguinte, mas o que restar até a manhã, queim
 
 ## Êxodo 12:11
 
-Agora vocês o comerão assim: com o cinto afivelado, as sandálias nos pés e o cajado na mão. Vocês o comerão apressadamente—é a Páscoa do Senhor.
+Agora vocês o comerão assim: com o cinto afivelado, as sandálias nos pés e o cajado na mão. Vocês o comerão apressadamente — é a Páscoa do Senhor.
 
 ## Êxodo 12:12
 
-Pois naquela noite passarei pela terra do Egito e ferirei todos os primogênitos na terra do Egito, tanto homens quanto animais; e contra todos os deuses do Egito executarei juízos—Eu sou o Senhor.
+Pois naquela noite passarei pela terra do Egito e ferirei todos os primogênitos na terra do Egito, tanto homens quanto animais; e contra todos os deuses do Egito executarei juízos — Eu sou o Senhor.
 
 ## Êxodo 12:13
 
@@ -62,7 +62,7 @@ Por sete dias vocês comerão pães sem fermento, mas no primeiro dia removerão
 
 ## Êxodo 12:16
 
-No primeiro dia vocês terão uma assembleia santa, e outra assembleia santa no sétimo dia; nenhum trabalho será feito neles, exceto o que deve ser comido por cada pessoa—somente isso pode ser preparado por vocês.
+No primeiro dia vocês terão uma assembleia santa, e outra assembleia santa no sétimo dia; nenhum trabalho será feito neles, exceto o que deve ser comido por cada pessoa — somente isso pode ser preparado por vocês.
 
 ## Êxodo 12:17
 

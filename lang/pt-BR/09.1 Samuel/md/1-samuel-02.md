@@ -4,68 +4,66 @@
 
 Então Ana orou e disse:
 
-> “Meu coração se regozija no Senhor;  
-> Meu poder é exaltado pelo Senhor.  
-> Minha boca se vangloria sobre meus inimigos,  
-> Pois me alegro na Tua salvação.
+>  “Meu coração se regozija no Senhor;  
+>  Meu poder é exaltado pelo Senhor.  
+>  Minha boca se vangloria sobre meus inimigos,  
+>  Pois me alegro na Tua salvação.
 
 ## 1 Samuel 2:2
 
 > Não há ninguém santo como o Senhor,  
-> Pois não há outro além de Ti,  
-> Nem há rocha como o nosso Deus.
+>  Pois não há outro além de Ti,  
+>  Nem há rocha como o nosso Deus.
 
 ## 1 Samuel 2:3
 
 > Não falem tão orgulhosamente,  
-> Que a arrogância não saia da sua boca,  
-> Pois o Senhor é um Deus de conhecimento,  
-> E por Ele as ações são pesadas.
+>  Que a arrogância não saia da sua boca,  
+>  Pois o Senhor é um Deus de conhecimento,  
+>  E por Ele as ações são pesadas.
 
 ## 1 Samuel 2:4
 
 > Os arcos dos poderosos são quebrados,  
-> Mas os que tropeçaram agora estão armados com força.
+>  Mas os que tropeçaram agora estão armados com força.
 
 ## 1 Samuel 2:5
 
 > Os que estavam cheios se empregam por pão,  
-> Mas os que estavam famintos agora estão satisfeitos.  
-> Até a estéril deu à luz sete,  
-> Mas a que tinha muitos filhos enfraquece.
+>  Mas os que estavam famintos agora estão satisfeitos.  
+>  Até a estéril deu à luz sete,  
+>  Mas a que tinha muitos filhos enfraquece.
 
 ## 1 Samuel 2:6
 
 > O Senhor traz a morte e dá a vida;  
-> Ele faz descer à sepultura e faz subir.
+>  Ele faz descer à sepultura e faz subir.
 
 ## 1 Samuel 2:7
 
 > O Senhor humilha e enriquece;  
-> Ele abaixa e Ele eleva.
+>  Ele abaixa e Ele eleva.
 
 ## 1 Samuel 2:8
 
 > Ele levanta o pobre do pó,  
-> Ele ergue o necessitado do monte de cinzas  
-> Para fazê-los sentar com príncipes  
-> E herdar um assento de honra.  
-> Pois os fundamentos da terra pertencem ao Senhor,  
-> E sobre eles Ele estabeleceu o mundo.
+>  Ele ergue o necessitado do monte de cinzas Para fazê-los sentar com príncipes E herdar um assento de honra.  
+>  Pois os fundamentos da terra pertencem ao Senhor,  
+>  E sobre eles Ele estabeleceu o mundo.
 
 ## 1 Samuel 2:9
 
 > Ele guarda os pés dos Seus fiéis,  
-> Mas os ímpios serão silenciados nas trevas,  
-> Pois não é pela força que uma pessoa prevalece.
+>  Mas os ímpios serão silenciados nas trevas,  
+>  Pois não é pela força que uma pessoa prevalece.
 
 ## 1 Samuel 2:10
 
 > Aqueles que se opõem ao Senhor serão despedaçados;  
-> Ele trovejará contra eles desde os céus.  
-> O Senhor julgará os confins da terra.  
-> Ele dará força ao Seu rei  
-> E exaltará o poder do Seu ungido.”
+>  Ele trovejará contra eles desde os céus.  
+>  O Senhor julgará os confins da terra.  
+>  Ele dará força ao Seu rei E exaltará o poder do Seu ungido.  
+> ”
 
 ---
 
@@ -101,7 +99,7 @@ Assim, o pecado dos jovens era muito grande diante do Senhor, porque eles tratav
 
 ## 1 Samuel 2:18
 
-Mas Samuel ministrava diante do Senhor—um menino vestindo um éfode de linho.
+Mas Samuel ministrava diante do Senhor — um menino vestindo um éfode de linho.
 
 ## 1 Samuel 2:19
 
@@ -119,7 +117,7 @@ E o Senhor visitou Ana, e ela concebeu e deu à luz três filhos e duas filhas. 
 
 ## 1 Samuel 2:22
 
-Agora Eli estava muito velho, e ele ouviu tudo o que seus filhos estavam fazendo a todo o Israel—como dormiam com as mulheres que serviam à entrada da tenda do encontro.
+Agora Eli estava muito velho, e ele ouviu tudo o que seus filhos estavam fazendo a todo o Israel — como dormiam com as mulheres que serviam à entrada da tenda do encontro.
 
 ## 1 Samuel 2:23
 

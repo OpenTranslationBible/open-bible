@@ -25,7 +25,7 @@ Vá então, coma seu pão com alegria, e beba seu vinho com um coração alegre,
 Certifique-se de que suas vestes estejam sempre brancas, e não deixe faltar óleo sobre sua cabeça.
 
 ## Eclesiastes 9:9
-Desfrute a vida com sua amada esposa todos os dias de sua vida fútil que Deus lhe deu debaixo do sol—todos os seus dias fúteis. Pois esta é a sua porção na vida e no seu trabalho debaixo do sol.
+Desfrute a vida com sua amada esposa todos os dias de sua vida fútil que Deus lhe deu debaixo do sol — todos os seus dias fúteis. Pois esta é a sua porção na vida e no seu trabalho debaixo do sol.
 
 ## Eclesiastes 9:10
 Tudo o que sua mão encontrar para fazer, faça-o com toda a sua força, pois no Sheol, para onde você está indo, não há atividade, nem planejamento, nem conhecimento, nem sabedoria.

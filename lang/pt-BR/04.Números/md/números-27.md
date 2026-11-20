@@ -66,7 +66,7 @@ Moisés então falou ao Senhor,
 
 ## Números 27:17
 
-alguém que os conduza para fora e os traga de volta, para que o povo do Senhor não seja como ovelhas sem pastor.”
+alguém que saia e entre diante deles, e que os conduza para fora e os traga de volta, para que o povo do Senhor não seja como ovelhas sem pastor.”
 
 ## Números 27:18
 

@@ -88,22 +88,22 @@ e todos estavam tentando tocá-Lo, porque poder saía dEle e os curava a todos.
 
 Voltando-se para Seus discípulos, Ele disse:
 
-> “Bem-aventurados vocês que são pobres,
-> porque de vocês é o reino de Deus.
+>  “Bem-aventurados vocês que são pobres,
+>  porque de vocês é o reino de Deus.
 
 ## Lucas 6:21
 
-> Felizes são vocês que têm fome agora,
-> porque serão saciados.
-> Felizes são vocês que choram agora,
-> porque encontrarão alegria.
+> Bem-aventurados vocês que têm fome agora,
+>  porque serão saciados.
+>  Bem-aventurados vocês que choram agora,
+>  porque vão rir.
 
 ## Lucas 6:22
 
 > Bem-aventurados são vocês quando as pessoas os odiarem,
-> excluírem, insultarem,
-> e desprezarem seu nome como mau,
-> por causa do Filho do Homem.
+>  excluírem, insultarem,
+>  e desprezarem seu nome como mau,
+>  por causa do Filho do Homem.
 
 ## Lucas 6:23
 
@@ -114,19 +114,19 @@ Alegrem-se naquele dia e saltem de alegria, pois vejam, sua recompensa é grande
 ## Lucas 6:24
 
 > Mas ai de vocês que são ricos,
-> porque já receberam sua consolação.
+>  porque já receberam sua consolação.
 
 ## Lucas 6:25
 
 > Ai de vocês que estão bem alimentados agora,
-> porque terão fome.
-> Ai de vocês que riem agora,
-> porque lamentarão e chorarão.
+>  porque terão fome.
+>  Ai de vocês que riem agora,
+>  porque lamentarão e chorarão.
 
 ## Lucas 6:26
 
 > Ai de vocês quando todos falarem bem de vocês,
-> porque assim trataram seus antepassados os falsos profetas.
+>  porque assim trataram seus antepassados os falsos profetas.
 
 ---
 

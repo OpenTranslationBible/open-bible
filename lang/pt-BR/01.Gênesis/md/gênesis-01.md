@@ -111,8 +111,8 @@ Então Deus disse: “Façamos o homem à nossa imagem, conforme a nossa semelha
 ## Gênesis 1:27
 
 > Assim Deus criou o homem à Sua imagem,
-> à imagem de Deus Ele os criou;
-> homem e mulher Ele os criou.
+>  à imagem de Deus Ele os criou;
+>  homem e mulher Ele os criou.
 
 ## Gênesis 1:28
 

@@ -28,7 +28,7 @@ A mensagem do Senhor veio a mim, dizendo,
 “As mãos de Zorobabel lançaram os alicerces desta casa; suas mãos também a completarão. Então você saberá que o Senhor dos Exércitos me enviou a você.
 
 ## Zacarias 4:10
-Pois quem desprezou o dia das coisas pequenas? Estes sete se alegrarão quando virem o prumo na mão de Zorobabel—são os olhos do Senhor que percorrem toda a terra.”
+Pois quem desprezou o dia das coisas pequenas? Estes sete se alegrarão quando virem o prumo na mão de Zorobabel — são os olhos do Senhor que percorrem toda a terra.”
 
 ## Zacarias 4:11
 Então eu lhe perguntei: “O que são estas duas oliveiras à direita e à esquerda do candelabro?”

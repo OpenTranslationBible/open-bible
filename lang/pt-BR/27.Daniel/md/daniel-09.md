@@ -19,7 +19,7 @@ pecamos e cometemos iniquidades. Agimos perversamente e nos rebelamos, desviando
 Não ouvimos os Teus servos, os profetas, que falaram em Teu nome aos nossos reis, aos nossos príncipes, aos nossos pais e a todo o povo da terra.
 
 ## Daniel 9:7
-“A justiça pertence a Ti, Senhor, mas a nós cabe a vergonha no rosto, como se vê neste dia—ao povo de Judá, aos habitantes de Jerusalém e a todo o Israel, aos que estão perto e aos que estão longe, em todas as terras para onde os expulsaste, por causa da sua infidelidade para Contigo.
+“A justiça pertence a Ti, Senhor, mas a nós cabe a vergonha no rosto, como se vê neste dia — ao povo de Judá, aos habitantes de Jerusalém e a todo o Israel, aos que estão perto e aos que estão longe, em todas as terras para onde os expulsaste, por causa da sua infidelidade para Contigo.
 
 ## Daniel 9:8
 A nós, Senhor, cabe a vergonha no rosto, aos nossos reis, aos nossos príncipes e aos nossos pais, porque pecamos contra Ti.

@@ -100,7 +100,7 @@ Tragam o novilho gordo e matem-no. Vamos comer e celebrar.
 
 ## Lucas 15:24
 
-Pois este meu filho estava como morto e voltou à vida; estava perdido e foi encontrado.’ E começaram a celebrar.
+Pois este meu filho estava morto e voltou à vida; estava perdido e foi encontrado.’ E começaram a celebrar.
 
 ---
 
@@ -134,4 +134,4 @@ Mas quando este teu filho volta, que desperdiçou tua propriedade com prostituta
 
 ## Lucas 15:32
 
-Mas era necessário celebrar e alegrar-se, porque este teu irmão estava como morto, mas agora está vivo novamente; estava perdido e foi encontrado.’”
+Mas era necessário celebrar e alegrar-se, porque este teu irmão estava morto e está vivo novamente; estava perdido e foi encontrado.’”

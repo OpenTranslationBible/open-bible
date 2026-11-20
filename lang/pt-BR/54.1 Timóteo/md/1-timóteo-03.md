@@ -64,9 +64,9 @@ mas caso eu demore, escrevo para que você saiba como se deve conduzir na casa d
 
 Sem dúvida, o mistério da piedade é profundo:
 
-> Aquele que foi manifestado na carne,  
-> Foi justificado no Espírito,  
-> Visto pelos anjos,  
-> Proclamado entre as nações,  
-> E crido no mundo inteiro,  
-> Recebido na glória.
+>  Aquele que foi manifestado na carne,  
+>  Foi justificado no Espírito,  
+>  Visto pelos anjos,  
+>  Proclamado entre as nações,  
+>  E crido no mundo inteiro,  
+>  Recebido na glória.

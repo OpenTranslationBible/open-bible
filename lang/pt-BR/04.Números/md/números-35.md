@@ -61,7 +61,7 @@ O vingador do sangue deve executar o assassino; quando o vingador encontrar o as
 Se alguém empurrar outro por ódio, ou atirar algo nele com intenção maliciosa, resultando em morte,
 
 ## Números 35:21
-ou se alguém ferir outro com hostilidade, causando a morte, o perpetrador é um assassino e deve ser morto. O vingador do sangue deve executar o assassino quando o encontrar.
+ou se alguém ferir outro com a mão, por hostilidade, causando a morte, o perpetrador é um assassino e deve ser morto. O vingador do sangue deve executar o assassino quando o encontrar.
 
 ## Números 35:22
 “‘No entanto, se alguém empurrar outro de repente sem hostilidade, ou atirar qualquer objeto nele sem intenção maliciosa,
