@@ -40,7 +40,7 @@ Y el mensaje del Señor me fue dado:
 “Hijo de hombre, si un país peca contra mí siendo infiel y extiendo mi mano contra él para destruir su suministro de alimentos y envío hambre sobre él y elimino tanto la vida humana como la animal,
 
 ## Ezequiel 14:14
-aunque estos tres hombres—Noé, Daniel y Job—estuvieran en él, sólo podrían salvarse a sí mismos por su justicia, declara el Señor Dios.
+aunque estos tres hombres —Noé, Daniel y Job— estuvieran en él, sólo podrían salvarse a sí mismos por su justicia, declara el Señor Dios.
 
 ## Ezequiel 14:15
 Si enviara bestias salvajes por la tierra y la despoblaran, haciéndola desolada para que nadie pueda pasar por ella a causa de las bestias,
@@ -61,10 +61,10 @@ O si envío una plaga a esa tierra y derramo mi ira sobre ella a través del der
 tan cierto como que vivo, declara el Señor Dios, aunque Noé, Daniel y Job estuvieran en ella, no podrían salvar a sus hijos o hijas. Sólo se salvarían a sí mismos por su justicia.
 
 ## Ezequiel 14:21
-Porque esto es lo que dice el Señor Dios: ¡Cuánto peor será cuando envíe mis cuatro severos juicios contra Jerusalén—espada, hambre, bestias salvajes y plaga—para eliminar la vida humana y animal!
+Porque esto es lo que dice el Señor Dios: ¡Cuánto peor será cuando envíe mis cuatro severos juicios contra Jerusalén —espada, hambre, bestias salvajes y plaga— para eliminar la vida humana y animal!
 
 ## Ezequiel 14:22
-Sin embargo, habrá algunos sobrevivientes—hijos e hijas que serán sacados. Vendrán a vosotros, y cuando veáis su conducta y acciones, os sentiréis consolados respecto al desastre que he traído sobre Jerusalén—cada desastre que he traído sobre ella.
+Sin embargo, habrá algunos sobrevivientes —hijos e hijas que serán sacados. Vendrán a vosotros, y cuando veáis su conducta y acciones, os sentiréis consolados respecto al desastre que he traído sobre Jerusalén— cada desastre que he traído sobre ella.
 
 ## Ezequiel 14:23
 Os sentiréis consolados cuando veáis su conducta y acciones, porque sabréis que no he hecho nada en ella sin causa, declara el Señor Dios.”

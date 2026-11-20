@@ -46,7 +46,7 @@ No obstante, Amán se contuvo y fue a su casa.
 
 ---
 
-Llamó a sus amigos y a Zeres, su esposa,
+ Llamó a sus amigos y a Zeres, su esposa,
 
 ## Ester 5:11
 

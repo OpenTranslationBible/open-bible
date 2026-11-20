@@ -74,7 +74,7 @@ Sus cuerpos fueron llevados de regreso a Siquem y colocados en la tumba que Abra
 
 ## Hechos 7:18
 
-Hasta que se levantó un nuevo rey sobre Egipto que no conocía a José.
+Entonces se levantó un nuevo rey sobre Egipto que no conocía a José.
 
 ## Hechos 7:19
 
@@ -176,15 +176,15 @@ En ese momento hicieron un ídolo en forma de becerro. Le ofrecieron sacrificios
 
 Pero Dios se apartó de ellos y los entregó a la adoración del sol, la luna y las estrellas. Como está escrito en el libro de los profetas:
 
-> ‘¿Me ofrecieron sacrificios y ofrendas
-> durante cuarenta años en el desierto, casa de Israel?
+>  ‘¿Me ofrecieron sacrificios y ofrendas durante cuarenta años en el desierto,
+>  casa de Israel?
 
 ## Hechos 7:43
 
-> Han tomado el tabernáculo de Moloc
-> y la estrella de su dios Renfán,
-> los ídolos que hicieron para adorar.
-> Por lo tanto, los enviaré al exilio más allá de Babilonia.’
+> Han tomado el tabernáculo de Moloc y la estrella de su dios Renfán,
+>  los ídolos que hicieron para adorar.
+>  Por lo tanto,
+>  los enviaré al exilio más allá de Babilonia.’
 
 ---
 
@@ -211,9 +211,9 @@ No obstante, el Altísimo no reside en estructuras hechas por manos humanas. Com
 ## Hechos 7:49
 
 > ‘El cielo es mi trono,
-> y la tierra es el estrado de mis pies.
-> ¿Qué clase de casa levantarán para mí?’ dice el Señor.
-> ‘¿O dónde estará mi lugar de descanso?
+>  y la tierra es el estrado de mis pies.
+>  ¿Qué clase de casa levantarán para mí?’ dice el Señor.
+>  ‘¿O dónde estará mi lugar de descanso?
 
 ## Hechos 7:50
 

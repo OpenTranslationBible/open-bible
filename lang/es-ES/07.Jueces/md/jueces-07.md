@@ -12,7 +12,7 @@ El Señor dijo a Gedeón: “Tienes demasiada gente contigo para que Yo entregue
 
 Ahora, pues, proclama en oídos del pueblo: ‘Quien tenga miedo y tiemble, que regrese y se retire del monte Galaad.’”
 
-Así que veintidós mil del pueblo regresaron, pero diez mil se quedaron.
+ Así que veintidós mil del pueblo regresaron, pero diez mil se quedaron.
 
 ## Jueces 7:4
 

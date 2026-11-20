@@ -19,26 +19,26 @@ Y oí el número de los que fueron sellados: 144,000, sellados de todas las trib
 ## Apocalipsis 7:5
 
 > Sellados de la tribu de Judá, 12,000,
-> de la tribu de Rubén, 12,000,
-> de la tribu de Gad, 12,000,
+>  de la tribu de Rubén, 12,000,
+>  de la tribu de Gad, 12,000,
 
 ## Apocalipsis 7:6
 
 > sellados de la tribu de Aser, 12,000,
-> de la tribu de Neftalí, 12,000,
-> de la tribu de Manasés, 12,000,
+>  de la tribu de Neftalí, 12,000,
+>  de la tribu de Manasés, 12,000,
 
 ## Apocalipsis 7:7
 
 > sellados de la tribu de Simeón, 12,000,
-> de la tribu de Leví, 12,000,
-> de la tribu de Isacar, 12,000,
+>  de la tribu de Leví, 12,000,
+>  de la tribu de Isacar, 12,000,
 
 ## Apocalipsis 7:8
 
 > de la tribu de Zabulón, 12,000,
-> de la tribu de José, 12,000,
-> y de la tribu de Benjamín, 12,000 fueron sellados.
+>  de la tribu de José, 12,000,
+>  y de la tribu de Benjamín, 12,000 fueron sellados.
 
 ## Apocalipsis 7:9
 
@@ -48,9 +48,9 @@ Después de estos eventos, miré, y había una gran multitud que nadie podía co
 
 Y proclamaban en voz alta,
 
-> “La salvación pertenece a nuestro Dios
-> que está sentado en el trono,
-> y al Cordero.”
+>  “La salvación pertenece a nuestro Dios que está sentado en el trono,
+>  y al Cordero.
+> ”
 
 ## Apocalipsis 7:11
 
@@ -60,12 +60,12 @@ Todos los ángeles estaban de pie alrededor del trono, los ancianos y los cuatro
 
 diciendo,
 
-> “¡Amén!
-> La bendición, la gloria,
-> la sabiduría, la acción de gracias, el honor,
-> el poder y la fuerza
-> sean a nuestro Dios por los siglos de los siglos.
-> Amén.”
+>  “¡Amén!
+>  La bendición, la gloria,
+>  la sabiduría, la acción de gracias, el honor,
+>  el poder y la fuerza sean a nuestro Dios por los siglos de los siglos.
+>  Amén.
+> ”
 
 ## Apocalipsis 7:13
 
@@ -77,17 +77,17 @@ Respondí, “Señor, tú lo sabes.” Y él me dijo: “Estos son los que han s
 
 ## Apocalipsis 7:15
 
-> Por esta razón, están ante el trono de Dios
-> y le sirven día y noche en su templo;
-> y el que está sentado en el trono los protegerá con su presencia.
+> Por esta razón,
+>  están ante el trono de Dios y le sirven día y noche en su templo;
+>  y el que está sentado en el trono los protegerá con su presencia.
 
 ## Apocalipsis 7:16
 
 > Ya no tendrán hambre ni sed,
-> ni el sol caerá sobre ellos, ni ningún calor abrasador;
+>  ni el sol caerá sobre ellos, ni ningún calor abrasador;
 
 ## Apocalipsis 7:17
 
 > porque el Cordero en medio del trono será su pastor,
-> y los guiará a fuentes de agua de vida;
-> y Dios enjugará toda lágrima de sus ojos.”
+>  y los guiará a fuentes de agua de vida;
+>  y Dios enjugará toda lágrima de sus ojos.”

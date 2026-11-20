@@ -24,24 +24,24 @@ vosotros también, como piedras vivas, estáis siendo edificados como casa espir
 
 Porque en la Escritura se dice:
 
-> “He aquí, pongo en Sion una piedra escogida,  
-> una piedra angular preciosa,  
-> Y el que crea en Él  
-> no será avergonzado.”
+>  “He aquí, pongo en Sion una piedra escogida,  
+>  una piedra angular preciosa,  
+>  Y el que crea en Él no será avergonzado.  
+> ”
 
 ## 1 Pedro 2:7
 
 Este precioso valor, entonces, es para vosotros que creéis; pero para los que no creen,
 
-> “Una piedra que los constructores rechazaron,  
-> Esta llegó a ser la piedra angular principal,”
+>  “Una piedra que los constructores rechazaron,  
+>  Esta llegó a ser la piedra angular principal,”
 
 ## 1 Pedro 2:8
 
 y,
 
-> “Una piedra de tropiezo y una roca de ofensa”;  
-> porque tropiezan al ser desobedientes a la palabra, y para esto también fueron destinados.
+>  “Una piedra de tropiezo y una roca de ofensa”;  
+>  porque tropiezan al ser desobedientes a la palabra, y para esto también fueron destinados.
 
 ## 1 Pedro 2:9
 
@@ -98,7 +98,7 @@ Porque para esto fuisteis llamados, porque Cristo también sufrió por vosotros,
 ## 1 Pedro 2:22
 
 > Él que no cometió pecado,  
-> ni se halló engaño en su boca;
+>  ni se halló engaño en su boca;
 
 ## 1 Pedro 2:23
 

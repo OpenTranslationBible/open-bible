@@ -195,11 +195,11 @@ Cuando los capitanes de los carros se dieron cuenta de que no era el rey de Isra
 ## 2 Crónicas 18:33
 
 Ahora un hombre disparó su arco al azar e hirió al rey de Israel en una juntura de la armadura.  
-Así que dijo al conductor del carro: “Da la vuelta y sácame de la batalla, porque estoy gravemente herido.”
+ Así que dijo al conductor del carro: “Da la vuelta y sácame de la batalla, porque estoy gravemente herido.”
 
 ---
 
 ## 2 Crónicas 18:34
 
 La batalla continuó ese día, y el rey de Israel se sostuvo en su carro contra los arameos hasta la tarde;  
-y al atardecer murió.
+ y al atardecer murió.

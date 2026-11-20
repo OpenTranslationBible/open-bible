@@ -66,7 +66,7 @@ Ya no os llamo siervos, porque el siervo no sabe lo que hace su señor. En cambi
 
 ## Juan 15:16
 
-No me elegisteis vosotros a mí, sino que yo os elegí a vosotros y os designé para que vayáis y llevéis fruto—fruto que perdure—para que todo lo que pidáis al Padre en mi nombre, él os lo dé.
+No me elegisteis vosotros a mí, sino que yo os elegí a vosotros y os designé para que vayáis y llevéis fruto —fruto que perdure— para que todo lo que pidáis al Padre en mi nombre, él os lo dé.
 
 ## Juan 15:17
 
@@ -100,7 +100,7 @@ El que me odia, odia también a mi Padre.
 
 ## Juan 15:24
 
-Si no hubiera hecho entre ellos las obras que ningún otro hombre ha hecho, no tendrían pecado; pero ahora que las han visto, odian tanto a mí como a mi Padre.
+Si no hubiera hecho entre ellos las obras que ningún otro hombre ha hecho, no tendrían pecado; pero ahora las han visto, y han odiado tanto a mí como a mi Padre.
 
 ## Juan 15:25
 

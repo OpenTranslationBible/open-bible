@@ -1,10 +1,10 @@
 # Isaías Capítulo 27
 
 ## Isaías 27:1
-En ese día, el Señor castigará a Leviatán, la serpiente veloz, con Su espada feroz, grande y poderosa— Leviatán, la serpiente enroscada; Él matará al dragón del mar.
+En ese día, el Señor castigará a Leviatán, la serpiente veloz, con Su espada feroz, grande y poderosa —Leviatán, la serpiente enroscada; Él matará al dragón del mar—.
 
 ## Isaías 27:2
-En ese día— “Canten sobre una viña deliciosa:
+En ese día —“Canten sobre una viña deliciosa—:
 
 ## Isaías 27:3
 Yo, el Señor, soy su guardián; la riego continuamente. La cuido día y noche para que nadie la dañe.
@@ -22,7 +22,7 @@ En los días venideros, Jacob echará raíces, Israel florecerá y brotará, y l
 ¿Los ha golpeado Él como golpeó a los que los golpearon? ¿O han sido ellos muertos como fueron muertos los que los mataron?
 
 ## Isaías 27:8
-Con guerra y exilio, contendiste con ellos— con Su viento feroz los expulsó, como en el día en que sopla el viento del este.
+Con guerra y exilio, contendiste con ellos —con Su viento feroz los expulsó, como en el día en que sopla el viento del este—.
 
 ## Isaías 27:9
 Por lo tanto, a través de esto, la culpa de Jacob será expiada, y esta será la medida completa de la remoción de su pecado: Cuando haga que todas las piedras del altar sean como tiza triturada, no quedarán en pie postes de Asera ni altares de incienso.

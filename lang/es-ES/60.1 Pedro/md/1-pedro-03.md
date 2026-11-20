@@ -40,21 +40,19 @@ no devolviendo mal por mal ni insulto por insulto, sino, por el contrario, bendi
 
 Porque,
 
-> “El que quiera amar la vida  
-> y ver días buenos,  
-> debe refrenar su lengua del mal  
-> y sus labios de hablar engaño.
+>  “El que quiera amar la vida y ver días buenos,  
+>  debe refrenar su lengua del mal y sus labios de hablar engaño.
 
 ## 1 Pedro 3:11
 
 > Deben apartarse del mal y hacer el bien;  
-> deben buscar la paz y seguirla.
+>  deben buscar la paz y seguirla.
 
 ## 1 Pedro 3:12
 
 > Porque los ojos del Señor están sobre los justos,  
-> y sus oídos atentos a su oración,  
-> pero el rostro del Señor está contra aquellos que hacen el mal.”
+>  y sus oídos atentos a su oración,  
+>  pero el rostro del Señor está contra aquellos que hacen el mal.”
 
 ## 1 Pedro 3:13
 

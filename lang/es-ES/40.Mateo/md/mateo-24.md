@@ -64,7 +64,7 @@ Y este evangelio del reino será proclamado en todo el mundo como testimonio a t
 
 ## Mateo 24:15
 
-“Por tanto, cuando veáis en el lugar santo la abominación desoladora de la que habló el profeta Daniel—el que lea, entienda—
+“Por tanto, cuando veáis en el lugar santo la abominación desoladora de la que habló el profeta Daniel —el que lea, entienda—
 
 ## Mateo 24:16
 
@@ -124,12 +124,12 @@ Dondequiera que esté el cadáver, allí se reunirán los buitres.
 
 ## Mateo 24:29
 
-“Inmediatamente después de la tribulación de aquellos días
+“Inmediatamente después de la tribulación de aquellos días ‘el sol se oscurecerá,
 
-> ‘el sol se oscurecerá,
-> y la luna no dará su luz;
-> las estrellas caerán del cielo,
-> y los cuerpos celestes serán sacudidos.’
+>  y la luna no dará su luz;
+>  las estrellas caerán del cielo,
+>  y los cuerpos celestes serán sacudidos.
+> ’
 
 ## Mateo 24:30
 
@@ -225,4 +225,4 @@ El señor de ese siervo llegará un día en que no lo espera y a una hora que no
 
 ## Mateo 24:51
 
-Lo castigará severamente y le asignará un lugar con los hipócritas, donde habrá llanto y crujir de dientes.
+Lo cortará en pedazos y le asignará un lugar con los hipócritas, donde habrá llanto y crujir de dientes.

@@ -4,7 +4,7 @@
 El mensaje del Señor vino a Jeremías por segunda vez mientras aún estaba confinado en el patio de la guardia, diciendo,
 
 ## Jeremías 33:2
-“Esto es lo que dice el Señor, el que hizo la tierra, el Señor que la formó y la estableció—Su nombre es el Señor:
+“Esto es lo que dice el Señor, el que hizo la tierra, el Señor que la formó y la estableció —Su nombre es el Señor—:
 
 ## Jeremías 33:3
 ‘Llámame y te responderé, y te mostraré cosas grandes e inescrutables que no conoces.’
@@ -61,7 +61,7 @@ El mensaje del Señor vino a Jeremías, diciendo,
 “Esto es lo que dice el Señor: ‘Si puedes romper Mi pacto con el día y Mi pacto con la noche, de modo que el día y la noche no ocurran en sus tiempos señalados,
 
 ## Jeremías 33:21
-entonces Mi pacto con David Mi siervo—y Mi pacto con los levitas que son sacerdotes ministrando delante de Mí—puede ser roto, de modo que David ya no tenga un descendiente que reine en su trono.
+entonces Mi pacto con David Mi siervo —y Mi pacto con los levitas que son sacerdotes ministrando delante de Mí— puede ser roto, de modo que David ya no tenga un descendiente que reine en su trono.
 
 ## Jeremías 33:22
 Haré que los descendientes de David Mi siervo y los levitas que ministran delante de Mí sean tan numerosos como las estrellas en el cielo e incontables como la arena en la orilla del mar.’”

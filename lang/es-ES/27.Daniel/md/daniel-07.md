@@ -58,7 +58,7 @@ Pero los santos del Altísimo recibirán el reino y lo poseerán para siempre, p
 Entonces deseé entender el significado de la cuarta bestia, que era diferente de todas las demás y extremadamente espantosa, con sus dientes de hierro y sus garras de bronce, que devoraba, trituraba y pisoteaba lo que quedaba con sus pies.
 
 ## Daniel 7:20
-También quería saber sobre los diez cuernos en su cabeza y el otro cuerno que surgió, ante el cual cayeron tres—el cuerno que tenía ojos y una boca que hablaba con arrogancia, y que parecía más imponente que los otros.
+También quería saber sobre los diez cuernos en su cabeza y el otro cuerno que surgió, ante el cual cayeron tres —el cuerno que tenía ojos y una boca que hablaba con arrogancia, y que parecía más imponente que los otros—.
 
 ## Daniel 7:21
 Mientras observaba, este cuerno estaba haciendo guerra contra los santos y prevalecía contra ellos,

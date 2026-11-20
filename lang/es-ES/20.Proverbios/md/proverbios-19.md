@@ -106,7 +106,7 @@ El que roba a su padre y echa fuera a su madre es hijo que causa vergüenza y de
 
 ## Proverbios 19:27
 
-Si dejas de escuchar la instrucción, te apartarás de las palabras de conocimiento.
+Si dejas de escuchar la instrucción, hijo mío, te apartarás de las palabras de conocimiento.
 
 ## Proverbios 19:28
 

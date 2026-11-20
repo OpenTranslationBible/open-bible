@@ -58,7 +58,7 @@ No descubrirás la desnudez de la esposa del hermano de tu padre; ella es tu tí
 
 ## Levítico 18:15
 
-No descubrirás la desnudez de tu nuera, ya que ella es la esposa de tu hijo.
+No descubrirás la desnudez de tu nuera, ya que ella es la esposa de tu hijo; no descubrirás su desnudez.
 
 ## Levítico 18:16
 

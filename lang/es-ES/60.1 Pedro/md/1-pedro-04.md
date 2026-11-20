@@ -70,10 +70,9 @@ Porque es tiempo de que el juicio comience por la casa de Dios; y si comienza po
 
 ## 1 Pedro 4:18
 
-Y
+Y Si el justo con dificultad se salva,
 
-> Si el justo con dificultad se salva,
-> ¿en dónde aparecerá el impío y el pecador?
+>  ¿en dónde aparecerá el impío y el pecador?
 
 ## 1 Pedro 4:19
 

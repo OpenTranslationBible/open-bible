@@ -10,7 +10,7 @@ Caiga mi enseñanza como la lluvia, destilen mis palabras como el rocío, como l
 
 ## Deuteronomio 32:3
 
-Porque proclamaré el nombre del Señor; ¡atribuyendo grandeza a nuestro Dios!
+Porque proclamaré el nombre del Señor; ¡atribuid grandeza a nuestro Dios!
 
 ## Deuteronomio 32:4
 
@@ -66,7 +66,7 @@ Lo provocaron a celos con dioses extraños; con actos detestables lo irritaron.
 
 ## Deuteronomio 32:17
 
-Ofrecieron sacrificios a espíritus que no eran dioses, a dioses que no habían conocido, a dioses nuevos que habían aparecido recientemente, a quienes tus antepasados no temieron.
+Ofrecieron sacrificios a demonios que no eran dioses, a dioses que no habían conocido, a dioses nuevos que habían aparecido recientemente, a quienes tus antepasados no temieron.
 
 ## Deuteronomio 32:18
 
@@ -78,7 +78,7 @@ El Señor lo vio y los rechazó, por la provocación de sus hijos e hijas.
 
 ## Deuteronomio 32:20
 
-Y dijo: ‘y así esconderé mi rostro de ellos, veré cuál será su fin; porque son una generación perversa, hijos en quienes no hay fidelidad.
+Y dijo: ‘Esconderé mi rostro de ellos, veré cuál será su fin; porque son una generación perversa, hijos en quienes no hay fidelidad.
 
 ## Deuteronomio 32:21
 
@@ -150,7 +150,7 @@ Entonces dirá de ellos: ‘¿Dónde están sus dioses, su roca en la que buscar
 
 ## Deuteronomio 32:38
 
-que entonces, consumieron la grosura de los sacrificios y bebieron el vino de la ofrenda de libación? Que se levanten y os ayuden, que sean vuestra protección!
+que consumieron la grosura de los sacrificios y bebieron el vino de la ofrenda de libación? ¡Que se levanten y os ayuden, que sean vuestra protección!
 
 ## Deuteronomio 32:39
 
@@ -166,7 +166,7 @@ si afilo mi espada reluciente y mi mano toma el juicio, tomaré venganza de mis 
 
 ## Deuteronomio 32:42
 
-Haré que mis flechas se empapen de sangre, y mi espada consuma carne— con la sangre de los muertos y los cautivos, de las cabezas de cabellera larga del enemigo.’
+Haré que mis flechas se empapen de sangre, y mi espada consuma carne —con la sangre de los muertos y los cautivos, de las cabezas de cabellera larga del enemigo—.’
 
 ## Deuteronomio 32:43
 

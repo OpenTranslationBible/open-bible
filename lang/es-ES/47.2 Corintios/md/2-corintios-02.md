@@ -18,7 +18,7 @@ Porque con mucha angustia y dolor de corazón, os escribí con muchas lágrimas;
 
 ## 2 Corintios 2:5
 
-Pero si alguien ha causado angustia, no me la ha causado a mí, sino hasta cierto punto—para no exagerar—a todos vosotros.
+Pero si alguien ha causado angustia, no me la ha causado a mí, sino hasta cierto punto —para no exagerar— a todos vosotros.
 
 ## 2 Corintios 2:6
 

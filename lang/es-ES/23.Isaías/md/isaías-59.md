@@ -61,4 +61,4 @@ Así que la gente temerá el nombre del Señor desde el occidente, y su gloria d
 “Un Redentor vendrá a Sion, a aquellos en Jacob que se apartan de sus pecados,” declara el Señor.
 
 ## Isaías 59:21
-“En cuanto a mí, este es mi pacto con ellos,” dice el Señor: “Mi Espíritu, que está sobre ti, y mis palabras que he puesto en tu boca no se apartarán de tu boca, ni de la boca de tus hijos, ni de la boca de sus descendientes—desde ahora y para siempre,” dice el Señor.
+“En cuanto a mí, este es mi pacto con ellos,” dice el Señor: “Mi Espíritu, que está sobre ti, y mis palabras que he puesto en tu boca no se apartarán de tu boca, ni de la boca de tus hijos, ni de la boca de sus descendientes —desde ahora y para siempre,” dice el Señor—.

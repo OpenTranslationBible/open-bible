@@ -29,9 +29,9 @@ Aquí está una copia de la carta que Tatenai, el gobernador de la región más 
 ## Esdras 5:7
 
 El informe que enviaron a él fue escrito de la siguiente manera:
-“Al rey Darío:
+ “Al rey Darío:
 
-Toda paz.
+ Toda paz.
 
 ## Esdras 5:8
 

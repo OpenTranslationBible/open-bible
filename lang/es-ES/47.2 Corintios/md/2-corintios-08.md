@@ -26,7 +26,7 @@ Así que animamos a Tito que, como había iniciado esto anteriormente, también 
 
 ## 2 Corintios 8:7
 
-Pero así como sobresalís en todo—en fe, palabra, conocimiento, en toda diligencia, y en el amor que inspiramos en vosotros—aseguraos de que también sobresalís en esta obra de gracia.
+Pero así como sobresalís en todo —en fe, palabra, conocimiento, en toda diligencia, y en el amor que inspiramos en vosotros— aseguraos de que también sobresalís en esta obra de gracia.
 
 ## 2 Corintios 8:8
 

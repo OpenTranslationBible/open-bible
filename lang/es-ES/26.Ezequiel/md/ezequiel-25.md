@@ -36,7 +36,7 @@ por tanto, he aquí, extenderé mi mano contra vosotros y os daré como botín a
 
 ## Ezequiel 25:9
 
-por tanto, he aquí, expondré el flanco de Moab, comenzando con sus ciudades fronterizas—Bet Jesimot, Baal Meón y Quiriataim—la gloria de la tierra.
+por tanto, he aquí, expondré el flanco de Moab, comenzando con sus ciudades fronterizas —Bet Jesimot, Baal Meón y Quiriataim— la gloria de la tierra.
 
 ## Ezequiel 25:10
 

@@ -31,7 +31,7 @@ En ese tiempo tomamos la tierra de los dos reyes de los amorreos que estaban má
 Tomamos todas las ciudades de la meseta, todo Galaad, y todo Basán hasta Salecá y Edrei, ciudades del reino de Og en Basán.
 
 ## Deuteronomio 3:11
-(Og, rey de Basán, era el último de los refaítas. Su cama estaba hecha de hierro y medía más de nueve codos de largo y cuatro codos de ancho. Todavía está en Rabá de los amonitas.)
+(Og, rey de Basán, era el último de los refaítas. Su cama estaba hecha de hierro y medía nueve codos de largo y cuatro codos de ancho. Todavía está en Rabá de los amonitas.)
 
 ## Deuteronomio 3:12
 De la tierra que tomamos en ese tiempo, di a los rubenitas y a los gaditas el territorio al norte de Aroer, junto al Valle de Arnón, incluyendo la mitad de la región montañosa de Galaad, junto con sus ciudades.

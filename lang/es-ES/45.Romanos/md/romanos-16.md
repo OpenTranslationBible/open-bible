@@ -78,7 +78,7 @@ Vuestra obediencia es conocida por todos, y me regocijo por vosotros; pero quier
 
 ## Romanos 16:20
 
-El Dios de paz pronto pondrá a Satanás bajo vuestros pies. La gracia de nuestro Señor Jesús sea con vosotros.
+El Dios de paz pronto aplastará a Satanás bajo vuestros pies. La gracia de nuestro Señor Jesús sea con vosotros.
 
 ## Romanos 16:21
 
@@ -106,4 +106,4 @@ pero ahora revelado y dado a conocer mediante los escritos proféticos por el ma
 
 ## Romanos 16:27
 
-Al único Dios verdadero, sabio y digno de gloria para siempre por medio de Jesucristo. Amén.
+al único sabio Dios sea la gloria para siempre por medio de Jesucristo. Amén.

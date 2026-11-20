@@ -19,7 +19,7 @@ El siervo le preguntó: “¿Y si la mujer no quiere volver conmigo a esta tierr
 “Ten cuidado de no llevar a mi hijo allá,” respondió Abraham.
 
 ## Génesis 24:7
-“El Señor, el Dios del cielo, que me sacó de la casa de mi padre y de mi tierra natal, y que me habló y me juró, diciendo: ‘A tus descendientes daré esta tierra’—Él enviará Su ángel delante de ti, y tomarás una esposa para mi hijo de allí.
+“El Señor, el Dios del cielo, que me sacó de la casa de mi padre y de mi tierra natal, y que me habló y me juró, diciendo: ‘A tus descendientes daré esta tierra’ —Él enviará Su ángel delante de ti, y tomarás una esposa para mi hijo de allí—.
 
 ## Génesis 24:8
 Pero si la mujer no quiere seguirte, quedarás libre de este juramento mío; solo no lleves a mi hijo allá.”
@@ -40,7 +40,7 @@ Y oró: “Señor, Dios de mi señor Abraham, por favor concédeme éxito hoy, y
 Mira, estoy junto al manantial, y las hijas de los habitantes de la ciudad están saliendo a sacar agua.
 
 ## Génesis 24:14
-Que sea la joven a quien yo diga: ‘Por favor, baja tu cántaro para que yo beba,’ y que responda: ‘Bebe, y también daré de beber a tus camellos’—que sea ella la que Tú has designado para Tu siervo Isaac. Por esto sabré que has mostrado bondad a mi señor.”
+Que sea la joven a quien yo diga: ‘Por favor, baja tu cántaro para que yo beba,’ y que responda: ‘Bebe, y también daré de beber a tus camellos’ —que sea ella la que Tú has designado para Tu siervo Isaac. Por esto sabré que has mostrado bondad a mi señor—.”
 
 ## Génesis 24:15
 Antes de que terminara de orar, Rebeca salió con su cántaro sobre su hombro. Era hija de Betuel, hijo de Milca, la esposa del hermano de Abraham, Nacor.
@@ -121,7 +121,7 @@ Entonces pregunté a mi señor, ‘¿Y si la mujer no me sigue?’
 Él respondió, ‘El Señor, ante quien he caminado, enviará Su ángel contigo y hará exitoso tu viaje, para que puedas encontrar una esposa para mi hijo de mi propio clan y de la familia de mi padre.
 
 ## Génesis 24:41
-Quedarás libre de mi juramento si, cuando vayas a mi familia, ellos se niegan a dártela—entonces quedarás libre de mi juramento.’
+Quedarás libre de mi juramento si, cuando vayas a mi familia, ellos se niegan a dártela —entonces quedarás libre de mi juramento—.’
 
 ## Génesis 24:42
 “Cuando llegué hoy al manantial, oré, ‘Señor, Dios de mi señor Abraham, si es Tu voluntad, por favor concede éxito al viaje en el que he venido.

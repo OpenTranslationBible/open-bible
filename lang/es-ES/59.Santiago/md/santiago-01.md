@@ -66,7 +66,7 @@ No se dejen engañar, mis queridos hermanos y hermanas.
 
 ## Santiago 1:17
 
-Todo buen regalo y todo don perfecto viene de lo alto, descendiendo del Padre de las luces celestiales, quien permanece constante e inmutable.
+Todo buen regalo y todo don perfecto viene de lo alto, descendiendo del Padre de las luces celestiales, en quien no hay cambio ni sombra de variación.
 
 ## Santiago 1:18
 

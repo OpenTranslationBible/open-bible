@@ -94,7 +94,7 @@ Lo clavaré como una estaca en un lugar firme; se convertirá en un trono de hon
 
 ## Isaías 22:24
 
-Toda la gloria de su familia colgará de él: su descendencia y sus descendientes—todos sus vasos menores, desde las tazas hasta todas las jarras.
+Toda la gloria de su familia colgará de él: su descendencia y sus descendientes —todos sus vasos menores, desde las tazas hasta todas las jarras—.
 
 ## Isaías 22:25
 

@@ -6,7 +6,7 @@ Y la palabra de Samuel se difundió por todo Israel.
 
 ---
 
-Ahora los israelitas salieron a luchar contra los filisteos. Acamparon en Ebenezer, y los filisteos establecieron su campamento en Afec.
+ Ahora los israelitas salieron a luchar contra los filisteos. Acamparon en Ebenezer, y los filisteos establecieron su campamento en Afec.
 
 ## 1 Samuel 4:2
 
@@ -27,7 +27,7 @@ Cuando el arca del pacto del Señor llegó al campamento, todo Israel lanzó un 
 ## 1 Samuel 4:6
 
 Los filisteos oyeron el ruido del grito y preguntaron: “¿Qué es este gran grito en el campamento hebreo?”  
-Cuando supieron que el arca del Señor había llegado al campamento,
+ Cuando supieron que el arca del Señor había llegado al campamento,
 
 ## 1 Samuel 4:7
 
@@ -60,12 +60,12 @@ Un hombre de la tribu de Benjamín corrió desde la línea de batalla y llegó a
 ## 1 Samuel 4:13
 
 Cuando llegó, Elí estaba sentado en su asiento al lado del camino, mirando, porque su corazón temblaba por el arca de Dios.  
-Cuando el hombre entró en la ciudad y reportó lo que había sucedido, toda la ciudad clamó.
+ Cuando el hombre entró en la ciudad y reportó lo que había sucedido, toda la ciudad clamó.
 
 ## 1 Samuel 4:14
 
 Elí oyó el clamor y preguntó: “¿Cuál es el significado de este alboroto?”  
-El hombre se apresuró a contarle a Elí.
+ El hombre se apresuró a contarle a Elí.
 
 ## 1 Samuel 4:15
 
@@ -73,8 +73,8 @@ Elí tenía noventa y ocho años, y sus ojos eran tan débiles que no podía ver
 
 ## 1 Samuel 4:16
 
-El hombre dijo a Elí, “He venido desde la línea de batalla—hoy he huido de ella.”  
-Elí preguntó, “¿Qué ha sucedido, hijo mío?”
+El hombre dijo a Elí, “He venido desde la línea de batalla —hoy he huido de ella.”  
+ Elí preguntó, “¿Qué ha sucedido, hijo mío—?”
 
 ## 1 Samuel 4:17
 

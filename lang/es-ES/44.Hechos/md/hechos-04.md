@@ -44,10 +44,10 @@ sea conocido por todos vosotros y por todo el pueblo de Israel, que por el nombr
 
 ## Hechos 4:11
 
-Él es
+Él es ‘la piedra que vosotros los constructores rechazasteis,
 
-> ‘la piedra que vosotros los constructores rechazasteis,
-> la cual ha llegado a ser la piedra angular.’
+>  la cual ha llegado a ser la piedra angular.
+> ’
 
 ## Hechos 4:12
 
@@ -109,14 +109,12 @@ Cuando oyeron esto, levantaron unánimes la voz a Dios y dijeron: “Señor Sobe
 
 Hablaste por el Espíritu Santo por boca de tu siervo, nuestro padre David:
 
-> ‘¿Por qué se amotinan las naciones
-> y los pueblos traman cosas vanas?
+>  ‘¿Por qué se amotinan las naciones y los pueblos traman cosas vanas?
 
 ## Hechos 4:26
 
-> Los reyes de la tierra se levantan y los gobernantes se reúnen
-> contra el Señor y
-> contra su Ungido.’
+> Los reyes de la tierra se levantan y los gobernantes se reúnen contra el Señor y contra su Ungido.
+> ’
 
 ## Hechos 4:27
 

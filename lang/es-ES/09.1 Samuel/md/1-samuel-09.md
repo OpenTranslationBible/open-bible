@@ -39,7 +39,7 @@ El siervo respondió de nuevo a Saúl y dijo: “Mira, tengo conmigo un cuarto d
 ## 1 Samuel 9:10
 
 Entonces Saúl dijo a su siervo: “Tu consejo es bueno; ven, vayamos.”  
-Así que fueron a la ciudad donde estaba el hombre de Dios.
+ Así que fueron a la ciudad donde estaba el hombre de Dios.
 
 ---
 
@@ -104,7 +104,7 @@ Y Samuel dijo al cocinero: “Trae la porción que te di, de la cual te dije, �
 ## 1 Samuel 9:24
 
 Así que el cocinero tomó la pierna y lo que había sobre ella y la puso delante de Saúl. Y Samuel dijo: “Mira, lo que ha sido reservado está delante de ti. Come, porque fue guardado para ti hasta el momento señalado, desde que dije, ‘He invitado al pueblo.’”  
-Así que Saúl comió con Samuel aquel día.
+ Así que Saúl comió con Samuel aquel día.
 
 ---
 
@@ -115,8 +115,8 @@ Después de que descendieron del lugar alto a la ciudad, Samuel conversó con Sa
 ## 1 Samuel 9:26
 
 Se levantaron temprano, y al amanecer Samuel llamó a Saúl en la azotea, diciendo: “Levántate, para que pueda enviarte en tu camino.”  
-Así que Saúl se levantó, y ambos, él y Samuel, salieron a la calle.
+ Así que Saúl se levantó, y ambos, él y Samuel, salieron a la calle.
 
 ## 1 Samuel 9:27
 
-Mientras bajaban al borde de la ciudad, Samuel dijo a Saúl: “Dile al siervo que pase delante de nosotros”—y el siervo pasó—“pero tú quédate quieto por un momento, para que pueda declararte la palabra de Dios.”
+Mientras bajaban al borde de la ciudad, Samuel dijo a Saúl: “Dile al siervo que pase delante de nosotros” —y el siervo pasó— “pero tú quédate quieto por un momento, para que pueda declararte la palabra de Dios.”

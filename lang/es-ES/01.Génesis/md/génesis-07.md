@@ -78,11 +78,11 @@ Las aguas prevalecieron grandemente sobre la tierra, y todos los altos montes ba
 
 ## Génesis 7:20
 
-Las aguas subieron y sumergieron los montes a una profundidad de más de quince codos.
+Las aguas subieron y sumergieron los montes a una profundidad de quince codos.
 
 ## Génesis 7:21
 
-Todo ser viviente que se movía sobre la tierra pereció—aves, ganado, animales salvajes, todas las criaturas que se arrastran sobre la tierra, y toda la humanidad.
+Todo ser viviente que se movía sobre la tierra pereció —aves, ganado, animales salvajes, todas las criaturas que se arrastran sobre la tierra, y toda la humanidad—.
 
 ## Génesis 7:22
 

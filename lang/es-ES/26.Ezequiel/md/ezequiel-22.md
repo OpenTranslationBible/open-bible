@@ -110,7 +110,7 @@ Sus oficiales dentro de ella son como lobos que desgarran a su presa; derraman s
 
 ## Ezequiel 22:28
 
-Sus profetas encubren estos actos para ellos con visiones falsas y adivinaciones engañosas. Afirman, ‘Esto es lo que dice el Señor Soberano’—cuando el Señor no ha hablado.
+Sus profetas encubren estos actos para ellos con visiones falsas y adivinaciones engañosas. Afirman, ‘Esto es lo que dice el Señor Soberano’ —cuando el Señor no ha hablado—.
 
 ## Ezequiel 22:29
 

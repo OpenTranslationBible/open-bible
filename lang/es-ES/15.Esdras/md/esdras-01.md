@@ -22,7 +22,7 @@ Y en cualquier lugar donde residan ahora los sobrevivientes, la gente debe apoya
 
 ## Esdras 1:5
 
-Entonces los jefes de las familias de Judá y Benjamín, y los sacerdotes y levitas—todos aquellos cuyo espíritu Dios había movido—se prepararon para subir y construir la casa del Señor en Jerusalén.
+Entonces los jefes de las familias de Judá y Benjamín, y los sacerdotes y levitas —todos aquellos cuyo espíritu Dios había movido— se prepararon para subir y construir la casa del Señor en Jerusalén.
 
 ## Esdras 1:6
 
@@ -40,15 +40,15 @@ Ciro, rey de Persia, los hizo sacar por Mitrídates el tesorero, quien los cont�
 
 Este fue el inventario:
 
-> treinta platos de oro,
-> mil platos de plata,
-> y veintinueve tazones de plata;
+>  treinta platos de oro,
+>  mil platos de plata,
+>  y veintinueve tazones de plata;
 
 ## Esdras 1:10
 
 > treinta tazones de oro,
-> cuatrocientos diez tazones de plata a juego,
-> y mil otros artículos.
+>  cuatrocientos diez tazones de plata a juego,
+>  y mil otros artículos.
 
 ## Esdras 1:11
 

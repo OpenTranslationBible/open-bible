@@ -2,7 +2,7 @@
 
 ## Malaquías 3:1
 
-"He aquí, yo envío mi mensajero delante de ti, el cual preparará tu camino delante de mí. De repente vendrá a su templo el Señor a quien buscáis; el mensajero del pacto, en quien os deleitáis, he aquí, él viene," dice el Señor de los Ejércitos.
+"He aquí, yo envío mi mensajero, el cual preparará el camino delante de mí. De repente vendrá a su templo el Señor a quien buscáis; el mensajero del pacto, en quien os deleitáis, he aquí, él viene," dice el Señor de los Ejércitos.
 
 ## Malaquías 3:2
 

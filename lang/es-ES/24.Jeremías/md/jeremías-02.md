@@ -58,7 +58,7 @@ También, los hombres de Menfis y Tafnes te han causado daño.
 Tu maldad te corregirá, y tus retrocesos te reprenderán. Considera entonces y date cuenta de cuán malo y amargo es para ti abandonar al Señor tu Dios y no tener temor de mí,” declara el Señor, el Dios de los ejércitos.
 
 ## Jeremías 2:20
-“Hace mucho tiempo rompiste tu yugo y arrancaste tus ataduras; dijiste, ‘¡No te serviré!’ De hecho, en toda colina alta y bajo todo árbol frondoso te acostaste como una infiel.
+“Hace mucho tiempo rompiste tu yugo y arrancaste tus ataduras; dijiste, ‘¡No te serviré!’ De hecho, en toda colina alta y bajo todo árbol frondoso te acostaste como una prostituta.
 
 ## Jeremías 2:21
 Te había plantado como una vid escogida, una semilla completamente fiel. ¿Cómo entonces te volviste contra mí en una vid corrupta y salvaje?
@@ -70,13 +70,13 @@ Aunque te laves con lejía y uses mucho jabón, la mancha de tu culpa está aún
 “¿Cómo puedes decir, ‘No estoy contaminada; no he corrido tras los Baales’? Observa tu comportamiento en el valle; considera lo que has hecho. Eres una camella veloz corriendo de aquí para allá,
 
 ## Jeremías 2:24
-una asna salvaje acostumbrada al desierto, olfateando el viento en su deseo— en su celo, ¿quién puede frenarla? Cualquier macho que la persiga no necesita cansarse; en su momento la encontrarán.
+una asna salvaje acostumbrada al desierto, olfateando el viento en su deseo —en su celo, ¿quién puede frenarla? Cualquier macho que la persiga no necesita cansarse; en su momento la encontrarán—.
 
 ## Jeremías 2:25
 No corras hasta que tus pies estén descalzos y tu garganta seca. Pero dijiste, ‘¡Es inútil! Amo a los dioses extranjeros, y debo ir tras ellos.’
 
 ## Jeremías 2:26
-“Como un ladrón es deshonrado cuando es atrapado, así es deshonrada la casa de Israel— ellos, sus reyes, sus oficiales, sus sacerdotes y sus profetas.
+“Como un ladrón es deshonrado cuando es atrapado, así es deshonrada la casa de Israel —ellos, sus reyes, sus oficiales, sus sacerdotes y sus profetas—.
 
 ## Jeremías 2:27
 Hablan a la madera, ‘Tú eres mi padre,’ y a la piedra, ‘Tú me diste a luz.’ Me han dado la espalda y no su rostro; sin embargo, cuando están en problemas, claman, ‘¡Ven y sálvanos!’

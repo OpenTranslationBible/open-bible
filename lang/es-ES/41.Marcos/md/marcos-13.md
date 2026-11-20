@@ -60,7 +60,7 @@ Seréis odiados por todos a causa de mi nombre, pero el que persevere hasta el f
 
 ## Marcos 13:14
 
-“Cuando veáis ‘la abominación que causa desolación’ de pie donde no debe—que el lector entienda—entonces los que estén en Judea huyan a las montañas.
+“Cuando veáis ‘la abominación que causa desolación’ de pie donde no debe —que el lector entienda— entonces los que estén en Judea huyan a las montañas.
 
 ## Marcos 13:15
 
@@ -106,13 +106,13 @@ Así que estad atentos; os he advertido de todo.
 
 “Pero en esos días, después de esa tribulación,
 
-> el sol se oscurecerá,
-> y la luna no dará su luz;
+>  el sol se oscurecerá,
+>  y la luna no dará su luz;
 
 ## Marcos 13:25
 
 > las estrellas caerán del cielo,
-> y los poderes celestiales serán sacudidos.
+>  y los poderes celestiales serán sacudidos.
 
 ## Marcos 13:26
 
@@ -144,7 +144,7 @@ Aunque el cielo y la tierra pasen, mis palabras no pasarán.
 
 ## Marcos 13:32
 
-Pero en cuanto a ese día u hora, nadie sabe—ni los ángeles en el cielo, ni el Hijo, sino solo el Padre.
+Pero en cuanto a ese día u hora, nadie sabe —ni los ángeles en el cielo, ni el Hijo, sino solo el Padre—.
 
 ## Marcos 13:33
 
@@ -156,7 +156,7 @@ Es como un hombre que se va de viaje, que deja su casa y pone a sus siervos a ca
 
 ## Marcos 13:35
 
-Por lo tanto, vigilad, porque no sabéis cuándo regresará el dueño de la casa—si al atardecer, a medianoche, cuando cante el gallo, o al amanecer.
+Por lo tanto, vigilad, porque no sabéis cuándo regresará el dueño de la casa —si al atardecer, a medianoche, cuando cante el gallo, o al amanecer—.
 
 ## Marcos 13:36
 

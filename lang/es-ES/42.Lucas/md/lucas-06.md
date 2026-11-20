@@ -88,22 +88,22 @@ y todos intentaban tocarlo, porque de Él salía poder y sanaba a todos.
 
 Volviéndose hacia Sus discípulos, dijo:
 
-> “Bienaventurados vosotros los pobres,
-> porque vuestro es el reino de Dios.
+>  “Bienaventurados vosotros los pobres,
+>  porque vuestro es el reino de Dios.
 
 ## Lucas 6:21
 
 > Bienaventurados los que ahora tenéis hambre,
-> porque seréis saciados.
-> Bienaventurados los que ahora lloráis,
-> porque encontraréis gozo.
+>  porque seréis saciados.
+>  Bienaventurados los que ahora lloráis,
+>  porque reiréis.
 
 ## Lucas 6:22
 
 > Bienaventurados sois cuando los hombres os odien,
-> os excluyan, os insulten,
-> y desprecien vuestro nombre como malo,
-> por causa del Hijo del Hombre.
+>  os excluyan, os insulten,
+>  y desprecien vuestro nombre como malo,
+>  por causa del Hijo del Hombre.
 
 ## Lucas 6:23
 
@@ -114,19 +114,19 @@ Regocijaos en ese día y saltad de alegría, porque he aquí, vuestra recompensa
 ## Lucas 6:24
 
 > Pero ¡ay de vosotros los ricos,
-> porque ya habéis recibido vuestro consuelo!
+>  porque ya habéis recibido vuestro consuelo!
 
 ## Lucas 6:25
 
 > ¡Ay de vosotros los que ahora estáis saciados,
-> porque tendréis hambre!
-> ¡Ay de vosotros los que ahora reís,
-> porque lamentaréis y lloraréis!
+>  porque tendréis hambre!
+>  ¡Ay de vosotros los que ahora reís,
+>  porque lamentaréis y lloraréis!
 
 ## Lucas 6:26
 
 > ¡Ay de vosotros cuando todos hablen bien de vosotros,
-> porque así trataron sus antepasados a los falsos profetas!
+>  porque así trataron sus antepasados a los falsos profetas!
 
 ---
 

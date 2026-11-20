@@ -2,7 +2,7 @@
 
 ## Josué 9:1
 
-Cuando todos los reyes al otro lado del Jordán oyeron de estos eventos—en la región montañosa, la llanura, y a lo largo de toda la costa del Gran Mar hacia el Líbano, incluyendo a los reyes de los hititas, amorreos, cananeos, ferezeos, heveos y jebuseos—
+Cuando todos los reyes al otro lado del Jordán oyeron de estos eventos —en la región montañosa, la llanura, y a lo largo de toda la costa del Gran Mar hacia el Líbano, incluyendo a los reyes de los hititas, amorreos, cananeos, ferezeos, heveos y jebuseos—
 
 ## Josué 9:2
 

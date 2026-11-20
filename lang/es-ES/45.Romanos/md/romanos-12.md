@@ -80,9 +80,9 @@ No toméis venganza, mis queridos amigos, sino dejad lugar a la ira de Dios, por
 
 En cambio,
 
-> si tu enemigo tiene hambre, dale de comer;
-> si tiene sed, ofrécele algo de beber.
-> Al hacer esto, amontonarás brasas ardientes sobre su cabeza.
+>  si tu enemigo tiene hambre, dale de comer;
+>  si tiene sed, ofrécele algo de beber.
+>  Al hacer esto, amontonarás brasas ardientes sobre su cabeza.
 
 ## Romanos 12:21
 

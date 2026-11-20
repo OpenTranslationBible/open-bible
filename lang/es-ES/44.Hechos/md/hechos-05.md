@@ -88,7 +88,7 @@ Pero durante la noche, un ángel del Señor abrió las puertas de la prisión y 
 
 ## Hechos 5:21
 
-Al amanecer, entraron en los atrios del templo y comenzaron a enseñar. Cuando el sumo sacerdote y sus asociados llegaron, convocaron al Sanedrín—la asamblea completa de los ancianos de Israel—y enviaron a la prisión por los apóstoles.
+Al amanecer, entraron en los atrios del templo y comenzaron a enseñar. Cuando el sumo sacerdote y sus asociados llegaron, convocaron al Sanedrín —la asamblea completa de los ancianos de Israel— y enviaron a la prisión por los apóstoles.
 
 ## Hechos 5:22
 

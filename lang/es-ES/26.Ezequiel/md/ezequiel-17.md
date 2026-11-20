@@ -43,7 +43,7 @@ Tomó a un miembro de la familia real e hizo un pacto con él, poniéndolo bajo 
 para que el reino fuera humillado, no exaltándose a sí mismo, sino manteniendo el pacto para sobrevivir.
 
 ## Ezequiel 17:15
-Pero se rebeló contra él enviando a sus enviados a Egipto por caballos y un gran ejército. ¿Tendrá éxito? ¿Puede romper el pacto y escapar?
+Pero se rebeló contra él enviando a sus enviados a Egipto por caballos y un gran ejército. ¿Tendrá éxito? ¿Escapará el que hace tales cosas? ¿Puede romper el pacto y escapar?
 
 ## Ezequiel 17:16
 Tan cierto como que yo vivo, declara el Señor Soberano, morirá en Babilonia, en la tierra del rey que lo puso en el trono, cuyo juramento despreció y cuyo pacto rompió.

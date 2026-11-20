@@ -55,7 +55,7 @@ Los caldeos rompieron las columnas de bronce, las bases y el mar de bronce que e
 También se llevaron las ollas, palas, despabiladeras, tazones, cucharones y todos los utensilios de bronce utilizados en el servicio del templo.
 
 ## Jeremías 52:19
-El capitán de la guardia tomó los tazones, braseros, tazones, ollas, candelabros, cucharones y tazones para libaciones—todo lo que estaba hecho de oro fino o plata.
+El capitán de la guardia tomó los tazones, braseros, tazones, ollas, candelabros, cucharones y tazones para libaciones —todo lo que estaba hecho de oro fino o plata—.
 
 ## Jeremías 52:20
 El bronce de las dos columnas, el mar, los doce toros de bronce debajo de él y las bases, que el rey Salomón había hecho para la casa del Señor, era incalculable.

@@ -54,7 +54,7 @@ Solo reconoce tu culpa: que te has rebelado contra el Señor tu Dios, has esparc
 
 ## Jeremías 3:14
 
-“Vuelvan, pueblo infiel,” declara el Señor, “porque yo soy su amo. Los tomaré—a uno de una ciudad y a dos de una familia—y los llevaré a Sion.
+“Vuelvan, pueblo infiel,” declara el Señor, “porque yo soy su amo. Los tomaré —a uno de una ciudad y a dos de una familia— y los llevaré a Sion.
 
 ## Jeremías 3:15
 
@@ -94,7 +94,7 @@ Ciertamente el alboroto en las colinas y montañas es un engaño; verdaderamente
 
 ## Jeremías 3:24
 
-Desde nuestra juventud, dioses vergonzosos han consumido los frutos del trabajo de nuestros antepasados—sus rebaños y manadas, sus hijos e hijas.
+Desde nuestra juventud, dioses vergonzosos han consumido los frutos del trabajo de nuestros antepasados —sus rebaños y manadas, sus hijos e hijas—.
 
 ## Jeremías 3:25
 

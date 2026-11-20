@@ -2,7 +2,7 @@
 
 ## Romanos 1:1
 
-Pablo, un seguidor devoto de Cristo Jesús, designado como apóstol, destinado al evangelio de Dios—
+Pablo, siervo de Cristo Jesús, designado como apóstol, destinado al evangelio de Dios—
 
 ## Romanos 1:2
 
@@ -84,7 +84,7 @@ porque lo que se conoce acerca de Dios es evidente para ellos, pues Dios se lo h
 
 ## Romanos 1:20
 
-Porque desde la creación del mundo, las cualidades invisibles de Dios—su eterno poder y naturaleza divina—se han percibido claramente, siendo entendidas a partir de lo que ha sido hecho, de modo que las personas no tienen excusa.
+Porque desde la creación del mundo, las cualidades invisibles de Dios —su eterno poder y naturaleza divina— se han percibido claramente, siendo entendidas a partir de lo que ha sido hecho, de modo que las personas no tienen excusa.
 
 ## Romanos 1:21
 
@@ -106,7 +106,7 @@ Por lo tanto, Dios los entregó en los deseos pecaminosos de sus corazones a la 
 
 ## Romanos 1:25
 
-Cambiaron la verdad de Dios por una mentira, y adoraron y sirvieron a las cosas creadas en lugar del Creador—quien es bendito por siempre. Amén.
+Cambiaron la verdad de Dios por una mentira, y adoraron y sirvieron a las cosas creadas en lugar del Creador —quien es bendito por siempre. Amén—.
 
 ---
 

@@ -46,7 +46,7 @@ Así dice el Señor: “Cantad con alegría por Jacob; gritad por la principal d
 
 ## Jeremías 31:12
 
-“Vendrán y gritarán de alegría en las alturas de Sion; resplandecerán por la abundancia del Señor—por el grano, el vino nuevo y el aceite, y por las crías de los rebaños y manadas. Su vida será como un jardín bien regado, y nunca más languidecerán.”
+“Vendrán y gritarán de alegría en las alturas de Sion; resplandecerán por la abundancia del Señor —por el grano, el vino nuevo y el aceite, y por las crías de los rebaños y manadas. Su vida será como un jardín bien regado, y nunca más languidecerán—.”
 
 ## Jeremías 31:13
 
@@ -86,7 +86,7 @@ Así dice el Señor: “Detén tu voz del llanto y tus ojos de las lágrimas, po
 
 ## Jeremías 31:22
 
-“¿Hasta cuándo vagarás, hija infiel de Israel? Porque el Señor ha creado algo nuevo en la tierra—una mujer protegerá a un hombre.”
+“¿Hasta cuándo vagarás, hija infiel de Israel? Porque el Señor ha creado algo nuevo en la tierra —una mujer protegerá a un hombre—.”
 
 ## Jeremías 31:23
 
@@ -94,7 +94,7 @@ Así dice el Señor Todopoderoso, el Dios de Israel: “Cuando restaure su fortu
 
 ## Jeremías 31:24
 
-“Los habitantes de Judá y todas sus ciudades vivirán juntos—agricultores y los que se mueven con sus rebaños.”
+“Los habitantes de Judá y todas sus ciudades vivirán juntos —agricultores y los que se mueven con sus rebaños—.”
 
 ## Jeremías 31:25
 
@@ -118,7 +118,7 @@ En este punto, me desperté y miré alrededor, y mi sueño me había sido placen
 
 ## Jeremías 31:30
 
-“En cambio, cada persona morirá por su propio pecado; quien coma uvas agrias—sus propios dientes tendrán dentera.”
+“En cambio, cada persona morirá por su propio pecado; quien coma uvas agrias —sus propios dientes tendrán dentera—.”
 
 ## Jeremías 31:31
 
@@ -138,7 +138,7 @@ En este punto, me desperté y miré alrededor, y mi sueño me había sido placen
 
 ## Jeremías 31:35
 
-Así dice el Señor, el que pone el sol para que brille de día, quien decreta que la luna y las estrellas brillen de noche, quien agita el mar para que sus olas bramen—el Señor Todopoderoso es su nombre:
+Así dice el Señor, el que pone el sol para que brille de día, quien decreta que la luna y las estrellas brillen de noche, quien agita el mar para que sus olas bramen —el Señor Todopoderoso es su nombre—:
 
 ## Jeremías 31:36
 

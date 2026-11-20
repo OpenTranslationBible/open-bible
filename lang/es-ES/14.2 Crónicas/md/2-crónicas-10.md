@@ -94,12 +94,12 @@ Así que el rey no escuchó al pueblo, porque fue un giro de los acontecimientos
 
 Cuando todo Israel vio que el rey no los había escuchado, el pueblo respondió al rey, diciendo,
 
-> “¿Qué parte tenemos en David?  
-> No tenemos herencia en el hijo de Isaí.  
-> ¡A tus tiendas, Israel!  
-> ¡Ahora cuida de tu propia casa, David!”
+>  “¿Qué parte tenemos en David?  
+>  No tenemos herencia en el hijo de Isaí.  
+>  ¡A tus tiendas, Israel!  
+>  ¡Ahora cuida de tu propia casa, David!”
 
-Así que todo Israel se fue a sus tiendas.
+ Así que todo Israel se fue a sus tiendas.
 
 ---
 

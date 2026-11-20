@@ -50,7 +50,7 @@ no por obras sino por Aquel que llama, se le dijo: “El mayor servirá al menor
 
 ## Romanos 9:13
 
-Como está expresado en las Escrituras: “A Jacob amé, pero a Esaú no favorecí.”
+Como está expresado en las Escrituras: “A Jacob amé, pero a Esaú aborrecí.”
 
 ## Romanos 9:14
 
@@ -60,8 +60,8 @@ Como está expresado en las Escrituras: “A Jacob amé, pero a Esaú no favorec
 
 Porque Él declaró a Moisés,
 
-> “Tendré misericordia de quien yo elija tener misericordia,
-> y tendré compasión de quien yo elija tener compasión.”
+>  “Tendré misericordia de quien yo elija tener misericordia,
+>  y tendré compasión de quien yo elija tener compasión.”
 
 ## Romanos 9:16
 
@@ -103,35 +103,35 @@ incluyéndonos a nosotros, a quienes también llamó, no solo de los judíos sin
 
 Como dice en Oseas:
 
-> “Llamaré ‘mi pueblo’ a los que no eran mi pueblo,
-> y llamaré ‘mi amada’ a la que no era mi amada,”
+>  “Llamaré ‘mi pueblo’ a los que no eran mi pueblo,
+>  y llamaré ‘mi amada’ a la que no era mi amada,”
 
 ## Romanos 9:26
 
 > y, “Sucederá que en el lugar donde se les dijo,
-> ‘No sois mi pueblo,’
-> allí serán llamados ‘hijos del Dios viviente.’”
+>  ‘No sois mi pueblo,’
+>  allí serán llamados ‘hijos del Dios viviente.’”
 
 ## Romanos 9:27
 
 Isaías declara respecto a Israel:
 
-> “Aunque el número de los israelitas sea como la arena del mar,
-> solo el remanente será salvo.
+>  “Aunque el número de los israelitas sea como la arena del mar,
+>  solo el remanente será salvo.
 
 ## Romanos 9:28
 
 > Porque el Señor llevará a cabo su palabra en la tierra,
-> completamente y rápidamente.”
+>  completamente y rápidamente.”
 
 ## Romanos 9:29
 
 Y tal como dijo Isaías anteriormente:
 
-> “Si el Señor Todopoderoso
-> no nos hubiera dejado descendientes,
-> habríamos llegado a ser como Sodoma,
-> y habríamos sido como Gomorra.”
+>  “Si el Señor Todopoderoso no nos hubiera dejado descendientes,
+>  habríamos llegado a ser como Sodoma,
+>  y habríamos sido como Gomorra.
+> ”
 
 ## Romanos 9:30
 
@@ -149,6 +149,6 @@ pero Israel, en busca de una ley de justicia, no alcanzó esa ley.
 
 como dice la Escritura:
 
-> “Miren, pongo en Sion una piedra que hace tropezar a la gente
-> y una roca que los hace caer,
-> y el que cree en Él nunca será avergonzado.”
+>  “Miren, pongo en Sion una piedra que hace tropezar a la gente y una roca que los hace caer,
+>  y el que cree en Él nunca será avergonzado.
+> ”

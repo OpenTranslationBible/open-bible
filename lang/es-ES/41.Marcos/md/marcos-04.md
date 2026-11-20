@@ -50,9 +50,9 @@ Cuando estaba solo, los que estaban alrededor de Él, junto con los Doce, le pre
 
 para que,
 
-> ‘miren pero no perciban,
-> y oigan pero no entiendan;
-> de lo contrario se convertirían y serían perdonados.’”
+>  ‘miren pero no perciban,
+>  y oigan pero no entiendan;
+>  de lo contrario se convertirían y serían perdonados.’”
 
 ---
 
@@ -66,7 +66,7 @@ El sembrador siembra la palabra.
 
 ## Marcos 4:15
 
-Algunos son como la semilla junto al camino donde se siembra la palabra. Tan pronto como la oyen, el adversario viene y se lleva la palabra sembrada en ellos.
+Algunos son como la semilla junto al camino donde se siembra la palabra. Tan pronto como la oyen, Satanás viene y se lleva la palabra sembrada en ellos.
 
 ## Marcos 4:16
 
@@ -86,7 +86,7 @@ pero las preocupaciones del mundo, el engaño de las riquezas y los deseos de ot
 
 ## Marcos 4:20
 
-Pero otros son como la semilla sembrada en buena tierra; oyen la palabra, la aceptan y dan fruto—treinta, sesenta y hasta cien veces más.”
+Pero otros son como la semilla sembrada en buena tierra; oyen la palabra, la aceptan y dan fruto —treinta, sesenta y hasta cien veces más—.”
 
 ---
 

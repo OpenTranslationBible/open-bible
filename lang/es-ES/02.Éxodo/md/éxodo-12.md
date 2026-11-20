@@ -34,7 +34,7 @@ Consumirán la carne esa misma noche, asada al fuego, y la comerán con pan sin 
 
 ## Éxodo 12:9
 
-No comeréis nada de él crudo ni cocido en agua, sino asado al fuego—su cabeza, sus patas y sus entrañas.
+No comeréis nada de él crudo ni cocido en agua, sino asado al fuego —su cabeza, sus patas y sus entrañas—.
 
 ## Éxodo 12:10
 
@@ -42,11 +42,11 @@ Y no dejaréis nada de él hasta la mañana, pero lo que quede hasta la mañana,
 
 ## Éxodo 12:11
 
-Ahora lo comeréis de esta manera: con vuestro cinturón ceñido, vuestras sandalias en los pies y vuestro bastón en la mano. Lo comeréis apresuradamente—es la Pascua del Señor.
+Ahora lo comeréis de esta manera: con vuestro cinturón ceñido, vuestras sandalias en los pies y vuestro bastón en la mano. Lo comeréis apresuradamente —es la Pascua del Señor—.
 
 ## Éxodo 12:12
 
-Porque pasaré por la tierra de Egipto esa noche, y heriré a todo primogénito en la tierra de Egipto, tanto de hombre como de animal; y ejecutaré juicios contra todos los dioses de Egipto—yo soy el Señor.
+Porque pasaré por la tierra de Egipto esa noche, y heriré a todo primogénito en la tierra de Egipto, tanto de hombre como de animal; y ejecutaré juicios contra todos los dioses de Egipto —yo soy el Señor—.
 
 ## Éxodo 12:13
 
@@ -62,7 +62,7 @@ Durante siete días comeréis pan sin levadura, pero el primer día quitaréis l
 
 ## Éxodo 12:16
 
-El primer día tendréis una asamblea santa, y otra asamblea santa el séptimo día; no se hará ningún trabajo en ellos, excepto lo que cada persona deba comer—eso solo podréis preparar.
+El primer día tendréis una asamblea santa, y otra asamblea santa el séptimo día; no se hará ningún trabajo en ellos, excepto lo que cada persona deba comer —eso solo podréis preparar—.
 
 ## Éxodo 12:17
 

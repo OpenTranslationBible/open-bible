@@ -3,7 +3,7 @@
 ## 2 Corintios 1:1
 
 De Pablo, apóstol de Cristo Jesús por la voluntad de Dios, y Timoteo nuestro hermano,  
-A la iglesia de Dios en Corinto, junto con todos los santos en toda Acaya:
+ A la iglesia de Dios en Corinto, junto con todos los santos en toda Acaya:
 
 ## 2 Corintios 1:2
 
@@ -75,7 +75,7 @@ Pero así como Dios es fiel, nuestro mensaje para vosotros no es una mezcla de �
 
 ## 2 Corintios 1:19
 
-Porque el Hijo de Dios, Cristo Jesús, que fue proclamado entre vosotros por nosotros—por mí, Silvano y Timoteo—no fue una mezcla de “Sí y no”, sino que siempre ha sido “Sí” en Él.
+Porque el Hijo de Dios, Cristo Jesús, que fue proclamado entre vosotros por nosotros —por mí, Silvano y Timoteo— no fue una mezcla de “Sí y no”, sino que siempre ha sido “Sí” en Él.
 
 ## 2 Corintios 1:20
 

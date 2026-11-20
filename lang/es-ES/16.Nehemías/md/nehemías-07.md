@@ -162,7 +162,7 @@ acompañando a Zorobabel, Jesúa, Nehemías, Azarías, Reamías, Nahamani, Mardo
 
 Los sacerdotes:
 
-> la línea de Jedaías, de la casa de Jesúa, numerada en 973;
+>  la línea de Jedaías, de la casa de Jesúa, numerada en 973;
 
 ## Nehemías 7:40
 
@@ -182,21 +182,21 @@ Los sacerdotes:
 
 Los levitas:
 
-> la línea de Jesúa, a través de Cadmiel, a través de la línea de Hodavías, numerada en 74.
+>  la línea de Jesúa, a través de Cadmiel, a través de la línea de Hodavías, numerada en 74.
 
 ## Nehemías 7:44
 
 Los cantores:
 
-> la línea de Asaf, numerada en 148.
+>  la línea de Asaf, numerada en 148.
 
 ## Nehemías 7:45
 
 Los porteros:
 
-> la línea de
-> Salum, Ater, Talmón, Acub,
-> Hatita y Sobai, numerada en 138.
+>  la línea de Salum,
+>  Ater, Talmón, Acub,
+>  Hatita y Sobai, numerada en 138.
 
 ---
 
@@ -204,7 +204,7 @@ Los porteros:
 
 Los sirvientes del templo:
 
-la línea de Ziha, Hasufa, Tabaot,
+ la línea de Ziha, Hasufa, Tabaot,
 
 ## Nehemías 7:47
 
@@ -228,7 +228,7 @@ la línea de Ziha, Hasufa, Tabaot,
 
 ## Nehemías 7:52
 
-> la línea de Besai, Meunim y el sirviente del templo Nefusim,
+> la línea de Besai, Meunim y Nefusim,
 
 ## Nehemías 7:53
 
@@ -250,7 +250,7 @@ la línea de Ziha, Hasufa, Tabaot,
 
 Los descendientes de los sirvientes de Salomón:
 
-los descendientes de Sotai, Soferet y Perida,
+ los descendientes de Sotai, Soferet y Perida,
 
 ## Nehemías 7:58
 
@@ -258,7 +258,7 @@ los descendientes de Jaala, Darkón y Gidel,
 
 ## Nehemías 7:59
 
-los descendientes de Sefatías, Hatil, Poqueret-Hazebaim y el sirviente del templo Amón.
+los descendientes de Sefatías, Hatil, Poqueret-Hazebaim y Amón.
 
 ## Nehemías 7:60
 

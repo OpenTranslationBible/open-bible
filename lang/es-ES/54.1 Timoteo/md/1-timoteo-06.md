@@ -58,7 +58,7 @@ que guardes el mandamiento sin mancha ni reproche hasta la aparición de nuestro
 
 ## 1 Timoteo 6:15
 
-la cual Él revelará en el tiempo señalado—Él que es el bendito y único Soberano, el Rey de reyes y Señor de señores,
+la cual Él revelará en el tiempo señalado —Él que es el bendito y único Soberano, el Rey de reyes y Señor de señores,—
 
 ## 1 Timoteo 6:16
 
@@ -83,4 +83,4 @@ Timoteo, guarda lo que se te ha confiado, evitando la charla mundana y vacía y 
 ## 1 Timoteo 6:21
 
 que algunos han profesado y como resultado se han desviado de la fe.  
-Que la gracia sea contigo.
+ Que la gracia sea contigo.

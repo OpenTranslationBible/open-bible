@@ -82,7 +82,7 @@ Y alguien se le acercó y le preguntó: “Maestro, ¿qué cosa buena debo hacer
 
 ## Mateo 19:19
 
-respeta a tu padre y a tu madre, y cuida de tu prójimo como de ti mismo.”
+honra a tu padre y a tu madre, y ama a tu prójimo como a ti mismo.”
 
 ## Mateo 19:20
 

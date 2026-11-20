@@ -28,7 +28,7 @@ piedras de ónice y otras gemas para engastar en el efod y el pectoral.
 Haz el tabernáculo y todos sus muebles exactamente como el modelo que te mostraré.
 
 ## Éxodo 25:10
-“Harán un arca de madera de acacia—dos codos y medio de largo, un codo y medio de ancho, y un codo y medio de alto.
+“Harán un arca de madera de acacia —dos codos y medio de largo, un codo y medio de ancho, y un codo y medio de alto—.
 
 ## Éxodo 25:11
 Recúbrela con oro puro, por dentro y por fuera, y haz un borde de oro alrededor de ella.
@@ -49,7 +49,7 @@ Las varas deben permanecer en los anillos del arca; no deben ser retiradas.
 Luego coloca en el arca las tablas de la ley del pacto, que te daré.
 
 ## Éxodo 25:17
-“Haz una cubierta de oro puro para la expiación—dos codos y medio de largo y un codo y medio de ancho.
+“Haz una cubierta de oro puro para la expiación —dos codos y medio de largo y un codo y medio de ancho—.
 
 ## Éxodo 25:18
 Haz dos querubines de oro; hazlos de obra martillada en los dos extremos de la cubierta.
@@ -67,7 +67,7 @@ Coloca la cubierta sobre el arca y pon dentro del arca las tablas de la ley del 
 En ese lugar, sobre la cubierta y entre los dos querubines que están posicionados sobre el arca de la ley del pacto, me encontraré contigo y te impartiré todas mis instrucciones para los israelitas.
 
 ## Éxodo 25:23
-“Construye una mesa de madera de acacia—dos codos de largo, un codo de ancho, y un codo y medio de alto.
+“Construye una mesa de madera de acacia —dos codos de largo, un codo de ancho, y un codo y medio de alto—.
 
 ## Éxodo 25:24
 Recúbrela con oro puro y crea un borde de oro alrededor de ella.
@@ -94,7 +94,7 @@ Coloca el pan de la Presencia sobre esta mesa para que esté delante de mí en t
 “Crea un candelabro de oro puro. El candelabro, su base y su asta, deben ser de obra martillada; sus copas en forma de flor, capullos y flores deben ser de una sola pieza con él.
 
 ## Éxodo 25:32
-Seis brazos deben extenderse de sus lados—tres de un lado y tres del otro.
+Seis brazos deben extenderse de sus lados —tres de un lado y tres del otro—.
 
 ## Éxodo 25:33
 Cada brazo debe tener tres copas en forma de flores de almendro con capullos y flores, y este diseño debe ser consistente para los seis brazos que se extienden del candelabro.
@@ -103,7 +103,7 @@ Cada brazo debe tener tres copas en forma de flores de almendro con capullos y f
 El candelabro mismo debe tener cuatro copas en forma de flores de almendro con capullos y flores.
 
 ## Éxodo 25:35
-Un capullo debe estar posicionado bajo el primer par de brazos que se extienden del candelabro, otro capullo bajo el segundo par, y un tercer capullo bajo el tercer par—haciendo seis brazos en total.
+Un capullo debe estar posicionado bajo el primer par de brazos que se extienden del candelabro, otro capullo bajo el segundo par, y un tercer capullo bajo el tercer par —haciendo seis brazos en total—.
 
 ## Éxodo 25:36
 Los capullos y los brazos deben ser de una sola pieza con el candelabro, hecho de oro puro.

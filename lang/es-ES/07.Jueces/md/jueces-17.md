@@ -6,7 +6,7 @@ Había un hombre llamado Micaía de la región montañosa de Efraín.
 
 ## Jueces 17:2
 
-Él dijo a su madre: “Los mil cien siclos de plata que te fueron robados, sobre los cuales pronunciaste una maldición y hablaste en mi oído, mira, yo tengo la plata; yo la tomé.” Su madre respondió: “Bendito sea mi hijo por el Señor.”
+Él dijo a su madre: “Los mil cien siclos de plata que te robaron, por los que pronunciaste una maldición que yo mismo oí, mira, yo tengo la plata; yo la tomé.” Su madre respondió: “¡Que el Señor te bendiga, hijo mío!”
 
 ## Jueces 17:3
 

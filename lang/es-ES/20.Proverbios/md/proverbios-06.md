@@ -12,7 +12,7 @@ te has enredado con las palabras de tu boca, atrapado por lo que has dicho.
 
 Así que haz esto, hijo mío, para salvarte, ya que has caído en manos de tu vecino:
 
-> Ve, humíllate, y sé urgente con tu vecino para liberarte.
+>  Ve, humíllate, y sé urgente con tu vecino para liberarte.
 
 ## Proverbios 6:4
 
@@ -22,7 +22,7 @@ No permitas que tus ojos duerman, ni que tus párpados se adormezcan;
 
 Sálvate como una gacela de la mano del cazador,
 
-> y como un pájaro de la trampa del cazador.
+>  y como un pájaro de la trampa del cazador.
 
 ---
 
@@ -46,7 +46,7 @@ sin embargo, prepara su comida en el verano y recoge su provisión en la cosecha
 
 Un breve sueño, un pequeño adormecimiento,
 
-> un ligero cruce de manos para descansar—
+>  un ligero cruce de manos para descansar—
 
 ## Proverbios 6:11
 
@@ -64,9 +64,7 @@ que guiña con los ojos, señala con los pies, y apunta con los dedos,
 
 ## Proverbios 6:14
 
-que trama el mal con engaño en su corazón—
-
-> continuamente siembra discordia.
+que trama el mal con engaño en su corazón —continuamente siembra discordia—.
 
 ## Proverbios 6:15
 
@@ -81,17 +79,17 @@ Hay seis cosas que el Señor odia, siete que son una abominación para Él:
 ## Proverbios 6:17
 
 > ojos altivos, una lengua engañosa,
-> y manos que derraman sangre inocente,
+>  y manos que derraman sangre inocente,
 
 ## Proverbios 6:18
 
 > un corazón que trama planes malvados,
-> pies que se apresuran a hacer el mal,
+>  pies que se apresuran a hacer el mal,
 
 ## Proverbios 6:19
 
 > un testigo falso que esparce mentiras,
-> y el que siembra discordia entre hermanos.
+>  y el que siembra discordia entre hermanos.
 
 ---
 
@@ -107,7 +105,7 @@ Hijo mío, guarda el mandamiento de tu padre, y no abandones la enseñanza de tu
 
 Cuando camines, te guiarán; cuando duermas, te vigilarán;
 
-> y cuando despiertes, te hablarán.
+>  y cuando despiertes, te hablarán.
 
 ## Proverbios 6:23
 

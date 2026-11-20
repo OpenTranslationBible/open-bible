@@ -34,7 +34,7 @@ El príncipe estará entre ellos, entrando cuando ellos entren y saliendo cuando
 En las fiestas y festivales señalados, la ofrenda de cereal será un efa con un novillo, un efa con un carnero, y con los corderos tanto como uno desee dar, junto con un hin de aceite por cada efa.
 
 ## Ezequiel 46:12
-Cuando el príncipe ofrezca una ofrenda voluntaria al Señor—ya sea un holocausto o ofrendas de comunión—la puerta que mira al este se abrirá para él. Ofrecerá su holocausto o sus ofrendas de comunión como lo hace en el día de sábado. Luego saldrá, y después de que haya salido, la puerta se cerrará.
+Cuando el príncipe ofrezca una ofrenda voluntaria al Señor —ya sea un holocausto o ofrendas de comunión— la puerta que mira al este se abrirá para él. Ofrecerá su holocausto o sus ofrendas de comunión como lo hace en el día de sábado. Luego saldrá, y después de que haya salido, la puerta se cerrará.
 
 ## Ezequiel 46:13
 Cada día proveerás un cordero de un año sin defecto para un holocausto al Señor; mañana tras mañana lo proveerás.

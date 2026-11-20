@@ -3,7 +3,7 @@
 ## 2 Tesalonicenses 1:1
 
 De Pablo, Silvano y Timoteo,  
-a la iglesia de los tesalonicenses, de Dios nuestro Padre y del Señor Jesucristo:
+ a la iglesia de los tesalonicenses, en Dios nuestro Padre y en el Señor Jesucristo:
 
 ## 2 Tesalonicenses 1:2
 
@@ -39,7 +39,7 @@ Estos individuos enfrentarán la consecuencia de la destrucción eterna, separad
 
 ## 2 Tesalonicenses 1:10
 
-cuando Él venga para ser glorificado entre sus santos en aquel día, y para ser admirado entre todos los que han creído—porque nuestro testimonio a vosotros fue creído.
+cuando Él venga para ser glorificado entre sus santos en aquel día, y para ser admirado entre todos los que han creído —porque nuestro testimonio a vosotros fue creído—.
 
 ## 2 Tesalonicenses 1:11
 

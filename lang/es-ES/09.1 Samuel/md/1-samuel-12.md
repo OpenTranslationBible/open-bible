@@ -19,7 +19,7 @@ Y ellos respondieron: “No nos has agraviado, ni nos has oprimido, ni has tomad
 ## 1 Samuel 12:5
 
 Él les dijo: “El Señor y su ungido son testigos hoy de que no habéis encontrado nada en mi posesión.”  
-Y ellos respondieron: “Él es testigo.”
+ Y ellos respondieron: “Él es testigo.”
 
 ---
 

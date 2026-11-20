@@ -70,7 +70,7 @@ Si un hombre es encontrado acostado con una mujer casada, tanto el hombre que se
 Si una virgen prometida para casarse es encontrada en la ciudad por otro hombre, y él se acuesta con ella,
 
 ## Deuteronomio 22:24
-llevarás a ambos a la puerta de la ciudad y los apedrearás hasta la muerte—a la joven porque no pidió ayuda, estando en la ciudad, y al hombre porque violó a la esposa de su vecino. Debes eliminar el mal de entre vosotros.
+llevarás a ambos a la puerta de la ciudad y los apedrearás hasta la muerte —a la joven porque no pidió ayuda, estando en la ciudad, y al hombre porque violó a la esposa de su vecino. Debes eliminar el mal de entre vosotros—.
 
 ## Deuteronomio 22:25
 Pero si un hombre encuentra a una joven prometida en el campo y la fuerza, solo el hombre que ha hecho esto morirá.

@@ -25,7 +25,7 @@ Ve entonces, come tu pan con alegría, y bebe tu vino con un corazón alegre, po
 Asegúrate de que tus vestiduras sean siempre blancas, y que no falte aceite en tu cabeza.
 
 ## Eclesiastés 9:9
-Disfruta de la vida con tu amada esposa todos los días de tu vida fútil que Dios te ha dado bajo el sol—todos tus días fútiles. Porque esta es tu porción en la vida y en tu trabajo bajo el sol.
+Disfruta de la vida con tu amada esposa todos los días de tu vida fútil que Dios te ha dado bajo el sol —todos tus días fútiles. Porque esta es tu porción en la vida y en tu trabajo bajo el sol—.
 
 ## Eclesiastés 9:10
 Todo lo que tu mano encuentre para hacer, hazlo con todas tus fuerzas, porque en el Seol, adonde vas, no hay actividad ni planificación ni conocimiento ni sabiduría.

@@ -116,7 +116,7 @@ y el que quiera ser primero deberá ser vuestro siervo—
 
 ## Mateo 20:28
 
-porque el Hijo del Hombre no vino para ser servido, sino para servir, y para dar su vida como rescate por muchos.”
+así como el Hijo del Hombre no vino para ser servido, sino para servir, y para dar su vida como rescate por muchos.”
 
 ---
 

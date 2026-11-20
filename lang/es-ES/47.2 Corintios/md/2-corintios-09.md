@@ -14,7 +14,7 @@ Pero he enviado a los hermanos, para que nuestro orgullo respecto a vosotros no 
 
 ## 2 Corintios 9:4
 
-No sea que si vienen conmigo algunos macedonios y os encuentran desprevenidos, nosotros—por no decir vosotros—nos avergoncemos de esta confianza.
+No sea que si vienen conmigo algunos macedonios y os encuentran desprevenidos, nosotros —por no decir vosotros— nos avergoncemos de esta confianza.
 
 ## 2 Corintios 9:5
 
@@ -36,8 +36,8 @@ Y Dios es poderoso para hacer que abunde en vosotros toda gracia, de modo que, t
 
 Como dice la escritura:
 
-> “Esparció, dio a los pobres,  
-> Su justicia permanece para siempre.”
+>  “Esparció, dio a los pobres,  
+>  Su justicia permanece para siempre.”
 
 ## 2 Corintios 9:10
 

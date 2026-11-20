@@ -36,15 +36,15 @@ Cuando tomó el libro, los cuatro seres vivientes y los veinticuatro ancianos se
 
 Y cantaban un cántico nuevo, diciendo:
 
-> “Eres digno de tomar el libro
-> y de abrir sus sellos,
-> porque fuiste inmolado, y con tu sangre compraste para Dios personas
-> de toda tribu, lengua, pueblo y nación.
+>  “Eres digno de tomar el libro y de abrir sus sellos,
+>  porque fuiste inmolado,
+>  y con tu sangre compraste para Dios personas de toda tribu,
+>  lengua, pueblo y nación.
 
 ## Apocalipsis 5:10
 
 > Los has hecho un reino y sacerdotes para servir a nuestro Dios,
-> y reinarán sobre la tierra.”
+>  y reinarán sobre la tierra.”
 
 ## Apocalipsis 5:11
 
@@ -54,15 +54,15 @@ Luego miré y oí la voz de muchos ángeles alrededor del trono y de los seres v
 
 Decían a gran voz:
 
-> “¡Digno es el Cordero que fue inmolado
-> de recibir poder, riquezas, sabiduría, fortaleza, honor, gloria y bendición!”
+>  “¡Digno es el Cordero que fue inmolado de recibir poder,
+>  riquezas, sabiduría, fortaleza, honor, gloria y bendición!”
 
 ## Apocalipsis 5:13
 
 Y oí a toda criatura en el cielo, en la tierra, debajo de la tierra y en el mar, y a todo lo que en ellos hay, diciendo:
 
-> “Al que está sentado en el trono y al Cordero
-> sean la bendición, el honor, la gloria y el dominio por los siglos de los siglos.”
+>  “Al que está sentado en el trono y al Cordero sean la bendición,
+>  el honor, la gloria y el dominio por los siglos de los siglos.”
 
 ## Apocalipsis 5:14
 

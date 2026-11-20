@@ -62,7 +62,7 @@ Una mujer llamada Lidia, comerciante de telas de púrpura de la ciudad de Tiatir
 
 ## Hechos 16:15
 
-Cuando ella y su casa fueron bautizadas, nos rogó, diciendo: “Si me consideráis fiel al Señor, venid y quedaos en mi casa.” Y nos persuadió.
+Cuando ella y su casa fueron bautizados, nos rogó, diciendo: “Si me consideráis fiel al Señor, venid y quedaos en mi casa.” Y nos persuadió.
 
 ---
 

@@ -150,7 +150,7 @@ Fueron apedreados, aserrados, muertos a espada; anduvieron de aquí para allá c
 
 ## Hebreos 11:38
 
-de los cuales el mundo no era digno—errantes por desiertos y montañas, por cuevas y cavernas de la tierra.
+de los cuales el mundo no era digno —errantes por desiertos y montañas, por cuevas y cavernas de la tierra—.
 
 ## Hebreos 11:39
 

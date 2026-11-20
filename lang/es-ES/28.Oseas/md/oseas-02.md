@@ -61,7 +61,7 @@ Te comprometeré conmigo para siempre; te comprometeré en justicia y derecho, e
 Te comprometeré en fidelidad, y conocerás al Señor.
 
 ## Oseas 2:21
-“En ese tiempo responderé,” declara el Señor— “Responderé a los cielos, y ellos responderán a la tierra;
+“En ese tiempo responderé,” declara el Señor —“Responderé a los cielos, y ellos responderán a la tierra—;
 
 ## Oseas 2:22
 y la tierra responderá al grano, al vino nuevo y al aceite, y ellos responderán a Jezreel.

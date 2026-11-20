@@ -73,7 +73,7 @@ Entonces Elí respondió: “Ve en paz, y que el Dios de Israel te conceda lo qu
 ## 1 Samuel 1:18
 
 Ella dijo: “Que tu sierva halle favor ante tus ojos.”  
-Entonces se fue por su camino y comió algo, y su rostro ya no estaba abatido.
+ Entonces se fue por su camino y comió algo, y su rostro ya no estaba abatido.
 
 ---
 
@@ -96,7 +96,7 @@ Ana no subió. Ella dijo a su esposo: “Después de que el niño sea destetado,
 ## 1 Samuel 1:23
 
 Elcaná, su esposo, le dijo: “Haz lo que te parezca mejor. Quédate hasta que lo destetes; solo que el Señor cumpla su palabra.”  
-Así que ella se quedó en casa y amamantó a su hijo hasta que lo destetó.
+ Así que ella se quedó en casa y amamantó a su hijo hasta que lo destetó.
 
 ---
 
@@ -110,7 +110,7 @@ Sacrificaron el toro y llevaron al niño a Elí.
 
 ## 1 Samuel 1:26
 
-Ella le dijo: “Perdóneme, mi señor. Tan cierto como que usted vive, mi señor, yo soy la mujer que estuvo aquí junto a usted, orando al Señor.
+Ella le dijo: “Perdóname, mi señor. Tan cierto como que tú vives, mi señor, yo soy la mujer que estuvo aquí junto a ti, orando al Señor.
 
 ## 1 Samuel 1:27
 
@@ -119,4 +119,4 @@ Oré por este niño, y el Señor ha concedido mi petición.
 ## 1 Samuel 1:28
 
 Así que ahora lo dedico al Señor. Mientras viva, está entregado al Señor.”  
-Y adoró allí al Señor.
+ Y adoró allí al Señor.

@@ -55,7 +55,7 @@ las cortinas del atrio con sus postes y bases, y la cortina para la entrada del 
 las estacas para el tabernáculo y para el atrio, y sus cuerdas;
 
 ## Éxodo 35:19
-las vestiduras tejidas para ministrar en el santuario—las vestiduras sagradas para Aarón el sacerdote y las vestiduras para sus hijos cuando sirvan como sacerdotes.”
+las vestiduras tejidas para ministrar en el santuario —las vestiduras sagradas para Aarón el sacerdote y las vestiduras para sus hijos cuando sirvan como sacerdotes—.”
 
 ## Éxodo 35:20
 Entonces toda la asamblea de los israelitas se retiró de la presencia de Moisés,
@@ -103,4 +103,4 @@ para cortar y engastar piedras, para trabajar en madera, y para dedicarse a todo
 También ha concedido tanto a él como a Oholiab, hijo de Ahisamac, de la tribu de Dan, la capacidad de instruir a otros.
 
 ## Éxodo 35:35
-Los ha llenado de habilidad para realizar todo tipo de trabajos como grabadores, diseñadores, bordadores en hilo de color violeta, púrpura y escarlata, y lino fino, y tejedores—todos ellos trabajadores y diseñadores hábiles.
+Los ha llenado de habilidad para realizar todo tipo de trabajos como grabadores, diseñadores, bordadores en hilo de color violeta, púrpura y escarlata, y lino fino, y tejedores —todos ellos trabajadores y diseñadores hábiles—.

@@ -7,7 +7,7 @@ Pablo, siervo de Dios y apóstol de Jesucristo, para la fe de los escogidos de D
 con la esperanza de la vida eterna, que Dios, quien no miente, prometió hace mucho tiempo,
 
 ## Tito 1:3
-y que ahora, en el tiempo señalado, ha revelado mediante la proclamación que se me ha confiado por mandato de Dios nuestro Salvador,
+y que ahora, en el tiempo señalado, ha revelado su palabra mediante la proclamación que se me ha confiado por mandato de Dios nuestro Salvador,
 
 ## Tito 1:4
 A Tito, mi verdadero hijo en nuestra fe común: Gracia y paz de Dios el Padre y de Cristo Jesús nuestro Salvador.

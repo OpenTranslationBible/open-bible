@@ -31,7 +31,7 @@ Dad alas a Moab, porque será desolada; sus ciudades quedarán desiertas, sin ha
 ¡Maldito sea el que haga negligentemente la obra del Señor! ¡Maldito sea el que detenga su espada de derramar sangre!
 
 ## Jeremías 48:11
-“Moab ha estado en reposo desde su juventud, como el vino asentado en sus heces, no vertido de vasija en vasija— no ha ido al exilio. Así que conserva su sabor, y su aroma no ha cambiado.
+“Moab ha estado en reposo desde su juventud, como el vino asentado en sus heces, no vertido de vasija en vasija —no ha ido al exilio. Así que conserva su sabor, y su aroma no ha cambiado—.
 
 ## Jeremías 48:12
 Pero vienen días,” declara el Señor, “cuando enviaré a los que inclinan vasijas, y la volcarán; vaciarán sus jarras y las romperán.
@@ -61,7 +61,7 @@ Ponte junto al camino y observa, tú que vives en Aroer. Pregunta al hombre que 
 Moab está deshonrada, porque está destrozada. ¡Lamentad y clamad! Proclamad junto al Arnón que Moab está destruida.
 
 ## Jeremías 48:21
-El juicio ha llegado a la meseta— a Holón, Jahaza y Mefaat,
+El juicio ha llegado a la meseta —a Holón, Jahaza y Mefaat,—
 
 ## Jeremías 48:22
 a las ciudades de Dibón, Nebo y Bet Diblataim,
@@ -70,7 +70,7 @@ a las ciudades de Dibón, Nebo y Bet Diblataim,
 a las ciudades de Kiriataim, Bet Gamul y Bet Meón,
 
 ## Jeremías 48:24
-a Cariot y Bozra— a todas las ciudades de Moab, tanto cercanas como lejanas.
+a Cariot y Bozra —a todas las ciudades de Moab, tanto cercanas como lejanas—.
 
 ## Jeremías 48:25
 La fuerza de Moab está cortada; su poder está quebrado,” declara el Señor.
@@ -85,7 +85,7 @@ La fuerza de Moab está cortada; su poder está quebrado,” declara el Señor.
 Dejad las ciudades y habitad entre las rocas, vosotros que vivís en Moab. Sed como una paloma que anida en la boca de una cueva.
 
 ## Jeremías 48:29
-Hemos oído del orgullo de Moab—¡cuán grande es su arrogancia!— de su insolencia, su orgullo, su altivez y la altanería de su corazón.
+Hemos oído del orgullo de Moab —¡cuán grande es su arrogancia!— de su insolencia, su orgullo, su altivez y la altanería de su corazón.
 
 ## Jeremías 48:30
 Conozco su insolencia,” declara el Señor, “pero es inútil; sus jactancias no logran nada.

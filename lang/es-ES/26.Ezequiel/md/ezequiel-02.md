@@ -13,7 +13,7 @@ Me dijo: “Hijo de hombre, te envío a los israelitas, una nación rebelde que 
 Te envío a un pueblo insolente y obstinado, y les dirás: ‘Esto es lo que dice el Señor Soberano.’
 
 ## Ezequiel 2:5
-Ya sea que escuchen o no—porque son una casa rebelde—sabrán que un profeta ha estado entre ellos.
+Ya sea que escuchen o no —porque son una casa rebelde— sabrán que un profeta ha estado entre ellos.
 
 ## Ezequiel 2:6
 En cuanto a ti, hijo de hombre, no les temas ni temas sus palabras. No temas, aunque cardos y espinas te rodeen y habites entre escorpiones. No te desanimes por sus palabras ni por su presencia, porque son una casa rebelde.

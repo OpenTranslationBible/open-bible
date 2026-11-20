@@ -13,7 +13,7 @@ por sus malas acciones que provocaron Mi ira al quemar sacrificios y servir a ot
 Envié a todos Mis siervos los profetas repetidamente, diciendo, ‘No cometáis este acto abominable que detesto.’
 
 ## Jeremías 44:5
-Pero no escuchasteis ni inclinasteis vuestros oídos para apartaros de vuestra maldad, para dejar de quemar sacrificios a otros dioses.
+Pero no escucharon ni inclinaron sus oídos para apartarse de su maldad, para dejar de quemar sacrificios a otros dioses.
 
 ## Jeremías 44:6
 Por lo tanto, Mi ira y enojo se derramaron y ardieron en las ciudades de Judá y en las calles de Jerusalén, dejándolas en ruinas y desolación como están hoy.
@@ -43,7 +43,7 @@ Castigaré a los que viven en Egipto con la espada, el hambre y la peste, tal co
 Ninguno del remanente de Judá que ha ido a vivir a Egipto escapará o sobrevivirá para regresar a la tierra de Judá, a la que anhelan regresar y vivir; ninguno regresará excepto unos pocos refugiados.
 
 ## Jeremías 44:15
-Entonces todos los hombres que sabían que sus esposas estaban quemando sacrificios a otros dioses, junto con todas las mujeres presentes—una gran asamblea—y todo el pueblo que vivía en Patros en la tierra de Egipto, respondieron a Jeremías,
+Entonces todos los hombres que sabían que sus esposas estaban quemando sacrificios a otros dioses, junto con todas las mujeres presentes —una gran asamblea— y todo el pueblo que vivía en Patros en la tierra de Egipto, respondieron a Jeremías,
 
 ## Jeremías 44:16
 “¡No atenderemos el mensaje que nos has hablado en nombre del Señor!
@@ -55,7 +55,7 @@ Ciertamente llevaremos a cabo cada palabra que ha salido de nuestras bocas, quem
 Pero desde que dejamos de quemar sacrificios a la reina del cielo y de derramar libaciones para ella, nos ha faltado todo y hemos estado pereciendo por la espada y el hambre.”
 
 ## Jeremías 44:19
-Las mujeres añadieron, “Cuando quemábamos sacrificios a la reina del cielo y derramábamos libaciones para ella, ¿acaso lo hacíamos sin nuestros maridos cuando hacíamos tortas en su imagen y derramábamos libaciones para ella?”
+Las mujeres añadieron, “Cuando quemábamos sacrificios a la reina del cielo y derramábamos libaciones para ella, ¿acaso lo hacíamos sin nuestros maridos cuando hacíamos tortas con su imagen y derramábamos libaciones para ella?”
 
 ## Jeremías 44:20
 Entonces Jeremías dijo a todo el pueblo, tanto a hombres como a mujeres, que le estaban dando esta respuesta,
@@ -82,7 +82,7 @@ Pero escuchad la palabra del Señor, todo Judá que vive en la tierra de Egipto:
 Porque estoy vigilándolos para mal y no para bien; todo el pueblo de Judá que está en la tierra de Egipto encontrará su fin por la espada o por el hambre hasta que estén completamente acabados.
 
 ## Jeremías 44:28
-Los que escapen de la espada regresarán de la tierra de Egipto a la tierra de Judá en pequeño número. Entonces todo el remanente de Judá que ha ido a vivir a Egipto sabrá de quién será la palabra que prevalecerá—la Mía o la de ellos.
+Los que escapen de la espada regresarán de la tierra de Egipto a la tierra de Judá en pequeño número. Entonces todo el remanente de Judá que ha ido a vivir a Egipto sabrá de quién será la palabra que prevalecerá —la Mía o la de ellos—.
 
 ## Jeremías 44:29
 Esta será la señal para vosotros,’ declara el Señor, ‘que voy a castigaros en este lugar, para que sepáis que Mis palabras ciertamente prevalecerán contra vosotros para mal.’

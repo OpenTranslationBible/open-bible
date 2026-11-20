@@ -130,7 +130,7 @@ Siclag, Madmana y la aldea de Sansana,
 
 ## Josué 15:32
 
-Lebáot, Silhim, Ain y Rimón—un total de veintinueve ciudades junto con sus aldeas.
+Lebáot, Silhim, Ain y Rimón —un total de veintinueve ciudades junto con sus aldeas—.
 
 ---
 
@@ -148,7 +148,7 @@ Jarmut, Adulam, Soco y la aldea de Azeca,
 
 ## Josué 15:36
 
-Searaim, Aditaim, Gederá y Gederotaim —catorce ciudades junto con sus aldeas.
+Searaim, Aditaim, Gederá y Gederotaim —catorce ciudades junto con sus aldeas—.
 
 ---
 
@@ -170,7 +170,7 @@ Cabón, Lajmas y la aldea de Quitlis,
 
 ## Josué 15:41
 
-Gederot, Bet-dagón, Naama y Maqueda —dieciséis ciudades junto con sus aldeas.
+Gederot, Bet-dagón, Naama y Maqueda —dieciséis ciudades junto con sus aldeas—.
 
 ---
 
@@ -184,7 +184,7 @@ Ifta, Asná y la aldea de Nezib,
 
 ## Josué 15:44
 
-Keila, Aczib y Maresa —nueve ciudades junto con sus aldeas.
+Keila, Aczib y Maresa —nueve ciudades junto con sus aldeas—.
 
 ---
 
@@ -216,7 +216,7 @@ Anab, Estemoa y la aldea de Anim,
 
 ## Josué 15:51
 
-Gosén, Holón y Gilo —once ciudades junto con sus aldeas.
+Gosén, Holón y Gilo —once ciudades junto con sus aldeas—.
 
 ---
 
@@ -230,7 +230,7 @@ Janum, Bet-tapúa y la aldea de Afeca,
 
 ## Josué 15:54
 
-Humta, Quiriat-arba (es decir, Hebrón) y Sior —nueve ciudades junto con sus aldeas.
+Humta, Quiriat-arba (es decir, Hebrón) y Sior —nueve ciudades junto con sus aldeas—.
 
 ---
 
@@ -244,7 +244,7 @@ Jezreel, Joqdeam y la aldea de Zanoa,
 
 ## Josué 15:57
 
-Caín, Gibeá y la aldea de Timná —diez ciudades junto con sus aldeas.
+Caín, Gibeá y la aldea de Timná —diez ciudades junto con sus aldeas—.
 
 ## Josué 15:58
 
@@ -252,11 +252,11 @@ Halhul, Bet-sur y la aldea de Gedor,
 
 ## Josué 15:59
 
-Maarat, Bet-anot y Eltecón —seis ciudades junto con sus aldeas.
+Maarat, Bet-anot y Eltecón —seis ciudades junto con sus aldeas—.
 
 ## Josué 15:60
 
-Quiriat-baal (es decir, Quiriat-jearim) y Rabá —dos ciudades junto con sus aldeas.
+Quiriat-baal (es decir, Quiriat-jearim) y Rabá —dos ciudades junto con sus aldeas—.
 
 ## Josué 15:61
 
@@ -264,7 +264,7 @@ En la región del desierto: Bet-arabá, Midín y Secacá,
 
 ## Josué 15:62
 
-Nibsan, la Ciudad de la Sal y Engadi —seis ciudades, junto con sus aldeas.
+Nibsan, la Ciudad de la Sal y Engadi —seis ciudades, junto con sus aldeas—.
 
 ## Josué 15:63
 

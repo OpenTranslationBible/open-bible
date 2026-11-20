@@ -39,11 +39,11 @@ Si alguno tiene oído, que oiga.
 ## Apocalipsis 13:10
 
 > “Si alguno lleva en cautividad,
-> en cautividad irá;
-> si alguno mata a espada,
-> a espada debe ser muerto.”
+>  en cautividad irá;
+>  si alguno mata a espada,
+>  a espada debe ser muerto.”
 
-Aquí está la perseverancia y la fe de los santos.
+ Aquí está la perseverancia y la fe de los santos.
 
 ## Apocalipsis 13:11
 

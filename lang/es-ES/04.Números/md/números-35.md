@@ -61,7 +61,7 @@ El vengador de la sangre es quien debe ejecutar al asesino; cuando el vengador e
 Si alguien empuja a otro por odio, o le lanza algo con intención maliciosa, resultando en muerte,
 
 ## Números 35:21
-o si alguien golpea a otro con hostilidad, causando la muerte, el perpetrador es un asesino y debe ser condenado a muerte. El vengador de la sangre ejecutará al asesino cuando se encuentren.
+o si alguien golpea a otro con la mano con hostilidad, causando la muerte, el perpetrador es un asesino y debe ser condenado a muerte. El vengador de la sangre ejecutará al asesino cuando se encuentren.
 
 ## Números 35:22
 “‘Sin embargo, si alguien empuja a otro repentinamente sin hostilidad, o lanza cualquier objeto sin intención maliciosa,

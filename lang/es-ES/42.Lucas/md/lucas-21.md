@@ -142,7 +142,7 @@ En verdad os digo que esta generación no pasará hasta que todas estas cosas ha
 
 ## Lucas 21:33
 
-Aunque el cielo y la tierra pasen, mis palabras nunca pasarán.
+El cielo y la tierra pasarán, pero mis palabras nunca pasarán.
 
 ---
 

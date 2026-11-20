@@ -4,7 +4,7 @@
 
 Los descendientes de Leví incluían:
 
-> Gersón, Coat y Merari.
+>  Gersón, Coat y Merari.
 
 ---
 
@@ -12,7 +12,7 @@ Los descendientes de Leví incluían:
 
 La línea de Coat comprendía:
 
-> Amram, Izhar, Hebrón y Uziel.
+>  Amram, Izhar, Hebrón y Uziel.
 
 ---
 
@@ -20,9 +20,9 @@ La línea de Coat comprendía:
 
 Los hijos de Amram fueron:
 
-> Aarón, Moisés y Miriam.  
-> Y los hijos de Aarón fueron:  
-> Nadab, Abiú, Eleazar e Itamar.
+>  Aarón, Moisés y Miriam.  
+>  Y los hijos de Aarón fueron:  
+>  Nadab, Abiú, Eleazar e Itamar.
 
 ---
 
@@ -82,7 +82,7 @@ Y Jehozadac fue llevado cuando el Señor llevó a Judá y Jerusalén al exilio p
 
 Los descendientes de Leví incluían:
 
-> Gersón, Coat y Merari.
+>  Gersón, Coat y Merari.
 
 ---
 
@@ -90,7 +90,7 @@ Los descendientes de Leví incluían:
 
 Estos son los hijos de Gersón:
 
-> Libni y Simei.
+>  Libni y Simei.
 
 ---
 
@@ -98,7 +98,7 @@ Estos son los hijos de Gersón:
 
 La línea de Coat comprendía:
 
-> Amram, Izhar, Hebrón y Uziel.
+>  Amram, Izhar, Hebrón y Uziel.
 
 ---
 
@@ -106,8 +106,8 @@ La línea de Coat comprendía:
 
 Los hijos de Merari fueron:
 
-> Mahli y Musi.  
-> Estas son las familias de los levitas según las casas de sus padres.
+>  Mahli y Musi.  
+>  Estas son las familias de los levitas según las casas de sus padres.
 
 ---
 
@@ -115,7 +115,7 @@ Los hijos de Merari fueron:
 
 De Gersón:
 
-> Libni que engendró, Jahat que engendró, Zima
+>  Libni que engendró, Jahat que engendró, Zima que engendró,
 
 ## 1 Crónicas 6:21
 
@@ -127,11 +127,11 @@ De Gersón:
 
 La línea de Coat comprendía:
 
-> Aminadab que engendró, Coré que engendró, Asir,
+>  Aminadab que engendró, Coré que engendró, Asir que engendró,
 
 ## 1 Crónicas 6:23
 
-> Elcana que engendró, Ebiasaf que engendró, Asir,
+> Elcana que engendró, Ebiasaf que engendró, Asir que engendró,
 
 ## 1 Crónicas 6:24
 
@@ -143,7 +143,7 @@ La línea de Coat comprendía:
 
 Los hijos de Elcana fueron:
 
-> Amasai y Ahimot.
+>  Amasai y Ahimot.
 
 ---
 
@@ -151,7 +151,7 @@ Los hijos de Elcana fueron:
 
 Elcana:
 
-> Elcana que engendró, Sofai que engendró, Nahat,
+>  Elcana que engendró, Sofai que engendró, Nahat que engendró,
 
 ## 1 Crónicas 6:27
 
@@ -163,15 +163,15 @@ Elcana:
 
 Los hijos de Samuel fueron:
 
-> Joel el primogénito, y Abías el segundo.
+>  Joel el primogénito, y Abías el segundo.
 
 ---
 
 ## 1 Crónicas 6:29
 
-Los hijos de Merari fueron:
+Los hijos de Merari fueron: Mahli,
 
-> Mahli, Libni que engendró, Simei que engendró, Uzá,
+>  Libni que engendró, Simei que engendró, Uzá que engendró,
 
 ## 1 Crónicas 6:30
 
@@ -182,24 +182,24 @@ Los hijos de Merari fueron:
 ## 1 Crónicas 6:31
 
 Estos son los que David nombró sobre el servicio del canto en la casa del Señor,  
-después de que el arca reposó allí.
+ después de que el arca reposó allí.
 
 ---
 
 ## 1 Crónicas 6:32
 
 Ministraban con canto delante del tabernáculo de la tienda de reunión,  
-hasta que Salomón construyó la casa del Señor en Jerusalén;  
-y llevaban a cabo sus deberes según el orden que se les dio.
+ hasta que Salomón construyó la casa del Señor en Jerusalén;  
+ y llevaban a cabo sus deberes según el orden que se les dio.
 
 ---
 
 ## 1 Crónicas 6:33
 
 Estos son los que sirvieron con sus hijos:  
-De los hijos de los coatitas:
+ De los hijos de los coatitas:
 
-> Hemán el cantor, cuyo padre fue Joel, cuyo padre fue Samuel,
+>  Hemán el cantor, cuyo padre fue Joel, cuyo padre fue Samuel,
 
 ## 1 Crónicas 6:34
 
@@ -227,15 +227,15 @@ De los hijos de los coatitas:
 
 El pariente de Hemán, Asaf, estaba a su mano derecha,
 
-> Asaf cuyo padre fue Berequías, cuyo padre fue Simea,
+>  Asaf cuyo padre fue Berequías, cuyo padre fue Simea,
 
 ## 1 Crónicas 6:40
 
-> cuyo padre fue Micael, que fue el padre de Baaseías, cuyo padre fue Malquías,
+> cuyo padre fue Micael, cuyo padre fue Baaseías, cuyo padre fue Malquías,
 
 ## 1 Crónicas 6:41
 
-> cuyo padre fue Etni, que fue el padre de Zera, cuyo padre fue Adaías,
+> cuyo padre fue Etni, cuyo padre fue Zera, cuyo padre fue Adaías,
 
 ## 1 Crónicas 6:42
 
@@ -243,7 +243,7 @@ El pariente de Hemán, Asaf, estaba a su mano derecha,
 
 ## 1 Crónicas 6:43
 
-> cuyo padre fue Jahat, que fue el padre de Gersón, cuyo padre fue Leví.
+> cuyo padre fue Jahat, cuyo padre fue Gersón, cuyo padre fue Leví.
 
 ---
 
@@ -251,34 +251,33 @@ El pariente de Hemán, Asaf, estaba a su mano derecha,
 
 A la mano izquierda estaban sus parientes,
 
-> los hijos de Merari: Etán cuyo padre fue Quisi, que fue el padre de Abdi, cuyo padre fue Maluc,
+>  los hijos de Merari: Etán cuyo padre fue Quisi, cuyo padre fue Abdi, cuyo padre fue Maluc,
 
 ## 1 Crónicas 6:45
 
-> cuyo padre fue Hasabías, que fue el padre de Amasías, cuyo padre fue Hilcías,
+> cuyo padre fue Hasabías, cuyo padre fue Amasías, cuyo padre fue Hilcías,
 
 ## 1 Crónicas 6:46
 
-> cuyo padre fue Amzi, que fue el padre de Bani, cuyo padre fue Semer,
+> cuyo padre fue Amzi, cuyo padre fue Bani, cuyo padre fue Semer,
 
 ## 1 Crónicas 6:47
 
-> cuyo padre fue Mahli, que fue el padre de Musi, cuyo padre fue Merari, cuyo padre fue Leví.
+> cuyo padre fue Mahli, cuyo padre fue Musi, cuyo padre fue Merari, cuyo padre fue Leví.
 
 ---
 
 ## 1 Crónicas 6:48
 
-Sus parientes los levitas fueron nombrados para todo el servicio del tabernáculo  
-de la casa de Dios.
+Sus parientes los levitas fueron nombrados para todo el servicio del tabernáculo de la casa de Dios.
 
 ---
 
 ## 1 Crónicas 6:49
 
-Sin embargo, Aarón y sus hijos hacían ofrendas en el altar del holocausto  
-y en el altar del incienso, para toda la obra del Lugar Santísimo,  
-y para hacer expiación por Israel, conforme a todo lo que Moisés, el siervo de Dios, había mandado.
+Sin embargo, Aarón y sus hijos hacían ofrendas en el altar del holocausto y en el altar del incienso,  
+ para toda la obra del Lugar Santísimo,  
+ y para hacer expiación por Israel, conforme a todo lo que Moisés, el siervo de Dios, había mandado.
 
 ---
 
@@ -286,7 +285,7 @@ y para hacer expiación por Israel, conforme a todo lo que Moisés, el siervo de
 
 Estos son los hijos de Aarón:
 
-> Eleazar que engendró, Finees que engendró, Abisúa que engendró,
+>  Eleazar que engendró, Finees que engendró, Abisúa que engendró,
 
 ## 1 Crónicas 6:51
 
@@ -305,9 +304,9 @@ Estos son los hijos de Aarón:
 ## 1 Crónicas 6:54
 
 Ahora bien, estas son sus asentamientos según sus campamentos dentro de sus fronteras:  
-A los hijos de Aarón, de las familias de los coatitas,
+ A los hijos de Aarón, de las familias de los coatitas,
 
-> porque la suerte les cayó primero.
+>  porque la suerte les cayó primero.
 
 ---
 
@@ -325,7 +324,7 @@ pero dieron los campos de la ciudad y sus aldeas a Caleb, hijo de Jefone.
 
 A los hijos de Aarón les proporcionaron las siguientes ciudades de refugio:
 
-> Hebrón, Libna con sus tierras de pasto, Jatir, Estemoa con sus tierras de pasto,
+>  Hebrón, Libna con sus tierras de pasto, Jatir, Estemoa con sus tierras de pasto,
 
 ## 1 Crónicas 6:58
 
@@ -341,30 +340,30 @@ A los hijos de Aarón les proporcionaron las siguientes ciudades de refugio:
 
 De la tribu de Benjamín dieron:
 
-> Geba, Alemet y Anatot con sus tierras de pasto.  
-> Todas sus ciudades para las familias de los hijos de Aarón fueron trece ciudades en total.
+>  Geba, Alemet y Anatot con sus tierras de pasto.  
+>  Todas sus ciudades para las familias de los hijos de Aarón fueron trece ciudades en total.
 
 ---
 
 ## 1 Crónicas 6:61
 
 Al resto de los hijos de Coat, de las familias de la tribu,  
-les dieron diez ciudades por suerte de la media tribu, la mitad de Manasés.
+ les dieron diez ciudades por suerte de la media tribu, la mitad de Manasés.
 
 ---
 
 ## 1 Crónicas 6:62
 
 A los hijos de Gersón, según sus familias,  
-les dieron trece ciudades de las tribus de Isacar, Aser, Neftalí,  
-y Manasés en Basán.
+ les dieron trece ciudades de las tribus de Isacar, Aser, Neftalí,  
+ y Manasés en Basán.
 
 ---
 
 ## 1 Crónicas 6:63
 
 A los hijos de Merari, según sus familias,  
-les dieron doce ciudades de las tribus de Rubén, Gad y Zabulón.
+ les dieron doce ciudades de las tribus de Rubén, Gad y Zabulón.
 
 ---
 
@@ -377,15 +376,15 @@ Así, los israelitas proporcionaron a los levitas las ciudades y sus tierras de 
 ## 1 Crónicas 6:65
 
 Asignaron por suerte de la tribu de los hijos de Judá, la tribu de los hijos de Simeón,  
-y la tribu de los hijos de Benjamín,  
-estas ciudades que se mencionan por nombre.
+ y la tribu de los hijos de Benjamín,  
+ estas ciudades que se mencionan por nombre.
 
 ---
 
 ## 1 Crónicas 6:66
 
-Ahora bien, algunas de las familias de los hijos de Coat tenían ciudades de su herencia  
-de la tribu de Efraín.
+Ahora bien,  
+ algunas de las familias de los hijos de Coat tenían ciudades de su herencia de la tribu de Efraín.
 
 ---
 
@@ -393,8 +392,8 @@ de la tribu de Efraín.
 
 Les dieron las ciudades de refugio:
 
-> Siquem en la región montañosa de Efraín con sus tierras de pasto,  
-> Guézer con sus tierras de pasto,
+>  Siquem en la región montañosa de Efraín con sus tierras de pasto,  
+>  Guézer con sus tierras de pasto,
 
 ## 1 Crónicas 6:68
 
@@ -410,8 +409,8 @@ Les dieron las ciudades de refugio:
 
 y de la media tribu de Manasés:
 
-> Aner con sus tierras de pasto, y Bileam con sus tierras de pasto,  
-> para el resto de las familias de los hijos de Coat.
+>  Aner con sus tierras de pasto, y Bileam con sus tierras de pasto,  
+>  para el resto de las familias de los hijos de Coat.
 
 ---
 
@@ -419,7 +418,7 @@ y de la media tribu de Manasés:
 
 A los hijos de Gersón les dieron:
 
-> De la familia de la media tribu de Manasés: Golán en Basán con sus tierras de pasto, y Astarot con sus tierras de pasto;
+>  De la familia de la media tribu de Manasés: Golán en Basán con sus tierras de pasto, y Astarot con sus tierras de pasto;
 
 ---
 
@@ -427,7 +426,7 @@ A los hijos de Gersón les dieron:
 
 De la tribu de Isacar:
 
-> Cedes con sus tierras de pasto, Daberat con sus tierras de pasto,
+>  Cedes con sus tierras de pasto, Daberat con sus tierras de pasto,
 
 ## 1 Crónicas 6:73
 
@@ -439,7 +438,7 @@ De la tribu de Isacar:
 
 De la tribu de Aser:
 
-> Masal con sus tierras de pasto, Abdón con sus tierras de pasto,
+>  Masal con sus tierras de pasto, Abdón con sus tierras de pasto,
 
 ## 1 Crónicas 6:75
 
@@ -451,8 +450,8 @@ De la tribu de Aser:
 
 De la tribu de Neftalí:
 
-> Cedes en Galilea con sus tierras de pasto,  
-> Hamón con sus tierras de pasto, y Quiriataim con sus tierras de pasto.
+>  Cedes en Galilea con sus tierras de pasto,  
+>  Hamón con sus tierras de pasto, y Quiriataim con sus tierras de pasto.
 
 ---
 
@@ -460,7 +459,7 @@ De la tribu de Neftalí:
 
 Al resto de los levitas, los hijos de Merari:
 
-> De la tribu de Zabulón: Rimmono con sus tierras de pasto, Tabor con sus tierras de pasto;
+>  De la tribu de Zabulón: Rimmono con sus tierras de pasto, Tabor con sus tierras de pasto;
 
 ---
 
@@ -468,7 +467,7 @@ Al resto de los levitas, los hijos de Merari:
 
 Y más allá del Jordán en Jericó, al lado este del Jordán:
 
-> De la tribu de Rubén: Bézer en el desierto con sus tierras de pasto, Jahaza con sus tierras de pasto,
+>  De la tribu de Rubén: Bézer en el desierto con sus tierras de pasto, Jahaza con sus tierras de pasto,
 
 ## 1 Crónicas 6:79
 
@@ -480,8 +479,8 @@ Y más allá del Jordán en Jericó, al lado este del Jordán:
 
 De la tribu de Gad:
 
-> Ramot en Galaad con sus tierras de pasto,  
-> Mahanaim con sus tierras de pasto,
+>  Ramot en Galaad con sus tierras de pasto,  
+>  Mahanaim con sus tierras de pasto,
 
 ## 1 Crónicas 6:81
 

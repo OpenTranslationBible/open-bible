@@ -70,7 +70,7 @@ Sin embargo, si decides no rendirte, el Señor me ha mostrado esto:
 “Todas tus esposas e hijos serán sacados a los caldeos. Tú mismo no escaparás de sus manos, sino que serás capturado por el rey de Babilonia; y esta ciudad será quemada.”
 
 ## Jeremías 38:24
-Entonces Sedequías dijo a Jeremías: “No dejes que nadie sepa de esta conversación, o podrías estar en peligro.
+Entonces Sedequías dijo a Jeremías: “No dejes que nadie sepa de esta conversación, o morirás.
 
 ## Jeremías 38:25
 Si los oficiales oyen que hablé contigo y vienen a ti y te dicen: ‘Cuéntanos lo que dijiste al rey y lo que el rey te dijo a ti; no lo ocultes de nosotros o te mataremos,’

@@ -10,7 +10,7 @@ Y el Señor dijo a Satanás: “¿De dónde vienes?”
 
 ---
 
-Satanás respondió al Señor: “De rondar por la tierra y andar por ella de un lado a otro.”
+ Satanás respondió al Señor: “De rondar por la tierra y andar por ella de un lado a otro.”
 
 ---
 

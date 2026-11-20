@@ -22,7 +22,7 @@ Confía en el Señor para siempre, porque el Señor Dios es la Roca eterna.
 
 ## Isaías 26:6
 
-El pie la pisoteará— los pies de los pobres, los pasos de los oprimidos.
+El pie la pisoteará —los pies de los pobres, los pasos de los oprimidos—.
 
 ## Isaías 26:7
 

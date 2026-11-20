@@ -43,7 +43,7 @@ Moisés dijo al Señor: “¿Por qué has traído este problema sobre tu siervo?
 No puedo llevar yo solo a todo este pueblo; es una carga demasiado pesada para mí.
 
 ## Números 11:15
-Si así vas a tratarme, te ruego que me mates ahora—si he hallado gracia a tus ojos—y no me dejes ver mi propia ruina.”
+Si así vas a tratarme, te ruego que me mates ahora —si he hallado gracia a tus ojos— y no me dejes ver mi propia ruina.”
 
 ## Números 11:16
 El Señor dijo a Moisés: “Reúne para mí setenta hombres de los ancianos de Israel, que sepas que son ancianos del pueblo y sus oficiales. Llévalos a la tienda de reunión, y que se queden allí contigo.
@@ -76,7 +76,7 @@ Entonces Moisés salió y le dijo al pueblo lo que el Señor había dicho. Reuni
 Entonces el Señor descendió en la nube y le habló, y tomó del Espíritu que estaba sobre él y lo puso sobre los setenta ancianos. Cuando el Espíritu reposó sobre ellos, profetizaron, pero no lo volvieron a hacer.
 
 ## Números 11:26
-Sin embargo, dos hombres se habían quedado en el campamento; uno se llamaba Eldad y el otro Medad. El Espíritu también reposó sobre ellos, y profetizaron en el campamento.
+Sin embargo, dos hombres se habían quedado en el campamento; uno se llamaba Eldad y el otro Medad. El Espíritu también reposó sobre ellos. Estaban entre los inscritos, pero no habían salido a la tienda, y profetizaron en el campamento.
 
 ## Números 11:27
 Un joven corrió a Moisés y le informó: “Eldad y Medad están profetizando en el campamento.”

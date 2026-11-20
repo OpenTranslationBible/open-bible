@@ -2,388 +2,365 @@
 
 ## Jeremías 51:1
 
-“Este es el mensaje del Señor acerca de Babilonia, sobre la tierra de los babilonios, por medio del profeta Jeremías:
+Esto es lo que dice el Señor: “He aquí, levantaré contra Babilonia y contra el pueblo de Leb-camai el espíritu de un destructor.
 
 ## Jeremías 51:2
 
-“‘Declarad y proclamad entre las naciones, levantad un estandarte; proclamadlo y no lo ocultéis, decid: “Babilonia ha sido capturada, Bel ha sido avergonzado, Marduk ha sido destrozado; sus imágenes han sido avergonzadas, sus ídolos han sido destrozados.”
+Enviaré extranjeros a Babilonia para que la aventen y vacíen su tierra; porque vendrán contra ella por todos lados en el día de su desastre.
 
 ## Jeremías 51:3
 
-Porque una nación del norte ha venido contra ella; hará de su tierra una desolación, una horda jactanciosa; sus habitantes serán expulsados, tanto hombres como bestias.
+Que el arquero no tense su arco ni se ponga su armadura. No perdonéis a sus jóvenes; ¡destruid por completo a todo su ejército!
 
 ## Jeremías 51:4
 
-“‘En aquellos días y en aquel tiempo,’ declara el Señor, ‘se oirán los sonidos de alas susurrantes en la tierra de los babilonios, porque estoy trayendo destrucción sobre ellos desde la tierra del norte.
+Y caerán muertos en la tierra de los caldeos, y traspasados en sus calles.
 
 ## Jeremías 51:5
 
-“A Babilonia el habitante, a la tierra de los caldeos, cuya antigua gloria ha perecido—  
-Hablad, y decid, “Los jóvenes son abatidos en las calles, y sus vestiduras quedan en vergüenza.
+Porque Israel y Judá no han sido abandonados por su Dios, el Señor de los Ejércitos,  
+ aunque su tierra está llena de culpa delante del Santo de Israel.”
 
 ## Jeremías 51:6
 
-“‘¡Preparaos para la guerra contra ella!  
-Que todos los que manejan el arado se vuelvan atrás y pasen con toda su armadura.
+¡Huid de Babilonia! ¡Escapad con vida!  
+ No seáis destruidos en su castigo. Porque este es el tiempo de la venganza del Señor; Él le pagará lo que merece.
 
 ## Jeremías 51:7
 
-“‘¿Por qué ponerse las mejores vestiduras, buscando ser distinguidos?  
-Vosotros que manejáis el arco, ¡poneos el casco!  
-No escatiméis la espada; ¡no retengáis las flechas!  
-Una nación viene del norte,  
-Y un gran rey se levantará desde los confines de la tierra.
+Babilonia era una copa de oro en la mano del Señor,  
+ que embriagaba a toda la tierra.  
+ Las naciones bebieron de su vino;  
+ por eso las naciones han enloquecido.
 
 ## Jeremías 51:8
 
-Ha plantado las tiendas de su mando,  
-Cubierto sus lugares de reunión,  
-Ha subido contra ella, y sus jóvenes han caído en sus calles.
+De repente Babilonia ha caído y ha sido destrozada.  
+ Gemid por ella;  
+ traed bálsamo para su dolor; quizás pueda ser sanada.
 
 ## Jeremías 51:9
 
-“‘Oh arco de los poderosos será quebrado, y los que huyen caminarán heridos;  
-Porque el Señor “ha ideado un juicio contra Babilonia,  
-Para destruir la tierra de los caldeos;  
-Y la tierra se convertirá en un objeto de desolación, sin habitante.”
+“Quisimos sanar a Babilonia, pero no pudo ser sanada.  
+ ¡Abandonadla! Vayámonos cada uno a su propia tierra,  
+ porque su juicio llega hasta el cielo y se eleva hasta las nubes.  
+”
 
 ## Jeremías 51:10
 
-Oh vosotros que habitáis junto a muchas aguas, abundantes en tesoros, vuestro fin ha llegado,  
-La medida de vuestra destrucción.
+“El Señor ha sacado a la luz nuestra justicia; venid, contemos en Sion lo que ha hecho el Señor nuestro Dios.  
+”
 
 ## Jeremías 51:11
 
-“‘El Señor de los ejércitos ha jurado por Sí mismo:  
-“Ciertamente, os llenaré de hombres como langostas,  
-Y con tal multitud de gente que el ruido de ellos os asombrará.
+¡Afilad las flechas! ¡Llenad las aljabas!  
+ El Señor ha despertado el espíritu de los reyes de los medos, porque Su plan es contra Babilonia,  
+ para destruirla; porque es la venganza del Señor, la venganza por Su templo.
 
 ## Jeremías 51:12
 
-Comeréis, os saciaréis y alabaréis al Señor vuestro Dios,  
-Porque Él os ha dado el deseo de vuestro corazón.”  
-Él ensancha vuestro dominio,  
-Y os da libertad para la gloria de vuestro nombre.
+Levantad una bandera contra los muros de Babilonia; reforzad la guardia;  
+ apostad a los centinelas; preparad la emboscada.  
+ Porque el Señor ha planeado y también ha cumplido lo que habló contra los habitantes de Babilonia.
 
 ## Jeremías 51:13
 
-“‘Porque el Señor dice,  
-“He aquí, defenderé vuestra causa  
-Y tomaré venganza por vosotros.  
-Secaré su mar y haré que sus manantiales se sequen.
+Tú que habitas junto a muchas aguas,  
+ rica en tesoros,  
+ ha llegado tu fin;  
+ el hilo de tu vida ha sido cortado.
 
 ## Jeremías 51:14
 
-“‘Y Babilonia se convertirá en un montón de ruinas, un lugar de morada para chacales, una desolación.
+El Señor de los Ejércitos ha jurado por Sí mismo: “Ciertamente te llenaré de hombres como de langostas, y lanzarán gritos de triunfo sobre ti.”
 
 ## Jeremías 51:15
 
-Como aldeas que no están habitadas, una tierra seca y desierto.
+Él es quien, con Su poder, hizo la tierra. Estableció el mundo con Su sabiduría, y con Su entendimiento extendió los cielos.
 
 ## Jeremías 51:16
 
-“‘Expulsaré de ella a los que se regocijan en su fuerza,  
-Y sus pueblos serán agobiados con necedad;  
-Sus oficiales y sus sabios se volverán necios.
+Cuando Él habla, hay un tumulto de aguas en los cielos,  
+ y hace que las nubes suban desde los confines de la tierra.  
+ Envía relámpagos con la lluvia y saca el viento de Sus depósitos.
 
 ## Jeremías 51:17
 
-Entonces pondré extranjeros sobre ella,  
-Y los malvados estarán en medio de ella;  
-Pondré fin a su maldad,  
-Y el sonido de sus canciones no se oirá más.
+Toda persona es insensata, carente de conocimiento;  
+ todo orfebre es avergonzado por sus ídolos,  
+ porque sus imágenes son un fraude,  
+ y no hay aliento en ellas.
 
 ## Jeremías 51:18
 
-Haré de Babilonia una posesión para el erizo,  
-Y estanques de agua,  
-La barreré con la escoba de la destrucción,’  
-Dice el Señor de los ejércitos.
+Son inútiles, objetos de burla;  
+ en el tiempo de su castigo,  
+ perecerán.
 
 ## Jeremías 51:19
 
-“‘El mar ha subido sobre Babilonia;  
-Ha sido cubierta con sus olas rugientes.
+La Porción de Jacob no es como estos; porque Él es el Hacedor de todas las cosas,  
+ incluida la tribu de Su herencia; el Señor de los Ejércitos es Su nombre.
 
 ## Jeremías 51:20
 
-“‘“¡Salid de en medio de ella, pueblo mío!  
-Y cada uno salve su vida de la ira feroz del Señor.
+“Tú eres Mi maza de guerra, Mi arma para la batalla.  
+ Contigo destrozo naciones; contigo arruino reinos.
 
 ## Jeremías 51:21
 
-“‘¡Levantad un estandarte sobre los muros de Babilonia!  
-Reforzad la guardia,  
-Colocad la vigilancia,  
-Enviad a los embajadores,  
-¡No os detengáis!  
-Adelantad los caballos,  
-¡Montad los corceles!  
-¡Reunid a los poderosos!
+Contigo destrozo al caballo y al jinete;  
+ contigo destrozo al carro y al conductor.
 
 ## Jeremías 51:22
 
-“‘¡Enviad a los arqueros!  
-Apresuraos y poneos contra ella por todos lados;  
-¡No dejéis escapar a nadie!  
-Pagadle conforme a su obra;  
-Hacedle exactamente como ella ha hecho.
+Contigo destrozo al hombre y a la mujer;  
+ contigo destrozo al anciano y al muchacho;  
+ contigo destrozo al joven y a la doncella.
 
 ## Jeremías 51:23
 
-“‘Cortad el aliento de su brazo extendido;  
-Que el Señor devuelva su iniquidad sobre ella.
+Contigo destrozo al pastor y a su rebaño; contigo destrozo al labrador y a sus bueyes;  
+ contigo destrozo a los gobernadores y a los funcionarios.
 
 ## Jeremías 51:24
 
-“‘Dispersaré a sus hijos e hijas  
-A los pueblos de todos los rincones;  
-Daré a Babilonia  
-Una plaga del corazón, de dolores y de lamentaciones.
+Ante vuestros propios ojos pagaré a Babilonia y a todos los habitantes de Caldea por todo el mal que han hecho en Sion,  
+”  
+ declara el Señor.
 
 ## Jeremías 51:25
 
-“‘Estoy contra ti, oh montaña destructora,  
-Que destruyes toda la tierra,” dice el Señor;  
-“Y extenderé mi mano contra ti,  
-Y te haré rodar desde los acantilados,  
-Y te convertiré en una montaña quemada.
+“He aquí, estoy contra ti, oh monte destructor,  
+ tú que devastas toda la tierra, declara el Señor.  
+ Extenderé Mi mano contra ti;  
+ te haré rodar por los precipicios y te convertiré en un monte calcinado.
 
 ## Jeremías 51:26
 
-Entonces no se tomará piedra  
-De ti para un monumento,  
-Ni serás levantada de nuevo,  
-Porque haré de Babilonia una desolación para siempre.”
+Nadie sacará de ti piedra angular ni piedra de cimiento,  
+ porque quedarás desolado para siempre,  
+”  
+ declara el Señor.
 
 ## Jeremías 51:27
 
-“¡Levantad un estandarte en la tierra!  
-¡Tocad la trompeta entre los pueblos!  
-¡Preparad a las naciones para la batalla contra ella!  
-Convocad contra ella a los reinos, a los arameos, a los gebalitas,  
-A los amonitas y a los moabitas, contra ella,  
-Al pueblo de whobbeth y Thammuz,  
-Contra ella, las naciones de toda la faz de la tierra.
+“¡Levantad una bandera en la tierra!  
+ ¡Tocad la trompeta entre las naciones!  
+ Preparad a las naciones contra ella.  
+ Convocad contra ella a los reinos: Ararat,  
+ Minni y Askenaz.  
+ Nombrad contra ella un capitán;  
+ haced subir caballos como langostas en enjambre.
 
 ## Jeremías 51:28
 
-“‘Sí, reunid contra ella a los reinos de Ararat, Minni y Askenaz;  
-Nombrad arqueros contra ella;  
-¡Dad la orden de destruirla!  
-¡Enviad los caballos, ponedlos en movimiento!  
-¡Subid, guerreros, y envolveos con vuestra vergüenza!
+Preparad a las naciones para la batalla contra ella:  
+ los reyes de los medos,  
+ sus gobernadores y todos sus funcionarios,  
+ y todas las tierras que dominan.
 
 ## Jeremías 51:29
 
-“‘El Señor ha levantado un espíritu de los reyes de los medos;  
-Desde una tierra lejana han venido, y los haré moverse contra ella;  
-Nadie considerará la plata, ni se deleitará en el oro.
+La tierra tiembla y se retuerce,  
+ porque los designios del Señor contra Babilonia se mantienen:  
+ hacer de la tierra de Babilonia una desolación, sin habitante.
 
 ## Jeremías 51:30
 
-Sus arcos matarán a los jóvenes;  
-No tendrán misericordia del fruto del vientre;  
-Sus ojos no tendrán piedad de los niños.
+Los guerreros de Babilonia han dejado de pelear;  
+ se quedan en sus fortalezas. Sus fuerzas se han agotado; se han vuelto como mujeres.  
+ Las casas de Babilonia han sido incendiadas, los cerrojos de sus puertas están rotos.
 
 ## Jeremías 51:31
 
-“‘Y Babilonia se convertirá en un montón en la tierra desolada,  
-Un botín y un dilema para las naciones.
+Un correo corre al encuentro de otro, y mensajero tras mensajero,  
+ para anunciar al rey de Babilonia que su ciudad ha sido tomada de un extremo a otro.
 
 ## Jeremías 51:32
 
-El mar ha subido sobre Babilonia;  
-Está cubierta con sus olas rugientes.
+Los vados han sido tomados, los pantanos incendiados,  
+ y los soldados están aterrados.”
 
 ## Jeremías 51:33
 
-“‘Sus ciudades se han convertido en una desolación,  
-Una tierra seca y desierto, una tierra en la que nadie habita,  
-Ni pasa nadie de la humanidad.
+Porque esto es lo que dice el Señor de los Ejércitos, el Dios de Israel:  
+ “La Hija de Babilonia es como una era en el tiempo en que se la pisa.  
+ Dentro de muy poco le llegará el tiempo de la cosecha.”
 
 ## Jeremías 51:34
 
-“‘Y castigaré a Bel en Babilonia,  
-Y sacaré la imagen tallada de Marduk, y a los sacerdotes idólatras,  
-Junto con aquellos que los adoran al mismo tiempo,  
-Para que se conviertan en necedad y presa capturada.
+“Nabucodonosor, rey de Babilonia,  
+ me ha devorado; me ha aplastado. Me ha dejado a un lado como una vasija vacía;  
+ me ha tragado como un monstruo;  
+ llenó su vientre con mis manjares y me vomitó.
 
 ## Jeremías 51:35
 
-“‘Oh vosotros que habitáis junto a muchas aguas, abundantes en tesoros,  
-Vuestro fin ha llegado, la medida de vuestra destrucción.
+Que la violencia hecha a mí y a mi carne caiga sobre Babilonia,” dice el habitante de Sion.  
+ “Que mi sangre caiga sobre los habitantes de Caldea,” dice Jerusalén.
 
 ## Jeremías 51:36
 
-“‘El Señor ha hablado:  
-“Ciertamente, os llenaré de hombres  
-Como langostas, y levantarán un grito de batalla  
-Contra vosotros.
+Por lo tanto,  
+ esto es lo que dice el Señor: “He aquí,  
+ defenderé tu causa y tomaré venganza por ti;  
+ secaré su mar y haré que sus manantiales se agoten.
 
 ## Jeremías 51:37
 
-“‘Levantarán un grito contra vosotros,  
-Como quien levanta un grito de batalla amenazante en las montañas;  
-Porque el Señor os ha tomado  
-Y os ha turbado con el sonido de su flecha.
+Babilonia se convertirá en un montón de escombros,  
+ una guarida de chacales,  
+ objeto de horror y de burla,  
+ sin habitante.
 
 ## Jeremías 51:38
 
-“‘Pero sus jóvenes caerán en sus calles,  
-Y todos sus guerreros serán destruidos en ese día,’  
-Declara el Señor.
+Rugirán juntos como leones jóvenes;  
+ gruñirán como cachorros de león.
 
 ## Jeremías 51:39
 
-“‘He aquí, estoy contra ti, arrogante,’  
-Declara el Señor Dios de los ejércitos,  
-“Porque ha llegado tu día, el tiempo en que te castigaré.
+Mientras estén encendidos de calor,  
+ les serviré un banquete y los embriagaré para que se diviertan;  
+ luego dormirán un sueño eterno y nunca despertarán, declara el Señor.
 
 ## Jeremías 51:40
 
-El arrogante tropezará y caerá  
-Sin que nadie lo levante,  
-Y prenderé fuego a sus ciudades,  
-Y serán quemadas.
+Los haré descender como corderos al matadero,  
+ como carneros junto con machos cabríos.
 
 ## Jeremías 51:41
 
-“‘“Traeré venganza;  
-No mostraré misericordia;  
-Y sus propios ojos tendrán una mirada satánica en la ejecución.’”
+¡Cómo ha sido tomada Sesac!  
+ ¡Ha sido capturada la alabanza de toda la tierra!  
+ ¡Qué horror se ha vuelto Babilonia entre las naciones!
 
 ## Jeremías 51:42
 
-“‘Poneos en formación contra Babilonia por todos lados,  
-Todos los que tensan el arco, disparad contra ella;  
-¡No escatiméis vuestras flechas!  
-Porque ha pecado contra el Señor.
+El mar ha subido sobre Babilonia;  
+ está cubierta de olas turbulentas.
 
 ## Jeremías 51:43
 
-“‘He aquí, el Señor trae sobre ella a aquellos que se levantan como el viento del norte;  
-Y la alejarán como el torbellino.
+Sus ciudades se han convertido en una desolación, una tierra seca y árida, una tierra donde nadie vive,  
+ por donde no pasa ningún hijo de hombre.
 
 ## Jeremías 51:44
 
-¡Las puertas altas y las barras de bronce serán destrozadas!  
-El rey y los príncipes se sentarán allí en vergüenza;  
-Se encerrarán y subirán por los muros,  
-Pero encenderé un fuego en sus mentones,  
-Y los consumirá.”
+Castigaré a Bel en Babilonia.  
+ Le haré vomitar lo que se tragó.  
+ Las naciones ya no acudirán a él en tropel;  
+ aun el muro de Babilonia caerá.
 
 ## Jeremías 51:45
 
-“‘“¡Salid de en medio de ella, pueblo mío!  
-Que cada uno salve su vida de la ira feroz del Señor.
+¡Salid de en medio de ella, pueblo Mío!  
+ Salvad vuestra vida, cada uno de vosotros, de la ira feroz del Señor.
 
 ## Jeremías 51:46
 
-“‘Inclina tu oído y ven a mí;  
-Escucha, y tu vida será preservada.
+Que no desmaye vuestro corazón, y no temáis cuando se oiga el rumor en la tierra;  
+ porque un año vendrá un rumor —y otro al año siguiente— de violencia en la tierra y de gobernante contra gobernante.
 
 ## Jeremías 51:47
 
-He aquí, voy a levantar y traer contra Babilonia  
-Una asamblea de grandes naciones desde la tierra del norte—
+Por tanto, he aquí, vienen días en que castigaré a los ídolos de Babilonia.  
+ Toda su tierra sufrirá vergüenza, y todos sus muertos yacerán caídos en medio de ella.
 
 ## Jeremías 51:48
 
-Acamparán contra ella;  
-Tendrán muro y rampa, y dispararán contra ella con flechas desde el suelo.
+Entonces el cielo y la tierra y todo lo que hay en ellos gritarán de júbilo sobre Babilonia,  
+ porque los destructores del norte vendrán contra ella,” declara el Señor.
 
 ## Jeremías 51:49
 
-Levantarán una rampa de asedio,  
-Construirán un muro,  
-Entrarán por sus puertas,  
-Como hombres irrumpiendo en una ciudad.
+“Babilonia tiene que caer por causa de los muertos de Israel,  
+ así como por causa de Babilonia han caído los muertos de toda la tierra.
 
 ## Jeremías 51:50
 
-Pero serán capturados, su flecha no se volverá atrás,  
-Y la cuerda del arco será rota,  
-Porque el Señor es un Dios de retribución;  
-Él pagará en su totalidad.
+Vosotros que habéis escapado de la espada, ¡marchaos,  
+ no os detengáis!  
+ Acordaos del Señor desde lejos,  
+ y que Jerusalén venga a vuestra memoria.”
 
 ## Jeremías 51:51
 
-“‘He aquí, estoy levantando contra ellos  
-A los medos, que no tienen consideración por la plata;  
-En cuanto al oro, no se deleitan en él.
+“Estamos avergonzados porque hemos oído insultos;  
+ la deshonra ha cubierto nuestros rostros,  
+ porque extranjeros han entrado en los lugares santos de la casa del Señor.”
 
 ## Jeremías 51:52
 
-Sus arcos matarán a los jóvenes;  
-No tendrán misericordia del fruto del vientre;  
-Sus ojos no tendrán piedad de los niños.
+“Por tanto, he aquí, vienen días,”  
+ declara el Señor, “en que castigaré a sus ídolos,  
+ y por toda su tierra gemirán los heridos.
 
 ## Jeremías 51:53
 
-“‘Y Babilonia se convertirá en un montón en el desierto,  
-Una tierra seca y un desierto,  
-Una tierra en la que no vive ni pasa hombre alguno.
+Aunque Babilonia suba hasta los cielos y fortifique su alta fortaleza,  
+ los destructores que Yo envíe vendrán contra ella,  
+” declara el Señor.
 
 ## Jeremías 51:54
 
-“‘Pagaré retribución a Babilonia y a todos los habitantes de Caldea  
-Por todo el mal que han hecho en Sion a vuestra vista,’  
-Declara el Señor.
+“¡Se oye un grito desde Babilonia,  
+ el estruendo de una gran destrucción desde la tierra de los caldeos!
 
 ## Jeremías 51:55
 
-Vosotros que habéis escapado de la espada de los caldeos,  
-Zarpad para habitarlos,  
-Y enterrad en la tierra vuestra vestidura,  
-Escondedla del rostro del opresor.
+Porque el Señor destruirá a Babilonia;  
+ acallará su gran voz.  
+ Las olas rugirán como muchas aguas;  
+ resonará el estruendo de sus voces.
 
 ## Jeremías 51:56
 
-Porque el Señor ha designado un día  
-De venganza—Tiene indignación sobre Babilonia;  
-Y el poder de sus muertos caerá en medio de ella.
+Porque viene un destructor contra ella, contra Babilonia.  
+ Sus guerreros serán capturados, y sus arcos serán quebrados,  
+ porque el Señor es un Dios de retribución; Él pagará por completo.
 
 ## Jeremías 51:57
 
-Y toda la tierra temblará al sonido de su caída,  
-Al sonido de un grito, al sonido de un rugido;  
-“Porque su voz ha sonado como el mar;  
-Porque ha hablado como el dragón,  
-Lanzando amenazas, levantando ferozmente su voz.
+Embriagaré a sus príncipes y a sus sabios,  
+ junto con sus gobernadores, funcionarios y guerreros.  
+ Entonces dormirán un sueño eterno y no despertarán,  
+” declara el Rey,  
+ cuyo nombre es el Señor de los Ejércitos.
 
 ## Jeremías 51:58
 
-Por lo tanto, los muertos del Señor caerán en ese día  
-Desde un extremo de la tierra hasta el otro;  
-No serán lamentados,  
-Ni recogidos, Ni enterrados;  
-Serán estiércol sobre la tierra.
+Esto es lo que dice el Señor de los Ejércitos:  
+ “Los gruesos muros de Babilonia serán derribados por completo, y sus altas puertas consumidas por el fuego.  
+ Así el trabajo de los pueblos será en vano;  
+ las naciones se agotarán para alimentar las llamas.  
+”
 
 ## Jeremías 51:59
 
-“Además, la palabra que el profeta Jeremías mandó a Seraías hijo de Nerías, hijo de Mahseías, cuando fue con Sedequías rey de Judá a Babilonia en el cuarto año de su reinado fue:
+Este es el mensaje que el profeta Jeremías dio al jefe de intendencia Seraías hijo de Nerías, hijo de Mahseías, cuando fue a Babilonia con Sedequías rey de Judá en el cuarto año del reinado de Sedequías.
 
 ## Jeremías 51:60
 
-Porque así dijo el Señor a Jeremías: ‘Toma un gran rollo y escribe en él todas las palabras que he hablado contra Babilonia y contra todas las naciones, desde el día que primero hablé acerca de ellas, hasta este día.’
+Jeremías había escrito en un solo rollo todo el desastre que vendría sobre Babilonia, todas estas palabras que habían sido escritas acerca de Babilonia.
 
 ## Jeremías 51:61
 
-Además, ata una piedra a él y lánzalo al río Éufrates,
+Y Jeremías dijo a Seraías: “Cuando llegues a Babilonia, procura leer en voz alta todas estas palabras,
 
 ## Jeremías 51:62
 
-y di, “Así se hundirá Babilonia y no se levantará de nuevo, a causa del desastre que estoy trayendo sobre ella.  
-Y si te preguntan, ‘¿Por qué has hecho esto?’ entonces les dirás, ‘Porque el Señor ha hablado y prometido hacer estas cosas.’
+y di: ‘Oh Señor, Tú has prometido destruir este lugar para que nadie quede en él,  
+ ni hombre ni bestia. Ciertamente quedará desolado para siempre.’
 
 ## Jeremías 51:63
 
-“Y cuando termines de leer este rollo, ata una piedra a él y lánzalo al río Éufrates,
+Cuando termines de leer este rollo, ata una piedra a él y lánzalo al río Éufrates,
 
 ## Jeremías 51:64
 
-y di, ‘Así se hundirá Babilonia y no se levantará de nuevo  
-A causa del desastre que estoy trayendo sobre ella,’”
+y di: ‘Así se hundirá Babilonia y no se levantará más,  
+ a causa del desastre que traeré sobre ella. Y su pueblo se cansará.’”
 
-Declara el Señor.
+ Aquí terminan las palabras de Jeremías.

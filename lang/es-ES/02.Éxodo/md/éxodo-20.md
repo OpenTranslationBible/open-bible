@@ -30,7 +30,7 @@ pero extiende misericordia a miles que me aman y guardan mis mandamientos.
 
 ## Éxodo 20:8
 
-“Observa el día de reposo, para santificarlo.
+“Acuérdate del día de reposo, para santificarlo.
 
 ## Éxodo 20:9
 

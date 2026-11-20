@@ -43,7 +43,7 @@ que olvides al Señor tu Hacedor, que extendió los cielos y puso los cimientos 
 El exiliado pronto será liberado; no morirá en su calabozo, ni le faltará pan.
 
 ## Isaías 51:15
-Porque yo soy el Señor tu Dios, que agita el mar para hacer rugir sus olas—el Señor Todopoderoso es su nombre.
+Porque yo soy el Señor tu Dios, que agita el mar para hacer rugir sus olas —el Señor Todopoderoso es su nombre—.
 
 ## Isaías 51:16
 He puesto mis palabras en tu boca y te he cubierto con la sombra de mi mano, para establecer los cielos, para poner los cimientos de la tierra, y para decir a Sion, ‘Tú eres mi pueblo.’”
@@ -55,7 +55,7 @@ He puesto mis palabras en tu boca y te he cubierto con la sombra de mi mano, par
 No hay quien la guíe entre todos los hijos que ha dado a luz, ni hay quien la tome de la mano entre todos los hijos que ha criado.
 
 ## Isaías 51:19
-Estas calamidades dobles te han sobrevenido—¿quién te consolará?—devastación y destrucción, hambre y espada—¿cómo puedo consolarte?
+Estas calamidades dobles te han sobrevenido —¿quién te consolará?— devastación y destrucción, hambre y espada —¿cómo puedo consolarte—?
 
 ## Isaías 51:20
 Tus hijos han desfallecido; yacen en cada esquina de la calle, como un antílope atrapado en una red. Están llenos de la ira del Señor, la reprensión de tu Dios.

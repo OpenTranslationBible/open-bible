@@ -98,7 +98,7 @@ Les he dado la gloria que me diste, para que sean uno como Nosotros somos uno—
 
 ## Juan 17:23
 
-Yo en ellos y Tú en Mí—para que sean llevados a la completa unidad. Entonces el mundo sabrá que Tú me enviaste y los has amado como me has amado a Mí.
+Yo en ellos y Tú en Mí —para que sean llevados a la completa unidad. Entonces el mundo sabrá que Tú me enviaste y los has amado como me has amado a Mí—.
 
 ---
 

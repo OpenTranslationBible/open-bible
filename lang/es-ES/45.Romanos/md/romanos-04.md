@@ -26,14 +26,13 @@ Así como también David habla de la bienaventuranza del hombre a quien Dios atr
 
 ## Romanos 4:7
 
-> “Bienaventurados aquellos
-> cuyas iniquidades son perdonadas,
-> cuyos pecados son cubiertos.
+> “Bienaventurados aquellos cuyas iniquidades son perdonadas,
+>  cuyos pecados son cubiertos.
 
 ## Romanos 4:8
 
-> Bienaventurado el hombre
-> a quien el Señor no le tomará en cuenta su pecado.”
+> Bienaventurado el hombre a quien el Señor no le tomará en cuenta su pecado.
+> ”
 
 ## Romanos 4:9
 
@@ -97,7 +96,7 @@ Las palabras “le fue contada” no fueron escritas solo para él,
 
 ## Romanos 4:24
 
-sino también para nosotros, a quienes nos será contada—para nosotros que creemos en aquel que levantó de los muertos a Jesús nuestro Señor.
+sino también para nosotros, a quienes nos será contada —para nosotros que creemos en aquel que levantó de los muertos a Jesús nuestro Señor—.
 
 ## Romanos 4:25
 

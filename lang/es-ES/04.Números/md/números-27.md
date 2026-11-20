@@ -66,7 +66,7 @@ Moisés entonces habló al Señor,
 
 ## Números 27:17
 
-uno que los guíe a salir y a entrar, para que el pueblo del Señor no sea como ovejas sin pastor.”
+uno que salga y entre delante de ellos, y que los guíe a salir y a entrar, para que el pueblo del Señor no sea como ovejas sin pastor.”
 
 ## Números 27:18
 

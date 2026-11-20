@@ -11,42 +11,42 @@ y Él comenzó a instruirlos, diciendo:
 ## Mateo 5:3
 
 > “Bienaventurados los pobres en espíritu,
-> porque el reino de los cielos les pertenece.
+>  porque el reino de los cielos les pertenece.
 
 ## Mateo 5:4
 
 > Bienaventurados los que lloran,
-> porque recibirán consuelo.
+>  porque recibirán consuelo.
 
 ## Mateo 5:5
 
 > Bienaventurados los mansos,
-> porque heredarán la tierra.
+>  porque heredarán la tierra.
 
 ## Mateo 5:6
 
 > Bienaventurados los que tienen hambre y sed de justicia,
-> porque serán saciados.
+>  porque serán saciados.
 
 ## Mateo 5:7
 
 > Bienaventurados los misericordiosos,
-> porque recibirán misericordia.
+>  porque recibirán misericordia.
 
 ## Mateo 5:8
 
 > Bienaventurados los de corazón puro,
-> porque verán a Dios.
+>  porque verán a Dios.
 
 ## Mateo 5:9
 
 > Bienaventurados los pacificadores,
-> porque serán llamados hijos de Dios.
+>  porque serán llamados hijos de Dios.
 
 ## Mateo 5:10
 
 > Bienaventurados los perseguidos por causa de la justicia,
-> porque el reino de los cielos es de ellos.
+>  porque el reino de los cielos es de ellos.
 
 ## Mateo 5:11
 
@@ -214,4 +214,4 @@ Y si saludáis solo a vuestros hermanos, ¿qué hacéis de más? ¿No hacen lo m
 
 ## Mateo 5:48
 
-Por lo tanto, esforzaos por ser perfectos así como vuestro Padre celestial es perfecto.
+Por lo tanto, sed perfectos, así como vuestro Padre celestial es perfecto.

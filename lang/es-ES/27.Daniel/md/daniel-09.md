@@ -19,7 +19,7 @@ hemos pecado y hecho lo malo. Hemos actuado impíamente y nos hemos rebelado, ap
 No hemos escuchado a Tus siervos los profetas, que hablaron en Tu nombre a nuestros reyes, nuestros líderes, nuestros antepasados y todo el pueblo de la tierra.
 
 ## Daniel 9:7
-“La justicia pertenece a Ti, Señor, pero a nosotros nos pertenece la vergüenza abierta, como es hoy—al pueblo de Judá, a los habitantes de Jerusalén y a todo Israel, los cercanos y los lejanos, en todos los países a donde los has llevado, por su infidelidad hacia Ti.
+“La justicia pertenece a Ti, Señor, pero a nosotros nos pertenece la vergüenza abierta, como es hoy —al pueblo de Judá, a los habitantes de Jerusalén y a todo Israel, los cercanos y los lejanos, en todos los países a donde los has llevado, por su infidelidad hacia Ti—.
 
 ## Daniel 9:8
 La vergüenza abierta nos pertenece, Señor, a nuestros reyes, nuestros líderes y nuestros antepasados, porque hemos pecado contra Ti.

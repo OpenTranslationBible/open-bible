@@ -128,7 +128,7 @@ Jesús respondió, “En verdad os digo, no hay nadie que haya dejado casa o her
 
 ## Marcos 10:30
 
-que no reciba cien veces más en este tiempo presente: casas, hermanos, hermanas, madres, hijos y campos—junto con persecuciones—y en el siglo venidero, la vida eterna.
+que no reciba cien veces más en este tiempo presente: casas, hermanos, hermanas, madres, hijos y campos —junto con persecuciones— y en el siglo venidero, la vida eterna.
 
 ## Marcos 10:31
 

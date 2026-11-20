@@ -170,7 +170,7 @@ Entonces les indicó que hicieran que toda la gente se sentara en grupos sobre l
 
 ## Marcos 6:40
 
-Así que se sentaron en grupos organizados.
+Así que se sentaron en grupos de cien y de cincuenta.
 
 ## Marcos 6:41
 
@@ -238,4 +238,4 @@ Corrieron por toda la región y llevaron a los enfermos en camillas a donde oyer
 
 ## Marcos 6:56
 
-Y dondequiera que iba—en aldeas, ciudades o el campo—ponían a los enfermos en las plazas y le rogaban que les permitiera tocar siquiera el borde de su manto, y todos los que lo tocaban eran sanados.
+Y dondequiera que iba —en aldeas, ciudades o el campo— ponían a los enfermos en las plazas y le rogaban que les permitiera tocar siquiera el borde de su manto, y todos los que lo tocaban eran sanados.

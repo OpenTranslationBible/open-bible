@@ -66,15 +66,15 @@ El mensaje de los profetas se alinea con esto, como está escrito:
 
 ## Hechos 15:16
 
-> ‘Después de esto, volveré
-> y restauraré la casa caída de David.
-> Reconstruiré sus ruinas,
-> y la levantaré de nuevo,
+> ‘Después de esto,
+>  volveré y restauraré la tienda caída de David.
+>  Reconstruiré sus ruinas,
+>  y la levantaré de nuevo,
 
 ## Hechos 15:17
 
 > para que el resto de la humanidad busque al Señor,
-> incluyendo a todos los gentiles que llevan mi nombre,’
+>  incluyendo a todos los gentiles que llevan mi nombre,’
 
 ## Hechos 15:18
 

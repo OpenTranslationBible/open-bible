@@ -78,7 +78,7 @@ Después de esto, volverá hacia las fortalezas de su propia tierra, pero tropez
 
 ## Daniel 11:20
 
-Su sucesor enviará a un oficial para recaudar impuestos para mantener el esplendor real. Sin embargo, en pocos años será destruido, pero no en ira ni en batalla.
+Su sucesor enviará a un oficial para recaudar impuestos para mantener el esplendor real. Sin embargo, en pocos días será destruido, pero no en ira ni en batalla.
 
 ## Daniel 11:21
 
@@ -118,7 +118,7 @@ En el tiempo señalado invadirá nuevamente el Sur, pero esta vez el resultado s
 
 ## Daniel 11:30
 
-Naves de las regiones occidentales se opondrán a él, y perderá el ánimo. Entonces se volverá y descargará su furia contra el pacto sagrado. Regresará y mostrará favor a los que abandonen el pacto sagrado.
+Naves de Quitim se opondrán a él, y perderá el ánimo. Entonces se volverá y descargará su furia contra el pacto sagrado. Regresará y mostrará favor a los que abandonen el pacto sagrado.
 
 ## Daniel 11:31
 
@@ -174,7 +174,7 @@ Se apoderará de los tesoros de oro y plata y de todas las riquezas de Egipto, c
 
 ## Daniel 11:44
 
-Pero los informes del este y del norte lo alarmarán, en su lugar saldrá furioso: para destruir y aniquilar a muchos.
+Pero los informes del este y del norte lo alarmarán, y saldrá furioso para destruir y aniquilar a muchos.
 
 ## Daniel 11:45
 

@@ -74,7 +74,7 @@ Sacrificó el buey y el carnero como las ofrendas de paz para el pueblo. Sus hij
 
 ## Levítico 9:19
 
-Las porciones de grasa del buey y del carnero—la cola grasa, la capa de grasa, los riñones y el lóbulo largo del hígado—
+Las porciones de grasa del buey y del carnero —la cola grasa, la capa de grasa, los riñones y el lóbulo largo del hígado—
 
 ## Levítico 9:20
 

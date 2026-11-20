@@ -64,7 +64,7 @@ Los benjamitas regresaron en ese momento, y les dieron las mujeres de Jabes-gala
 
 ## Jueces 21:15
 
-El pueblo lloró por Benjamín, ya que el Señor había permitido que ocurriera un vacío entre las tribus de Israel.
+El pueblo lloró por Benjamín, ya que el Señor había hecho un vacío entre las tribus de Israel.
 
 ## Jueces 21:16
 

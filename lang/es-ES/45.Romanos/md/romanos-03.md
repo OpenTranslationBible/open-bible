@@ -16,8 +16,8 @@
 
 ¡De ninguna manera! Que Dios sea veraz, y toda persona mentirosa, tal como está escrito:
 
-> “Para que seas justificado en tus palabras
-> y prevalezcas cuando seas juzgado.”
+>  “Para que seas justificado en tus palabras y prevalezcas cuando seas juzgado.
+> ”
 
 ## Romanos 3:5
 
@@ -33,7 +33,7 @@ Pero si a través de mi falsedad la veracidad de Dios aumenta para su gloria, ¿
 
 ## Romanos 3:8
 
-¿Y por qué no decir—como se nos calumnia diciendo—“Hagamos el mal para que venga el bien”? Su condenación es justa.
+¿Y por qué no decir —como se nos calumnia diciendo— “Hagamos el mal para que venga el bien”? Su condenación es justa.
 
 ## Romanos 3:9
 
@@ -43,24 +43,24 @@ Pero si a través de mi falsedad la veracidad de Dios aumenta para su gloria, ¿
 
 Porque está escrito:
 
-> “No hay justo, ni siquiera uno;
+>  “No hay justo, ni siquiera uno;
 
 ## Romanos 3:11
 
 > no hay quien entienda de verdad;
-> no hay quien busque a Dios.
+>  no hay quien busque a Dios.
 
 ## Romanos 3:12
 
 > Todos se han desviado, se han vuelto inútiles;
-> no hay quien haga el bien,
-> ni siquiera uno.”
+>  no hay quien haga el bien,
+>  ni siquiera uno.”
 
 ## Romanos 3:13
 
 > “Sus gargantas son sepulcros abiertos;
-> con sus lenguas engañan continuamente.”
-> “Veneno de víboras hay en sus labios.”
+>  con sus lenguas engañan continuamente.”
+>  “Veneno de víboras hay en sus labios.”
 
 ## Romanos 3:14
 

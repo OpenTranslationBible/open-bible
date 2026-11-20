@@ -88,8 +88,8 @@ Porque sería preferible para ellos no haber conocido el camino de la justicia, 
 
 Esto se muestra por el verdadero proverbio:
 
-> “El perro vuelve a su propio vómito,”
+>  “El perro vuelve a su propio vómito,”
 
-y,
+ y,
 
-> “La cerda, después de lavarse, vuelve a revolcarse en el lodo.”
+>  “La cerda, después de lavarse, vuelve a revolcarse en el lodo.”

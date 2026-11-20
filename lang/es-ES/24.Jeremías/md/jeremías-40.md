@@ -22,7 +22,7 @@ Así que Jeremías fue a Gedalías hijo de Ahicam en Mizpa y se quedó con él e
 Cuando todos los comandantes de las fuerzas en el campo abierto y sus hombres oyeron que el rey de Babilonia había nombrado a Gedalías hijo de Ahicam como gobernador sobre la tierra, y lo había puesto a cargo de los hombres, mujeres y niños, aquellos de los más pobres de la tierra que no habían sido exiliados a Babilonia,
 
 ## Jeremías 40:8
-vinieron a Gedalías en Mizpa—junto con Ismael hijo de Netanías, Johanán y Jonatán los hijos de Carea, Seraías hijo de Tanhumet, los hijos de Efai el Netofatita, y Jaazanías hijo del Maacateo, y sus hombres.
+vinieron a Gedalías en Mizpa —junto con Ismael hijo de Netanías, Johanán y Jonatán los hijos de Carea, Seraías hijo de Tanhumet, los hijos de Efai el Netofatita, y Jaazanías hijo del Maacateo, y sus hombres—.
 
 ## Jeremías 40:9
 Gedalías hijo de Ahicam, hijo de Safán, les aseguró a ellos y a sus hombres, diciendo: “No tengan miedo de servir a los babilonios; establezcanse en la tierra y sirvan al rey de Babilonia, y les irá bien.

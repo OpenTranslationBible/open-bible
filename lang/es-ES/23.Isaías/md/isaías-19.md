@@ -43,7 +43,7 @@ Los oficiales de Zoán se han vuelto necios, los líderes de Menfis están enga�
 El Señor ha mezclado dentro de ella un espíritu de mareo; hacen que Egipto tambalee en todo lo que hace, como un borracho tambalea en su vómito.
 
 ## Isaías 19:15
-No hay nada que Egipto pueda hacer—cabeza o cola, rama de palmera o junco.
+No hay nada que Egipto pueda hacer —cabeza o cola, rama de palmera o junco—.
 
 ## Isaías 19:16
 En ese día los egipcios se volverán débiles; temblarán de miedo ante la mano levantada que el Señor de los Ejércitos levanta contra ellos.

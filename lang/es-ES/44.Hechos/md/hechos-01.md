@@ -88,12 +88,12 @@ Esto llegó a ser conocido por todos los habitantes de Jerusalén, de modo que l
 
 “Porque,” dijo Pedro, “está escrito en el libro de los Salmos:
 
-> ‘Que su lugar quede desierto;
-> que no haya nadie que habite en él,’
+>  ‘Que su lugar quede desierto;
+>  que no haya nadie que habite en él,’
 
-y,
+ y,
 
-> ‘Que otro tome su cargo.’
+>  ‘Que otro tome su cargo.’
 
 ---
 

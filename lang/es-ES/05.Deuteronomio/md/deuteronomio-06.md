@@ -38,11 +38,11 @@ Inscríbelos en los marcos de las puertas de tus casas y en tus puertas.
 
 ## Deuteronomio 6:10
 
-Cuando el Señor tu Dios te lleve a la tierra que juró a tus padres, a Abraham, Isaac y Jacob, para darte—grandes y espléndidas ciudades que no edificaste,
+Cuando el Señor tu Dios te lleve a la tierra que juró a tus padres, a Abraham, Isaac y Jacob, para darte —grandes y espléndidas ciudades que no edificaste,—
 
 ## Deuteronomio 6:11
 
-casas llenas de toda clase de bienes que no proveíste, pozos que no cavaste, y viñedos y olivares que no plantaste—entonces cuando comas y te sacies,
+casas llenas de toda clase de bienes que no proveíste, pozos que no cavaste, y viñedos y olivares que no plantaste —entonces cuando comas y te sacies,—
 
 ## Deuteronomio 6:12
 

@@ -111,8 +111,8 @@ Entonces Dios dijo: “Hagamos al ser humano a nuestra imagen, conforme a nuestr
 ## Génesis 1:27
 
 > Así que Dios formó al ser humano a Su propia imagen,
-> a imagen de Dios los creó;
-> hombre y mujer los creó.
+>  a imagen de Dios los creó;
+>  hombre y mujer los creó.
 
 ## Génesis 1:28
 

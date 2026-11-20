@@ -31,7 +31,7 @@ Además de ser sabio, el Maestro también impartió conocimiento al pueblo. Refl
 El Maestro procuró encontrar las palabras correctas y escribir con exactitud palabras de verdad.
 
 ## Eclesiastés 12:11
-Las palabras de los sabios son como aguijones, y sus dichos recopilados como clavos bien clavados—dados por un solo Pastor.
+Las palabras de los sabios son como aguijones, y sus dichos recopilados como clavos bien clavados —dados por un solo Pastor—.
 
 ## Eclesiastés 12:12
 Pero más allá de esto, hijo mío, ten cuidado: de hacer muchos libros no hay fin, y mucho estudio fatiga el cuerpo.

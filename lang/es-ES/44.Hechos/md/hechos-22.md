@@ -14,7 +14,7 @@ Cuando le oyeron hablarles en el dialecto hebreo, se quedaron aún más callados
 
 ## Hechos 22:4
 
-Perseguí este Camino implacablemente, atando y encarcelando tanto a hombres como a mujeres,
+Perseguí este Camino hasta la muerte, atando y encarcelando tanto a hombres como a mujeres,
 
 ## Hechos 22:5
 

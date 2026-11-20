@@ -76,7 +76,7 @@ Hemos oído informes sobre ellos, y nuestras manos están débiles. La angustia 
 Evitad salir a los campos o caminar por los caminos, porque el enemigo tiene una espada, y hay terror por todas partes.
 
 ## Jeremías 6:26
-Vestíos de cilicio y cubríos de ceniza; lamentad con profundo duelo como por un hijo único, porque de repente vendrá sobre nosotros el destructor.
+Oh hija de mi pueblo, vestíos de cilicio y cubríos de ceniza; lamentad con profundo duelo como por un hijo único, porque de repente vendrá sobre nosotros el destructor.
 
 ## Jeremías 6:27
 ‘Te he hecho examinador de metales y mi pueblo el mineral, para que observes y examines sus caminos.

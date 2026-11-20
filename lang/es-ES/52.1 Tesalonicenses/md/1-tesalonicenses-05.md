@@ -102,7 +102,7 @@ Queridos amigos, orad por nosotros.
 
 ## 1 Tesalonicenses 5:26
 
-Saludad con afecto a todos los hermanos y hermanas.
+Saludad a todos los hermanos y hermanas con un beso santo.
 
 ## 1 Tesalonicenses 5:27
 

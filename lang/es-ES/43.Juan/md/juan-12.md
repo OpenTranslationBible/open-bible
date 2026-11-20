@@ -56,9 +56,9 @@ Al día siguiente, la gran multitud que había venido para la fiesta oyó que Je
 
 Tomaron ramas de palma y salieron a su encuentro, gritando,
 
-> “¡Hosanna!
-> ¡Bendito el que viene en el nombre del Señor!
-> ¡Bendito el Rey de Israel!”
+>  “¡Hosanna!
+>  ¡Bendito el que viene en el nombre del Señor!
+>  ¡Bendito el Rey de Israel!”
 
 ## Juan 12:14
 
@@ -67,8 +67,8 @@ Jesús encontró un burro joven y se sentó sobre él, cumpliendo lo que estaba 
 ## Juan 12:15
 
 > “No temas, hija de Sión;
-> mira, tu rey viene,
-> montado en un pollino de asna.”
+>  mira, tu rey viene,
+>  montado en un pollino de asna.”
 
 ## Juan 12:16
 
@@ -110,7 +110,7 @@ En verdad, en verdad les digo que, si el grano de trigo no cae en la tierra y mu
 
 ## Juan 12:25
 
-El que ama su vida la perderá, mientras que el que desprecia su vida en este mundo la conservará para vida eterna.
+El que ama su vida la perderá, mientras que el que aborrece su vida en este mundo la conservará para vida eterna.
 
 ## Juan 12:26
 
@@ -170,8 +170,8 @@ A pesar de que Jesús había realizado tantas señales en su presencia, todavía
 
 Esto fue para cumplir las palabras del profeta Isaías:
 
-> “Señor, ¿quién ha creído nuestro mensaje
-> y a quién se le ha revelado el brazo del Señor?”
+>  “Señor,
+>  ¿quién ha creído nuestro mensaje y a quién se le ha revelado el brazo del Señor?”
 
 ## Juan 12:39
 
@@ -179,11 +179,11 @@ No podían creer por esta razón, como dice Isaías en otro lugar:
 
 ## Juan 12:40
 
-> “Él cegó sus ojos
-> y endureció sus corazones,
-> para que no vean con sus ojos,
-> ni entiendan con sus corazones,
-> ni se conviertan —y yo los sanaría.”
+> “Él cegó sus ojos y endureció sus corazones,
+>  para que no vean con sus ojos,
+>  ni entiendan con sus corazones,
+>  ni se conviertan —y yo los sanaría—.
+> ”
 
 ## Juan 12:41
 

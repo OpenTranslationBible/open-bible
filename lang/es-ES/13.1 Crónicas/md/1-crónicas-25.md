@@ -4,31 +4,31 @@
 
 Además, David y los jefes del ejército apartaron para el servicio a algunos de los hijos de Asaf, Hemán y Jedutún,
 
-> que profetizaban con liras, arpas y címbalos;  
-> y el número de los que hacían este servicio era:
+>  que profetizaban con liras, arpas y címbalos;  
+>  y el número de los que hacían este servicio era:
 
 ---
 
 ## 1 Crónicas 25:2
 
 > De los hijos de Asaf: Zaccur, José, Netanías y Asarela;  
-> estos hijos estaban bajo la dirección de Asaf,  
-> quien profetizaba bajo la dirección del rey.
+>  estos hijos estaban bajo la dirección de Asaf,  
+>  quien profetizaba bajo la dirección del rey.
 
 ---
 
 ## 1 Crónicas 25:3
 
-> De Jedutún: los hijos de Jedutún eran Gedalías, Zeri, Isaías, Simei, Hasabías y Matatías—seis,  
-> bajo la dirección de su padre Jedutún con el arpa,  
-> quien profetizaba dando gracias y alabando al Señor.
+> De Jedutún: los hijos de Jedutún eran Gedalías, Zeri, Isaías, Simei, Hasabías y Matatías —seis,  
+>  bajo la dirección de su padre Jedutún con el arpa,  
+>  quien profetizaba dando gracias y alabando al Señor—.
 
 ---
 
 ## 1 Crónicas 25:4
 
 > De Hemán: los hijos de Hemán eran Buquías, Matanías, Uziel, Sebuel, Jerimot, Hananías, Hanani, Eliata,  
-> Gidalti, Romamti-ezer, Josbecasa, Maloti, Hotir y Mahaziot.
+>  Gidalti, Romamti-ezer, Josbecasa, Maloti, Hotir y Mahaziot.
 
 ---
 
@@ -36,25 +36,25 @@ Además, David y los jefes del ejército apartaron para el servicio a algunos de
 
 Todos estos eran hijos de Hemán, el vidente del rey,
 
-> para honrarlo conforme a las palabras de Dios;  
-> porque Dios concedió a Hemán catorce hijos y tres hijas.
+>  para honrarlo conforme a las palabras de Dios;  
+>  porque Dios concedió a Hemán catorce hijos y tres hijas.
 
 ---
 
 ## 1 Crónicas 25:6
 
-Todos estos estaban bajo la dirección de su padre
+Todos estos estaban bajo la dirección de su padre para cantar en la casa del Señor,
 
-> para cantar en la casa del Señor, con címbalos, arpas y liras,  
-> para el servicio de la casa de Dios.  
-> Asaf, Jedutún y Hemán estaban bajo la dirección del rey.
+>  con címbalos, arpas y liras,  
+>  para el servicio de la casa de Dios.  
+>  Asaf, Jedutún y Hemán estaban bajo la dirección del rey.
 
 ---
 
 ## 1 Crónicas 25:7
 
 El número de ellos que fueron instruidos en el canto al Señor,  
-con sus parientes, todos los hábiles, era de
+ con sus parientes, todos los hábiles, era de 288.
 
 > 288.
 
@@ -64,7 +64,7 @@ con sus parientes, todos los hábiles, era de
 
 Echaron suertes para sus deberes, todos por igual,
 
-> tanto los jóvenes como los viejos, el maestro como el alumno.
+>  tanto los jóvenes como los viejos, el maestro como el alumno.
 
 ---
 
@@ -72,7 +72,7 @@ Echaron suertes para sus deberes, todos por igual,
 
 La primera suerte para Asaf cayó a José,
 
-> la segunda a Gedalías, él con sus parientes e hijos eran doce;
+>  la segunda a Gedalías, él con sus parientes e hijos eran doce;
 
 ---
 

@@ -122,7 +122,7 @@ Porque el pueblo de Judá ha hecho lo malo ante Mis ojos,” declara el Señor. 
 
 ## Jeremías 7:31
 
-Han construido los lugares altos de Tofet en el Valle de Ben Hinnom para quemar a sus hijos e hijas en el fuego—algo que no mandé, ni vino a Mi mente.
+Han construido los lugares altos de Tofet en el Valle de Ben Hinnom para quemar a sus hijos e hijas en el fuego —algo que no mandé, ni vino a Mi mente—.
 
 ## Jeremías 7:32
 

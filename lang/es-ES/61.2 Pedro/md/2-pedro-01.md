@@ -3,7 +3,7 @@
 ## 2 Pedro 1:1
 
 Simón Pedro, siervo y apóstol de Jesucristo,  
-A los que han recibido una fe del mismo valor que la nuestra, por la justicia de nuestro Dios y Salvador, Jesucristo:
+ A los que han recibido una fe del mismo valor que la nuestra, por la justicia de nuestro Dios y Salvador, Jesucristo:
 
 ## 2 Pedro 1:2
 

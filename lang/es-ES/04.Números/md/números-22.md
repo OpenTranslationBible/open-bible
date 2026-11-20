@@ -25,7 +25,7 @@ Los ancianos de Moab y de Madián partieron, llevando consigo la paga para la ad
 Balaam les dijo: “Pasad aquí la noche, y os traeré la respuesta que el Señor me dé.” Así que los líderes moabitas se quedaron con él.
 
 ## Números 22:9
-El Señor se acercó a Balaam y le preguntó: “¿Quiénes son estos hombres que están contigo?”
+Dios se acercó a Balaam y le preguntó: “¿Quiénes son estos hombres que están contigo?”
 
 ## Números 22:10
 Balaam respondió a Dios: “Balac, hijo de Zipor, rey de Moab, me envió este mensaje:

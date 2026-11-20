@@ -4,7 +4,7 @@
 
 En el documento sellado estaban los nombres de:
 
-Nehemías el gobernador, hijo de Hacalías, y Sedequías,
+ Nehemías el gobernador, hijo de Hacalías, y Sedequías,
 
 ## Nehemías 10:2
 
@@ -60,7 +60,7 @@ Nehemías el gobernador, hijo de Hacalías, y Sedequías,
 
 Los jefes del pueblo:
 
-> Paros, Pahat-moab, Elam, Zatu y Bani,
+>  Paros, Pahat-moab, Elam, Zatu y Bani,
 
 ## Nehemías 10:15
 
@@ -118,7 +118,7 @@ Los jefes del pueblo:
 
 ## Nehemías 10:28
 
-El resto del pueblo—los sacerdotes, los levitas, los porteros, los cantores, los sirvientes del templo, y todos los que se habían separado de los pueblos de las tierras para seguir la Ley de Dios, junto con sus mujeres, sus hijos y sus hijas, todos los que tenían conocimiento y entendimiento—
+El resto del pueblo —los sacerdotes, los levitas, los porteros, los cantores, los sirvientes del templo, y todos los que se habían separado de los pueblos de las tierras para seguir la Ley de Dios, junto con sus mujeres, sus hijos y sus hijas, todos los que tenían conocimiento y entendimiento—
 
 ## Nehemías 10:29
 
@@ -164,4 +164,4 @@ Y el sacerdote, descendiente de Aarón, estará con los levitas cuando los levit
 
 Porque el pueblo de Israel y los hijos de Leví llevarán la contribución de grano, vino nuevo y aceite a los almacenes, donde se guardan los utensilios para el santuario, los sacerdotes que ministran, los porteros y los cantores.
 
-Así, no descuidaremos la casa de nuestro Dios.
+ Así, no descuidaremos la casa de nuestro Dios.

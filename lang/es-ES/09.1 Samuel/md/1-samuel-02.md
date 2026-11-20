@@ -4,68 +4,66 @@
 
 Entonces Ana oró y dijo:
 
-> “Mi corazón se regocija en el Señor;  
-> Mi poder se exalta en el Señor.  
-> Mi boca se ensancha sobre mis enemigos,  
-> Porque me regocijo en Tu salvación.
+>  “Mi corazón se alegra en el Señor;  
+>  el Señor ha levantado mi fuerza.  
+>  Mi boca se ríe de mis enemigos,  
+>  porque me alegro en tu salvación.
 
 ## 1 Samuel 2:2
 
-> No hay santo como el Señor,  
-> Porque no hay ninguno fuera de Ti,  
-> Ni hay roca como nuestro Dios.
+> Nadie es santo como el Señor,  
+>  porque no hay nadie aparte de ti,  
+>  ni hay roca como nuestro Dios.
 
 ## 1 Samuel 2:3
 
-> No habléis con tanta soberbia,  
-> No salga arrogancia de vuestra boca,  
-> Porque el Señor es un Dios de conocimiento,  
-> Y por Él son pesadas las acciones.
+> No habléis con tanto orgullo,  
+>  que no salga arrogancia de vuestra boca,  
+>  porque el Señor es un Dios que todo lo sabe,  
+>  y él pesa las acciones.
 
 ## 1 Samuel 2:4
 
-> Los arcos de los fuertes son quebrados,  
-> Pero los débiles se ciñen de poder.
+> Los arcos de los guerreros se han roto,  
+>  pero los que tropezaban ahora se visten de fuerza.
 
 ## 1 Samuel 2:5
 
-> Los que estaban llenos se alquilan por pan,  
-> Pero los hambrientos dejan de tener hambre.  
-> Aun la estéril ha dado a luz siete,  
-> Pero la que tenía muchos hijos languidece.
+> Los que estaban satisfechos ahora trabajan por un pedazo de pan,  
+>  pero los que tenían hambre ya están saciados.  
+>  Hasta la estéril ha dado a luz siete hijos,  
+>  pero la que tenía muchos hijos se marchita.
 
 ## 1 Samuel 2:6
 
-> El Señor da muerte y da vida;  
-> Hace descender al Seol y hace subir.
+> El Señor quita la vida y la da;  
+>  hace bajar a la tumba y hace subir de ella.
 
 ## 1 Samuel 2:7
 
-> El Señor empobrece y enriquece;  
-> Abate y enaltece.
+> El Señor da la pobreza y la riqueza;  
+>  humilla y también exalta.
 
 ## 1 Samuel 2:8
 
-> Levanta del polvo al pobre,  
-> Y del muladar exalta al necesitado  
-> Para hacerlos sentar con príncipes  
-> Y heredar un trono de honor.  
-> Porque del Señor son las columnas de la tierra,  
-> Y sobre ellas ha puesto el mundo.
+> Levanta del polvo al pobre y saca del basurero al necesitado,  
+>  para sentarlos con príncipes y darles un lugar de honor.  
+>  Porque las bases de la tierra son del Señor,  
+>  y sobre ellas puso el mundo.
 
 ## 1 Samuel 2:9
 
-> Él guarda los pies de sus santos,  
-> Mas los impíos perecen en tinieblas,  
-> Porque no por la fuerza prevalecerá el hombre.
+> Él cuida los pasos de sus fieles,  
+>  pero los malvados quedarán callados en la oscuridad,  
+>  porque nadie vence por su propia fuerza.
 
 ## 1 Samuel 2:10
 
-> Los adversarios del Señor serán quebrantados;  
-> Desde los cielos tronará contra ellos.  
-> El Señor juzgará los confines de la tierra.  
-> Dará poder a su rey  
-> Y exaltará el poder de su ungido.”
+> Los que se oponen al Señor serán hechos pedazos;  
+>  desde el cielo tronará contra ellos.  
+>  El Señor juzgará hasta los confines de la tierra.  
+>  Dará fuerza a su rey y levantará el poder de su ungido.  
+> ”
 
 ---
 
@@ -119,7 +117,7 @@ Y el Señor visitó a Ana, y ella concibió y dio a luz tres hijos y dos hijas. 
 
 ## 1 Samuel 2:22
 
-Ahora bien, Elí era muy viejo, y oyó todo lo que sus hijos hacían a todo Israel—cómo dormían con las mujeres que servían a la entrada del tabernáculo de reunión.
+Ahora bien, Elí era muy viejo, y oyó todo lo que sus hijos hacían a todo Israel —cómo dormían con las mujeres que servían a la entrada del tabernáculo de reunión—.
 
 ## 1 Samuel 2:23
 

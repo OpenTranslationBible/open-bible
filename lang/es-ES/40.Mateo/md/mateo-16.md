@@ -24,7 +24,7 @@ Cuando los discípulos cruzaron al otro lado del mar, se dieron cuenta de que ha
 
 ## Mateo 16:6
 
-Jesús les advirtió: “Tened cuidado y estad alerta contra la influencia de los fariseos y saduceos.”
+Jesús les advirtió: “Tened cuidado y estad alerta contra la levadura de los fariseos y saduceos.”
 
 ## Mateo 16:7
 
@@ -78,7 +78,7 @@ Y yo te digo que tú eres Pedro, y sobre esta roca edificaré Mi iglesia, y las 
 
 ## Mateo 16:19
 
-Te confiaré la autoridad del reino de los cielos; lo que ates en la tierra será atado en el cielo, y lo que desates en la tierra será desatado en el cielo.”
+Te confiaré las llaves del reino de los cielos; lo que ates en la tierra será atado en el cielo, y lo que desates en la tierra será desatado en el cielo.”
 
 ## Mateo 16:20
 

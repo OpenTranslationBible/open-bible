@@ -30,7 +30,7 @@ Pero aunque carezca de habilidad para hablar, no carezco de conocimiento; de hec
 
 ## 2 Corintios 11:8
 
-Recibí apoyo de otras iglesias, aceptando su ayuda para serviros;
+Despojé a otras iglesias, aceptando su ayuda para serviros;
 
 ## 2 Corintios 11:9
 
@@ -82,7 +82,7 @@ Porque lo toleráis si alguien os esclaviza, os consume, se aprovecha de vosotro
 
 ## 2 Corintios 11:21
 
-Para mi pesar, debo admitir que hemos sido débiles en comparación. Pero en cualquier aspecto en que alguien más sea audaz—hablo en necedad—yo también soy audaz.
+Para mi pesar, debo admitir que hemos sido débiles en comparación. Pero en cualquier aspecto en que alguien más sea audaz —hablo en necedad— yo también soy audaz.
 
 ## 2 Corintios 11:22
 
@@ -90,7 +90,7 @@ Para mi pesar, debo admitir que hemos sido débiles en comparación. Pero en cua
 
 ## 2 Corintios 11:23
 
-¿Son servidores de Cristo?—Hablo como si estuviera fuera de mí—yo más aún: en muchos más trabajos, en muchas más prisiones, golpeado innumerables veces, a menudo en peligro de muerte.
+¿Son servidores de Cristo? —Hablo como si estuviera fuera de mí— yo más aún: en muchos más trabajos, en muchas más prisiones, golpeado innumerables veces, a menudo en peligro de muerte.
 
 ## 2 Corintios 11:24
 

@@ -34,7 +34,7 @@ Su tierra está llena de ídolos; se inclinan ante la obra de sus manos, ante lo
 
 ## Isaías 2:9
 
-Así que la humanidad será humillada, y cada persona será abatida— no los perdones.
+Así que la humanidad será humillada, y cada persona será abatida —no los perdones—.
 
 ## Isaías 2:10
 

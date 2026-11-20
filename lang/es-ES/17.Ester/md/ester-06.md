@@ -28,7 +28,7 @@ Cuando Amán entró, el rey le preguntó: “¿Qué se debe hacer para el hombre
 
 ---
 
-Amán pensó para sí mismo: “¿A quién desearía el rey honrar más que a mí?”
+ Amán pensó para sí mismo: “¿A quién desearía el rey honrar más que a mí?”
 
 ## Ester 6:7
 
@@ -62,7 +62,7 @@ Amán contó a Zeres su esposa y a todos sus amigos todo lo que le había sucedi
 
 ---
 
-Sus sabios y su esposa Zeres le dijeron: “Si Mardoqueo, ante quien has comenzado a caer, es de ascendencia judía, no prevalecerás contra él, sino que seguramente caerás en ruina.”
+ Sus sabios y su esposa Zeres le dijeron: “Si Mardoqueo, ante quien has comenzado a caer, es de ascendencia judía, no prevalecerás contra él, sino que seguramente caerás en ruina.”
 
 ## Ester 6:14
 

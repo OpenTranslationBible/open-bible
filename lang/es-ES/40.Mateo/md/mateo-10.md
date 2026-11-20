@@ -154,11 +154,10 @@ Pero a cualquiera que me niegue delante de los demás, yo también lo negaré de
 
 ## Mateo 10:35
 
-Porque he venido a
+Porque he venido a poner en conflicto a un hijo contra su padre,
 
-> poner en conflicto a un hijo contra su padre,
-> a una hija contra su madre,
-> y a una nuera contra su suegra;
+>  a una hija contra su madre,
+>  y a una nuera contra su suegra;
 
 ## Mateo 10:36
 

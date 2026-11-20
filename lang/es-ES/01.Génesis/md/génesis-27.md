@@ -82,7 +82,7 @@ Entonces su padre Isaac le dijo: “Por favor, acércate y dame un beso, hijo m�
 Así que se acercó y lo besó; y cuando Isaac percibió el olor de sus vestiduras, lo bendijo y dijo: “Mira, el olor de mi hijo es como el olor de un campo que el Señor ha bendecido.
 
 ## Génesis 27:28
-Que Dios te dé del rocío del cielo y de la riqueza de la tierra—una abundancia de grano y vino nuevo.
+Que Dios te dé del rocío del cielo y de la riqueza de la tierra —una abundancia de grano y vino nuevo—.
 
 ## Génesis 27:29
 Que las naciones te sirvan y los pueblos se inclinen ante ti. Sé señor sobre tus hermanos, y que los hijos de tu madre se inclinen ante ti. Malditos sean los que te maldigan, y benditos sean los que te bendigan.”
@@ -97,7 +97,7 @@ Ahora sucedió que, tan pronto como Isaac terminó de bendecir a Jacob, y Jacob 
 Su padre Isaac le preguntó: “¿Quién eres?” Y él dijo: “Soy tu hijo, tu primogénito, Esaú.”
 
 ## Génesis 27:33
-Entonces Isaac tembló violentamente y dijo: “¿Quién fue entonces el que cazó y me lo trajo? Lo comí todo antes de que vinieras y lo bendije—¡y de hecho será bendecido!”
+Entonces Isaac tembló violentamente y dijo: “¿Quién fue entonces el que cazó y me lo trajo? Lo comí todo antes de que vinieras y lo bendije —¡y de hecho será bendecido—!”
 
 ## Génesis 27:34
 Cuando Esaú escuchó las palabras de su padre, gritó con un gran y amargo clamor y dijo a su padre: “¡Bendíceme, a mí también, padre mío!”
@@ -133,7 +133,7 @@ Ahora entonces, hijo mío, obedece mi voz y huye de inmediato a mi hermano Labá
 Quédate con él por un tiempo hasta que la ira de tu hermano se calme.
 
 ## Génesis 27:45
-Cuando tu hermano ya no esté enojado contigo y olvide lo que le hiciste, enviaré palabra para que regreses de allí. ¿Por qué debería perder a ambos en un solo día?”
+Cuando tu hermano ya no esté enojado contigo y olvide lo que le hiciste, mandaré a buscarte para que regreses de allí. ¿Por qué he de perderos a los dos en un solo día?”
 
 ## Génesis 27:46
-Y Rebeca dijo a Isaac: “Estoy cansada de vivir por causa de las hijas de Het. Si Jacob toma una esposa de entre las hijas de Het, como estas de las hijas de la tierra, ¿qué bien me hará la vida?”
+Y Rebeca dijo a Isaac: “Estoy cansada de vivir por causa de las hijas de Het. Si Jacob toma una esposa de entre las hijas de Het, como estas de las hijas de la tierra, ¿de qué me servirá la vida?”

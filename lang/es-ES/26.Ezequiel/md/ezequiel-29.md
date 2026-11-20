@@ -12,25 +12,23 @@ En el décimo año, en el décimo mes, el día doce, la palabra del Señor vino 
 
 Habla y di: ‘Esto es lo que dice el Señor Soberano:
 
-> “Estoy contra ti, Faraón, rey de Egipto,
-> gran monstruo que yaces en medio de tus ríos.
-> Has dicho: ‘El Nilo es mío; yo lo hice para mí.’
+>  “Estoy contra ti, Faraón, rey de Egipto,
+>  gran monstruo que yaces en medio de tus ríos.
+>  Has dicho: ‘El Nilo es mío; yo lo hice para mí.’
 
 ## Ezequiel 29:4
 
-> Pondré anzuelos en tus mandíbulas
-> y haré que los peces de tus ríos se peguen a tus escamas.
-> Te sacaré de tus ríos,
-> con todos los peces pegados a tus escamas.
+> Pondré anzuelos en tus mandíbulas y haré que los peces de tus ríos se peguen a tus escamas.
+>  Te sacaré de tus ríos,
+>  con todos los peces pegados a tus escamas.
 
 ## Ezequiel 29:5
 
 > Te abandonaré en el desierto,
-> a ti y a todos los peces de tus ríos.
-> Caerás en campo abierto,
-> no serás recogido ni levantado.
-> Te he dado como alimento
-> a las bestias de la tierra y a las aves del cielo.
+>  a ti y a todos los peces de tus ríos.
+>  Caerás en campo abierto,
+>  no serás recogido ni levantado.
+>  Te he dado como alimento a las bestias de la tierra y a las aves del cielo.
 
 ## Ezequiel 29:6
 
@@ -94,4 +92,4 @@ Le he dado Egipto como recompensa por sus esfuerzos porque él y su ejército ac
 
 ## Ezequiel 29:21
 
-“En ese día, haré que surja fuerza para la casa de Israel, y te capacitaré para hablar entre ellos. Entonces sabrán que yo soy el Señor.”
+“En ese día, haré brotar un cuerno para la casa de Israel, y abriré tu boca entre ellos. Entonces sabrán que yo soy el Señor.”

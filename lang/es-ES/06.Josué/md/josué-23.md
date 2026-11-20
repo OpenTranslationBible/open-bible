@@ -6,7 +6,7 @@ Después de muchos días, cuando el Señor había concedido a Israel descanso de
 
 ## Josué 23:2
 
-y convocó a todo Israel—sus ancianos, líderes, jueces y oficiales—y les dijo: “Yo soy ya viejo y avanzado en años.
+y convocó a todo Israel —sus ancianos, líderes, jueces y oficiales— y les dijo: “Yo soy ya viejo y avanzado en años.
 
 ## Josué 23:3
 

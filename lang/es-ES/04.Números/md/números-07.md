@@ -10,7 +10,7 @@ Entonces los líderes de Israel, los jefes de las casas de sus padres, que eran 
 
 ## Números 7:3
 
-Trajeron sus ofrendas ante el Señor: seis carros cubiertos y doce bueyes—un buey de cada líder y un carro de cada dos líderes. Los presentaron ante el tabernáculo.
+Trajeron sus ofrendas ante el Señor: seis carros cubiertos y doce bueyes —un buey de cada líder y un carro de cada dos líderes. Los presentaron ante el tabernáculo—.
 
 ## Números 7:4
 

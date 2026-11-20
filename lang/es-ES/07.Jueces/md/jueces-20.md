@@ -124,7 +124,7 @@ Al tercer día, los israelitas subieron contra los benjaminitas y tomaron posici
 
 ## Jueces 20:31
 
-Los benjaminitas salieron a su encuentro y fueron alejados de la ciudad. Comenzaron a infligir bajas a los israelitas como en ocasiones anteriores, unos treinta hombres cayeron en el campo abierto y en los caminos—uno que lleva a Betel y el otro a Guibeá.
+Los benjaminitas salieron a su encuentro y fueron alejados de la ciudad. Comenzaron a infligir bajas a los israelitas como en ocasiones anteriores, unos treinta hombres cayeron en el campo abierto y en los caminos —uno que lleva a Betel y el otro a Guibeá—.
 
 ## Jueces 20:32
 

@@ -80,7 +80,7 @@ Escucha el clamor de mi pueblo desde una tierra lejana: “¿No está el Señor 
 
 ## Jeremías 8:20
 
-“La temporada de la cosecha ha pasado, el verano no ha terminado, y aún no hemos sido salvados.”
+“La temporada de la cosecha ha pasado, el verano ha terminado, y aún no hemos sido salvados.”
 
 ## Jeremías 8:21
 

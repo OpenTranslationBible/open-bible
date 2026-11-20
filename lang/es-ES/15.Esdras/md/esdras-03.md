@@ -32,11 +32,11 @@ Proveyeron dinero a los canteros y carpinteros, y comida, bebida y aceite a los 
 
 ## Esdras 3:8
 
-En el segundo año de su llegada a la casa de Dios en Jerusalén, en el segundo mes, Zorobabel hijo de Sealtiel, Jesúa hijo de Josadac, y el resto de sus hermanos—los sacerdotes, los levitas, y todos los que habían regresado del cautiverio a Jerusalén—comenzaron la obra. Designaron a los levitas de veinte años en adelante para supervisar la construcción de la casa del Señor.
+En el segundo año de su llegada a la casa de Dios en Jerusalén, en el segundo mes, Zorobabel hijo de Sealtiel, Jesúa hijo de Josadac, y el resto de sus hermanos —los sacerdotes, los levitas, y todos los que habían regresado del cautiverio a Jerusalén— comenzaron la obra. Designaron a los levitas de veinte años en adelante para supervisar la construcción de la casa del Señor.
 
 ## Esdras 3:9
 
-Jesúa y sus hijos y hermanos, junto con Cadmiel y sus hijos, los hijos de Hodavías, y los hijos de Henadad con sus hijos y hermanos—todos levitas—se unieron para supervisar a los que trabajaban en la casa de Dios.
+Jesúa y sus hijos y hermanos, junto con Cadmiel y sus hijos, los hijos de Hodavías, y los hijos de Henadad con sus hijos y hermanos —todos levitas— se unieron para supervisar a los que trabajaban en la casa de Dios.
 
 ---
 

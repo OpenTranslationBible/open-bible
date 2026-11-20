@@ -152,14 +152,14 @@ Mientras enseñaba en los patios del templo, Jesús preguntó: “¿Por qué dic
 
 David, hablando por el Espíritu Santo, dijo:
 
-> ‘El Señor dijo a mi Señor:
-> “Siéntate a mi derecha
-> hasta que ponga a tus enemigos
-> debajo de tus pies.”’
+>  ‘El Señor dijo a mi Señor:
+>  “Siéntate a mi derecha hasta que ponga a tus enemigos debajo de tus pies.
+> ”
+> ’
 
 ## Marcos 12:37
 
-Si David mismo lo llama ‘Señor.’ ¿Cómo puede entonces ser su hijo?” La gran multitud lo escuchaba con deleite.
+David mismo lo llama ‘Señor.’ ¿Cómo puede entonces ser su hijo?” La gran multitud lo escuchaba con deleite.
 
 ## Marcos 12:38
 

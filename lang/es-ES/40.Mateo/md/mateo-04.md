@@ -14,7 +14,7 @@ El tentador se acercó a él y le dijo: “Si eres el Hijo de Dios, ordena que e
 
 ## Mateo 4:4
 
-Pero Jesús respondió: “Está escrito: ‘No solo de pan vivirá el hombre, sino de toda palabra que sale de la boca del Señor.’”
+Pero Jesús respondió: “Está escrito: ‘No solo de pan vivirá el hombre, sino de toda palabra que sale de la boca de Dios.’”
 
 ## Mateo 4:5
 

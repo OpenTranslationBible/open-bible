@@ -20,7 +20,7 @@ La mujer estaba vestida de púrpura y escarlata, y adornada con oro, piedras pre
 
 En su frente tenía un nombre escrito, un misterio:
 
-“BABILONIA LA GRANDE, LA MADRE DE LAS PROSTITUTAS Y DE LAS ABOMINACIONES DE LA TIERRA.”
+ “BABILONIA LA GRANDE, LA MADRE DE LAS PROSTITUTAS Y DE LAS ABOMINACIONES DE LA TIERRA.”
 
 ## Apocalipsis 17:6
 

@@ -14,7 +14,7 @@ Los persigue y avanza seguro, por un camino que sus pies no han recorrido antes.
 
 ## Isaías 41:4
 
-¿Quién ha realizado y llevado a cabo esto, llamando a las generaciones desde el principio? Yo, el Señor, soy el primero, y con los últimos—yo soy Él.”
+¿Quién ha realizado y llevado a cabo esto, llamando a las generaciones desde el principio? Yo, el Señor, soy el primero, y con los últimos —yo soy Él—.”
 
 ## Isaías 41:5
 

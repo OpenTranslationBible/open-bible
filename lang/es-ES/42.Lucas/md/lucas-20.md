@@ -70,8 +70,8 @@ Vendrá y acabará con esos labradores y dará la viña a otros.” Cuando el pu
 
 Jesús los miró directamente y dijo, “Entonces, ¿qué significa lo que está escrito:
 
-> ‘La piedra que los constructores rechazaron
-> ha llegado a ser la piedra angular’?
+>  ‘La piedra que los constructores rechazaron ha llegado a ser la piedra angular’
+> ?
 
 ## Lucas 20:18
 

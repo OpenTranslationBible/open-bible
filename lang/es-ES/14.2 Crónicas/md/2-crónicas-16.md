@@ -39,30 +39,30 @@ Entonces el rey Asa reunió a todo Judá, y se llevaron las piedras de Ramá y s
 ## 2 Crónicas 16:7
 
 En ese tiempo el vidente Hanani vino a Asa, rey de Judá, y le dijo:  
-“Porque has confiado en el rey de Aram y no has confiado en el Señor tu Dios,  
-por eso el ejército del rey de Aram se ha escapado de tu mano.
+ “Porque has confiado en el rey de Aram y no has confiado en el Señor tu Dios,  
+ por eso el ejército del rey de Aram se ha escapado de tu mano.
 
 ---
 
 ## 2 Crónicas 16:8
 
 ¿No tenían los etíopes y los lubim un ejército inmenso con numerosos carros y jinetes?  
-Sin embargo, porque confiaste en el Señor, Él los entregó en tus manos.
+ Sin embargo, porque confiaste en el Señor, Él los entregó en tus manos.
 
 ---
 
 ## 2 Crónicas 16:9
 
 Porque los ojos del Señor recorren toda la tierra, para que Él pueda apoyar con fuerza a aquellos cuyo corazón es completamente suyo.  
-Has actuado neciamente en esto; en verdad, de ahora en adelante tendrás guerras.”
+ Has actuado neciamente en esto; en verdad, de ahora en adelante tendrás guerras.”
 
 ---
 
 ## 2 Crónicas 16:10
 
 Entonces Asa se enfureció con el vidente y lo puso en prisión,  
-porque estaba indignado con él por esto.  
-Y Asa también oprimió a algunos del pueblo en ese tiempo.
+ porque estaba indignado con él por esto.  
+ Y Asa también oprimió a algunos del pueblo en ese tiempo.
 
 ---
 
@@ -75,7 +75,7 @@ Los hechos de Asa, desde el principio hasta el fin, están registrados en el Lib
 ## 2 Crónicas 16:12
 
 En el año treinta y nueve de su reinado, Asa sufrió una enfermedad en los pies. Su condición era grave,  
-sin embargo, incluso en su enfermedad no buscó al Señor, sino que recurrió a los médicos.
+ sin embargo, incluso en su enfermedad no buscó al Señor, sino que recurrió a los médicos.
 
 ---
 
@@ -88,5 +88,5 @@ Así que Asa reposó con sus padres. Murió en el año cuarenta y uno de su rein
 ## 2 Crónicas 16:14
 
 Lo enterraron en su propio sepulcro que había excavado para sí mismo en la ciudad de David,  
-y lo colocaron en el lugar de descanso que había llenado con especias de varios tipos mezcladas por el arte del perfumista;  
-e hicieron un fuego muy grande para él.
+ y lo colocaron en el lugar de descanso que había llenado con especias de varios tipos mezcladas por el arte del perfumista;  
+ e hicieron un fuego muy grande para él.

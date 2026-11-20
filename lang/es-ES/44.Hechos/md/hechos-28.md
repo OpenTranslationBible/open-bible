@@ -114,18 +114,18 @@ Estaban en desacuerdo entre ellos y comenzaron a irse después de que Pablo hizo
 
 diciendo,
 
-> ‘Ve a este pueblo y diles,
-> “Siempre estarán oyendo pero nunca entendiendo;
-> siempre estarán viendo pero nunca percibiendo.”
+>  ‘Ve a este pueblo y diles,
+>  “Siempre estarán oyendo pero nunca entendiendo;
+>  siempre estarán viendo pero nunca percibiendo.”
 
 ## Hechos 28:27
 
 > Porque el corazón de este pueblo se ha vuelto insensible;
-> apenas oyen con sus oídos,
-> y han cerrado sus ojos.
-> De lo contrario, podrían ver con sus ojos,
-> oír con sus oídos, entender con su corazón y volverse,
-> y yo los sanaría.’
+>  apenas oyen con sus oídos,
+>  y han cerrado sus ojos.
+>  De lo contrario, podrían ver con sus ojos,
+>  oír con sus oídos, entender con su corazón y volverse,
+>  y yo los sanaría.’
 
 ## Hechos 28:28
 

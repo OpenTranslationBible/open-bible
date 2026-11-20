@@ -126,7 +126,7 @@ Cuando el Señor vio que Lea no era amada, le permitió concebir, pero Raquel pe
 
 ## Génesis 29:32
 
-Lea quedó embarazada y dio a luz un hijo. Lo llamó Rubén, porque dijo, “El Señor ha visto mi miseria. Seguramente ahora mi esposo me amará.”
+Lea quedó embarazada y dio a luz un hijo. Lo llamó Rubén, porque dijo, “El Señor ha visto mi aflicción. Seguramente ahora mi esposo me amará.”
 
 ## Génesis 29:33
 

@@ -7,7 +7,7 @@ La palabra del Señor vino a Jonás hijo de Amitai, diciendo,
 ## Jonás 1:2
 
 > “Levántate, ve a la gran ciudad de Nínive y proclama contra ella,
-> porque su maldad ha subido delante de mí.”
+>  porque su maldad ha subido delante de mí.”
 
 ## Jonás 1:3
 
@@ -24,7 +24,7 @@ Los marineros tuvieron miedo y cada uno clamó a su propio dios. Arrojaron la ca
 ## Jonás 1:6
 
 El capitán se acercó a él y le dijo,
-“¿Cómo puedes dormir? ¡Levántate, clama a tu dios! Tal vez tu dios se fije en nosotros para que no perezcamos.”
+ “¿Cómo puedes dormir? ¡Levántate, clama a tu dios! Tal vez tu dios se fije en nosotros para que no perezcamos.”
 
 ## Jonás 1:7
 

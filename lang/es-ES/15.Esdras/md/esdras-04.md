@@ -36,7 +36,7 @@ Rehum el comandante y Simsai el escriba compusieron una carta concerniente a Jer
 
 ## Esdras 4:9
 
-Rehum el comandante, Simsai el escriba, y el resto de sus asociados—los jueces, los gobernadores menores, los oficiales, los secretarios, los hombres de Persia, Uruk y Babilonia, los hombres de Susa, es decir, los elamitas,
+Rehum el comandante, Simsai el escriba, y el resto de sus asociados —los jueces, los gobernadores menores, los oficiales, los secretarios, los hombres de Persia, Uruk y Babilonia, los hombres de Susa, es decir, los elamitas,—
 
 ## Esdras 4:10
 

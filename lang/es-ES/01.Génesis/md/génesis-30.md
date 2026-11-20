@@ -2,7 +2,7 @@
 
 ## Génesis 30:1
 
-Cuando Raquel observó que no estaba teniendo hijos para Jacob, se puso envidiosa de su hermana y le dijo a Jacob: “¡Dame hijos, o si no moriré!”
+Cuando Raquel vio que no le daba hijos a Jacob, tuvo envidia de su hermana y le dijo a Jacob: “¡Dame hijos, o si no moriré!”
 
 ## Génesis 30:2
 

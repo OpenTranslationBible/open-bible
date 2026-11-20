@@ -3,8 +3,8 @@
 ## 1 Tesalonicenses 1:1
 
 De Pablo, Silvano y Timoteo,  
-a la iglesia de los Tesalonicenses que está en Dios el Padre y en el Señor Jesucristo:  
-Gracia y paz a vosotros.
+ a la iglesia de los Tesalonicenses que está en Dios el Padre y en el Señor Jesucristo:  
+ Gracia y paz a vosotros.
 
 ## 1 Tesalonicenses 1:2
 
@@ -40,4 +40,4 @@ Porque ellos mismos cuentan de nosotros la acogida que tuvimos de vosotros, y c�
 
 ## 1 Tesalonicenses 1:10
 
-y esperar de los cielos a su Hijo, a quien resucitó de los muertos—Jesús, quien nos libra de la ira venidera.
+y esperar de los cielos a su Hijo, a quien resucitó de los muertos —Jesús, quien nos libra de la ira venidera—.

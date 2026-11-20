@@ -50,7 +50,7 @@ Cuando venís a presentaros delante de Mí, ¿quién demanda esto de vosotros, e
 
 ## Isaías 1:13
 
-No traigáis más ofrendas vanas; el incienso me es abominación. Lunas nuevas, sábados y convocaciones—no puedo soportar iniquidad y asamblea solemne.
+No traigáis más ofrendas vanas; el incienso me es abominación. Lunas nuevas, sábados y convocaciones —no puedo soportar iniquidad y asamblea solemne—.
 
 ## Isaías 1:14
 

@@ -34,7 +34,7 @@ Y ahora, he aquí, el Señor me ha mantenido con vida, tal como lo prometió, es
 Todavía tengo tanta fuerza hoy como el día en que Moisés me envió; mi fuerza ahora es como lo era entonces, para la batalla y para entrar y salir.
 
 ## Josué 14:12
-Ahora dame esta región montañosa que el Señor me prometió aquel día. Tú oíste entonces que los anaceos estaban allí, con grandes ciudades fortificadas, pero con la ayuda del Señor, los expulsaré como Él dijo.”
+Ahora dame esta región montañosa que el Señor me prometió aquel día. Tú oíste entonces que los anaceos estaban allí, con grandes ciudades fortificadas, pero quizás con la ayuda del Señor los expulsaré como Él dijo.”
 
 ## Josué 14:13
 Entonces Josué bendijo a Caleb hijo de Jefone y le dio Hebrón como herencia.

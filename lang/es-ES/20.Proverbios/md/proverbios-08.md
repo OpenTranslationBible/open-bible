@@ -54,7 +54,7 @@ Porque la sabiduría es más valiosa que los rubíes, y nada de lo que deseáis 
 
 Temer al Señor es odiar el mal; odio el orgullo, la arrogancia, el mal camino,
 
-> y el habla perversa.
+>  y el habla perversa.
 
 ## Proverbios 8:14
 
@@ -122,18 +122,17 @@ cuando hizo firmes los cielos arriba y fijó con seguridad las fuentes del abism
 
 cuando puso un límite al mar para que las aguas no sobrepasaran Su mandato,
 
-> y cuando marcó los cimientos de la tierra.
+>  y cuando marcó los cimientos de la tierra.
 
 ## Proverbios 8:30
 
 Entonces yo estaba junto a Él, como un maestro artesano; yo era Su deleite día tras día,
 
-> regocijándome siempre en Su presencia,
+>  regocijándome siempre en Su presencia,
 
 ## Proverbios 8:31
 
-> encontrando alegría en Su creación
-> y deleitándome en la humanidad.
+> encontrando alegría en Su creación y deleitándome en la humanidad.
 
 ---
 

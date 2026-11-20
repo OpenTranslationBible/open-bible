@@ -60,9 +60,9 @@ El segundo ay ha pasado; he aquí, el tercer ay viene pronto.
 
 El séptimo ángel tocó su trompeta, y hubo grandes voces en el cielo, que decían:
 
-> “El reino del mundo ha venido a ser
-> el reino de nuestro Señor y de su Mesías,
-> y Él reinará por los siglos de los siglos.”
+>  “El reino del mundo ha venido a ser el reino de nuestro Señor y de su Mesías,
+>  y Él reinará por los siglos de los siglos.
+> ”
 
 ## Apocalipsis 11:16
 
@@ -72,20 +72,19 @@ Y los veinticuatro ancianos, sentados en sus tronos delante de Dios, se postraro
 
 Proclamaron:
 
-> “Te damos gracias, Señor Dios Todopoderoso,
-> el que es y que era,
-> porque has tomado tu gran poder
-> y has comenzado a reinar.
+>  “Te damos gracias, Señor Dios Todopoderoso,
+>  el que es y que era,
+>  porque has tomado tu gran poder y has comenzado a reinar.
 
 ## Apocalipsis 11:18
 
 > Las naciones se enfurecieron,
-> y ha llegado tu ira.
-> Ha llegado el momento de juzgar a los muertos,
-> y de recompensar a tus siervos los profetas
-> y a los santos, y a los que temen tu nombre,
-> tanto pequeños como grandes,
-> y de destruir a los que destruyen la tierra.”
+>  y ha llegado tu ira.
+>  Ha llegado el momento de juzgar a los muertos,
+>  y de recompensar a tus siervos los profetas y a los santos,
+>  y a los que temen tu nombre,
+>  tanto pequeños como grandes,
+>  y de destruir a los que destruyen la tierra.”
 
 ## Apocalipsis 11:19
 

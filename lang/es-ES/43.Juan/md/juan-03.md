@@ -82,7 +82,7 @@ Este es el juicio: La luz ha venido al mundo, pero la gente amó más las tinieb
 
 ## Juan 3:20
 
-Aquellos que hacen el mal evitan la luz, temiendo que sus obras sean reveladas.
+Aquellos que hacen el mal odian la luz y la evitan, temiendo que sus obras sean reveladas.
 
 ## Juan 3:21
 

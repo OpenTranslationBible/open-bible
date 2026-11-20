@@ -162,7 +162,7 @@ Entonces el Señor instruyó a Moisés: “Cuenta a todo primogénito varón de 
 
 ## Números 3:41
 
-Y tomarás a los levitas para mí—yo soy el Señor—en lugar de todos los primogénitos entre los hijos de Israel; y el ganado de los levitas en sustitución de todos los primogénitos entre el ganado de los hijos de Israel.”
+Y tomarás a los levitas para mí —yo soy el Señor— en lugar de todos los primogénitos entre los hijos de Israel; y el ganado de los levitas en sustitución de todos los primogénitos entre el ganado de los hijos de Israel.”
 
 ## Números 3:42
 

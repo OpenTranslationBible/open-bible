@@ -31,12 +31,12 @@ no están obligados a cumplir su deber con su padre o madre con ello. Así usted
 ## Mateo 15:8
 
 > ‘Este pueblo me honra con los labios,
-> pero su corazón está lejos de mí.
+>  pero su corazón está lejos de mí.
 
 ## Mateo 15:9
 
 > Su adoración es en vano;
-> sus enseñanzas no son más que instrucciones humanas.’
+>  sus enseñanzas no son más que instrucciones humanas.’
 
 ---
 

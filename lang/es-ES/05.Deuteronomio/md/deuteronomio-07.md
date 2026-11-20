@@ -1,7 +1,7 @@
 # Deuteronomio Capítulo 7
 
 ## Deuteronomio 7:1
-Cuando el Señor tu Dios te introduzca en la tierra que vas a poseer, y expulse a muchas naciones delante de ti—los hititas, gergeseos, amorreos, cananeos, ferezeos, heveos y jebuseos, siete naciones más grandes y poderosas que tú—
+Cuando el Señor tu Dios te introduzca en la tierra que vas a poseer, y expulse a muchas naciones delante de ti —los hititas, gergeseos, amorreos, cananeos, ferezeos, heveos y jebuseos, siete naciones más grandes y poderosas que tú—
 
 ## Deuteronomio 7:2
 y cuando el Señor tu Dios las entregue delante de ti y las derrotes, las destruirás por completo. No harás pacto con ellas, ni les tendrás misericordia.
@@ -37,7 +37,7 @@ Así que, sé diligente en seguir los mandamientos, decretos y leyes que te doy 
 Si prestas atención a estas leyes y tienes cuidado de seguirlas, entonces el Señor tu Dios mantendrá su pacto de amor contigo, como juró a tus antepasados.
 
 ## Deuteronomio 7:13
-Él te amará, te bendecirá y aumentará tu número. Bendecirá el fruto de tu vientre, las cosechas de tu tierra—tu grano, vino nuevo y aceite de oliva—los terneros de tus manadas y los corderos de tus rebaños en la tierra que juró a tus antepasados darte.
+Él te amará, te bendecirá y aumentará tu número. Bendecirá el fruto de tu vientre, las cosechas de tu tierra —tu grano, vino nuevo y aceite de oliva— los terneros de tus manadas y los corderos de tus rebaños en la tierra que juró a tus antepasados darte.
 
 ## Deuteronomio 7:14
 Serás bendecido sobre todos los pueblos; ninguno de tus hombres o mujeres será estéril, ni tampoco tu ganado estará sin crías.

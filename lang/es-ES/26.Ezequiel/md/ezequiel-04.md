@@ -34,7 +34,7 @@ El alimento que comas será pesado, veinte siclos al día; lo comerás a horas f
 El agua que bebas será una sexta parte de un hin por medida; la beberás a horas fijas.
 
 ## Ezequiel 4:12
-La comerás como una torta de cebada, habiéndola cocido a la vista de ellos sobre un combustible inusual.”
+La comerás como una torta de cebada, habiéndola cocido a la vista de ellos sobre excremento humano seco.”
 
 ## Ezequiel 4:13
 El Señor dijo, “De esta manera los hijos de Israel comerán su pan contaminado entre las naciones a donde los dispersaré.”

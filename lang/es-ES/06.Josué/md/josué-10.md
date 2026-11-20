@@ -18,7 +18,7 @@ Entonces Adoni-Zedec, rey de Jerusalén, envió un mensaje a Hoham, rey de Hebr�
 
 ## Josué 10:5
 
-Entonces los cinco reyes de los amorreos—los reyes de Jerusalén, Hebrón, Jarmut, Laquis y Eglón—unieron fuerzas. Se movieron con todos sus ejércitos y acamparon contra Gabaón para pelear contra ella.
+Entonces los cinco reyes de los amorreos —los reyes de Jerusalén, Hebrón, Jarmut, Laquis y Eglón— unieron fuerzas. Se movieron con todos sus ejércitos y acamparon contra Gabaón para pelear contra ella.
 
 ## Josué 10:6
 
@@ -48,8 +48,8 @@ Mientras huían de Israel en la bajada de Bet Horón, el Señor lanzó grandes p
 
 Entonces Josué habló al Señor el día en que el Señor entregó a los amorreos a Israel, y dijo en presencia de Israel:
 
-> “Sol, detente en Gabaón,
-> y luna, en el valle de Ajalón.”
+>  “Sol, detente en Gabaón,
+>  y luna, en el valle de Ajalón.”
 
 ## Josué 10:13
 
@@ -100,7 +100,7 @@ Josué ordenó: “Abrid la boca de la cueva y traedme a esos cinco reyes.”
 
 ## Josué 10:23
 
-Así que los cinco reyes fueron sacados de la cueva—los reyes de Jerusalén, Hebrón, Jarmut, Laquis y Eglón.
+Así que los cinco reyes fueron sacados de la cueva —los reyes de Jerusalén, Hebrón, Jarmut, Laquis y Eglón—.
 
 ## Josué 10:24
 
@@ -156,7 +156,7 @@ Después, Josué y todo Israel con él subieron de Eglón a Hebrón y la atacaro
 
 ## Josué 10:37
 
-La capturaron y la hirieron con la espada, junto con su rey, sus aldeas, y todos los que estaban en ella. No dejó sobrevivientes, tal como habían hecho con Eglón.
+La capturaron y la hirieron con la espada, junto con su rey, sus aldeas, y todos los que estaban en ella. No dejó sobrevivientes, tal como habían hecho con Eglón; la destruyó por completo con todos los que estaban en ella.
 
 ## Josué 10:38
 

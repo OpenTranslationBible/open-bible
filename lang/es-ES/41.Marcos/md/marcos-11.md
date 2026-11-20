@@ -36,13 +36,13 @@ Muchos tendieron sus mantos en el camino, y otros cortaban ramas de los campos.
 
 Los que iban delante y los que seguían gritaban:
 
-> “¡Hosanna!
-> ¡Bendito el que viene en el nombre del Señor!”
+>  “¡Hosanna!
+>  ¡Bendito el que viene en el nombre del Señor!”
 
 ## Marcos 11:10
 
 > “¡Bendito el reino venidero de nuestro padre David!
-> ¡Hosanna en las alturas!”
+>  ¡Hosanna en las alturas!”
 
 ## Marcos 11:11
 

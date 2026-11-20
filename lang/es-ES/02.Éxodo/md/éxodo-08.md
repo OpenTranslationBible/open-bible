@@ -55,7 +55,7 @@ Ellos hicieron esto, y cuando Aarón extendió su mano con la vara y golpeó el 
 Los magos intentaron producir mosquitos con sus artes secretas, pero no pudieron. Había mosquitos por todas partes, sobre las personas y los animales.
 
 ## Éxodo 8:19
-Los magos dijeron a Faraón: “Esto es obra de Dios.” Pero el corazón de Faraón era terco, y no escuchó, tal como el Señor había dicho.
+Los magos dijeron a Faraón: “Esto es el dedo de Dios.” Pero el corazón de Faraón era terco, y no escuchó, tal como el Señor había dicho.
 
 ## Éxodo 8:20
 Entonces el Señor dijo a Moisés: “Levántate temprano por la mañana y enfréntate a Faraón cuando vaya al río y dile: ‘Esto es lo que dice el Señor: Deja ir a mi pueblo, para que me sirvan.

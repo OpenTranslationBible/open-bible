@@ -28,13 +28,13 @@ Un rey que se sienta en el trono de juicio dispersa todo mal con sus ojos.
 ¿Quién puede afirmar: “He purificado mi corazón; estoy libre de mi pecado”?
 
 ## Proverbios 20:10
-Pesas y medidas diferentes— ambas son detestables para el Señor.
+Pesas y medidas diferentes —ambas son detestables para el Señor—.
 
 ## Proverbios 20:11
 Incluso un niño es conocido por sus acciones, si su conducta es pura y recta.
 
 ## Proverbios 20:12
-La capacidad de oír y ver— ambas son creadas por el Señor.
+La capacidad de oír y ver —ambas son creadas por el Señor—.
 
 ## Proverbios 20:13
 No ames el sueño, o te empobrecerás; abre tus ojos, y tendrás comida de sobra.

@@ -46,7 +46,7 @@ Esto es lo que dice el Señor concerniente a todos mis vecinos malvados que dañ
 Sin embargo, después de haberlos arrancado, volveré a tener compasión y traeré a cada uno de ellos de regreso a su propia herencia y a su propia tierra.
 
 ## Jeremías 12:16
-Y si realmente aprenden los caminos de mi pueblo y juran por mi nombre, ‘Tan cierto como que el Señor vive’—así como una vez enseñaron a mi pueblo a jurar por Baal—entonces serán establecidos entre mi pueblo.
+Y si realmente aprenden los caminos de mi pueblo y juran por mi nombre, ‘Tan cierto como que el Señor vive’ —así como una vez enseñaron a mi pueblo a jurar por Baal— entonces serán establecidos entre mi pueblo.
 
 ## Jeremías 12:17
 Pero si no escuchan, arrancaré por completo y pondré fin a esa nación,” declara el Señor.

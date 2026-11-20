@@ -61,7 +61,7 @@ Las palabras veraces son duraderas, pero las palabras engañosas son efímeras.
 Los que albergan engaño en su corazón traman el mal, pero los que promueven la paz experimentan alegría.
 
 ## Proverbios 12:21
-Los justos no sufren daño duradero, pero los malvados están llenos de problemas.
+Los justos no sufren daño, pero los malvados están llenos de problemas.
 
 ## Proverbios 12:22
 El Señor detesta los labios mentirosos, pero se deleita en los que son dignos de confianza.

@@ -14,7 +14,7 @@ Todo lugar que pise la planta de vuestro pie, os lo he concedido, tal como prome
 
 ## Josué 1:4
 
-Vuestro territorio se extenderá desde el desierto y el Líbano hasta el gran río, el Éufrates—toda la tierra de los hititas—y hasta el Gran Mar al oeste.
+Vuestro territorio se extenderá desde el desierto y el Líbano hasta el gran río, el Éufrates —toda la tierra de los hititas— y hasta el Gran Mar al oeste.
 
 ## Josué 1:5
 

@@ -100,7 +100,7 @@ Traed el becerro engordado y matadlo. Comamos y celebremos.
 
 ## Lucas 15:24
 
-Porque este hijo mío estaba como muerto y ha vuelto a la vida; se había perdido y ha sido hallado.’ Y comenzaron a celebrar.
+Porque este hijo mío estaba muerto y ha vuelto a la vida; se había perdido y ha sido hallado.’ Y comenzaron a celebrar.
 
 ---
 
@@ -134,4 +134,4 @@ Pero cuando este hijo tuyo regresa, que ha derrochado tu propiedad con prostitut
 
 ## Lucas 15:32
 
-Pero era necesario celebrar y alegrarse, porque este hermano tuyo estaba como muerto, pero ahora ha vuelto a la vida; se había perdido y ha sido hallado.’”
+Pero era necesario celebrar y alegrarse, porque este hermano tuyo estaba muerto y ha vuelto a la vida; se había perdido y ha sido hallado.’”

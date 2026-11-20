@@ -45,7 +45,7 @@ Tan pronto como terminó de ofrecer el holocausto, he aquí que llegó Samuel. S
 ## 1 Samuel 13:11
 
 Pero Samuel dijo: “¿Qué has hecho?”  
-Y Saúl respondió: “Cuando vi que el pueblo se dispersaba de mí, y que tú no venías dentro de los días señalados, y que los filisteos se reunían en Micmas,
+ Y Saúl respondió: “Cuando vi que el pueblo se dispersaba de mí, y que tú no venías dentro de los días señalados, y que los filisteos se reunían en Micmas,
 
 ## 1 Samuel 13:12
 

@@ -7,7 +7,7 @@ Pablo, apóstol de Cristo Jesús por la voluntad de Dios, conforme a la promesa 
 ## 2 Timoteo 1:2
 
 A Timoteo, mi querido hijo:  
-Que recibas gracia, misericordia y paz de Dios el Padre y de Cristo Jesús nuestro Señor.
+ Que recibas gracia, misericordia y paz de Dios el Padre y de Cristo Jesús nuestro Señor.
 
 ## 2 Timoteo 1:3
 
@@ -71,4 +71,4 @@ sino que cuando estuvo en Roma, me buscó diligentemente y me encontró—
 
 ## 2 Timoteo 1:18
 
-que el Señor le conceda hallar misericordia del Señor en aquel día—y tú sabes muy bien qué servicios prestó en Éfeso.
+que el Señor le conceda hallar misericordia del Señor en aquel día —y tú sabes muy bien qué servicios prestó en Éfeso—.

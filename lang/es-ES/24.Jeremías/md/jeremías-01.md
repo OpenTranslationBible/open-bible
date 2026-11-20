@@ -70,7 +70,7 @@ Pronunciaré mis juicios contra ellos por su maldad al abandonarme, al quemar in
 
 ## Jeremías 1:18
 
-Hoy te he hecho como una ciudad fortificada, un pilar de hierro y un muro de bronce para resistir contra toda la tierra—contra los reyes de Judá, sus oficiales, sus sacerdotes y el pueblo de la tierra.
+Hoy te he hecho como una ciudad fortificada, un pilar de hierro y un muro de bronce para resistir contra toda la tierra —contra los reyes de Judá, sus oficiales, sus sacerdotes y el pueblo de la tierra—.
 
 ## Jeremías 1:19
 

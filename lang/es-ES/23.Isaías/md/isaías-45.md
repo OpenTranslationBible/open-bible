@@ -26,7 +26,7 @@ para que desde el nacimiento del sol hasta su ocaso la gente sepa que no hay nad
 
 ## Isaías 45:7
 
-Yo formo la luz y creo las tinieblas, traigo prosperidad y permito desafíos; yo, el Señor, hago todas estas cosas.
+Yo formo la luz y creo las tinieblas, traigo prosperidad y creo la calamidad; yo, el Señor, hago todas estas cosas.
 
 ## Isaías 45:8
 

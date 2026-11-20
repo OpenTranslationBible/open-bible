@@ -54,7 +54,7 @@ y otro hombre tiene relaciones sexuales con ella, y esto se oculta de su esposo 
 
 ## Números 5:14
 
-y si los celos se apoderan de su esposo y sospecha de su esposa cuando ella es impura—o si él está celoso y sospecha de ella aunque no sea impura—
+y si los celos se apoderan de su esposo y sospecha de su esposa cuando ella es impura —o si él está celoso y sospecha de ella aunque no sea impura—
 
 ## Números 5:15
 

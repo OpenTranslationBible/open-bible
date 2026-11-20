@@ -50,7 +50,7 @@ Hijo mío, no rechaces la disciplina del Señor, ni aborrezcas su reprensión,
 
 porque el Señor disciplina a los que ama,
 
-> como un padre disciplina al hijo en quien se deleita.
+>  como un padre disciplina al hijo en quien se deleita.
 
 ---
 
@@ -124,7 +124,7 @@ No retengas el bien de aquellos que lo merecen, cuando esté en tu mano el poder
 
 No digas a tu prójimo: “Ve, y vuelve,
 
-> y mañana te lo daré”, cuando lo tengas contigo.
+>  y mañana te lo daré”, cuando lo tengas contigo.
 
 ## Proverbios 3:29
 

@@ -74,7 +74,7 @@ Los peces en el Nilo morirán, el río apestará, y los egipcios no podrán bebe
 
 ## Éxodo 7:19
 
-El Señor dijo a Moisés: “Dile a Aarón, ‘Toma tu vara y extiende tu mano sobre las aguas de Egipto—sobre sus ríos, arroyos, estanques y todos sus depósitos—y se convertirán en sangre. Habrá sangre por todo Egipto, incluso en recipientes de madera y piedra.’”
+El Señor dijo a Moisés: “Dile a Aarón, ‘Toma tu vara y extiende tu mano sobre las aguas de Egipto —sobre sus ríos, arroyos, estanques y todos sus depósitos— y se convertirán en sangre. Habrá sangre por todo Egipto, incluso en recipientes de madera y piedra.’”
 
 ## Éxodo 7:20
 

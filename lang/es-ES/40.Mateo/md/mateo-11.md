@@ -71,9 +71,9 @@ El que tenga oídos para oír, que oiga.
 ## Mateo 11:17
 
 > ‘Os tocamos la flauta,
-> y no bailasteis;
-> os cantamos una canción de lamento,
-> y no os lamentasteis.’
+>  y no bailasteis;
+>  os cantamos una canción de lamento,
+>  y no os lamentasteis.’
 
 ## Mateo 11:18
 

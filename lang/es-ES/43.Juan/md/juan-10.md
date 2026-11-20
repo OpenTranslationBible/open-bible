@@ -148,7 +148,7 @@ Jesús les respondió: “¿No está escrito en vuestra Ley: ‘Yo dije: “sois
 
 ## Juan 10:35
 
-Si llamó ‘dioses’ a aquellos a quienes vino la palabra de Dios—y la Escritura no puede ser quebrantada—
+Si llamó ‘dioses’ a aquellos a quienes vino la palabra de Dios —y la Escritura no puede ser quebrantada—
 
 ## Juan 10:36
 

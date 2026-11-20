@@ -35,8 +35,8 @@ Y el Señor me preguntó, “¿Qué ves, Amós?” Respondí, “Una plomada.”
 ## Amós 7:9
 
 > Los lugares altos de Isaac serán desolados,
-> y los santuarios de Israel serán arruinados;
-> me levantaré contra la casa de Jeroboam con la espada.”
+>  y los santuarios de Israel serán arruinados;
+>  me levantaré contra la casa de Jeroboam con la espada.”
 
 ## Amós 7:10
 
@@ -46,8 +46,8 @@ Entonces Amasías, el sacerdote de Betel, envió un mensaje a Jeroboam rey de Is
 
 Porque esto es lo que dice Amós:
 
-> ‘Jeroboam morirá a espada,
-> e Israel ciertamente irá al exilio, lejos de su tierra.’”
+>  ‘Jeroboam morirá a espada,
+>  e Israel ciertamente irá al exilio, lejos de su tierra.’”
 
 ## Amós 7:12
 
@@ -69,15 +69,15 @@ Sin embargo, el Señor me llamó lejos de cuidar el rebaño y me instruyó, ‘V
 
 Ahora pues, escucha la palabra del Señor.
 
-> Dices, ‘No profetices contra Israel,
-> y no prediques contra la casa de Isaac.’
+>  Dices, ‘No profetices contra Israel,
+>  y no prediques contra la casa de Isaac.’
 
 ## Amós 7:17
 
 Por tanto, esto es lo que dice el Señor:
 
-> ‘Tu esposa se convertirá en prostituta en la ciudad,
-> tus hijos e hijas caerán a espada,
-> tu tierra será dividida con una cuerda de medir,
-> y tú mismo morirás en suelo impuro.
-> E Israel ciertamente irá al exilio, lejos de su tierra.’”
+>  ‘Tu esposa se convertirá en prostituta en la ciudad,
+>  tus hijos e hijas caerán a espada,
+>  tu tierra será dividida con una cuerda de medir,
+>  y tú mismo morirás en suelo impuro.
+>  E Israel ciertamente irá al exilio, lejos de su tierra.’”

@@ -3,11 +3,11 @@
 ## Josué 17:1
 
 Esta fue la herencia para la tribu de Manasés, el primogénito de José:  
-A Maquir, el primogénito de Manasés y padre de Galaad—que era un hombre de guerra—se le dieron Galaad y Basán.
+ A Maquir, el primogénito de Manasés y padre de Galaad —que era un hombre de guerra— se le dieron Galaad y Basán.
 
 ## Josué 17:2
 
-Así que se hizo la herencia para el resto de la tribu de Manasés, según sus clanes—para los descendientes de Abiezer, Helec, Asriel, Siquem, Hefer y Semida. Estos eran los descendientes varones de Manasés hijo de José por sus clanes.
+Así que se hizo la herencia para el resto de la tribu de Manasés, según sus clanes —para los descendientes de Abiezer, Helec, Asriel, Siquem, Hefer y Semida. Estos eran los descendientes varones de Manasés hijo de José por sus clanes—.
 
 ## Josué 17:3
 
@@ -45,7 +45,7 @@ La tierra al sur pertenecía a Efraín y la del norte a Manasés. El mar era su 
 
 ## Josué 17:11
 
-Dentro de Isacar y Aser, Manasés también tenía Bet-seán, Ibleam, y la gente de Dor, Endor, Taanac y Meguido—cada una con sus asentamientos circundantes.
+Dentro de Isacar y Aser, Manasés también tenía Bet-seán, Ibleam, y la gente de Dor, Endor, Taanac y Meguido —cada una con sus asentamientos circundantes—.
 
 ## Josué 17:12
 
@@ -67,13 +67,13 @@ Josué respondió: “Si sois tan numerosos, y la región montañosa de Efraín 
 
 ## Josué 17:16
 
-Los descendientes de José dijeron: “La región montañosa no es suficiente para nosotros, y todos los cananeos que viven en la llanura tienen carros equipados con hierro—tanto los de Bet-seán y sus asentamientos como los del Valle de Jezreel.”
+Los descendientes de José dijeron: “La región montañosa no es suficiente para nosotros, y todos los cananeos que viven en la llanura tienen carros equipados con hierro —tanto los de Bet-seán y sus asentamientos como los del Valle de Jezreel—.”
 
 ---
 
 ## Josué 17:17
 
-Pero Josué dijo a las tribus de José—a Efraín y Manasés—“Sois numerosos y muy poderosos. No tendréis solo una herencia.
+Pero Josué dijo a las tribus de José —a Efraín y Manasés— “Sois numerosos y muy poderosos. No tendréis solo una herencia.
 
 ## Josué 17:18
 

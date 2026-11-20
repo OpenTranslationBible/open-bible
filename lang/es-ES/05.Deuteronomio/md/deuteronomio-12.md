@@ -34,7 +34,7 @@ Pero cuando crucéis el Jordán y os establezcáis en la tierra que el Señor vu
 entonces al lugar que el Señor vuestro Dios elegirá para que habite su Nombre, allí llevaréis todo lo que os mando: vuestros holocaustos, sacrificios, diezmos, ofrendas especiales, y todas vuestras ofrendas votivas escogidas para el Señor.
 
 ## Deuteronomio 12:12
-Y os regocijaréis ante el Señor vuestro Dios—vosotros, vuestros hijos e hijas, vuestros siervos y siervas, y los levitas de vuestras ciudades, porque ellos no tienen heredad ni posesión con vosotros.
+Y os regocijaréis ante el Señor vuestro Dios —vosotros, vuestros hijos e hijas, vuestros siervos y siervas, y los levitas de vuestras ciudades, porque ellos no tienen heredad ni posesión con vosotros—.
 
 ## Deuteronomio 12:13
 Tened cuidado de no ofrecer vuestros holocaustos en cualquier lugar que veáis.
@@ -52,7 +52,7 @@ Pero no debéis consumir la sangre; derramadla en el suelo como agua.
 No debéis comer en vuestras propias ciudades el diezmo de vuestro grano, vino nuevo o aceite de oliva, ni los primogénitos de vuestras manadas y rebaños, ni ninguna de vuestras ofrendas votivas, ofrendas voluntarias u ofrendas especiales.
 
 ## Deuteronomio 12:18
-En cambio, debéis comerlas en presencia del Señor vuestro Dios en el lugar que el Señor vuestro Dios elegirá—vosotros, vuestros hijos e hijas, vuestros siervos y siervas, y los levitas de vuestras ciudades—y os regocijaréis en todas vuestras empresas.
+En cambio, debéis comerlas en presencia del Señor vuestro Dios en el lugar que el Señor vuestro Dios elegirá —vosotros, vuestros hijos e hijas, vuestros siervos y siervas, y los levitas de vuestras ciudades— y os regocijaréis en todas vuestras empresas.
 
 ## Deuteronomio 12:19
 Tened en cuenta apoyar a los levitas mientras viváis en vuestra tierra.

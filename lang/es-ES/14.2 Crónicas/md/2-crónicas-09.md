@@ -50,7 +50,7 @@ Bendito sea el Señor tu Dios que se deleitó en ti, para ponerte en Su trono co
 
 ## 2 Crónicas 9:9
 
-Entonces ella dio al rey ciento veinte talentos de oro, y una cantidad muy grande de especias y piedras preciosas. Nunca más llegaron tales especias como las que la reina de Saba dio al rey Salomón.
+Entonces ella dio al rey ciento veinte talentos de oro, y una cantidad muy grande de especias y piedras preciosas. Nunca antes hubo tales especias como las que la reina de Saba dio al rey Salomón.
 
 ---
 

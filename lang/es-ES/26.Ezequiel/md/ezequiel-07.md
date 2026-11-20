@@ -19,7 +19,7 @@ Esto es lo que dice el Señor Soberano: ‘¡Desastre! ¡Un desastre único! ¡H
 ¡El fin ha llegado! ¡El fin ha llegado! Se ha despertado contra ti; he aquí, viene.
 
 ## Ezequiel 7:7
-La perdición ha venido sobre ti, tú que habitas en la tierra. Ha llegado el tiempo, el día está cerca—pánico en lugar de gritos de alegría en las montañas.
+La perdición ha venido sobre ti, tú que habitas en la tierra. Ha llegado el tiempo, el día está cerca —pánico en lugar de gritos de alegría en las montañas—.
 
 ## Ezequiel 7:8
 Ahora pronto derramaré Mi ira sobre ti y gastaré Mi furia contra ti. Te juzgaré según tus caminos y traeré sobre ti todas tus abominaciones.

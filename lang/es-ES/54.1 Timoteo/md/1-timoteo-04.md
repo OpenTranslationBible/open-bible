@@ -2,7 +2,7 @@
 
 ## 1 Timoteo 4:1
 
-Pero el Espíritu indica claramente que en los últimos tiempos algunos se apartarán de la fe, prestando atención a espíritus engañosos y doctrinas de maldad,
+Pero el Espíritu indica claramente que en los últimos tiempos algunos se apartarán de la fe, prestando atención a espíritus engañosos y doctrinas de demonios,
 
 ## 1 Timoteo 4:2
 

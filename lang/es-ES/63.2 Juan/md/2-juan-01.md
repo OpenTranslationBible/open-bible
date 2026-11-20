@@ -3,7 +3,7 @@
 ## 2 Juan 1:1
 
 Del anciano,  
-A la señora elegida y a sus hijos, a quienes amo verdaderamente; y no solo yo, sino también todos los que han llegado a conocer la verdad,
+ A la señora elegida y a sus hijos, a quienes amo verdaderamente; y no solo yo, sino también todos los que han llegado a conocer la verdad,
 
 ## 2 Juan 1:2
 

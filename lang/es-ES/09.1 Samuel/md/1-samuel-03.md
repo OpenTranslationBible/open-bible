@@ -3,7 +3,7 @@
 ## 1 Samuel 3:1
 
 El joven Samuel servía al Señor bajo la dirección de Elí.  
-En aquellos días la palabra del Señor era escasa; las visiones no eran frecuentes.
+ En aquellos días la palabra del Señor era escasa; las visiones no eran frecuentes.
 
 ## 1 Samuel 3:2
 
@@ -16,19 +16,19 @@ La lámpara de Dios aún no se había apagado, y Samuel estaba acostado en el te
 ## 1 Samuel 3:4
 
 Entonces el Señor llamó a Samuel.  
-Él respondió: “¡Aquí estoy!”
+ Él respondió: “¡Aquí estoy!”
 
 ## 1 Samuel 3:5
 
 Corrió hacia Elí y dijo: “Aquí estoy, porque me llamaste.”  
-Pero Elí dijo: “No te llamé; vuelve y acuéstate.”  
-Así que él fue y se acostó.
+ Pero Elí dijo: “No te llamé; vuelve y acuéstate.”  
+ Así que él fue y se acostó.
 
 ## 1 Samuel 3:6
 
 De nuevo el Señor llamó: “¡Samuel!”  
-Samuel se levantó y fue a Elí y dijo: “Aquí estoy, porque me llamaste.”  
-Pero Elí respondió: “No te llamé, hijo mío. Vuelve y acuéstate.”
+ Samuel se levantó y fue a Elí y dijo: “Aquí estoy, porque me llamaste.”  
+ Pero Elí respondió: “No te llamé, hijo mío. Vuelve y acuéstate.”
 
 ## 1 Samuel 3:7
 
@@ -37,18 +37,18 @@ Samuel aún no había conocido al Señor, y la palabra del Señor no le había s
 ## 1 Samuel 3:8
 
 El Señor llamó a Samuel por tercera vez.  
-Él se levantó, fue a Elí y dijo: “Aquí estoy, porque me llamaste.”  
-Entonces Elí comprendió que el Señor estaba llamando al joven.
+ Él se levantó, fue a Elí y dijo: “Aquí estoy, porque me llamaste.”  
+ Entonces Elí comprendió que el Señor estaba llamando al joven.
 
 ## 1 Samuel 3:9
 
 Así que Elí dijo a Samuel: “Ve y acuéstate, y si Él te llama de nuevo, di: ‘Habla, Señor, porque tu siervo escucha.’”  
-Así que Samuel fue y se acostó en su lugar.
+ Así que Samuel fue y se acostó en su lugar.
 
 ## 1 Samuel 3:10
 
 El Señor vino y se detuvo cerca, llamando como lo había hecho antes: “¡Samuel! ¡Samuel!”  
-Entonces Samuel dijo: “Habla, porque tu siervo escucha.”
+ Entonces Samuel dijo: “Habla, porque tu siervo escucha.”
 
 ---
 
@@ -73,12 +73,12 @@ Por lo tanto, juré a la casa de Elí: ‘La culpa de la casa de Elí nunca ser�
 ## 1 Samuel 3:15
 
 Samuel se acostó hasta la mañana. Luego abrió las puertas de la casa del Señor.  
-Pero Samuel tenía miedo de contarle a Elí la visión.
+ Pero Samuel tenía miedo de contarle a Elí la visión.
 
 ## 1 Samuel 3:16
 
 Elí lo llamó y le dijo: “Samuel, hijo mío.”  
-Samuel respondió: “Aquí estoy.”
+ Samuel respondió: “Aquí estoy.”
 
 ## 1 Samuel 3:17
 
@@ -87,7 +87,7 @@ Samuel respondió: “Aquí estoy.”
 ## 1 Samuel 3:18
 
 Así que Samuel le contó todo y no ocultó nada.  
-Entonces Elí dijo: “Él es el Señor; que haga lo que le parezca bien.”
+ Entonces Elí dijo: “Él es el Señor; que haga lo que le parezca bien.”
 
 ---
 

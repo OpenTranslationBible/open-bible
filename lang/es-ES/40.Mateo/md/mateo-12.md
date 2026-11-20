@@ -75,20 +75,20 @@ Esto fue para cumplir lo que había sido dicho por el profeta Isaías:
 ## Mateo 12:18
 
 > “He aquí Mi Siervo a quien he escogido,
-> Mi amado en quien se complace Mi alma;
-> he puesto Mi Espíritu sobre él,
-> él proclamará justicia a las naciones.
+>  Mi amado en quien se complace Mi alma;
+>  pondré Mi Espíritu sobre él,
+>  y él proclamará justicia a las naciones.
 
 ## Mateo 12:19
 
 > No disputará ni gritará;
-> nadie oirá Su voz en las calles.
+>  nadie oirá Su voz en las calles.
 
 ## Mateo 12:20
 
 > No quebrará la caña cascada,
-> ni apagará la mecha que humea,
-> hasta que lleve la justicia a la victoria.
+>  ni apagará la mecha que humea,
+>  hasta que lleve la justicia a la victoria.
 
 ## Mateo 12:21
 

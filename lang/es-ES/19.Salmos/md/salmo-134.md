@@ -5,12 +5,11 @@
 ## Salmo 134:1
 
 > ¡Mirad, bendecid al Señor, todos los siervos del Señor,  
-> Que servís de noche en la casa del Señor!
+>  Que servís de noche en la casa del Señor!
 
 ## Salmo 134:2
 
-> Alzad vuestras manos hacia el lugar santo  
-> Y ofreced alabanza al Señor.
+> Alzad vuestras manos hacia el lugar santo Y ofreced alabanza al Señor.
 
 ---
 

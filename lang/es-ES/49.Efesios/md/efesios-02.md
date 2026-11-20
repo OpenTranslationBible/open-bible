@@ -2,7 +2,7 @@
 
 ## Efesios 2:1
 
-Y estabais espiritualmente muertos en vuestras transgresiones y pecados,
+Y estabais muertos en vuestras transgresiones y pecados,
 
 ## Efesios 2:2
 
@@ -18,7 +18,7 @@ Pero Dios, que es rico en misericordia, por su gran amor con que nos amó,
 
 ## Efesios 2:5
 
-aun cuando estábamos espiritualmente muertos en nuestras transgresiones, nos dio vida juntamente con Cristo—por gracia sois salvos—
+aun cuando estábamos muertos en nuestras transgresiones, nos dio vida juntamente con Cristo —por gracia sois salvos—
 
 ## Efesios 2:6
 

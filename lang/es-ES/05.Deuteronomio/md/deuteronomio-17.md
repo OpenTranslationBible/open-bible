@@ -22,7 +22,7 @@ Por el testimonio de dos o tres testigos se ha de dar muerte al que merece morir
 Las manos de los testigos deben ser las primeras en llevar a cabo la ejecución, y después las manos de todo el pueblo. Debes eliminar el mal de entre vosotros.
 
 ## Deuteronomio 17:8
-Si surge un caso que sea demasiado difícil de juzgar para ti—ya sea homicidio, pleitos o agresiones—dentro de tus puertas, entonces debes subir al lugar que el Señor tu Dios elija.
+Si surge un caso que sea demasiado difícil de juzgar para ti —ya sea homicidio, pleitos o agresiones— dentro de tus puertas, entonces debes subir al lugar que el Señor tu Dios elija.
 
 ## Deuteronomio 17:9
 Ve a los sacerdotes levitas y al juez que esté en funciones en ese momento. Consúltales, y ellos te declararán la decisión legal.

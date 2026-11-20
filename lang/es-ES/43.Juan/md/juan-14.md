@@ -62,7 +62,7 @@ Si me pedís cualquier cosa en mi nombre, la cumpliré.
 
 ## Juan 14:15
 
-“Porque si me amáis, obedeceréis mis mandamientos.
+“Si me amáis, obedeceréis mis mandamientos.
 
 ## Juan 14:16
 
@@ -74,7 +74,7 @@ el Espíritu de verdad. El mundo no puede aceptarlo, porque ni lo percibe ni lo 
 
 ## Juan 14:18
 
-No os dejaré solos sin provisión; vendré a vosotros.
+No os dejaré huérfanos; vendré a vosotros.
 
 ## Juan 14:19
 

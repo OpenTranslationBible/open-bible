@@ -84,7 +84,7 @@ Sus hijos prosperarán como en los días de antaño, y su comunidad será establ
 
 ## Jeremías 30:21
 
-Su líder será uno de los suyos, y su gobernante vendrá de en medio de ellos. Lo acercaré, y él se acercará a Mí— porque ¿quién se atrevería a arriesgar su vida para acercarse a Mí?’ declara el Señor.
+Su líder será uno de los suyos, y su gobernante vendrá de en medio de ellos. Lo acercaré, y él se acercará a Mí —porque ¿quién se atrevería a arriesgar su vida para acercarse a Mí?’ declara el Señor—.
 
 ## Jeremías 30:22
 

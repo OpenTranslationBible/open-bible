@@ -37,7 +37,7 @@ Temblad, mujeres complacientes; preocupaos, hijas que os sentís a gusto. Quitad
 Lamentaos por los campos agradables, por las vides fructíferas,
 
 ## Isaías 32:13
-y por la tierra de mi pueblo, cubierta de espinos y zarzas— sí, lamentaos por todas las casas alegres y la ciudad jubilosa.
+y por la tierra de mi pueblo, cubierta de espinos y zarzas —sí, lamentaos por todas las casas alegres y la ciudad jubilosa—.
 
 ## Isaías 32:14
 Porque el palacio será abandonado, la ciudad bulliciosa desierta; colina y torre de vigilancia se convertirán en cuevas para siempre, un deleite para los asnos salvajes, un pasto para los rebaños,

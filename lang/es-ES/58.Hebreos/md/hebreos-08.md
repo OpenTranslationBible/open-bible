@@ -32,40 +32,35 @@ Porque si el primer pacto hubiera sido sin defecto, no habría habido necesidad 
 
 Porque encontrando falta en el pueblo, dice:
 
-> “He aquí, vienen días, dice el Señor,
-> en que estableceré un nuevo pacto
-> con la casa de Israel y con la casa de Judá.
+>  “He aquí, vienen días, dice el Señor,
+>  en que estableceré un nuevo pacto con la casa de Israel y con la casa de Judá.
 
 ## Hebreos 8:9
 
-> No será como el pacto
-> que hice con sus antepasados
-> el día que los tomé de la mano
-> para sacarlos de la tierra de Egipto;
-> porque no continuaron en mi pacto,
-> y me aparté de ellos, dice el Señor.
+> No será como el pacto que hice con sus antepasados el día que los tomé de la mano para sacarlos de la tierra de Egipto;
+>  porque no continuaron en mi pacto,
+>  y me aparté de ellos,
+>  dice el Señor.
 
 ## Hebreos 8:10
 
-> Este es el pacto
-> que haré con la casa de Israel
-> después de aquellos días, dice el Señor:
-> Pondré mis leyes en sus mentes
-> y las escribiré en sus corazones.
-> Yo seré su Dios,
-> y ellos serán mi pueblo.
+> Este es el pacto que haré con la casa de Israel después de aquellos días,
+>  dice el Señor:
+>  Pondré mis leyes en sus mentes y las escribiré en sus corazones.
+>  Yo seré su Dios,
+>  y ellos serán mi pueblo.
 
 ## Hebreos 8:11
 
 > Y no enseñarán, cada uno a su prójimo,
-> y cada uno a su hermano, diciendo: ‘Conoce al Señor,’
-> porque todos me conocerán,
-> desde el menor hasta el mayor de ellos.
+>  y cada uno a su hermano, diciendo: ‘Conoce al Señor,’
+>  porque todos me conocerán,
+>  desde el menor hasta el mayor de ellos.
 
 ## Hebreos 8:12
 
 > Porque seré misericordioso con sus iniquidades,
-> y de sus pecados no me acordaré más.”
+>  y de sus pecados no me acordaré más.”
 
 ## Hebreos 8:13
 

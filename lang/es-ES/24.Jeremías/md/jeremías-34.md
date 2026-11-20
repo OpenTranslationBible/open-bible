@@ -49,7 +49,7 @@ Recientemente, ustedes se volvieron e hicieron lo correcto ante mis ojos: Cada u
 Pero ahora se han vuelto y han profanado mi nombre; cada uno de ustedes ha retomado a los esclavos hombres y mujeres que habían liberado para que fueran como quisieran. Los han traído de nuevo a la sujeción como sus esclavos.
 
 ## Jeremías 34:17
-Por lo tanto, esto es lo que dice el Señor: No me han obedecido proclamando libertad, cada uno a su hermano y vecino. Así que ahora proclamo ‘libertad’ para ustedes, declara el Señor—‘libertad’ para la espada, la plaga y el hambre. Los convertiré en un horror para todos los reinos de la tierra.
+Por lo tanto, esto es lo que dice el Señor: No me han obedecido proclamando libertad, cada uno a su hermano y vecino. Así que ahora proclamo ‘libertad’ para ustedes, declara el Señor —‘libertad’ para la espada, la plaga y el hambre. Los convertiré en un horror para todos los reinos de la tierra—.
 
 ## Jeremías 34:18
 Aquellos que han violado mi pacto y no han cumplido los términos del pacto que hicieron delante de mí, los trataré como el becerro que cortaron en dos y luego pasaron entre sus partes.

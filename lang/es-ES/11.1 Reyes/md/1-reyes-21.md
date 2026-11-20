@@ -15,7 +15,7 @@ Pero Nabot respondió a Acab: “El Señor me libre de darte la herencia de mis 
 ## 1 Reyes 21:4
 
 Así que Acab se fue a casa, malhumorado y enojado porque Nabot de Jezreel le había dicho: “No te daré la herencia de mis antepasados.”  
-Se acostó en su cama, volvió su rostro y se negó a comer.
+ Se acostó en su cama, volvió su rostro y se negó a comer.
 
 ---
 
@@ -38,7 +38,7 @@ Entonces ella escribió cartas en nombre de Acab, las selló con su sello y las 
 ## 1 Reyes 21:9
 
 En esas cartas escribió:  
-“Proclamad un ayuno y sentad a Nabot en un lugar prominente entre el pueblo.
+ “Proclamad un ayuno y sentad a Nabot en un lugar prominente entre el pueblo.
 
 ## 1 Reyes 21:10
 
@@ -48,7 +48,7 @@ Pero sentad a dos sinvergüenzas frente a él y haced que testifiquen que ha mal
 
 ## 1 Reyes 21:11
 
-Así que los hombres de la ciudad de Nabot—los ancianos y nobles que vivían allí—hicieron exactamente como Jezabel había instruido en las cartas que les había enviado.
+Así que los hombres de la ciudad de Nabot —los ancianos y nobles que vivían allí— hicieron exactamente como Jezabel había instruido en las cartas que les había enviado.
 
 ## 1 Reyes 21:12
 
@@ -57,7 +57,7 @@ Anunciaron un ayuno y colocaron a Nabot en una posición notable entre el pueblo
 ## 1 Reyes 21:13
 
 Entonces dos hombres sin valor entraron y se sentaron frente a él, y testificaron ante el pueblo, diciendo: “Nabot ha maldecido a Dios y al rey.”  
-Así que lo llevaron fuera de la ciudad y lo apedrearon hasta que murió.
+ Así que lo llevaron fuera de la ciudad y lo apedrearon hasta que murió.
 
 ## 1 Reyes 21:14
 
@@ -68,7 +68,7 @@ Después informaron a Jezabel: “Nabot ha sido apedreado y está muerto.”
 ## 1 Reyes 21:15
 
 Tan pronto como Jezabel oyó que Nabot había sido apedreado y estaba muerto, dijo a Acab,  
-“Levántate y toma posesión de la viña de Nabot de Jezreel, que se negó a venderte. Ya no está vivo, sino muerto.”
+ “Levántate y toma posesión de la viña de Nabot de Jezreel, que se negó a venderte. Ya no está vivo, sino muerto.”
 
 ## 1 Reyes 21:16
 
@@ -87,17 +87,17 @@ La palabra del Señor vino a Elías el tisbita y fue:
 ## 1 Reyes 21:19
 
 Dile: ‘Esto es lo que dice el Señor: ¿Has asesinado y también tomado posesión?’  
-Luego dile: ‘Esto es lo que dice el Señor: En el lugar donde los perros lamieron la sangre de Nabot, los perros también lamerán tu sangre—sí, la tuya!’”
+ Luego dile: ‘Esto es lo que dice el Señor: En el lugar donde los perros lamieron la sangre de Nabot, los perros también lamerán tu sangre —sí, la tuya—!’”
 
 ## 1 Reyes 21:20
 
 Acab dijo a Elías: “¡Así que me has encontrado, enemigo mío!”  
-Elías respondió: “Te he encontrado, porque te has vendido para hacer el mal a los ojos del Señor.
+ Elías respondió: “Te he encontrado, porque te has vendido para hacer el mal a los ojos del Señor.
 
 ## 1 Reyes 21:21
 
 Esto es lo que dice el Señor:  
-‘Traeré desastre sobre ti. Borraré a tus descendientes, y cortaré de Acab a todo varón en Israel—esclavo o libre.
+ ‘Traeré desastre sobre ti. Borraré a tus descendientes, y cortaré de Acab a todo varón en Israel —esclavo o libre—.
 
 ## 1 Reyes 21:22
 
@@ -126,7 +126,7 @@ Actuó de las maneras más detestables siguiendo ídolos, como lo hicieron los a
 ## 1 Reyes 21:27
 
 Cuando Acab oyó estas palabras, rasgó sus vestiduras, se puso cilicio y ayunó.  
-Se acostó en cilicio y anduvo callado y humildemente.
+ Se acostó en cilicio y anduvo callado y humildemente.
 
 ## 1 Reyes 21:28
 
@@ -135,5 +135,5 @@ El mensaje del Señor vino a Elías el tisbita:
 ## 1 Reyes 21:29
 
 “¿Has notado cómo Acab se ha humillado ante Mí?  
-Porque se ha humillado, no traeré el desastre en su vida.  
-Lo traeré sobre su casa en los días de su hijo.”
+ Porque se ha humillado, no traeré el desastre en su vida.  
+ Lo traeré sobre su casa en los días de su hijo.”

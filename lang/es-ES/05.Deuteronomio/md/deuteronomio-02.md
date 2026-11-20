@@ -114,7 +114,7 @@ Nos venderéis comida por dinero para que podamos comer, y nos daréis agua por 
 
 ## Deuteronomio 2:29
 
-tal como los descendientes de Esaú en Seir y los moabitas en Ar nos permitieron—hasta que crucemos el Jordán hacia la tierra que el Señor nuestro Dios nos está dando.”
+tal como los descendientes de Esaú en Seir y los moabitas en Ar nos permitieron —hasta que crucemos el Jordán hacia la tierra que el Señor nuestro Dios nos está dando—.”
 
 ## Deuteronomio 2:30
 

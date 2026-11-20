@@ -96,7 +96,7 @@ El siervo regresó y le informó esto a su señor. El dueño de la casa se enoj�
 
 ## Lucas 14:23
 
-Entonces el señor instruyó a su siervo: ‘Sal a los caminos y cercas del campo y anímalos a entrar, para que mi casa se llene.
+Entonces el señor instruyó a su siervo: ‘Sal a los caminos y cercas del campo y oblígalos a entrar, para que mi casa se llene.
 
 ## Lucas 14:24
 
@@ -110,7 +110,7 @@ Grandes multitudes viajaban con Jesús, y Él se volvió y les dijo:
 
 ## Lucas 14:26
 
-“Si alguno viene a Mí y no odia a su padre y madre, esposa e hijos, hermanos y hermanas—sí, incluso su propia vida—tal persona no puede ser Mi discípulo.
+“Si alguno viene a Mí y no odia a su padre y madre, esposa e hijos, hermanos y hermanas —sí, incluso su propia vida— tal persona no puede ser Mi discípulo.
 
 ## Lucas 14:27
 

@@ -44,7 +44,7 @@ Oigo a muchos susurrar, “¡Terror por todas partes! ¡Denúncienlo! ¡Denunci�
 
 ## Jeremías 20:11
 
-Pero el Señor está conmigo como un poderoso guerrero; por lo tanto, mis perseguidores tropezarán y no prevalecerán. Serán puestos en gran vergüenza, su deshonra nunca será olvidada.
+Pero el Señor está conmigo como un poderoso guerrero; por lo tanto, mis perseguidores tropezarán y no prevalecerán. Serán puestos en gran vergüenza, porque no han tenido éxito; su deshonra nunca será olvidada.
 
 ## Jeremías 20:12
 
@@ -56,7 +56,7 @@ Señor de los ejércitos, tú que pruebas al justo y ves el corazón y la mente,
 
 ## Jeremías 20:14
 
-¡Que el día de mi nacimiento sea olvidado! ¡Que el día en que mi madre me dio a luz no sea celebrado!
+¡Maldito el día de mi nacimiento! ¡Que el día en que mi madre me dio a luz no sea celebrado!
 
 ## Jeremías 20:15
 

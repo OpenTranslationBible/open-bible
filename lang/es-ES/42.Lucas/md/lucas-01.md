@@ -114,7 +114,7 @@ En el sexto mes, Dios envió al ángel Gabriel a una ciudad de Galilea llamada N
 
 ## Lucas 1:27
 
-a una joven comprometida con un hombre llamado José, de la casa de David. El nombre de la joven era María.
+a una virgen comprometida con un hombre llamado José, de la casa de David. El nombre de la virgen era María.
 
 ## Lucas 1:28
 
@@ -172,11 +172,11 @@ donde entró en la casa de Zacarías y saludó a Elisabet.
 
 ## Lucas 1:41
 
-Al oír el saludo de María, el bebé se movió dentro de ella, y Elisabet fue llena del Espíritu Santo.
+Al oír el saludo de María, el bebé saltó dentro de ella, y Elisabet fue llena del Espíritu Santo.
 
 ## Lucas 1:42
 
-Con gran voz exclamó: “¡Bendita tú entre las mujeres, y bendito el hijo que darás a luz!
+Con gran voz exclamó: “¡Bendita tú entre las mujeres, y bendito el fruto de tu vientre!
 
 ## Lucas 1:43
 
@@ -206,7 +206,7 @@ porque ha mirado la humilde condición de su sierva. Desde ahora todas las gener
 
 ## Lucas 1:49
 
-porque el Poderoso ha hecho grandes cosas por mí—santo es su nombre.
+porque el Poderoso ha hecho grandes cosas por mí —santo es su nombre—.
 
 ## Lucas 1:50
 
@@ -289,12 +289,11 @@ Zacarías, su padre, fue lleno del Espíritu Santo y comenzó a profetizar:
 ## Lucas 1:68
 
 > “Bendito sea el Señor, el Dios de Israel,
-> porque ha venido a su pueblo y ha traído redención.
+>  porque ha venido a su pueblo y ha traído redención.
 
 ## Lucas 1:69
 
-> Ha levantado un poderoso salvador para nosotros
-> en la casa de su siervo David,
+> Ha levantado un cuerno de salvación para nosotros en la casa de su siervo David,
 
 ## Lucas 1:70
 
@@ -302,13 +301,11 @@ Zacarías, su padre, fue lleno del Espíritu Santo y comenzó a profetizar:
 
 ## Lucas 1:71
 
-> para salvarnos de nuestros enemigos
-> de la mano de todos los que nos odian—
+> para salvarnos de nuestros enemigos y de la mano de todos los que nos odian—
 
 ## Lucas 1:72
 
-> para mostrar bondad a nuestros antepasados
-> y recordar su sagrado pacto,
+> para mostrar bondad a nuestros antepasados y recordar su sagrado pacto,
 
 ## Lucas 1:73
 
@@ -317,7 +314,7 @@ Zacarías, su padre, fue lleno del Espíritu Santo y comenzó a profetizar:
 ## Lucas 1:74
 
 > para salvarnos de la mano de nuestros enemigos,
-> para que le sirvamos sin temor
+>  para que le sirvamos sin temor
 
 ## Lucas 1:75
 
@@ -326,22 +323,21 @@ Zacarías, su padre, fue lleno del Espíritu Santo y comenzó a profetizar:
 ## Lucas 1:76
 
 > Y tú, mi niño, serás llamado profeta del Altísimo;
-> porque irás delante del Señor para preparar su camino,
+>  porque irás delante del Señor para preparar su camino,
 
 ## Lucas 1:77
 
-> para dar a su pueblo el conocimiento de la salvación
-> mediante el perdón de sus pecados,
+> para dar a su pueblo el conocimiento de la salvación mediante el perdón de sus pecados,
 
 ## Lucas 1:78
 
 > por la tierna misericordia de nuestro Dios,
-> por la cual la aurora desde el cielo nos visitará
+>  por la cual la aurora desde el cielo nos visitará
 
 ## Lucas 1:79
 
 > para iluminar a los que habitan en tinieblas y en sombra de muerte,
-> para guiar nuestros pies por el camino de la paz.”
+>  para guiar nuestros pies por el camino de la paz.”
 
 ---
 

@@ -82,7 +82,7 @@ Después de su purificación, debe esperar siete días.
 El día que entre en el santuario, al atrio interior para ministrar en el santuario, ofrecerá una ofrenda por el pecado para sí mismo, declara el Señor Soberano.
 
 ## Ezequiel 44:28
-Yo seré su única herencia; no les darás propiedad en Israel—yo soy su posesión.
+Yo seré su única herencia; no les darás propiedad en Israel —yo soy su posesión—.
 
 ## Ezequiel 44:29
 Comerán las ofrendas de grano, las ofrendas por el pecado y las ofrendas por la culpa; y todo en Israel consagrado al Señor les pertenecerá.

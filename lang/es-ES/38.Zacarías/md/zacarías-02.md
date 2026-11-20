@@ -22,7 +22,7 @@ Porque yo,’ declara el Señor, ‘seré un muro de fuego alrededor de ella, y 
 “¡Ven, Sión! ¡Escapa, tú que habitas con la Hija de Babilonia!”
 
 ## Zacarías 2:8
-Porque esto es lo que dice el Señor de los Ejércitos: “Después de la gloria me ha enviado contra las naciones que os han saqueado—porque quien os toca, toca la niña de su ojo—
+Porque esto es lo que dice el Señor de los Ejércitos: “Después de la gloria me ha enviado contra las naciones que os han saqueado —porque quien os toca, toca la niña de su ojo—
 
 ## Zacarías 2:9
 ciertamente agitaré mi mano sobre ellos para que sus esclavos los saqueen. Entonces sabréis que el Señor de los Ejércitos me ha enviado.

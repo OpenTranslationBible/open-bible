@@ -92,7 +92,7 @@ Pero Jael, esposa de Héber, tomó una estaca de tienda y un martillo, y se acer
 
 ## Jueces 4:22
 
-Justo entonces, Barac llegó persiguiendo a Sísara, y Jael salió a recibirlo. Ella dijo: “Ven, te mostraré al hombre que buscas.” Así que él entró con ella, y allí estaba Sísara con la estaca en su sien—muerto.
+Justo entonces, Barac llegó persiguiendo a Sísara, y Jael salió a recibirlo. Ella dijo: “Ven, te mostraré al hombre que buscas.” Así que él entró con ella, y allí estaba Sísara con la estaca en su sien —muerto—.
 
 ## Jueces 4:23
 

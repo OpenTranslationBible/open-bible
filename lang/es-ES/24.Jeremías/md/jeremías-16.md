@@ -61,4 +61,4 @@ Oh Señor, mi fuerza y mi fortaleza, mi refugio en el día de la angustia, a ti 
 ¿Puede una persona hacerse dioses a sí misma? ¡Pero no son dioses!
 
 ## Jeremías 16:21
-“Por lo tanto, he aquí, les haré saber—esta vez les haré conocer mi poder y mi fuerza; y sabrán que mi nombre es el Señor.”
+“Por lo tanto, he aquí, les haré saber —esta vez les haré conocer mi poder y mi fuerza; y sabrán que mi nombre es el Señor—.”

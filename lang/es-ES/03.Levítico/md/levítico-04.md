@@ -22,7 +22,7 @@ Mojará su dedo en la sangre y la rociará siete veces ante el Señor, frente al
 El sacerdote pondrá un poco de la sangre sobre los cuernos del altar del incienso aromático ante el Señor en la tienda de reunión, y el resto de la sangre del becerro la derramará al pie del altar del holocausto a la entrada de la tienda de reunión.
 
 ## Levítico 4:8
-Quitará toda la grasa del becerro de la ofrenda por el pecado—la grasa que cubre las entrañas y toda la grasa que está sobre las entrañas,
+Quitará toda la grasa del becerro de la ofrenda por el pecado —la grasa que cubre las entrañas y toda la grasa que está sobre las entrañas,—
 
 ## Levítico 4:9
 los dos riñones con la grasa que está sobre ellos junto a los lomos, y el lóbulo largo del hígado, que quitará junto con los riñones—
@@ -34,7 +34,7 @@ tal como se quita del buey del sacrificio de las ofrendas de paz. Luego el sacer
 Pero la piel del becerro y toda su carne, junto con su cabeza, patas, entrañas y desechos—
 
 ## Levítico 4:12
-es decir, todo el resto del becerro—lo llevará a un lugar limpio fuera del campamento donde se vierten las cenizas, y lo quemará allí en un fuego de leña; donde se vierten las cenizas será quemado.
+es decir, todo el resto del becerro —lo llevará a un lugar limpio fuera del campamento donde se vierten las cenizas, y lo quemará allí en un fuego de leña; donde se vierten las cenizas será quemado—.
 
 ## Levítico 4:13
 ‘Si toda la comunidad israelita peca inadvertidamente y el asunto pasa desapercibido para la asamblea, y hacen cualquiera de las cosas que el Señor ha mandado no hacer, y se hacen culpables;

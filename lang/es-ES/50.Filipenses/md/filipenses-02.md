@@ -23,34 +23,33 @@ Tened entre vosotros la misma actitud que tuvo Cristo Jesús:
 ## Filipenses 2:6
 
 > quien, siendo en forma de Dios,
-> no consideró el ser igual a Dios como algo a lo que aferrarse para su propio provecho;
+>  no consideró el ser igual a Dios como algo a lo que aferrarse para su propio provecho;
 
 ## Filipenses 2:7
 
-> sino que se despojó a sí mismo
-> tomando la forma de siervo,
-> hecho semejante a los hombres.
+> sino que se despojó a sí mismo tomando la forma de siervo,
+>  hecho semejante a los hombres.
 
 ## Filipenses 2:8
 
 > Y al ser hallado en condición de hombre,
-> se humilló a sí mismo haciéndose obediente hasta la muerte,
-> y muerte de cruz.
+>  se humilló a sí mismo haciéndose obediente hasta la muerte,
+>  y muerte de cruz.
 
 ## Filipenses 2:9
 
 > Por lo cual Dios lo exaltó hasta lo sumo,
-> y le otorgó el nombre que es sobre todo nombre,
+>  y le otorgó el nombre que es sobre todo nombre,
 
 ## Filipenses 2:10
 
 > para que en el nombre de Jesús se doble toda rodilla,
-> en los cielos, en la tierra, y debajo de la tierra,
+>  en los cielos, en la tierra, y debajo de la tierra,
 
 ## Filipenses 2:11
 
 > y toda lengua confiese que Jesucristo es el Señor,
-> para gloria de Dios Padre.
+>  para gloria de Dios Padre.
 
 ## Filipenses 2:12
 

@@ -42,7 +42,7 @@ Pero tú has seguido mi enseñanza, conducta, propósito, fe, paciencia, amor, p
 
 ## 2 Timoteo 3:11
 
-persecuciones y sufrimientos, como los que me sucedieron en Antioquía, en Iconio y en Listra—¡qué persecuciones soporté, y de todas ellas me rescató el Señor!
+persecuciones y sufrimientos, como los que me sucedieron en Antioquía, en Iconio y en Listra —¡qué persecuciones soporté, y de todas ellas me rescató el Señor—!
 
 ## 2 Timoteo 3:12
 

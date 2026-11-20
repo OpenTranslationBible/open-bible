@@ -37,13 +37,13 @@ Les di mis estatutos y les informé de mis ordenanzas, por las cuales vivirá un
 También les di mis sábados como una señal entre nosotros, para que supieran que yo, el Señor, los santifico.
 
 ## Ezequiel 20:13
-Sin embargo, la casa de Israel se rebeló contra mí en el desierto. No siguieron mis estatutos y rechazaron mis ordenanzas—por las cuales vivirá una persona si las obedece—y profanaron grandemente mis sábados. Así que decidí derramar mi ira sobre ellos en el desierto, para destruirlos.
+Sin embargo, la casa de Israel se rebeló contra mí en el desierto. No siguieron mis estatutos y rechazaron mis ordenanzas —por las cuales vivirá una persona si las obedece— y profanaron grandemente mis sábados. Así que decidí derramar mi ira sobre ellos en el desierto, para destruirlos.
 
 ## Ezequiel 20:14
 Pero actué por el bien de mi nombre, para evitar que fuera profanado a la vista de las naciones a cuya vista los había sacado.
 
 ## Ezequiel 20:15
-También, les juré en el desierto que no los llevaría a la tierra que les había dado—una tierra que fluye leche y miel, la más gloriosa de todas las tierras—
+También, les juré en el desierto que no los llevaría a la tierra que les había dado —una tierra que fluye leche y miel, la más gloriosa de todas las tierras—
 
 ## Ezequiel 20:16
 porque rechazaron mis ordenanzas, no siguieron mis estatutos, y profanaron mis sábados, porque sus corazones estaban dedicados a sus ídolos.
@@ -76,7 +76,7 @@ porque no habían obedecido mis ordenanzas sino que habían rechazado mis estatu
 Así que les permití seguir estatutos que no eran beneficiosos y ordenanzas por las cuales no podían prosperar;
 
 ## Ezequiel 20:26
-los dejé ser contaminados a través de sus ofrendas—el sacrificio de cada primogénito—para que se llenaran de horror y supieran que yo soy el Señor.’
+los dejé ser contaminados a través de sus ofrendas —el sacrificio de cada primogénito— para que se llenaran de horror y supieran que yo soy el Señor.’
 
 ## Ezequiel 20:27
 “Por lo tanto, hijo de hombre, habla a la casa de Israel y diles: ‘Esto es lo que dice el Señor Dios: En esto también vuestros antepasados me blasfemaron siendo infieles a mí:

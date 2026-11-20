@@ -36,9 +36,9 @@ Esta sabiduría no fue entendida por ninguno de los gobernantes de esta era; por
 
 Pero tal como está escrito:
 
-> “El ojo no ha visto, el oído no ha oído,  
-> ni la mente ha concebido,  
-> todo lo que Dios ha preparado para los que le aman.”
+>  “El ojo no ha visto, el oído no ha oído,  
+>  ni la mente ha concebido,  
+>  todo lo que Dios ha preparado para los que le aman.”
 
 ## 1 Corintios 2:10
 
@@ -66,8 +66,8 @@ Pero el que es espiritual evalúa todas las cosas, pero él mismo no es evaluado
 
 ## 1 Corintios 2:16
 
-Porque
+Porque ¿quién puede conocer la mente del Señor,
 
-> ¿quién puede conocer la mente del Señor, para instruirle?
+>  para instruirle?
 
-Sin embargo, poseemos la mente de Cristo.
+ Sin embargo, poseemos la mente de Cristo.

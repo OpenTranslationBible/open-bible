@@ -10,7 +10,7 @@ y proclamando: “Arrepentíos, porque el reino de los cielos está cerca.”
 
 ## Mateo 3:3
 
-Este es aquel de quien habló el profeta Isaías: “Una voz de uno que clama en el desierto, ‘Preparad el camino del Señor, enderezad en el desierto una calzada para nuestro Dios.’”
+Este es aquel de quien habló el profeta Isaías: “Una voz de uno que clama en el desierto, ‘Preparad el camino del Señor, enderezad sus sendas.’”
 
 ## Mateo 3:4
 

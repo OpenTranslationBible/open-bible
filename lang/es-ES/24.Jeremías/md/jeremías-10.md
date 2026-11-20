@@ -86,7 +86,7 @@ Los pastores son insensatos y no han buscado al Señor; por lo tanto, no prosper
 
 ## Jeremías 10:22
 
-¡Escuchad! Un informe está llegando— ¡un gran alboroto desde la tierra del norte! Hará que las ciudades de Judá queden desoladas, un refugio de chacales.
+¡Escuchad! Un informe está llegando —¡un gran alboroto desde la tierra del norte! Hará que las ciudades de Judá queden desoladas, un refugio de chacales—.
 
 ## Jeremías 10:23
 

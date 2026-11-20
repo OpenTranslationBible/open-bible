@@ -10,7 +10,7 @@ Los principales sacerdotes y los escribas buscaban cómo matar a Jesús, porque 
 
 ## Lucas 22:3
 
-Entonces Satanás influyó en Judas, llamado Iscariote, que era uno de los Doce.
+Entonces Satanás entró en Judas, llamado Iscariote, que era uno de los Doce.
 
 ## Lucas 22:4
 
@@ -226,7 +226,7 @@ Entonces Jesús dijo a los principales sacerdotes, a los oficiales de la guardia
 
 ## Lucas 22:53
 
-Cada día estaba con vosotros en los patios del templo, y no pusisteis mano sobre mí. Pero esta es vuestra hora —cuando la oscuridad tiene su dominio.”
+Cada día estaba con vosotros en los patios del templo, y no pusisteis mano sobre mí. Pero esta es vuestra hora —cuando la oscuridad tiene su dominio—.”
 
 ---
 

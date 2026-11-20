@@ -118,7 +118,7 @@ Y además de todo esto, entre nosotros y vosotros hay un gran abismo fijado, par
 
 ## Lucas 16:28
 
-porque tengo cinco hermanos—para que les advierta, no sea que ellos también vengan a este lugar de tormento.’
+porque tengo cinco hermanos —para que les advierta, no sea que ellos también vengan a este lugar de tormento—.’
 
 ## Lucas 16:29
 

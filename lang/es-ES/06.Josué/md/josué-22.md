@@ -52,7 +52,7 @@ Cuando los israelitas oyeron esto, toda la asamblea se reunió en Silo para ir a
 
 ## Josué 22:13
 
-Así que los israelitas enviaron a Fineas, hijo de Eleazar, el sacerdote, a la tierra de Galaad—a los rubenitas, gaditas y la media tribu de Manasés.
+Así que los israelitas enviaron a Fineas, hijo de Eleazar, el sacerdote, a la tierra de Galaad —a los rubenitas, gaditas y la media tribu de Manasés—.
 
 ## Josué 22:14
 
@@ -90,7 +90,7 @@ Entonces los rubenitas, gaditas y la media tribu de Manasés respondieron a los 
 
 ## Josué 22:22
 
-“¡El Poderoso, Dios, el Señor! Él lo sabe, y que lo sepa Israel. Si esto ha sido en rebelión o desobediencia al Señor, no nos perdonéis hoy.
+“¡El Poderoso, Dios, el Señor! ¡El Poderoso, Dios, el Señor! Él lo sabe, y que lo sepa Israel. Si esto ha sido en rebelión o desobediencia al Señor, no nos perdonéis hoy.
 
 ## Josué 22:23
 
@@ -122,7 +122,7 @@ Lejos de nosotros rebelarnos contra el Señor y apartarnos de Él hoy construyen
 
 ## Josué 22:30
 
-Cuando Fineas el sacerdote y los líderes de la comunidad—los jefes de los clanes de los israelitas—oyeron lo que los rubenitas, gaditas y Manasés tenían que decir, se complacieron.
+Cuando Fineas el sacerdote y los líderes de la comunidad —los jefes de los clanes de los israelitas— oyeron lo que los rubenitas, gaditas y Manasés tenían que decir, se complacieron.
 
 ## Josué 22:31
 

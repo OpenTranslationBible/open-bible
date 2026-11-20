@@ -4,7 +4,7 @@
 Escucha, Israel: Hoy estás a punto de cruzar el Jordán para entrar y desposeer a naciones más grandes y fuertes que tú, con grandes ciudades fortificadas hasta los cielos.
 
 ## Deuteronomio 9:2
-El pueblo es fuerte y alto—los Anacim. Sabes de ellos, y has oído decir: ‘¿Quién puede enfrentarse a los descendientes de Anac?’
+El pueblo es fuerte y alto —los Anacim. Sabes de ellos, y has oído decir: ‘¿Quién puede enfrentarse a los descendientes de Anac—?’
 
 ## Deuteronomio 9:3
 Pero comprende hoy que el Señor tu Dios va delante de ti como un fuego consumidor. Él los destruirá y los someterá delante de ti. Así que los expulsarás y los aniquilarás rápidamente, como el Señor te ha prometido.
@@ -13,10 +13,10 @@ Pero comprende hoy que el Señor tu Dios va delante de ti como un fuego consumid
 Cuando el Señor tu Dios los haya expulsado delante de ti, no digas en tu corazón: ‘Es por mi justicia que el Señor me ha traído para poseer esta tierra.’ Más bien, es por la maldad de estas naciones que el Señor las está desposeyendo delante de ti.
 
 ## Deuteronomio 9:5
-No es por tu justicia ni por la rectitud de tu corazón que vas a poseer su tierra. En cambio, es por su maldad que el Señor tu Dios los está expulsando delante de ti, para confirmar la promesa que hizo a tus antepasados—a Abraham, Isaac y Jacob.
+No es por tu justicia ni por la rectitud de tu corazón que vas a poseer su tierra. En cambio, es por su maldad que el Señor tu Dios los está expulsando delante de ti, para confirmar la promesa que hizo a tus antepasados —a Abraham, Isaac y Jacob—.
 
 ## Deuteronomio 9:6
-Sabe, por tanto, que no es por tu justicia que el Señor tu Dios te está dando esta buena tierra para poseerla—porque eres un pueblo terco.
+Sabe, por tanto, que no es por tu justicia que el Señor tu Dios te está dando esta buena tierra para poseerla —porque eres un pueblo terco—.
 
 ## Deuteronomio 9:7
 Recuerda y no olvides cómo provocaste al Señor tu Dios a ira en el desierto. Desde el día que saliste de Egipto hasta que llegaste aquí, has sido rebelde hacia el Señor.
@@ -31,7 +31,7 @@ Cuando subí al monte para recibir las tablas de piedra, las tablas del pacto qu
 El Señor me dio dos tablas de piedra escritas con Su propio dedo. En ellas estaban todas las palabras que el Señor te había hablado desde el fuego en el monte el día de la asamblea.
 
 ## Deuteronomio 9:11
-Al cabo de cuarenta días y cuarenta noches, el Señor me dio las dos tablas de piedra—las tablas del pacto.
+Al cabo de cuarenta días y cuarenta noches, el Señor me dio las dos tablas de piedra —las tablas del pacto—.
 
 ## Deuteronomio 9:12
 Entonces el Señor me dijo: ‘Levántate y baja rápidamente de aquí, porque tu pueblo, al que sacaste de Egipto, se ha corrompido. Rápidamente se han apartado del camino que les mandé y se han hecho un ídolo.’
@@ -61,7 +61,7 @@ Tenía miedo de la ira feroz del Señor, que estaba tan enojado contigo que esta
 El Señor estaba lo suficientemente enojado con Aarón como para destruirlo, pero también oré por Aarón en ese momento.
 
 ## Deuteronomio 9:21
-Entonces tomé esa cosa pecaminosa que habías hecho—el becerro—y lo quemé en el fuego, lo trituré y lo molí hasta convertirlo en polvo tan fino como el polvo, y arrojé el polvo al arroyo que baja del monte.
+Entonces tomé esa cosa pecaminosa que habías hecho —el becerro— y lo quemé en el fuego, lo trituré y lo molí hasta convertirlo en polvo tan fino como el polvo, y arrojé el polvo al arroyo que baja del monte.
 
 ## Deuteronomio 9:22
 También provocaste al Señor en Tabera, en Masá y en Kibrot-hataavá.
@@ -85,4 +85,4 @@ Recuerda a Tus siervos Abraham, Isaac y Jacob. No mires la terquedad de este pue
 De lo contrario, la tierra de la que nos sacaste dirá: “Porque el Señor no pudo llevarlos a la tierra que prometió, y porque los odiaba, los sacó para matarlos en el desierto.”
 
 ## Deuteronomio 9:29
-Sin embargo, ellos son Tu pueblo—Tu herencia—a quienes sacaste con Tu gran poder y brazo extendido.
+Sin embargo, ellos son Tu pueblo —Tu herencia— a quienes sacaste con Tu gran poder y brazo extendido.

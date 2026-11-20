@@ -12,9 +12,9 @@ Porque, en verdad, a nosotros se nos ha predicado la buena nueva, al igual que a
 
 Porque nosotros, los que hemos creído, estamos entrando en ese reposo, tal como Él ha dicho,
 
-> “Como juré en Mi ira,
-> ‘No entrarán en Mi reposo,’”
-> aunque Sus obras han sido acabadas desde la fundación del mundo.
+>  “Como juré en Mi ira,
+>  ‘No entrarán en Mi reposo,’”
+>  aunque Sus obras han sido acabadas desde la fundación del mundo.
 
 ## Hebreos 4:4
 
@@ -32,8 +32,8 @@ Por lo tanto, puesto que queda que algunos entren en él, y aquellos a quienes p
 
 Él otra vez designa un cierto día, llamándolo “Hoy,” hablando a través de David después de tanto tiempo, como se ha citado antes:
 
-> “Hoy, si oís Su voz,
-> no endurezcáis vuestros corazones.”
+>  “Hoy, si oís Su voz,
+>  no endurezcáis vuestros corazones.”
 
 ## Hebreos 4:8
 

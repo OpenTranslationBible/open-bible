@@ -57,7 +57,7 @@ Y de repente, junto con el ángel, apareció una multitud del ejército celestia
 ## Lucas 2:14
 
 > “Gloria a Dios en las alturas,
-> y en la tierra paz entre los hombres en quienes él se complace.”
+>  y en la tierra paz entre los hombres en quienes él se complace.”
 
 ---
 
@@ -126,7 +126,7 @@ Simeón lo tomó en sus brazos y bendijo a Dios, diciendo,
 ## Lucas 2:29
 
 > “Señor, ahora dejas a tu siervo irse en paz,
-> conforme a tu palabra;
+>  conforme a tu palabra;
 
 ## Lucas 2:30
 
@@ -139,7 +139,7 @@ Simeón lo tomó en sus brazos y bendijo a Dios, diciendo,
 ## Lucas 2:32
 
 > una luz para revelación a los gentiles,
-> y la gloria de tu pueblo Israel.”
+>  y la gloria de tu pueblo Israel.”
 
 ---
 

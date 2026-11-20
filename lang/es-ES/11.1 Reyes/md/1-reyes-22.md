@@ -15,7 +15,7 @@ El rey de Israel dijo a sus siervos: “¿No sabéis que Ramot de Galaad nos per
 ## 1 Reyes 22:4
 
 Entonces preguntó a Josafat: “¿Irás conmigo a luchar en Ramot de Galaad?”  
-Josafat respondió al rey de Israel: “Yo soy como tú; mi pueblo como tu pueblo, mis caballos como tus caballos.”
+ Josafat respondió al rey de Israel: “Yo soy como tú; mi pueblo como tu pueblo, mis caballos como tus caballos.”
 
 ---
 
@@ -25,8 +25,8 @@ Pero Josafat dijo al rey de Israel: “Primero, busca la palabra del Señor.”
 
 ## 1 Reyes 22:6
 
-Así que el rey de Israel reunió a los profetas—unos cuatrocientos hombres—y les preguntó: “¿Debo ir a la guerra contra Ramot de Galaad, o debo abstenerme?”  
-Ellos respondieron: “Ve, porque el Señor la entregará en manos del rey.”
+Así que el rey de Israel reunió a los profetas —unos cuatrocientos hombres— y les preguntó: “¿Debo ir a la guerra contra Ramot de Galaad, o debo abstenerme?”  
+ Ellos respondieron: “Ve, porque el Señor la entregará en manos del rey.”
 
 ## 1 Reyes 22:7
 
@@ -35,7 +35,7 @@ Pero Josafat preguntó: “¿No hay aquí todavía un profeta del Señor a quien
 ## 1 Reyes 22:8
 
 El rey de Israel dijo a Josafat: “Todavía hay un hombre por medio del cual podemos consultar al Señor, pero lo odio porque nunca profetiza nada bueno acerca de mí, solo desastre. Es Micaías hijo de Imlá.”  
-Josafat respondió: “El rey no debería hablar así.”
+ Josafat respondió: “El rey no debería hablar así.”
 
 ## 1 Reyes 22:9
 
@@ -70,7 +70,7 @@ Pero Micaías dijo: “Tan cierto como que el Señor vive, diré solo lo que el 
 ## 1 Reyes 22:15
 
 Cuando llegó ante el rey, el rey le preguntó: “Micaías, ¿debemos ir a la guerra contra Ramot de Galaad, o no?”  
-Él respondió: “Ve y triunfa, porque el Señor la entregará en manos del rey.”
+ Él respondió: “Ve y triunfa, porque el Señor la entregará en manos del rey.”
 
 ## 1 Reyes 22:16
 
@@ -79,9 +79,9 @@ El rey entonces le preguntó: “¿Cuántas veces debo insistir en que hables so
 ## 1 Reyes 22:17
 
 Entonces Micaías dijo:  
-“Vi a todo Israel disperso por las colinas, como ovejas sin pastor,
+ “Vi a todo Israel disperso por las colinas, como ovejas sin pastor,
 
-> y el Señor dijo: ‘Esta gente no tiene amo; que cada uno regrese a su casa en paz.’”
+>  y el Señor dijo: ‘Esta gente no tiene amo; que cada uno regrese a su casa en paz.’”
 
 ---
 
@@ -92,12 +92,12 @@ El rey de Israel dijo a Josafat: “¿No te dije que no profetizaría nada bueno
 ## 1 Reyes 22:19
 
 Micaías dijo: “Por lo tanto, escucha la palabra del Señor:  
-Vi al Señor sentado en su trono, con todo el ejército del cielo de pie junto a Él, a su derecha y a su izquierda.
+ Vi al Señor sentado en su trono, con todo el ejército del cielo de pie junto a Él, a su derecha y a su izquierda.
 
 ## 1 Reyes 22:20
 
 Y el Señor dijo: ‘¿Quién inducirá a Acab para que suba y caiga en Ramot de Galaad?’  
-Uno sugería esto, y otro aquello.
+ Uno sugería esto, y otro aquello.
 
 ## 1 Reyes 22:21
 
@@ -106,20 +106,20 @@ Entonces un espíritu se acercó al Señor y dijo: ‘Yo lo induciré.’
 ## 1 Reyes 22:22
 
 ‘¿Cómo?’ preguntó el Señor.  
-‘Siendo un espíritu mentiroso en la boca de todos sus profetas,’ dijo.  
-El Señor dijo: ‘Tendrás éxito en inducirlo. Ve y hazlo.’
+ ‘Siendo un espíritu mentiroso en la boca de todos sus profetas,’ dijo.  
+ El Señor dijo: ‘Tendrás éxito en inducirlo. Ve y hazlo.’
 
 ## 1 Reyes 22:23
 
 Así que ahora el Señor ha puesto un espíritu mentiroso en la boca de todos estos profetas tuyos.  
-El Señor ha decretado desastre para ti.”
+ El Señor ha decretado desastre para ti.”
 
 ---
 
 ## 1 Reyes 22:24
 
 Entonces Sedequías hijo de Quenaana se acercó a Micaías y lo golpeó en la mejilla.  
-Dijo: “¿Por dónde se fue el espíritu del Señor de mí para hablarte a ti?”
+ Dijo: “¿Por dónde se fue el espíritu del Señor de mí para hablarte a ti?”
 
 ## 1 Reyes 22:25
 
@@ -136,7 +136,7 @@ y di: ‘Así dice el rey: Pon a este hombre en prisión y dale solo pan y agua 
 ## 1 Reyes 22:28
 
 Pero Micaías declaró: “Si alguna vez regresas sano y salvo, entonces el Señor no ha hablado por medio de mí.”  
-Y añadió: “¡Tomen nota, todos ustedes!”
+ Y añadió: “¡Tomen nota, todos ustedes!”
 
 ---
 
@@ -147,7 +147,7 @@ Por lo tanto, el rey de Israel y Josafat, rey de Judá, procedieron a Ramot de G
 ## 1 Reyes 22:30
 
 El rey de Israel dijo a Josafat: “Me disfrazaré cuando entre en batalla, pero tú lleva tus ropas reales.”  
-Así que el rey de Israel se disfrazó y entró en batalla.
+ Así que el rey de Israel se disfrazó y entró en batalla.
 
 ## 1 Reyes 22:31
 
@@ -166,12 +166,12 @@ Cuando los comandantes de los carros vieron que no era el rey de Israel, se apar
 ## 1 Reyes 22:34
 
 Pero alguien disparó su arco al azar y alcanzó al rey de Israel entre las junturas de su armadura.  
-Él dijo al conductor de su carro: “Da la vuelta y sácame de la batalla, porque estoy herido.”
+ Él dijo al conductor de su carro: “Da la vuelta y sácame de la batalla, porque estoy herido.”
 
 ## 1 Reyes 22:35
 
 La batalla arreciaba ese día, y el rey fue sostenido en su carro frente a los arameos.  
-Pero la sangre de su herida corría al suelo del carro, y esa tarde murió.
+ Pero la sangre de su herida corría al suelo del carro, y esa tarde murió.
 
 ## 1 Reyes 22:36
 
@@ -189,7 +189,7 @@ Lavaron el carro en un estanque en Samaria, donde se bañaban las prostitutas, y
 
 ## 1 Reyes 22:39
 
-Ahora el resto de los actos de Acab, y todo lo que hizo—el palacio de marfil que construyó y las ciudades que fortificó—¿no están escritos en el Libro de las Crónicas de los Reyes de Israel?
+Ahora el resto de los actos de Acab, y todo lo que hizo —el palacio de marfil que construyó y las ciudades que fortificó— ¿no están escritos en el Libro de las Crónicas de los Reyes de Israel?
 
 ## 1 Reyes 22:40
 

@@ -121,7 +121,7 @@ En el pórtico de la puerta había dos mesas a cada lado, usadas para el sacrifi
 En el lado exterior, al subir a la entrada de la puerta norte, había dos mesas, y en el otro lado del pórtico de la puerta había dos mesas.
 
 ## Ezequiel 40:41
-Así que había cuatro mesas a un lado de la puerta y cuatro al otro—ocho mesas en total—en las que se sacrificaban las ofrendas.
+Así que había cuatro mesas a un lado de la puerta y cuatro al otro —ocho mesas en total— en las que se sacrificaban las ofrendas.
 
 ## Ezequiel 40:42
 También había cuatro mesas de piedra labrada para las ofrendas quemadas, cada una de un codo y medio de largo, un codo y medio de ancho, y un codo de alto. En ellas se colocaban los utensilios para preparar las ofrendas quemadas y los otros sacrificios.

@@ -70,7 +70,7 @@ Porque en lo más profundo, me deleito en la ley de Dios;
 pero veo otra ley en acción en mí, librando guerra contra la ley de mi mente y haciéndome prisionero de la ley del pecado que actúa dentro de mi cuerpo.
 
 ## Romanos 7:24
-¡Qué persona tan atribulada soy! ¿Quién me rescatará de este cuerpo que está sujeto a la muerte?
+¡Qué persona tan miserable soy! ¿Quién me rescatará de este cuerpo que está sujeto a la muerte?
 
 ## Romanos 7:25
-¡Gracias a Dios, que me libra por medio de Jesucristo nuestro Señor! Así que, yo mismo en mi mente soy esclavo de la ley de Dios, pero en mi carne soy esclavo de la ley del pecado.
+¡Gracias a Dios, por medio de Jesucristo nuestro Señor! Así que, yo mismo en mi mente soy esclavo de la ley de Dios, pero en mi carne soy esclavo de la ley del pecado.

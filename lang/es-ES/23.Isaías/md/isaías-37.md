@@ -34,7 +34,7 @@ Ahora Senaquerib oyó acerca de Tirhakah, rey de Cus, “Ha salido para luchar c
 Seguramente habéis oído lo que los reyes de Asiria han hecho a todas las tierras, destruyéndolas completamente. ¿Serás tú librado?
 
 ## Isaías 37:12
-¿Acaso los dioses de las naciones que mis antepasados destruyeron los libraron—Gozán, Harán, Rezef, y la gente de Edén que estaba en Telasar?
+¿Acaso los dioses de las naciones que mis antepasados destruyeron los libraron —Gozán, Harán, Rezef, y la gente de Edén que estaba en Telasar—?
 
 ## Isaías 37:13
 ¿Dónde está el rey de Hamat, el rey de Arpad, o los reyes de la ciudad de Sefarvaim, Hena e Ivvah?’”

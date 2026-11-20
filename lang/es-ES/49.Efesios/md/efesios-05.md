@@ -18,7 +18,7 @@ ni debe haber obscenidades, ni conversaciones necias, ni chistes groseros, que e
 
 ## Efesios 5:5
 
-Porque de esto podéis estar seguros: ningún inmoral, impuro o avaro—tal persona es idólatra—tiene herencia en el reino de Cristo y de Dios.
+Porque de esto podéis estar seguros: ningún inmoral, impuro o avaro —tal persona es idólatra— tiene herencia en el reino de Cristo y de Dios.
 
 ## Efesios 5:6
 
@@ -56,17 +56,17 @@ Pero todo lo que es expuesto por la luz se hace visible, porque todo lo que es i
 
 Por eso se dice:
 
-> “Despiértate, tú que duermes,  
-> y levántate de los muertos,  
-> y la luz de Cristo brillará sobre ti.”
+>  “Despiértate, tú que duermes,  
+>  y levántate de los muertos,  
+>  y la luz de Cristo brillará sobre ti.”
 
 ## Efesios 5:15
 
-Tened mucho cuidado, entonces, de cómo vivís—actuando sabiamente,
+Tened mucho cuidado, entonces, de cómo vivís —actuando sabiamente,—
 
 ## Efesios 5:16
 
-aprovechando al máximo cada oportunidad, porque los tiempos son difíciles.
+aprovechando al máximo cada oportunidad, porque los tiempos son malos.
 
 ## Efesios 5:17
 
@@ -94,7 +94,7 @@ Esposas, someteos a vuestros propios maridos, como al Señor.
 
 ## Efesios 5:23
 
-Porque el marido es el líder de la esposa así como Cristo es el líder de la iglesia, su cuerpo, del cual Él es el Salvador.
+Porque el marido es la cabeza de la esposa así como Cristo es la cabeza de la iglesia, su cuerpo, del cual Él es el Salvador.
 
 ## Efesios 5:24
 
@@ -130,7 +130,7 @@ porque somos partes de Su cuerpo.
 
 ## Efesios 5:32
 
-Este es un misterio profundo—pero me refiero a Cristo y a la iglesia.
+Este es un misterio profundo —pero me refiero a Cristo y a la iglesia—.
 
 ## Efesios 5:33
 

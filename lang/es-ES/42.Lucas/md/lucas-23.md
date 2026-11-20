@@ -126,8 +126,8 @@ Porque llegará el tiempo en que diréis: ‘Benditas las estériles, los vientr
 
 En ese momento,
 
-> llamarán a las montañas, ‘¡Caed sobre nosotros!’
-> y a las colinas, ‘¡Cubridnos!’
+>  llamarán a las montañas, ‘¡Caed sobre nosotros!’
+>  y a las colinas, ‘¡Cubridnos!’
 
 ## Lucas 23:31
 

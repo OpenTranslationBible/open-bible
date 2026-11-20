@@ -38,7 +38,7 @@ Dios se dirigió a Noé y a sus hijos que estaban con él, diciendo,
 
 ## Génesis 9:10
 
-y con toda criatura viviente que está con vosotros: las aves, el ganado y todos los animales salvajes, todos los que salieron del arca con vosotros—toda criatura viviente en la tierra.
+y con toda criatura viviente que está con vosotros: las aves, el ganado y todos los animales salvajes, todos los que salieron del arca con vosotros —toda criatura viviente en la tierra—.
 
 ## Génesis 9:11
 

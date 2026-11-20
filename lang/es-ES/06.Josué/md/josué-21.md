@@ -54,7 +54,7 @@ Sin embargo, los campos y aldeas alrededor de la ciudad habían sido dados a Cal
 
 ## Josué 21:13
 
-Así que dieron la ciudad de Hebrón a los descendientes de Aarón. (una ciudad de refugio para quien matara a alguien involuntariamente), también dieron a los descendientes de Aarón las ciudades de Libna,
+Así que dieron la ciudad de Hebrón a los descendientes de Aarón (una ciudad de refugio para quien matara a alguien involuntariamente); también dieron a los descendientes de Aarón las ciudades de Libna,
 
 ## Josué 21:14
 
@@ -66,7 +66,7 @@ Holón y Debir,
 
 ## Josué 21:16
 
-Ain, Juta y Bet-semes, junto con sus pastizales—nueve ciudades de estas dos tribus.
+Ain, Juta y Bet-semes, junto con sus pastizales —nueve ciudades de estas dos tribus—.
 
 ## Josué 21:17
 
@@ -74,7 +74,7 @@ De la tribu de Benjamín, dieron Gabaón, Gueba,
 
 ## Josué 21:18
 
-Anatot y Almón, junto con sus pastizales—cuatro ciudades.
+Anatot y Almón, junto con sus pastizales —cuatro ciudades—.
 
 ## Josué 21:19
 
@@ -90,7 +90,7 @@ En la región montañosa de Efraín, les dieron Siquem (una ciudad de refugio pa
 
 ## Josué 21:22
 
-Kibzaim y Bet-horón, con sus pastizales—cuatro ciudades.
+Kibzaim y Bet-horón, con sus pastizales —cuatro ciudades—.
 
 ## Josué 21:23
 
@@ -98,11 +98,11 @@ De la tribu de Dan, les dieron Elteque, Guibbetón,
 
 ## Josué 21:24
 
-Ajalón y Gat-rimón, con sus pastizales—cuatro ciudades.
+Ajalón y Gat-rimón, con sus pastizales —cuatro ciudades—.
 
 ## Josué 21:25
 
-De la mitad de la tribu de Manasés, recibieron Taanac y Gat-rimón, con sus pastizales—dos ciudades.
+De la mitad de la tribu de Manasés, recibieron Taanac y Gat-rimón, con sus pastizales —dos ciudades—.
 
 ## Josué 21:26
 
@@ -110,7 +110,7 @@ En total, estas diez ciudades y sus pastizales fueron dadas a los clanes coatita
 
 ## Josué 21:27
 
-Los clanes gersonitas de los levitas recibieron: de la media tribu de Manasés, Golán en Basán (una ciudad de refugio para quien matara a alguien involuntariamente) y Be Eshterá, con sus pastizales—dos ciudades;
+Los clanes gersonitas de los levitas recibieron: de la media tribu de Manasés, Golán en Basán (una ciudad de refugio para quien matara a alguien involuntariamente) y Be Eshterá, con sus pastizales —dos ciudades—;
 
 ## Josué 21:28
 
@@ -118,7 +118,7 @@ De la tribu de Isacar, les dieron Quisión, Daberat,
 
 ## Josué 21:29
 
-Jarmut y En-gannim, con sus pastizales—cuatro ciudades;
+Jarmut y En-gannim, con sus pastizales —cuatro ciudades—;
 
 ## Josué 21:30
 
@@ -126,11 +126,11 @@ De la tribu de Aser, les dieron Misal, Abdón,
 
 ## Josué 21:31
 
-Helcat y Rehob, con sus pastizales—cuatro ciudades;
+Helcat y Rehob, con sus pastizales —cuatro ciudades—;
 
 ## Josué 21:32
 
-De la tribu de Neftalí, recibieron Cedes en Galilea (una ciudad de refugio para quien matara a alguien involuntariamente), Hamot-dor y Cartán, con sus pastizales—tres ciudades.
+De la tribu de Neftalí, recibieron Cedes en Galilea (una ciudad de refugio para quien matara a alguien involuntariamente), Hamot-dor y Cartán, con sus pastizales —tres ciudades—.
 
 ## Josué 21:33
 
@@ -144,7 +144,7 @@ Los clanes meraritas, el resto de los levitas, recibieron: de la tribu de Zabul�
 
 ## Josué 21:35
 
-Dimná y Nahalal, con sus pastizales—cuatro ciudades;
+Dimná y Nahalal, con sus pastizales —cuatro ciudades—;
 
 ## Josué 21:36
 
@@ -152,7 +152,7 @@ De la tribu de Rubén, les dieron Bézer, Jahaza,
 
 ## Josué 21:37
 
-Cademot y Mefaat, con sus pastizales—cuatro ciudades;
+Cademot y Mefaat, con sus pastizales —cuatro ciudades—;
 
 ## Josué 21:38
 
@@ -160,7 +160,7 @@ De la tribu de Gad, recibieron Ramot en Galaad (una ciudad de refugio para quien
 
 ## Josué 21:39
 
-Hesbón y Jazer, con sus pastizales—cuatro ciudades en total.
+Hesbón y Jazer, con sus pastizales —cuatro ciudades en total—.
 
 ## Josué 21:40
 

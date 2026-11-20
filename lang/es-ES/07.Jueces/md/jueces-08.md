@@ -70,7 +70,7 @@ Tomó a los ancianos de la ciudad y castigó a los hombres de Sucot con espinas 
 
 ## Jueces 8:17
 
-También derribó la torre de Penuel y trató con los hombres de la ciudad.
+También derribó la torre de Penuel y mató a los hombres de la ciudad.
 
 ## Jueces 8:18
 

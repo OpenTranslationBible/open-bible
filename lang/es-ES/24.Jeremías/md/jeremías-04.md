@@ -91,4 +91,4 @@ Al sonido de jinetes y arqueros cada ciudad huye; se van a los matorrales y sube
 Y tú, devastada, ¿qué harás? Aunque te vistas de escarlata, aunque te adornes con joyas de oro, aunque resaltes tus ojos con maquillaje, en vano te haces hermosa. Tus amantes te desprecian; buscan tu vida.
 
 ## Jeremías 4:31
-Oigo un grito como de mujer en trabajo de parto, un gemido como de una que da a luz por primera vez—el grito de la Hija de Sión jadeando, extendiendo sus manos y diciendo, “¡Ay! Estoy desfalleciendo; mi vida está entregada a asesinos.”
+Oigo un grito como de mujer en trabajo de parto, un gemido como de una que da a luz por primera vez —el grito de la Hija de Sión jadeando, extendiendo sus manos y diciendo, “¡Ay! Estoy desfalleciendo; mi vida está entregada a asesinos—.”

@@ -18,7 +18,7 @@ Cuando Cristo, vuestra vida, se manifieste, entonces vosotros también seréis m
 
 ## Colosenses 3:5
 
-Por tanto, considerad los miembros de vuestra naturaleza terrenal como muertos a la inmoralidad sexual, la impureza, las pasiones, los malos deseos y la avaricia, que es idolatría.
+Por tanto, haced morir los miembros de vuestra naturaleza terrenal: la inmoralidad sexual, la impureza, las pasiones, los malos deseos y la avaricia, que es idolatría.
 
 ## Colosenses 3:6
 

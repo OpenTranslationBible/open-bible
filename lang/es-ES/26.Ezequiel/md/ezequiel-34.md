@@ -62,7 +62,7 @@ Yo mismo cuidaré de mis ovejas y las haré acostarse, dice el Señor Soberano.
 
 ## Ezequiel 34:16
 
-Buscaré a las perdidas y haré volver a las descarriadas. Vendaré a las heridas y fortaleceré a las débiles, pero trataré con las gordas y las fuertes. Pastorearé el rebaño con justicia.
+Buscaré a las perdidas y haré volver a las descarriadas. Vendaré a las heridas y fortaleceré a las débiles, pero destruiré a las gordas y a las fuertes. Pastorearé el rebaño con justicia.
 
 ## Ezequiel 34:17
 

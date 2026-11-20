@@ -198,7 +198,7 @@ y le dijeron: “Tus siervos han contado a los soldados bajo nuestro mando, y no
 
 ## Números 31:50
 
-Así que hemos traído como ofrenda al Señor lo que cada hombre encontró, artículos de oro—brazaletes, pulseras, anillos de sello, pendientes y collares—para hacer expiación por nosotros mismos ante el Señor.”
+Así que hemos traído como ofrenda al Señor lo que cada hombre encontró, artículos de oro —brazaletes, pulseras, anillos de sello, pendientes y collares— para hacer expiación por nosotros mismos ante el Señor.”
 
 ## Números 31:51
 

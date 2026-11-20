@@ -116,7 +116,7 @@ No entendieron que les hablaba acerca de su Padre.
 
 ## Juan 8:28
 
-Entonces Jesús dijo, “Cuando el Padre haya levantado al Hijo del Hombre, entonces sabréis y entenderéis que yo soy Él, y que no hago nada por mi cuenta, sino que hablo sólo lo que el Padre me ha enseñado.
+Entonces Jesús dijo, “Cuando hayáis levantado al Hijo del Hombre, entonces sabréis y entenderéis que yo soy Él, y que no hago nada por mi cuenta, sino que hablo sólo lo que el Padre me ha enseñado.
 
 ## Juan 8:29
 
@@ -210,7 +210,7 @@ Los judíos le respondieron, “¿No tenemos razón al decir que eres un samarit
 
 ## Juan 8:50
 
-Pero no busco mi propia gloria; porque hay uno que sí la busca, y Él es el juez.
+Pero no busco mi propia gloria; hay uno que sí la busca, y Él es el juez.
 
 ## Juan 8:51
 

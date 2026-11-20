@@ -32,8 +32,8 @@ El primer ser viviente era como un león, el segundo era como un becerro, el ter
 
 Cada uno de los cuatro seres vivientes tenía seis alas y estaban llenos de ojos alrededor y por dentro; y día y noche nunca cesan de decir:
 
-> “Santo, santo, santo es el Señor Dios Todopoderoso,
-> el que era, y es, y ha de venir.”
+>  “Santo, santo, santo es el Señor Dios Todopoderoso,
+>  el que era, y es, y ha de venir.”
 
 ## Apocalipsis 4:9
 
@@ -46,6 +46,6 @@ los veinticuatro ancianos se postran delante del que está sentado en el trono y
 ## Apocalipsis 4:11
 
 > “Digno eres, Señor y Dios nuestro,
-> de recibir la gloria, el honor y el poder,
-> porque tú creaste todas las cosas,
-> y por tu voluntad existen y fueron creadas.”
+>  de recibir la gloria, el honor y el poder,
+>  porque tú creaste todas las cosas,
+>  y por tu voluntad existen y fueron creadas.”

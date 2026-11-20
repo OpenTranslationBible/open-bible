@@ -11,12 +11,12 @@ Llevaron el arca al templo de Dagón y la colocaron junto a Dagón.
 ## 1 Samuel 5:3
 
 Cuando el pueblo de Asdod se levantó temprano al día siguiente, allí estaba Dagón, caído rostro en tierra delante del arca del Señor.  
-Tomaron a Dagón y lo volvieron a colocar en su lugar.
+ Tomaron a Dagón y lo volvieron a colocar en su lugar.
 
 ## 1 Samuel 5:4
 
 Pero a la mañana siguiente, cuando se levantaron temprano, Dagón había caído de nuevo, rostro en tierra delante del arca del Señor.  
-Su cabeza y ambas manos estaban rotas y yacían en el umbral; solo su torso permanecía.
+ Su cabeza y ambas manos estaban rotas y yacían en el umbral; solo su torso permanecía.
 
 ## 1 Samuel 5:5
 
@@ -35,8 +35,8 @@ Cuando el pueblo de Asdod vio lo que estaba sucediendo, dijeron: “El arca del 
 ## 1 Samuel 5:8
 
 Entonces convocaron a todos los gobernantes de los filisteos y preguntaron: “¿Qué haremos con el arca del Dios de Israel?”  
-Ellos respondieron: “Que sea trasladada a Gat.”  
-Así que trasladaron allí el arca del Dios de Israel.
+ Ellos respondieron: “Que sea trasladada a Gat.”  
+ Así que trasladaron allí el arca del Dios de Israel.
 
 ## 1 Samuel 5:9
 
@@ -45,12 +45,12 @@ Pero después de trasladarla, la mano del Señor también estaba contra esa ciud
 ## 1 Samuel 5:10
 
 Entonces enviaron el arca de Dios a Ecrón.  
-Pero cuando el arca llegó a Ecrón, la gente clamó: “¡Han traído el arca del Dios de Israel a nosotros para matarnos a nosotros y a nuestro pueblo!”
+ Pero cuando el arca llegó a Ecrón, la gente clamó: “¡Han traído el arca del Dios de Israel a nosotros para matarnos a nosotros y a nuestro pueblo!”
 
 ## 1 Samuel 5:11
 
 Entonces convocaron a todos los gobernantes de los filisteos y dijeron: “Envía el arca del Dios de Israel lejos. Que regrese a su propio lugar, para que no nos mate a nosotros y a nuestro pueblo.”  
-Porque la muerte y el pánico habían llenado la ciudad; la mano de Dios era muy pesada allí.
+ Porque la muerte y el pánico habían llenado la ciudad; la mano de Dios era muy pesada allí.
 
 ## 1 Samuel 5:12
 

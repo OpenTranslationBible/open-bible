@@ -54,7 +54,7 @@ El pobre y el tirano comparten esto: el Señor ilumina los ojos de ambos.
 
 ## Proverbios 29:14
 
-Cuando un rey juzga a los pobres con equidad, su reinado se establece firmemente.
+Cuando un rey juzga a los pobres con equidad, su reinado se establece firmemente para siempre.
 
 ---
 

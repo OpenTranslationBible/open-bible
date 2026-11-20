@@ -8,49 +8,46 @@ En el undécimo año, durante el tercer mes, el primer día, me vino el mensaje 
 
 “Hijo de hombre, di a Faraón, rey de Egipto, y a sus multitudes:
 
-> ‘¿Quién puede compararse contigo en tu grandeza?
+>  ‘¿Quién puede compararse contigo en tu grandeza?
 
 ## Ezequiel 31:3
 
 > He aquí, Asiria era como un cedro en el Líbano,
-> con hermosas ramas que daban sombra al bosque,
-> y se alzaba alto,
-> su copa entre las nubes.
+>  con hermosas ramas que daban sombra al bosque,
+>  y se alzaba alto,
+>  su copa entre las nubes.
 
 ## Ezequiel 31:4
 
 > Las aguas lo nutrían, los manantiales profundos lo hicieron crecer alto.
-> Sus corrientes fluían alrededor de su lugar de plantación
-> y enviaban canales a todos los árboles del campo.
+>  Sus corrientes fluían alrededor de su lugar de plantación y enviaban canales a todos los árboles del campo.
 
 ## Ezequiel 31:5
 
 > Así se elevó más alto que todos los árboles del campo;
-> sus ramas se multiplicaron y sus ramas se extendieron largas
-> debido a las abundantes aguas al extenderlas.
+>  sus ramas se multiplicaron y sus ramas se extendieron largas debido a las abundantes aguas al extenderlas.
 
 ## Ezequiel 31:6
 
 > Todas las aves del cielo anidaban en sus ramas,
-> y bajo sus ramas todos los animales del campo daban a luz;
-> todas las grandes naciones habitaban bajo su sombra.
+>  y bajo sus ramas todos los animales del campo daban a luz;
+>  todas las grandes naciones habitaban bajo su sombra.
 
 ## Ezequiel 31:7
 
 > Era magnífico en su grandeza, con sus extensas ramas;
-> porque sus raíces llegaban a aguas abundantes.
+>  porque sus raíces llegaban a aguas abundantes.
 
 ## Ezequiel 31:8
 
 > Los cedros en el jardín de Dios no podían rivalizar con él,
-> ni los enebros igualar sus ramas,
-> ni los plátanos compararse con sus ramas—
-> ningún árbol en el jardín de Dios podía igualar su belleza.
+>  ni los enebros igualar sus ramas,
+>  ni los plátanos compararse con sus ramas —ningún árbol en el jardín de Dios podía igualar su belleza—.
 
 ## Ezequiel 31:9
 
 > Lo hice hermoso con la multitud de sus ramas,
-> y todos los árboles del Edén en el jardín de Dios lo envidiaban.
+>  y todos los árboles del Edén en el jardín de Dios lo envidiaban.
 
 ## Ezequiel 31:10
 

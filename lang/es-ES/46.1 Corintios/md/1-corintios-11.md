@@ -10,7 +10,7 @@ Os alabo por recordarme en todas las cosas y por mantener firmemente las tradici
 
 ## 1 Corintios 11:3
 
-Quiero que entendáis que Cristo es el líder de todo hombre, el hombre es el líder de una mujer, y Dios es el líder de Cristo.
+Quiero que entendáis que Cristo es la cabeza de todo hombre, el hombre es la cabeza de una mujer, y Dios es la cabeza de Cristo.
 
 ## 1 Corintios 11:4
 
@@ -98,7 +98,7 @@ Y después de dar gracias, lo partió y dijo: “Este es Mi cuerpo, que es para 
 
 ## 1 Corintios 11:25
 
-De igual manera, después de la cena, tomó la copa, diciendo: “Esta copa representa el nuevo pacto en Mi sangre; haced esto, cada vez que la bebáis, en memoria de Mí.”
+De igual manera, después de la cena, tomó la copa, diciendo: “Esta copa es el nuevo pacto en Mi sangre; haced esto, cada vez que la bebáis, en memoria de Mí.”
 
 ## 1 Corintios 11:26
 

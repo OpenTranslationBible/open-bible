@@ -49,7 +49,7 @@ Los reuní junto al río que fluye hacia Ahava, y acampamos allí durante tres d
 Así que convoqué a Eliezer, Ariel, Semaías, Elnatán, Jarib, Elnatán, Natán, Zacarías y Mesulam, que eran hombres principales, y a Joiarib y Elnatán, que eran maestros.
 
 ## Esdras 8:17
-Los envié a Iddo, el líder en Casifia, instruyéndoles qué decir a Iddo y a sus compañeros levitas, los servidores del templo en Casifia, para que nos trajeran ministros para la casa de nuestro Dios.
+Los envié a Iddo, el líder en Casifia, instruyéndoles qué decir a Iddo y a sus parientes, los servidores del templo en Casifia, para que nos trajeran ministros para la casa de nuestro Dios.
 
 ## Esdras 8:18
 Porque la mano bondadosa de nuestro Dios estaba sobre nosotros, nos trajeron a Serebías, un hombre de entendimiento, de los descendientes de Mahli, hijo de Leví, hijo de Israel, y a los hijos y hermanos de Serebías, 18 en total;

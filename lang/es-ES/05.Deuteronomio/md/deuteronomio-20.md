@@ -49,7 +49,7 @@ Este es el enfoque que debes tomar con todas las ciudades que están lejos de ti
 Pero en las ciudades de las naciones que el Señor tu Dios te está dando como herencia, no dejarás con vida nada que respire.
 
 ## Deuteronomio 20:17
-Los destruirás completamente—a los hititas, amorreos, cananeos, ferezeos, heveos y jebuseos—como el Señor tu Dios te ha mandado.
+Los destruirás completamente —a los hititas, amorreos, cananeos, ferezeos, heveos y jebuseos— como el Señor tu Dios te ha mandado.
 
 ## Deuteronomio 20:18
 De lo contrario, te enseñarán a seguir todas las prácticas detestables que realizan para sus dioses, y pecarás contra el Señor tu Dios.

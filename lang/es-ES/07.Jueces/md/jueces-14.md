@@ -58,10 +58,10 @@ Pero si no pueden resolverlo, deben darme treinta prendas de lino y treinta muda
 
 Él dijo:
 
-> “Del devorador salió comida,
-> del fuerte salió dulzura.”
+>  “Del devorador salió comida,
+>  del fuerte salió dulzura.”
 
-Durante tres días no pudieron resolver el acertijo.
+ Durante tres días no pudieron resolver el acertijo.
 
 ## Jueces 14:15
 
@@ -79,13 +79,13 @@ Ella lloró durante los siete días del banquete. Al séptimo día, finalmente s
 
 Antes del atardecer del séptimo día, los hombres de la ciudad le dijeron:
 
-> “¿Qué es más dulce que la miel?
-> ¿Qué es más fuerte que un león?”
+>  “¿Qué es más dulce que la miel?
+>  ¿Qué es más fuerte que un león?”
 
-Sansón respondió:
+ Sansón respondió:
 
-> “Si no hubieran arado con mi novilla,
-> no habrían resuelto mi acertijo.”
+>  “Si no hubieran arado con mi novilla,
+>  no habrían resuelto mi acertijo.”
 
 ## Jueces 14:19
 

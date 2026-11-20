@@ -6,7 +6,7 @@ Estos son los reyes de la tierra a quienes los israelitas derrotaron, y cuyo ter
 
 ## Josué 12:2
 
-Sihón, rey de los amorreos, que vivía en Hesbón. Gobernó desde Aroer en el borde del desfiladero del Arnón—desde el medio del desfiladero—y la mitad de Galaad, hasta el río Jaboc, que es la frontera de los amonitas.
+Sihón, rey de los amorreos, que vivía en Hesbón. Gobernó desde Aroer en el borde del desfiladero del Arnón —desde el medio del desfiladero— y la mitad de Galaad, hasta el río Jaboc, que es la frontera de los amonitas.
 
 ## Josué 12:3
 

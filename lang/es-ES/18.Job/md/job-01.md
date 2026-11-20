@@ -34,7 +34,7 @@ El Señor le preguntó a Satanás, “¿De dónde vienes?”
 
 ---
 
-Satanás respondió al Señor, “De recorrer la tierra y de andar por ella.”
+ Satanás respondió al Señor, “De recorrer la tierra y de andar por ella.”
 
 ## Job 1:8
 
@@ -60,7 +60,7 @@ Pero extiende ahora tu mano y toca todo lo que tiene, y seguramente te maldecir�
 
 El Señor dijo a Satanás, “Muy bien, todo lo que tiene está en tu poder, pero no pongas tu mano sobre él mismo.”
 
-Así que Satanás se fue de la presencia del Señor.
+ Así que Satanás se fue de la presencia del Señor.
 
 ---
 
@@ -102,10 +102,10 @@ Ante esto, Job se levantó, rasgó su manto y se rasuró la cabeza. Luego cayó 
 
 Declaró,
 
-> “Desnudo salí del vientre de mi madre,
-> y desnudo volveré allá.
-> El Señor dio, y el Señor ha quitado;
-> bendito sea el nombre del Señor.”
+>  “Desnudo salí del vientre de mi madre,
+>  y desnudo volveré allá.
+>  El Señor dio, y el Señor ha quitado;
+>  bendito sea el nombre del Señor.”
 
 ## Job 1:22
 
